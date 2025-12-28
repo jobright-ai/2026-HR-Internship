@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/690e1e44d046ab6061cfa9f3?utm_campaign=1054&utm_source=git)** | Spring Grove, PA | On Site | Dec 28 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695035cfa2668b7f54532ec1?utm_campaign=1054&utm_source=git)** | Canada | Remote | Dec 27 |
 | **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/69500c5629655e4dd65968c6?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Dec 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/69341aa0a0dde7020e2f451e?utm_campaign=1054&utm_source=git)** | Maple Ridge, British Columbia, Canada | On Site | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/6933f41ba0dde7020e2f35c8?utm_campaign=1054&utm_source=git)** | Jackson, TN | On Site | Dec 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern - West Hartford/Avon/Bristol, CT](https://jobright.ai/jobs/info/6933f3aea0dde7020e2f3439?utm_campaign=1054&utm_source=git)** | West Hartford, CT | On Site | Dec 25 |
 | ↳ | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6933f2eea0dde7020e2f3207?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Dec 25 |
-| ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/6933f34ba0dde7020e2f32c5?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
