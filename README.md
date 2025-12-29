@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c90996983e6768bc555f06?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6934188cf131d96e484697c4?utm_campaign=1054&utm_source=git)** | Marshall, TX | On Site | Dec 29 |
+| **[GenScript](http://www.genscript.com)** | **[HR Intern, Talent Acquisition](https://jobright.ai/jobs/info/68a63923b6a3617d7fa76585?utm_campaign=1054&utm_source=git)** | Piscataway, NJ | On Site | Dec 29 |
+| **[Coinbase](https://www.coinbase.com)** | **[Talent Sourcing Intern](https://jobright.ai/jobs/info/692144b03f782d2f1afd0bf3?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c79ad8db52c07d2884ce45?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Dec 29 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91db095f5211cd2ceef18?utm_campaign=1054&utm_source=git)** | Ruston, LA | On Site | Dec 29 |
+| ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ddc0764507023d1ba494?utm_campaign=1054&utm_source=git)** | Conway, AR | On Site | Dec 29 |
+| ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933e8e3764507023d1ba99c?utm_campaign=1054&utm_source=git)** | Alexandria, LA | On Site | Dec 29 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Dec 29 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Dec 29 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c90996983e6768bc555f06?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 29 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919ccacbcdbf3560c9d72fd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 29 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[Human Resources Intern - Summer 2026, Rhinelander, WI](https://jobright.ai/jobs/info/68e003771852e62f007e6784?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | Dec 29 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Prince George Campus Recruiting - Talent Pool for CPA Opportunities in Audit and Tax, 2026](https://jobright.ai/jobs/info/691878be45fb6f5ead8a57e4?utm_campaign=1054&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Dec 29 |
@@ -100,10 +109,10 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917a28ebcdbf3560c9c9a56?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 28 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Dec 28 |
-| **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Mortgage Intern - Summer 2026](https://jobright.ai/jobs/info/68fa734e67272b29af72f587?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 28 |
+| **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Mortgage Intern - Summer 2026](https://jobright.ai/jobs/info/68fa734e67272b29af72f587?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68896d95aab47a17f6701636?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 28 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Dec 28 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Dec 28 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Dec 28 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Dec 28 |
 | ↳ | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Dec 28 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c8e2fd983e6768bc552e3b?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 28 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Horrocks](http://www.horrocksengineers.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/693347f2a0dde7020e2ec1cd?utm_campaign=1054&utm_source=git)** | Pleasant Grove, UT | On Site | Dec 27 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern (Atlantic Region) - Future Opportunity](https://jobright.ai/jobs/info/68de53a4a125e75c422b3b6a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/69334db9f131d96e48461a2d?utm_campaign=1054&utm_source=git)** | Armonk, NY | On Site | Dec 27 |
-| **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, IT Business Solutions](https://jobright.ai/jobs/info/6933a5b6764507023d1b7a4a?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Dec 27 |
-| **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Human Resources (Dignity Health Sport Park)](https://jobright.ai/jobs/info/6933a72cf131d96e48465872?utm_campaign=1054&utm_source=git)** | Carson, CA | On Site | Dec 27 |
-| **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/68f14a25ef766b3f0fd0b447?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Dec 27 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Dec 27 |
-| **[F. Schumacher & Co.](http://fschumacher.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/691681c9286ccf0a15136c55?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
-| **[DESRI](https://desri.com/)** | **[Intern, Human Capital](https://jobright.ai/jobs/info/68def78744d32141e0c045b2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 27 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern, Summer 2026](https://jobright.ai/jobs/info/69335b7c764507023d1b4bde?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Dec 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | Dec 27 |
-| **[Ahlstrom](http://www.ahlstrom.com)** | **[HR Intern](https://jobright.ai/jobs/info/69193f2abcdbf3560c9d4877?utm_campaign=1054&utm_source=git)** | Mosinee, WI | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
