@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e3586fa28370be26a2479?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68d7555f7a37c712687c86ee?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/6933ddf3764507023d1ba563?utm_campaign=1054&utm_source=git)** | Whitman, MA | On Site | Dec 28 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69171d96370fde633d07d7f1?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 28 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Dec 28 |
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Mortgage Intern - Summer 2026](https://jobright.ai/jobs/info/68fa734e67272b29af72f587?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68896d95aab47a17f6701636?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 28 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Dec 28 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Dec 28 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Dec 28 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Dec 28 |
 | ↳ | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Dec 28 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c8e2fd983e6768bc552e3b?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 28 |
@@ -148,7 +149,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/694ef8ea29655e4dd65890fb?utm_campaign=1054&utm_source=git)** | Montgomery, AL | Hybrid | Dec 26 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Promethean Services (HR) and Learning & Development](https://jobright.ai/jobs/info/692e36f5fa28370be26a25b7?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Dec 26 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Subways & Admin Support - Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/694edf0229655e4dd6586ca7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 26 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e3586fa28370be26a2479?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Dec 26 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Staff Intern - Labor & Employee Relations](https://jobright.ai/jobs/info/694edb7fa2668b7f545220c3?utm_campaign=1054&utm_source=git)** | Edison, NJ, US | Hybrid | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694ecc9829655e4dd6586718?utm_campaign=1054&utm_source=git)** | Louisville, KY | Remote | Dec 26 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/694ebcc8a2668b7f54520b8d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
