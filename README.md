@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UES](https://www.teamues.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/693758eea0dde7020e3019ea?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Dec 30 |
+| **[Robinhood](https://www.robinhood.com)** | **[PeopleX Partner Intern](https://jobright.ai/jobs/info/693748a8aabec14a727c5f9d?utm_campaign=1054&utm_source=git)** | Menlo Park, CA | On Site | Dec 30 |
+| **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/6948d32fd1953b5d11c1e8f6?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Dec 30 |
+| **[Take-Two Interactive](http://www.take2games.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/693798731c1c2161c13f625d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 30 |
+| **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/693f752c50bbaf765051b42c?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Dec 30 |
+| **[Rocket Companies](https://www.rocketcompanies.com/)** | **[Team Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6953a6675a2fd11f2a0ef475?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Dec 30 |
+| **[International Institute of New England](https://iine.org/)** | **[Employment Services Intern (IINE Lowell)](https://jobright.ai/jobs/info/6953a58a5bb7de448ef6b821?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Dec 30 |
 | **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[People Ops & Onboarding Intern](https://jobright.ai/jobs/info/69538ecd5bb7de448ef69736?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 30 |
 | **[JD.COM](http://corporate.jd.com)** | **[HRBP Intern Mandarin](https://jobright.ai/jobs/info/69537f4a5bb7de448ef69193?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 29 |
 | ↳ | **[HRBP Intern](https://jobright.ai/jobs/info/695377e15bb7de448ef68d6e?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Dec 29 |
@@ -78,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952f1b2f1f8465b79ea453a?utm_campaign=1054&utm_source=git)** | District 6 HQ400 East William Street | On Site | Dec 29 |
 | ↳ | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952eeb65bb7de448ef608d5?utm_campaign=1054&utm_source=git)** | District 6 HQ400 East William Street | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Wealth Colleague Experience Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952e6445bb7de448ef5faf4?utm_campaign=1054&utm_source=git)** | TD Centre - South - 79 Wellington Street West, Toronto, Ontario | Hybrid | Dec 29 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6952e2d7f1f8465b79ea29ef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 29 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6952da275bb7de448ef5ebef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 29 |
 | **[Covenant HealthCare](https://www.covenanthealthcare.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6952ceaff1f8465b79ea1870?utm_campaign=1054&utm_source=git)** | Saginaw, MI | On Site | Dec 29 |
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/6952ce655bb7de448ef5e15f?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Dec 29 |
 | **[Kidwell](https://www.kidwellinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6952cdd8f1f8465b79ea180e?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Dec 29 |
@@ -97,9 +104,9 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c79ad8db52c07d2884ce45?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Dec 29 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91db095f5211cd2ceef18?utm_campaign=1054&utm_source=git)** | Ruston, LA | On Site | Dec 29 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Dec 29 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c481c4e471ef3ce16d6d5f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 29 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Dec 29 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c90996983e6768bc555f06?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 29 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919ccacbcdbf3560c9d72fd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 29 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d7917279451d6a0382a5?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 29 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[Human Resources Intern - Summer 2026, Rhinelander, WI](https://jobright.ai/jobs/info/68e003771852e62f007e6784?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | Dec 29 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Prince George Campus Recruiting - Talent Pool for CPA Opportunities in Audit and Tax, 2026](https://jobright.ai/jobs/info/691878be45fb6f5ead8a57e4?utm_campaign=1054&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Colleague Capability, Enablement & Experience Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69524f9c5bb7de448ef57bee?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -144,17 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Dec 28 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Mortgage Intern - Summer 2026](https://jobright.ai/jobs/info/68fa734e67272b29af72f587?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68896d95aab47a17f6701636?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 28 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Dec 28 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Dec 28 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Dec 28 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Dec 28 |
 | ↳ | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Dec 28 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c8e2fd983e6768bc552e3b?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 28 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933ddc0764507023d1ba493?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Dec 28 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/69340d99764507023d1bb9a3?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Dec 28 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Human Resources Intern/Co-Op](https://jobright.ai/jobs/info/6904876dd64a22104aa9a1fb?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd3ab8e23def7af55b7063?utm_campaign=1054&utm_source=git)** | Fuquay-Varina, NC | On Site | Dec 28 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691647606f36db06ef05488e?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Dec 28 |
-| ↳ | **[Summer 2026 Management Trainee Intern, Livonia](https://jobright.ai/jobs/info/6933cc2af131d96e48467308?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Dec 28 |
-| **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69344753a0dde7020e2f4f5e?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
