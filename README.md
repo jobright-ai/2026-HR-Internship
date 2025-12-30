@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/694b26311224705e900248e3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 29 |
+| **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[2026 Summer Internship - Compensation/Total Rewards](https://jobright.ai/jobs/info/695304b2935649778e20cabf?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 29 |
+| **[Nelson Labs](http://www.nelsonlabs.com)** | **[Human Resources - Internship](https://jobright.ai/jobs/info/693769e11c1c2161c13f4181?utm_campaign=1054&utm_source=git)** | SLC Metro Area | On Site | Dec 29 |
+| **[TD](https://www.td.com)** | **[Wealth Colleague Experience Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952f5ecf1f8465b79ea4eb4?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[State of Ohio](http://ohio.gov/)** | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952f4b2f1f8465b79ea4c21?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Delaware County | On Site | Dec 29 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[KD Human Resources Spring Intern (2026 Program)](https://jobright.ai/jobs/info/6952f46e935649778e20c109?utm_campaign=1054&utm_source=git)** | Doswell, VA | On Site | Dec 29 |
 | **[State of Ohio](http://ohio.gov/)** | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952f2a8935649778e20bdf6?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Delaware County-Delaware | On Site | Dec 29 |
@@ -64,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952f1b2f1f8465b79ea453a?utm_campaign=1054&utm_source=git)** | District 6 HQ400 East William Street | On Site | Dec 29 |
 | ↳ | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952eeb65bb7de448ef608d5?utm_campaign=1054&utm_source=git)** | District 6 HQ400 East William Street | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Wealth Colleague Experience Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952e6445bb7de448ef5faf4?utm_campaign=1054&utm_source=git)** | TD Centre - South - 79 Wellington Street West, Toronto, Ontario | Hybrid | Dec 29 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6952e2d7f1f8465b79ea29ef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 29 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6952da275bb7de448ef5ebef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 29 |
 | **[Covenant HealthCare](https://www.covenanthealthcare.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6952ceaff1f8465b79ea1870?utm_campaign=1054&utm_source=git)** | Saginaw, MI | On Site | Dec 29 |
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/6952ce655bb7de448ef5e15f?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Dec 29 |
 | **[Kidwell](https://www.kidwellinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6952cdd8f1f8465b79ea180e?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Dec 29 |
@@ -110,7 +114,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/6952144ace13cd105659a298?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Québec | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[Accident Benefit Claims Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69521393ce13cd105659a26a?utm_campaign=1054&utm_source=git)** | Burlington, Ontario | Hybrid | Dec 28 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e3586fa28370be26a2479?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Dec 28 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69529d40f1f8465b79e9e96c?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68d7555f7a37c712687c86ee?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/6933ddf3764507023d1ba563?utm_campaign=1054&utm_source=git)** | Whitman, MA | On Site | Dec 28 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69171d96370fde633d07d7f1?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68df31b1fe896042b0b7798b?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Dec 28 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Human Resources Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e0491e1852e62f007e9c46?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b52ae11ade4306aa6409f6?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Dec 28 |
-| **[iCapital](https://icapital.com)** | **[Human Resources - Summer 2026 Intern](https://jobright.ai/jobs/info/6917a435bcdbf3560c9c9b81?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 28 |
-| **[Phoenix Industrial, Inc., a MasTec Company](https://phxind.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68fabcf6b2c86843bf2118ea?utm_campaign=1054&utm_source=git)** | Louisville, CO | On Site | Dec 28 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d76431e5763f188e4072?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
