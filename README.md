@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Fuji Seal](https://www.fujiseal.com/en/)** | **[Human Resources Intern (38674)](https://jobright.ai/jobs/info/69393dbc48a8ce22990d57d1?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Dec 31 |
+| **[IDEMIA Public Security](https://na.idemia.com/)** | **[Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/694f2a2529655e4dd6589a50?utm_campaign=1054&utm_source=git)** | Brentwood, TN | Hybrid | Dec 31 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Summer 2026, Fall 2026, and Winter 2027 Start](https://jobright.ai/jobs/info/691bf187bcdbf3560c9e433a?utm_campaign=1054&utm_source=git)** | London, CA | On Site | Dec 31 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Eau Claire](https://jobright.ai/jobs/info/695509b2f1f8465b79ec2c5c?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Dec 31 |
+| **[IDEMIA Public Security](https://na.idemia.com/)** | **[Human Resources Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6938345ea0dde7020e30cb20?utm_campaign=1054&utm_source=git)** | Bedford, MA | Hybrid | Dec 31 |
+| **[AMETEK](http://www.ametek.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68cd1fdde23def7af55b5a78?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Dec 31 |
 | **[OPmobility](https://www.opmobility.com)** | **[HR INTERN](https://jobright.ai/jobs/info/692fc80d4c474121999e274b?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 31 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 30 |
 | **[Frank Gay Commercial Services](https://www.frankgayservices.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6954b3c75bb7de448ef7bef9?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Prince George Campus Recruiting - Talent Pool for CPA Opportunities in Audit and Tax, 2026](https://jobright.ai/jobs/info/691878be45fb6f5ead8a57e4?utm_campaign=1054&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Colleague Capability, Enablement & Experience Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69524f9c5bb7de448ef57bee?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Accident Benefit Claims Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952433f935649778e200eef?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Risk Management - Communications and Colleague Engagement Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69524303935649778e200ebc?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 29 |
-| **[TD](https://www.td.com)** | **[Accident Benefits Intern/Co-op (SUMMER 2025)](https://jobright.ai/jobs/info/695232c25bb7de448ef55aad?utm_campaign=1054&utm_source=git)** | Calgary, Alberta | On Site | Dec 28 |
-| ↳ | **[Accident Benefits Intern/Co-op (SUMMER 2025)](https://jobright.ai/jobs/info/69523236f1f8465b79e993ef?utm_campaign=1054&utm_source=git)** | Markham, Ontario | On Site | Dec 28 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Human Resources Intern - Western Canada](https://jobright.ai/jobs/info/69523213239491102de0f0ae?utm_campaign=1054&utm_source=git)** | Canada, Alberta, Calgary | On Site | Dec 28 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Colleague Capability, Enablement & Experience Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/695222bdce13cd105659a708?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
