@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 30 |
 | **[Frank Gay Commercial Services](https://www.frankgayservices.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6954b3c75bb7de448ef7bef9?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 30 |
 | **[Benesch](https://www.benesch.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/69548d2c5bb7de448ef786f1?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
 | **[ECCO](https://enter.ecco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6954870faa05c26e7aaf0657?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Dec 30 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Graduate Intern: People Operations Spring 2026](https://jobright.ai/jobs/info/69543db4f1f8465b79eb5a72?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 30 |
 | **[Steel Technologies](http://www.steeltechnologies.com)** | **[HR Intern](https://jobright.ai/jobs/info/695435eef1f8465b79eb562e?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Dec 30 |
 | **[Kairoi Residential](https://www.kairoi.com/)** | **[Training and Talent Development Intern](https://jobright.ai/jobs/info/695430b15bb7de448ef71c57?utm_campaign=1054&utm_source=git)** | San Antonio,TX,US | On Site | Dec 30 |
-| **[Trendcend Media](https://www.trendcendmedia.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69542d01aa05c26e7aae9fef?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Dec 30 |
 | **[WM](https://www.wm.com/)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/69542ca2f1f8465b79eb5022?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 30 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (EQUAL EMPLOYMENT OPPORTUNITY)](https://jobright.ai/jobs/info/694b41621224705e90026c97?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Dec 30 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Employee Engagement & Talent Management Intern](https://jobright.ai/jobs/info/692e48ae4c474121999d8048?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
@@ -91,8 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Customer Retention Internship - Summer 2026](https://jobright.ai/jobs/info/6924eae1c0cefa13343e4190?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Dec 30 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69379c3eaabec14a727c9c3c?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68aaae74d627244576e3e2e3?utm_campaign=1054&utm_source=git)** | Franklin, KY | On Site | Dec 30 |
-| **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695401a7f1f8465b79eb2492?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 30 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68c6d72ec96a22563eceff92?utm_campaign=1054&utm_source=git)** | Pendleton, IN | On Site | Dec 30 |
+| ↳ | **[DC HR Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68c6d72ec96a22563eceff92?utm_campaign=1054&utm_source=git)** | Pendleton, IN | On Site | Dec 30 |
 | ↳ | **[DC HR Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/68cbaccbba798c1a501d3c75?utm_campaign=1054&utm_source=git)** | Frankfort, NY | On Site | Dec 30 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Braintree (48513)](https://jobright.ai/jobs/info/68cbb0769e3a822f5d24a798?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Dec 30 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6937676fa0dde7020e302727?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Dec 30 |
@@ -131,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Wealth Colleague Experience Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952e6445bb7de448ef5faf4?utm_campaign=1054&utm_source=git)** | TD Centre - South - 79 Wellington Street West, Toronto, Ontario | Hybrid | Dec 29 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6952da275bb7de448ef5ebef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 29 |
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/6952ce655bb7de448ef5e15f?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Dec 29 |
-| **[Kidwell](https://www.kidwellinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6952cdd8f1f8465b79ea180e?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Dec 29 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Retail HR Intern](https://jobright.ai/jobs/info/6952c5f8f1f8465b79ea1449?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Dec 29 |
 | **[Wakefern Food Corp.](http://www2.wakefern.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f7573fa28370be26aa5d5?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | Dec 29 |
 | **[BioSpace](http://www.biospace.com/)** | **[Talent Intelligence Intern](https://jobright.ai/jobs/info/6952c3e3f1f8465b79ea1369?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Dec 29 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Accident Benefits Intern/Co-op (SUMMER 2025)](https://jobright.ai/jobs/info/695232c25bb7de448ef55aad?utm_campaign=1054&utm_source=git)** | Calgary, Alberta | On Site | Dec 28 |
 | ↳ | **[Accident Benefits Intern/Co-op (SUMMER 2025)](https://jobright.ai/jobs/info/69523236f1f8465b79e993ef?utm_campaign=1054&utm_source=git)** | Markham, Ontario | On Site | Dec 28 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Human Resources Intern - Western Canada](https://jobright.ai/jobs/info/69523213239491102de0f0ae?utm_campaign=1054&utm_source=git)** | Canada, Alberta, Calgary | On Site | Dec 28 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Colleague Capability, Enablement & Experience Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/695222bdce13cd105659a708?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| ↳ | **[Risk Management - Communications and Colleague Engagement Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695222b4ce13cd105659a707?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
