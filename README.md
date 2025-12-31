@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Dec 31 |
+| **[Strategic Management Solutions, LLC (SMSI)](https://smsi.us)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69090bced046ab6061cd0a3d?utm_campaign=1054&utm_source=git)** | Oak Ridge, TN | On Site | Dec 31 |
 | **[PROJXON](www.projxon.com)** | **[Human Resources Specialist Intern](https://jobright.ai/jobs/info/69557dd2aa05c26e7aafcfd4?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | Remote | Dec 31 |
 | **[Talbert, Bright & Ellington, LLC](http://tbeclt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695578ff9f1b381eb26ec89b?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695598919f1b381eb26ed5a1?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 31 |
+| **[Trilon Group](https://www.trilongroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695584609f1b381eb26ecd4e?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
 | **[Greenheck Group](https://www.greenheckgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6955649faa05c26e7aafc5d7?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[500006-147:Summer Intern, Labor and Employee Relations](https://jobright.ai/jobs/info/69555d07f1f8465b79ec6a16?utm_campaign=1054&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
 | ↳ | **[500002-020:Summer Intern, Compensation](https://jobright.ai/jobs/info/69555b5df1f8465b79ec64b5?utm_campaign=1054&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Human Resources Operations Summer Intern](https://jobright.ai/jobs/info/69554820f1f8465b79ec5724?utm_campaign=1054&utm_source=git)** | USA VA Herndon | Hybrid | Dec 31 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Human Resources Operations Summer Intern](https://jobright.ai/jobs/info/69554711f1f8465b79ec56ac?utm_campaign=1054&utm_source=git)** | USA VA Herndon | Hybrid | Dec 31 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/691be24a22a2cb4b9bd17181?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | ↳ | **[EH&S Winter 2025-26 Intern](https://jobright.ai/jobs/info/691bdc77bcdbf3560c9e360c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | **[Arconic](https://www.arconic.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69389aa2a0dde7020e313051?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Dec 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ashley Global Retail](https://www.ashleyfurniture.com/)** | **[Business Intern HR Manufacturing](https://jobright.ai/jobs/info/695402af5bb7de448ef6f620?utm_campaign=1054&utm_source=git)** | Arcadia, Wisconsin, United States | On Site | Dec 30 |
 | **[Broad River Retail](https://www.broadriverretail.com/)** | **[Intern, Experience and Events](https://jobright.ai/jobs/info/6953fee25bb7de448ef6ea5b?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Dec 30 |
 | **[New Hope Treatment Centers](https://www.newhopetreatment.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6953f15caa05c26e7aae6ddc?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Dec 30 |
-| **[Globe Life](https://www.globelifeinsurance.com)** | **[Sales & Recruiting - Summer Internship 2026](https://jobright.ai/jobs/info/692679cd27bf2f41a2c466ee?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Dec 30 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68aa5159758f2e4ac3ffc656?utm_campaign=1054&utm_source=git)** | Navarre, OH | On Site | Dec 30 |
-| **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Human Resources Intern - BFC](https://jobright.ai/jobs/info/69333646a0dde7020e2eb6e8?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Dec 30 |
-| **[Globe Life](https://www.globelifeinsurance.com)** | **[Customer Retention Internship - Summer 2026](https://jobright.ai/jobs/info/6924eae1c0cefa13343e4190?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
