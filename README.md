@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69545ff05bb7de448ef754b1?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 30 |
+| **[Benesch](https://www.benesch.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/69545b3caa05c26e7aaed81e?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
+| **[quantilope](http://www.quantilope.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/695457ca5bb7de448ef75057?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Dec 30 |
+| **[Crusoe](https://crusoe.ai)** | **[New Employee Experience Intern, Summer 2026](https://jobright.ai/jobs/info/6954544ef1f8465b79eb8455?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
+| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952f2355bb7de448ef60c94?utm_campaign=1054&utm_source=git)** | Delaware, OH | On Site | Dec 30 |
 | **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/695443a5f1f8465b79eb7270?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Dec 30 |
-| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695441aeaa05c26e7aaebe84?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 30 |
 | **[BBVA](https://bbva.csod.com)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/69543efdf1f8465b79eb5cbd?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69543ecb5bb7de448ef72459?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 30 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Graduate Intern: People Operations Spring 2026](https://jobright.ai/jobs/info/69543db4f1f8465b79eb5a72?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 30 |
@@ -105,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e660bef4b48533d13f8d3?utm_campaign=1054&utm_source=git)** | Trevose, PA | On Site | Dec 29 |
 | **[Aspire Technology Partners](http://aspiretransforms.com)** | **[HR Intern](https://jobright.ai/jobs/info/69534b7df1f8465b79ea9553?utm_campaign=1054&utm_source=git)** | Eatontown, NJ | On Site | Dec 29 |
 | **[Contemporary Amperex Technology Kentucky LLC](http://www.catl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b89d16ea901c0d269f81f5?utm_campaign=1054&utm_source=git)** | Battle Creek, MI | On Site | Dec 29 |
+| **[Central Minnesota Jobs and Training Services, Inc.](https://www.cmjts.org/)** | **[Human Resources Intern - Lakeville](https://jobright.ai/jobs/info/6954482bf1f8465b79eb7a39?utm_campaign=1054&utm_source=git)** | Minnesota, United States | On Site | Dec 29 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Business Intern HR Manufacturing](https://jobright.ai/jobs/info/69531c685bb7de448ef6256e?utm_campaign=1054&utm_source=git)** | Arcadia, WI | On Site | Dec 29 |
 | **[Crusoe](https://crusoe.ai)** | **[New Employee Experience Intern, Summer 2026](https://jobright.ai/jobs/info/69543b71f1f8465b79eb591b?utm_campaign=1054&utm_source=git)** | San Francisco, CA - US | On Site | Dec 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[HR Compliance Intern](https://jobright.ai/jobs/info/6953136ef1f8465b79ea59d9?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 29 |
@@ -114,8 +119,7 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Wealth Colleague Experience Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952f5ecf1f8465b79ea4eb4?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[State of Ohio](http://governor.ohio.gov)** | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952f4b2f1f8465b79ea4c21?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Delaware County | On Site | Dec 29 |
 | ↳ | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952f2a8935649778e20bdf6?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Delaware County-Delaware | On Site | Dec 29 |
-| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952f2355bb7de448ef60c94?utm_campaign=1054&utm_source=git)** | Delaware, OH | On Site | Dec 29 |
-| **[State of Ohio](http://governor.ohio.gov)** | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952f1b2f1f8465b79ea453a?utm_campaign=1054&utm_source=git)** | District 6 HQ400 East William Street | On Site | Dec 29 |
+| ↳ | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952f1b2f1f8465b79ea453a?utm_campaign=1054&utm_source=git)** | District 6 HQ400 East William Street | On Site | Dec 29 |
 | ↳ | **[College Intern - Employee Health & Safety- Summer 2026 (20057562)](https://jobright.ai/jobs/info/6952eeb65bb7de448ef608d5?utm_campaign=1054&utm_source=git)** | District 6 HQ400 East William Street | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Wealth Colleague Experience Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952e6445bb7de448ef5faf4?utm_campaign=1054&utm_source=git)** | TD Centre - South - 79 Wellington Street West, Toronto, Ontario | Hybrid | Dec 29 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6952da275bb7de448ef5ebef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Colleague Capability, Enablement & Experience Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/6952161ea2668b7f5454acb2?utm_campaign=1054&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/695215dea2668b7f5454aca2?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Sherbrooke | On Site | Dec 28 |
 | ↳ | **[Human Resources Intern - Ontario](https://jobright.ai/jobs/info/695215bda2668b7f5454ac97?utm_campaign=1054&utm_source=git)** | Canada, Ontario, Mississauga | On Site | Dec 28 |
-| ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/6952155029655e4dd65aeea4?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
-| **[TD](https://www.td.com)** | **[Accident Benefit Claims Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952154b29655e4dd65aeea2?utm_campaign=1054&utm_source=git)** | Markham, Ontario | Hybrid | Dec 28 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6952149cce13cd105659a2b1?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
-| ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/6952144ace13cd105659a298?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Québec | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
