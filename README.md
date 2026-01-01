@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Everstory Partners](http://www.everstorypartners.com)** | **[Human Resources Internhip - January 2026!](https://jobright.ai/jobs/info/6955d8c5f1f8465b79ecbf9e?utm_campaign=1054&utm_source=git)** | Altamonte Springs, FL | On Site | Dec 31 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Ellsworth](https://jobright.ai/jobs/info/6955d363f1f8465b79ecb776?utm_campaign=1054&utm_source=git)** | Ellsworth, ME | On Site | Dec 31 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Summer Internship - HR Organizational Development](https://jobright.ai/jobs/info/6955d158aa05c26e7ab00081?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Human Resources Operations Summer Intern](https://jobright.ai/jobs/info/69559b529f1b381eb26ed832?utm_campaign=1054&utm_source=git)** | Herndon, VA | Hybrid | Dec 31 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Dec 31 |
@@ -139,7 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Frank Gay Commercial Services](https://www.frankgayservices.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6954b3c75bb7de448ef7bef9?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 30 |
 | **[Benesch](https://www.benesch.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/69548d2c5bb7de448ef786f1?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
 | **[ECCO](https://enter.ecco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6954870faa05c26e7aaf0657?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Dec 30 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources & Customer Experience Intern](https://jobright.ai/jobs/info/692e3fe0ef4b48533d13dfa4?utm_campaign=1054&utm_source=git)** | Livermore, CA | Hybrid | Dec 30 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e3586fa28370be26a2479?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Dec 30 |
+| ↳ | **[Comcast Human Resources & Customer Experience Intern](https://jobright.ai/jobs/info/692e3fe0ef4b48533d13dfa4?utm_campaign=1054&utm_source=git)** | Livermore, CA | Hybrid | Dec 30 |
 | **[Frank Gay Services](https://frankgayservices.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69547f0af1f8465b79ebb384?utm_campaign=1054&utm_source=git)** | US-FL-Orlando | On Site | Dec 30 |
 | **[Benesch](https://www.benesch.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/69545b3caa05c26e7aaed81e?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Human Resources Intern](https://jobright.ai/jobs/info/69546d485bb7de448ef75a2a?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Dec 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Steel Technologies](http://www.steeltechnologies.com)** | **[HR Intern](https://jobright.ai/jobs/info/695435eef1f8465b79eb562e?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Dec 30 |
 | **[Kairoi Residential](https://www.kairoi.com/)** | **[Training and Talent Development Intern](https://jobright.ai/jobs/info/695430b15bb7de448ef71c57?utm_campaign=1054&utm_source=git)** | San Antonio,TX,US | On Site | Dec 30 |
 | **[WM](https://www.wm.com/)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/69542ca2f1f8465b79eb5022?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 30 |
-| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (EQUAL EMPLOYMENT OPPORTUNITY)](https://jobright.ai/jobs/info/694b41621224705e90026c97?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Dec 30 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Employee Engagement & Talent Management Intern](https://jobright.ai/jobs/info/692e48ae4c474121999d8048?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
-| **[Springpoint Senior Living](https://springpointsl.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6954240daa05c26e7aae98c0?utm_campaign=1054&utm_source=git)** | Wall Township, NJ 07753, USA | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
