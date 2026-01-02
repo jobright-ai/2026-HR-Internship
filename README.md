@@ -88,9 +88,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d2908bcdbf3560c9edb92?utm_campaign=1054&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf33422a2cb4b9bd1f0d0?utm_campaign=1054&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 01 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf572bcdbf3560c9ebc01?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 01 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d05beff7024498416d067?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 01 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 01 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf572bcdbf3560c9ebc01?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 01 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Summer 2026 Internship Program - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6939cc4556b68f3dc4e72956?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 01 |
 | **[Dusty Robotics](http://dustyrobotics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69566db0f1f8465b79ed6e69?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cdabeff7024498416b262?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Jan 01 |
@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Intern - Human Resources - Hunt Valley , MD](https://jobright.ai/jobs/info/69563bfcaa05c26e7ab06e95?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Jan 01 |
 | ↳ | **[2026 Summer Intern - Human Resources – Fort Worth, TX](https://jobright.ai/jobs/info/69563a62f1f8465b79ed2261?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Jan 01 |
 | ↳ | **[2026 Internship - Human Resources Associate](https://jobright.ai/jobs/info/69563807f1f8465b79ed2126?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Jan 01 |
+| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Clinical Wellbeing Intern - Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/69576fc7f1f8465b79ee2d77?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 31 |
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship, Finance (Labor Team)](https://jobright.ai/jobs/info/69560c3eaa05c26e7ab05384?utm_campaign=1054&utm_source=git)** | Remote US | Remote | Dec 31 |
 | **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Finance (Labor Team)](https://jobright.ai/jobs/info/695604f7f1f8465b79ed005f?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Dec 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Human Resources Operations Summer Intern](https://jobright.ai/jobs/info/69554711f1f8465b79ec56ac?utm_campaign=1054&utm_source=git)** | USA VA Herndon | Hybrid | Dec 31 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/691be24a22a2cb4b9bd17181?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | ↳ | **[EH&S Winter 2025-26 Intern](https://jobright.ai/jobs/info/691bdc77bcdbf3560c9e360c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 31 |
-| **[Arconic](https://www.arconic.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69389aa2a0dde7020e313051?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
