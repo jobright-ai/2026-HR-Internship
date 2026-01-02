@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ámaxa](https://www.amaxaimpact.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/6957ff32f1f8465b79eeaa7a?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 02 |
+| **[Amplifon](http://corporate.amplifon.com)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/6957fd2eaa05c26e7ab1f233?utm_campaign=1054&utm_source=git)** | 8300 Central Park Drive, Waco, 76712, US | On Site | Jan 02 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / San Antonio, TX](https://jobright.ai/jobs/info/6957fc419f1b381eb270f3ed?utm_campaign=1054&utm_source=git)** | San Antonio, TX 78221 | On Site | Jan 02 |
+| **[Amplifon](http://corporate.amplifon.com)** | **[Human Resources Intern Summer 2025](https://jobright.ai/jobs/info/6957f55b9f1b381eb270ddb0?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Jan 02 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6957f462f1f8465b79ee8d1e?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 02 |
+| **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6957ee31f1f8465b79ee8bea?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Jan 02 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[People & Culture (HR) Summer Intern](https://jobright.ai/jobs/info/6957e8119f1b381eb270d3e3?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 02 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6957e18caa05c26e7ab1d1a7?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 02 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6957dfc1aa05c26e7ab1d120?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693b4f385f2c001987ed52b5?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 02 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Part-Time Compensation Intern](https://jobright.ai/jobs/info/693b63445f2c001987ed690e?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jan 02 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/6957cc01f1f8465b79ee7b55?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Jan 02 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director, International Admissions](https://jobright.ai/jobs/info/6957eb3aaa05c26e7ab1d487?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a67b95f5211cd2ce7e4a?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Jan 02 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9ddb9e3a822f5d23e1e3?utm_campaign=1054&utm_source=git)** | Temple Hills, MD | On Site | Jan 02 |
 | ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jan 02 |
@@ -132,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cd517ff7024498416ae10?utm_campaign=1054&utm_source=git)** | Traverse City, MI | On Site | Jan 01 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Incentive Compensation](https://jobright.ai/jobs/info/691d04f5bcdbf3560c9ec6a1?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Troy, NY and Latham, NY](https://jobright.ai/jobs/info/693a8fe8e50e320634e2e973?utm_campaign=1054&utm_source=git)** | Troy, NY | On Site | Jan 01 |
-| **[SEACORP](https://www.seacorp.com)** | **[Human Resources/Training Intern](https://jobright.ai/jobs/info/6939bd94ac80bb5492bc40e7?utm_campaign=1054&utm_source=git)** | Middletown, RI | On Site | Jan 01 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c839a6983e6768bc54ae66?utm_campaign=1054&utm_source=git)** | Goodhue, MN | On Site | Jan 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d412c7481340785ed58d5?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/694f0cccce13cd10565745d5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 01 |
@@ -140,11 +145,11 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/693a90eae50e320634e2ef5e?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Jan 01 |
 | ↳ | **[Summer 2026 Management Trainee Intern- White River Junction, VT](https://jobright.ai/jobs/info/693a823ef3cb0010f8708c2d?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Jan 01 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d2908bcdbf3560c9edb92?utm_campaign=1054&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 01 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf33422a2cb4b9bd1f0d0?utm_campaign=1054&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 01 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 01 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf572bcdbf3560c9ebc01?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 01 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d05beff7024498416d067?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 01 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf572bcdbf3560c9ebc01?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 01 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 01 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Summer 2026 Internship Program - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6939cc4556b68f3dc4e72956?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 01 |
 | **[Dusty Robotics](http://dustyrobotics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69566db0f1f8465b79ed6e69?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cdabeff7024498416b262?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Jan 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Tri Cities](https://jobright.ai/jobs/info/69340b6ef131d96e4846920e?utm_campaign=1054&utm_source=git)** | Blountville, TN | On Site | Jan 01 |
 | ↳ | **[Management Trainee Internship - Summer 2026](https://jobright.ai/jobs/info/69352817f131d96e4846d0ff?utm_campaign=1054&utm_source=git)** | Rio Rancho, NM | On Site | Jan 01 |
 | ↳ | **[Spring 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69017c4dd5259a1b3cff54a8?utm_campaign=1054&utm_source=git)** | Homestead, FL | On Site | Jan 01 |
-| ↳ | **[Management Trainee Intern - Janesville](https://jobright.ai/jobs/info/68ca532f46caff4db51fd5a9?utm_campaign=1054&utm_source=git)** | Beloit, WI | On Site | Jan 01 |
-| **[Rogers Electric](https://www.rogerselectric.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69216a01a49a885af9a45ab2?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Jan 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Capital District North (Saratoga Springs, NY and Clifton Park, NY)](https://jobright.ai/jobs/info/693a818af3cb0010f8708c03?utm_campaign=1054&utm_source=git)** | Saratoga Springs, NY | On Site | Jan 01 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933f36fa0dde7020e2f3336?utm_campaign=1054&utm_source=git)** | Kalamazoo, MI | On Site | Jan 01 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
