@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Administrative Internship- Apply January 2nd through Feb. 13, 2026 only!](https://jobright.ai/jobs/info/69579a319f1b381eb270a509?utm_campaign=1054&utm_source=git)** | Florida-Miami-Nicklaus Children's Hospital - Main Hospital Campus | On Site | Jan 02 |
+| **[American Greetings](http://americangreetings.com)** | **[Human Resources Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/693b633a5f2c001987ed6908?utm_campaign=1054&utm_source=git)** | Westlake, OH | Hybrid | Jan 02 |
+| **[Experitec Inc.](https://experitec.com/)** | **[Talent Management (Human Resources) Intern - Onsite - Chesterfield, MO](https://jobright.ai/jobs/info/691e7e37a49a885af9a291d8?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jan 02 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[Human Resource Information System (HRIS) Internship - Summer 2026](https://jobright.ai/jobs/info/693af1a4b309e3780086a704?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jan 02 |
+| **[Oatey Company](https://www.oatey.com//)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68acbd8bdaf1431824c97dcb?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jan 02 |
+| **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6901228dd5259a1b3cff1c70?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Jan 02 |
+| **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693b430e5f2c001987ed3eb7?utm_campaign=1054&utm_source=git)** | Hazel Park, MI | On Site | Jan 02 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/693b3a04d4054a2bc0252695?utm_campaign=1054&utm_source=git)** | Warren, MI | On Site | Jan 02 |
+| **[Parker's Convenience Stores](https://www.parkersga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6957948df1f8465b79ee51a8?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Jan 02 |
 | **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/6957815a9f1b381eb2707fc7?utm_campaign=1054&utm_source=git)** | US-DC-Washington | Hybrid | Jan 01 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6956d2c3f1f8465b79edb2dd?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Talent Intelligence Intern](https://jobright.ai/jobs/info/6952c3e3f1f8465b79ea1369?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Jan 01 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6955c6bef1f8465b79ecaded?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 31 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Data Analytics Summer Intern- Payroll Simplification (Summer 2026, Charlotte, NC)](https://jobright.ai/jobs/info/6955c999f1f8465b79ecaf19?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Dec 31 |
 | **[Strategic Management Solutions, LLC (SMSI)](https://smsi.us)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69090bced046ab6061cd0a3d?utm_campaign=1054&utm_source=git)** | Oak Ridge, TN | On Site | Dec 31 |
-| **[Crisis24](https://crisis24.garda.com)** | **[Recruiting Sourcer Intern](https://jobright.ai/jobs/info/69559f8d9f1b381eb26edce8?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Dec 31 |
-| **[PROJXON](www.projxon.com)** | **[Human Resources Specialist Intern](https://jobright.ai/jobs/info/69557dd2aa05c26e7aafcfd4?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | Remote | Dec 31 |
-| **[Talbert, Bright & Ellington, LLC](http://tbeclt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695578ff9f1b381eb26ec89b?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
-| **[Trilon Group](https://www.trilongroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695584609f1b381eb26ecd4e?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
-| **[Greenheck Group](https://www.greenheckgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6955649faa05c26e7aafc5d7?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 31 |
-| **[DC Water](https://dcwater.com/)** | **[500006-147:Summer Intern, Labor and Employee Relations](https://jobright.ai/jobs/info/69555d07f1f8465b79ec6a16?utm_campaign=1054&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
-| ↳ | **[500002-020:Summer Intern, Compensation](https://jobright.ai/jobs/info/69555b5df1f8465b79ec64b5?utm_campaign=1054&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Human Resources Operations Summer Intern](https://jobright.ai/jobs/info/69554711f1f8465b79ec56ac?utm_campaign=1054&utm_source=git)** | USA VA Herndon | Hybrid | Dec 31 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/691be24a22a2cb4b9bd17181?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
