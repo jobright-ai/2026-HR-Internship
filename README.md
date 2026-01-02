@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/6957815a9f1b381eb2707fc7?utm_campaign=1054&utm_source=git)** | US-DC-Washington | Hybrid | Jan 01 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6956d2c3f1f8465b79edb2dd?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Talent Intelligence Intern](https://jobright.ai/jobs/info/6952c3e3f1f8465b79ea1369?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Jan 01 |
 | **[Eckerd Connects](https://eckerd.org)** | **[Foster Care Case Manager Intern](https://jobright.ai/jobs/info/695689d6aa05c26e7ab0cae1?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Jan 01 |
@@ -86,11 +87,11 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/693a90eae50e320634e2ef5e?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Jan 01 |
 | ↳ | **[Summer 2026 Management Trainee Intern- White River Junction, VT](https://jobright.ai/jobs/info/693a823ef3cb0010f8708c2d?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Jan 01 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d2908bcdbf3560c9edb92?utm_campaign=1054&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 01 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf33422a2cb4b9bd1f0d0?utm_campaign=1054&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 01 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d05beff7024498416d067?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 01 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf572bcdbf3560c9ebc01?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 01 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 01 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Summer 2026 Internship Program - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6939cc4556b68f3dc4e72956?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 01 |
 | **[Dusty Robotics](http://dustyrobotics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69566db0f1f8465b79ed6e69?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cdabeff7024498416b262?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Jan 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[500002-020:Summer Intern, Compensation](https://jobright.ai/jobs/info/69555b5df1f8465b79ec64b5?utm_campaign=1054&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Human Resources Operations Summer Intern](https://jobright.ai/jobs/info/69554711f1f8465b79ec56ac?utm_campaign=1054&utm_source=git)** | USA VA Herndon | Hybrid | Dec 31 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/691be24a22a2cb4b9bd17181?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 31 |
-| ↳ | **[EH&S Winter 2025-26 Intern](https://jobright.ai/jobs/info/691bdc77bcdbf3560c9e360c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
