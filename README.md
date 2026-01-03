@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Innovative Defense Technologies (IDT)](http://idtus.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/68f7c653b0edcf159dc88a82?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jan 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f60803f782d2f1afbb23d?utm_campaign=1054&utm_source=git)** | San Jose, CA | Remote | Jan 03 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/693cdce750bbaf76505004d7?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jan 03 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Talent Management](https://jobright.ai/jobs/info/691f9c80a49a885af9a326b6?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 03 |
+| **[Delta Galil Industries](http://deltagalil.com/)** | **[Intern, Human Resources – Compensation, Benefits, and HR Operations](https://jobright.ai/jobs/info/693cd2be49a7695fbd03886e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
+| **[J. Jill](http://www.jjill.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/693cbf3e50bbaf76504ff65f?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Jan 03 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Memphis, TN](https://jobright.ai/jobs/info/6958cf5ff1f8465b79ef6816?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Jan 03 |
 | ↳ | **[Distribution Human Resources Internship / Cheyenne, WY](https://jobright.ai/jobs/info/6958cf059f1b381eb271b336?utm_campaign=1054&utm_source=git)** | Cheyenne, WY | On Site | Jan 03 |
 | ↳ | **[Distribution Human Resources Internship / Worcester, MA](https://jobright.ai/jobs/info/6958cec5f1f8465b79ef67ea?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Jan 03 |
@@ -92,11 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[People & Culture (HR) Summer Intern](https://jobright.ai/jobs/info/69581c8daa05c26e7ab1ff0a?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 02 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6958387bf1f8465b79eed800?utm_campaign=1054&utm_source=git)** | Winnebago, NE | On Site | Jan 02 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Talent Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69581a1a9f1b381eb270fde9?utm_campaign=1054&utm_source=git)** | Milford, Massachusetts, United States | On Site | Jan 02 |
-| **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6958187e9f1b381eb270fcd2?utm_campaign=1054&utm_source=git)** | US-NE-Winnebago | On Site | Jan 02 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - HR & Engagement, Landmark](https://jobright.ai/jobs/info/695816d39f1b381eb270fbe7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Talent Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69581673aa05c26e7ab1fab9?utm_campaign=1054&utm_source=git)** | Milford, MA | On Site | Jan 02 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/69587418aa05c26e7ab25e97?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Jan 02 |
-| **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/69580c779f1b381eb270f912?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - HR & Engagement, Landmark](https://jobright.ai/jobs/info/69580805aa05c26e7ab1f664?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jan 02 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/6958075aaa05c26e7ab1f60f?utm_campaign=1054&utm_source=git)** | Hilton Boston Park Plaza50 Park Plaza at Arlington St. | On Site | Jan 02 |
 | **[Amplifon](http://corporate.amplifon.com)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/6957fd2eaa05c26e7ab1f233?utm_campaign=1054&utm_source=git)** | 8300 Central Park Drive, Waco, 76712, US | On Site | Jan 02 |
@@ -104,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6957ee31f1f8465b79ee8bea?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Jan 02 |
 | **[Amplifon](http://corporate.amplifon.com)** | **[Human Resources Intern Summer 2025](https://jobright.ai/jobs/info/6957f55b9f1b381eb270ddb0?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Jan 02 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[People & Culture (HR) Summer Intern](https://jobright.ai/jobs/info/6957e8119f1b381eb270d3e3?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 02 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6957e18caa05c26e7ab1d1a7?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693b4f385f2c001987ed52b5?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 02 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Part-Time Compensation Intern](https://jobright.ai/jobs/info/693b63445f2c001987ed690e?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jan 02 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director, International Admissions](https://jobright.ai/jobs/info/6957eb3aaa05c26e7ab1d487?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 02 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Coach USA](http://www.coachusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6957cf24aa05c26e7ab1cb40?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Jan 02 |
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693b3a04d4054a2bc0252695?utm_campaign=1054&utm_source=git)** | Warren, MI | On Site | Jan 02 |
 | **[Parker's Convenience Stores](https://www.parkersga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6957948df1f8465b79ee51a8?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Jan 02 |
-| **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/6957815a9f1b381eb2707fc7?utm_campaign=1054&utm_source=git)** | US-DC-Washington | Hybrid | Jan 01 |
 | **[SEACORP](https://www.seacorp.com)** | **[Human Resources/Training Intern](https://jobright.ai/jobs/info/695899c39f1b381eb27173a1?utm_campaign=1054&utm_source=git)** | Middletown, RI | On Site | Jan 01 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6956d2c3f1f8465b79edb2dd?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 01 |
-| **[BioSpace](http://www.biospace.com/)** | **[Talent Intelligence Intern](https://jobright.ai/jobs/info/6952c3e3f1f8465b79ea1369?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Jan 01 |
-| **[Eckerd Connects](https://eckerd.org)** | **[Foster Care Case Manager Intern](https://jobright.ai/jobs/info/695689d6aa05c26e7ab0cae1?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
