@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mission Wealth](https://missionwealth.com)** | **[Human Resources Specialist Intern](https://jobright.ai/jobs/info/6958b90eaa05c26e7ab297e3?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ, US | On Site | Jan 02 |
 | **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Administrative Internship- Apply January 2nd through Feb. 13, 2026 only!](https://jobright.ai/jobs/info/6958837a9f1b381eb2716aed?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 02 |
 | **[University of Iowa](https://uicb.uiowa.edu)** | **[HR Intern, University Human Resources Student Pathways Program](https://jobright.ai/jobs/info/695881f7aa05c26e7ab2671b?utm_campaign=1054&utm_source=git)** | Iowa City, IA | On Site | Jan 02 |
 | **[Equity Bank](https://www.equitybank.com/)** | **[HR Internship Spring & Summer 2026](https://jobright.ai/jobs/info/69587483f1f8465b79ef1665?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
@@ -97,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Amplifon](http://corporate.amplifon.com)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/6957fd2eaa05c26e7ab1f233?utm_campaign=1054&utm_source=git)** | 8300 Central Park Drive, Waco, 76712, US | On Site | Jan 02 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / San Antonio, TX](https://jobright.ai/jobs/info/6957fc419f1b381eb270f3ed?utm_campaign=1054&utm_source=git)** | San Antonio, TX 78221 | On Site | Jan 02 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6957ee31f1f8465b79ee8bea?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Jan 02 |
-| **[Miracle-Ear, Inc.](http://www.miracle-ear.com/)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/6957f55b9f1b381eb270ddb0?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Jan 02 |
+| **[Amplifon](http://corporate.amplifon.com)** | **[Human Resources Intern Summer 2025](https://jobright.ai/jobs/info/6957f55b9f1b381eb270ddb0?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Jan 02 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[People & Culture (HR) Summer Intern](https://jobright.ai/jobs/info/6957e8119f1b381eb270d3e3?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 02 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6957e18caa05c26e7ab1d1a7?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693b4f385f2c001987ed52b5?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/693a6eeeac80bb5492bcf662?utm_campaign=1054&utm_source=git)** | Brea, CA | Hybrid | Jan 01 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Campus Recruiting Intern - Summer 2026](https://jobright.ai/jobs/info/690001dc0ab3b222462b1151?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Jan 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Schenectady, NY and Amsterdam, NY](https://jobright.ai/jobs/info/693a817ef4e44c4d629d2bd7?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Jan 01 |
-| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6939c54456b68f3dc4e7251a?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
