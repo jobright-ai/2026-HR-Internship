@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Memphis, TN](https://jobright.ai/jobs/info/6958cf5ff1f8465b79ef6816?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Jan 03 |
+| ↳ | **[Distribution Human Resources Internship / Cheyenne, WY](https://jobright.ai/jobs/info/6958cf059f1b381eb271b336?utm_campaign=1054&utm_source=git)** | Cheyenne, WY | On Site | Jan 03 |
+| ↳ | **[Distribution Human Resources Internship / Worcester, MA](https://jobright.ai/jobs/info/6958cec5f1f8465b79ef67ea?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Jan 03 |
+| ↳ | **[Distribution Human Resources Internship / San Antonio, TX](https://jobright.ai/jobs/info/6958ce47aa05c26e7ab2b114?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jan 03 |
 | **[Mission Wealth](https://missionwealth.com)** | **[Human Resources Specialist Intern](https://jobright.ai/jobs/info/6958b90eaa05c26e7ab297e3?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ, US | On Site | Jan 02 |
 | **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Administrative Internship- Apply January 2nd through Feb. 13, 2026 only!](https://jobright.ai/jobs/info/6958837a9f1b381eb2716aed?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 02 |
 | **[University of Iowa](https://uicb.uiowa.edu)** | **[HR Intern, University Human Resources Student Pathways Program](https://jobright.ai/jobs/info/695881f7aa05c26e7ab2671b?utm_campaign=1054&utm_source=git)** | Iowa City, IA | On Site | Jan 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6956d2c3f1f8465b79edb2dd?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Talent Intelligence Intern](https://jobright.ai/jobs/info/6952c3e3f1f8465b79ea1369?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Jan 01 |
 | **[Eckerd Connects](https://eckerd.org)** | **[Foster Care Case Manager Intern](https://jobright.ai/jobs/info/695689d6aa05c26e7ab0cae1?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Jan 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6933db02a0dde7020e2f27ff?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | On Site | Jan 01 |
-| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/693a6eeeac80bb5492bcf662?utm_campaign=1054&utm_source=git)** | Brea, CA | Hybrid | Jan 01 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Campus Recruiting Intern - Summer 2026](https://jobright.ai/jobs/info/690001dc0ab3b222462b1151?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Jan 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Schenectady, NY and Amsterdam, NY](https://jobright.ai/jobs/info/693a817ef4e44c4d629d2bd7?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
