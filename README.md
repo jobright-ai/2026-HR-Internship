@@ -75,9 +75,11 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Atlantic Region (Charlotte, NC)](https://jobright.ai/jobs/info/693ce5d6aa598a08c3eda9fc?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Halifax and St. John’s Offices - Opportunities in Governance, Risk and Compliance Services - Intern/Co-op -  Summer 2026](https://jobright.ai/jobs/info/693c9449aa598a08c3ed6dbc?utm_campaign=1054&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 03 |
 | **[True Homes](https://truehomesusa.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/693ca18549a7695fbd036f64?utm_campaign=1054&utm_source=git)** | Monroe, NC | On Site | Jan 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933d03e764507023d1b99df?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Jan 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Sunrise](https://jobright.ai/jobs/info/68e86e8e09580a2fe57f79ee?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 03 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933d03e764507023d1b99df?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Jan 03 |
 | ↳ | **[Management Trainee Intern - Green Bay](https://jobright.ai/jobs/info/68ce445d24dd5209002f1272?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Jan 03 |
 | ↳ | **[Spring 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69027cebff462851fefe3aa0?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 03 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e719d11852e62f00822363?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Jan 03 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Human Resources- EN](https://jobright.ai/jobs/info/6959022c9f1b381eb271e2e5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | **[Innovative Defense Technologies (IDT)](http://idtus.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/68f7c653b0edcf159dc88a82?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jan 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f60803f782d2f1afbb23d?utm_campaign=1054&utm_source=git)** | San Jose, CA | Remote | Jan 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933fd29f131d96e48468bce?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Jan 02 |
 | ↳ | **[Spring 2026 Management Trainee Internship- Cincinnati](https://jobright.ai/jobs/info/6933baaff131d96e4846673c?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jan 02 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Talent Development Intern- Human Resources- Spring 2026](https://jobright.ai/jobs/info/69352812f131d96e4846d0d3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ccc465a77e5d7d744f53a5?utm_campaign=1054&utm_source=git)** | Hyattsville, MD | On Site | Jan 02 |
-| **[Landis+Gyr](https://www.landisgyr.com/)** | **[HR Intern](https://jobright.ai/jobs/info/691e00ca3f782d2f1afaf9b6?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
