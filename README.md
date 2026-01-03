@@ -132,9 +132,7 @@ For a complete list, click the following sortable link below:
 | **[SageSure](https://www.sagesure.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69021ca3ff462851fefe0330?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Jan 02 |
 | **[JD.COM](http://corporate.jd.com)** | **[JD Young HRBP Internship](https://jobright.ai/jobs/info/691e75213f782d2f1afb4d38?utm_campaign=1054&utm_source=git)** | Middlesex, NJ | On Site | Jan 02 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Summer Internship 2026 (Rehlko)](https://jobright.ai/jobs/info/6943e01994730b7398770c9b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 02 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/68ad0caadaf1431824c9a28b?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 02 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Human Resources Intern](https://jobright.ai/jobs/info/691ae6cfbcdbf3560c9db6eb?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 02 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/68cd0421e8e0b73af72bf8eb?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69017d4cd5259a1b3cff5567?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 02 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Jan 02 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/68e6598ee8daec61499aacad?utm_campaign=1054&utm_source=git)** | Independence, KS | On Site | Jan 02 |
@@ -150,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693b3a04d4054a2bc0252695?utm_campaign=1054&utm_source=git)** | Warren, MI | On Site | Jan 02 |
 | **[Parker's Convenience Stores](https://www.parkersga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6957948df1f8465b79ee51a8?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Jan 02 |
 | **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/6957815a9f1b381eb2707fc7?utm_campaign=1054&utm_source=git)** | US-DC-Washington | Hybrid | Jan 01 |
+| **[SEACORP](https://www.seacorp.com)** | **[Human Resources/Training Intern](https://jobright.ai/jobs/info/695899c39f1b381eb27173a1?utm_campaign=1054&utm_source=git)** | Middletown, RI | On Site | Jan 01 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6956d2c3f1f8465b79edb2dd?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Talent Intelligence Intern](https://jobright.ai/jobs/info/6952c3e3f1f8465b79ea1369?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Jan 01 |
 | **[Eckerd Connects](https://eckerd.org)** | **[Foster Care Case Manager Intern](https://jobright.ai/jobs/info/695689d6aa05c26e7ab0cae1?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Jan 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/693a6eeeac80bb5492bcf662?utm_campaign=1054&utm_source=git)** | Brea, CA | Hybrid | Jan 01 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Campus Recruiting Intern - Summer 2026](https://jobright.ai/jobs/info/690001dc0ab3b222462b1151?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Jan 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Schenectady, NY and Amsterdam, NY](https://jobright.ai/jobs/info/693a817ef4e44c4d629d2bd7?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Jan 01 |
+| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6939c54456b68f3dc4e7251a?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
