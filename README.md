@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 04 |
+| **[BioSpace](http://www.biospace.com/)** | **[HR Intern, Talent Acquisition](https://jobright.ai/jobs/info/695a8eadf1f8465b79f0cf62?utm_campaign=1054&utm_source=git)** | Piscataway, NJ | On Site | Jan 04 |
 | **[Qualus](https://qualuscorp.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6920b890a49a885af9a3e650?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | Hybrid | Jan 04 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695a767faa05c26e7ab4139a?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Jan 04 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695a75a99f1b381eb27319c6?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 04 |
@@ -85,11 +87,15 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Miami Lakes](https://jobright.ai/jobs/info/68e86e55c72beb74cb31e979?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, CM Emerging Talent Intern (4 Months)](https://jobright.ai/jobs/info/693d9c24aa598a08c3ee2a5b?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b509981ade4306aa63f2f0?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Jan 04 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692115c8a49a885af9a42c14?utm_campaign=1054&utm_source=git)** | Mansfield, OH | On Site | Jan 04 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/68ccf7ac77add66568abce63?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd78b11ad6b16f02899ef7?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Jan 04 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1054&utm_source=git)** | Farmington, MI | On Site | Jan 04 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring People Operations Intern](https://jobright.ai/jobs/info/6921440da49a885af9a44605?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jan 04 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Jan 04 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring People Operations Intern](https://jobright.ai/jobs/info/692146f33f782d2f1afd0d17?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc46c516d00d2beeb1cb1f?utm_campaign=1054&utm_source=git)** | Joplin, MO | On Site | Jan 04 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b1089d6fab621da7b09867?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jan 04 |
 | **[Clarios](https://www.clarios.com/)** | **[HR Intern - St Joseph, MO DAP (Summer 2026)](https://jobright.ai/jobs/info/690429e6d64a22104aa97ab7?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Jan 04 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) SS&M -Employee Engagement Summer Intern - TN](https://jobright.ai/jobs/info/68e87fd209580a2fe57f847c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | Hybrid | Jan 04 |
 | **[Camaco](http://www.camacollc.com)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/693db76d49a7695fbd042f1a?utm_campaign=1054&utm_source=git)** | Columbus, NE | On Site | Jan 04 |
@@ -103,7 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/69211f51a49a885af9a43120?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 04 |
 | **[Expert Institute](https://expertinstitute.com/)** | **[Expert Witness Research & Recruitment Intern (Summer)](https://jobright.ai/jobs/info/69422ce1bdcf884a5ade0074?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 04 |
 | **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Volunteer Coordinator Intern (Volunteer)](https://jobright.ai/jobs/info/69599b77f1f8465b79f00ec2?utm_campaign=1054&utm_source=git)** | Vienna, VA | Remote | Jan 03 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69592fe4aa05c26e7ab30b0f?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 03 |
+| **[Eckerd Connects](https://eckerd.org)** | **[Foster Care Case Manager Intern](https://jobright.ai/jobs/info/695689d6aa05c26e7ab0cae1?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Jan 03 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/691f953fa49a885af9a32219?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | Jan 03 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Systems Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/693c967f50bbaf76504fd8fb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 03 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Customer Care Workforce Administration Summer Internship](https://jobright.ai/jobs/info/68e68748ae2b894b1d71afbf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equity Bank](https://www.equitybank.com/)** | **[HR Internship Spring & Summer 2026](https://jobright.ai/jobs/info/69587483f1f8465b79ef1665?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Promethean Services (HR) and Learning & Development](https://jobright.ai/jobs/info/692e36f5fa28370be26a25b7?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Jan 02 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585da29f1b381eb2713dbf?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 02 |
-| **[CSI Leasing, Inc.](https://www.csileasing.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69585d749f1b381eb2713db3?utm_campaign=1054&utm_source=git)** | Weldon Spring Heights, MO | On Site | Jan 02 |
-| **[University of Iowa Research](https://research.uiowa.edu)** | **[HR Intern, University Human Resources Student Pathways Program](https://jobright.ai/jobs/info/695889c69f1b381eb2716cb7?utm_campaign=1054&utm_source=git)** | Iowa City, Iowa, United States | On Site | Jan 02 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/695856009f1b381eb2713b09?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | Hybrid | Jan 02 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Memphis, TN](https://jobright.ai/jobs/info/695849829f1b381eb27135f7?utm_campaign=1054&utm_source=git)** | Memphis, TN 38118 | On Site | Jan 02 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/69584463aa05c26e7ab2318a?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | Hybrid | Jan 02 |
-| **[Landmark Credit Union](https://landmarkcu.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/695843d19f1b381eb271325d?utm_campaign=1054&utm_source=git)** | Brookfield, WI | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
