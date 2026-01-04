@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RxGpt](https://rxgpthealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695adbeb9f1b381eb27363be?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 04 |
+| **[Teck Resources Limited](http://www.teck.com/)** | **[HR Intern](https://jobright.ai/jobs/info/695ac620f1f8465b79f0f579?utm_campaign=1054&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 04 |
+| **[World Insurance Associates](https://toinsurance.com/)** | **[Risk Management Client Service Intern, Employee Benefits](https://jobright.ai/jobs/info/695ac5ed9f1b381eb2734670?utm_campaign=1054&utm_source=git)** | Iselin, NJ | On Site | Jan 04 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[HR Intern, Talent Acquisition](https://jobright.ai/jobs/info/695a8eadf1f8465b79f0cf62?utm_campaign=1054&utm_source=git)** | Piscataway, NJ | On Site | Jan 04 |
 | **[Qualus](https://qualuscorp.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6920b890a49a885af9a3e650?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | Hybrid | Jan 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/6959d8ff9f1b381eb272846e?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
 | **[University of Iowa](http://researchpark.uiowa.edu)** | **[HR Intern, University Human Resources Student Pathways Program](https://jobright.ai/jobs/info/695881f7aa05c26e7ab2671b?utm_campaign=1054&utm_source=git)** | Iowa City, IA | On Site | Jan 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6959d3c0aa05c26e7ab37e85?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 02 |
-| **[Equity Bank](https://www.equitybank.com/)** | **[HR Internship Spring & Summer 2026](https://jobright.ai/jobs/info/69587483f1f8465b79ef1665?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
-| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Promethean Services (HR) and Learning & Development](https://jobright.ai/jobs/info/692e36f5fa28370be26a25b7?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Jan 02 |
-| **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585da29f1b381eb2713dbf?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
