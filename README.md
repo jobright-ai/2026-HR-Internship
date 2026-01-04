@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Volunteer Coordinator Intern (Volunteer)](https://jobright.ai/jobs/info/69599b77f1f8465b79f00ec2?utm_campaign=1054&utm_source=git)** | Vienna, VA | Remote | Jan 03 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69592fe4aa05c26e7ab30b0f?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 03 |
 | **[Interview Passport](https://interviewpassport.id)** | **[Startup Outreach Intern — Hiring & Candidate Vetting (Commission-Only)](https://jobright.ai/jobs/info/69592e809f1b381eb2720e01?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Remote | Jan 03 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/691f953fa49a885af9a32219?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | Jan 03 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Systems Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/693c967f50bbaf76504fd8fb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 03 |
-| **[VertoTech](vertotech.us)** | **[Talent Pool Finance Intern](https://jobright.ai/jobs/info/6959236baa05c26e7ab2ffb5?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jan 03 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Customer Care Workforce Administration Summer Internship](https://jobright.ai/jobs/info/68e68748ae2b894b1d71afbf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7160ce8daec61499b2175?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Jan 03 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 03 |
