@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) SS&M - Digital Product Summer Intern - TN](https://jobright.ai/jobs/info/694cc8a9f5bef51c96ea98b7?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | Hybrid | Jan 04 |
+| **[DP World](https://www.dpworld.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68ccf82ed11b445e0bee5458?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 04 |
+| **[Minnesota Limited](http://www.mnlimited.com)** | **[Human Resources Intern - Lakeville](https://jobright.ai/jobs/info/695a4ff19f1b381eb272eecf?utm_campaign=1054&utm_source=git)** | Lakeville, MN | On Site | Jan 04 |
+| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/68d34f06f0d9af73038e0fa8?utm_campaign=1054&utm_source=git)** | Shakopee, MN | On Site | Jan 04 |
+| **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d1b2a49a885af9a3f9f2?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 04 |
+| ↳ | **[Human Resources Intern, HRBP](https://jobright.ai/jobs/info/69211fc73f782d2f1afcf670?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 04 |
+| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/69211f51a49a885af9a43120?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 04 |
 | **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Volunteer Coordinator Intern (Volunteer)](https://jobright.ai/jobs/info/69599b77f1f8465b79f00ec2?utm_campaign=1054&utm_source=git)** | Vienna, VA | Remote | Jan 03 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69592fe4aa05c26e7ab30b0f?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 03 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/691f953fa49a885af9a32219?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | Jan 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[HR Intern](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b4647?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Jan 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ccfef0d11b445e0bee5c54?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Jan 02 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Human Resources, Employee Benefits](https://jobright.ai/jobs/info/68cd56d3e23def7af55b871b?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Jan 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Nashua, NH](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2e01?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Jan 02 |
-| ↳ | **[Summer 2026 Management Intern Dallas](https://jobright.ai/jobs/info/68e5783f1852e62f0081075c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 02 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd0472e5ac5c0dc6d26689?utm_campaign=1054&utm_source=git)** | Concord, NC | On Site | Jan 02 |
-| **[SunOpta](https://www.sunopta.com/)** | **[HR Intern](https://jobright.ai/jobs/info/691d7b45bcdbf3560c9f14dc?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | Hybrid | Jan 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd0c84b2a74e1837ed172b?utm_campaign=1054&utm_source=git)** | Pineville, NC | On Site | Jan 02 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern (Summer 2026) - Hamilton, OH](https://jobright.ai/jobs/info/68c88a95f9c6ff7aedf10072?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Jan 02 |
-| **[Allied Beverage Group](https://www.home.alliedbeverage.com/)** | **[2026 Internship Talent Community](https://jobright.ai/jobs/info/68cd1b6de23def7af55b57ea?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
