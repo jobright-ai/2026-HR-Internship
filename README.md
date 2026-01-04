@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qualus](https://qualuscorp.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6920b890a49a885af9a3e650?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | Hybrid | Jan 04 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695a767faa05c26e7ab4139a?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Jan 04 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695a75a99f1b381eb27319c6?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 04 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118b300c9ee50eaecbabf?utm_campaign=1054&utm_source=git)** | Youngstown, OH | On Site | Jan 04 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- HR & Office Administration](https://jobright.ai/jobs/info/690555dfff462851feffcbb7?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118daa49a885af9a42e35?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jan 04 |
@@ -68,6 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Sisterson & Co. LLP](http://sisterson.com)** | **[Sisterson Symposium: Summer Leadership Program](https://jobright.ai/jobs/info/689e745879a9f9666254ce94?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/689249e9f5ee707a15dc45da?utm_campaign=1054&utm_source=git)** | Statesboro, GA | On Site | Jan 04 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69211a8f00c9ee50eaecbbd1?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jan 04 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69211c253f782d2f1afcf3e1?utm_campaign=1054&utm_source=git)** | Toledo, OH | On Site | Jan 04 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6921165600c9ee50eaecb8fa?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jan 04 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69211658a49a885af9a42c72?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Jan 04 |
 | ↳ | **[Spring 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/68e86df009580a2fe57f794f?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Jan 04 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/693e500baa598a08c3eeac81?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6921211300c9ee50eaecbf11?utm_campaign=1054&utm_source=git)** | Kent, OH | On Site | Jan 04 |
@@ -82,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring People Operations Intern](https://jobright.ai/jobs/info/6921440da49a885af9a44605?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jan 04 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Jan 04 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring People Operations Intern](https://jobright.ai/jobs/info/692146f33f782d2f1afd0d17?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jan 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc46c516d00d2beeb1cb1f?utm_campaign=1054&utm_source=git)** | Joplin, MO | On Site | Jan 04 |
 | **[Clarios](https://www.clarios.com/)** | **[HR Intern - St Joseph, MO DAP (Summer 2026)](https://jobright.ai/jobs/info/690429e6d64a22104aa97ab7?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Jan 04 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) SS&M -Employee Engagement Summer Intern - TN](https://jobright.ai/jobs/info/68e87fd209580a2fe57f847c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | Hybrid | Jan 04 |
 | **[Camaco](http://www.camacollc.com)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/693db76d49a7695fbd042f1a?utm_campaign=1054&utm_source=git)** | Columbus, NE | On Site | Jan 04 |
@@ -89,9 +97,11 @@ For a complete list, click the following sortable link below:
 | **[DP World](https://www.dpworld.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68ccf82ed11b445e0bee5458?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 04 |
 | **[Minnesota Limited](http://www.mnlimited.com)** | **[Human Resources Intern - Lakeville](https://jobright.ai/jobs/info/695a4ff19f1b381eb272eecf?utm_campaign=1054&utm_source=git)** | Lakeville, MN | On Site | Jan 04 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/68d34f06f0d9af73038e0fa8?utm_campaign=1054&utm_source=git)** | Shakopee, MN | On Site | Jan 04 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/69207e2a3f782d2f1afc8001?utm_campaign=1054&utm_source=git)** | CS-Bryan Area | On Site | Jan 04 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d1b2a49a885af9a3f9f2?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 04 |
 | ↳ | **[Human Resources Intern, HRBP](https://jobright.ai/jobs/info/69211fc73f782d2f1afcf670?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 04 |
 | ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/69211f51a49a885af9a43120?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 04 |
+| **[Expert Institute](https://expertinstitute.com/)** | **[Expert Witness Research & Recruitment Intern (Summer)](https://jobright.ai/jobs/info/69422ce1bdcf884a5ade0074?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 04 |
 | **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Volunteer Coordinator Intern (Volunteer)](https://jobright.ai/jobs/info/69599b77f1f8465b79f00ec2?utm_campaign=1054&utm_source=git)** | Vienna, VA | Remote | Jan 03 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69592fe4aa05c26e7ab30b0f?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 03 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/691f953fa49a885af9a32219?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | Jan 03 |
@@ -128,6 +138,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Human Resources Internship / Cheyenne, WY](https://jobright.ai/jobs/info/6958cf059f1b381eb271b336?utm_campaign=1054&utm_source=git)** | Cheyenne, WY | On Site | Jan 03 |
 | ↳ | **[Distribution Human Resources Internship / Worcester, MA](https://jobright.ai/jobs/info/6958cec5f1f8465b79ef67ea?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Jan 03 |
 | ↳ | **[Distribution Human Resources Internship / San Antonio, TX](https://jobright.ai/jobs/info/6958ce47aa05c26e7ab2b114?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jan 03 |
+| **[AMH](https://www.americanhomes4rent.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/695836ecf1f8465b79eed38f?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jan 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6959f5a2aa05c26e7ab3a4dc?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 02 |
 | ↳ | **[Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6959f5cdaa05c26e7ab3a56a?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 02 |
 | **[Mission Wealth](https://missionwealth.com)** | **[Human Resources Specialist Intern](https://jobright.ai/jobs/info/6958b90eaa05c26e7ab297e3?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ, US | On Site | Jan 02 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Memphis, TN](https://jobright.ai/jobs/info/695849829f1b381eb27135f7?utm_campaign=1054&utm_source=git)** | Memphis, TN 38118 | On Site | Jan 02 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/69584463aa05c26e7ab2318a?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | Hybrid | Jan 02 |
 | **[Landmark Credit Union](https://landmarkcu.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/695843d19f1b381eb271325d?utm_campaign=1054&utm_source=git)** | Brookfield, WI | On Site | Jan 02 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Worcester, MA](https://jobright.ai/jobs/info/69583a67f1f8465b79eede90?utm_campaign=1054&utm_source=git)** | Worcester, MA 01603 | On Site | Jan 02 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, Decatur, AL, Summer 2026](https://jobright.ai/jobs/info/695837c1aa05c26e7ab21c6e?utm_campaign=1054&utm_source=git)** | Decatur, AL | On Site | Jan 02 |
-| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695837a9aa05c26e7ab21c27?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | Jan 02 |
-| **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69583752f1f8465b79eed505?utm_campaign=1054&utm_source=git)** | RPSNA Lawrence KS | On Site | Jan 02 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Cheyenne, WY](https://jobright.ai/jobs/info/695835e7aa05c26e7ab2175a?utm_campaign=1054&utm_source=git)** | Cheyenne, WY 82007 | On Site | Jan 02 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69437c6594730b7398769a8d?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Jan 02 |
-| **[AMH](https://www.americanhomes4rent.com/)** | **[Talent Acquisitions Intern](https://jobright.ai/jobs/info/695834219f1b381eb2710f98?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jan 02 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69437526dd382f5f56698693?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 02 |
-| **[Landmark Credit Union](https://landmarkcu.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69583242aa05c26e7ab20e88?utm_campaign=1054&utm_source=git)** | 555 S Executive Dr, Brookfield, WI 53005, USA | On Site | Jan 02 |
-| **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69583209f1f8465b79eec5f7?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | Jan 02 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6943670e94730b7398767dd3?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
