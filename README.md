@@ -145,7 +145,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Human Resources Internship / Cheyenne, WY](https://jobright.ai/jobs/info/6958cf059f1b381eb271b336?utm_campaign=1054&utm_source=git)** | Cheyenne, WY | On Site | Jan 03 |
 | ↳ | **[Distribution Human Resources Internship / Worcester, MA](https://jobright.ai/jobs/info/6958cec5f1f8465b79ef67ea?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Jan 03 |
 | ↳ | **[Distribution Human Resources Internship / San Antonio, TX](https://jobright.ai/jobs/info/6958ce47aa05c26e7ab2b114?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jan 03 |
-| **[AMH](https://www.americanhomes4rent.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/695836ecf1f8465b79eed38f?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jan 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6959f5a2aa05c26e7ab3a4dc?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 02 |
 | ↳ | **[Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6959f5cdaa05c26e7ab3a56a?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 02 |
 | **[Mission Wealth](https://missionwealth.com)** | **[Human Resources Specialist Intern](https://jobright.ai/jobs/info/6958b90eaa05c26e7ab297e3?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ, US | On Site | Jan 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6959d3c0aa05c26e7ab37e85?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 02 |
 | **[Equity Bank](https://www.equitybank.com/)** | **[HR Internship Spring & Summer 2026](https://jobright.ai/jobs/info/69587483f1f8465b79ef1665?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Promethean Services (HR) and Learning & Development](https://jobright.ai/jobs/info/692e36f5fa28370be26a25b7?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Jan 02 |
+| **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585da29f1b381eb2713dbf?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
