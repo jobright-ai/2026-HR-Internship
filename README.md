@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brother USA](https://brother-usa.com)** | **[Total Rewards Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf238f1f8465b79f1fb1b?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
+| **[Abt Global](http://www.abtglobal.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/695be3cfaa05c26e7ab52acf?utm_campaign=1054&utm_source=git)** | Rockville, MD | Hybrid | Jan 05 |
+| ↳ | **[Total Rewards Intern (April 2026 Start)](https://jobright.ai/jobs/info/695bde70aa05c26e7ab52813?utm_campaign=1054&utm_source=git)** | Rockville, MD | Hybrid | Jan 05 |
 | **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/695bd87b22c9dc0d3d53b1ed?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 05 |
 | **[Abt Global](http://www.abtglobal.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/695bd7b522c9dc0d3d53b186?utm_campaign=1054&utm_source=git)** | Rockville, MD, United States | Hybrid | Jan 05 |
 | ↳ | **[Total Rewards Intern (April 2026 Start)](https://jobright.ai/jobs/info/695bd63cf1f8465b79f1dc43?utm_campaign=1054&utm_source=git)** | Rockville, MD, United States | Hybrid | Jan 05 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695bca56f1f8465b79f1d762?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 05 |
 | **[City and County of Broomfield](https://www.broomfield.org/)** | **[MSW Internship (unpaid)](https://jobright.ai/jobs/info/695bbd5ef396ad6ddab16b2a?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Jan 05 |
-| **[Univest](http://www.univest.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69056c8c63502c0aded7afb3?utm_campaign=1054&utm_source=git)** | Souderton, PA | On Site | Jan 05 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68c8e2c8983e6768bc552d91?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Jan 05 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Diversity Equity & Belonging Internship](https://jobright.ai/jobs/info/692bdf544c474121999cf1e9?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Jan 05 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/69422afabdcf884a5addf7d6?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Jan 05 |
@@ -101,8 +103,7 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695a75a99f1b381eb27319c6?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 04 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118b300c9ee50eaecbabf?utm_campaign=1054&utm_source=git)** | Youngstown, OH | On Site | Jan 04 |
-| **[Novacore](http://nsminc.com)** | **[Summer Intern- HR & Office Administration](https://jobright.ai/jobs/info/690555dfff462851feffcbb7?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118daa49a885af9a42e35?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jan 04 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118daa49a885af9a42e35?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jan 04 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Human Resources](https://jobright.ai/jobs/info/68cc652316d00d2beeb1efcd?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jan 04 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Recruiting Internship](https://jobright.ai/jobs/info/68f07619a6b9004b5e32086f?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b5068b1ade4306aa63f19a?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Jan 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6902320f00a1816c41e9bb0e?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 03 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Human Resources](https://jobright.ai/jobs/info/691f9da0a49a885af9a327ae?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 03 |
 | **[Egan Company](https://www.eganco.com/)** | **[Safety Intern - Summer 2026](https://jobright.ai/jobs/info/68e6994e1852e62f0081c822?utm_campaign=1054&utm_source=git)** | Champlin, MN | Hybrid | Jan 03 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/6902d1bf98707b2b0fe72fff?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
