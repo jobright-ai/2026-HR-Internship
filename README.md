@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9ee14cdf8d94b293a310c?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Jan 05 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/69052bfc122e8474c78d6ffa?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 05 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - Strategy & Operations](https://jobright.ai/jobs/info/695b8dab9f1b381eb273f613?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jan 05 |
+| ↳ | **[Intern - Human Resources - Total Rewards (TR)](https://jobright.ai/jobs/info/695b8d949f1b381eb273f5ef?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - Human Resources - Talent Development & Inclusion](https://jobright.ai/jobs/info/695b8d5ff1f8465b79f1a0fc?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - IT - Employee Experience](https://jobright.ai/jobs/info/695b8d4baa05c26e7ab4e8ef?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - Human Resources - HR Shared Services](https://jobright.ai/jobs/info/695b8d3baa05c26e7ab4e8c5?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jan 05 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Student](https://jobright.ai/jobs/info/695b7ed9aa05c26e7ab4cd95?utm_campaign=1054&utm_source=git)** | Oakville, Ontario, Canada | On Site | Jan 05 |
-| **[Hilti Group](https://www.hilti.group/content/hilti/CP/XX/en.html)** | **[Human Resources Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/695b78aeaa05c26e7ab4c972?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Jan 05 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[HR Intern](https://jobright.ai/jobs/info/695ac620f1f8465b79f0f579?utm_campaign=1054&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 04 |
 | **[World Insurance Associates](https://toinsurance.com/)** | **[Risk Management Client Service Intern, Employee Benefits](https://jobright.ai/jobs/info/695ac5ed9f1b381eb2734670?utm_campaign=1054&utm_source=git)** | Iselin, NJ | On Site | Jan 04 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6959f5cdaa05c26e7ab3a56a?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 02 |
 | **[Mission Wealth](https://missionwealth.com)** | **[Human Resources Specialist Intern](https://jobright.ai/jobs/info/6958b90eaa05c26e7ab297e3?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ, US | On Site | Jan 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6959e3a3aa05c26e7ab38489?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 02 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6959e19ff1f8465b79f039f8?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 02 |
-| **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Administrative Internship- Apply January 2nd through Feb. 13, 2026 only!](https://jobright.ai/jobs/info/6958837a9f1b381eb2716aed?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 02 |
-| **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/6959d8ff9f1b381eb272846e?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
-| **[University of Iowa](http://researchpark.uiowa.edu)** | **[HR Intern, University Human Resources Student Pathways Program](https://jobright.ai/jobs/info/695881f7aa05c26e7ab2671b?utm_campaign=1054&utm_source=git)** | Iowa City, IA | On Site | Jan 02 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6959d3c0aa05c26e7ab37e85?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 02 |
-| **[Equity Bank](https://www.equitybank.com/)** | **[HR Internship Spring & Summer 2026](https://jobright.ai/jobs/info/69587483f1f8465b79ef1665?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
