@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brother USA](https://brother-usa.com)** | **[Talent Mobility Program Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfa05f1f8465b79f208bc?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
+| **[The Gold Studios Group](http://www.TheGoldStudios.com)** | **[Talent Intern](https://jobright.ai/jobs/info/695bf5d122c9dc0d3d53dd83?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Brother USA](https://brother-usa.com)** | **[Total Rewards Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf238f1f8465b79f1fb1b?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
 | **[Abt Global](http://www.abtglobal.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/695be3cfaa05c26e7ab52acf?utm_campaign=1054&utm_source=git)** | Rockville, MD | Hybrid | Jan 05 |
 | ↳ | **[Total Rewards Intern (April 2026 Start)](https://jobright.ai/jobs/info/695bde70aa05c26e7ab52813?utm_campaign=1054&utm_source=git)** | Rockville, MD | Hybrid | Jan 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Musco Lighting](http://www.musco.com)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/6903741e63502c0aded68f32?utm_campaign=1054&utm_source=git)** | Oskaloosa, IA | On Site | Jan 03 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Human Resources](https://jobright.ai/jobs/info/693ce99f50bbaf7650500cba?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jan 03 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6902320f00a1816c41e9bb0e?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 03 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Human Resources](https://jobright.ai/jobs/info/691f9da0a49a885af9a327ae?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 03 |
-| **[Egan Company](https://www.eganco.com/)** | **[Safety Intern - Summer 2026](https://jobright.ai/jobs/info/68e6994e1852e62f0081c822?utm_campaign=1054&utm_source=git)** | Champlin, MN | Hybrid | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
