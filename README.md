@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/695bd87b22c9dc0d3d53b1ed?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 05 |
+| **[Abt Global](http://www.abtglobal.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/695bd7b522c9dc0d3d53b186?utm_campaign=1054&utm_source=git)** | Rockville, MD, United States | Hybrid | Jan 05 |
+| ↳ | **[Total Rewards Intern (April 2026 Start)](https://jobright.ai/jobs/info/695bd63cf1f8465b79f1dc43?utm_campaign=1054&utm_source=git)** | Rockville, MD, United States | Hybrid | Jan 05 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695bca56f1f8465b79f1d762?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 05 |
 | **[City and County of Broomfield](https://www.broomfield.org/)** | **[MSW Internship (unpaid)](https://jobright.ai/jobs/info/695bbd5ef396ad6ddab16b2a?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Jan 05 |
 | **[Univest](http://www.univest.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69056c8c63502c0aded7afb3?utm_campaign=1054&utm_source=git)** | Souderton, PA | On Site | Jan 05 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68c8e2c8983e6768bc552d91?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Jan 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Human Resources](https://jobright.ai/jobs/info/691f9da0a49a885af9a327ae?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 03 |
 | **[Egan Company](https://www.eganco.com/)** | **[Safety Intern - Summer 2026](https://jobright.ai/jobs/info/68e6994e1852e62f0081c822?utm_campaign=1054&utm_source=git)** | Champlin, MN | Hybrid | Jan 03 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/6902d1bf98707b2b0fe72fff?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 03 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Atlantic Region (Charlotte, NC)](https://jobright.ai/jobs/info/693ce5d6aa598a08c3eda9fc?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
-| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Halifax and St. John’s Offices - Opportunities in Governance, Risk and Compliance Services - Intern/Co-op -  Summer 2026](https://jobright.ai/jobs/info/693c9449aa598a08c3ed6dbc?utm_campaign=1054&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 03 |
-| **[True Homes](https://truehomesusa.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/693ca18549a7695fbd036f64?utm_campaign=1054&utm_source=git)** | Monroe, NC | On Site | Jan 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Sunrise](https://jobright.ai/jobs/info/68e86e8e09580a2fe57f79ee?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
