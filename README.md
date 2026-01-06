@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Little League International](https://www.littleleague.org/)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/695d8064f5f3c43f38e250cb?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Jan 06 |
+| **[State of Ohio](http://ohio.gov/)** | **[Human Resources College Intern - PN 20064726](https://jobright.ai/jobs/info/695d803ff5f3c43f38e25086?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 06 |
+| **[AutoStore™](https://www.autostoresystem.com/)** | **[Human Resources Intern - Summer '26](https://jobright.ai/jobs/info/695d7e14fbd62a0a656617bc?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jan 06 |
+| **[Iron Mountain](http://www.ironmountain.com)** | **[Summer 2026 Inclusion and Engagement Intern](https://jobright.ai/jobs/info/695d7b31f1f8465b79f3a991?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jan 06 |
+| **[The Greenbrier](https://www.greenbrier.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695d7610f5f3c43f38e243b9?utm_campaign=1054&utm_source=git)** | Lewisburg, WV | On Site | Jan 06 |
+| **[UFG Insurance](https://www.ufginsurance.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/695d7198fbd62a0a656608d2?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 06 |
 | **[American Chemical Society](https://www.acs.org/)** | **[People Operations Intern](https://jobright.ai/jobs/info/695d63eff1f8465b79f38da4?utm_campaign=1054&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 06 |
+| **[City of Houston](http://www.houstontx.gov)** | **[STUDENT INTERN II](https://jobright.ai/jobs/info/695d8068f5f3c43f38e250d7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 06 |
 | **[3Rivers Federal Credit Union](http://3riversfcu.org)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/695d5d1cf1f8465b79f38937?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Jan 06 |
 | **[Sixth Element Homes](https://www.sixthelement.homes/)** | **[Voluntary Student Internship Opportunity](https://jobright.ai/jobs/info/695d5bc2fbd62a0a6565f373?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Jan 06 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Coordinator, Internship Program Experience](https://jobright.ai/jobs/info/695d7063f1f8465b79f39c14?utm_campaign=1054&utm_source=git)** | Universal City, CA | Hybrid | Jan 06 |
+| **[SMUD](https://www.smud.org/en)** | **[Human Resources Intern: Year Round](https://jobright.ai/jobs/info/695d6c00fbd62a0a65660240?utm_campaign=1054&utm_source=git)** | Sacramento, CA | Hybrid | Jan 06 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/695d716ff5f3c43f38e23d74?utm_campaign=1054&utm_source=git)** | CO - Colorado Springs - East Cheyenne Mountain Blvd | On Site | Jan 06 |
 | **[Eastern Airlines LLC](http://www.goeasternair.com)** | **[Eastern Airlines - Human Resources Intern (Part-Time)](https://jobright.ai/jobs/info/695d4724f1f8465b79f3749f?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US | On Site | Jan 06 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Summer 2026 Inclusion and Engagement Intern](https://jobright.ai/jobs/info/695d4546fbd62a0a6565cb74?utm_campaign=1054&utm_source=git)** | US | MA | Boston | 33 Arch Street | Hybrid | Jan 06 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Human Resources Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d43acf1f8465b79f37129?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH | On Site | Jan 06 |
@@ -97,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cde0af1f8465b79f30fd0?utm_campaign=1054&utm_source=git)** | Windsor, CT | On Site | Jan 06 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cdc925e4962051b5a0648?utm_campaign=1054&utm_source=git)** | Robbinsville, NJ | On Site | Jan 06 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cda471dfa954d1c47024d?utm_campaign=1054&utm_source=git)** | Somerset County, NJ | On Site | Jan 06 |
-| ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cda435e4962051b59ff7e?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | Jan 06 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd84c1dfa954d1c46fc56?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 06 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd2e61dfa954d1c46ef64?utm_campaign=1054&utm_source=git)** | Edison, NJ | On Site | Jan 06 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd1ca1dfa954d1c46ed16?utm_campaign=1054&utm_source=git)** | Penns Grove, NJ | On Site | Jan 06 |
@@ -142,19 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Troon](http://www.troon.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c4523aa05c26e7ab59a7d?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jan 05 |
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695c4423aa05c26e7ab5980c?utm_campaign=1054&utm_source=git)** | Edison, New Jersey, USA | On Site | Jan 05 |
 | **[Fenner Precision Polymers](https://www.fennerppd.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/695c6707aa05c26e7ab5d085?utm_campaign=1054&utm_source=git)** | Lititz, PA | On Site | Jan 05 |
-| **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695c51cef1f8465b79f27321?utm_campaign=1054&utm_source=git)** | Penns Grove, New Jersey, USA | On Site | Jan 05 |
+| **[Haemonetics](http://www.haemonetics.com)** | **[Human Resources Recruiter Intern](https://jobright.ai/jobs/info/695c38e4aa05c26e7ab588ee?utm_campaign=1054&utm_source=git)** | Clinton, PA | On Site | Jan 05 |
+| **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695c50c7aa05c26e7ab5b3c8?utm_campaign=1054&utm_source=git)** | Somerset, New Jersey, USA | On Site | Jan 05 |
+| ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695c51cef1f8465b79f27321?utm_campaign=1054&utm_source=git)** | Penns Grove, New Jersey, USA | On Site | Jan 05 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695c515822c9dc0d3d54445c?utm_campaign=1054&utm_source=git)** | Robbinsville, New Jersey, USA | On Site | Jan 05 |
-| ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695c50c7aa05c26e7ab5b3c8?utm_campaign=1054&utm_source=git)** | Somerset, New Jersey, USA | On Site | Jan 05 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695c52d7aa05c26e7ab5b89c?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts, USA | On Site | Jan 05 |
 | **[MANE](https://www.mane.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f82e9c388539cbdef057?utm_campaign=1054&utm_source=git)** | Lebanon, OH | On Site | Jan 05 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship/Human Resources](https://jobright.ai/jobs/info/695c50c122c9dc0d3d5442f3?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Jan 05 |
-| **[Abt Global](http://www.abtglobal.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/695c572c22c9dc0d3d5452b7?utm_campaign=1054&utm_source=git)** | Rockville, MD | Hybrid | Jan 05 |
-| **[Alterman, Inc.](http://goalterman.com)** | **[Intern - Recruiting](https://jobright.ai/jobs/info/695c537722c9dc0d3d5449b3?utm_campaign=1054&utm_source=git)** | Live Oak, TX | On Site | Jan 05 |
-| **[Velera](https://www.velera.com)** | **[Organizational Development Intern - Remote](https://jobright.ai/jobs/info/695c527c22c9dc0d3d54471d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 05 |
-| ↳ | **[Talent Acquisition/Human Resources Intern - Remote](https://jobright.ai/jobs/info/695c4beef1f8465b79f26351?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 05 |
-| **[Whisker](https://www.litter-robot.com/)** | **[Human Resources Generalist Intern](https://jobright.ai/jobs/info/695c50d5f1f8465b79f270bb?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jan 05 |
-| **[Baltimore Crisis Response, Inc.](https://bcresponse.org/)** | **[HR Intern (9569)](https://jobright.ai/jobs/info/694f46eaa2668b7f545277eb?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Jan 05 |
-| **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c4e7022c9dc0d3d543c43?utm_campaign=1054&utm_source=git)** | Aiken, SC | On Site | Jan 05 |
-| **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Early Careers Recruitment Intern](https://jobright.ai/jobs/info/695c4ca722c9dc0d3d54376a?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jan 05 |
-| **[Daxko](https://www.daxko.com/)** | **[HR Intern (Hybrid - Birmingham)](https://jobright.ai/jobs/info/695c4d54f1f8465b79f26753?utm_campaign=1054&utm_source=git)** | Birmingham, AL | Hybrid | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
