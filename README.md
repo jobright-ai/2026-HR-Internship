@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CEVA SANTE ANIMALE](https://www.ceva.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c343a22c9dc0d3d5412b3?utm_campaign=1054&utm_source=git)** | Kansas, United States | On Site | Jan 05 |
+| **[MANE](https://www.mane.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f82e9c388539cbdef057?utm_campaign=1054&utm_source=git)** | Lebanon, OH | On Site | Jan 05 |
 | **[Steel Technologies](http://www.steeltechnologies.com)** | **[Summer 2026: HR Intern](https://jobright.ai/jobs/info/695435eef1f8465b79eb562e?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 05 |
 | **[Nelson Labs](http://www.nelsonlabs.com)** | **[Human Resources - Internship](https://jobright.ai/jobs/info/693769e11c1c2161c13f4181?utm_campaign=1054&utm_source=git)** | SLC Metro Area | On Site | Jan 05 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Onboarding Excellence, Human Resources - Princeton, NJ](https://jobright.ai/jobs/info/695c037322c9dc0d3d53e52c?utm_campaign=1054&utm_source=git)** | Princeton, NJ | On Site | Jan 05 |
@@ -66,7 +68,10 @@ For a complete list, click the following sortable link below:
 | **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[People Team: Internal Communications Intern](https://jobright.ai/jobs/info/695c112daa05c26e7ab561ee?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
 | **[Alterman, Inc.](http://goalterman.com)** | **[Intern - Recruiting](https://jobright.ai/jobs/info/695c10fcaa05c26e7ab561b1?utm_campaign=1054&utm_source=git)** | Live Oak, Texas, United States | On Site | Jan 05 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[MHRS Intern](https://jobright.ai/jobs/info/695c0ea2f1f8465b79f218e6?utm_campaign=1054&utm_source=git)** | Columbus, OH 43203, USA | Hybrid | Jan 05 |
+| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Promethean Services (HR) and Learning & Development](https://jobright.ai/jobs/info/692e36f5fa28370be26a25b7?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Jan 05 |
 | **[Timberland Partners](http://timberlandpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c2185f1f8465b79f22dba?utm_campaign=1054&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Jan 05 |
+| **[Haemonetics](http://www.haemonetics.com)** | **[Human Resources Recruiter Intern](https://jobright.ai/jobs/info/695c28c4f1f8465b79f2350c?utm_campaign=1054&utm_source=git)** | Clinton, PA | On Site | Jan 05 |
+| **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Intern - Human Resources Culture & Purpose](https://jobright.ai/jobs/info/695c243f22c9dc0d3d54046a?utm_campaign=1054&utm_source=git)** | US-TN-Franklin | On Site | Jan 05 |
 | **[Brother USA](https://brother-usa.com)** | **[Talent Mobility Program Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfa05f1f8465b79f208bc?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
 | **[The Gold Studios Group](http://www.TheGoldStudios.com)** | **[Talent Intern](https://jobright.ai/jobs/info/695bf5d122c9dc0d3d53dd83?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Brother USA](https://brother-usa.com)** | **[Total Rewards Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf238f1f8465b79f1fb1b?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clarios](https://www.clarios.com/)** | **[HR Intern - St Joseph, MO DAP (Summer 2026)](https://jobright.ai/jobs/info/690429e6d64a22104aa97ab7?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Jan 04 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) SS&M -Employee Engagement Summer Intern - TN](https://jobright.ai/jobs/info/68e87fd209580a2fe57f847c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | Hybrid | Jan 04 |
 | **[Camaco](http://www.camacollc.com)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/693db76d49a7695fbd042f1a?utm_campaign=1054&utm_source=git)** | Columbus, NE | On Site | Jan 04 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) SS&M - Digital Product Summer Intern - TN](https://jobright.ai/jobs/info/694cc8a9f5bef51c96ea98b7?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | Hybrid | Jan 04 |
-| **[DP World](https://www.dpworld.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68ccf82ed11b445e0bee5458?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 04 |
-| **[Minnesota Limited](http://www.mnlimited.com)** | **[Human Resources Intern - Lakeville](https://jobright.ai/jobs/info/695a4ff19f1b381eb272eecf?utm_campaign=1054&utm_source=git)** | Lakeville, MN | On Site | Jan 04 |
-| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/68d34f06f0d9af73038e0fa8?utm_campaign=1054&utm_source=git)** | Shakopee, MN | On Site | Jan 04 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/69207e2a3f782d2f1afc8001?utm_campaign=1054&utm_source=git)** | CS-Bryan Area | On Site | Jan 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
