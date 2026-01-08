@@ -57,10 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Nashville](https://jobright.ai/jobs/info/690ab44f4a1b456627b0a6bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Jan 08 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695faf67a112b402660e62e4?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 08 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ef2df131d96e48468549?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Jan 08 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/68da05613c03cd32709423bd?utm_campaign=1054&utm_source=git)** | San Antonio, TX | Hybrid | Jan 08 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/693d0c9650bbaf7650503588?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Jan 08 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69434a2794730b7398765963?utm_campaign=1054&utm_source=git)** | La Porte, IN | On Site | Jan 08 |
+| **[Coinbase](https://www.coinbase.com)** | **[Employee & Workplace Experience Intern](https://jobright.ai/jobs/info/6921828f3f782d2f1afd29e2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 08 |
+| **[Comstock Companies](http://comstockcompanies.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68d01c1ffb49c96ca6eadf68?utm_campaign=1054&utm_source=git)** | Virginia, United States | On Site | Jan 08 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6947b9f6d1953b5d11c0e1b0?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 08 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68d1e8e917554c2d9eee0dc8?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jan 08 |
+| **[Zoox](https://www.zoox.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69091073bcccf20de59d6aef?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Jan 08 |
+| ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/69092899bcccf20de59d80ed?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Jan 08 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Global Total Rewards](https://jobright.ai/jobs/info/695f9995a1bbea1d9a7a548d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 08 |
 | ↳ | **[Graduate Program Internship - Organizational Effectiveness & Talent Management](https://jobright.ai/jobs/info/695f11b7a1bbea1d9a79e463?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 08 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - HR Technology Innovation Research](https://jobright.ai/jobs/info/68edd0ee70b66e2345d4146a?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 08 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Summer Internship - HR Organizational Development](https://jobright.ai/jobs/info/695f9323a112b402660e3b34?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jan 08 |
+| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[BT Rise Intern - Human Resources](https://jobright.ai/jobs/info/692668f0d47de4798ecd70fe?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 08 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Data Scientist Intern, People Analytics (Master's Degree)](https://jobright.ai/jobs/info/6926423fd47de4798ecd5ea1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 08 |
 | **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition Intern-San Francisco](https://jobright.ai/jobs/info/695f83e77ebc25398eb55ccd?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jan 08 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Human Resources Summer Internship 2026](https://jobright.ai/jobs/info/695f6f51a112b402660e161f?utm_campaign=1054&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 08 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/695f6d7ba112b402660e14e2?utm_campaign=1054&utm_source=git)** | Carol Stream, IL | On Site | Jan 08 |
@@ -108,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[PCL Construction](http://www.pcl.com)** | **[HR Systems Analyst Student](https://jobright.ai/jobs/info/695ed8490badca5763af4f79?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 07 |
 | ↳ | **[Human Resources Student](https://jobright.ai/jobs/info/695edf4ba112b402660d988c?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 07 |
 | ↳ | **[Human Resources Student](https://jobright.ai/jobs/info/695edf790badca5763af59ad?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 07 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship](https://jobright.ai/jobs/info/695ee09da112b402660d9a79?utm_campaign=1054&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Jan 07 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/695eea0208ab990f282a3b11?utm_campaign=1054&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Jan 07 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship](https://jobright.ai/jobs/info/695eea0208ab990f282a3b11?utm_campaign=1054&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Jan 07 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/695ee09da112b402660d9a79?utm_campaign=1054&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Jan 07 |
 | **[Allstate](http://www.allstate.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/695ee7080badca5763af64ee?utm_campaign=1054&utm_source=git)** | USA - IL (Remote) | Remote | Jan 07 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern-Philips People Services-Nashville, TN-Summer 2026](https://jobright.ai/jobs/info/695eb8b80badca5763af2f37?utm_campaign=1054&utm_source=git)** | Nashville, Tennessee, United States | On Site | Jan 07 |
 | **[Handy Banjo](http://www.handybanjo.com)** | **[Onboarding Specialist intern](https://jobright.ai/jobs/info/695eb6d3a112b402660d6c5f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 07 |
@@ -135,26 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/69253f2027bf2f41a2c3da06?utm_campaign=1054&utm_source=git)** | Port Coquitlam, British Columbia, Canada | On Site | Jan 07 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Human Resources Intern - Baltimore, MD](https://jobright.ai/jobs/info/68d1fd9117554c2d9eee207d?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Jan 07 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Early Talent Acquisition Intern](https://jobright.ai/jobs/info/69420ec414ee092a69002c53?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Jan 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/69253c1527bf2f41a2c3d89d?utm_campaign=1054&utm_source=git)** | Abbotsford, British Columbia, Canada | On Site | Jan 07 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/69095c13d046ab6061cd48cb?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Jan 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/69095c13d046ab6061cd48cb?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Jan 07 |
 | **[ECCO](https://enter.ecco.com/)** | **[People & Culture - Intern (Paid / Temp) Local Only](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jan 07 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e60a108ab990f2829b5c0?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Jan 07 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/695e605e08ab990f2829b599?utm_campaign=1054&utm_source=git)** | Davidsonville, MD | On Site | Jan 07 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/695d73cef5f3c43f38e24085?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Jan 07 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/695e600ea112b402660d20ec?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jan 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern South Denver](https://jobright.ai/jobs/info/692510b238cd5478a8d61f9c?utm_campaign=1054&utm_source=git)** | Littleton, CO | On Site | Jan 07 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/6955b687f1f8465b79eca990?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jan 07 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e5f7da112b402660d2098?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Jan 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/6909602c4a1b456627affdc2?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Jan 07 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e5e2ea112b402660d1fd4?utm_campaign=1054&utm_source=git)** | Elkridge, MD | On Site | Jan 07 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e5e1a08ab990f2829b42e?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Jan 07 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e5de3a112b402660d1fb0?utm_campaign=1054&utm_source=git)** | Henrico, VA | On Site | Jan 07 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/6924e1acc0cefa13343e3513?utm_campaign=1054&utm_source=git)** | Kodiak, AK | On Site | Jan 07 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Employee Experience](https://jobright.ai/jobs/info/6941e44050bbaf765053ad35?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Jan 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Wilkes Barre](https://jobright.ai/jobs/info/6933d0bd764507023d1b9c17?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | On Site | Jan 07 |
-| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68cd6413e23def7af55b93d3?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Jan 07 |
-| **[Avista Senior Living](https://avistaseniorliving.com)** | **[Recruitment Intern](https://jobright.ai/jobs/info/695e5d1a0badca5763aede3a?utm_campaign=1054&utm_source=git)** | Mesa, AZ | On Site | Jan 07 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/694b7df01a572a617ddde1d8?utm_campaign=1054&utm_source=git)** | Lilburn, GA | On Site | Jan 07 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/694d20f829655e4dd6573446?utm_campaign=1054&utm_source=git)** | Toughkenamon, PA | On Site | Jan 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933e4ada0dde7020e2f2c6a?utm_campaign=1054&utm_source=git)** | Rochester, NY | On Site | Jan 07 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e5beba112b402660d1eb2?utm_campaign=1054&utm_source=git)** | Johns Island, SC | On Site | Jan 07 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695baa0cf1f8465b79f1aecb?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
