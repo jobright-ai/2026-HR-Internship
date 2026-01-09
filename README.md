@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ADDITION Talent Management](https://addition-llc.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69602748a112b402660ee07d?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Jan 08 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/69602160a112b402660ed8f0?utm_campaign=1054&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Jan 08 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Yonkers](https://jobright.ai/jobs/info/68ca35aaf61c922772a74c51?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Jan 08 |
 | **[Price Industries](https://www.priceindustries.com)** | **[Intern - Human Resources Generalist (Benefits) - Summer 2026](https://jobright.ai/jobs/info/69601cdca1bbea1d9a7aeb86?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Jan 08 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Geronimo Power](https://nationalgridrenewables.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6960235d7ebc25398eb612e3?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Jan 08 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Human Resource Business Partner Intern (West Palm Beach, FL)](https://jobright.ai/jobs/info/695ffd0f7ebc25398eb5e679?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Jan 08 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Compensation/HRIS/Payroll Intern-Co-op](https://jobright.ai/jobs/info/695ffb9fa112b402660eae92?utm_campaign=1054&utm_source=git)** | Lake Forest, IL | On Site | Jan 08 |
+| **[Mediclinic Group](https://mediclinic.com)** | **[Human Resources Intern (18 month contract)](https://jobright.ai/jobs/info/6960271c7ebc25398eb61870?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jan 08 |
 | **[Hatch](https://www.hatch.com)** | **[HR Student - Summer 2026](https://jobright.ai/jobs/info/695ff65fa1bbea1d9a7ac253?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 08 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[HR Intern](https://jobright.ai/jobs/info/696015e97ebc25398eb6034d?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Jan 08 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program –Business Enablement Operations – Intern](https://jobright.ai/jobs/info/69600e84a112b402660ec133?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Jan 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zymo Research Corp](https://www.zymoresearch.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695f1d22a1bbea1d9a79fd38?utm_campaign=1054&utm_source=git)** | Tustin, CA | On Site | Jan 07 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Employee Experience - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695ef36a0badca5763af6f6d?utm_campaign=1054&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jan 07 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Intake Assistant Internship](https://jobright.ai/jobs/info/695ef2800badca5763af6ed0?utm_campaign=1054&utm_source=git)** | Suffolk County | On Site | Jan 07 |
-| **[AMERICAN SpiralWeld Pipe Company, LLC](https://american-usa.com/products/spiral-welded-steel-pipe)** | **[Human Resources Intern-Talent Acquisition](https://jobright.ai/jobs/info/695ef019a112b402660dac60?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jan 07 |
-| **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Total Rewards (Benefits & Compensation)](https://jobright.ai/jobs/info/695ef0090badca5763af6c7c?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
