@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Social Media Intern (NFWS)](https://jobright.ai/jobs/info/6962adf625e18715077f75da?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Jan 10 |
+| **[SET ACTIVE](https://setactive.co)** | **[HR Intern](https://jobright.ai/jobs/info/6962ad6d2cbf4e44756c9091?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde2878ba1621431e0ef7?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 10 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde189821486c423c7d6d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPI](http://jpi.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69616f31f3f4cd132506665f?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/69616d86f3f4cd1325066451?utm_campaign=1054&utm_source=git)** | Shakopee, MN | On Site | Jan 09 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Talent Acquisition Intern - Green Bay, Wi - Year round](https://jobright.ai/jobs/info/69618a93a112b4026610237f?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 09 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Systems & Benefits](https://jobright.ai/jobs/info/69616cb8a112b402660fef1e?utm_campaign=1054&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Jan 09 |
-| **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694eb8fe29655e4dd6584916?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
