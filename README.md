@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/6945b77863141d1884554723?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jan 10 |
+| **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690c0510221b890c277fa99c?utm_campaign=1054&utm_source=git)** | Maryland, United States | Hybrid | Jan 10 |
+| **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68d598491f7fb2169ab12241?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Jan 10 |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[People Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d52f07090163b6ba543d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
 | **[UBS](https://www.ubs.com)** | **[UBS Veterans Pathway Internship 2026 (Nashville)](https://jobright.ai/jobs/info/69621d10a112b40266108590?utm_campaign=1054&utm_source=git)** | Tennessee, United States | On Site | Jan 10 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Fall Human Resources Intern](https://jobright.ai/jobs/info/6962135a25e18715077ef1bb?utm_campaign=1054&utm_source=git)** | 1000 TWINBROOK PARKWAY - ROCKVILLE, MD 20851 | On Site | Jan 10 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6962048325e18715077ee8d0?utm_campaign=1054&utm_source=git)** | Lone Tree, CO | On Site | Jan 09 |
@@ -85,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Stop & Shop](http://stopandshop.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961a180a112b40266103685?utm_campaign=1054&utm_source=git)** | Quincy, MA | Hybrid | Jan 09 |
 | **[Volkswagen of America, Inc](https://www.vw.com/)** | **[Summer Intern - Employee Experience](https://jobright.ai/jobs/info/69619d0aa112b40266103448?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jan 09 |
 | **[Propio Language Services](http://propio-ls.com)** | **[HR - Learning Experience & Instructional Design Intern](https://jobright.ai/jobs/info/6961bdc6a112b40266104e67?utm_campaign=1054&utm_source=git)** | Overland Park,KS,US | On Site | Jan 09 |
-| **[VA250 Commission](https://va250.org/)** | **[Regional Talent Solutions & Business Outreach Intern](https://jobright.ai/jobs/info/6961bc20f3f4cd132506c28b?utm_campaign=1054&utm_source=git)** | Richmond, VA, US | Hybrid | Jan 09 |
-| ↳ | **[Talent Acquisition Services Intern](https://jobright.ai/jobs/info/6961bd7fa112b40266104e35?utm_campaign=1054&utm_source=git)** | Richmond, VA, US | Hybrid | Jan 09 |
+| **[VA250 Commission](https://va250.org/)** | **[Talent Acquisition Services Intern](https://jobright.ai/jobs/info/6961bd7fa112b40266104e35?utm_campaign=1054&utm_source=git)** | Richmond, VA, US | Hybrid | Jan 09 |
+| ↳ | **[Regional Talent Solutions & Business Outreach Intern](https://jobright.ai/jobs/info/6961bc20f3f4cd132506c28b?utm_campaign=1054&utm_source=git)** | Richmond, VA, US | Hybrid | Jan 09 |
 | **[Flatiron Construction](http://www.flatironcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bdcba112b40266104e6a?utm_campaign=1054&utm_source=git)** | US-CA-Chino | On Site | Jan 09 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6961b5afe7ed9a5731ba89a3?utm_campaign=1054&utm_source=git)** | US-CO-Broomfield | On Site | Jan 09 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 - Disability Case Manager](https://jobright.ai/jobs/info/6961965da112b40266102e39?utm_campaign=1054&utm_source=git)** | Québec, Quebec, Canada | Remote | Jan 09 |
@@ -115,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[HR Intern - Talent Development Job ID : 269662](https://jobright.ai/jobs/info/69618de7f3f4cd1325069d97?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jan 09 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - HR](https://jobright.ai/jobs/info/69615f7be7ed9a5731ba25e0?utm_campaign=1054&utm_source=git)** | Lake Zurich, IL | On Site | Jan 09 |
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Intern (Attorney Recruiting & Development)](https://jobright.ai/jobs/info/69615e80f3f4cd1325065677?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 09 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Benefits Delivery Administrator Intern (4 Months)](https://jobright.ai/jobs/info/69615e72a112b402660fe29c?utm_campaign=1054&utm_source=git)** | MISSISSAUGA, Ontario, Canada | On Site | Jan 09 |
-| **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Intern (Attorney Recruiting & Development)](https://jobright.ai/jobs/info/69615e25f3f4cd1325065617?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
+| ↳ | **[Intern (Attorney Recruiting & Development)](https://jobright.ai/jobs/info/69615e25f3f4cd1325065617?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Benefits Delivery Administrator Intern (4 Months)](https://jobright.ai/jobs/info/69615cfcf3f4cd13250654d5?utm_campaign=1054&utm_source=git)** | MISSISSAUGA, Ontario, Canada | On Site | Jan 09 |
 | **[Yazaki North America](https://www.yii.tech/)** | **[Intern, General HR](https://jobright.ai/jobs/info/69615c2ea112b402660fe012?utm_campaign=1054&utm_source=git)** | Canton, MI | On Site | Jan 09 |
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Intern (Attorney Recruiting & Development)](https://jobright.ai/jobs/info/69615b75e7ed9a5731ba21a8?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jan 09 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 People + Culture Intern / Support Center](https://jobright.ai/jobs/info/696159b2a112b402660fdd34?utm_campaign=1054&utm_source=git)** | Chevy Chase Village, Maryland, United States | On Site | Jan 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/6933bb23f131d96e48466873?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Jan 09 |
 | **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern (Onsite)](https://jobright.ai/jobs/info/68f01e9778ba1621431e1fa7?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jan 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6933cb2bf131d96e48466fd8?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Jan 09 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7caed5e55be5e2604dd36?utm_campaign=1054&utm_source=git)** | O'Fallon, IL | On Site | Jan 09 |
-| ↳ | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69292507f0beb07232631f57?utm_campaign=1054&utm_source=git)** | St John’s, Newfoundland and Labrador, Canada | On Site | Jan 09 |
-| ↳ | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/692919bed47de4798ece44bd?utm_campaign=1054&utm_source=git)** | Saint John, New Brunswick, Canada | On Site | Jan 09 |
-| ↳ | **[Management Trainee Summer Internship - 2026 - Bilingual](https://jobright.ai/jobs/info/69291bc591ceeb2e8a546f97?utm_campaign=1054&utm_source=git)** | Dieppe, New Brunswick, Canada | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
