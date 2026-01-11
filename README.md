@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lake Erie College of Osteopathic Medicine (LECOM)](https://lecomhealth.com/community-hospital/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6963da5725e1871507807201?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Jan 11 |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern -  Human Resources](https://jobright.ai/jobs/info/6963cae0a112b4026611d693?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 11 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Intern - Learning & Talent](https://jobright.ai/jobs/info/6963b051a112b4026611ca89?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Jan 11 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6963afff2cbf4e44756d623b?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Jan 11 |
 | ↳ | **[HR Intern - tkMMS](https://jobright.ai/jobs/info/6963af3ba112b4026611c9cc?utm_campaign=1054&utm_source=git)** | Southfield, MI | Hybrid | Jan 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Jan 09 |
 | **[Propio Language Services](http://propio-ls.com)** | **[HR - Learning Experience & Instructional Design Intern](https://jobright.ai/jobs/info/6961b70be7ed9a5731ba8b04?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jan 09 |
 | **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961b2b5e7ed9a5731ba86b8?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jan 09 |
-| **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Director](https://jobright.ai/jobs/info/6961b263e7ed9a5731ba8671?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jan 09 |
-| **[Dallas Zoo](http://dallaszoo.com)** | **[Volunteer Management Intern - Summer 2026](https://jobright.ai/jobs/info/6961b141e7ed9a5731ba8579?utm_campaign=1054&utm_source=git)** | Dallas, Texas | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
