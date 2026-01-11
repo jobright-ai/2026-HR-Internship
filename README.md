@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694744c563141d188456e69a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 11 |
+| **[Daikin Comfort](http://www.daikincomfort.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/68b88dc95b42bc45628256b6?utm_campaign=1054&utm_source=git)** | Waller, TX | On Site | Jan 11 |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Talent](https://jobright.ai/jobs/info/694779b8d1953b5d11c08b8f?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Jan 11 |
+| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Talent](https://jobright.ai/jobs/info/69475973d1953b5d11c07705?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Jan 11 |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[People Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6225b42bc4562828245?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jan 11 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - People Researcher](https://jobright.ai/jobs/info/690e858dd046ab6061cfe79a?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 11 |
+| **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/695df6304b7a590c5b956748?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Jan 11 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[People & Culture (HR) Summer Intern](https://jobright.ai/jobs/info/69581c8daa05c26e7ab1ff0a?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 11 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - HR](https://jobright.ai/jobs/info/6963557d25e18715077fed20?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
 | **[Bright Harbor Healthcare](https://brightharbor.org)** | **[Diversity, Equity, Inclusion and Justice Intern](https://jobright.ai/jobs/info/69631436a112b402661146f0?utm_campaign=1054&utm_source=git)** | Bayville, NJ | On Site | Jan 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6961b5afe7ed9a5731ba89a3?utm_campaign=1054&utm_source=git)** | US-CO-Broomfield | On Site | Jan 09 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 - Disability Case Manager](https://jobright.ai/jobs/info/6961965da112b40266102e39?utm_campaign=1054&utm_source=git)** | Québec, Quebec, Canada | Remote | Jan 09 |
 | **[Auctane](https://auctane.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961955ce7ed9a5731ba7021?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
-| **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Human Resources Internship - Systems & Benefits](https://jobright.ai/jobs/info/69619454a112b40266102bbf?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jan 09 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Global Talent Management PhD Intern](https://jobright.ai/jobs/info/696193c9f3f4cd132506a1b9?utm_campaign=1054&utm_source=git)** | New Brunswick, NJ | On Site | Jan 09 |
-| **[Antunes](http://www.ajantunes.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c4ed5aa05c26e7ab5aefb?utm_campaign=1054&utm_source=git)** | Carol Stream, IL | On Site | Jan 09 |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Human Resources & Talent Acquisition Intern, Spring 2026](https://jobright.ai/jobs/info/69618610e7ed9a5731ba5a14?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 09 |
-| **[Red River Commodities Inc](https://redriv.com)** | **[Human Resources Communications Intern](https://jobright.ai/jobs/info/69618517a112b4026610135a?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Jan 09 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Talent Acquisition Intern - Green Bay, Wi - Year round](https://jobright.ai/jobs/info/696183d0e7ed9a5731ba52c0?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 09 |
-| **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Talent Department](https://jobright.ai/jobs/info/692f8e244c474121999e0595?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
