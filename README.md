@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - HR](https://jobright.ai/jobs/info/6963557d25e18715077fed20?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
 | **[Bright Harbor Healthcare](https://brightharbor.org)** | **[Diversity, Equity, Inclusion and Justice Intern](https://jobright.ai/jobs/info/69631436a112b402661146f0?utm_campaign=1054&utm_source=git)** | Bayville, NJ | On Site | Jan 10 |
 | **[T. A. Loving Company](https://www.taloving.com/)** | **[People Services Onboaring Intern](https://jobright.ai/jobs/info/6962ecbba112b40266111fd2?utm_campaign=1054&utm_source=git)** | Goldsboro, NC | On Site | Jan 10 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Talent Pool Business Internships](https://jobright.ai/jobs/info/6962c74b2cbf4e44756caf30?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Jan 10 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[INTERN - HR](https://jobright.ai/jobs/info/6945d98b9516540735380a3e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Benefits](https://jobright.ai/jobs/info/6945eb5a7d506e3808f12e12?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Examinations Development - Provisional Hiring, Emerging Talent Intern](https://jobright.ai/jobs/info/69127640ea9ab01b82bf2dc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
-| ↳ | **[Employment Operations, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912ee6ac98948514c47f9be?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Employment Operations, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912ee6ac98948514c47f9be?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
+| ↳ | **[Examinations Development - Provisional Hiring, Emerging Talent Intern](https://jobright.ai/jobs/info/69127640ea9ab01b82bf2dc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Operations Support Associate, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691babf015b4156367191763?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ec79944146d3b6ec57c27?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Classification Unit, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691277b2c98948514c47bff1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Stop & Shop](http://stopandshop.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961a180a112b40266103685?utm_campaign=1054&utm_source=git)** | Quincy, MA | Hybrid | Jan 09 |
 | **[Volkswagen of America, Inc](https://www.vw.com/)** | **[Summer Intern - Employee Experience](https://jobright.ai/jobs/info/69619d0aa112b40266103448?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jan 09 |
 | **[Propio Language Services](http://propio-ls.com)** | **[HR - Learning Experience & Instructional Design Intern](https://jobright.ai/jobs/info/6961bdc6a112b40266104e67?utm_campaign=1054&utm_source=git)** | Overland Park,KS,US | On Site | Jan 09 |
-| **[VA250 Commission](https://va250.org/)** | **[Talent Acquisition Services Intern](https://jobright.ai/jobs/info/6961bd7fa112b40266104e35?utm_campaign=1054&utm_source=git)** | Richmond, VA, US | Hybrid | Jan 09 |
-| ↳ | **[Regional Talent Solutions & Business Outreach Intern](https://jobright.ai/jobs/info/6961bc20f3f4cd132506c28b?utm_campaign=1054&utm_source=git)** | Richmond, VA, US | Hybrid | Jan 09 |
+| **[VA250 Commission](https://va250.org/)** | **[Regional Talent Solutions & Business Outreach Intern](https://jobright.ai/jobs/info/6961bc20f3f4cd132506c28b?utm_campaign=1054&utm_source=git)** | Richmond, VA, US | Hybrid | Jan 09 |
+| ↳ | **[Talent Acquisition Services Intern](https://jobright.ai/jobs/info/6961bd7fa112b40266104e35?utm_campaign=1054&utm_source=git)** | Richmond, VA, US | Hybrid | Jan 09 |
 | **[Flatiron Construction](http://www.flatironcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bdcba112b40266104e6a?utm_campaign=1054&utm_source=git)** | US-CA-Chino | On Site | Jan 09 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6961b5afe7ed9a5731ba89a3?utm_campaign=1054&utm_source=git)** | US-CO-Broomfield | On Site | Jan 09 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 - Disability Case Manager](https://jobright.ai/jobs/info/6961965da112b40266102e39?utm_campaign=1054&utm_source=git)** | Québec, Quebec, Canada | Remote | Jan 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank | Equitable Bank](http://www.eqbank.ca)** | **[Modern Workplace Analyst - Summer Intern 2026](https://jobright.ai/jobs/info/69619d56e7ed9a5731ba7785?utm_campaign=1054&utm_source=git)** | Toronto | Hybrid | Jan 09 |
 | **[The Familie](https://thefamilie.com)** | **[Summer Sports Intern](https://jobright.ai/jobs/info/6961a25fa112b402661036fe?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Jan 09 |
 | **[EQ Bank | Equitable Bank](http://www.eqbank.ca)** | **[Modern Workplace Analyst - Summer Intern 2026](https://jobright.ai/jobs/info/69619bf9f3f4cd132506a8c7?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Tech & Transformation - HR Strategy & Operations - Co-op/Intern Summer 2026 - Multiple Locations](https://jobright.ai/jobs/info/69617833f3f4cd1325067165?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA, M5C 3G7 | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
