@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bright Harbor Healthcare](https://brightharbor.org)** | **[Diversity, Equity, Inclusion and Justice Intern](https://jobright.ai/jobs/info/69631436a112b402661146f0?utm_campaign=1054&utm_source=git)** | Bayville, NJ | On Site | Jan 10 |
 | **[T. A. Loving Company](https://www.taloving.com/)** | **[People Services Onboaring Intern](https://jobright.ai/jobs/info/6962ecbba112b40266111fd2?utm_campaign=1054&utm_source=git)** | Goldsboro, NC | On Site | Jan 10 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Talent Pool Business Internships](https://jobright.ai/jobs/info/6962c74b2cbf4e44756caf30?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Jan 10 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Social Media Intern (NFWS)](https://jobright.ai/jobs/info/6962adf625e18715077f75da?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Jan 10 |
 | **[SET ACTIVE](https://setactive.co)** | **[HR Intern](https://jobright.ai/jobs/info/6962ad6d2cbf4e44756c9091?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 10 |
+| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Blackmont HR Intern (Students Only)](https://jobright.ai/jobs/info/6963102aa112b402661145c0?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde2878ba1621431e0ef7?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 10 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde189821486c423c7d6d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank | Equitable Bank](http://www.eqbank.ca)** | **[Modern Workplace Analyst - Summer Intern 2026](https://jobright.ai/jobs/info/69619bf9f3f4cd132506a8c7?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tech & Transformation - HR Strategy & Operations - Co-op/Intern Summer 2026 - Multiple Locations](https://jobright.ai/jobs/info/69617833f3f4cd1325067165?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA, M5C 3G7 | Hybrid | Jan 09 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Systems & Benefits](https://jobright.ai/jobs/info/696175efe7ed9a5731ba3d5b?utm_campaign=1054&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Jan 09 |
-| **[EveryMind.](https://www.every-mind.org)** | **[Fall Human Resources Intern](https://jobright.ai/jobs/info/69619357f3f4cd132506a143?utm_campaign=1054&utm_source=git)** | Rockville, MD | On Site | Jan 09 |
-| **[JPI](http://jpi.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69616f31f3f4cd132506665f?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
