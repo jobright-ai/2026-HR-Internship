@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlotte Area Transit System](http://ridetransit.org)** | **[Opportunity & Access - 4 Yr Undergrad Intern I](https://jobright.ai/jobs/info/6964864aa112b402661270ed?utm_campaign=1054&utm_source=git)** | CLT Center | On Site | Jan 11 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- HR Workforce Development](https://jobright.ai/jobs/info/6964475ca112b4026612409e?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Jan 11 |
 | ↳ | **[Intern- HR Compensation](https://jobright.ai/jobs/info/6964467da112b40266124063?utm_campaign=1054&utm_source=git)** | Portland, ME | Remote | Jan 11 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69640dbb2cbf4e44756db9c5?utm_campaign=1054&utm_source=git)** | Wheeling, IL | Hybrid | Jan 11 |
@@ -70,9 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Intern - tkMMS](https://jobright.ai/jobs/info/6963af3ba112b4026611c9cc?utm_campaign=1054&utm_source=git)** | Southfield, MI | Hybrid | Jan 11 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 11 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Industrial/Personnel Security Intern (Transitioning Military)](https://jobright.ai/jobs/info/6929f854fa28370be2695e87?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jan 11 |
-| **[CN](http://www.cn.ca)** | **[Intern, Labor Relations & Compliance- FR](https://jobright.ai/jobs/info/69307f704c474121999e5a18?utm_campaign=1054&utm_source=git)** | Homewood, IL | On Site | Jan 11 |
-| ↳ | **[Intern, Occupational Health Services - Indigenous- EN](https://jobright.ai/jobs/info/695beb3aaa05c26e7ab52f4a?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 11 |
-| ↳ | **[Intern, Analyst Global Mobility- EN](https://jobright.ai/jobs/info/695b53d69f1b381eb273bdd8?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68b9c6548043103d4f21a3e3?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Jan 11 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Talent Acquisition & Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/68d42eb38c62e63bc7fe680b?utm_campaign=1054&utm_source=git)** | Attleboro, MA | Hybrid | Jan 11 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/68f37e1476a51a4307bce6b9?utm_campaign=1054&utm_source=git)** | Cactus, TX | On Site | Jan 11 |
@@ -100,11 +98,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde189821486c423c7d6d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 10 |
 | **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f14489f462172a5a7d5721?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
-| **[CN](http://www.cn.ca)** | **[Intern, Occupational Health Services - Indigenous- EN](https://jobright.ai/jobs/info/695b6b7af1f8465b79f17b42?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
-| ↳ | **[Intern, Pension & Benefits- Indigenous- EN](https://jobright.ai/jobs/info/695a122a9f1b381eb272b47a?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 10 |
+| **[CN](http://www.cn.ca)** | **[Intern, Pension & Benefits- Indigenous- EN](https://jobright.ai/jobs/info/695a122a9f1b381eb272b47a?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 10 |
 | ↳ | **[Intern, Occupational Health Services - Indigenous- EN](https://jobright.ai/jobs/info/695cc1645e4962051b59e5e8?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | ↳ | **[Intern, Pension & Benefits- Indigenous- EN](https://jobright.ai/jobs/info/695e0a8252ab763cd7ea7782?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
-| ↳ | **[Intern, Labor Relations & Compliance- EN](https://jobright.ai/jobs/info/694b64aed64ebf28d82118c6?utm_campaign=1054&utm_source=git)** | Homewood, IL | On Site | Jan 10 |
 | ↳ | **[Intern, Pension & Benefits- Indigenous- EN](https://jobright.ai/jobs/info/695899579f1b381eb2717230?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/6933eff6f131d96e484687ed?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Jan 10 |
 | **[CN](http://www.cn.ca)** | **[Intern, Compensation (Market Analyst)- EN](https://jobright.ai/jobs/info/695e251c3c6a895ac5eefa7c?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 10 |
@@ -116,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - East Indianapolis](https://jobright.ai/jobs/info/68d4c9faffc1276de3fde1fd?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 10 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690d7589d046ab6061cf6671?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 10 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/69625082a112b4026610ba66?utm_campaign=1054&utm_source=git)** | Hilton Head Island, SC | On Site | Jan 10 |
-| **[CN](http://www.cn.ca)** | **[Intern, Human Resources Business Analysis- EN](https://jobright.ai/jobs/info/69635fa225e18715077fef2a?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 10 |
 | **[JD.COM](http://corporate.jd.com)** | **[HRBP Intern](https://jobright.ai/jobs/info/6945a215951654073537bd4e?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | Jan 10 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d76204a1b456627b218c0?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/6933ba44f131d96e484665be?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jan 10 |
@@ -128,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[INTERN - HR](https://jobright.ai/jobs/info/6945d98b9516540735380a3e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Benefits](https://jobright.ai/jobs/info/6945eb5a7d506e3808f12e12?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Examinations Development - Provisional Hiring, Emerging Talent Intern](https://jobright.ai/jobs/info/69127640ea9ab01b82bf2dc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
-| ↳ | **[Employment Operations, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912ee6ac98948514c47f9be?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Employment Operations, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912ee6ac98948514c47f9be?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
+| ↳ | **[Examinations Development - Provisional Hiring, Emerging Talent Intern](https://jobright.ai/jobs/info/69127640ea9ab01b82bf2dc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Operations Support Associate, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691babf015b4156367191763?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ec79944146d3b6ec57c27?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Classification Unit, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691277b2c98948514c47bff1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
@@ -157,4 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[HR Intern - Germany](https://jobright.ai/jobs/info/6961c994a112b402661056fa?utm_campaign=1054&utm_source=git)** | St Georges, DE | On Site | Jan 09 |
 | **[Auctane](https://auctane.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961c91de7ed9a5731ba99ca?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tech & Transformation - HR Strategy & Operations - Co-op/Intern Summer 2026 - Multiple Locations](https://jobright.ai/jobs/info/6961c767a112b402661055c0?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Jan 09 |
+| **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Operations Manager](https://jobright.ai/jobs/info/6961baf0e7ed9a5731ba8ef6?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jan 09 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Jan 09 |
+| **[Propio Language Services](http://propio-ls.com)** | **[HR - Learning Experience & Instructional Design Intern](https://jobright.ai/jobs/info/6961b70be7ed9a5731ba8b04?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jan 09 |
+| **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961b2b5e7ed9a5731ba86b8?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
