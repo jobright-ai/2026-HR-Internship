@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69651b2a2cbf4e44756e8632?utm_campaign=1054&utm_source=git)** | Holly, MI | On Site | Jan 12 |
+| **[GE Aerospace](https://www.geaerospace.com)** | **[GE Aerospace – Talent Assessment Internship, Summer 2026](https://jobright.ai/jobs/info/696516432cbf4e44756e836d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 12 |
+| **[ServiceTrade](http://servicetrade.com)** | **[People & Talent Strategy Intern](https://jobright.ai/jobs/info/696512856d52670c5c3dd42b?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Jan 12 |
+| ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/69650c742cbf4e44756e7ec8?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Jan 12 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/6964f9e66d52670c5c3dc6a9?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jan 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/68b9c7bf6105227d11897a94?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Jan 12 |
 | ↳ | **[Spring 2026 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/6933dd99764507023d1ba421?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Jan 12 |
@@ -141,13 +145,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Internship (Summer '26) - Chicagoland Locations](https://jobright.ai/jobs/info/6933fe0ef131d96e48468e8b?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/6945eba363141d188455872b?utm_campaign=1054&utm_source=git)** | Morristown, NJ | Hybrid | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddbede50091dbfa50bbf?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Jan 10 |
-| **[KIPP DC](https://www.kippdc.org/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/694622877d506e3808f17431?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6945eea87d506e3808f12fcd?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[INTERN - HR](https://jobright.ai/jobs/info/6945d98b9516540735380a3e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Benefits](https://jobright.ai/jobs/info/6945eb5a7d506e3808f12e12?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Examinations Development - Provisional Hiring, Emerging Talent Intern](https://jobright.ai/jobs/info/69127640ea9ab01b82bf2dc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
-| ↳ | **[Employment Operations, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912ee6ac98948514c47f9be?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Employment Operations, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912ee6ac98948514c47f9be?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
+| ↳ | **[Examinations Development - Provisional Hiring, Emerging Talent Intern](https://jobright.ai/jobs/info/69127640ea9ab01b82bf2dc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Operations Support Associate, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691babf015b4156367191763?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ec79944146d3b6ec57c27?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Classification Unit, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691277b2c98948514c47bff1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Business and Performance Intern (8 months)](https://jobright.ai/jobs/info/6945cc35951654073537e8c4?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
 | **[Dr. Bronner's](https://www.drbronner.com)** | **[Human Resources Generalist Fair Trade Intern](https://jobright.ai/jobs/info/6945afded1953b5d11beabe1?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Jan 10 |
 | **[Avalon Holographics](http://www.avalonholographics.com/)** | **[HR Co-op Student Opportunity - Spring 2026](https://jobright.ai/jobs/info/694584f4d1953b5d11be8452?utm_campaign=1054&utm_source=git)** | St John’s, Newfoundland and Labrador, Canada | On Site | Jan 10 |
-| **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690c0510221b890c277fa99c?utm_campaign=1054&utm_source=git)** | Maryland, United States | Hybrid | Jan 10 |
-| **[McElhanney](https://www.mcelhanney.com)** | **[Technical Recruiter - Early Talent](https://jobright.ai/jobs/info/69461271d1953b5d11bf33a8?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
