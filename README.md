@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 12 |
 | **[H2M architects + engineers](http://h2m.com/)** | **[Human Resources - Student Intern](https://jobright.ai/jobs/info/6964a1a625e187150780f657?utm_campaign=1054&utm_source=git)** | Melville, NY, USA | On Site | Jan 11 |
 | **[Gushcloud International](http://gushcloud.com)** | **[Talent Manager Intern](https://jobright.ai/jobs/info/696497ee25e187150780f1bb?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 11 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, People Services & Culture](https://jobright.ai/jobs/info/696496592cbf4e44756e107a?utm_campaign=1054&utm_source=git)** | Verona, WI | On Site | Jan 11 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[INTERN - HR](https://jobright.ai/jobs/info/6945d98b9516540735380a3e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Benefits](https://jobright.ai/jobs/info/6945eb5a7d506e3808f12e12?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Employment Operations, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912ee6ac98948514c47f9be?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
-| ↳ | **[Examinations Development - Provisional Hiring, Emerging Talent Intern](https://jobright.ai/jobs/info/69127640ea9ab01b82bf2dc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Examinations Development - Provisional Hiring, Emerging Talent Intern](https://jobright.ai/jobs/info/69127640ea9ab01b82bf2dc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
+| ↳ | **[Employment Operations, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912ee6ac98948514c47f9be?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Operations Support Associate, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691babf015b4156367191763?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ec79944146d3b6ec57c27?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Classification Unit, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691277b2c98948514c47bff1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Intern - Human Resources - Learning and Development](https://jobright.ai/jobs/info/6961df17a112b402661062c4?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Jan 09 |
 | **[GRAEF](http://graef-usa.com)** | **[HR Intern Part-Time A1](https://jobright.ai/jobs/info/6961d4f1a112b40266105e2d?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 09 |
 | **[Amazon](https://amazon.com)** | **[HR Intern - Germany](https://jobright.ai/jobs/info/6961c994a112b402661056fa?utm_campaign=1054&utm_source=git)** | St Georges, DE | On Site | Jan 09 |
-| **[Auctane](https://auctane.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961c91de7ed9a5731ba99ca?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
