@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H2M architects + engineers](http://h2m.com/)** | **[Human Resources - Student Intern](https://jobright.ai/jobs/info/6964a1a625e187150780f657?utm_campaign=1054&utm_source=git)** | Melville, NY, USA | On Site | Jan 11 |
+| **[Gushcloud International](http://gushcloud.com)** | **[Talent Manager Intern](https://jobright.ai/jobs/info/696497ee25e187150780f1bb?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 11 |
+| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, People Services & Culture](https://jobright.ai/jobs/info/696496592cbf4e44756e107a?utm_campaign=1054&utm_source=git)** | Verona, WI | On Site | Jan 11 |
+| ↳ | **[Summer Intern, People Services & Culture](https://jobright.ai/jobs/info/696495c62cbf4e44756e1066?utm_campaign=1054&utm_source=git)** | Verona, Wisconsin, United States | On Site | Jan 11 |
 | **[Charlotte Area Transit System](http://ridetransit.org)** | **[Opportunity & Access - 4 Yr Undergrad Intern I](https://jobright.ai/jobs/info/6964864aa112b402661270ed?utm_campaign=1054&utm_source=git)** | CLT Center | On Site | Jan 11 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- HR Workforce Development](https://jobright.ai/jobs/info/6964475ca112b4026612409e?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Jan 11 |
 | ↳ | **[Intern- HR Compensation](https://jobright.ai/jobs/info/6964467da112b40266124063?utm_campaign=1054&utm_source=git)** | Portland, ME | Remote | Jan 11 |
@@ -90,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/695df6304b7a590c5b956748?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Jan 11 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[People & Culture (HR) Summer Intern](https://jobright.ai/jobs/info/69581c8daa05c26e7ab1ff0a?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 11 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - HR](https://jobright.ai/jobs/info/6963557d25e18715077fed20?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
+| **[CN](http://www.cn.ca)** | **[Intern, Human Resources Business Analysis- EN](https://jobright.ai/jobs/info/6964a23725e187150780f816?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 10 |
 | **[T. A. Loving Company](https://www.taloving.com/)** | **[People Services Onboaring Intern](https://jobright.ai/jobs/info/6962ecbba112b40266111fd2?utm_campaign=1054&utm_source=git)** | Goldsboro, NC | On Site | Jan 10 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Social Media Intern (NFWS)](https://jobright.ai/jobs/info/6962adf625e18715077f75da?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Jan 10 |
 | **[SET ACTIVE](https://setactive.co)** | **[HR Intern](https://jobright.ai/jobs/info/6962ad6d2cbf4e44756c9091?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 10 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | **[EveryMind.](https://www.every-mind.org)** | **[Fall Human Resources Intern](https://jobright.ai/jobs/info/6962135a25e18715077ef1bb?utm_campaign=1054&utm_source=git)** | 1000 TWINBROOK PARKWAY - ROCKVILLE, MD 20851 | On Site | Jan 10 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6962048325e18715077ee8d0?utm_campaign=1054&utm_source=git)** | Lone Tree, CO | On Site | Jan 09 |
 | ↳ | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69620153a112b40266107162?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Jan 09 |
+| **[KEEN](http://www.keenfootwear.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/695f2817a1bbea1d9a7a0980?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Jan 09 |
 | **[House of Ruth Maryland](http://www.hruth.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961e853a112b40266106765?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Jan 09 |
 | **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Human Resources - Total Rewards](https://jobright.ai/jobs/info/6961e67cf3f4cd132506dca5?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Jan 09 |
 | ↳ | **[Corporate Intern - Human Resources - Learning and Development](https://jobright.ai/jobs/info/6961df17a112b402661062c4?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Jan 09 |
 | **[GRAEF](http://graef-usa.com)** | **[HR Intern Part-Time A1](https://jobright.ai/jobs/info/6961d4f1a112b40266105e2d?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 09 |
 | **[Amazon](https://amazon.com)** | **[HR Intern - Germany](https://jobright.ai/jobs/info/6961c994a112b402661056fa?utm_campaign=1054&utm_source=git)** | St Georges, DE | On Site | Jan 09 |
 | **[Auctane](https://auctane.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961c91de7ed9a5731ba99ca?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Tech & Transformation - HR Strategy & Operations - Co-op/Intern Summer 2026 - Multiple Locations](https://jobright.ai/jobs/info/6961c767a112b402661055c0?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Jan 09 |
-| **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Operations Manager](https://jobright.ai/jobs/info/6961baf0e7ed9a5731ba8ef6?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jan 09 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Jan 09 |
-| **[Propio Language Services](http://propio-ls.com)** | **[HR - Learning Experience & Instructional Design Intern](https://jobright.ai/jobs/info/6961b70be7ed9a5731ba8b04?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jan 09 |
-| **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961b2b5e7ed9a5731ba86b8?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
