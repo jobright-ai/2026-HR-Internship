@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- HR Workforce Development](https://jobright.ai/jobs/info/6964475ca112b4026612409e?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Jan 11 |
+| ↳ | **[Intern- HR Compensation](https://jobright.ai/jobs/info/6964467da112b40266124063?utm_campaign=1054&utm_source=git)** | Portland, ME | Remote | Jan 11 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69640dbb2cbf4e44756db9c5?utm_campaign=1054&utm_source=git)** | Wheeling, IL | Hybrid | Jan 11 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 11 |
 | **[A-List Me](https://www.a-listme.com)** | **[Internship: Influencer Talent Management Intern](https://jobright.ai/jobs/info/6963f44e2cbf4e44756d96c9?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[HR Intern - Germany](https://jobright.ai/jobs/info/6961c994a112b402661056fa?utm_campaign=1054&utm_source=git)** | St Georges, DE | On Site | Jan 09 |
 | **[Auctane](https://auctane.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961c91de7ed9a5731ba99ca?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tech & Transformation - HR Strategy & Operations - Co-op/Intern Summer 2026 - Multiple Locations](https://jobright.ai/jobs/info/6961c767a112b402661055c0?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Jan 09 |
-| **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Operations Manager](https://jobright.ai/jobs/info/6961baf0e7ed9a5731ba8ef6?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
