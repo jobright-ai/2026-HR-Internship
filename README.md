@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern, Human Resources Center- EN](https://jobright.ai/jobs/info/69653287a112b40266130e9f?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 12 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Human Resources Intern - Total Rewards & HR Operations](https://jobright.ai/jobs/info/69652a306d52670c5c3df91d?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Jan 12 |
+| **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696526836d52670c5c3de689?utm_campaign=1054&utm_source=git)** | Mississauga, ON | Hybrid | Jan 12 |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern Atlanta Region 2025 - 2026](https://jobright.ai/jobs/info/696526412cbf4e44756e9260?utm_campaign=1054&utm_source=git)** | GA_Atlanta_825060 | On Site | Jan 12 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69651b2a2cbf4e44756e8632?utm_campaign=1054&utm_source=git)** | Holly, MI | On Site | Jan 12 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[GE Aerospace – Talent Assessment Internship, Summer 2026](https://jobright.ai/jobs/info/696516432cbf4e44756e836d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 12 |
 | **[ServiceTrade](http://servicetrade.com)** | **[People & Talent Strategy Intern](https://jobright.ai/jobs/info/696512856d52670c5c3dd42b?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Jan 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Support Associate, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691babf015b4156367191763?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ec79944146d3b6ec57c27?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | ↳ | **[Classification Unit, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691277b2c98948514c47bff1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
-| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/6945b77863141d1884554723?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jan 10 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Business and Performance Intern (8 months)](https://jobright.ai/jobs/info/6945cc35951654073537e8c4?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
-| **[Dr. Bronner's](https://www.drbronner.com)** | **[Human Resources Generalist Fair Trade Intern](https://jobright.ai/jobs/info/6945afded1953b5d11beabe1?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Jan 10 |
-| **[Avalon Holographics](http://www.avalonholographics.com/)** | **[HR Co-op Student Opportunity - Spring 2026](https://jobright.ai/jobs/info/694584f4d1953b5d11be8452?utm_campaign=1054&utm_source=git)** | St John’s, Newfoundland and Labrador, Canada | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
