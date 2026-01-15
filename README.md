@@ -59,7 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Internal Communications Intern - Spring 2026 HR](https://jobright.ai/jobs/info/69688411639b452fb57e3652?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | **[Mycronic](https://www.mycronic.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69686edc1703f05405aa26d5?utm_campaign=1054&utm_source=git)** | Tewksbury, MA | On Site | Jan 14 |
+| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Human Resources Intern(Students only)](https://jobright.ai/jobs/info/6968a20a639b452fb57e67b9?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jan 14 |
 | **[SMS group](http://www.sms-group.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69689949f25a3800669721a1?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | Jan 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Austin](https://jobright.ai/jobs/info/6968a839f25a380066972f50?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 14 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69685b64639b452fb57dfe82?utm_campaign=1054&utm_source=git)** | New Mexico, United States | Remote | Jan 14 |
 | **[RBC](https://www.rbc.com)** | **[Leadership Development Intern](https://jobright.ai/jobs/info/696872ddf25a38006696e05d?utm_campaign=1054&utm_source=git)** | Selkirk, Manitoba, Canada | On Site | Jan 14 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Initial Service Professional Intern](https://jobright.ai/jobs/info/696888921703f05405aa4a92?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | Jan 14 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Bel](https://www.groupe-bel.com/)** | **[HR Internship - Culture & Capabilities](https://jobright.ai/jobs/info/69682ca3639b452fb57dc2c1?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Jan 14 |
 | ↳ | **[HR Internship - Culture & Capabilities](https://jobright.ai/jobs/info/69682e541703f05405a9d525?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Jan 14 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6967f9cdf25a380066964ead?utm_campaign=1054&utm_source=git)** | Middletown, CT | On Site | Jan 14 |
+| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Facilitator Intern](https://jobright.ai/jobs/info/6968a982f25a3800669730d7?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 14 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, McCalla, AL, Summer 2026](https://jobright.ai/jobs/info/696827daf25a38006696819e?utm_campaign=1054&utm_source=git)** | McCalla, AL | On Site | Jan 14 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Opportunity & Access - 4 Yr Undergrad Intern I](https://jobright.ai/jobs/info/69680b9d1703f05405a9a93c?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 14 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Intern- Employee Services](https://jobright.ai/jobs/info/696828fcf25a380066968389?utm_campaign=1054&utm_source=git)** | Indiana, PA | On Site | Jan 14 |
@@ -136,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Pearland Economic Development Corporation](http://www.pearlandedc.com)** | **[HR Intern (Benefits and Payroll)](https://jobright.ai/jobs/info/6967e00d639b452fb57d76aa?utm_campaign=1054&utm_source=git)** | Pearland,TX,US | Hybrid | Jan 14 |
 | **[Slate & Associates, Attorneys at Law](http://www.slatelaw.com)** | **[HR Intern (Benefits and Payroll)](https://jobright.ai/jobs/info/69682ba0f25a3800669687e3?utm_campaign=1054&utm_source=git)** | Pearland, TX | Hybrid | Jan 14 |
 | **[Champion Windows & Home Exteriors](https://www.championwindow.com/)** | **[HRIS Intern](https://jobright.ai/jobs/info/6967b4c41703f05405a958ec?utm_campaign=1054&utm_source=git)** | Twinsburg, OH | Hybrid | Jan 14 |
-| **[CIBC](https://www.cibc.com)** | **[2026 CRE Summer Intern](https://jobright.ai/jobs/info/6967cf6e639b452fb57d5de6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 14 |
+| **[CIBC](https://www.cibc.com)** | **[2026 CRE Summer Intern](https://jobright.ai/jobs/info/6967d9f31703f05405a97e83?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 14 |
 | **[Nightwing](nightwing.com)** | **[Human Resource Intern – 2026](https://jobright.ai/jobs/info/693ca2a9aa598a08c3ed871c?utm_campaign=1054&utm_source=git)** | Sterling, VA | Hybrid | Jan 14 |
 | **[Arconic](https://www.arconic.com)** | **[HR Intern](https://jobright.ai/jobs/info/6914017ee344172248f75e82?utm_campaign=1054&utm_source=git)** | Visalia, CA | On Site | Jan 14 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b718dd64ebf28d8212508?utm_campaign=1054&utm_source=git)** | Wakefield, MA | On Site | Jan 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/694ac7d31224705e9001e0ce?utm_campaign=1054&utm_source=git)** | Ithaca, NY | On Site | Jan 14 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac8f967a69734cac5e0cc?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Jan 14 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/694b6e6f1a572a617dddc35c?utm_campaign=1054&utm_source=git)** | Lebanon, PA | On Site | Jan 14 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/694ac8341224705e9001e0fa?utm_campaign=1054&utm_source=git)** | Vestal, NY | On Site | Jan 14 |
-| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/694ba6ad5d731211347032a7?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 14 |
-| **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Associate, Tampa - USA, 2026](https://jobright.ai/jobs/info/692f118f4c474121999dc1bf?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
