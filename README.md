@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[People Operations Intern - Organizational Development & Learning](https://jobright.ai/jobs/info/696940caf25a38006697d33f?utm_campaign=1054&utm_source=git)** | CSBS Corporate, 1300 I Street NW, Washington, District Of Columbia, United States of America | Hybrid | Jan 15 |
+| **[Bel Brands USA Foodservice](http://belbrandsfoodservice.com/)** | **[HR Internship - Culture &amp; Capabilities](https://jobright.ai/jobs/info/69693f96639b452fb57f0a2b?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 15 |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Summer Intern - Workforce Development](https://jobright.ai/jobs/info/696936e0f25a38006697cc8d?utm_campaign=1054&utm_source=git)** | Irving, Texas | On Site | Jan 15 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Human Resources (HR) Communications Intern](https://jobright.ai/jobs/info/696931f3639b452fb57f0100?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston - 150 Mt. Vernon Street | Hybrid | Jan 15 |
+| **[Berger](https://www.berger.ca)** | **[Human Resources Student - MB](https://jobright.ai/jobs/info/696941f9f25a38006697d448?utm_campaign=1054&utm_source=git)** | Oakbank, Manitoba, Canada | On Site | Jan 15 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69691bab1703f05405aaee48?utm_campaign=1054&utm_source=git)** | Alto, MI | On Site | Jan 15 |
 | **[Juniper Creates](https://junipercreates.com/)** | **[People Co-op](https://jobright.ai/jobs/info/69691a9ef25a38006697a3b2?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 15 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Career and Financial Coaching Intern Spring 2026](https://jobright.ai/jobs/info/69690fb0639b452fb57ed5bb?utm_campaign=1054&utm_source=git)** | Baltimore, MD USA | Hybrid | Jan 15 |
+| **[Six Flags](https://www.sixflags.com)** | **[Retail Leadership Internship](https://jobright.ai/jobs/info/69693b6cf25a38006697cf0f?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 15 |
 | **[Daniels Health](https://www.danielshealth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6969248e1703f05405ab030e?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 15 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6968ff39639b452fb57ecab8?utm_campaign=1054&utm_source=git)** | Alto, Michigan, US | On Site | Jan 15 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Workfront Associate](https://jobright.ai/jobs/info/6968fc9c639b452fb57ec95d?utm_campaign=1054&utm_source=git)** | Indianapolis IN | On Site | Jan 15 |
@@ -68,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/6933c17c764507023d1b9213?utm_campaign=1054&utm_source=git)** | Northampton, MA | On Site | Jan 15 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69691034639b452fb57ed5f3?utm_campaign=1054&utm_source=git)** | Arkansas, United States | Remote | Jan 15 |
 | ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69690f8c1703f05405aae4c7?utm_campaign=1054&utm_source=git)** | Idaho, United States | Remote | Jan 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1054&utm_source=git)** | Roseville, CA | On Site | Jan 15 |
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db077a6df7b8311bb158ea?utm_campaign=1054&utm_source=git)** | Folsom, NJ | Hybrid | Jan 15 |
 | **[STR](https://www.str.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6968ddc1639b452fb57ea900?utm_campaign=1054&utm_source=git)** | Woburn, MA | Hybrid | Jan 15 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7fb59b0edcf159dc8d12a?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jan 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship - West - Summer 2026](https://jobright.ai/jobs/info/69683afa639b452fb57ddbb5?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Jan 14 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Human Resources Co-op (Summer 2026)](https://jobright.ai/jobs/info/696879b21703f05405aa33f5?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jan 14 |
 | **[Great Day Improvements](https://www.greatdayimprovements.com/)** | **[HRIS Intern](https://jobright.ai/jobs/info/6968790af25a38006696e8ae?utm_campaign=1054&utm_source=git)** | Twinsburg, OH | Hybrid | Jan 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Waco](https://jobright.ai/jobs/info/69685260f25a38006696b7a9?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Jan 14 |
-| **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6968349cf25a38006696970b?utm_campaign=1054&utm_source=git)** | Dearborn Works | On Site | Jan 14 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Administrative Support Specialist](https://jobright.ai/jobs/info/6968128e639b452fb57da0cc?utm_campaign=1054&utm_source=git)** | Triangle Area | On Site | Jan 14 |
-| **[Illumio](http://www.illumio.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/691fe61fa49a885af9a352d2?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Jan 14 |
-| **[McKinstry](http://www.mckinstry.com)** | **[Human Resource Operations Intern](https://jobright.ai/jobs/info/694b22f64b53a1551f94e5a8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jan 14 |
-| **[OpenID3: Worldpin](https://www.dauth.network)** | **[HR Intern -Unpaid](https://jobright.ai/jobs/info/696858aa1703f05405aa08e8?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 14 |
-| **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69682b45639b452fb57dc001?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
