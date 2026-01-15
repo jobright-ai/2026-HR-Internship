@@ -57,15 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STR](https://www.str.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6968ddc1639b452fb57ea900?utm_campaign=1054&utm_source=git)** | Woburn, MA | Hybrid | Jan 15 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7fb59b0edcf159dc8d12a?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jan 15 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Human Resources Internships](https://jobright.ai/jobs/info/68d4719777769e778f509032?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Jan 15 |
 | **[MGIC](https://www.mgic.com)** | **[HR Intern](https://jobright.ai/jobs/info/69639f6e2cbf4e44756d5534?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 15 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6930cbbcef4b48533d14f430?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Jan 15 |
+| ↳ | **[Employee Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6930f381ef4b48533d151116?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Jan 15 |
+| **[Xometry](https://www.xometry.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/694c51501a572a617dde809e?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Jan 15 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/694c4b9cd64ebf28d821debb?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Jan 15 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) - Service Operations Strategy & Planning Intern](https://jobright.ai/jobs/info/6968e6b31703f05405aac317?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 15 |
+| ↳ | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6968e21df25a3800669773b5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 15 |
 | **[Apogem Capital](https://apogemcapital.com/)** | **[2026 Group Benefit Solutions (GBS) - Service Operations Strategy & Planning Intern](https://jobright.ai/jobs/info/6968b9f0f25a38006697493d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 15 |
-| ↳ | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6968cc63f25a380066975bae?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 15 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6968e2161703f05405aabd0f?utm_campaign=1054&utm_source=git)** | Illinois, United States | Remote | Jan 15 |
+| ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6968e82a1703f05405aac50e?utm_campaign=1054&utm_source=git)** | New Hampshire, United States | Remote | Jan 15 |
+| ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6968e7121703f05405aac3a9?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Jan 15 |
+| ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6968e0d11703f05405aabb54?utm_campaign=1054&utm_source=git)** | Florida, United States | Remote | Jan 15 |
+| **[Apogem Capital](https://apogemcapital.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6968cc63f25a380066975bae?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 15 |
+| **[BCI](https://www.bci.ca/)** | **[Talent Acquisition Co-op/Internship (Summer and Fall 2026)](https://jobright.ai/jobs/info/6968da4f639b452fb57ea14b?utm_campaign=1054&utm_source=git)** | Victoria, BC | Hybrid | Jan 15 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6968d05f639b452fb57e99a4?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Jan 14 |
 | ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6968c45b1703f05405aa9c94?utm_campaign=1054&utm_source=git)** | Nevada, United States | Remote | Jan 14 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Intern - Principal HR Tech - Aiken, SC](https://jobright.ai/jobs/info/6968d1291703f05405aaa8f6?utm_campaign=1054&utm_source=git)** | Aiken, SC | On Site | Jan 14 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Internal Communications Intern - Spring 2026 HR](https://jobright.ai/jobs/info/69688411639b452fb57e3652?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Compensation](https://jobright.ai/jobs/info/6968be1df25a380066974d7c?utm_campaign=1054&utm_source=git)** | Aiken, SC | On Site | Jan 14 |
-| **[Mycronic](https://www.mycronic.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69686edc1703f05405aa26d5?utm_campaign=1054&utm_source=git)** | Tewksbury, MA | On Site | Jan 14 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Human Resources Intern(Students only)](https://jobright.ai/jobs/info/6968a20a639b452fb57e67b9?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jan 14 |
 | **[SMS group](http://www.sms-group.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69689949f25a3800669721a1?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | Jan 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Austin](https://jobright.ai/jobs/info/6968a839f25a380066972f50?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 14 |
@@ -81,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Global Payroll Specialist Intern](https://jobright.ai/jobs/info/696877f5639b452fb57e238f?utm_campaign=1054&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | On Site | Jan 14 |
 | ↳ | **[Talent Engagement & Social Media Intern](https://jobright.ai/jobs/info/69688924639b452fb57e3f37?utm_campaign=1054&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | On Site | Jan 14 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69687406f25a38006696e10c?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Jan 14 |
-| ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69687c5d1703f05405aa380b?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Jan 14 |
 | ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696885611703f05405aa44fa?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Jan 14 |
 | **[SMS group](http://www.sms-group.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69688f46f25a380066971259?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 14 |
 | **[Princess Cruises](http://www.princess.com)** | **[Global Payroll Specialist Intern](https://jobright.ai/jobs/info/6968997f639b452fb57e59f6?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pearland Economic Development Corporation](http://www.pearlandedc.com)** | **[HR Intern (Benefits and Payroll)](https://jobright.ai/jobs/info/6967e00d639b452fb57d76aa?utm_campaign=1054&utm_source=git)** | Pearland,TX,US | Hybrid | Jan 14 |
 | **[Slate & Associates, Attorneys at Law](http://www.slatelaw.com)** | **[HR Intern (Benefits and Payroll)](https://jobright.ai/jobs/info/69682ba0f25a3800669687e3?utm_campaign=1054&utm_source=git)** | Pearland, TX | Hybrid | Jan 14 |
 | **[Champion Windows & Home Exteriors](https://www.championwindow.com/)** | **[HRIS Intern](https://jobright.ai/jobs/info/6967b4c41703f05405a958ec?utm_campaign=1054&utm_source=git)** | Twinsburg, OH | Hybrid | Jan 14 |
-| **[CIBC](https://www.cibc.com)** | **[2026 CRE Summer Intern](https://jobright.ai/jobs/info/6967d9f31703f05405a97e83?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 14 |
-| **[Arconic](https://www.arconic.com)** | **[HR Intern](https://jobright.ai/jobs/info/6914017ee344172248f75e82?utm_campaign=1054&utm_source=git)** | Visalia, CA | On Site | Jan 14 |
-| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b718dd64ebf28d8212508?utm_campaign=1054&utm_source=git)** | Wakefield, MA | On Site | Jan 14 |
-| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Human Resources](https://jobright.ai/jobs/info/69682dc7639b452fb57dc4b0?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Jan 14 |
-| **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/6967b4831703f05405a958cc?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/691719a0370fde633d07d4cf?utm_campaign=1054&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Jan 14 |
-| ↳ | **[Summer 2026 Management Trainee Intern - York](https://jobright.ai/jobs/info/694b81775d73121134701f09?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Jan 14 |
-| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acc933019f50a4fe5e202?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 14 |
-| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Jan 14 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/69600504a1bbea1d9a7acbf3?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jan 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/694b7f1ad64ebf28d821460c?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Jan 14 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68db932d9f13662d20e4e58b?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
