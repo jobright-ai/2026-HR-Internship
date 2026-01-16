@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696a53da5fc8624185394d30?utm_campaign=1054&utm_source=git)** | Maryland, United States | Remote | Jan 16 |
+| ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696a4b395fc86241853947b3?utm_campaign=1054&utm_source=git)** | Oklahoma, United States | Remote | Jan 16 |
+| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Talent Acquisition Team Intern](https://jobright.ai/jobs/info/69327a82764507023d1aef03?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 16 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/68f93a96cadb2e5a06a62a48?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Jan 16 |
+| **[GAF](http://www.gaf.com/)** | **[HRS Intern](https://jobright.ai/jobs/info/6933a131a0dde7020e2efb3f?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 16 |
+| **[Canadian Security Intelligence Service (CSIS) | Service canadien du renseignement de sécurité (SCRS)](https://www.canada.ca/csisjobs)** | **[Co-op: Human Resources](https://jobright.ai/jobs/info/696a5e1d350cf43803114685?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 16 |
 | **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/68f7e5acec6dbe7073fcdf13?utm_campaign=1054&utm_source=git)** | Hickory, NC | Hybrid | Jan 16 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68dc75c7a125e75c422a0f1c?utm_campaign=1054&utm_source=git)** | Cedar Park, TX | On Site | Jan 16 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f8976f36db06ef04a343?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Jan 16 |
@@ -137,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Bel Brands USA Foodservice](http://belbrandsfoodservice.com/)** | **[HR Internship - Culture &amp; Capabilities](https://jobright.ai/jobs/info/69693f96639b452fb57f0a2b?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 15 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69696c051703f05405ab4d7b?utm_campaign=1054&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Jan 15 |
 | **[Summit TRC](https://summittrc.com)** | **[HR Administrator - Internship - Part Time](https://jobright.ai/jobs/info/69696a4f639b452fb57f3f65?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Jan 15 |
-| **[BTS](https://www.bts.com/)** | **[Talent Insights and Assessment Junior Analyst (Internship)](https://jobright.ai/jobs/info/696960b7f25a38006697f393?utm_campaign=1054&utm_source=git)** | Flexible/Remote | Remote | Jan 15 |
+| **[BTS](https://www.bts.com/)** | **[Talent Insights and Assessment Junior Analyst (Internship)](https://jobright.ai/jobs/info/6969708a1703f05405ab561b?utm_campaign=1054&utm_source=git)** | Flexible/Remote | Remote | Jan 15 |
 | ↳ | **[Talent Insights and Assessment Junior Analyst (Internship)](https://jobright.ai/jobs/info/69696c681703f05405ab4e24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 15 |
 | **[Heidrick & Struggles](http://www.heidrick.com)** | **[Summer 2026 Summer Internship- Executive Search](https://jobright.ai/jobs/info/69696f49f25a380066980edd?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Intern - Workforce Development](https://jobright.ai/jobs/info/696936e0f25a38006697cc8d?utm_campaign=1054&utm_source=git)** | Irving, Texas | On Site | Jan 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Base-2 Solutions](https://www.base-2solutions.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/696948fef25a38006697daad?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Jan 15 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69691bab1703f05405aaee48?utm_campaign=1054&utm_source=git)** | Alto, MI | On Site | Jan 15 |
 | **[Juniper Creates](https://junipercreates.com/)** | **[People Co-op](https://jobright.ai/jobs/info/69691a9ef25a38006697a3b2?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 15 |
-| **[Mycronic](https://www.mycronic.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6969b727639b452fb57fa4ee?utm_campaign=1054&utm_source=git)** | Tewksbury, Massachusetts, United States | On Site | Jan 15 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Career and Financial Coaching Intern Spring 2026](https://jobright.ai/jobs/info/69690fb0639b452fb57ed5bb?utm_campaign=1054&utm_source=git)** | Baltimore, MD USA | Hybrid | Jan 15 |
-| **[Six Flags](https://www.sixflags.com)** | **[Retail Leadership Internship](https://jobright.ai/jobs/info/69693b6cf25a38006697cf0f?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 15 |
-| **[Daniels Health](https://www.danielshealth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6969248e1703f05405ab030e?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 15 |
-| **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6968ff39639b452fb57ecab8?utm_campaign=1054&utm_source=git)** | Alto, Michigan, US | On Site | Jan 15 |
-| **[Fortrea](https://www.fortrea.com)** | **[Intern - Workfront Associate](https://jobright.ai/jobs/info/6968fc9c639b452fb57ec95d?utm_campaign=1054&utm_source=git)** | Indianapolis IN | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
