@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[South Internship - 2026](https://jobright.ai/jobs/info/68f85423a628d10664e81c7b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Jan 16 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/693091944c474121999e622a?utm_campaign=1054&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 16 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Summer Intern - Safety](https://jobright.ai/jobs/info/69321aacd0010831497bf98f?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Jan 16 |
+| **[Camping World](https://investor.campingworld.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6934f7ada0dde7020e2f6d8c?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
+| **[HP](http://www.hp.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/69647ab7a112b40266126caa?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Jan 16 |
+| **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Human Resources Intern- Summer of 2026](https://jobright.ai/jobs/info/696a245e350cf438031112d8?utm_campaign=1054&utm_source=git)** | Lynnwood, WA | On Site | Jan 16 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6969fba11703f05405ac02d9?utm_campaign=1054&utm_source=git)** | Haverhill, MA | On Site | Jan 16 |
+| **[Patio Enclosures by Great Day Improvements](http://patioenclosures.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/696a1c5adb26b618950d4d0f?utm_campaign=1054&utm_source=git)** | Twinsburg, OH | On Site | Jan 16 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6969fa96639b452fb57ff4be?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Jan 16 |
 | ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6969f9ce1703f05405ac017a?utm_campaign=1054&utm_source=git)** | Alabama, United States | Remote | Jan 16 |
 | **[Furnitureland South, Inc](https://profine.pk/)** | **[HR Intern](https://jobright.ai/jobs/info/6969f8a1f25a38006698bca1?utm_campaign=1054&utm_source=git)** | Jamestown, NC | On Site | Jan 16 |
@@ -117,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696961ecf25a38006697f592?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Jan 15 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69696c051703f05405ab4d7b?utm_campaign=1054&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Jan 15 |
 | **[Summit TRC](https://summittrc.com)** | **[HR Administrator - Internship - Part Time](https://jobright.ai/jobs/info/69696a4f639b452fb57f3f65?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Jan 15 |
-| **[BTS](https://www.bts.com/)** | **[Talent Insights and Assessment Junior Analyst (Internship)](https://jobright.ai/jobs/info/6969708a1703f05405ab561b?utm_campaign=1054&utm_source=git)** | Flexible/Remote | Remote | Jan 15 |
+| **[BTS](https://www.bts.com/)** | **[Talent Insights and Assessment Junior Analyst (Internship)](https://jobright.ai/jobs/info/696960b7f25a38006697f393?utm_campaign=1054&utm_source=git)** | Flexible/Remote | Remote | Jan 15 |
 | ↳ | **[Talent Insights and Assessment Junior Analyst (Internship)](https://jobright.ai/jobs/info/69696c681703f05405ab4e24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 15 |
 | **[Heidrick & Struggles](http://www.heidrick.com)** | **[Summer 2026 Summer Internship- Executive Search](https://jobright.ai/jobs/info/69696f49f25a380066980edd?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Intern - Workforce Development](https://jobright.ai/jobs/info/696936e0f25a38006697cc8d?utm_campaign=1054&utm_source=git)** | Irving, Texas | On Site | Jan 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/6933f41ba0dde7020e2f35c8?utm_campaign=1054&utm_source=git)** | Jackson, TN | On Site | Jan 15 |
 | ↳ | **[Summer 2026 Management Trainee Intern - BDL Airport](https://jobright.ai/jobs/info/6933b8bca0dde7020e2f0ffe?utm_campaign=1054&utm_source=git)** | Windsor Locks, CT | On Site | Jan 15 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/6933cb3bf131d96e48467000?utm_campaign=1054&utm_source=git)** | Brooklyn, CT | On Site | Jan 15 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb6cf5c5d5f14f46d94f5?utm_campaign=1054&utm_source=git)** | Cary, NC | On Site | Jan 15 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69351f85f131d96e4846ce9c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jan 15 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6933eedff131d96e48468491?utm_campaign=1054&utm_source=git)** | Pittsfield, MA | On Site | Jan 15 |
-| ↳ | **[Summer 2026 Management Trainee Intern - West Springfield/Chicopee, MA](https://jobright.ai/jobs/info/6933ef41f131d96e48468592?utm_campaign=1054&utm_source=git)** | West Springfield, MA | On Site | Jan 15 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68dbe2b497329f2f7731f9f6?utm_campaign=1054&utm_source=git)** | Burlington, NC | On Site | Jan 15 |
-| ↳ | **[Summer 2026 Management Trainee Intern - West Hartford/Avon/Bristol, CT](https://jobright.ai/jobs/info/6933f3aea0dde7020e2f3439?utm_campaign=1054&utm_source=git)** | West Hartford, CT | On Site | Jan 15 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d136a29655e4dd6572569?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
