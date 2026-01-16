@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parker Hannifin](http://www.parker.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6969fba11703f05405ac02d9?utm_campaign=1054&utm_source=git)** | Haverhill, MA | On Site | Jan 16 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6969fa96639b452fb57ff4be?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Jan 16 |
+| ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6969f9ce1703f05405ac017a?utm_campaign=1054&utm_source=git)** | Alabama, United States | Remote | Jan 16 |
+| **[Furnitureland South, Inc](https://profine.pk/)** | **[HR Intern](https://jobright.ai/jobs/info/6969f8a1f25a38006698bca1?utm_campaign=1054&utm_source=git)** | Jamestown, NC | On Site | Jan 16 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6969c90d1703f05405abcc26?utm_campaign=1054&utm_source=git)** | Watsonville, CA | On Site | Jan 15 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Internal Culture & Communication Intern](https://jobright.ai/jobs/info/6969c1c9f25a380066987879?utm_campaign=1054&utm_source=git)** | St Louis, MO | Remote | Jan 15 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Security Intern - Administrative](https://jobright.ai/jobs/info/6969bef7f25a380066987678?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jan 15 |
 | **[BGIS](https://www.bgis.com)** | **[Intern, Recruitment](https://jobright.ai/jobs/info/6969e70c639b452fb57fe34e?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 15 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6969aa59f25a38006698615a?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | Jan 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6969a887639b452fb57f9971?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jan 15 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6969a70ff25a380066985e7d?utm_campaign=1054&utm_source=git)** | Kansas, United States | Remote | Jan 15 |
 | **[Velera](https://www.velera.com)** | **[Talent Acquisition/Human Resources Intern - Remote](https://jobright.ai/jobs/info/695c4beef1f8465b79f26351?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 15 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6969a36e1703f05405aba249?utm_campaign=1054&utm_source=git)** | Louisiana, United States | Remote | Jan 15 |
-| ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6969a2181703f05405aba10d?utm_campaign=1054&utm_source=git)** | Mississippi, United States | Remote | Jan 15 |
 | **[Belle Tire](https://www.belletire.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6969c4981703f05405abc13b?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Jan 15 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69699a1df25a38006698545e?utm_campaign=1054&utm_source=git)** | Milford, Massachusetts, United States | On Site | Jan 15 |
 | **[Propio Language Services](http://propio-ls.com)** | **[HR - Learning Experience & Instructional Design Intern](https://jobright.ai/jobs/info/6961b70be7ed9a5731ba8b04?utm_campaign=1054&utm_source=git)** | Overland Park, KS | Hybrid | Jan 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68dbe2b497329f2f7731f9f6?utm_campaign=1054&utm_source=git)** | Burlington, NC | On Site | Jan 15 |
 | ↳ | **[Summer 2026 Management Trainee Intern - West Hartford/Avon/Bristol, CT](https://jobright.ai/jobs/info/6933f3aea0dde7020e2f3439?utm_campaign=1054&utm_source=git)** | West Hartford, CT | On Site | Jan 15 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d136a29655e4dd6572569?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Jan 15 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d20e7f5bef51c96ead9a6?utm_campaign=1054&utm_source=git)** | Folsom, CA | On Site | Jan 15 |
-| ↳ | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6933f2eea0dde7020e2f3207?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
