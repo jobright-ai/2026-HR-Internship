@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Golf](https://jobright.ai/jobs/info/696b228e350cf43803127a82?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
-| ↳ | **[Intern, Tennis](https://jobright.ai/jobs/info/696b22765fc86241853a81e9?utm_campaign=1054&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
+| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/696b3649350cf438031286c3?utm_campaign=1054&utm_source=git)** | US-CT-West Hartford | Hybrid | Jan 16 |
+| **[Saleseraian](https://salesera.net/)** | **[人力资源实习生](https://jobright.ai/jobs/info/696b323cdb26b618950eb8b0?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 16 |
+| **[City of Sacramento](http://www.cityofsacramento.org)** | **[General Intern](https://jobright.ai/jobs/info/696b2cad5fc86241853a88bc?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Jan 16 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696b2475db26b618950eb220?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
+| ↳ | **[Intern, Tennis](https://jobright.ai/jobs/info/696b22e4db26b618950eb121?utm_campaign=1054&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
+| ↳ | **[Intern, Golf](https://jobright.ai/jobs/info/696b228e350cf43803127a82?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/696b19ce350cf43803127564?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 16 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/696b1995db26b618950ea9c3?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 16 |
 | **[Velera](https://www.velera.com)** | **[Organizational Development Intern - Remote](https://jobright.ai/jobs/info/695c527c22c9dc0d3d54471d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 16 |
@@ -69,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Grand Hotel Golf Resort and Spa, Autograph Collection](www.grand1847.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696affc9db26b618950e7584?utm_campaign=1054&utm_source=git)** | Point Clear, AL | On Site | Jan 16 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, CSR Talent Acquisition](https://jobright.ai/jobs/info/696afe45db26b618950e7377?utm_campaign=1054&utm_source=git)** | Shafter, CA, USA | On Site | Jan 16 |
 | **[First Capital REIT](https://fcr.ca/)** | **[People & Culture Intern (Summer 2026)](https://jobright.ai/jobs/info/696afbe2350cf4380312396d?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 16 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696af8215fc86241853a3da2?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Jan 16 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696af576db26b618950e683d?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Jan 16 |
 | **[The Breakers Palm Beach](https://www.thebreakers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696ae863350cf438031218da?utm_campaign=1054&utm_source=git)** | Palm Beach, FL | On Site | Jan 16 |
 | **[Flex](https://flex.com)** | **[HR Communications Intern - Summer 2026](https://jobright.ai/jobs/info/696ae6485fc86241853a1bbe?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
@@ -89,12 +92,13 @@ For a complete list, click the following sortable link below:
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Supported Housing Intern](https://jobright.ai/jobs/info/696af75d5fc86241853a3ca2?utm_campaign=1054&utm_source=git)** | Middletown, NY 10940, USA | On Site | Jan 16 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[KidSuccess School-Based Case Manager - Internship](https://jobright.ai/jobs/info/696af5b15fc86241853a3ae4?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 16 |
 | **[Grainger](https://www.grainger.com)** | **[HR Learning & Development Intern](https://jobright.ai/jobs/info/696acf46db26b618950e1e4a?utm_campaign=1054&utm_source=git)** | Lake Forest, IL | On Site | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ac1d1db26b618950e0783?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
-| ↳ | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/696abee4db26b618950e01f1?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
+| **[Magna International](http://www.magna.com/)** | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/696abee4db26b618950e01f1?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | ↳ | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ab93c350cf4380311c130?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Jan 16 |
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, People Insights & Engagement](https://jobright.ai/jobs/info/696ae778db26b618950e4c6d?utm_campaign=1054&utm_source=git)** | Rochester, New York | On Site | Jan 16 |
+| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ab6b65fc862418539c624?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Middletown and Goshen, NY](https://jobright.ai/jobs/info/696ad3dd5fc862418539f813?utm_campaign=1054&utm_source=git)** | Goshen, NY | On Site | Jan 16 |
+| **[CoxHealth](https://www.coxhealth.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/696ab535db26b618950df301?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 16 |
 | **[Cape Resorts](http://caperesorts.com)** | **[HR Intern](https://jobright.ai/jobs/info/696ab2355fc862418539bed0?utm_campaign=1054&utm_source=git)** | Cape Resorts Management, Cape May, NJ, US | On Site | Jan 16 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
 | **[CRH](http://crh.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/696ad358db26b618950e254c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 16 |
@@ -105,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ac3ab5fc862418539dcb2?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Jan 16 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Human Resources Intern – August 2026 – 13 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/696aa6c35fc8624185399ed6?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario - Canada | Hybrid | Jan 16 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, Talent Acquisition, CSR](https://jobright.ai/jobs/info/696aa26e5fc8624185399ad6?utm_campaign=1054&utm_source=git)** | Shafter, CA, USA | On Site | Jan 16 |
-| **[CoxHealth](https://www.coxhealth.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/696ac23e350cf4380311d138?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 16 |
 | **[Crisis24](https://crisis24.garda.com)** | **[Recruiting Sourcer Intern](https://jobright.ai/jobs/info/696a9fdbdb26b618950dc7f1?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Jan 16 |
 | **[Lesaffre North America](https://lesaffreyeast.com)** | **[Intern, HR](https://jobright.ai/jobs/info/696abd80350cf4380311c8e8?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 16 |
 | **[The Fedcap Group](https://fedcapgroup.org)** | **[Temporary Paid Intern](https://jobright.ai/jobs/info/696ac4c15fc862418539de94?utm_campaign=1054&utm_source=git)** | Jamaica, NY | On Site | Jan 16 |
@@ -124,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696a6931350cf43803114fc3?utm_campaign=1054&utm_source=git)** | Novi, Michigan, US | On Site | Jan 16 |
 | **[JR Automation](https://www.jrautomation.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/69267959d47de4798ecd788f?utm_campaign=1054&utm_source=git)** | Holland, MI | Hybrid | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Jan 16 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696a4b395fc86241853947b3?utm_campaign=1054&utm_source=git)** | Oklahoma, United States | Remote | Jan 16 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Talent Acquisition Team Intern](https://jobright.ai/jobs/info/69327a82764507023d1aef03?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/68f93a96cadb2e5a06a62a48?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Jan 16 |
 | **[GAF](http://www.gaf.com/)** | **[HRS Intern](https://jobright.ai/jobs/info/6933a131a0dde7020e2efb3f?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 16 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Richmond HR Intern](https://jobright.ai/jobs/info/694c25831a572a617dde6e99?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jan 16 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Summer Intern - Safety](https://jobright.ai/jobs/info/69321aacd0010831497bf98f?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Jan 16 |
 | **[Camping World](https://investor.campingworld.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6934f7ada0dde7020e2f6d8c?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
-| **[HP](http://www.hp.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/69647ab7a112b40266126caa?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Jan 16 |
 | **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Human Resources Intern- Summer of 2026](https://jobright.ai/jobs/info/696a245e350cf438031112d8?utm_campaign=1054&utm_source=git)** | Lynnwood, WA | On Site | Jan 16 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6969fba11703f05405ac02d9?utm_campaign=1054&utm_source=git)** | Haverhill, MA | On Site | Jan 16 |
 | **[Patio Enclosures by Great Day Improvements](http://patioenclosures.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/696a1c5adb26b618950d4d0f?utm_campaign=1054&utm_source=git)** | Twinsburg, OH | On Site | Jan 16 |
 | **[Furnitureland South, Inc](https://profine.pk/)** | **[HR Intern](https://jobright.ai/jobs/info/6969f8a1f25a38006698bca1?utm_campaign=1054&utm_source=git)** | Jamestown, NC | On Site | Jan 16 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696aea91db26b618950e528a?utm_campaign=1054&utm_source=git)** | Alabama, United States | Remote | Jan 16 |
 | ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696aefdb5fc86241853a3202?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Jan 16 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6969c90d1703f05405abcc26?utm_campaign=1054&utm_source=git)** | Watsonville, CA | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
