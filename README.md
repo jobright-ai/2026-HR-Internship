@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crest Vale](crestvale.us)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/696baf21350cf4380312f89f?utm_campaign=1054&utm_source=git)** | New York County, NY | Remote | Jan 17 |
+| **[Saleseraian](https://salesera.net/)** | **[HR Internship](https://jobright.ai/jobs/info/696bc27a350cf438031314e4?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 17 |
 | **[JTM Construction](https://www.jtm-construction.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696ba8e15fc86241853affe7?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696ba3d65fc86241853afe7e?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
 | ↳ | **[Intern, Golf](https://jobright.ai/jobs/info/696ba372db26b618950f2962?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Jan 17 |
@@ -111,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Grand Hotel Golf Resort and Spa, Autograph Collection](www.grand1847.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696affc9db26b618950e7584?utm_campaign=1054&utm_source=git)** | Point Clear, AL | On Site | Jan 16 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, CSR Talent Acquisition](https://jobright.ai/jobs/info/696afe45db26b618950e7377?utm_campaign=1054&utm_source=git)** | Shafter, CA, USA | On Site | Jan 16 |
 | **[First Capital REIT](https://fcr.ca/)** | **[People & Culture Intern (Summer 2026)](https://jobright.ai/jobs/info/696afbe2350cf4380312396d?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 16 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696bbf195fc86241853b1c6c?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Jan 16 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696af576db26b618950e683d?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Jan 16 |
 | **[The Breakers Palm Beach](https://www.thebreakers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696ae863350cf438031218da?utm_campaign=1054&utm_source=git)** | Palm Beach, FL | On Site | Jan 16 |
 | **[Flex](https://flex.com)** | **[HR Communications Intern - Summer 2026](https://jobright.ai/jobs/info/696ae6485fc86241853a1bbe?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
@@ -130,11 +131,11 @@ For a complete list, click the following sortable link below:
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Supported Housing Intern](https://jobright.ai/jobs/info/696af75d5fc86241853a3ca2?utm_campaign=1054&utm_source=git)** | Middletown, NY 10940, USA | On Site | Jan 16 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[KidSuccess School-Based Case Manager - Internship](https://jobright.ai/jobs/info/696af5b15fc86241853a3ae4?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 16 |
 | **[Grainger](https://www.grainger.com)** | **[HR Learning & Development Intern](https://jobright.ai/jobs/info/696acf46db26b618950e1e4a?utm_campaign=1054&utm_source=git)** | Lake Forest, IL | On Site | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ac1d1db26b618950e0783?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
-| ↳ | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/696abee4db26b618950e01f1?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
+| **[Magna International](http://www.magna.com/)** | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/696abee4db26b618950e01f1?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | ↳ | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ab93c350cf4380311c130?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Jan 16 |
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, People Insights & Engagement](https://jobright.ai/jobs/info/696ae778db26b618950e4c6d?utm_campaign=1054&utm_source=git)** | Rochester, New York | On Site | Jan 16 |
+| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ab6b65fc862418539c624?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Middletown and Goshen, NY](https://jobright.ai/jobs/info/696ad3dd5fc862418539f813?utm_campaign=1054&utm_source=git)** | Goshen, NY | On Site | Jan 16 |
 | **[Cape Resorts](http://caperesorts.com)** | **[HR Intern](https://jobright.ai/jobs/info/696ab2355fc862418539bed0?utm_campaign=1054&utm_source=git)** | Cape Resorts Management, Cape May, NJ, US | On Site | Jan 16 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Non-Profit Administration, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a95d0db26b618950dbfa7?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696a9474350cf438031183f2?utm_campaign=1054&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | **[First Capital REIT](https://fcr.ca/)** | **[People & Culture Intern (Summer 2026)](https://jobright.ai/jobs/info/696a93aa350cf4380311830b?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Jan 16 |
+| **[Versity](https://versity.co)** | **[Talent Acquisition Internship Ready Project](https://jobright.ai/jobs/info/696bbb5e5fc86241853b070a?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Oncor Military SkillBridge Internship / Measurement Field Support Intern (Woodall Rodgers - Downtown Dallas)](https://jobright.ai/jobs/info/6966b3225ad3a93f82320480?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
 | **[Astroscale U.S.](https://astroscale-us.com/)** | **[Summer 2026 Internships](https://jobright.ai/jobs/info/696a88b35fc8624185398042?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7d5cdb26b618950dab5f?utm_campaign=1054&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| **[CoxHealth](https://www.coxhealth.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/696a7ba5db26b618950da9ef?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 16 |
-| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/696a7a90db26b618950da8f1?utm_campaign=1054&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
