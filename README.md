@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship - January 2026](https://jobright.ai/jobs/info/696c38ac5fc86241853b6e3e?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Jan 17 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696c978ddb26b618950fdf21?utm_campaign=1054&utm_source=git)** | Georgia, United States | Remote | Jan 18 |
+| ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696c97125fc86241853bbfa5?utm_campaign=1054&utm_source=git)** | Kentucky, United States | Remote | Jan 18 |
+| ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696c9308db26b618950fdd25?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Remote | Jan 18 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696be7255fc86241853b2a90?utm_campaign=1054&utm_source=git)** | Hawaii, United States | Remote | Jan 17 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[People & Culture (HR) Summer Intern](https://jobright.ai/jobs/info/696bd424db26b618950f49ce?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[Saleseraian](https://salesera.net/)** | **[HR Internship](https://jobright.ai/jobs/info/696bc27a350cf438031314e4?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 17 |
@@ -146,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ac3ab5fc862418539dcb2?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Jan 16 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Human Resources Intern – August 2026 – 13 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/696aa6c35fc8624185399ed6?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario - Canada | Hybrid | Jan 16 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, Talent Acquisition, CSR](https://jobright.ai/jobs/info/696aa26e5fc8624185399ad6?utm_campaign=1054&utm_source=git)** | Shafter, CA, USA | On Site | Jan 16 |
+| **[CoxHealth](https://www.coxhealth.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/696ac23e350cf4380311d138?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 16 |
 | **[Crisis24](https://crisis24.garda.com)** | **[Recruiting Sourcer Intern](https://jobright.ai/jobs/info/696a9fdbdb26b618950dc7f1?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Jan 16 |
 | **[Lesaffre North America](https://lesaffreyeast.com)** | **[Intern, HR](https://jobright.ai/jobs/info/696abd80350cf4380311c8e8?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 16 |
 | **[The Fedcap Group](https://fedcapgroup.org)** | **[Temporary Paid Intern](https://jobright.ai/jobs/info/696ac4c15fc862418539de94?utm_campaign=1054&utm_source=git)** | Jamaica, NY | On Site | Jan 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Capital REIT](https://fcr.ca/)** | **[People & Culture Intern (Summer 2026)](https://jobright.ai/jobs/info/696a93aa350cf4380311830b?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Jan 16 |
 | **[Versity](https://versity.co)** | **[Talent Acquisition Internship Ready Project](https://jobright.ai/jobs/info/696bbb5e5fc86241853b070a?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Oncor Military SkillBridge Internship / Measurement Field Support Intern (Woodall Rodgers - Downtown Dallas)](https://jobright.ai/jobs/info/6966b3225ad3a93f82320480?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
-| **[Astroscale U.S.](https://astroscale-us.com/)** | **[Summer 2026 Internships](https://jobright.ai/jobs/info/696a88b35fc8624185398042?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7d5cdb26b618950dab5f?utm_campaign=1054&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| **[CoxHealth](https://www.coxhealth.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/696a7ce5db26b618950dab02?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
