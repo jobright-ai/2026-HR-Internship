@@ -91,6 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6916618e286ccf0a151351b5?utm_campaign=1054&utm_source=git)** | New Albany, IN | On Site | Jan 18 |
 | ↳ | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/6933ddf3764507023d1ba563?utm_campaign=1054&utm_source=git)** | Whitman, MA | On Site | Jan 18 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b52ae11ade4306aa6409f6?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Jan 18 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69340d14764507023d1bb882?utm_campaign=1054&utm_source=git)** | Lethbridge, Alberta, Canada | On Site | Jan 18 |
+| ↳ | **[Management Trainee Intern -Summer 2026](https://jobright.ai/jobs/info/69171d8c3ea85638ae1c7efb?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 18 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/69340d99764507023d1bb9a3?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd3ab8e23def7af55b7063?utm_campaign=1054&utm_source=git)** | Fuquay-Varina, NC | On Site | Jan 18 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d76431e5763f188e4072?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 18 |
@@ -100,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696c978ddb26b618950fdf21?utm_campaign=1054&utm_source=git)** | Georgia, United States | Remote | Jan 18 |
 | ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696c97125fc86241853bbfa5?utm_campaign=1054&utm_source=git)** | Kentucky, United States | Remote | Jan 18 |
 | ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696c9308db26b618950fdd25?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Remote | Jan 18 |
+| **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/696bee21db26b618950f57b6?utm_campaign=1054&utm_source=git)** | Buckhead, GA | On Site | Jan 17 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696be7255fc86241853b2a90?utm_campaign=1054&utm_source=git)** | Hawaii, United States | Remote | Jan 17 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[People & Culture (HR) Summer Intern](https://jobright.ai/jobs/info/696bd424db26b618950f49ce?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[Saleseraian](https://salesera.net/)** | **[HR Internship](https://jobright.ai/jobs/info/696bc27a350cf438031314e4?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 17 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696ba3d65fc86241853afe7e?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
 | ↳ | **[Intern, Golf](https://jobright.ai/jobs/info/696ba372db26b618950f2962?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Jan 17 |
 | ↳ | **[Intern, Tennis](https://jobright.ai/jobs/info/696ba154350cf4380312f500?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Jan 17 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696b9de9350cf4380312f268?utm_campaign=1054&utm_source=git)** | North Dakota, United States | Remote | Jan 17 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696b9d08350cf4380312f1be?utm_campaign=1054&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Jan 17 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern - Summer '26](https://jobright.ai/jobs/info/68c2333563b706703e11245b?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Jan 17 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Talent Acquisition Intern (Year-Round)](https://jobright.ai/jobs/info/68deeca409bda65a4b62ee81?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Jan 17 |
@@ -134,15 +136,14 @@ For a complete list, click the following sortable link below:
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696b6f5a5fc86241853acf41?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Jan 17 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ccc1cbd99309000e5a29a4?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 17 |
 | **[DESRI](https://desri.com/)** | **[Intern, Human Capital](https://jobright.ai/jobs/info/68def78744d32141e0c045b2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 17 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Risk Management & Sales Internship](https://jobright.ai/jobs/info/696b6a8c350cf4380312c465?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Jan 17 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/694efb93ce13cd10565742b9?utm_campaign=1054&utm_source=git)** | New Orleans, LA | Hybrid | Jan 17 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/68f14a25ef766b3f0fd0b447?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Jan 17 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/696b3649350cf438031286c3?utm_campaign=1054&utm_source=git)** | US-CT-West Hartford | Hybrid | Jan 16 |
 | **[Saleseraian](https://salesera.net/)** | **[人力资源实习生](https://jobright.ai/jobs/info/696b323cdb26b618950eb8b0?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 16 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696b2475db26b618950eb220?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
-| ↳ | **[Intern, Tennis](https://jobright.ai/jobs/info/696b245edb26b618950eb20a?utm_campaign=1054&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
-| ↳ | **[Intern, Golf](https://jobright.ai/jobs/info/696b228e350cf43803127a82?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696b245edb26b618950eb20a?utm_campaign=1054&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
+| ↳ | **[Intern, Tennis](https://jobright.ai/jobs/info/696b2323db26b618950eb147?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
+| ↳ | **[Intern, Golf](https://jobright.ai/jobs/info/696b22ab350cf43803127a92?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/696b19ce350cf43803127564?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 16 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/696b1995db26b618950ea9c3?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 16 |
 | **[Velera](https://www.velera.com)** | **[Organizational Development Intern - Remote](https://jobright.ai/jobs/info/695c527c22c9dc0d3d54471d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696c5069db26b618950fa009?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Remote | Jan 16 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696af576db26b618950e683d?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Jan 16 |
 | **[The Breakers Palm Beach](https://www.thebreakers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696ae863350cf438031218da?utm_campaign=1054&utm_source=git)** | Palm Beach, FL | On Site | Jan 16 |
-| **[Flex](https://flex.com)** | **[HR Communications Intern - Summer 2026](https://jobright.ai/jobs/info/696ae6485fc86241853a1bbe?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
