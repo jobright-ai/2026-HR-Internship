@@ -98,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/696b3649350cf438031286c3?utm_campaign=1054&utm_source=git)** | US-CT-West Hartford | Hybrid | Jan 16 |
 | **[Saleseraian](https://salesera.net/)** | **[人力资源实习生](https://jobright.ai/jobs/info/696b323cdb26b618950eb8b0?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 16 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696b2475db26b618950eb220?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
-| ↳ | **[Intern, Tennis](https://jobright.ai/jobs/info/696b245edb26b618950eb20a?utm_campaign=1054&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
-| ↳ | **[Intern, Golf](https://jobright.ai/jobs/info/696b2305db26b618950eb13a?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696b2323db26b618950eb147?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
+| ↳ | **[Intern, Golf](https://jobright.ai/jobs/info/696b22ab350cf43803127a92?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
+| ↳ | **[Intern, Tennis](https://jobright.ai/jobs/info/696b22765fc86241853a81e9?utm_campaign=1054&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/696b19ce350cf43803127564?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 16 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/696b1995db26b618950ea9c3?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 16 |
 | **[Velera](https://www.velera.com)** | **[Organizational Development Intern - Remote](https://jobright.ai/jobs/info/695c527c22c9dc0d3d54471d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 16 |
@@ -131,11 +131,11 @@ For a complete list, click the following sortable link below:
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Supported Housing Intern](https://jobright.ai/jobs/info/696af75d5fc86241853a3ca2?utm_campaign=1054&utm_source=git)** | Middletown, NY 10940, USA | On Site | Jan 16 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[KidSuccess School-Based Case Manager - Internship](https://jobright.ai/jobs/info/696af5b15fc86241853a3ae4?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 16 |
 | **[Grainger](https://www.grainger.com)** | **[HR Learning & Development Intern](https://jobright.ai/jobs/info/696acf46db26b618950e1e4a?utm_campaign=1054&utm_source=git)** | Lake Forest, IL | On Site | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/696abee4db26b618950e01f1?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
+| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ac1d1db26b618950e0783?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
+| ↳ | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/696abee4db26b618950e01f1?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | ↳ | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ab93c350cf4380311c130?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Jan 16 |
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, People Insights & Engagement](https://jobright.ai/jobs/info/696ae778db26b618950e4c6d?utm_campaign=1054&utm_source=git)** | Rochester, New York | On Site | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ab6b65fc862418539c624?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Middletown and Goshen, NY](https://jobright.ai/jobs/info/696ad3dd5fc862418539f813?utm_campaign=1054&utm_source=git)** | Goshen, NY | On Site | Jan 16 |
 | **[Cape Resorts](http://caperesorts.com)** | **[HR Intern](https://jobright.ai/jobs/info/696ab2355fc862418539bed0?utm_campaign=1054&utm_source=git)** | Cape Resorts Management, Cape May, NJ, US | On Site | Jan 16 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Oncor Military SkillBridge Internship / Measurement Field Support Intern (Woodall Rodgers - Downtown Dallas)](https://jobright.ai/jobs/info/6966b3225ad3a93f82320480?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
 | **[Astroscale U.S.](https://astroscale-us.com/)** | **[Summer 2026 Internships](https://jobright.ai/jobs/info/696a88b35fc8624185398042?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7d5cdb26b618950dab5f?utm_campaign=1054&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| **[CoxHealth](https://www.coxhealth.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/696a7ba5db26b618950da9ef?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 16 |
+| **[CoxHealth](https://www.coxhealth.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/696a7ce5db26b618950dab02?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
