@@ -142,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/696b3649350cf438031286c3?utm_campaign=1054&utm_source=git)** | US-CT-West Hartford | Hybrid | Jan 16 |
 | **[Saleseraian](https://salesera.net/)** | **[人力资源实习生](https://jobright.ai/jobs/info/696b323cdb26b618950eb8b0?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 16 |
 | **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696b2323db26b618950eb147?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
-| ↳ | **[Intern, Golf](https://jobright.ai/jobs/info/696b2305db26b618950eb13a?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
+| ↳ | **[Intern, Golf](https://jobright.ai/jobs/info/696b228e350cf43803127a82?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
 | ↳ | **[Intern, Tennis](https://jobright.ai/jobs/info/696b22765fc86241853a81e9?utm_campaign=1054&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/696b19ce350cf43803127564?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 16 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/696b1995db26b618950ea9c3?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 16 |
