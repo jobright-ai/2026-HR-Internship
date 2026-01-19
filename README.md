@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amcor](http://www.amcor.com/)** | **[Intern](https://jobright.ai/jobs/info/696ea145350cf438031566db?utm_campaign=1054&utm_source=git)** | Princeton, IN | On Site | Jan 19 |
+| **[EQ Bank | Equitable Bank](http://www.eqbank.ca)** | **[HR Projects and Change Management Intern](https://jobright.ai/jobs/info/696e9318350cf438031549b3?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
+| **[Sun Technologies](http://www.suntechnologies.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696e8fad350cf4380315459b?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Jan 19 |
+| **[RBC](https://www.rbc.com)** | **[Branch Leadership Development Intern](https://jobright.ai/jobs/info/696e8dde5fc86241853d462e?utm_campaign=1054&utm_source=git)** | STRATHROY-CARADOC, Ontario, Canada | On Site | Jan 19 |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern - Chicago Region 2025 - 2026](https://jobright.ai/jobs/info/696e8b2d5fc86241853d4390?utm_campaign=1054&utm_source=git)** | IL_Chicago_Office | On Site | Jan 19 |
 | **[XPO](https://www.xpo.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/696e717bdb26b61895115979?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 19 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/695f3fc8a112b402660dff89?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 19 |
 | **[Egan Company](https://www.eganco.com/)** | **[Safety Intern - Summer 2026](https://jobright.ai/jobs/info/68e6994e1852e62f0081c822?utm_campaign=1054&utm_source=git)** | Champlin, MN | Hybrid | Jan 19 |
@@ -71,11 +76,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/695624f6aa05c26e7ab06341?utm_campaign=1054&utm_source=git)** | Marshall, TX | On Site | Jan 19 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91db095f5211cd2ceef18?utm_campaign=1054&utm_source=git)** | Ruston, LA | On Site | Jan 19 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Jan 19 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c481c4e471ef3ce16d6d5f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 19 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Prince George Campus Recruiting - Talent Pool for CPA Opportunities in Audit and Tax, 2026](https://jobright.ai/jobs/info/691878be45fb6f5ead8a57e4?utm_campaign=1054&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Jan 19 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c90996983e6768bc555f06?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 19 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919ccacbcdbf3560c9d72fd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 19 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Jan 19 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/696e30225fc86241853cfdf2?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 19 |
 | **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, CLS Human Resources (1st Shift) - Lewisville TX](https://jobright.ai/jobs/info/696de463db26b6189510d5cd?utm_campaign=1054&utm_source=git)** | 2710 S Edmonds Ln, Lewisville, TX, 75067, US | On Site | Jan 18 |
 | **[ETHNUS](https://ethnus.com)** | **[Intern - Human Resource](https://jobright.ai/jobs/info/696da15f350cf43803146de2?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Jan 18 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/696ac23e350cf4380311d138?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 18 |
@@ -125,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/696dcb705fc86241853c9fb8?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 17 |
 | ↳ | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/696dc305350cf4380314979b?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 17 |
 | **[Aramark Student Nutrition](http://www.aramarkeducation.com)** | **[2026 HR Intern-Performance Excellence](https://jobright.ai/jobs/info/696d2ffcdb26b61895104be5?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
+| **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/696bee21db26b618950f57b6?utm_campaign=1054&utm_source=git)** | Buckhead, GA | On Site | Jan 17 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[People & Culture (HR) Summer Intern](https://jobright.ai/jobs/info/696bd424db26b618950f49ce?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Jan 17 |
 | **[JTM Construction](https://www.jtm-construction.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696ba8e15fc86241853affe7?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, IT Business Solutions](https://jobright.ai/jobs/info/6933a5b6764507023d1b7a4a?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Jan 17 |
 | **[Harris](https://www.harriscompany.com/)** | **[Human Resources Intern - HRIS](https://jobright.ai/jobs/info/68c0658f8e65e77df55c0be3?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Jan 17 |
 | **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/69162f0b6f36db06ef0538d9?utm_campaign=1054&utm_source=git)** | Hopkins, MN | On Site | Jan 17 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/696e1bab5fc86241853cdd4f?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Jan 17 |
-| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Golf](https://jobright.ai/jobs/info/696b7026350cf4380312c68c?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Jan 17 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/694ef8ea29655e4dd65890fb?utm_campaign=1054&utm_source=git)** | Montgomery, AL | Hybrid | Jan 17 |
-| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696b6f5a5fc86241853acf41?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Jan 17 |
-| **[Noble Corporation](http://www.noblecorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ccc1cbd99309000e5a29a4?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
