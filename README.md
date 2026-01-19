@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[Risk Management - Communications and Colleague Engagement Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/696e20a8db26b618951104cb?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6955f6e59f1b381eb26f2ca6?utm_campaign=1054&utm_source=git)** | Pine Bluff, AR | On Site | Jan 19 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/695624f6aa05c26e7ab06341?utm_campaign=1054&utm_source=git)** | Marshall, TX | On Site | Jan 19 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91db095f5211cd2ceef18?utm_campaign=1054&utm_source=git)** | Ruston, LA | On Site | Jan 19 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Jan 19 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Prince George Campus Recruiting - Talent Pool for CPA Opportunities in Audit and Tax, 2026](https://jobright.ai/jobs/info/691878be45fb6f5ead8a57e4?utm_campaign=1054&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Jan 19 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c90996983e6768bc555f06?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 19 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919ccacbcdbf3560c9d72fd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 19 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Jan 19 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/696e1027db26b6189511009a?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jan 19 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/696e30745fc86241853d0004?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Jan 19 |
+| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/696e30225fc86241853cfdf2?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 19 |
+| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/696e20d0db26b618951105a4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jan 19 |
 | **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, CLS Human Resources (1st Shift) - Lewisville TX](https://jobright.ai/jobs/info/696de463db26b6189510d5cd?utm_campaign=1054&utm_source=git)** | 2710 S Edmonds Ln, Lewisville, TX, 75067, US | On Site | Jan 18 |
 | **[ETHNUS](https://ethnus.com)** | **[Intern - Human Resource](https://jobright.ai/jobs/info/696da15f350cf43803146de2?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Jan 18 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/696ac23e350cf4380311d138?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 18 |
@@ -89,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691647606f36db06ef05488e?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Jan 18 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Jan 18 |
 | **[PACCAR](http://www.paccar.com/)** | **[Compensation and HR Shared Services - Summer Internship 2026](https://jobright.ai/jobs/info/69188bbabcdbf3560c9d2a23?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Jan 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Jan 18 |
-| ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Jan 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Jan 18 |
+| ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Jan 18 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/6933b9b1a0dde7020e2f12a8?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Jan 18 |
 | ↳ | **[Summer 2026 Management Internship - Cape Cod / South Shore area](https://jobright.ai/jobs/info/68cff20f846f0b04af6864f7?utm_campaign=1054&utm_source=git)** | Hyannis, MA | On Site | Jan 18 |
 | ↳ | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/68ce883a846f0b04af67ac2f?utm_campaign=1054&utm_source=git)** | Leominster, MA | On Site | Jan 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/68f14a25ef766b3f0fd0b447?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Jan 17 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 17 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696de476db26b6189510d5d6?utm_campaign=1054&utm_source=git)** | Delaware, United States | Remote | Jan 16 |
-| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/696b3649350cf438031286c3?utm_campaign=1054&utm_source=git)** | US-CT-West Hartford | Hybrid | Jan 16 |
-| **[Saleseraian](https://salesera.net/)** | **[人力资源实习生](https://jobright.ai/jobs/info/696b323cdb26b618950eb8b0?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 16 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696b2475db26b618950eb220?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
-| ↳ | **[Intern, Golf](https://jobright.ai/jobs/info/696b228e350cf43803127a82?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Jan 16 |
-| ↳ | **[Intern, Tennis](https://jobright.ai/jobs/info/696b22765fc86241853a81e9?utm_campaign=1054&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
-| **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/696b19ce350cf43803127564?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 16 |
-| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/696b1995db26b618950ea9c3?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 16 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696dc1e75fc86241853c98be?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
