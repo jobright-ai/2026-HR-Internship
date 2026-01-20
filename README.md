@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[TA Services](http://www.taservices.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/696e59a6db26b6189511393c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 19 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Business Internships Talent Pool](https://jobright.ai/jobs/info/696e4e38350cf43803150ceb?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Jan 19 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 19 |
-| **[TD](https://www.td.com)** | **[Accident Benefit Claims Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952433f935649778e200eef?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6955f6e59f1b381eb26f2ca6?utm_campaign=1054&utm_source=git)** | Pine Bluff, AR | On Site | Jan 19 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/695624f6aa05c26e7ab06341?utm_campaign=1054&utm_source=git)** | Marshall, TX | On Site | Jan 19 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91db095f5211cd2ceef18?utm_campaign=1054&utm_source=git)** | Ruston, LA | On Site | Jan 19 |
@@ -132,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691647606f36db06ef05488e?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Jan 18 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Jan 18 |
 | **[PACCAR](http://www.paccar.com/)** | **[Compensation and HR Shared Services - Summer Internship 2026](https://jobright.ai/jobs/info/69188bbabcdbf3560c9d2a23?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Jan 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Jan 18 |
-| ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Jan 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Jan 18 |
+| ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Jan 18 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/6933b9b1a0dde7020e2f12a8?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Jan 18 |
 | ↳ | **[Summer 2026 Management Internship - Cape Cod / South Shore area](https://jobright.ai/jobs/info/68cff20f846f0b04af6864f7?utm_campaign=1054&utm_source=git)** | Hyannis, MA | On Site | Jan 18 |
 | ↳ | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/68ce883a846f0b04af67ac2f?utm_campaign=1054&utm_source=git)** | Leominster, MA | On Site | Jan 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[People & Culture (HR) Summer Intern](https://jobright.ai/jobs/info/696bd424db26b618950f49ce?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Jan 17 |
 | **[JTM Construction](https://www.jtm-construction.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696ba8e15fc86241853affe7?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
+| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696ba3d65fc86241853afe7e?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
