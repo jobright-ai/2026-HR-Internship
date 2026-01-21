@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Summer Internship - HR Organizational Development](https://jobright.ai/jobs/info/695f9323a112b402660e3b34?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jan 20 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Human Resources / Omni Care Intern- Spring 2026 (April Start)](https://jobright.ai/jobs/info/69705ef8333b6343a14cec04?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
 | **[Highgate](https://www.highgate.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/6970509351f72647718285ea?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Jan 20 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[S&I HR Intern](https://jobright.ai/jobs/info/69704e68333b6343a14cbc92?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 20 |
@@ -80,15 +81,16 @@ For a complete list, click the following sortable link below:
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69702b1a587dfa0bb55dace0?utm_campaign=1054&utm_source=git)** | Avery Island, LA | On Site | Jan 20 |
 | **[West Marine](http://www.westmarine.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69702ac051f7264771825a60?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Jan 20 |
 | **[City Of Guelph](https://guelph.ca)** | **[Municipal Internship for Newcomers – Human Resources Assistant (up to 6 months)](https://jobright.ai/jobs/info/6970288251f72647718258b2?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 20 |
-| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/69704b9d333b6343a14cbaec?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Jan 20 |
+| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970434f587dfa0bb55dc480?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 20 |
+| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/69704b9d333b6343a14cbaec?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Jan 20 |
 | ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
-| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970434f587dfa0bb55dc480?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 20 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA](https://jobright.ai/jobs/info/697024020f4e0f657ea49366?utm_campaign=1054&utm_source=git)** | Metairie, LA | On Site | Jan 20 |
 | **[Dean Dorton](http://www.deandorton.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69701d2c3ed06875134b18a5?utm_campaign=1054&utm_source=git)** | Lexington, KY | Hybrid | Jan 20 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Career Services Intern](https://jobright.ai/jobs/info/69703f73333b6343a14ca8c9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69703a79587dfa0bb55dbd3a?utm_campaign=1054&utm_source=git)** | Avery Island, LA, US | On Site | Jan 20 |
 | **[Pinnacol Assurance](http://www.pinnacol.com/)** | **[Claims Rotational Internship](https://jobright.ai/jobs/info/697012870f4e0f657ea46e55?utm_campaign=1054&utm_source=git)** | Denver | On Site | Jan 20 |
 | **[Orin Swift Cellars](http://www.orinswift.com/)** | **[INTERN-HR OD - 300980](https://jobright.ai/jobs/info/697010a23ed06875134b0f1f?utm_campaign=1054&utm_source=git)** | Modesto, CA | On Site | Jan 20 |
+| **[1st Source Bank](https://www.1stsource.com/)** | **[Intern, Human Resources, South Bend, IN (Summer 2026)](https://jobright.ai/jobs/info/69706f4a333b6343a14cfc8d?utm_campaign=1054&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Career Services Intern](https://jobright.ai/jobs/info/69700cf982817106e9772915?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Human Ressources](https://jobright.ai/jobs/info/6970075282817106e977248f?utm_campaign=1054&utm_source=git)** | Saint-Leonard, QC | On Site | Jan 20 |
 | **[Nightwing](nightwing.com)** | **[Human Resource Intern – 2026](https://jobright.ai/jobs/info/6969d93df25a38006698a0c4?utm_campaign=1054&utm_source=git)** | Sterling, VA | Hybrid | Jan 20 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Triad Partners](https://triadpartners.com)** | **[Case Planning Intern](https://jobright.ai/jobs/info/696ff4d73ed06875134ae93b?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | Jan 20 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance – Electronic Benefit Transfer (EBT) Internship (Summer 2026)](https://jobright.ai/jobs/info/696fee5082817106e976f443?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Resettlement Case Management Intern – Spring 2026](https://jobright.ai/jobs/info/696980dff25a380066982613?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Jan 20 |
-| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Human Resources Intern(Student only)](https://jobright.ai/jobs/info/69700eb882817106e9772a30?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Jan 20 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Human Resources Intern](https://jobright.ai/jobs/info/696fe84d3ed06875134ad285?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 20 |
 | **[AXA XL](https://axaxl.com)** | **[Workplace Intern](https://jobright.ai/jobs/info/696fe75382817106e976ecd9?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jan 20 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/696fe6ba3ed06875134ad07b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/6948d32fd1953b5d11c1e8f6?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Jan 20 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6969f71af25a38006698b9e5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/693f752c50bbaf765051b42c?utm_campaign=1054&utm_source=git)** | Boise, ID | Hybrid | Jan 20 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696f593f0f4e0f657ea3b4e6?utm_campaign=1054&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
