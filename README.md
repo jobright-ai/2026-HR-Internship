@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ellsworth Adhesives](http://ellsworth.com)** | **[Talent Acquisition HR Intern](https://jobright.ai/jobs/info/69712c9851f7264771836132?utm_campaign=1054&utm_source=git)** | Germantown, WI | On Site | Jan 21 |
+| **[AMBA](https://amba.info)** | **[AMBA 2026 Internship Opportunities](https://jobright.ai/jobs/info/69712a6e51f7264771835ebb?utm_campaign=1054&utm_source=git)** | Urbandale,IA,US | Hybrid | Jan 21 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/697128d8587dfa0bb55eb19a?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
+| ↳ | **[Intern - Talent Acquisition & Strategy](https://jobright.ai/jobs/info/69712407587dfa0bb55ead31?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
+| **[TWC Services, Inc.](https://www.twcservices.com/)** | **[Intern](https://jobright.ai/jobs/info/697121c2587dfa0bb55eac35?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69711e08333b6343a14d92a4?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 21 |
 | **[AMBA](https://amba.info)** | **[AMBA Internship Opportunities](https://jobright.ai/jobs/info/69711a96333b6343a14d9074?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jan 21 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6971104551f7264771834e9e?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Jan 21 |
@@ -120,9 +125,9 @@ For a complete list, click the following sortable link below:
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69702b1a587dfa0bb55dace0?utm_campaign=1054&utm_source=git)** | Avery Island, LA | On Site | Jan 20 |
 | **[West Marine](http://www.westmarine.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69702ac051f7264771825a60?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Jan 20 |
 | **[City Of Guelph](https://guelph.ca)** | **[Municipal Internship for Newcomers – Human Resources Assistant (up to 6 months)](https://jobright.ai/jobs/info/6970288251f72647718258b2?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 20 |
-| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970434f587dfa0bb55dc480?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 20 |
+| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
+| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970434f587dfa0bb55dc480?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 20 |
 | ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/69704b9d333b6343a14cbaec?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Jan 20 |
-| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA](https://jobright.ai/jobs/info/697024020f4e0f657ea49366?utm_campaign=1054&utm_source=git)** | Metairie, LA | On Site | Jan 20 |
 | **[Dean Dorton](http://www.deandorton.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69701d2c3ed06875134b18a5?utm_campaign=1054&utm_source=git)** | Lexington, KY | Hybrid | Jan 20 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Career Services Intern](https://jobright.ai/jobs/info/69703f73333b6343a14ca8c9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/696fe6ba3ed06875134ad07b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 20 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Intern – Supply Chain](https://jobright.ai/jobs/info/695d8154fbd62a0a65661c5d?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[S&I HR Intern](https://jobright.ai/jobs/info/696fff910f4e0f657ea45d81?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 20 |
-| **[Empyrean](http://www.goempyrean.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/697003a20f4e0f657ea46138?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| ↳ | **[Compensation & Benefits Internship](https://jobright.ai/jobs/info/6970009c0f4e0f657ea45e3a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Human Resources Intern](https://jobright.ai/jobs/info/696fd8563ed06875134ac0ac?utm_campaign=1054&utm_source=git)** | US-PA-Fort Washington | On Site | Jan 20 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Career and Financial Coaching Intern Spring 2026](https://jobright.ai/jobs/info/69694ee9639b452fb57f1a08?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Jan 20 |
-| **[Furnitureland South, Inc](https://profine.pk/)** | **[HR Intern](https://jobright.ai/jobs/info/696ff34f82817106e976ff0f?utm_campaign=1054&utm_source=git)** | Jamestown, NC | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
