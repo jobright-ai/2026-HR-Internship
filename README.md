@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6938f229b95c305f206e318c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Dalton](https://jobright.ai/jobs/info/69002d39e0c73b3a111a2f06?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | Jan 21 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68aa5142d627244576e3c9b7?utm_campaign=1054&utm_source=git)** | Maumelle, AR | On Site | Jan 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Fort Wayne](https://jobright.ai/jobs/info/6938ef5fa0dde7020e318c97?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Jan 21 |
 | **[ECCO](https://enter.ecco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6954870faa05c26e7aaf0657?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jan 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Marion, IL](https://jobright.ai/jobs/info/69002c4be0c73b3a111a2e39?utm_campaign=1054&utm_source=git)** | Carbondale, IL | On Site | Jan 21 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69002afde04ac838fb5bfd13?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Jan 21 |
@@ -68,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Clinical Wellbeing Intern - Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/69576fc7f1f8465b79ee2d77?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
 | **[TAIT](http://www.taittowers.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6938f347aabec14a727de4f2?utm_campaign=1054&utm_source=git)** | Lititz, PA | On Site | Jan 21 |
 | **[Benesch](https://www.benesch.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/69548d2c5bb7de448ef786f1?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Jan 21 |
+| **[OPmobility](https://www.opmobility.com)** | **[HR INTERN](https://jobright.ai/jobs/info/692fc80d4c474121999e274b?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jan 21 |
 | **[American Fuji Seal](https://www.fujiseal.com/en/)** | **[Human Resources Intern (38674)](https://jobright.ai/jobs/info/69393dbc48a8ce22990d57d1?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Jan 21 |
 | **[Velera](https://www.velera.com)** | **[Organizational Development Intern - Remote](https://jobright.ai/jobs/info/695c527c22c9dc0d3d54471d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Summer Internship - HR Organizational Development](https://jobright.ai/jobs/info/695f9323a112b402660e3b34?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jan 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68aa5159758f2e4ac3ffc656?utm_campaign=1054&utm_source=git)** | Navarre, OH | On Site | Jan 20 |
 | **[TD](https://www.td.com)** | **[Wealth Colleague Experience Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952f5ecf1f8465b79ea4eb4?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/68cbaccbba798c1a501d3c75?utm_campaign=1054&utm_source=git)** | Frankfort, NY | On Site | Jan 20 |
-| **[LumoraX](lumorax.us)** | **[Talent Pool Business Internship](https://jobright.ai/jobs/info/696f7b593ed06875134a7209?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Jan 20 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68c6d72ec96a22563eceff92?utm_campaign=1054&utm_source=git)** | Pendleton, IN | On Site | Jan 20 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Braintree (48513)](https://jobright.ai/jobs/info/68cbb0769e3a822f5d24a798?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Jan 20 |
-| **[Maryland Auto Insurance](https://www.mymarylandauto.com)** | **[PT Claims Intern - Subrogation](https://jobright.ai/jobs/info/696f95b882817106e976a3de?utm_campaign=1054&utm_source=git)** | Headquarters - Baltimore, MD 21230 | Hybrid | Jan 20 |
-| **[Woolpert](http://www.woolpert.com)** | **[Internships - Expression of Interest](https://jobright.ai/jobs/info/68e2f27b1852e62f007f8b11?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
