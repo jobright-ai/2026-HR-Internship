@@ -57,12 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Field Museum](https://www.fieldmuseum.org)** | **[Human Resources Internship- Volunteer & Intern Program](https://jobright.ai/jobs/info/69702f89587dfa0bb55db21d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Human Resources / Omni Care Intern- Spring 2026  (April Start)](https://jobright.ai/jobs/info/69702e8951f7264771825ea4?utm_campaign=1054&utm_source=git)** | US-TX-Fort Worth | On Site | Jan 20 |
+| **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69702ca751f7264771825c8d?utm_campaign=1054&utm_source=git)** | US-TX-Irving | On Site | Jan 20 |
+| **[Empyrean](http://www.goempyrean.com)** | **[Compensation & Benefits Internship](https://jobright.ai/jobs/info/69702c79587dfa0bb55dae95?utm_campaign=1054&utm_source=git)** | Houston, TX, USA | On Site | Jan 20 |
+| **[McIlhenny Company](http://www.tabasco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69702b1a587dfa0bb55dace0?utm_campaign=1054&utm_source=git)** | Avery Island, LA | On Site | Jan 20 |
+| **[West Marine](http://www.westmarine.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69702ac051f7264771825a60?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Jan 20 |
+| **[City Of Guelph](https://guelph.ca)** | **[Municipal Internship for Newcomers – Human Resources Assistant (up to 6 months)](https://jobright.ai/jobs/info/6970288251f72647718258b2?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 20 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA](https://jobright.ai/jobs/info/697024020f4e0f657ea49366?utm_campaign=1054&utm_source=git)** | Metairie, LA | On Site | Jan 20 |
+| **[Dean Dorton](http://www.deandorton.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69701d2c3ed06875134b18a5?utm_campaign=1054&utm_source=git)** | Lexington, KY | Hybrid | Jan 20 |
 | **[Pinnacol Assurance](http://www.pinnacol.com/)** | **[Claims Rotational Internship](https://jobright.ai/jobs/info/697012870f4e0f657ea46e55?utm_campaign=1054&utm_source=git)** | Denver | On Site | Jan 20 |
 | **[Orin Swift Cellars](http://www.orinswift.com/)** | **[INTERN-HR OD - 300980](https://jobright.ai/jobs/info/697010a23ed06875134b0f1f?utm_campaign=1054&utm_source=git)** | Modesto, CA | On Site | Jan 20 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Career Services Intern](https://jobright.ai/jobs/info/69700cf982817106e9772915?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Human Ressources](https://jobright.ai/jobs/info/6970075282817106e977248f?utm_campaign=1054&utm_source=git)** | Saint-Leonard, QC | On Site | Jan 20 |
 | **[Nightwing](nightwing.com)** | **[Human Resource Intern – 2026](https://jobright.ai/jobs/info/6969d93df25a38006698a0c4?utm_campaign=1054&utm_source=git)** | Sterling, VA | Hybrid | Jan 20 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Business Support Intern](https://jobright.ai/jobs/info/6970068782817106e9772410?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 20 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/69702c1951f7264771825bea?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 20 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Retirement Actuarial Internship – (Summer or Fall 2026) – Toronto](https://jobright.ai/jobs/info/6970212082817106e977391a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
 | **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697002583ed06875134b02a2?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | Jan 20 |
 | **[Gallo Glass Company](http://galloglass.com)** | **[INTERN-HR OD - 300980](https://jobright.ai/jobs/info/696ffe4c3ed06875134afe94?utm_campaign=1054&utm_source=git)** | Modesto, CA | On Site | Jan 20 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[People Development Intern - Summer 2026](https://jobright.ai/jobs/info/696ffa3a0f4e0f657ea45297?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Jan 20 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/696eb344350cf43803158b80?utm_campaign=1054&utm_source=git)** | Annapolis, MD | On Site | Jan 19 |
 | **[RBC](https://www.rbc.com)** | **[Branch Leadership Development Intern](https://jobright.ai/jobs/info/696eadbc350cf438031581fe?utm_campaign=1054&utm_source=git)** | Strathroy-Caradoc, Ontario, Canada | On Site | Jan 19 |
 | **[Fleetway Inc.](http://www.fleetway.ca)** | **[HR Intern](https://jobright.ai/jobs/info/696eaba5350cf43803157d40?utm_campaign=1054&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 19 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696eba2c350cf43803159cf7?utm_campaign=1054&utm_source=git)** | CAN - Winnipeg, Canada | On Site | Jan 19 |
-| **[RBC](https://www.rbc.com)** | **[Branch Leadership Development Intern](https://jobright.ai/jobs/info/696e8dde5fc86241853d462e?utm_campaign=1054&utm_source=git)** | STRATHROY-CARADOC, Ontario, Canada | On Site | Jan 19 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern - Chicago Region 2025 - 2026](https://jobright.ai/jobs/info/696e8b2d5fc86241853d4390?utm_campaign=1054&utm_source=git)** | IL_Chicago_Office | On Site | Jan 19 |
-| **[PS Logistics](https://www.pslogistics.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/696ea7bddb26b61895119c34?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, USA | On Site | Jan 19 |
-| **[XPO](https://www.xpo.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/696e717bdb26b61895115979?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 19 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/695f3fc8a112b402660dff89?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 19 |
-| **[Egan Company](https://www.eganco.com/)** | **[Safety Intern - Summer 2026](https://jobright.ai/jobs/info/68e6994e1852e62f0081c822?utm_campaign=1054&utm_source=git)** | Champlin, MN | Hybrid | Jan 19 |
-| **[TA Services](http://www.taservices.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/696e59a6db26b6189511393c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 19 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6955f6e59f1b381eb26f2ca6?utm_campaign=1054&utm_source=git)** | Pine Bluff, AR | On Site | Jan 19 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/695624f6aa05c26e7ab06341?utm_campaign=1054&utm_source=git)** | Marshall, TX | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
