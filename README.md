@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Velera](https://www.velera.com)** | **[Organizational Development Intern - Remote](https://jobright.ai/jobs/info/695c527c22c9dc0d3d54471d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Summer Internship - HR Organizational Development](https://jobright.ai/jobs/info/695f9323a112b402660e3b34?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jan 20 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Human Resources / Omni Care Intern- Spring 2026 (April Start)](https://jobright.ai/jobs/info/69705ef8333b6343a14cec04?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
 | **[Highgate](https://www.highgate.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/6970509351f72647718285ea?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Jan 20 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[West Marine](http://www.westmarine.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69702ac051f7264771825a60?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Jan 20 |
 | **[City Of Guelph](https://guelph.ca)** | **[Municipal Internship for Newcomers – Human Resources Assistant (up to 6 months)](https://jobright.ai/jobs/info/6970288251f72647718258b2?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 20 |
 | **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
-| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/69704b9d333b6343a14cbaec?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Jan 20 |
 | ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970434f587dfa0bb55dc480?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 20 |
+| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/69704b9d333b6343a14cbaec?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Jan 20 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA](https://jobright.ai/jobs/info/697024020f4e0f657ea49366?utm_campaign=1054&utm_source=git)** | Metairie, LA | On Site | Jan 20 |
 | **[Dean Dorton](http://www.deandorton.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69701d2c3ed06875134b18a5?utm_campaign=1054&utm_source=git)** | Lexington, KY | Hybrid | Jan 20 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Career Services Intern](https://jobright.ai/jobs/info/69703f73333b6343a14ca8c9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Robinhood](https://www.robinhood.com)** | **[PeopleX Partner Intern](https://jobright.ai/jobs/info/693748a8aabec14a727c5f9d?utm_campaign=1054&utm_source=git)** | Menlo Park, CA | Hybrid | Jan 20 |
 | **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/6948d32fd1953b5d11c1e8f6?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Jan 20 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6969f71af25a38006698b9e5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 20 |
-| **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/693f752c50bbaf765051b42c?utm_campaign=1054&utm_source=git)** | Boise, ID | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
