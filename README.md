@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69711e08333b6343a14d92a4?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 21 |
+| **[AMBA](https://amba.info)** | **[AMBA Internship Opportunities](https://jobright.ai/jobs/info/69711a96333b6343a14d9074?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jan 21 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6971104551f7264771834e9e?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Jan 21 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69710fe4587dfa0bb55ea2b2?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Jan 21 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: HR Shared Services](https://jobright.ai/jobs/info/69710e34333b6343a14d89ec?utm_campaign=1054&utm_source=git)** | Brownsville, WI | On Site | Jan 21 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[West Marine](http://www.westmarine.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69702ac051f7264771825a60?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Jan 20 |
 | **[City Of Guelph](https://guelph.ca)** | **[Municipal Internship for Newcomers – Human Resources Assistant (up to 6 months)](https://jobright.ai/jobs/info/6970288251f72647718258b2?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 20 |
 | **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970434f587dfa0bb55dc480?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 20 |
-| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
 | ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/69704b9d333b6343a14cbaec?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Jan 20 |
+| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA](https://jobright.ai/jobs/info/697024020f4e0f657ea49366?utm_campaign=1054&utm_source=git)** | Metairie, LA | On Site | Jan 20 |
 | **[Dean Dorton](http://www.deandorton.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69701d2c3ed06875134b18a5?utm_campaign=1054&utm_source=git)** | Lexington, KY | Hybrid | Jan 20 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Career Services Intern](https://jobright.ai/jobs/info/69703f73333b6343a14ca8c9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Human Resources Intern](https://jobright.ai/jobs/info/696fd8563ed06875134ac0ac?utm_campaign=1054&utm_source=git)** | US-PA-Fort Washington | On Site | Jan 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Career and Financial Coaching Intern Spring 2026](https://jobright.ai/jobs/info/69694ee9639b452fb57f1a08?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Jan 20 |
 | **[Furnitureland South, Inc](https://profine.pk/)** | **[HR Intern](https://jobright.ai/jobs/info/696ff34f82817106e976ff0f?utm_campaign=1054&utm_source=git)** | Jamestown, NC | On Site | Jan 20 |
-| **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Total Rewards Intern- Spring](https://jobright.ai/jobs/info/696fd3a73ed06875134abb92?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Jan 20 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/696ffa9e3ed06875134afa7a?utm_campaign=1054&utm_source=git)** | Milwaukee, WI Corporate | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
