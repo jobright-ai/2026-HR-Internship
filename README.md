@@ -81,9 +81,9 @@ For a complete list, click the following sortable link below:
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69702b1a587dfa0bb55dace0?utm_campaign=1054&utm_source=git)** | Avery Island, LA | On Site | Jan 20 |
 | **[West Marine](http://www.westmarine.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69702ac051f7264771825a60?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Jan 20 |
 | **[City Of Guelph](https://guelph.ca)** | **[Municipal Internship for Newcomers – Human Resources Assistant (up to 6 months)](https://jobright.ai/jobs/info/6970288251f72647718258b2?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 20 |
-| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970434f587dfa0bb55dc480?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 20 |
+| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
 | ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/69704b9d333b6343a14cbaec?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Jan 20 |
-| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
+| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970434f587dfa0bb55dc480?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 20 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA](https://jobright.ai/jobs/info/697024020f4e0f657ea49366?utm_campaign=1054&utm_source=git)** | Metairie, LA | On Site | Jan 20 |
 | **[Dean Dorton](http://www.deandorton.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69701d2c3ed06875134b18a5?utm_campaign=1054&utm_source=git)** | Lexington, KY | Hybrid | Jan 20 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Career Services Intern](https://jobright.ai/jobs/info/69703f73333b6343a14ca8c9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
