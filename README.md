@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Graduate Internship Program – People Operations and Strategy](https://jobright.ai/jobs/info/6970e8a7587dfa0bb55e73fb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6938f229b95c305f206e318c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Dalton](https://jobright.ai/jobs/info/69002d39e0c73b3a111a2f06?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | Jan 21 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68aa5142d627244576e3c9b7?utm_campaign=1054&utm_source=git)** | Maumelle, AR | On Site | Jan 21 |
@@ -99,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69702b1a587dfa0bb55dace0?utm_campaign=1054&utm_source=git)** | Avery Island, LA | On Site | Jan 20 |
 | **[West Marine](http://www.westmarine.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69702ac051f7264771825a60?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Jan 20 |
 | **[City Of Guelph](https://guelph.ca)** | **[Municipal Internship for Newcomers – Human Resources Assistant (up to 6 months)](https://jobright.ai/jobs/info/6970288251f72647718258b2?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 20 |
-| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/69704b9d333b6343a14cbaec?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Jan 20 |
+| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
 | ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970434f587dfa0bb55dc480?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 20 |
-| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
+| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/69704b9d333b6343a14cbaec?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Jan 20 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA](https://jobright.ai/jobs/info/697024020f4e0f657ea49366?utm_campaign=1054&utm_source=git)** | Metairie, LA | On Site | Jan 20 |
 | **[Dean Dorton](http://www.deandorton.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69701d2c3ed06875134b18a5?utm_campaign=1054&utm_source=git)** | Lexington, KY | Hybrid | Jan 20 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Career Services Intern](https://jobright.ai/jobs/info/69703f73333b6343a14ca8c9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69379c3eaabec14a727c9c3c?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68aa5159758f2e4ac3ffc656?utm_campaign=1054&utm_source=git)** | Navarre, OH | On Site | Jan 20 |
 | **[TD](https://www.td.com)** | **[Wealth Colleague Experience Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952f5ecf1f8465b79ea4eb4?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/68cbaccbba798c1a501d3c75?utm_campaign=1054&utm_source=git)** | Frankfort, NY | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
