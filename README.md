@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Early Talent Access Co-op (July to December)](https://jobright.ai/jobs/info/6971e90fb707bf728a4b8312?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Jan 22 |
+| ↳ | **[Fall 2026: Talent Acceleration Co-op (July to December)](https://jobright.ai/jobs/info/6971e780b707bf728a4b8201?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Jan 22 |
 | **[Camelot Strategic Marketing & Media](http://camelotsmm.com)** | **[HR Programs Intern](https://jobright.ai/jobs/info/6971ceceb707bf728a4b5ba9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[NBT Bank](http://www.nbtbank.com)** | **[Talent Acquisition - Internship](https://jobright.ai/jobs/info/6971be82587dfa0bb55f8682?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Jan 21 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Human Resources Internship - Compliance & Project Management](https://jobright.ai/jobs/info/695eeaf5a112b402660da806?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jan 21 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697189ee51f726477183e54a?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 21 |
 | **[American Gas Association](http://www.aga.org)** | **[Intern, Talent Operations](https://jobright.ai/jobs/info/6971892f587dfa0bb55f3a87?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jan 21 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Human Resources](https://jobright.ai/jobs/info/69717b71333b6343a14e16e9?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 21 |
-| **[Hilde B Foundation](www.hildebfoundation.org)** | **[People & Operations Intern](https://jobright.ai/jobs/info/6971a6f9333b6343a14e4239?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Ethical and Sustainable Sourcing #ESSourcing](https://www.eandsources.com)** | **[Spring 2026 HR Intern](https://jobright.ai/jobs/info/6971834151f726477183df10?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/69717e20587dfa0bb55f30a8?utm_campaign=1054&utm_source=git)** | Omaha Riverfront | On Site | Jan 21 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources (Learning & Development)](https://jobright.ai/jobs/info/69717dd651f726477183da3f?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern - Human Resources](https://jobright.ai/jobs/info/697061a3333b6343a14ceda7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Business Partner Graduate Intern](https://jobright.ai/jobs/info/6970422c333b6343a14caa0f?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jan 20 |
 | **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/697040b851f726477182718d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
-| **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Shared Services (Summer 2026)](https://jobright.ai/jobs/info/69703d22587dfa0bb55dc00f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
