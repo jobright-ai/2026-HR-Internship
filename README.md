@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rogers Electric](https://www.rogerselectric.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69216a01a49a885af9a45ab2?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Jan 22 |
+| **[IDEMIA Public Security](https://na.idemia.com/)** | **[Human Resources Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6938345ea0dde7020e30cb20?utm_campaign=1054&utm_source=git)** | Bedford, MA | Hybrid | Jan 22 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[South Internship - 2026](https://jobright.ai/jobs/info/68c93f3695f5211cd2cef72b?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | **[ETS](http://www.ets.org)** | **[HR Modernization Intern Summer 2026](https://jobright.ai/jobs/info/6939caf648a8ce22990dce60?utm_campaign=1054&utm_source=git)** | Princeton, NJ | On Site | Jan 22 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/691d092122a2cb4b9bd2018b?utm_campaign=1054&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 22 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/69716a7251f726477183b52a?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 21 |
 | **[TriNet](http://trinet.com)** | **[Intern, Benefits and Retirement Compliance](https://jobright.ai/jobs/info/6971690d587dfa0bb55f0967?utm_campaign=1054&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | On Site | Jan 21 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6971906c587dfa0bb55f40f9?utm_campaign=1054&utm_source=git)** | Boston, United States | On Site | Jan 21 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a9c333b6343a14e258d?utm_campaign=1054&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Jan 21 |
-| ↳ | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a85587dfa0bb55f3baa?utm_campaign=1054&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Jan 21 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a85587dfa0bb55f3baa?utm_campaign=1054&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Jan 21 |
+| ↳ | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a9c333b6343a14e258d?utm_campaign=1054&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Jan 21 |
 | **[Miracle-Ear, Inc.](http://www.miracle-ear.com/)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/6957f55b9f1b381eb270ddb0?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Jan 21 |
 | **[T. A. Loving Company](https://www.taloving.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69716827587dfa0bb55f08a0?utm_campaign=1054&utm_source=git)** | Goldsboro, NC | On Site | Jan 21 |
 | **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697167cf587dfa0bb55f0849?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[S&I HR Intern](https://jobright.ai/jobs/info/69704e68333b6343a14cbc92?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 20 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Human Ressources](https://jobright.ai/jobs/info/69704dc2587dfa0bb55dd560?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 20 |
 | **[Seagate Technology](http://www.seagate.com)** | **[HR AI Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/697048fb587dfa0bb55dd1fc?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Remote | Jan 20 |
-| **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/697048de587dfa0bb55dd1e4?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
-| ↳ | **[College Intern - Human Resources](https://jobright.ai/jobs/info/697061a3333b6343a14ceda7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
