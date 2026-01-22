@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[South Internship - 2026](https://jobright.ai/jobs/info/68c93f3695f5211cd2cef72b?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
+| **[ETS](http://www.ets.org)** | **[HR Modernization Intern Summer 2026](https://jobright.ai/jobs/info/6939caf648a8ce22990dce60?utm_campaign=1054&utm_source=git)** | Princeton, NJ | On Site | Jan 22 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/691d092122a2cb4b9bd2018b?utm_campaign=1054&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Early Talent Access Co-op (July to December)](https://jobright.ai/jobs/info/6971e90fb707bf728a4b8312?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Jan 22 |
 | ↳ | **[Fall 2026: Talent Acceleration Co-op (July to December)](https://jobright.ai/jobs/info/6971e780b707bf728a4b8201?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Jan 22 |
@@ -127,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[ITAC](https://itac.us.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6971045351f72647718334d3?utm_campaign=1054&utm_source=git)** | Chester, VA | On Site | Jan 21 |
 | **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6938f229b95c305f206e318c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 21 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Human Resources Intern](https://jobright.ai/jobs/info/6970ff34333b6343a14d68e6?utm_campaign=1054&utm_source=git)** | Herndon, VA | Hybrid | Jan 21 |
-| **[Brixenta](brixenta.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6970fa9151f7264771832ae7?utm_campaign=1054&utm_source=git)** | Sussex, WI | Remote | Jan 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Dalton](https://jobright.ai/jobs/info/69002d39e0c73b3a111a2f06?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | Jan 21 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68aa5142d627244576e3c9b7?utm_campaign=1054&utm_source=git)** | Maumelle, AR | On Site | Jan 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Fort Wayne](https://jobright.ai/jobs/info/6938ef5fa0dde7020e318c97?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[HR AI Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/697048fb587dfa0bb55dd1fc?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Remote | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/697048de587dfa0bb55dd1e4?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
 | ↳ | **[College Intern - Human Resources](https://jobright.ai/jobs/info/697061a3333b6343a14ceda7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Business Partner Graduate Intern](https://jobright.ai/jobs/info/6970422c333b6343a14caa0f?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
