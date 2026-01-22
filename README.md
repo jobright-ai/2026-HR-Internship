@@ -57,8 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c943aca0c52d598ea367f7?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jan 22 |
+| ↳ | **[Management Trainee Intern - Madison](https://jobright.ai/jobs/info/69003019e0c73b3a111a31c2?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Jan 22 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Jan 22 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Human Resources Internship-Jefferson City MO](https://jobright.ai/jobs/info/69466b23d1953b5d11bfa386?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Jan 22 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933cd56a0dde7020e2f1f11?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Jan 22 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933f36fa0dde7020e2f3336?utm_campaign=1054&utm_source=git)** | Kalamazoo, MI | On Site | Jan 22 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Jan 22 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ceafb7846f0b04af67c4ad?utm_campaign=1054&utm_source=git)** | Waldorf, MD | On Site | Jan 22 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cce7015954791a1d700c2c?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
+| **[TekniPlex](http://www.tekni-plex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691d3993bcdbf3560c9ee5fa?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Jan 22 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69216a01a49a885af9a45ab2?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Jan 22 |
 | **[IDEMIA Public Security](https://na.idemia.com/)** | **[Human Resources Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6938345ea0dde7020e30cb20?utm_campaign=1054&utm_source=git)** | Bedford, MA | Hybrid | Jan 22 |
+| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Human Resources](https://jobright.ai/jobs/info/691cfa30ff7024498416c899?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[South Internship - 2026](https://jobright.ai/jobs/info/68c93f3695f5211cd2cef72b?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | **[ETS](http://www.ets.org)** | **[HR Modernization Intern Summer 2026](https://jobright.ai/jobs/info/6939caf648a8ce22990dce60?utm_campaign=1054&utm_source=git)** | Princeton, NJ | On Site | Jan 22 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/691d092122a2cb4b9bd2018b?utm_campaign=1054&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 22 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Clinical Wellbeing Intern - Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/69576fc7f1f8465b79ee2d77?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
 | **[TAIT](http://www.taittowers.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6938f347aabec14a727de4f2?utm_campaign=1054&utm_source=git)** | Lititz, PA | On Site | Jan 21 |
 | **[Benesch](https://www.benesch.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/69548d2c5bb7de448ef786f1?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Jan 21 |
-| **[OPmobility](https://www.opmobility.com)** | **[HR INTERN](https://jobright.ai/jobs/info/692fc80d4c474121999e274b?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jan 21 |
-| **[American Fuji Seal](https://www.fujiseal.com/en/)** | **[Human Resources Intern (38674)](https://jobright.ai/jobs/info/69393dbc48a8ce22990d57d1?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Jan 21 |
-| **[Velera](https://www.velera.com)** | **[Organizational Development Intern - Remote](https://jobright.ai/jobs/info/695c527c22c9dc0d3d54471d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Summer Internship - HR Organizational Development](https://jobright.ai/jobs/info/695f9323a112b402660e3b34?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jan 20 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, People, Place and Culture](https://jobright.ai/jobs/info/6970bd87333b6343a14d30ba?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 20 |
-| **[Humber College](http://www.humber.ca/)** | **[Student Recruitment Associate - UGH - Appendix D](https://jobright.ai/jobs/info/6971c322587dfa0bb55f8dae?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Human Resources / Omni Care Intern- Spring 2026 (April Start)](https://jobright.ai/jobs/info/69705ef8333b6343a14cec04?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
-| **[Highgate](https://www.highgate.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/6970509351f72647718285ea?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Jan 20 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[S&I HR Intern](https://jobright.ai/jobs/info/69704e68333b6343a14cbc92?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 20 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Human Ressources](https://jobright.ai/jobs/info/69704dc2587dfa0bb55dd560?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 20 |
-| **[Seagate Technology](http://www.seagate.com)** | **[HR AI Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/697048fb587dfa0bb55dd1fc?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Remote | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
