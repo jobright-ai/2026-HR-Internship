@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ITHAKA](http://www.ithaka.org)** | **[Intern, HR Benefits and Operations](https://jobright.ai/jobs/info/69726d3d584a1c1ef6fd6c54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 22 |
+| **[Jamf](http://jamf.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6972657f4ccbf64f8df25e81?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 22 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/697260f29b83b424830e595e?utm_campaign=1054&utm_source=git)** | 11 Stanwix street, Pittsburgh, PA, 15222, US | On Site | Jan 22 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69724f25584a1c1ef6fd43d9?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 22 |
 | **[MBH Architects](https://www.mbharch.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697242349b83b424830e2f6d?utm_campaign=1054&utm_source=git)** | Alameda, CA | Hybrid | Jan 22 |
@@ -95,16 +97,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern- Capital District North (Saratoga Springs, NY and Clifton Park, NY)](https://jobright.ai/jobs/info/693a818af3cb0010f8708c03?utm_campaign=1054&utm_source=git)** | Saratoga Springs, NY | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4a9f06a34016008c637f?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cdabeff7024498416b262?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Jan 22 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d05beff7024498416d067?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Plattsburgh, NY](https://jobright.ai/jobs/info/693aa2ee5f2c001987ecbc7d?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/694f0cccce13cd10565745d5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf12022a2cb4b9bd1eeff?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern- White River Junction, VT](https://jobright.ai/jobs/info/693a823ef3cb0010f8708c2d?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Jan 22 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a442056b68f3dc4e79bbf?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Tri Cities](https://jobright.ai/jobs/info/69340b6ef131d96e4846920e?utm_campaign=1054&utm_source=git)** | Blountville, TN | On Site | Jan 22 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a442056b68f3dc4e79bbf?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern -Grand Rapids](https://jobright.ai/jobs/info/691cda03ff7024498416b1bb?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jan 22 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[HR and Employee Development Internship (12 months)](https://jobright.ai/jobs/info/697238794ccbf64f8df22965?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d412c7481340785ed58d5?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - HR Benefits Services and HRIS](https://jobright.ai/jobs/info/6971424a51f7264771837bee?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Jan 21 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Equity Summer Internship](https://jobright.ai/jobs/info/69713ea751f7264771837461?utm_campaign=1054&utm_source=git)** | Minnesota, United States | On Site | Jan 21 |
 | **[WK Kellogg Co](https://www.wkkellogg.com/en-us/home.html)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69713b20587dfa0bb55ec655?utm_campaign=1054&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 21 |
-| **[Ellsworth Adhesives](http://ellsworth.com)** | **[Talent Acquisition HR Intern](https://jobright.ai/jobs/info/6971341c51f72647718369d1?utm_campaign=1054&utm_source=git)** | Germantown, Wisconsin, United States | On Site | Jan 21 |
-| **[Credo](http://www.credosemi.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6971313c51f7264771836666?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
