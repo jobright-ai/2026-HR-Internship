@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69719a76587dfa0bb55f49b0?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jan 21 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone Talent Acquisition Internship - Spring 2026](https://jobright.ai/jobs/info/69718d1b51f726477183e89a?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Jan 21 |
 | **[Coffman Engineers](http://www.coffman.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69718ab2587dfa0bb55f3bd1?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jan 21 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697189ee51f726477183e54a?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 21 |
@@ -72,8 +73,9 @@ For a complete list, click the following sortable link below:
 | **[American Gas Association](http://www.aga.org)** | **[Intern, Talent Operations](https://jobright.ai/jobs/info/6971793451f726477183d4f7?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Hybrid | Jan 21 |
 | **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/69716a7251f726477183b52a?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 21 |
 | **[TriNet](http://trinet.com)** | **[Intern, Benefits and Retirement Compliance](https://jobright.ai/jobs/info/6971690d587dfa0bb55f0967?utm_campaign=1054&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | On Site | Jan 21 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a85587dfa0bb55f3baa?utm_campaign=1054&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Jan 21 |
-| ↳ | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a9c333b6343a14e258d?utm_campaign=1054&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Jan 21 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6971906c587dfa0bb55f40f9?utm_campaign=1054&utm_source=git)** | Boston, United States | On Site | Jan 21 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a9c333b6343a14e258d?utm_campaign=1054&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Jan 21 |
+| ↳ | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a85587dfa0bb55f3baa?utm_campaign=1054&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Jan 21 |
 | **[Miracle-Ear, Inc.](http://www.miracle-ear.com/)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/6957f55b9f1b381eb270ddb0?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Jan 21 |
 | **[T. A. Loving Company](https://www.taloving.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69716827587dfa0bb55f08a0?utm_campaign=1054&utm_source=git)** | Goldsboro, NC | On Site | Jan 21 |
 | **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697167cf587dfa0bb55f0849?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/697128d8587dfa0bb55eb19a?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
 | ↳ | **[Intern - Talent Acquisition & Strategy](https://jobright.ai/jobs/info/69712407587dfa0bb55ead31?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
 | **[TWC Services, Inc.](https://www.twcservices.com/)** | **[Intern](https://jobright.ai/jobs/info/697121c2587dfa0bb55eac35?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
-| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69711e08333b6343a14d92a4?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 21 |
 | **[AMBA](https://amba.info)** | **[AMBA Internship Opportunities](https://jobright.ai/jobs/info/69711a96333b6343a14d9074?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jan 21 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Human Resources (HR) Technology](https://jobright.ai/jobs/info/69713514333b6343a14da6e5?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 21 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Store Operations (Workforce Planning & Analytics)](https://jobright.ai/jobs/info/69713158333b6343a14da2ba?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Field Museum](https://www.fieldmuseum.org)** | **[Human Resources Internship- Volunteer & Intern Program](https://jobright.ai/jobs/info/69702f89587dfa0bb55db21d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | **[Illumio](http://www.illumio.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/691fe61fa49a885af9a352d2?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Jan 20 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Human Resources / Omni Care Intern- Spring 2026  (April Start)](https://jobright.ai/jobs/info/69702e8951f7264771825ea4?utm_campaign=1054&utm_source=git)** | US-TX-Fort Worth | On Site | Jan 20 |
-| **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69702ca751f7264771825c8d?utm_campaign=1054&utm_source=git)** | US-TX-Irving | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
