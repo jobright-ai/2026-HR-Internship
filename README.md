@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 22 |
+| **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/6948d32fd1953b5d11c1e8f6?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Jan 22 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern- Supply Chain](https://jobright.ai/jobs/info/697295699b83b424830e8bf1?utm_campaign=1054&utm_source=git)** | 4221 Telephone Rd, Dallas, TX, 75241, US | On Site | Jan 22 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern](https://jobright.ai/jobs/info/697291654ccbf64f8df2868c?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 22 |
 | **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[HRIS Analyst Intern](https://jobright.ai/jobs/info/697283134ccbf64f8df27559?utm_campaign=1054&utm_source=git)** | Norwell, MA, United States | On Site | Jan 22 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Housing Case Manager Internship](https://jobright.ai/jobs/info/697282219b83b424830e7200?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, USA, 55404 | On Site | Jan 22 |
 | **[Camaco](http://www.camacollc.com)** | **[HR Intern](https://jobright.ai/jobs/info/697279d4584a1c1ef6fd743d?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Jan 22 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[HRIS Analyst Intern](https://jobright.ai/jobs/info/697297c89b83b424830e9166?utm_campaign=1054&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jan 22 |
+| **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/69728d854ccbf64f8df28005?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 22 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, HR Benefits and Operations](https://jobright.ai/jobs/info/69726d3d584a1c1ef6fd6c54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 22 |
+| **[City of Sacramento](http://www.cityofsacramento.org)** | **[General Intern](https://jobright.ai/jobs/info/697292ef584a1c1ef6fd9136?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Jan 22 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Human Resources Learning and Development Intern](https://jobright.ai/jobs/info/69728a834ccbf64f8df27dcd?utm_campaign=1054&utm_source=git)** | 450 Revolutionary Dr, East Taunton, MA 02718, USA | On Site | Jan 22 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, HR Benefits and Operations](https://jobright.ai/jobs/info/69728bff4ccbf64f8df27f2a?utm_campaign=1054&utm_source=git)** | Remote within the Continental United States | Remote | Jan 22 |
 | **[Jamf](http://jamf.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6972657f4ccbf64f8df25e81?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 22 |
@@ -106,15 +113,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4a9f06a34016008c637f?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cdabeff7024498416b262?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 22 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d05beff7024498416d067?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Plattsburgh, NY](https://jobright.ai/jobs/info/693aa2ee5f2c001987ecbc7d?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/694f0cccce13cd10565745d5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf12022a2cb4b9bd1eeff?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern- White River Junction, VT](https://jobright.ai/jobs/info/693a823ef3cb0010f8708c2d?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Jan 22 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Tri Cities](https://jobright.ai/jobs/info/69340b6ef131d96e4846920e?utm_campaign=1054&utm_source=git)** | Blountville, TN | On Site | Jan 22 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a442056b68f3dc4e79bbf?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 22 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Tri Cities](https://jobright.ai/jobs/info/69340b6ef131d96e4846920e?utm_campaign=1054&utm_source=git)** | Blountville, TN | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern -Grand Rapids](https://jobright.ai/jobs/info/691cda03ff7024498416b1bb?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jan 22 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[HR and Employee Development Internship (12 months)](https://jobright.ai/jobs/info/697238794ccbf64f8df22965?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d412c7481340785ed58d5?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Jan 22 |
@@ -148,13 +155,6 @@ For a complete list, click the following sortable link below:
 | **[American Gas Association](http://www.aga.org)** | **[Intern, Talent Operations](https://jobright.ai/jobs/info/6971793451f726477183d4f7?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Hybrid | Jan 21 |
 | **[TriNet](http://trinet.com)** | **[Intern, Benefits and Retirement Compliance](https://jobright.ai/jobs/info/6971690d587dfa0bb55f0967?utm_campaign=1054&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | On Site | Jan 21 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6971906c587dfa0bb55f40f9?utm_campaign=1054&utm_source=git)** | Boston, United States | On Site | Jan 21 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a85587dfa0bb55f3baa?utm_campaign=1054&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Jan 21 |
-| ↳ | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a9c333b6343a14e258d?utm_campaign=1054&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Jan 21 |
-| **[MBH Architects](https://www.mbharch.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6972315647b64f4e963e74f7?utm_campaign=1054&utm_source=git)** | Alameda Office | Hybrid | Jan 21 |
-| **[Miracle-Ear, Inc.](http://www.miracle-ear.com/)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/6957f55b9f1b381eb270ddb0?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Jan 21 |
-| **[T. A. Loving Company](https://www.taloving.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69716827587dfa0bb55f08a0?utm_campaign=1054&utm_source=git)** | Goldsboro, NC | On Site | Jan 21 |
-| **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697167cf587dfa0bb55f0849?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
-| **[Mastercard](http://www.mastercard.com)** | **[People and Capabilities (Benefit and Well-Being) Intern, Summer 2026 - Purchase, NY](https://jobright.ai/jobs/info/697163be333b6343a14dec8f?utm_campaign=1054&utm_source=git)** | Purchase, NY | Hybrid | Jan 21 |
-| **[DASNY (Dormitory Authority - State of New York )](https://www.dasny.org)** | **[Student Intern - Human Resources - Albany, NY](https://jobright.ai/jobs/info/69715bcc587dfa0bb55efd56?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Jan 21 |
-| **[Munich Re](https://www.munichre.com)** | **[DEI and CSR Intern](https://jobright.ai/jobs/info/69715aee51f726477183a75d?utm_campaign=1054&utm_source=git)** | Princeton, NJ | Hybrid | Jan 21 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a9c333b6343a14e258d?utm_campaign=1054&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Jan 21 |
+| ↳ | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a85587dfa0bb55f3baa?utm_campaign=1054&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
