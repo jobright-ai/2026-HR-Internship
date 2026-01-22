@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camelot Strategic Marketing & Media](http://camelotsmm.com)** | **[HR Programs Intern](https://jobright.ai/jobs/info/6971ceceb707bf728a4b5ba9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[NBT Bank](http://www.nbtbank.com)** | **[Talent Acquisition - Internship](https://jobright.ai/jobs/info/6971be82587dfa0bb55f8682?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Jan 21 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Human Resources Internship - Compliance & Project Management](https://jobright.ai/jobs/info/695eeaf5a112b402660da806?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jan 21 |
 | ↳ | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69719a76587dfa0bb55f49b0?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jan 21 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/69716a7251f726477183b52a?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 21 |
 | **[TriNet](http://trinet.com)** | **[Intern, Benefits and Retirement Compliance](https://jobright.ai/jobs/info/6971690d587dfa0bb55f0967?utm_campaign=1054&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | On Site | Jan 21 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6971906c587dfa0bb55f40f9?utm_campaign=1054&utm_source=git)** | Boston, United States | On Site | Jan 21 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a85587dfa0bb55f3baa?utm_campaign=1054&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Jan 21 |
-| ↳ | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a9c333b6343a14e258d?utm_campaign=1054&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Jan 21 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a9c333b6343a14e258d?utm_campaign=1054&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Jan 21 |
+| ↳ | **[Human Resources Internship - Recruiting & Project Management](https://jobright.ai/jobs/info/69718a85587dfa0bb55f3baa?utm_campaign=1054&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Jan 21 |
 | **[Miracle-Ear, Inc.](http://www.miracle-ear.com/)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/6957f55b9f1b381eb270ddb0?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Jan 21 |
 | **[T. A. Loving Company](https://www.taloving.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69716827587dfa0bb55f08a0?utm_campaign=1054&utm_source=git)** | Goldsboro, NC | On Site | Jan 21 |
 | **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697167cf587dfa0bb55f0849?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Business Partner Graduate Intern](https://jobright.ai/jobs/info/6970422c333b6343a14caa0f?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jan 20 |
 | **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/697040b851f726477182718d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Shared Services (Summer 2026)](https://jobright.ai/jobs/info/69703d22587dfa0bb55dc00f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 20 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Year Round Intern - Pharr TX](https://jobright.ai/jobs/info/6970320851f72647718262cb?utm_campaign=1054&utm_source=git)** | Pharr, TX | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
