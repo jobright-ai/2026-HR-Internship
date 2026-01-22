@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/69717e20587dfa0bb55f30a8?utm_campaign=1054&utm_source=git)** | Omaha Riverfront | On Site | Jan 21 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources (Learning & Development)](https://jobright.ai/jobs/info/69717dd651f726477183da3f?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
+| **[Town of Caledon](https://www.caledon.ca)** | **[High School Co-op Student, Human Resources](https://jobright.ai/jobs/info/69717d75587dfa0bb55f2fdf?utm_campaign=1054&utm_source=git)** | Caledon, Ontario, Canada | On Site | Jan 21 |
+| **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Case Manager Intern](https://jobright.ai/jobs/info/69717d2a51f726477183d97e?utm_campaign=1054&utm_source=git)** | Middletown, RI | On Site | Jan 21 |
+| **[Coffman Engineers](http://www.coffman.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69717c9b51f726477183d8e3?utm_campaign=1054&utm_source=git)** | 701 Corporate Center Drive, #475, Raleigh, NC, United States | On Site | Jan 21 |
+| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Human Resources](https://jobright.ai/jobs/info/69717b71333b6343a14e16e9?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 21 |
+| **[TriNet](http://trinet.com)** | **[Intern, Benefits and Retirement Compliance](https://jobright.ai/jobs/info/697179ba333b6343a14e14e6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
+| **[American Gas Association](http://www.aga.org)** | **[Intern, Talent Operations](https://jobright.ai/jobs/info/6971793451f726477183d4f7?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Hybrid | Jan 21 |
 | **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/69716a7251f726477183b52a?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 21 |
 | **[TriNet](http://trinet.com)** | **[Intern, Benefits and Retirement Compliance](https://jobright.ai/jobs/info/6971690d587dfa0bb55f0967?utm_campaign=1054&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | On Site | Jan 21 |
 | **[Miracle-Ear, Inc.](http://www.miracle-ear.com/)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/6957f55b9f1b381eb270ddb0?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Jan 21 |
@@ -147,14 +155,6 @@ For a complete list, click the following sortable link below:
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69702b1a587dfa0bb55dace0?utm_campaign=1054&utm_source=git)** | Avery Island, LA | On Site | Jan 20 |
 | **[West Marine](http://www.westmarine.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69702ac051f7264771825a60?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Jan 20 |
 | **[City Of Guelph](https://guelph.ca)** | **[Municipal Internship for Newcomers – Human Resources Assistant (up to 6 months)](https://jobright.ai/jobs/info/6970288251f72647718258b2?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 20 |
-| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970434f587dfa0bb55dc480?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jan 20 |
+| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
 | ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/69704b9d333b6343a14cbaec?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Jan 20 |
-| ↳ | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6970461051f7264771827446?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA](https://jobright.ai/jobs/info/697024020f4e0f657ea49366?utm_campaign=1054&utm_source=git)** | Metairie, LA | On Site | Jan 20 |
-| **[Dean Dorton](http://www.deandorton.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69701d2c3ed06875134b18a5?utm_campaign=1054&utm_source=git)** | Lexington, KY | Hybrid | Jan 20 |
-| **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Career Services Intern](https://jobright.ai/jobs/info/69703f73333b6343a14ca8c9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
-| **[McIlhenny Company](http://www.tabasco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69703a79587dfa0bb55dbd3a?utm_campaign=1054&utm_source=git)** | Avery Island, LA, US | On Site | Jan 20 |
-| **[Pinnacol Assurance](http://www.pinnacol.com/)** | **[Claims Rotational Internship](https://jobright.ai/jobs/info/697012870f4e0f657ea46e55?utm_campaign=1054&utm_source=git)** | Denver | On Site | Jan 20 |
-| **[Orin Swift Cellars](http://www.orinswift.com/)** | **[INTERN-HR OD - 300980](https://jobright.ai/jobs/info/697010a23ed06875134b0f1f?utm_campaign=1054&utm_source=git)** | Modesto, CA | On Site | Jan 20 |
-| **[1st Source Bank](https://www.1stsource.com/)** | **[Intern, Human Resources, South Bend, IN (Summer 2026)](https://jobright.ai/jobs/info/69706f4a333b6343a14cfc8d?utm_campaign=1054&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
