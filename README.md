@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/691d092122a2cb4b9bd2018b?utm_campaign=1054&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Early Talent Access Co-op (July to December)](https://jobright.ai/jobs/info/6971e90fb707bf728a4b8312?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Jan 22 |
 | ↳ | **[Fall 2026: Talent Acceleration Co-op (July to December)](https://jobright.ai/jobs/info/6971e780b707bf728a4b8201?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Jan 22 |
 | **[Camelot Strategic Marketing & Media](http://camelotsmm.com)** | **[HR Programs Intern](https://jobright.ai/jobs/info/6971ceceb707bf728a4b5ba9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/697048de587dfa0bb55dd1e4?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
 | ↳ | **[College Intern - Human Resources](https://jobright.ai/jobs/info/697061a3333b6343a14ceda7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Business Partner Graduate Intern](https://jobright.ai/jobs/info/6970422c333b6343a14caa0f?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jan 20 |
-| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/697040b851f726477182718d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
