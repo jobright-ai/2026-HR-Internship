@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/6973099f694e99351d1455d7?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/697309531790715e866bfd03?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 22 |
+| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Blackmont HR Intern (Only for Students)](https://jobright.ai/jobs/info/697315f6206da320f49d2002?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Jan 22 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Talent Acquisition Coordinator](https://jobright.ai/jobs/info/6972f875694e99351d143fd4?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 22 |
 | **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - Human Resources - Workforce Planning - Oahu or Hawai'i Island](https://jobright.ai/jobs/info/6972f52a1790715e866be40c?utm_campaign=1054&utm_source=git)** | Honolulu, Hawaii (HI), US, 96813 | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6972eb4b98522904c697bccd?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern- Supply Chain](https://jobright.ai/jobs/info/697295699b83b424830e8bf1?utm_campaign=1054&utm_source=git)** | 4221 Telephone Rd, Dallas, TX, 75241, US | On Site | Jan 22 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern](https://jobright.ai/jobs/info/697291654ccbf64f8df2868c?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 22 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Student](https://jobright.ai/jobs/info/6972ac969b83b424830eb4db?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 22 |
-| **[Jordan's Furniture](http://www.jordans.com/)** | **[Human Resources Learning and Development Intern](https://jobright.ai/jobs/info/6972a1da4ccbf64f8df2aa0b?utm_campaign=1054&utm_source=git)** | East Taunton, MA | On Site | Jan 22 |
 | **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[HRIS Analyst Intern](https://jobright.ai/jobs/info/697283134ccbf64f8df27559?utm_campaign=1054&utm_source=git)** | Norwell, MA, United States | On Site | Jan 22 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Housing Case Manager Internship](https://jobright.ai/jobs/info/697282219b83b424830e7200?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, USA, 55404 | On Site | Jan 22 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Office of Economic Assistance – Electronic Benefit Transfer (EBT) Internship (Summer 2026)](https://jobright.ai/jobs/info/6972b0b04ccbf64f8df2bc33?utm_campaign=1054&utm_source=git)** | Lincoln, NE | Hybrid | Jan 22 |
@@ -107,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/69728d854ccbf64f8df28005?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 22 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, HR Benefits and Operations](https://jobright.ai/jobs/info/69726d3d584a1c1ef6fd6c54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 22 |
 | **[City of Sacramento](http://www.cityofsacramento.org)** | **[General Intern](https://jobright.ai/jobs/info/697292ef584a1c1ef6fd9136?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Jan 22 |
-| **[Jordan's Furniture](http://www.jordans.com/)** | **[Human Resources Learning and Development Intern](https://jobright.ai/jobs/info/69728a834ccbf64f8df27dcd?utm_campaign=1054&utm_source=git)** | 450 Revolutionary Dr, East Taunton, MA 02718, USA | On Site | Jan 22 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, HR Benefits and Operations](https://jobright.ai/jobs/info/69728bff4ccbf64f8df27f2a?utm_campaign=1054&utm_source=git)** | Remote within the Continental United States | Remote | Jan 22 |
 | **[Jamf](http://jamf.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6972657f4ccbf64f8df25e81?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 22 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/697260f29b83b424830e595e?utm_campaign=1054&utm_source=git)** | 11 Stanwix street, Pittsburgh, PA, 15222, US | On Site | Jan 22 |
@@ -152,9 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4a9f06a34016008c637f?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cdabeff7024498416b262?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d05beff7024498416d067?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 22 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Plattsburgh, NY](https://jobright.ai/jobs/info/693aa2ee5f2c001987ecbc7d?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/694f0cccce13cd10565745d5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf12022a2cb4b9bd1eeff?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
