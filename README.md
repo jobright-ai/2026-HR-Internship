@@ -79,8 +79,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd0472e5ac5c0dc6d26689?utm_campaign=1054&utm_source=git)** | Concord, NC | On Site | Jan 23 |
 | ↳ | **[Spring 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/6933f378a0dde7020e2f3356?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Jan 23 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ccfef0d11b445e0bee5c54?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Jan 23 |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Human Resources](https://jobright.ai/jobs/info/693b7f765f2c001987ed7257?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Intern Talent Pool](https://jobright.ai/jobs/info/697391f937785856350d62e5?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Jan 23 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Talent Pool Business Internship](https://jobright.ai/jobs/info/69736bf7bc8e722e7b1835d7?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Jan 23 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 New York Life Direct Summer Internship Program - Business, Employee & Workplace](https://jobright.ai/jobs/info/697367c3206da320f49d5e8e?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jan 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693b4f385f2c001987ed52b5?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/695c37b1aa05c26e7ab58786?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 23 |
 | ↳ | **[Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6965dc02a112b4026613f4e1?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 23 |
 | ↳ | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6964f6eba112b4026612d4e3?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
@@ -111,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Faurecia](https://www.forvia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6972d5db98522904c697a7fd?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jan 22 |
 | **[Butterball](http://www.butterball.com/)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/6972d34f98522904c697a516?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Jan 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6972d0d20488fd59f7d5c816?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Jan 22 |
+| **[Aegis Aerospace Inc.](https://aegisaero.com/)** | **[DoD SkillBridge Internship – Talent Acquisition/ Recruiting with Security Clearance](https://jobright.ai/jobs/info/69738d84206da320f49d8956?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/6972c2409b83b424830ec98d?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Certified Alcohol & Drug Counselor (CADC)](https://jobright.ai/jobs/info/6972f3321790715e866bde7b?utm_campaign=1054&utm_source=git)** | Chicago, IL 60626, USA | On Site | Jan 22 |
 | **[Cheekwood](https://cheekwood.org)** | **[HR / Wellness Program Intern - Summer 2026](https://jobright.ai/jobs/info/6972e57e1d55d64a20534907?utm_campaign=1054&utm_source=git)** | Nashville,TN,US | On Site | Jan 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AFM Agency](https://afmagency.net/)** | **[HR Intern (Mandarin)](https://jobright.ai/jobs/info/69728cf84ccbf64f8df27fb0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69724f25584a1c1ef6fd43d9?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 22 |
 | **[PMG](https://thepmgco.com)** | **[HR Programs Intern](https://jobright.ai/jobs/info/6972ff2a1790715e866beb3a?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Jan 22 |
-| **[MBH Architects](https://www.mbharch.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697242349b83b424830e2f6d?utm_campaign=1054&utm_source=git)** | Alameda, CA | Hybrid | Jan 22 |
-| **[The Weitz Company](http://www.weitz.com)** | **[Internships - Nationwide](https://jobright.ai/jobs/info/69723fa69b83b424830e2de8?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Jan 22 |
-| **[Fellowes Brands](http://www.fellowes.com/us/en/Pages/default.aspx)** | **[Intern](https://jobright.ai/jobs/info/69723ee4584a1c1ef6fd398a?utm_campaign=1054&utm_source=git)** | Itasca, IL | On Site | Jan 22 |
-| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[HR Employment Specialist Internship](https://jobright.ai/jobs/info/697254474ccbf64f8df23d01?utm_campaign=1054&utm_source=git)** | Monroe, WI | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
