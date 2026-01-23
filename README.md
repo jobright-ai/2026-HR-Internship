@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Talent Pool Business Internship](https://jobright.ai/jobs/info/69736bf7bc8e722e7b1835d7?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Jan 23 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 New York Life Direct Summer Internship Program - Business, Employee & Workplace](https://jobright.ai/jobs/info/697367c3206da320f49d5e8e?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jan 23 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/695c37b1aa05c26e7ab58786?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 23 |
+| ↳ | **[Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6965dc02a112b4026613f4e1?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 23 |
+| ↳ | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6964f6eba112b4026612d4e3?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
+| ↳ | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6959d3c0aa05c26e7ab37e85?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
 | **[Experitec Inc.](https://experitec.com/)** | **[Talent Management (Human Resources) Intern - Onsite - Chesterfield, MO](https://jobright.ai/jobs/info/691e7e37a49a885af9a291d8?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jan 23 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6956d2c3f1f8465b79edb2dd?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 23 |
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693b430e5f2c001987ed3eb7?utm_campaign=1054&utm_source=git)** | Hazel Park, MI | On Site | Jan 23 |
@@ -101,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 22 |
 | **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/6948d32fd1953b5d11c1e8f6?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Jan 22 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern- Supply Chain](https://jobright.ai/jobs/info/697295699b83b424830e8bf1?utm_campaign=1054&utm_source=git)** | 4221 Telephone Rd, Dallas, TX, 75241, US | On Site | Jan 22 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern](https://jobright.ai/jobs/info/697291654ccbf64f8df2868c?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 22 |
+| **[State of Ohio](http://www.ong.ohio.gov)** | **[College Intern](https://jobright.ai/jobs/info/697291654ccbf64f8df2868c?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 22 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Student](https://jobright.ai/jobs/info/6972ac969b83b424830eb4db?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 22 |
 | **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[HRIS Analyst Intern](https://jobright.ai/jobs/info/697283134ccbf64f8df27559?utm_campaign=1054&utm_source=git)** | Norwell, MA, United States | On Site | Jan 22 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Housing Case Manager Internship](https://jobright.ai/jobs/info/697282219b83b424830e7200?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, USA, 55404 | On Site | Jan 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf33422a2cb4b9bd1f0d0?utm_campaign=1054&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cd517ff7024498416ae10?utm_campaign=1054&utm_source=git)** | Traverse City, MI | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d3b777481340785ed5312?utm_campaign=1054&utm_source=git)** | Thunder Bay, Ontario, Canada | On Site | Jan 22 |
-| ↳ | **[Summer 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/693a8ec6e50e320634e2e047?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Jan 22 |
-| ↳ | **[Summer 2026 Management Trainee Intern- Capital District North (Saratoga Springs, NY and Clifton Park, NY)](https://jobright.ai/jobs/info/693a818af3cb0010f8708c03?utm_campaign=1054&utm_source=git)** | Saratoga Springs, NY | On Site | Jan 22 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4a9f06a34016008c637f?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Jan 22 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cdabeff7024498416b262?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Jan 22 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 22 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d05beff7024498416d067?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
