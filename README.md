@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/6973be21206da320f49db9d4?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Internship-Talent pool](https://jobright.ai/jobs/info/6973bdab206da320f49db9a1?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Jan 23 |
+| **[Okta](http://www.okta.com)** | **[University Recruiting Intern (Summer 2026)](https://jobright.ai/jobs/info/6973b5e237785856350d8c55?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 23 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/6973abff206da320f49dafdc?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 23 |
 | **[Siemens](https://www.siemens.com)** | **[People & Organization Internship](https://jobright.ai/jobs/info/6973aa60bc8e722e7b187341?utm_campaign=1054&utm_source=git)** | Wendell, NC | On Site | Jan 23 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973aa51206da320f49dae67?utm_campaign=1054&utm_source=git)** | Guelph - Hanlon Creek | Hybrid | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Human Resources, Total Rewards](https://jobright.ai/jobs/info/6973a9febc8e722e7b1871b2?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
-| ↳ | **[VyStar Intern – Human Resources, Total Rewards](https://jobright.ai/jobs/info/69739cdd206da320f49d9074?utm_campaign=1054&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
+| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973bfbcbc8e722e7b189082?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jan 23 |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Human Resources, Total Rewards](https://jobright.ai/jobs/info/69739cdd206da320f49d9074?utm_campaign=1054&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Benefits Internship (Remote, US)](https://jobright.ai/jobs/info/69739959206da320f49d8e53?utm_campaign=1054&utm_source=git)** | Remote- US | Remote | Jan 23 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship – Human Resources, Employee Benefits](https://jobright.ai/jobs/info/68cd56d3e23def7af55b871b?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a67b95f5211cd2ce7e4a?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Camaco](http://www.camacollc.com)** | **[HR Intern](https://jobright.ai/jobs/info/697279d4584a1c1ef6fd743d?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Jan 22 |
 | **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - HR Talent Management (Omaha, NE)](https://jobright.ai/jobs/info/6972a0c1584a1c1ef6fdadc0?utm_campaign=1054&utm_source=git)** | Omaha - FN Tower | On Site | Jan 22 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[HRIS Analyst Intern](https://jobright.ai/jobs/info/697297c89b83b424830e9166?utm_campaign=1054&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jan 22 |
-| **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/69728d854ccbf64f8df28005?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 22 |
-| **[ITHAKA](http://www.ithaka.org)** | **[Intern, HR Benefits and Operations](https://jobright.ai/jobs/info/69726d3d584a1c1ef6fd6c54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 22 |
-| **[City of Sacramento](http://www.cityofsacramento.org)** | **[General Intern](https://jobright.ai/jobs/info/697292ef584a1c1ef6fd9136?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Jan 22 |
-| **[ITHAKA](http://www.ithaka.org)** | **[Intern, HR Benefits and Operations](https://jobright.ai/jobs/info/69728bff4ccbf64f8df27f2a?utm_campaign=1054&utm_source=git)** | Remote within the Continental United States | Remote | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
