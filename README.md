@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Human Resources, Total Rewards](https://jobright.ai/jobs/info/69739cdd206da320f49d9074?utm_campaign=1054&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/6973abff206da320f49dafdc?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 23 |
+| **[Siemens](https://www.siemens.com)** | **[People & Organization Internship](https://jobright.ai/jobs/info/6973aa60bc8e722e7b187341?utm_campaign=1054&utm_source=git)** | Wendell, NC | On Site | Jan 23 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973aa51206da320f49dae67?utm_campaign=1054&utm_source=git)** | Guelph - Hanlon Creek | Hybrid | Jan 23 |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Human Resources, Total Rewards](https://jobright.ai/jobs/info/6973a9febc8e722e7b1871b2?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
+| ↳ | **[VyStar Intern – Human Resources, Total Rewards](https://jobright.ai/jobs/info/69739cdd206da320f49d9074?utm_campaign=1054&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Benefits Internship (Remote, US)](https://jobright.ai/jobs/info/69739959206da320f49d8e53?utm_campaign=1054&utm_source=git)** | Remote- US | Remote | Jan 23 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship – Human Resources, Employee Benefits](https://jobright.ai/jobs/info/68cd56d3e23def7af55b871b?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a67b95f5211cd2ce7e4a?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Jan 23 |
@@ -127,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 New York Life Direct Summer Internship Program - Business, Employee & Workplace](https://jobright.ai/jobs/info/6972d93098522904c697aba1?utm_campaign=1054&utm_source=git)** | Tampa,Florida,United States | Hybrid | Jan 22 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6972de4a1d55d64a20533fdf?utm_campaign=1054&utm_source=git)** | Watertown, South Dakota, United States | On Site | Jan 22 |
 | **[Butterball](http://www.butterball.com/)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/6972d9411d55d64a20533a8a?utm_campaign=1054&utm_source=git)** | Garner, NC 27529, USA | On Site | Jan 22 |
+| **[Dash0](https://www.dash0.com)** | **[Entrepreneur in Residence – People & Talent (Intern)](https://jobright.ai/jobs/info/6973a9cabc8e722e7b1870bb?utm_campaign=1054&utm_source=git)** | EMEA - Remote | Remote | Jan 22 |
 | **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Talent Acquisition (New York City)](https://jobright.ai/jobs/info/6972b596584a1c1ef6fdc7b7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Sabert Corporation](https://sabert.com/)** | **[Human Resources Intern-Talent Acquisition](https://jobright.ai/jobs/info/6972b445584a1c1ef6fdc6e0?utm_campaign=1054&utm_source=git)** | Sayreville, NJ | Hybrid | Jan 22 |
 | ↳ | **[Human Resources Intern-Talent Management](https://jobright.ai/jobs/info/6972b4044ccbf64f8df2bf18?utm_campaign=1054&utm_source=git)** | Sayreville, NJ | Hybrid | Jan 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, HR Benefits and Operations](https://jobright.ai/jobs/info/69726d3d584a1c1ef6fd6c54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 22 |
 | **[City of Sacramento](http://www.cityofsacramento.org)** | **[General Intern](https://jobright.ai/jobs/info/697292ef584a1c1ef6fd9136?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Jan 22 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, HR Benefits and Operations](https://jobright.ai/jobs/info/69728bff4ccbf64f8df27f2a?utm_campaign=1054&utm_source=git)** | Remote within the Continental United States | Remote | Jan 22 |
-| **[Jamf](http://jamf.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6972657f4ccbf64f8df25e81?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 22 |
-| **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/697260f29b83b424830e595e?utm_campaign=1054&utm_source=git)** | 11 Stanwix street, Pittsburgh, PA, 15222, US | On Site | Jan 22 |
-| **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/69727ee2584a1c1ef6fd79e2?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 22 |
-| **[Jamf](http://jamf.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69727e4b9b83b424830e6e6d?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 22 |
-| **[AFM Agency](https://afmagency.net/)** | **[HR Intern (Mandarin)](https://jobright.ai/jobs/info/69728cf84ccbf64f8df27fb0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
