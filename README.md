@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PITT OHIO](http://www.pittohio.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973cf5537785856350da1ba?utm_campaign=1054&utm_source=git)** | US-PA-Pittsburgh | On Site | Jan 23 |
+| **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Benefits Internship (Remote, US)](https://jobright.ai/jobs/info/6973cf0b206da320f49dc907?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Jan 23 |
+| **[PITT OHIO](http://www.pittohio.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973cca7206da320f49dc623?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | Jan 23 |
+| **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/697061a3333b6343a14ceda7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 23 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jan 23 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/6973be21206da320f49db9d4?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Internship-Talent pool](https://jobright.ai/jobs/info/6973bdab206da320f49db9a1?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Jan 23 |
 | **[Okta](http://www.okta.com)** | **[University Recruiting Intern (Summer 2026)](https://jobright.ai/jobs/info/6973b5e237785856350d8c55?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 23 |
@@ -64,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[People & Organization Internship](https://jobright.ai/jobs/info/6973aa60bc8e722e7b187341?utm_campaign=1054&utm_source=git)** | Wendell, NC | On Site | Jan 23 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973aa51206da320f49dae67?utm_campaign=1054&utm_source=git)** | Guelph - Hanlon Creek | Hybrid | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Human Resources, Total Rewards](https://jobright.ai/jobs/info/6973a9febc8e722e7b1871b2?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973c6c8206da320f49dbef8?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jan 23 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973bfbcbc8e722e7b189082?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Human Resources, Total Rewards](https://jobright.ai/jobs/info/69739cdd206da320f49d9074?utm_campaign=1054&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Benefits Internship (Remote, US)](https://jobright.ai/jobs/info/69739959206da320f49d8e53?utm_campaign=1054&utm_source=git)** | Remote- US | Remote | Jan 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://www.ong.ohio.gov)** | **[College Intern](https://jobright.ai/jobs/info/697291654ccbf64f8df2868c?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 22 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Student](https://jobright.ai/jobs/info/6972ac969b83b424830eb4db?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 22 |
 | **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[HRIS Analyst Intern](https://jobright.ai/jobs/info/697283134ccbf64f8df27559?utm_campaign=1054&utm_source=git)** | Norwell, MA, United States | On Site | Jan 22 |
-| **[Agate Housing and Services](https://agatemn.org)** | **[Housing Case Manager Internship](https://jobright.ai/jobs/info/697282219b83b424830e7200?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, USA, 55404 | On Site | Jan 22 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Office of Economic Assistance – Electronic Benefit Transfer (EBT) Internship (Summer 2026)](https://jobright.ai/jobs/info/6972b0b04ccbf64f8df2bc33?utm_campaign=1054&utm_source=git)** | Lincoln, NE | Hybrid | Jan 22 |
-| **[LAZ Parking](https://www.lazparking.com)** | **[Project Intern](https://jobright.ai/jobs/info/6972a2289b83b424830ea8fe?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
-| **[Camaco](http://www.camacollc.com)** | **[HR Intern](https://jobright.ai/jobs/info/697279d4584a1c1ef6fd743d?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Jan 22 |
-| **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - HR Talent Management (Omaha, NE)](https://jobright.ai/jobs/info/6972a0c1584a1c1ef6fdadc0?utm_campaign=1054&utm_source=git)** | Omaha - FN Tower | On Site | Jan 22 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[HRIS Analyst Intern](https://jobright.ai/jobs/info/697297c89b83b424830e9166?utm_campaign=1054&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
