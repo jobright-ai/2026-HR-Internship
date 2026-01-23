@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Human Resources, Total Rewards](https://jobright.ai/jobs/info/69739cdd206da320f49d9074?utm_campaign=1054&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
+| **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Benefits Internship (Remote, US)](https://jobright.ai/jobs/info/69739959206da320f49d8e53?utm_campaign=1054&utm_source=git)** | Remote- US | Remote | Jan 23 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship – Human Resources, Employee Benefits](https://jobright.ai/jobs/info/68cd56d3e23def7af55b871b?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a67b95f5211cd2ce7e4a?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/69727ee2584a1c1ef6fd79e2?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 22 |
 | **[Jamf](http://jamf.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69727e4b9b83b424830e6e6d?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 22 |
 | **[AFM Agency](https://afmagency.net/)** | **[HR Intern (Mandarin)](https://jobright.ai/jobs/info/69728cf84ccbf64f8df27fb0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69724f25584a1c1ef6fd43d9?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 22 |
-| **[PMG](https://thepmgco.com)** | **[HR Programs Intern](https://jobright.ai/jobs/info/6972ff2a1790715e866beb3a?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
