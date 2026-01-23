@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973ec82206da320f49de521?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Jan 23 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6973ebbb206da320f49de42a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
+| ↳ | **[Compensation Intern](https://jobright.ai/jobs/info/6973e3d037785856350db490?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
+| **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973e35d206da320f49ddc1b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 23 |
+| **[Timberland Partners](http://timberlandpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c476c22c9dc0d3d5429d8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 23 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/6973deb937785856350dafa0?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Jan 23 |
 | **[Wright Tree Service](https://www.wrighttree.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973dd6237785856350dae75?utm_campaign=1054&utm_source=git)** | West Des Moines, Iowa | On Site | Jan 23 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Intern – Supply Chain](https://jobright.ai/jobs/info/695d8154fbd62a0a65661c5d?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 23 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/6973d715bc8e722e7b18a624?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 23 |
@@ -65,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[PITT OHIO](http://www.pittohio.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973cca7206da320f49dc623?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | Jan 23 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/697061a3333b6343a14ceda7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jan 23 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Talent Casting Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973e5dc37785856350db5cd?utm_campaign=1054&utm_source=git)** | Kissimmee, FL, USA | On Site | Jan 23 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/6973be21206da320f49db9d4?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Internship-Talent pool](https://jobright.ai/jobs/info/6973bdab206da320f49db9a1?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Human Resources, Talent Acquisition & Management](https://jobright.ai/jobs/info/6973d966206da320f49dd3f9?utm_campaign=1054&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
@@ -140,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Certified Alcohol & Drug Counselor (CADC)](https://jobright.ai/jobs/info/6972f3321790715e866bde7b?utm_campaign=1054&utm_source=git)** | Chicago, IL 60626, USA | On Site | Jan 22 |
 | **[Cheekwood](https://cheekwood.org)** | **[HR / Wellness Program Intern - Summer 2026](https://jobright.ai/jobs/info/6972e57e1d55d64a20534907?utm_campaign=1054&utm_source=git)** | Nashville,TN,US | On Site | Jan 22 |
 | **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Talent Acquisition (New York City)](https://jobright.ai/jobs/info/6972bd644ccbf64f8df2c86a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| **[P1 Construction, LLC](http://p1group.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973ea41206da320f49de253?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Jan 22 |
 | **[CollisionRight](https://collisionright.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6972e09a98522904c697b42a?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Jan 22 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Talent Acquisition Coordinator](https://jobright.ai/jobs/info/6972daee98522904c697adac?utm_campaign=1054&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jan 22 |
 | **[Denver Art Museum](https://www.denverartmuseum.org/en)** | **[Talent and Culture Pathways Exploration Intern](https://jobright.ai/jobs/info/6972e4c31d55d64a20534835?utm_campaign=1054&utm_source=git)** | Denver Art Museum - Denver, CO 80204 | On Site | Jan 22 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dash0](https://www.dash0.com)** | **[Entrepreneur in Residence – People & Talent (Intern)](https://jobright.ai/jobs/info/6973a9cabc8e722e7b1870bb?utm_campaign=1054&utm_source=git)** | EMEA - Remote | Remote | Jan 22 |
 | **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Talent Acquisition (New York City)](https://jobright.ai/jobs/info/6972b596584a1c1ef6fdc7b7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Sabert Corporation](https://sabert.com/)** | **[Human Resources Intern-Talent Acquisition](https://jobright.ai/jobs/info/6972b445584a1c1ef6fdc6e0?utm_campaign=1054&utm_source=git)** | Sayreville, NJ | Hybrid | Jan 22 |
-| ↳ | **[Human Resources Intern-Talent Management](https://jobright.ai/jobs/info/6972b4044ccbf64f8df2bf18?utm_campaign=1054&utm_source=git)** | Sayreville, NJ | Hybrid | Jan 22 |
-| **[Grainger](https://www.grainger.com)** | **[HR Service Delivery Intern](https://jobright.ai/jobs/info/6972b33a9b83b424830ebb75?utm_campaign=1054&utm_source=git)** | Lake Forest, IL | On Site | Jan 22 |
-| **[ATP Tour](https://www.atptour.com/)** | **[Intern, People & Culture](https://jobright.ai/jobs/info/6972a0bb4ccbf64f8df2a7c6?utm_campaign=1054&utm_source=git)** | Atlantic Beach, FL | Hybrid | Jan 22 |
-| **[Unlimited USA Co](http://www.unlimited-usa.com)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/69729df14ccbf64f8df2a16e?utm_campaign=1054&utm_source=git)** | Garner, NC | Hybrid | Jan 22 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern- Supply Chain](https://jobright.ai/jobs/info/69729c1b4ccbf64f8df29d34?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern, HR, Benefits & Wellness Intern - Summer 2026](https://jobright.ai/jobs/info/69729c0b4ccbf64f8df29d0f?utm_campaign=1054&utm_source=git)** | WI - Brillion | On Site | Jan 22 |
-| **[BankNewport](http://banknewport.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6968321df25a380066969256?utm_campaign=1054&utm_source=git)** | Middletown, RI | On Site | Jan 22 |
-| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
