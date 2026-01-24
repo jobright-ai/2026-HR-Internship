@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Playground](https://www.tryplayground.com/)** | **[BizOps MBA Internship](https://jobright.ai/jobs/info/6974fa73206da320f49f2c31?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/6974edc537785856350eeaa8?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Jan 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/6974ec8cbc8e722e7b19e381?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Minnetronix Medical](https://minnetronixmedical.com)** | **[HR Intern](https://jobright.ai/jobs/info/6965e8c55ad3a93f82315157?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Jan 23 |
 | **[Wright Tree Service](https://www.wrighttree.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973dd6237785856350dae75?utm_campaign=1054&utm_source=git)** | West Des Moines, Iowa | On Site | Jan 23 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Intern – Supply Chain](https://jobright.ai/jobs/info/695d8154fbd62a0a65661c5d?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 23 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/6973d715bc8e722e7b18a624?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
