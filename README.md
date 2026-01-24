@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f60803f782d2f1afbb23d?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/693cdce750bbaf76505004d7?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jan 24 |
+| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695837a9aa05c26e7ab21c27?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | Jan 24 |
+| **[Oatey Company](https://www.oatey.com//)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68acbd8bdaf1431824c97dcb?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jan 24 |
+| **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585da29f1b381eb2713dbf?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 24 |
+| **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6901228dd5259a1b3cff1c70?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Jan 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/6974a2e637785856350eb952?utm_campaign=1054&utm_source=git)** | Merrillville, IN | On Site | Jan 24 |
 | ↳ | **[Management Trainee Internship (Summer '26) - Crystal Lake, IL](https://jobright.ai/jobs/info/6974a0c0bc8e722e7b19b27e?utm_campaign=1054&utm_source=git)** | Crystal Lake, IL | On Site | Jan 24 |
 | **[Nightwing](nightwing.com)** | **[Human Resource Intern - 2026](https://jobright.ai/jobs/info/6974a0be206da320f49edef5?utm_campaign=1054&utm_source=git)** | Sterling, VA | Hybrid | Jan 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MP Systems Inc.](http://www.mp-systemsinc.com)** | **[Intern - Health and Safety](https://jobright.ai/jobs/info/6973743bbc8e722e7b184f9f?utm_campaign=1054&utm_source=git)** | East Troy, WI | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Jan 23 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9ddb9e3a822f5d23e1e3?utm_campaign=1054&utm_source=git)** | Temple Hills, MD | On Site | Jan 23 |
-| **[Varda Space Industries](http://varda.com)** | **[Human Resources/ Recruiting Internship - Summer 2026](https://jobright.ai/jobs/info/693bbe6649a7695fbd02a91f?utm_campaign=1054&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
-| **[Landis+Gyr](https://www.landisgyr.com/)** | **[HR Intern](https://jobright.ai/jobs/info/691e00ca3f782d2f1afaf9b6?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Jan 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd10bd1ad6b16f0289438d?utm_campaign=1054&utm_source=git)** | Huntersville, NC | On Site | Jan 23 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933f803764507023d1baffa?utm_campaign=1054&utm_source=git)** | Statesboro, GA | On Site | Jan 23 |
-| **[Valvoline Global Operations](https://www.valvolineglobal.com/en)** | **[HR Intern](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b4647?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Jan 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Nashua, NH](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2e01?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
