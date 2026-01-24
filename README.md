@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/6974a2e637785856350eb952?utm_campaign=1054&utm_source=git)** | Merrillville, IN | On Site | Jan 24 |
+| ↳ | **[Management Trainee Internship (Summer '26) - Crystal Lake, IL](https://jobright.ai/jobs/info/6974a0c0bc8e722e7b19b27e?utm_campaign=1054&utm_source=git)** | Crystal Lake, IL | On Site | Jan 24 |
+| **[Nightwing](nightwing.com)** | **[Human Resource Intern - 2026](https://jobright.ai/jobs/info/6974a0be206da320f49edef5?utm_campaign=1054&utm_source=git)** | Sterling, VA | Hybrid | Jan 24 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/697472e5206da320f49eb22a?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Intern Dallas](https://jobright.ai/jobs/info/69745c0137785856350e755a?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Jan 23 |
@@ -108,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Premier Inc.](http://www.premierinc.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6973ebbb206da320f49de42a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 | **[Publicis Canada](https://www.publicis.ca/)** | **[HR and Learning & Development Intern](https://jobright.ai/jobs/info/69740911bc8e722e7b18ece5?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 23 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6973e3d037785856350db490?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
-| **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973e35d206da320f49ddc1b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/6974021fbc8e722e7b18e667?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Timberland Partners](http://timberlandpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c476c22c9dc0d3d5429d8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 23 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/6973deb937785856350dafa0?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933f803764507023d1baffa?utm_campaign=1054&utm_source=git)** | Statesboro, GA | On Site | Jan 23 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en)** | **[HR Intern](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b4647?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Nashua, NH](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2e01?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Jan 23 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/693ce08450bbaf7650500599?utm_campaign=1054&utm_source=git)** | Woodbridge, VA | On Site | Jan 23 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd0472e5ac5c0dc6d26689?utm_campaign=1054&utm_source=git)** | Concord, NC | On Site | Jan 23 |
-| ↳ | **[Spring 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/6933f378a0dde7020e2f3356?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
