@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 24 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/6974edc537785856350eeaa8?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Jan 24 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/6974ec8cbc8e722e7b19e381?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Systems Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/693c967f50bbaf76504fd8fb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e719d11852e62f00822363?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Jan 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wright Tree Service](https://www.wrighttree.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973dd6237785856350dae75?utm_campaign=1054&utm_source=git)** | West Des Moines, Iowa | On Site | Jan 23 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Intern – Supply Chain](https://jobright.ai/jobs/info/695d8154fbd62a0a65661c5d?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 23 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/6973d715bc8e722e7b18a624?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 23 |
-| **[Watchfire](https://www.watchfiresigns.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/6973f38d37785856350dcc2e?utm_campaign=1054&utm_source=git)** | Danville, IL | On Site | Jan 23 |
-| **[PITT OHIO](http://www.pittohio.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973cf5537785856350da1ba?utm_campaign=1054&utm_source=git)** | US-PA-Pittsburgh | On Site | Jan 23 |
-| **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Benefits Internship (Remote, US)](https://jobright.ai/jobs/info/6973cf0b206da320f49dc907?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
