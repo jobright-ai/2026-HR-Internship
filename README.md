@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Komatsu](https://www.komatsu.jp)** | **[HR Intern](https://jobright.ai/jobs/info/69744f44bc8e722e7b195941?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/694ef8ea29655e4dd65890fb?utm_campaign=1054&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 23 |
+| **[El Camino Health](https://www.elcaminohealth.org)** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744ce5bc8e722e7b19456c?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 23 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69743de3206da320f49e6341?utm_campaign=1054&utm_source=git)** | Cranston RI | On Site | Jan 23 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69743b87bc8e722e7b193610?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/697431dc206da320f49e5320?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Intern Talent Pool](https://jobright.ai/jobs/info/697391f937785856350d62e5?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Jan 23 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Talent Pool Business Internship](https://jobright.ai/jobs/info/69736bf7bc8e722e7b1835d7?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Jan 23 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 New York Life Direct Summer Internship Program - Business, Employee & Workplace](https://jobright.ai/jobs/info/697367c3206da320f49d5e8e?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jan 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693b4f385f2c001987ed52b5?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 23 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/695c37b1aa05c26e7ab58786?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 23 |
-| ↳ | **[Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6965dc02a112b4026613f4e1?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 23 |
-| ↳ | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6964f6eba112b4026612d4e3?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
