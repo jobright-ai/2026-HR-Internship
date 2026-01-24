@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[El Camino Health](https://www.elcaminohealth.org)** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69740cc637785856350df2ef?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 23 |
+| ↳ | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69740c72bc8e722e7b18eeeb?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 23 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69740a2fbc8e722e7b18ee07?utm_campaign=1054&utm_source=git)** | United States of America, McLean, Virginia | Hybrid | Jan 23 |
+| **[El Camino Health](https://www.elcaminohealth.org)** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/6974095ebc8e722e7b18ed36?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 23 |
+| ↳ | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69740946bc8e722e7b18ed1d?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 23 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694eb8fe29655e4dd6584916?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 23 |
 | **[CRB](https://www.crbgroup.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/697405c0206da320f49e1627?utm_campaign=1054&utm_source=git)** | Kansas City, MO | Hybrid | Jan 23 |
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Women Who Succeed Intern](https://jobright.ai/jobs/info/69740441206da320f49e1497?utm_campaign=1054&utm_source=git)** | Ken Garff for Good - Salt Lake City, UT | Hybrid | Jan 23 |
@@ -72,7 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6973ef08bc8e722e7b18d4c0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973ec82206da320f49de521?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Jan 23 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6973ebbb206da320f49de42a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
-| ↳ | **[Compensation Intern](https://jobright.ai/jobs/info/6973e3d037785856350db490?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
+| **[Publicis Canada](https://www.publicis.ca/)** | **[HR and Learning & Development Intern](https://jobright.ai/jobs/info/69740911bc8e722e7b18ece5?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 23 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6973e3d037785856350db490?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973e35d206da320f49ddc1b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/6974021fbc8e722e7b18e667?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Timberland Partners](http://timberlandpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c476c22c9dc0d3d5429d8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 23 |
@@ -100,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973aa51206da320f49dae67?utm_campaign=1054&utm_source=git)** | Guelph - Hanlon Creek | Hybrid | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Human Resources, Total Rewards](https://jobright.ai/jobs/info/6973a9febc8e722e7b1871b2?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973c6c8206da320f49dbef8?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jan 23 |
-| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973bfbcbc8e722e7b189082?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Human Resources, Total Rewards](https://jobright.ai/jobs/info/69739cdd206da320f49d9074?utm_campaign=1054&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Benefits Internship (Remote, US)](https://jobright.ai/jobs/info/69739959206da320f49d8e53?utm_campaign=1054&utm_source=git)** | Remote- US | Remote | Jan 23 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship – Human Resources, Employee Benefits](https://jobright.ai/jobs/info/68cd56d3e23def7af55b871b?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Jan 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - Human Resources - Workforce Planning - Oahu or Hawai'i Island](https://jobright.ai/jobs/info/6972f52a1790715e866be40c?utm_campaign=1054&utm_source=git)** | Honolulu, Hawaii (HI), US, 96813 | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6972eb4b98522904c697bccd?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, HR, Benefits & Wellness Intern - Summer 2026](https://jobright.ai/jobs/info/6972e3a70488fd59f7d5e0c8?utm_campaign=1054&utm_source=git)** | Brillion, WI | On Site | Jan 22 |
-| **[Wurth Elektronik](https://www.we-ics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6972e2da0488fd59f7d5dfaa?utm_campaign=1054&utm_source=git)** | Watertown, SD | On Site | Jan 22 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/6972dda10488fd59f7d5d8e6?utm_campaign=1054&utm_source=git)** | One World Financial Center, New York, NY, 10281, US | Hybrid | Jan 22 |
-| **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Certified Alcohol & Drug Counselor (CADC)](https://jobright.ai/jobs/info/6972f99e206da320f49cef86?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
-| **[GMH Associates, Inc.](http://gmhassoc.com)** | **[Summer Internship](https://jobright.ai/jobs/info/694af57e3019f50a4fe5ffb2?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | On Site | Jan 22 |
-| **[FNBO](https://www.fnbo.com)** | **[Summer Intern - HR Talent Management (Omaha, NE)](https://jobright.ai/jobs/info/6972d64098522904c697a867?utm_campaign=1054&utm_source=git)** | Omaha Metropolitan Area | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
