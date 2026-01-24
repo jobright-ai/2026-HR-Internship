@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/697431dc206da320f49e5320?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
+| **[Zipline](https://www.zipline.com/)** | **[Recruiting Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/6974318a206da320f49e52fb?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Jan 23 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69743030206da320f49e5267?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Jan 23 |
+| **[Interfor](http://www.interfor.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/69742e01bc8e722e7b192439?utm_campaign=1054&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Jan 23 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69742d44206da320f49e4f92?utm_campaign=1054&utm_source=git)** | McLean, VA | Hybrid | Jan 23 |
+| **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, University Recruiting (Summer 2026)](https://jobright.ai/jobs/info/69742b6037785856350e2516?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Jan 23 |
+| **[Ferrara](https://www.ferrara.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69742752206da320f49e49b8?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
+| **[Netflix](https://www.netflix.com)** | **[Creative Talent Engagement & Development, Intern (Summer 2026)](https://jobright.ai/jobs/info/69742695bc8e722e7b191c21?utm_campaign=1054&utm_source=git)** | Los Angeles | On Site | Jan 23 |
+| **[Cinemark](http://www.cinemark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69615966a112b402660fdce6?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jan 23 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/69742502206da320f49e470e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
 | **[DriveTime](https://www.drivetime.com)** | **[Employee Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/697423c7bc8e722e7b191920?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Jan 23 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6974230dbc8e722e7b191851?utm_campaign=1054&utm_source=git)** | Moses Lake, WA | On Site | Jan 23 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/69742266206da320f49e441e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6974214b206da320f49e42e9?utm_campaign=1054&utm_source=git)** | Arlington, OR | On Site | Jan 23 |
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship -Human Resources](https://jobright.ai/jobs/info/6974206abc8e722e7b191548?utm_campaign=1054&utm_source=git)** | Auburn Hills, Michigan, United States | On Site | Jan 23 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/69741c6537785856350e1541?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 23 |
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Women Who Succeed Intern](https://jobright.ai/jobs/info/69741671206da320f49e2844?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6959d3c0aa05c26e7ab37e85?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
 | **[AAR](http://aarcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6902372a00a1816c41e9be0f?utm_campaign=1054&utm_source=git)** | Wood Dale, IL | On Site | Jan 23 |
 | **[Amazon](https://amazon.com)** | **[2026 Sourcing Recruiter Intern](https://jobright.ai/jobs/info/693bdfeb49a7695fbd02d4e8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
-| **[Experitec Inc.](https://experitec.com/)** | **[Talent Management (Human Resources) Intern - Onsite - Chesterfield, MO](https://jobright.ai/jobs/info/691e7e37a49a885af9a291d8?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jan 23 |
-| **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Human Resources](https://jobright.ai/jobs/info/693b1958d4054a2bc0250b89?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 23 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6956d2c3f1f8465b79edb2dd?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 23 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/68e6598ee8daec61499aacad?utm_campaign=1054&utm_source=git)** | Independence, KS | On Site | Jan 23 |
-| **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693b430e5f2c001987ed3eb7?utm_campaign=1054&utm_source=git)** | Hazel Park, MI | On Site | Jan 23 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/693b3a04d4054a2bc0252695?utm_campaign=1054&utm_source=git)** | Warren, MI | On Site | Jan 23 |
-| **[City of St. Louis Park](http://www.stlouispark.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973202f206da320f49d271b?utm_campaign=1054&utm_source=git)** | St Louis Park, MN | On Site | Jan 22 |
-| **[Glencore](http://glencore.com)** | **[May 2026 Summer Student - Human Resources](https://jobright.ai/jobs/info/694b01d33019f50a4fe6092c?utm_campaign=1054&utm_source=git)** | Sparwood, British Columbia, Canada | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
