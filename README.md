@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/697472e5206da320f49eb22a?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Intern Dallas](https://jobright.ai/jobs/info/69745c0137785856350e755a?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 23 |
@@ -82,8 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/69742266206da320f49e441e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship -Human Resources](https://jobright.ai/jobs/info/6974206abc8e722e7b191548?utm_campaign=1054&utm_source=git)** | Auburn Hills, Michigan, United States | On Site | Jan 23 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/69741c6537785856350e1541?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 23 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69745795bc8e722e7b19647b?utm_campaign=1054&utm_source=git)** | Moses Lake, WA | On Site | Jan 23 |
-| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69745904206da320f49e966e?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Jan 23 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69745904206da320f49e966e?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Jan 23 |
 | ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/697458d6bc8e722e7b196be0?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Jan 23 |
 | ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6974582a206da320f49e9267?utm_campaign=1054&utm_source=git)** | Arlington, OR | On Site | Jan 23 |
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Women Who Succeed Intern](https://jobright.ai/jobs/info/69741671206da320f49e2844?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 23 |
@@ -129,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Talent Casting Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973e5dc37785856350db5cd?utm_campaign=1054&utm_source=git)** | Kissimmee, FL, USA | On Site | Jan 23 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/6973be21206da320f49db9d4?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
-| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Internship-Talent pool](https://jobright.ai/jobs/info/6973bdab206da320f49db9a1?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Human Resources, Talent Acquisition & Management](https://jobright.ai/jobs/info/6973d966206da320f49dd3f9?utm_campaign=1054&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 | **[Watchfire](https://www.watchfiresigns.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/6973d8a0206da320f49dd316?utm_campaign=1054&utm_source=git)** | Danville, IL 61832, USA | Hybrid | Jan 23 |
 | **[Okta](http://www.okta.com)** | **[University Recruiting Intern (Summer 2026)](https://jobright.ai/jobs/info/6973b5e237785856350d8c55?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd10bd1ad6b16f0289438d?utm_campaign=1054&utm_source=git)** | Huntersville, NC | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933f803764507023d1baffa?utm_campaign=1054&utm_source=git)** | Statesboro, GA | On Site | Jan 23 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en)** | **[HR Intern](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b4647?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Jan 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Nashua, NH](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2e01?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
