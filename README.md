@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69743de3206da320f49e6341?utm_campaign=1054&utm_source=git)** | Cranston RI | On Site | Jan 23 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69743b87bc8e722e7b193610?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/697431dc206da320f49e5320?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
 | **[Zipline](https://www.zipline.com/)** | **[Recruiting Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/6974318a206da320f49e52fb?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Jan 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69743030206da320f49e5267?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Jan 23 |
@@ -73,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/69741c6537785856350e1541?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 23 |
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Women Who Succeed Intern](https://jobright.ai/jobs/info/69741671206da320f49e2844?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 23 |
 | **[Flexera](https://www.flexera.com)** | **[HR Intern](https://jobright.ai/jobs/info/69741642bc8e722e7b18f594?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 23 |
+| **[Felix Construction Company](https://www.felixconstruction.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6974385d37785856350e3080?utm_campaign=1054&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jan 23 |
 | **[El Camino Health](https://www.elcaminohealth.org)** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69740cc637785856350df2ef?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 23 |
 | ↳ | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69740c72bc8e722e7b18eeeb?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 23 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69740a2fbc8e722e7b18ee07?utm_campaign=1054&utm_source=git)** | United States of America, McLean, Virginia | Hybrid | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/695c37b1aa05c26e7ab58786?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 23 |
 | ↳ | **[Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6965dc02a112b4026613f4e1?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 23 |
 | ↳ | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6964f6eba112b4026612d4e3?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
-| ↳ | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6959d3c0aa05c26e7ab37e85?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
-| **[AAR](http://aarcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6902372a00a1816c41e9be0f?utm_campaign=1054&utm_source=git)** | Wood Dale, IL | On Site | Jan 23 |
-| **[Amazon](https://amazon.com)** | **[2026 Sourcing Recruiter Intern](https://jobright.ai/jobs/info/693bdfeb49a7695fbd02d4e8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
