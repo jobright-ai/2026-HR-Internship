@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Human Resources Analytics - Intern](https://jobright.ai/jobs/info/6975d09c206da320f49fcb94?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 25 |
 | **[Playground](https://www.tryplayground.com/)** | **[BizOps MBA Internship](https://jobright.ai/jobs/info/6974fa73206da320f49f2c31?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/6974edc537785856350eeaa8?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/6974021fbc8e722e7b18e667?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Timberland Partners](http://timberlandpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c476c22c9dc0d3d5429d8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 23 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/6973deb937785856350dafa0?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Jan 23 |
-| **[Minnetronix Medical](https://minnetronixmedical.com)** | **[HR Intern](https://jobright.ai/jobs/info/6965e8c55ad3a93f82315157?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
