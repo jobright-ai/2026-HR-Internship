@@ -101,9 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/697472e5206da320f49eb22a?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Intern Dallas](https://jobright.ai/jobs/info/69745c0137785856350e755a?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Jan 23 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6975ac57bc8e722e7b1a8a43?utm_campaign=1054&utm_source=git)** | Moses Lake, WA | On Site | Jan 23 |
-| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6975abad206da320f49fb7a9?utm_campaign=1054&utm_source=git)** | Arlington, OR | On Site | Jan 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 23 |
+| ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 23 |
 | **[El Camino Health](https://www.elcaminohealth.org)** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/697450b4206da320f49e8c09?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1054&utm_source=git)** | Homestead, FL | On Site | Jan 23 |
 | **[El Camino Health](https://www.elcaminohealth.org)** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744fb6206da320f49e8b76?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 23 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Premier Inc.](http://www.premierinc.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6973e3d037785856350db490?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/6974021fbc8e722e7b18e667?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Timberland Partners](http://timberlandpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c476c22c9dc0d3d5429d8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 23 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/6973deb937785856350dafa0?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Jan 23 |
+| **[Minnetronix Medical](https://minnetronixmedical.com)** | **[HR Intern](https://jobright.ai/jobs/info/6965e8c55ad3a93f82315157?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
