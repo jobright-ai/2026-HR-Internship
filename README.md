@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69762db137785856350feadf?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jan 25 |
 | **[Orvanta](orvanta.us)** | **[Finance Internship Talent Pool](https://jobright.ai/jobs/info/69762bf3206da320f4a00ea3?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jan 25 |
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Human Resources Intern - Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/6976247737785856350fe91c?utm_campaign=1054&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Jan 25 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68cd2aecb2a74e1837ed37d6?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferrara](https://www.ferrara.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69742752206da320f49e49b8?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Creative Talent Engagement & Development, Intern (Summer 2026)](https://jobright.ai/jobs/info/69742695bc8e722e7b191c21?utm_campaign=1054&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[Cinemark](http://www.cinemark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69615966a112b402660fdce6?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jan 23 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/69742502206da320f49e470e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
