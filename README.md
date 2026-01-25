@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvanta](orvanta.us)** | **[Finance Internship Talent Pool](https://jobright.ai/jobs/info/69762bf3206da320f4a00ea3?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jan 25 |
+| **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Human Resources Intern - Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/6976247737785856350fe91c?utm_campaign=1054&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Jan 25 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68cd2aecb2a74e1837ed37d6?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118b300c9ee50eaecbabf?utm_campaign=1054&utm_source=git)** | Youngstown, OH | On Site | Jan 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Netflix](https://www.netflix.com)** | **[Creative Talent Engagement & Development, Intern (Summer 2026)](https://jobright.ai/jobs/info/69742695bc8e722e7b191c21?utm_campaign=1054&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[Cinemark](http://www.cinemark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69615966a112b402660fdce6?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jan 23 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/69742502206da320f49e470e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
-| **[DriveTime](https://www.drivetime.com)** | **[Employee Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/697423c7bc8e722e7b191920?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Jan 23 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/69742266206da320f49e441e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
