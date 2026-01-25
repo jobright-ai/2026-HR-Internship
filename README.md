@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/69207e2a3f782d2f1afc8001?utm_campaign=1054&utm_source=git)** | CS-Bryan Area | On Site | Jan 25 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Talent Management](https://jobright.ai/jobs/info/691f9c80a49a885af9a326b6?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 25 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 25 |
 | ↳ | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6975dffd206da320f49fe7d2?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Jan 25 |
 | ↳ | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfce37785856350fc35e?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[Master's Internship](https://jobright.ai/jobs/info/6973ef48bc8e722e7b18d569?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 23 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6973ef08bc8e722e7b18d4c0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973ec82206da320f49de521?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Jan 23 |
-| **[Premier Inc.](http://www.premierinc.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6973ebbb206da320f49de42a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
-| **[Publicis Canada](https://www.publicis.ca/)** | **[HR and Learning & Development Intern](https://jobright.ai/jobs/info/69740911bc8e722e7b18ece5?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
