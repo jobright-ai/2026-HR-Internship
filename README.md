@@ -110,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 23 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69743de3206da320f49e6341?utm_campaign=1054&utm_source=git)** | Cranston RI | On Site | Jan 23 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69743b87bc8e722e7b193610?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 23 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69758d94bc8e722e7b1a5866?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Jan 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/694efb93ce13cd10565742b9?utm_campaign=1054&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/697431dc206da320f49e5320?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
 | **[Zipline](https://www.zipline.com/)** | **[Recruiting Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/6974318a206da320f49e52fb?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/6974021fbc8e722e7b18e667?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Timberland Partners](http://timberlandpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c476c22c9dc0d3d5429d8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 23 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/6973deb937785856350dafa0?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Jan 23 |
-| **[Minnetronix Medical](https://minnetronixmedical.com)** | **[HR Intern](https://jobright.ai/jobs/info/6965e8c55ad3a93f82315157?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
