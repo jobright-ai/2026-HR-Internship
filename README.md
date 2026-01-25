@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Jan 25 |
+| **[Clarios](https://www.clarios.com/)** | **[HR Intern - St Joseph, MO DAP (Summer 2026)](https://jobright.ai/jobs/info/690429e6d64a22104aa97ab7?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Jan 25 |
+| **[Camaco](http://www.camacollc.com)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/693db76d49a7695fbd042f1a?utm_campaign=1054&utm_source=git)** | Columbus, NE | On Site | Jan 25 |
+| **[Expert Institute](https://expertinstitute.com/)** | **[Expert Witness Research & Recruitment Intern (Summer)](https://jobright.ai/jobs/info/69422ce1bdcf884a5ade0074?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 25 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/69207e2a3f782d2f1afc8001?utm_campaign=1054&utm_source=git)** | CS-Bryan Area | On Site | Jan 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Talent Management](https://jobright.ai/jobs/info/691f9c80a49a885af9a326b6?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 25 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Recruiting Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/69740001bc8e722e7b18e41f?utm_campaign=1054&utm_source=git)** | South San Francisco, California, USA | On Site | Jan 23 |
 | **[Fujitsu](http://www.fujitsu.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973fd1037785856350de5cc?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6973f88b206da320f49e0314?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jan 23 |
-| **[Seagate Technology](http://www.seagate.com)** | **[HR AI Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/697048fb587dfa0bb55dd1fc?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Remote | Jan 23 |
-| **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[Master's Internship](https://jobright.ai/jobs/info/6973ef48bc8e722e7b18d569?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 23 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6973ef08bc8e722e7b18d4c0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973ec82206da320f49de521?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
