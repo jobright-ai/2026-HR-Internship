@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valence](https://www.getvalence.com)** | **[Human Resources Technologist Internship](https://jobright.ai/jobs/info/6976800ebc8e722e7b1b1f20?utm_campaign=1054&utm_source=git)** | Lynwood, CA | On Site | Jan 25 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/69767e03206da320f4a051cd?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 25 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Summer Internship 2026](https://jobright.ai/jobs/info/69764a6337785856351006cf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 25 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69762db137785856350feadf?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jan 25 |
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Human Resources Intern - Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/6976247737785856350fe91c?utm_campaign=1054&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, University Recruiting (Summer 2026)](https://jobright.ai/jobs/info/69742b6037785856350e2516?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Jan 23 |
 | **[Ferrara](https://www.ferrara.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69742752206da320f49e49b8?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Creative Talent Engagement & Development, Intern (Summer 2026)](https://jobright.ai/jobs/info/69742695bc8e722e7b191c21?utm_campaign=1054&utm_source=git)** | Los Angeles | On Site | Jan 23 |
-| **[Cinemark](http://www.cinemark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69615966a112b402660fdce6?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jan 23 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/69742502206da320f49e470e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
