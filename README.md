@@ -100,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Human Resources Analytics - Intern](https://jobright.ai/jobs/info/6975d09c206da320f49fcb94?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 25 |
 | **[Playground](https://www.tryplayground.com/)** | **[BizOps MBA Internship](https://jobright.ai/jobs/info/6974fa73206da320f49f2c31?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 24 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/6974edc537785856350eeaa8?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Jan 24 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Systems Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/693c967f50bbaf76504fd8fb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e719d11852e62f00822363?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Jan 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69742d44206da320f49e4f92?utm_campaign=1054&utm_source=git)** | McLean, VA | Hybrid | Jan 23 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, University Recruiting (Summer 2026)](https://jobright.ai/jobs/info/69742b6037785856350e2516?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Jan 23 |
 | **[Ferrara](https://www.ferrara.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69742752206da320f49e49b8?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
+| **[Netflix](https://www.netflix.com)** | **[Creative Talent Engagement & Development, Intern (Summer 2026)](https://jobright.ai/jobs/info/69742695bc8e722e7b191c21?utm_campaign=1054&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
