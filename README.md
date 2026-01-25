@@ -124,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Employee Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/697423c7bc8e722e7b191920?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Jan 23 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/69742266206da320f49e441e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship -Human Resources](https://jobright.ai/jobs/info/6974206abc8e722e7b191548?utm_campaign=1054&utm_source=git)** | Auburn Hills, Michigan, United States | On Site | Jan 23 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6975735c37785856350f54e0?utm_campaign=1054&utm_source=git)** | Alaska, United States | Remote | Jan 23 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/69741c6537785856350e1541?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 23 |
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Women Who Succeed Intern](https://jobright.ai/jobs/info/69741671206da320f49e2844?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 23 |
 | **[Flexera](https://www.flexera.com)** | **[HR Intern](https://jobright.ai/jobs/info/69741642bc8e722e7b18f594?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Timberland Partners](http://timberlandpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c476c22c9dc0d3d5429d8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 23 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/6973deb937785856350dafa0?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Jan 23 |
 | **[Minnetronix Medical](https://minnetronixmedical.com)** | **[HR Intern](https://jobright.ai/jobs/info/6965e8c55ad3a93f82315157?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Jan 23 |
-| **[Wright Tree Service](https://www.wrighttree.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6973dd6237785856350dae75?utm_campaign=1054&utm_source=git)** | West Des Moines, Iowa | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
