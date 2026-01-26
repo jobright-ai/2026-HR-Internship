@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN (Substance Abuse)](https://jobright.ai/jobs/info/6930ffe34c474121999eb1c5?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Jan 26 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/697783fb88e2b47213bb6756?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 26 |
+| **[Berkadia](https://www.berkadia.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/697780ae88e2b47213bb63ce?utm_campaign=1054&utm_source=git)** | Ambler, Pennsylvania, United States | On Site | Jan 26 |
 | **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Internship (Co-op)](https://jobright.ai/jobs/info/697772fe52f3c27ec6437899?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bcb8feeb0006c1a56f63?utm_campaign=1054&utm_source=git)** | Monroeville, PA | On Site | Jan 26 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/69422afabdcf884a5addf7d6?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Jan 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/6902d1bf98707b2b0fe72fff?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 24 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Human Resources](https://jobright.ai/jobs/info/693ce99f50bbaf7650500cba?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jan 24 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Human Resources Intern](https://jobright.ai/jobs/info/691ae6cfbcdbf3560c9db6eb?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 24 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/695856009f1b381eb2713b09?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | Hybrid | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f60803f782d2f1afbb23d?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
-| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Talent Casting Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974e1e337785856350ee781?utm_campaign=1054&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
