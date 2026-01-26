@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933db32a0dde7020e2f289b?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Jan 26 |
+| **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2026](https://jobright.ai/jobs/info/68ca499046caff4db51fc945?utm_campaign=1054&utm_source=git)** | DFW Metroplex | Hybrid | Jan 26 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b106bc6fab621da7b0972e?utm_campaign=1054&utm_source=git)** | Findlay, OH | On Site | Jan 26 |
+| ↳ | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68ccd9d7d11b445e0bee2ee8?utm_campaign=1054&utm_source=git)** | Texas City, TX | On Site | Jan 26 |
+| **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9ee14cdf8d94b293a310c?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Jan 26 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695a767faa05c26e7ab4139a?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Jan 26 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[HR Intern](https://jobright.ai/jobs/info/695ac620f1f8465b79f0f579?utm_campaign=1054&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 26 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/69772864fdeb8243a279f434?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 26 |
@@ -68,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Six Flags](https://www.sixflags.com)** | **[Retail Leadership Internship](https://jobright.ai/jobs/info/6976eb6c88e2b47213babba9?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6976e09abc8e722e7b1b55e0?utm_campaign=1054&utm_source=git)** | West Chester, PA | On Site | Jan 25 |
 | **[Chewy](https://www.chewy.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/6976cb91206da320f4a07bc2?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | On Site | Jan 25 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Director International Admission](https://jobright.ai/jobs/info/6976c834206da320f4a07b01?utm_campaign=1054&utm_source=git)** | Indiana, United States | Hybrid | Jan 25 |
 | **[Glencore](http://glencore.com)** | **[May 2026 Summer Student - Human Resources](https://jobright.ai/jobs/info/694b01d33019f50a4fe6092c?utm_campaign=1054&utm_source=git)** | Sparwood, British Columbia, Canada | On Site | Jan 25 |
 | **[Valence](https://www.getvalence.com)** | **[Human Resources Technologist Internship](https://jobright.ai/jobs/info/6976800ebc8e722e7b1b1f20?utm_campaign=1054&utm_source=git)** | Lynwood, CA | On Site | Jan 25 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/69767e03206da320f4a051cd?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 23 |
 | **[El Camino Health](https://www.elcaminohealth.org)** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/697450b4206da320f49e8c09?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1054&utm_source=git)** | Homestead, FL | On Site | Jan 23 |
-| **[El Camino Health](https://www.elcaminohealth.org)** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744fb6206da320f49e8b76?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 23 |
-| **[Komatsu](https://www.komatsu.jp)** | **[HR Intern](https://jobright.ai/jobs/info/69744f44bc8e722e7b195941?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/694ef8ea29655e4dd65890fb?utm_campaign=1054&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
