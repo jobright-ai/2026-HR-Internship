@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wright Service Corp.](http://www.wrightservicecorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977add452f3c27ec643c726?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Jan 26 |
 | **[Celonis](https://www.celonis.com)** | **[People Operations and Talent Coordination Intern](https://jobright.ai/jobs/info/6977a73152f3c27ec643bbb4?utm_campaign=1054&utm_source=git)** | Triangle Area | Hybrid | Jan 26 |
 | **[Base-2 Solutions](https://www.base-2solutions.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/696948fef25a38006697daad?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Jan 26 |
 | **[Celonis](https://www.celonis.com)** | **[People Operations and Talent Coordination Intern](https://jobright.ai/jobs/info/6977a4e988e2b47213bb8d8c?utm_campaign=1054&utm_source=git)** | Raleigh, US, North Carolina | Hybrid | Jan 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Summer Internship 2026 (Rehlko)](https://jobright.ai/jobs/info/6943e01994730b7398770c9b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Warrington, PA](https://jobright.ai/jobs/info/693ce636aa598a08c3edaa26?utm_campaign=1054&utm_source=git)** | Warrington, PA | On Site | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Talent Casting Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974c15837785856350ed771?utm_campaign=1054&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6902320f00a1816c41e9bb0e?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
