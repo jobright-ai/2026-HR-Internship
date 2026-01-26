@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Glencore](http://glencore.com)** | **[May 2026 Summer Student - Human Resources](https://jobright.ai/jobs/info/694b01d33019f50a4fe6092c?utm_campaign=1054&utm_source=git)** | Sparwood, British Columbia, Canada | On Site | Jan 25 |
 | **[Valence](https://www.getvalence.com)** | **[Human Resources Technologist Internship](https://jobright.ai/jobs/info/6976800ebc8e722e7b1b1f20?utm_campaign=1054&utm_source=git)** | Lynwood, CA | On Site | Jan 25 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/69767e03206da320f4a051cd?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 25 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Summer Internship 2026](https://jobright.ai/jobs/info/69764a6337785856351006cf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 25 |
-| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69762db137785856350feadf?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jan 25 |
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Human Resources Intern - Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/6976247737785856350fe91c?utm_campaign=1054&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Jan 25 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68cd2aecb2a74e1837ed37d6?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118b300c9ee50eaecbabf?utm_campaign=1054&utm_source=git)** | Youngstown, OH | On Site | Jan 25 |
