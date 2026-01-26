@@ -135,8 +135,7 @@ For a complete list, click the following sortable link below:
 | **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6901228dd5259a1b3cff1c70?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Jan 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/6974a2e637785856350eb952?utm_campaign=1054&utm_source=git)** | Merrillville, IN | On Site | Jan 24 |
 | ↳ | **[Management Trainee Internship (Summer '26) - Crystal Lake, IL](https://jobright.ai/jobs/info/6974a0c0bc8e722e7b19b27e?utm_campaign=1054&utm_source=git)** | Crystal Lake, IL | On Site | Jan 24 |
-| **[Nightwing](nightwing.com)** | **[Human Resource Intern - 2026](https://jobright.ai/jobs/info/6974a0be206da320f49edef5?utm_campaign=1054&utm_source=git)** | Sterling, VA | Hybrid | Jan 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
+| ↳ | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/697472e5206da320f49eb22a?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Intern Dallas](https://jobright.ai/jobs/info/69745c0137785856350e755a?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, University Recruiting (Summer 2026)](https://jobright.ai/jobs/info/69742b6037785856350e2516?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Jan 23 |
 | **[Ferrara](https://www.ferrara.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69742752206da320f49e49b8?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Creative Talent Engagement & Development, Intern (Summer 2026)](https://jobright.ai/jobs/info/69742695bc8e722e7b191c21?utm_campaign=1054&utm_source=git)** | Los Angeles | On Site | Jan 23 |
+| **[Cinemark](http://www.cinemark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69615966a112b402660fdce6?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
