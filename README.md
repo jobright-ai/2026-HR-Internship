@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - HR Systems Analyst](https://jobright.ai/jobs/info/6977bf92fdeb8243a27aac5f?utm_campaign=1054&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Graduate Intern, Workforce Engagement and Development- Division of Supervision and Regulation](https://jobright.ai/jobs/info/6977bc46fdeb8243a27aaac6?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jan 26 |
 | **[Wright Service Corp.](http://www.wrightservicecorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977add452f3c27ec643c726?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Jan 26 |
 | **[Celonis](https://www.celonis.com)** | **[People Operations and Talent Coordination Intern](https://jobright.ai/jobs/info/6977a73152f3c27ec643bbb4?utm_campaign=1054&utm_source=git)** | Triangle Area | Hybrid | Jan 26 |
 | **[Base-2 Solutions](https://www.base-2solutions.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/696948fef25a38006697daad?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Jan 26 |
@@ -64,9 +66,12 @@ For a complete list, click the following sortable link below:
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Interns Talent Pool](https://jobright.ai/jobs/info/6977a29a88e2b47213bb89db?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Jan 26 |
 | **[Highgate](https://www.highgate.com)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/69779ba3fdeb8243a27a7b87?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Jan 26 |
 | **[NSK](https://www.nskamericas.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6977949888e2b47213bb7c87?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 26 |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6977b26d88e2b47213bba348?utm_campaign=1054&utm_source=git)** | WI - Brillion | On Site | Jan 26 |
 | **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN (Substance Abuse)](https://jobright.ai/jobs/info/6930ffe34c474121999eb1c5?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Jan 26 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[People & Culture Summer 2026 Intern (Pulte Mortgage)](https://jobright.ai/jobs/info/6977b619fdeb8243a27aa08d?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Jan 26 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/697783fb88e2b47213bb6756?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 26 |
 | **[Berkadia](https://www.berkadia.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/697780ae88e2b47213bb63ce?utm_campaign=1054&utm_source=git)** | Ambler, Pennsylvania, United States | On Site | Jan 26 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Internal Mobility & Talent Acquisition Programs)](https://jobright.ai/jobs/info/6977b9edfdeb8243a27aa779?utm_campaign=1054&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Jan 26 |
 | **[ERC](https://www.yourerc.com/)** | **[Industrial Organizational Psychology Intern](https://jobright.ai/jobs/info/697793d488e2b47213bb7b9a?utm_campaign=1054&utm_source=git)** | Beachwood, OH | Hybrid | Jan 26 |
 | **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Internship (Co-op)](https://jobright.ai/jobs/info/697772fe52f3c27ec6437899?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bcb8feeb0006c1a56f63?utm_campaign=1054&utm_source=git)** | Monroeville, PA | On Site | Jan 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Jan 24 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933d03e764507023d1b99df?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Jan 24 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Jan 24 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68cd6557b2a74e1837ed67dc?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Jan 24 |
-| ↳ | **[Management Trainee Intern - Green Bay](https://jobright.ai/jobs/info/68ce445d24dd5209002f1272?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Jan 24 |
-| **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Summer Internship 2026 (Rehlko)](https://jobright.ai/jobs/info/6943e01994730b7398770c9b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Warrington, PA](https://jobright.ai/jobs/info/693ce636aa598a08c3edaa26?utm_campaign=1054&utm_source=git)** | Warrington, PA | On Site | Jan 24 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Talent Casting Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974c15837785856350ed771?utm_campaign=1054&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
