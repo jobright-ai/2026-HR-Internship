@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chewy](https://www.chewy.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/6976cb91206da320f4a07bc2?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | On Site | Jan 25 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Director International Admission](https://jobright.ai/jobs/info/6976c834206da320f4a07b01?utm_campaign=1054&utm_source=git)** | Indiana, United States | Hybrid | Jan 25 |
 | **[Glencore](http://glencore.com)** | **[May 2026 Summer Student - Human Resources](https://jobright.ai/jobs/info/694b01d33019f50a4fe6092c?utm_campaign=1054&utm_source=git)** | Sparwood, British Columbia, Canada | On Site | Jan 25 |
 | **[Valence](https://www.getvalence.com)** | **[Human Resources Technologist Internship](https://jobright.ai/jobs/info/6976800ebc8e722e7b1b1f20?utm_campaign=1054&utm_source=git)** | Lynwood, CA | On Site | Jan 25 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/69767e03206da320f4a051cd?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69742d44206da320f49e4f92?utm_campaign=1054&utm_source=git)** | McLean, VA | Hybrid | Jan 23 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, University Recruiting (Summer 2026)](https://jobright.ai/jobs/info/69742b6037785856350e2516?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Jan 23 |
 | **[Ferrara](https://www.ferrara.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69742752206da320f49e49b8?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
-| **[Netflix](https://www.netflix.com)** | **[Creative Talent Engagement & Development, Intern (Summer 2026)](https://jobright.ai/jobs/info/69742695bc8e722e7b191c21?utm_campaign=1054&utm_source=git)** | Los Angeles | On Site | Jan 23 |
-| **[Cinemark](http://www.cinemark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69615966a112b402660fdce6?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
