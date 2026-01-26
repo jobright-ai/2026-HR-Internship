@@ -57,13 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Employment Office Analyst](https://jobright.ai/jobs/info/6977c31852f3c27ec643e4fe?utm_campaign=1054&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
+| **[The RMR Group](http://www.rmrgroup.com/)** | **[Intern, People](https://jobright.ai/jobs/info/6977c1cefdeb8243a27aadc8?utm_campaign=1054&utm_source=git)** | US-MA-Newton | On Site | Jan 26 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - HR Systems Analyst](https://jobright.ai/jobs/info/6977bf92fdeb8243a27aac5f?utm_campaign=1054&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Graduate Intern, Workforce Engagement and Development- Division of Supervision and Regulation](https://jobright.ai/jobs/info/6977bc46fdeb8243a27aaac6?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jan 26 |
+| **[iManage](https://imanage.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6977cc6afdeb8243a27ab970?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[Wright Service Corp.](http://www.wrightservicecorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977add452f3c27ec643c726?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Jan 26 |
+| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Employment Office Analyst](https://jobright.ai/jobs/info/6977cc04fdeb8243a27ab8e2?utm_campaign=1054&utm_source=git)** | 1936 George Jenkins Blvd | On Site | Jan 26 |
+| ↳ | **[Intern - HR Generalist](https://jobright.ai/jobs/info/6977caac88e2b47213bbc02e?utm_campaign=1054&utm_source=git)** | 3300 Publix Corporate Parkway | On Site | Jan 26 |
 | **[Celonis](https://www.celonis.com)** | **[People Operations and Talent Coordination Intern](https://jobright.ai/jobs/info/6977a73152f3c27ec643bbb4?utm_campaign=1054&utm_source=git)** | Triangle Area | Hybrid | Jan 26 |
 | **[Base-2 Solutions](https://www.base-2solutions.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/696948fef25a38006697daad?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Jan 26 |
 | **[Celonis](https://www.celonis.com)** | **[People Operations and Talent Coordination Intern](https://jobright.ai/jobs/info/6977a4e988e2b47213bb8d8c?utm_campaign=1054&utm_source=git)** | Raleigh, US, North Carolina | Hybrid | Jan 26 |
+| **[Barfield Inc](http://www.barfieldinc.com)** | **[Intern](https://jobright.ai/jobs/info/6977cc5788e2b47213bbc215?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 26 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Interns Talent Pool](https://jobright.ai/jobs/info/6977a29a88e2b47213bb89db?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Jan 26 |
+| **[ESAB](http://www.esabindia.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6977c55452f3c27ec643e759?utm_campaign=1054&utm_source=git)** | Denton, Texas, USA | On Site | Jan 26 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977c2d652f3c27ec643e4ab?utm_campaign=1054&utm_source=git)** | Oconomowoc, Wisconsin | On Site | Jan 26 |
+| **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/6972c2409b83b424830ec98d?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 26 |
 | **[Highgate](https://www.highgate.com)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/69779ba3fdeb8243a27a7b87?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Jan 26 |
 | **[NSK](https://www.nskamericas.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6977949888e2b47213bb7c87?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 26 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6977b26d88e2b47213bba348?utm_campaign=1054&utm_source=git)** | WI - Brillion | On Site | Jan 26 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Playground](https://www.tryplayground.com/)** | **[BizOps MBA Internship](https://jobright.ai/jobs/info/6974fa73206da320f49f2c31?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Systems Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/693c967f50bbaf76504fd8fb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e719d11852e62f00822363?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Jan 24 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Jan 24 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 24 |
-| **[Musco Lighting](http://www.musco.com)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/6903741e63502c0aded68f32?utm_campaign=1054&utm_source=git)** | Oskaloosa, IA | On Site | Jan 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7160ce8daec61499b2175?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Jan 24 |
-| **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Administrative Internship- Apply January 2nd through Feb. 13, 2026 only!](https://jobright.ai/jobs/info/6958837a9f1b381eb2716aed?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Jan 24 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933d03e764507023d1b99df?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Jan 24 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
