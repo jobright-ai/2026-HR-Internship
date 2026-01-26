@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/69772864fdeb8243a279f434?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 26 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Administration Intern (HR communications strategy) Job ID : 269969](https://jobright.ai/jobs/info/6977279788e2b47213bafcdb?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jan 26 |
+| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Talent Acquisition](https://jobright.ai/jobs/info/697723e4fdeb8243a279f38b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/6977189888e2b47213baf9f4?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | ↳ | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/69771757fdeb8243a279efb3?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[FNBO](https://www.fnbo.com)** | **[Summer Intern - HR Talent Management (Omaha, NE)](https://jobright.ai/jobs/info/6972d64098522904c697a867?utm_campaign=1054&utm_source=git)** | Omaha Metropolitan Area | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/694ef8ea29655e4dd65890fb?utm_campaign=1054&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6976f7b1fdeb8243a279d511?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69743de3206da320f49e6341?utm_campaign=1054&utm_source=git)** | Cranston RI | On Site | Jan 23 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6976ea1afdeb8243a279b24a?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/694efb93ce13cd10565742b9?utm_campaign=1054&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
