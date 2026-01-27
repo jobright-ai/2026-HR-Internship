@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Galderma](http://www.galderma.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6978690152f3c27ec644b9c0?utm_campaign=1054&utm_source=git)** | Fort Worth | On Site | Jan 26 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Talent Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69786f6152f3c27ec644beeb?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 26 |
+| **[Galderma](http://www.galderma.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69786f3e39f7f96cc6d0d8e9?utm_campaign=1054&utm_source=git)** | Fort Worth | On Site | Jan 26 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Diversity & Inclusion Intern](https://jobright.ai/jobs/info/6978689788e2b47213bc8e8b?utm_campaign=1054&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
 | **[Galderma](http://www.galderma.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6978685d88e2b47213bc8e54?utm_campaign=1054&utm_source=git)** | Boston | On Site | Jan 26 |
 | **[CEVA SANTE ANIMALE](https://www.ceva.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695f5ce00badca5763afcf2e?utm_campaign=1054&utm_source=git)** | Kansas, United States | On Site | Jan 26 |
@@ -67,7 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern RSW Fort Myers Airport](https://jobright.ai/jobs/info/69784b6088e2b47213bc645c?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | Jan 26 |
 | ↳ | **[Summer 2026 Management Trainee Internship- Dayton](https://jobright.ai/jobs/info/69784a5888e2b47213bc5fed?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Jan 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern / Eastern Suffolk County](https://jobright.ai/jobs/info/69784a1d39f7f96cc6d0a903?utm_campaign=1054&utm_source=git)** | Manorville, NY | On Site | Jan 26 |
-| **[Walden Security](http://www.waldensecurity.com)** | **[HR / Medical Intern, Chattanooga, TN](https://jobright.ai/jobs/info/697866f388e2b47213bc8ce5?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jan 26 |
+| **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Spring Semester 2026 - Chattanooga, TN](https://jobright.ai/jobs/info/69786f8d88e2b47213bc9573?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jan 26 |
+| ↳ | **[HR / Medical Intern, Chattanooga, TN](https://jobright.ai/jobs/info/697866f388e2b47213bc8ce5?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jan 26 |
 | **[Troon](http://www.troon.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c4523aa05c26e7ab59a7d?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jan 26 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6978486b52f3c27ec644898f?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Jan 26 |
 | **[Syensqo](https://www.syensqo.com)** | **[HR Intern](https://jobright.ai/jobs/info/6978485688e2b47213bc5cbb?utm_campaign=1054&utm_source=git)** | Greenville, TX | On Site | Jan 26 |
@@ -139,11 +141,11 @@ For a complete list, click the following sortable link below:
 | **[The RMR Group](http://www.rmrgroup.com/)** | **[Intern, People](https://jobright.ai/jobs/info/6977f20788e2b47213bbfa0a?utm_campaign=1054&utm_source=git)** | Newton, MA | On Site | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Talent Assessment and Analytics Intern](https://jobright.ai/jobs/info/6977f4ba88e2b47213bc0036?utm_campaign=1054&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
 | **[Altru Health System](https://www.altru.org/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6978157d52f3c27ec6444322?utm_campaign=1054&utm_source=git)** | Grand Forks, ND | On Site | Jan 26 |
-| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977ef3cfdeb8243a27ae9d1?utm_campaign=1054&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
-| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977ee09fdeb8243a27ae70d?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Jan 26 |
-| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977eec588e2b47213bbf2e4?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
-| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977f1c652f3c27ec64423dc?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jan 26 |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977ee09fdeb8243a27ae70d?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Jan 26 |
 | ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977f13388e2b47213bbf839?utm_campaign=1054&utm_source=git)** | Draper, UT | Hybrid | Jan 26 |
+| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977f1c652f3c27ec64423dc?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jan 26 |
+| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977eec588e2b47213bbf2e4?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
+| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977ef3cfdeb8243a27ae9d1?utm_campaign=1054&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
 | **[State Industrial Products](http://stateindustrial.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977e99e52f3c27ec644156e?utm_campaign=1054&utm_source=git)** | Cleveland, OH | Hybrid | Jan 26 |
 | **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6977e06852f3c27ec6440925?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[HR Intern](https://jobright.ai/jobs/info/6977eeec52f3c27ec6441fa0?utm_campaign=1054&utm_source=git)** | Waxahachie, TX, US | On Site | Jan 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Industrial Products](http://stateindustrial.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977edfffdeb8243a27ae6f4?utm_campaign=1054&utm_source=git)** | Cleveland, OH, USA | Hybrid | Jan 26 |
 | **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/6977e17452f3c27ec64409d2?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Talent Assessment and Analytics Intern](https://jobright.ai/jobs/info/6977d6ee88e2b47213bbcfc5?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
-| **[iManage](https://imanage.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6977cc6afdeb8243a27ab970?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
-| **[The RMR Group](http://www.rmrgroup.com/)** | **[Intern, People](https://jobright.ai/jobs/info/6977d47652f3c27ec643f942?utm_campaign=1054&utm_source=git)** | Newton, MA, US | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
