@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/69052bfc122e8474c78d6ffa?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 26 |
+| **[Quantinuum](https://www.quantinuum.com)** | **[Human Resources Intern - 480](https://jobright.ai/jobs/info/69782a11fdeb8243a27b1f43?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Jan 26 |
+| **[MVB Bank](https://mvbbanking.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6978298852f3c27ec6445723?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 26 |
+| **[CLEAR](http://www.clearme.com)** | **[People and Performance Intern (Summer 2026)](https://jobright.ai/jobs/info/697826b052f3c27ec64453cf?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Jan 26 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty and Employee Benefits Intern](https://jobright.ai/jobs/info/6978257efdeb8243a27b1a1d?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - People & Culture](https://jobright.ai/jobs/info/69782379fdeb8243a27b17cf?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Labor Relations Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/696ecc0c5fc86241853dbe3c?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Jan 26 |
 | **[Ellsworth Adhesives](http://ellsworth.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69781cc3fdeb8243a27b107e?utm_campaign=1054&utm_source=git)** | Germantown, Wisconsin, United States | On Site | Jan 26 |
@@ -65,7 +70,10 @@ For a complete list, click the following sortable link below:
 | **[Ellsworth Adhesives](http://ellsworth.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69781ae188e2b47213bc1a27?utm_campaign=1054&utm_source=git)** | Germantown, WI | On Site | Jan 26 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Development Intern (Remote)](https://jobright.ai/jobs/info/697819a488e2b47213bc18ba?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Ryerson](https://www.ryerson.com)** | **[HR Intern](https://jobright.ai/jobs/info/697816c088e2b47213bc160b?utm_campaign=1054&utm_source=git)** | Coon Rapids, MN | On Site | Jan 26 |
+| **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69782bfd52f3c27ec64459fa?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Jan 26 |
+| **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Benefits Internship (Remote, US)](https://jobright.ai/jobs/info/6973cf0b206da320f49dc907?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[People Operations Intern - Internal Opportunity](https://jobright.ai/jobs/info/697805fbfdeb8243a27b0415?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 26 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern (Yearlong)](https://jobright.ai/jobs/info/6978315652f3c27ec644609a?utm_campaign=1054&utm_source=git)** | US-PA-Red Lion | On Site | Jan 26 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty and Employee Benefits Intern](https://jobright.ai/jobs/info/6977fe3652f3c27ec6443795?utm_campaign=1054&utm_source=git)** | Louisville KY | On Site | Jan 26 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/697309531790715e866bfd03?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 26 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Talent Development Intern (Remote)](https://jobright.ai/jobs/info/6977f276fdeb8243a27af0f0?utm_campaign=1054&utm_source=git)** | Remote (US) | Remote | Jan 26 |
@@ -101,11 +109,11 @@ For a complete list, click the following sortable link below:
 | **[The RMR Group](http://www.rmrgroup.com/)** | **[Intern, People](https://jobright.ai/jobs/info/6977f20788e2b47213bbfa0a?utm_campaign=1054&utm_source=git)** | Newton, MA | On Site | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Talent Assessment and Analytics Intern](https://jobright.ai/jobs/info/6977f4ba88e2b47213bc0036?utm_campaign=1054&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
 | **[Altru Health System](https://www.altru.org/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6978157d52f3c27ec6444322?utm_campaign=1054&utm_source=git)** | Grand Forks, ND | On Site | Jan 26 |
-| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977ef3cfdeb8243a27ae9d1?utm_campaign=1054&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
-| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977eec588e2b47213bbf2e4?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
-| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977ee09fdeb8243a27ae70d?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Jan 26 |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977ee09fdeb8243a27ae70d?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Jan 26 |
 | ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977f1c652f3c27ec64423dc?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jan 26 |
+| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977ef3cfdeb8243a27ae9d1?utm_campaign=1054&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
 | ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977f13388e2b47213bbf839?utm_campaign=1054&utm_source=git)** | Draper, UT | Hybrid | Jan 26 |
+| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/6977eec588e2b47213bbf2e4?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[State Industrial Products](http://stateindustrial.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977e99e52f3c27ec644156e?utm_campaign=1054&utm_source=git)** | Cleveland, OH | Hybrid | Jan 26 |
 | **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6977e06852f3c27ec6440925?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[HR Intern](https://jobright.ai/jobs/info/6977eeec52f3c27ec6441fa0?utm_campaign=1054&utm_source=git)** | Waxahachie, TX, US | On Site | Jan 26 |
@@ -121,13 +129,13 @@ For a complete list, click the following sortable link below:
 | **[The RMR Group](http://www.rmrgroup.com/)** | **[Intern, People](https://jobright.ai/jobs/info/6977d47652f3c27ec643f942?utm_campaign=1054&utm_source=git)** | Newton, MA, US | On Site | Jan 26 |
 | **[Wright Service Corp.](http://www.wrightservicecorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977add452f3c27ec643c726?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Jan 26 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - HR Training Development](https://jobright.ai/jobs/info/6977d10cfdeb8243a27abf4a?utm_campaign=1054&utm_source=git)** | 3300 Publix Corporate Parkway | On Site | Jan 26 |
-| ↳ | **[Intern - HR Training Development](https://jobright.ai/jobs/info/6977ddaa88e2b47213bbd9bc?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 | ↳ | **[Intern - HR Training Development](https://jobright.ai/jobs/info/6977d3c452f3c27ec643f85b?utm_campaign=1054&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
+| ↳ | **[Intern - HR Training Development](https://jobright.ai/jobs/info/6977ddaa88e2b47213bbd9bc?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 | ↳ | **[Intern - Employment Office Analyst](https://jobright.ai/jobs/info/6977cdcb88e2b47213bbc3cb?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 | ↳ | **[Intern - Employment Office Analyst](https://jobright.ai/jobs/info/6977cc04fdeb8243a27ab8e2?utm_campaign=1054&utm_source=git)** | 1936 George Jenkins Blvd | On Site | Jan 26 |
 | ↳ | **[Intern - HR Generalist](https://jobright.ai/jobs/info/6977ceb152f3c27ec643f169?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
-| ↳ | **[Intern - HR Generalist](https://jobright.ai/jobs/info/6977caac88e2b47213bbc02e?utm_campaign=1054&utm_source=git)** | 3300 Publix Corporate Parkway | On Site | Jan 26 |
 | ↳ | **[Intern - HR Generalist](https://jobright.ai/jobs/info/6977d8c3fdeb8243a27ac8e1?utm_campaign=1054&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
+| ↳ | **[Intern - HR Generalist](https://jobright.ai/jobs/info/6977caac88e2b47213bbc02e?utm_campaign=1054&utm_source=git)** | 3300 Publix Corporate Parkway | On Site | Jan 26 |
 | ↳ | **[Intern - HR Systems Analyst](https://jobright.ai/jobs/info/6977d16788e2b47213bbc78e?utm_campaign=1054&utm_source=git)** | 3300 Publix Corporate Parkway | On Site | Jan 26 |
 | ↳ | **[Intern - HR Systems Analyst](https://jobright.ai/jobs/info/6977d0a652f3c27ec643f42a?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 | **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6977de9952f3c27ec6440723?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ERC](https://www.yourerc.com/)** | **[Industrial Organizational Psychology Intern](https://jobright.ai/jobs/info/697793d488e2b47213bb7b9a?utm_campaign=1054&utm_source=git)** | Beachwood, OH | Hybrid | Jan 26 |
 | **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Internship (Co-op)](https://jobright.ai/jobs/info/697772fe52f3c27ec6437899?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bcb8feeb0006c1a56f63?utm_campaign=1054&utm_source=git)** | Monroeville, PA | On Site | Jan 26 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/69422afabdcf884a5addf7d6?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Jan 26 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Pathway (HR) Starting August 2026](https://jobright.ai/jobs/info/69778abb52f3c27ec64398b0?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69340347764507023d1bb62e?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Jan 26 |
-| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b519c61ade4306aa63fdf0?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Jan 26 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bb2965768b6412b1ef6a?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Jan 26 |
-| **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68c8e2c8983e6768bc552d91?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Jan 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc5108128dc347fd92274c?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 26 |
-| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b07fe313563e782a9f6c3d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
