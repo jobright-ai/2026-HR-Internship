@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b285d9bc187f64e1bdcafd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 27 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Benefits and Compensation](https://jobright.ai/jobs/info/68cd9e18e23def7af55bcd7a?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jan 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b51b501ade4306aa64012b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 27 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Org Development Intern B Braun](https://jobright.ai/jobs/info/6966eedab098f4515f4e5e91?utm_campaign=1054&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/695ce6bbf1f8465b79f319a3?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | Jan 27 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6978b5be39f7f96cc6d1231e?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Jan 27 |
+| ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b5237abc187f64e1be5557?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 27 |
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cdc925e4962051b5a0648?utm_campaign=1054&utm_source=git)** | Robbinsville, NJ | On Site | Jan 27 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd1ca1dfa954d1c46ed16?utm_campaign=1054&utm_source=git)** | Penns Grove, NJ | On Site | Jan 27 |
 | **[Corsair](http://www.corsair.com)** | **[HR Insights & Analytics Intern](https://jobright.ai/jobs/info/6940848250bbaf7650528ee9?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/6977e695fdeb8243a27adb84?utm_campaign=1054&utm_source=git)** | United States-Florida-Melbourne | On Site | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[People Operations Intern - Internal Opportunity](https://jobright.ai/jobs/info/697805a8fdeb8243a27b03ee?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - HR Shared Services](https://jobright.ai/jobs/info/6977e5f588e2b47213bbe2b1?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 26 |
-| **[Vertex Education](http://vertexeducation.com/)** | **[HR & Talent Intern](https://jobright.ai/jobs/info/6978045a88e2b47213bc0e43?utm_campaign=1054&utm_source=git)** | Chandler | On Site | Jan 26 |
-| **[Toronto Catholic District School Board](http://www.tcdsb.org)** | **[Long Term Occasional Position - Intermediate/Senior - French and International Languages (Italian)](https://jobright.ai/jobs/info/6977de4bfdeb8243a27ad0e2?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 26 |
-| **[Pulte Mortgage](https://pultemortgage.com)** | **[People & Culture Summer 2026 Intern (Pulte Mortgage)](https://jobright.ai/jobs/info/6977dd58fdeb8243a27acf9b?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Jan 26 |
-| **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977dd2afdeb8243a27acf6d?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Jan 26 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Internal Mobility & Talent Acquisition Programs)](https://jobright.ai/jobs/info/6977dc70fdeb8243a27ace62?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Jan 26 |
-| **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[Learning and Development - Summer Intern](https://jobright.ai/jobs/info/6977dc4988e2b47213bbd7a0?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Jan 26 |
-| **[PAWS Chicago](https://www.pawschicago.org)** | **[Shelter Management Internship](https://jobright.ai/jobs/info/697803ec52f3c27ec6443b70?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
