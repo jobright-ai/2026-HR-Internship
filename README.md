@@ -57,7 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cdc925e4962051b5a0648?utm_campaign=1054&utm_source=git)** | Robbinsville, NJ | On Site | Jan 27 |
+| ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd1ca1dfa954d1c46ed16?utm_campaign=1054&utm_source=git)** | Penns Grove, NJ | On Site | Jan 27 |
+| **[Corsair](http://www.corsair.com)** | **[HR Insights & Analytics Intern](https://jobright.ai/jobs/info/6940848250bbaf7650528ee9?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern - HPM](https://jobright.ai/jobs/info/695cc505f1f8465b79f2ee56?utm_campaign=1054&utm_source=git)** | Otsego, MI | On Site | Jan 27 |
+| **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cde0af1f8465b79f30fd0?utm_campaign=1054&utm_source=git)** | Windsor, CT | On Site | Jan 27 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Austin)](https://jobright.ai/jobs/info/696116e2e7ed9a5731b9cfa1?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 27 |
+| ↳ | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/6965b8372cbf4e44756f6324?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 27 |
+| ↳ | **[Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/6964f6dca112b4026612d4be?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Jan 27 |
+| **[CPL](https://cplteam.com/locations)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6962055ea112b4026610723c?utm_campaign=1054&utm_source=git)** | Fairport, NY | On Site | Jan 27 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Dallas)](https://jobright.ai/jobs/info/695f67a1a1bbea1d9a7a2778?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 27 |
+| **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern PRN/Days](https://jobright.ai/jobs/info/6978a72088e2b47213bcc64d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 27 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Human Resources)](https://jobright.ai/jobs/info/6940886850bbaf7650529657?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Jan 27 |
+| **[Corsair](http://www.corsair.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69406de9aa598a08c3f00c95?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6969c52d639b452fb57fb12e?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Jan 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Medford/Somerville, MA](https://jobright.ai/jobs/info/69789de139f7f96cc6d1061e?utm_campaign=1054&utm_source=git)** | Medford, MA | On Site | Jan 27 |
 | ↳ | **[Summer 2026 Management Internship - Lynn, MA](https://jobright.ai/jobs/info/697899d688e2b47213bcc37c?utm_campaign=1054&utm_source=git)** | Lynn, MA | On Site | Jan 27 |
 | **[Galderma](http://www.galderma.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697890e239f7f96cc6d1024e?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Jan 27 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Internal Mobility & Talent Acquisition Programs)](https://jobright.ai/jobs/info/6977dc70fdeb8243a27ace62?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Jan 26 |
 | **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[Learning and Development - Summer Intern](https://jobright.ai/jobs/info/6977dc4988e2b47213bbd7a0?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Jan 26 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Shelter Management Internship](https://jobright.ai/jobs/info/697803ec52f3c27ec6443b70?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
-| **[Vertex Education](http://vertexeducation.com/)** | **[HR & Talent Intern](https://jobright.ai/jobs/info/6977f9fefdeb8243a27afdf1?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | Jan 26 |
-| **[UPMC](https://www.upmc.com/)** | **[UPMC Summer Intern, Employee Engagement & Communications- Hybrid (Must be in Pittsburgh or Surrounding Area)](https://jobright.ai/jobs/info/6977dbdf52f3c27ec64402b9?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 26 |
-| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Advisor Enablement Analyst Student](https://jobright.ai/jobs/info/6978012652f3c27ec644397d?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 26 |
-| **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/6977da13fdeb8243a27acaf2?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jan 26 |
-| **[ESAB Corporation](https://esabcorporation.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6977f579fdeb8243a27af734?utm_campaign=1054&utm_source=git)** | Denton, TX | On Site | Jan 26 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6977d64bfdeb8243a27ac52f?utm_campaign=1054&utm_source=git)** | Brillion, WI | On Site | Jan 26 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Work & Rewards Internship – Summer 2026 - Toronto](https://jobright.ai/jobs/info/6977f86788e2b47213bc067f?utm_campaign=1054&utm_source=git)** | 130 King Street West, Toronto, TORONTO, M5X 1E3, CA | On Site | Jan 26 |
-| **[West Marine](http://www.westmarine.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6977d19652f3c27ec643f549?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 26 |
-| **[The Gold Studios Group](http://www.TheGoldStudios.com)** | **[Digital Talent Scout (Sports & Gaming)](https://jobright.ai/jobs/info/6978149852f3c27ec644429f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
-| **[Viega LLC](https://viega.us)** | **[People Team Intern](https://jobright.ai/jobs/info/6977ee56fdeb8243a27ae7d8?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Jan 26 |
-| **[Dart Container](https://www.dartcontainer.com)** | **[HR Intern](https://jobright.ai/jobs/info/6977eb1888e2b47213bbebda?utm_campaign=1054&utm_source=git)** | Waxahachie, TX | On Site | Jan 26 |
-| **[Berkadia](https://www.berkadia.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6977ce7a52f3c27ec643f13e?utm_campaign=1054&utm_source=git)** | Ambler, PA | Hybrid | Jan 26 |
-| **[The RMR Group](http://www.rmrgroup.com/)** | **[Intern, People](https://jobright.ai/jobs/info/6977f20788e2b47213bbfa0a?utm_campaign=1054&utm_source=git)** | Newton, MA | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
