@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Publix Super Markets](https://www.publix.com/)** | **[Intern - HR Training Development](https://jobright.ai/jobs/info/6978d61a39f7f96cc6d1337d?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| **[Highgate](https://www.highgate.com)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/6978e2e288e2b47213bcf892?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Jan 27 |
+| **[MEMIC](https://www.memic.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6978e08188e2b47213bcf736?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Jan 27 |
+| **[Flint Group](https://www.flintg.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69422ef550bbaf7650540fe6?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 27 |
+| **[Publix Super Markets](https://www.publix.com/)** | **[Intern - HR Generalist](https://jobright.ai/jobs/info/6978db5239f7f96cc6d135e2?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| ↳ | **[Intern - HR Training Development](https://jobright.ai/jobs/info/6978d61a39f7f96cc6d1337d?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern - HR Systems Analyst](https://jobright.ai/jobs/info/6978d56252f3c27ec6451b7c?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern - Employment Office Analyst](https://jobright.ai/jobs/info/6978d30839f7f96cc6d13142?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | **[Revilo Technologies](www.revilotechnologies.com)** | **[Virtual Assistant Intern - US Based Preferred](https://jobright.ai/jobs/info/6978d2e952f3c27ec64519a5?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 27 |
@@ -75,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Corsair](http://www.corsair.com)** | **[HR Insights & Analytics Intern](https://jobright.ai/jobs/info/6940848250bbaf7650528ee9?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern - HPM](https://jobright.ai/jobs/info/695cc505f1f8465b79f2ee56?utm_campaign=1054&utm_source=git)** | Otsego, MI | On Site | Jan 27 |
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cde0af1f8465b79f30fd0?utm_campaign=1054&utm_source=git)** | Windsor, CT | On Site | Jan 27 |
-| ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd84c1dfa954d1c46fc56?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 27 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cda471dfa954d1c47024d?utm_campaign=1054&utm_source=git)** | Somerset County, NJ | On Site | Jan 27 |
+| ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd84c1dfa954d1c46fc56?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Austin)](https://jobright.ai/jobs/info/696116e2e7ed9a5731b9cfa1?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 | ↳ | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/6965b8372cbf4e44756f6324?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 27 |
 | ↳ | **[Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/6964f6dca112b4026612d4be?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Jan 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pathway Communications](http://www.pathcom.com)** | **[On-Site Internship Opportunity in the Technical Proposal Writing](https://jobright.ai/jobs/info/697837a488e2b47213bc3f08?utm_campaign=1054&utm_source=git)** | Markham, ON, Canada | On Site | Jan 26 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty and Employee Benefits Intern](https://jobright.ai/jobs/info/6977fe3652f3c27ec6443795?utm_campaign=1054&utm_source=git)** | Louisville KY | On Site | Jan 26 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/697309531790715e866bfd03?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 26 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Work & Rewards Internship – Summer 2026 - Toronto](https://jobright.ai/jobs/info/697838e839f7f96cc6d083dc?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
-| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Talent Development Intern (Remote)](https://jobright.ai/jobs/info/6977f276fdeb8243a27af0f0?utm_campaign=1054&utm_source=git)** | Remote (US) | Remote | Jan 26 |
-| **[Kite Realty Group](http://kiterealty.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6977f22d52f3c27ec644249c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Baltimore, MD](https://jobright.ai/jobs/info/6977f19588e2b47213bbf924?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
