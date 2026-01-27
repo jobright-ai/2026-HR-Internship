@@ -57,20 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quanex](http://www.quanex.com/)** | **[HR Intern - Talent & Culture](https://jobright.ai/jobs/info/6979146f88e2b47213bd2ed6?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | On Site | Jan 27 |
+| **[A Leading North American Company](www.TheGAOGroup.com (https://www.thegaogroup.com/))** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69790dd352f3c27ec64555c3?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | Remote | Jan 27 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources Business Partner / Coordinator (Summer 2026)](https://jobright.ai/jobs/info/69790b7539f7f96cc6d16625?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 27 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6978fd1c39f7f96cc6d151ed?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid Human Resources Intern](https://jobright.ai/jobs/info/6978f35088e2b47213bd01b1?utm_campaign=1054&utm_source=git)** | Menomonee Falls, WI | On Site | Jan 27 |
+| **[Great Lakes Management](https://www.greatlakesmc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6979094488e2b47213bd2075?utm_campaign=1054&utm_source=git)** | Great Lakes Corporate, Plymouth, MN, US | On Site | Jan 27 |
 | **[Highgate](https://www.highgate.com)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/6978e2e288e2b47213bcf892?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Jan 27 |
+| **[Great Lakes Management](https://www.greatlakesmc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6978fedc39f7f96cc6d15297?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6978e08188e2b47213bcf736?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Jan 27 |
 | **[Flint Group](https://www.flintg.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69422ef550bbaf7650540fe6?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 27 |
 | **[Publix Super Markets](https://www.publix.com/)** | **[Intern - HR Generalist](https://jobright.ai/jobs/info/6978db5239f7f96cc6d135e2?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern - HR Training Development](https://jobright.ai/jobs/info/6978d61a39f7f96cc6d1337d?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern - HR Systems Analyst](https://jobright.ai/jobs/info/6978d56252f3c27ec6451b7c?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern - Employment Office Analyst](https://jobright.ai/jobs/info/6978d30839f7f96cc6d13142?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
-| **[Revilo Technologies](www.revilotechnologies.com)** | **[Virtual Assistant Intern - US Based Preferred](https://jobright.ai/jobs/info/6978d2e952f3c27ec64519a5?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6978d25539f7f96cc6d130c6?utm_campaign=1054&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd2e61dfa954d1c46ef64?utm_campaign=1054&utm_source=git)** | Edison, NJ | On Site | Jan 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b285d9bc187f64e1bdcafd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 27 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Benefits and Compensation](https://jobright.ai/jobs/info/68cd9e18e23def7af55bcd7a?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jan 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b51b501ade4306aa64012b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 27 |
+| ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b51b501ade4306aa64012b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 27 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Org Development Intern B Braun](https://jobright.ai/jobs/info/6966eedab098f4515f4e5e91?utm_campaign=1054&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/695ce6bbf1f8465b79f319a3?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | Jan 27 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6978b5be39f7f96cc6d1231e?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Jan 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69782bfd52f3c27ec64459fa?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Jan 26 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Benefits Internship (Remote, US)](https://jobright.ai/jobs/info/6973cf0b206da320f49dc907?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[People Operations Intern - Internal Opportunity](https://jobright.ai/jobs/info/697805fbfdeb8243a27b0415?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern (Yearlong)](https://jobright.ai/jobs/info/6978315652f3c27ec644609a?utm_campaign=1054&utm_source=git)** | US-PA-Red Lion | On Site | Jan 26 |
-| **[Pathway Communications](http://www.pathcom.com)** | **[On-Site Internship Opportunity in the Technical Proposal Writing](https://jobright.ai/jobs/info/697837a488e2b47213bc3f08?utm_campaign=1054&utm_source=git)** | Markham, ON, Canada | On Site | Jan 26 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty and Employee Benefits Intern](https://jobright.ai/jobs/info/6977fe3652f3c27ec6443795?utm_campaign=1054&utm_source=git)** | Louisville KY | On Site | Jan 26 |
-| **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/697309531790715e866bfd03?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
