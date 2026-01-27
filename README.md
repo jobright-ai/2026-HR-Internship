@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Continental Properties](http://www.cproperties.com/)** | **[Paid Human Resources Intern](https://jobright.ai/jobs/info/6978f35088e2b47213bd01b1?utm_campaign=1054&utm_source=git)** | Menomonee Falls, WI | On Site | Jan 27 |
 | **[Highgate](https://www.highgate.com)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/6978e2e288e2b47213bcf892?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6978e08188e2b47213bcf736?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Jan 27 |
 | **[Flint Group](https://www.flintg.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69422ef550bbaf7650540fe6?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 27 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Corsair](http://www.corsair.com)** | **[HR Insights & Analytics Intern](https://jobright.ai/jobs/info/6940848250bbaf7650528ee9?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern - HPM](https://jobright.ai/jobs/info/695cc505f1f8465b79f2ee56?utm_campaign=1054&utm_source=git)** | Otsego, MI | On Site | Jan 27 |
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cde0af1f8465b79f30fd0?utm_campaign=1054&utm_source=git)** | Windsor, CT | On Site | Jan 27 |
-| ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cda471dfa954d1c47024d?utm_campaign=1054&utm_source=git)** | Somerset County, NJ | On Site | Jan 27 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd84c1dfa954d1c46fc56?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 27 |
+| ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cda471dfa954d1c47024d?utm_campaign=1054&utm_source=git)** | Somerset County, NJ | On Site | Jan 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Austin)](https://jobright.ai/jobs/info/696116e2e7ed9a5731b9cfa1?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 | ↳ | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/6965b8372cbf4e44756f6324?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 27 |
 | ↳ | **[Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/6964f6dca112b4026612d4be?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Jan 27 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Corsair](http://www.corsair.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69406de9aa598a08c3f00c95?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6969c52d639b452fb57fb12e?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Jan 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Medford/Somerville, MA](https://jobright.ai/jobs/info/69789de139f7f96cc6d1061e?utm_campaign=1054&utm_source=git)** | Medford, MA | On Site | Jan 27 |
-| ↳ | **[Summer 2026 Management Internship - Lynn, MA](https://jobright.ai/jobs/info/697899d688e2b47213bcc37c?utm_campaign=1054&utm_source=git)** | Lynn, MA | On Site | Jan 27 |
 | **[Galderma](http://www.galderma.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697890e239f7f96cc6d1024e?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Jan 27 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69788f9d39f7f96cc6d101a1?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
 | **[Steel Technologies](http://www.steeltechnologies.com)** | **[Summer 2026: HR Intern](https://jobright.ai/jobs/info/695435eef1f8465b79eb562e?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 27 |
