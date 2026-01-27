@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publix Super Markets](https://www.publix.com/)** | **[Intern - HR Training Development](https://jobright.ai/jobs/info/6978d61a39f7f96cc6d1337d?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| ↳ | **[Intern - HR Systems Analyst](https://jobright.ai/jobs/info/6978d56252f3c27ec6451b7c?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| ↳ | **[Intern - Employment Office Analyst](https://jobright.ai/jobs/info/6978d30839f7f96cc6d13142?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| **[Revilo Technologies](www.revilotechnologies.com)** | **[Virtual Assistant Intern - US Based Preferred](https://jobright.ai/jobs/info/6978d2e952f3c27ec64519a5?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 27 |
+| **[MEMIC](https://www.memic.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6978d25539f7f96cc6d130c6?utm_campaign=1054&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd2e61dfa954d1c46ef64?utm_campaign=1054&utm_source=git)** | Edison, NJ | On Site | Jan 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b285d9bc187f64e1bdcafd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 27 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Benefits and Compensation](https://jobright.ai/jobs/info/68cd9e18e23def7af55bcd7a?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Talent Development Intern (Remote)](https://jobright.ai/jobs/info/6977f276fdeb8243a27af0f0?utm_campaign=1054&utm_source=git)** | Remote (US) | Remote | Jan 26 |
 | **[Kite Realty Group](http://kiterealty.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6977f22d52f3c27ec644249c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Baltimore, MD](https://jobright.ai/jobs/info/6977f19588e2b47213bbf924?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Jan 26 |
-| **[Playground](https://www.tryplayground.com/)** | **[BizOps MBA Internship](https://jobright.ai/jobs/info/6974fa73206da320f49f2c31?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 26 |
-| **[Emerson](http://www.emerson.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977f101fdeb8243a27aedb9?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 26 |
-| **[Ferris State University College of Business](http://ferris.edu/business)** | **[Human Resources Assistant (Student Position)](https://jobright.ai/jobs/info/697817ec52f3c27ec6444457?utm_campaign=1054&utm_source=git)** | Big Rapids, MI | On Site | Jan 26 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Winter Haven, FL](https://jobright.ai/jobs/info/6977e73788e2b47213bbe4f2?utm_campaign=1054&utm_source=git)** | Winter Haven, FL | On Site | Jan 26 |
-| **[Viega LLC](https://viega.us)** | **[People Team Intern](https://jobright.ai/jobs/info/6977e6db88e2b47213bbe456?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
