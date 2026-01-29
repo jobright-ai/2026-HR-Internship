@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Human Resource Business Partner Intern (West Palm Beach, FL)](https://jobright.ai/jobs/info/6978371a52f3c27ec6446ab1?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Jan 29 |
+| **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/697bb02f1423772304ebdaf6?utm_campaign=1054&utm_source=git)** | Wake County, NC | On Site | Jan 29 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697ba6140b88cc7d64227590?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/697ba35c0b88cc7d64226ed1?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
 | **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ba2251423772304ebcc3c?utm_campaign=1054&utm_source=git)** | RPSNA Lawrence KS | On Site | Jan 29 |
 | **[HubSpot](http://www.hubspot.com)** | **[Payroll Business Systems Co-op](https://jobright.ai/jobs/info/697b9d291423772304ebbd9d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 29 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Worcester, MA](https://jobright.ai/jobs/info/697b94431136d179eeef0f40?utm_campaign=1054&utm_source=git)** | Worcester, MA 01603 | On Site | Jan 29 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2026 Summer Internship Program - People (HR)](https://jobright.ai/jobs/info/697b8ccf1136d179eeef0821?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 29 |
+| **[XPO](https://www.xpo.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697bb50c1136d179eeef3939?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 29 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Student Intern - Talent Management](https://jobright.ai/jobs/info/697b88701423772304ebacb4?utm_campaign=1054&utm_source=git)** | Holyoke, MA | On Site | Jan 29 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697b7e851136d179eeef0057?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Jan 29 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973ec82206da320f49de521?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Jan 29 |
@@ -124,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/697ae39e17b11b1c2e41b4d5?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Jan 28 |
 | **[City of Red Wing](http://www.red-wing.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ab3ae9d60e431a16c555e?utm_campaign=1054&utm_source=git)** | Red Wing, MN | On Site | Jan 28 |
 | **[California Water Service Group](https://www.calwatergroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aeeef1423772304eae5b5?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
+| **[North Jersey Friendship House, Inc.](https://njfriendshiphouse.org)** | **[Intern - Human Resources  - Summer 2026](https://jobright.ai/jobs/info/697bb49f0b88cc7d64227f2f?utm_campaign=1054&utm_source=git)** | 496 Kinderkamack Road, Oradell, NJ, USA | On Site | Jan 28 |
 | **[Six Flags](https://www.sixflags.com)** | **[Retail Leadership Internship](https://jobright.ai/jobs/info/697ac981f6fc293b0a2cc386?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern - HR Intern Program Support](https://jobright.ai/jobs/info/697aa8d0f6fc293b0a2c92b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[DWM Intern - 2026 College Student Summer Internship – Department of Human Resources](https://jobright.ai/jobs/info/697af41117b11b1c2e41d6d5?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jan 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources People Analytics Intern](https://jobright.ai/jobs/info/697a797ef6fc293b0a2c4b66?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jan 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - CSR Employee & Community Engagement - LIC](https://jobright.ai/jobs/info/697a77a79d60e431a16bf709?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | ↳ | **[Intern - HR - LIC](https://jobright.ai/jobs/info/697a76078dbbf73badc79a07?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, People and Culture](https://jobright.ai/jobs/info/697a9c6af6fc293b0a2c8447?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[SEO (Sponsors for Educational Opportunity)](http://www.seo-usa.org)** | **[Access PAID SUMMER 2026 Internships with SEO Career at SEO (Sponsors for Educational Opportunity)](https://jobright.ai/jobs/info/697a91f0f6fc293b0a2c714e?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Jan 28 |
-| **[Versant Power](http://www.versantpower.com)** | **[INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/697a956cf6fc293b0a2c78e0?utm_campaign=1054&utm_source=git)** | Bangor, ME, US | On Site | Jan 28 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/697a716d9d60e431a16bf06b?utm_campaign=1054&utm_source=git)** | Newnan, GA | On Site | Jan 28 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Grambling State University](https://jobright.ai/jobs/info/697a8f49f6fc293b0a2c6c02?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
