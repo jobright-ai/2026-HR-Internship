@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/697aea6e1423772304eadca0?utm_campaign=1054&utm_source=git)** | Elkridge, MD | On Site | Jan 29 |
+| **[D&H Industries](https://dhmetalstamping.com)** | **[Recruitment Intern-Part-Time](https://jobright.ai/jobs/info/697b31f217b11b1c2e42482b?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Jan 28 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 HR Compensation Partner Intern](https://jobright.ai/jobs/info/697b0c1dc532c4768fe0ee27?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
 | **[New Hope Treatment Centers](https://www.newhopetreatment.com)** | **[EMPLOYEE EXPERIENCE AND TALENT INTERN](https://jobright.ai/jobs/info/697b231b17b11b1c2e422640?utm_campaign=1054&utm_source=git)** | New Hope C - Rock Hill, SC 29732 | On Site | Jan 28 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Employee Relations Intern](https://jobright.ai/jobs/info/697b02a717b11b1c2e41f606?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jan 28 |
@@ -86,10 +87,9 @@ For a complete list, click the following sortable link below:
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Health & Well-Being Delivery Intern](https://jobright.ai/jobs/info/697ade091423772304eac263?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[City of Red Wing](http://www.red-wing.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ab3ae9d60e431a16c555e?utm_campaign=1054&utm_source=git)** | Red Wing, MN | On Site | Jan 28 |
 | **[California Water Service Group](https://www.calwatergroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aeeef1423772304eae5b5?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain National Foodservice Distribution Intern (Ohio State University)](https://jobright.ai/jobs/info/697ae39c1423772304eacb02?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[North Jersey Friendship House, Inc.](https://njfriendshiphouse.org)** | **[Intern - Human Resources  - Summer 2026](https://jobright.ai/jobs/info/697ae35c17b11b1c2e41b45c?utm_campaign=1054&utm_source=git)** | 496 Kinderkamack Road, Oradell, NJ, USA | On Site | Jan 28 |
-| **[Six Flags](https://www.sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/697af3e0c532c4768fe0bfcb?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
-| ↳ | **[Retail Leadership Internship](https://jobright.ai/jobs/info/697ac981f6fc293b0a2cc386?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
+| **[Six Flags](https://www.sixflags.com)** | **[Retail Leadership Internship](https://jobright.ai/jobs/info/697ac981f6fc293b0a2cc386?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
+| ↳ | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/697af3e0c532c4768fe0bfcb?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern - HR Intern Program Support](https://jobright.ai/jobs/info/697aa8d0f6fc293b0a2c92b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[DWM Intern - 2026 College Student Summer Internship – Department of Human Resources](https://jobright.ai/jobs/info/697af41117b11b1c2e41d6d5?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jan 28 |
 | **[Newpark](https://www.newpark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aa8488dbbf73badc7e6d5?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Jan 28 |
