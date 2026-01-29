@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697ac1599d60e431a16c6a1f?utm_campaign=1054&utm_source=git)** | South Windsor, CT, US | On Site | Jan 28 |
+| **[UES](https://www.teamues.com)** | **[Intern - HR](https://jobright.ai/jobs/info/697acace8dbbf73badc819d1?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 28 |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance – Electronic Benefit Transfer (EBT) Internship (Summer 2026)](https://jobright.ai/jobs/info/696fee5082817106e976f443?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 28 |
+| **[UNDP Careers](https://www.undp.org)** | **[Respectful Workplace Intern](https://jobright.ai/jobs/info/697ac7f19d60e431a16c7036?utm_campaign=1054&utm_source=git)** | Home, KS | On Site | Jan 28 |
+| **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697ac5a29d60e431a16c6dec?utm_campaign=1054&utm_source=git)** | Plainville, CT | On Site | Jan 28 |
+| ↳ | **[Intern, Human Resources](https://jobright.ai/jobs/info/697ac1599d60e431a16c6a1f?utm_campaign=1054&utm_source=git)** | South Windsor, CT, US | On Site | Jan 28 |
 | **[D&H Industries](https://dhmetalstamping.com)** | **[Recruitment Intern-Part-Time](https://jobright.ai/jobs/info/697abfacf6fc293b0a2cba78?utm_campaign=1054&utm_source=git)** | Oconomowoc,WI,US | On Site | Jan 28 |
 | **[City of Red Wing](http://www.red-wing.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ab3ae9d60e431a16c555e?utm_campaign=1054&utm_source=git)** | Red Wing, MN | On Site | Jan 28 |
+| **[Six Flags](https://www.sixflags.com)** | **[Retail Leadership Internship](https://jobright.ai/jobs/info/697ac981f6fc293b0a2cc386?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
+| ↳ | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/697ac8628dbbf73badc817c2?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern - HR Intern Program Support](https://jobright.ai/jobs/info/697aa8d0f6fc293b0a2c92b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
 | **[Newpark](https://www.newpark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aa8488dbbf73badc7e6d5?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Jan 28 |
+| **[Bottom Line](https://www.bottomline.org)** | **[STUDENT RECRUITMENT INTERN](https://jobright.ai/jobs/info/697ac4f4f6fc293b0a2cbeb9?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, US | Hybrid | Jan 28 |
+| **[Enchanted Rock](https://enchantedrock.com)** | **[Training and Talent Development Intern - Summer 2026](https://jobright.ai/jobs/info/697ace33f6fc293b0a2cc69e?utm_campaign=1054&utm_source=git)** | Houston,TX,US | Hybrid | Jan 28 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 HR Compensation Partner Intern](https://jobright.ai/jobs/info/697ac3a58dbbf73badc812d0?utm_campaign=1054&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2026 Dun & Bradstreet Summer Internship Program - People (HR)](https://jobright.ai/jobs/info/697aa3bbf6fc293b0a2c8bd2?utm_campaign=1054&utm_source=git)** | Jacksonville - Florida - United States | On Site | Jan 28 |
 | **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697ac12ef6fc293b0a2cbc0e?utm_campaign=1054&utm_source=git)** | South Windsor, CT | On Site | Jan 28 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Internship (yearlong immediate start)](https://jobright.ai/jobs/info/6960b725a112b402660f5cdf?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Jan 28 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern Denver](https://jobright.ai/jobs/info/6933cc1ef131d96e484672be?utm_campaign=1054&utm_source=git)** | Aurora, CO | On Site | Jan 28 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Labor Relations Change Management (Summer 2026)](https://jobright.ai/jobs/info/697a093ba8de441ca7353728?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - West Denver](https://jobright.ai/jobs/info/693b3698d4054a2bc0252410?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 28 |
-| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68cd6413e23def7af55b93d3?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Jan 28 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b104de6fab621da7b09635?utm_campaign=1054&utm_source=git)** | Garyville, LA | On Site | Jan 28 |
-| **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Summer Intern - Conrad Scholars Program](https://jobright.ai/jobs/info/695e26d32847344df473abe0?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics and Systems](https://jobright.ai/jobs/info/6941e2a114ee092a69fff67a?utm_campaign=1054&utm_source=git)** | Columbia, MO | Remote | Jan 28 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b10659e815524ae11faada?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Jan 28 |
-| **[Glencore](http://glencore.com)** | **[May 2026 Summer Student - Human Resources](https://jobright.ai/jobs/info/694b01d33019f50a4fe6092c?utm_campaign=1054&utm_source=git)** | Elkford, British Columbia, Canada | On Site | Jan 28 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Employee Experience](https://jobright.ai/jobs/info/6941e44050bbaf765053ad35?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Jan 28 |
-| **[CN](http://www.cn.ca)** | **[Intern, Occupational Health Services (Western CA)- EN](https://jobright.ai/jobs/info/6926928927bf2f41a2c470a7?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 28 |
-| **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Human Resources Assistant Intern](https://jobright.ai/jobs/info/695e1d8c2847344df473a102?utm_campaign=1054&utm_source=git)** | Byhalia, MS | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
