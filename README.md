@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b83e0507090163b6ba0678?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Jan 29 |
+| ↳ | **[Summer 2026 Management Trainee Intern Nashville](https://jobright.ai/jobs/info/690ab44f4a1b456627b0a6bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Jan 29 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69353a05f131d96e4846d665?utm_campaign=1054&utm_source=git)** | Cape Girardeau, MO | On Site | Jan 29 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/693d0c9650bbaf7650503588?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Jan 29 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ef2df131d96e48468549?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Jan 29 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68cb3f769e3a822f5d2442cc?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jan 29 |
+| **[Comstock Companies](http://comstockcompanies.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68d01c1ffb49c96ca6eadf68?utm_campaign=1054&utm_source=git)** | Virginia, United States | On Site | Jan 29 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69434a2794730b7398765963?utm_campaign=1054&utm_source=git)** | La Porte, IN | On Site | Jan 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d98c8c62e63bc7fe4abe?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Jan 29 |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Human Resources Summer Internship 2026](https://jobright.ai/jobs/info/695f6f51a112b402660e161f?utm_campaign=1054&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933f7a7764507023d1baf1e?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Jan 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/69782e7839f7f96cc6d074da?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jan 29 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/6960c0e3a112b402660f6291?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
@@ -65,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Data Scientist Intern, People Analytics (Master's Degree)](https://jobright.ai/jobs/info/6926423fd47de4798ecd5ea1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition Intern-San Francisco](https://jobright.ai/jobs/info/695f83e77ebc25398eb55ccd?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Global Total Rewards](https://jobright.ai/jobs/info/695f9995a1bbea1d9a7a548d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 29 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Intern - Diversity, Equity, & Inclusion](https://jobright.ai/jobs/info/697b5c4d1423772304eb763d?utm_campaign=1054&utm_source=git)** | Concord, CA | On Site | Jan 29 |
 | **[Zoox](https://www.zoox.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6968d2faf25a3800669760e4?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Jan 29 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/697aea6e1423772304eadca0?utm_campaign=1054&utm_source=git)** | Elkridge, MD | On Site | Jan 29 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 HR Compensation Partner Intern](https://jobright.ai/jobs/info/697b0c1dc532c4768fe0ee27?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
@@ -92,12 +103,10 @@ For a complete list, click the following sortable link below:
 | **[Hamilton Jewelers](http://www.hamiltonjewelers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697adc0e17b11b1c2e41aa11?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Remote | Jan 28 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern](https://jobright.ai/jobs/info/697ad885c532c4768fe08ec7?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Jan 28 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/697ae39e17b11b1c2e41b4d5?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Jan 28 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Health & Well-Being Delivery Intern](https://jobright.ai/jobs/info/697ade091423772304eac263?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[City of Red Wing](http://www.red-wing.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ab3ae9d60e431a16c555e?utm_campaign=1054&utm_source=git)** | Red Wing, MN | On Site | Jan 28 |
 | **[California Water Service Group](https://www.calwatergroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aeeef1423772304eae5b5?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 | **[North Jersey Friendship House, Inc.](https://njfriendshiphouse.org)** | **[Intern - Human Resources  - Summer 2026](https://jobright.ai/jobs/info/697ae35c17b11b1c2e41b45c?utm_campaign=1054&utm_source=git)** | 496 Kinderkamack Road, Oradell, NJ, USA | On Site | Jan 28 |
 | **[Six Flags](https://www.sixflags.com)** | **[Retail Leadership Internship](https://jobright.ai/jobs/info/697ac981f6fc293b0a2cc386?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
-| ↳ | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/697af3e0c532c4768fe0bfcb?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern - HR Intern Program Support](https://jobright.ai/jobs/info/697aa8d0f6fc293b0a2c92b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[DWM Intern - 2026 College Student Summer Internship – Department of Human Resources](https://jobright.ai/jobs/info/697af41117b11b1c2e41d6d5?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jan 28 |
 | **[Newpark](https://www.newpark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aa8488dbbf73badc7e6d5?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Jan 28 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vista Capital Partners](http://vistacp.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/697a95418dbbf73badc7ccf6?utm_campaign=1054&utm_source=git)** | Portland, Oregon, United States | On Site | Jan 28 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern - HR Intern Program Support](https://jobright.ai/jobs/info/697a7c149d60e431a16bfce2?utm_campaign=1054&utm_source=git)** | Dallas,TX,US | On Site | Jan 28 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697a52d6b4589b4ee87c9dd5?utm_campaign=1054&utm_source=git)** | 14638 Apple Dr, Fruitport, MI, 49415, US | On Site | Jan 28 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Intern - Service Operations](https://jobright.ai/jobs/info/697a51dfa8de441ca7357d77?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Jan 28 |
-| **[Ohio Cat](http://www.ohiocat.com)** | **[Human Resource Paid Internship - Req ID 6340](https://jobright.ai/jobs/info/697a72549d60e431a16bf156?utm_campaign=1054&utm_source=git)** | Broadview Heights, Ohio | On Site | Jan 28 |
-| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6924dce1c0cefa13343e2e17?utm_campaign=1054&utm_source=git)** | Orangeburg, NY | On Site | Jan 28 |
-| **[BioSpace](http://www.biospace.com/)** | **[Talent Intelligence Intern](https://jobright.ai/jobs/info/697a477ca8de441ca7357379?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Jan 28 |
-| **[State of Ohio](http://www.ong.ohio.gov)** | **[Human Resources Intern (PN 20082313)](https://jobright.ai/jobs/info/697a4746a8de441ca73572a2?utm_campaign=1054&utm_source=git)** | Gallipolis Developmental Cente2500 Ohio Avenue | On Site | Jan 28 |
-| ↳ | **[Human Resources Intern (PN 20082313)](https://jobright.ai/jobs/info/697a5981b4589b4ee87ca1d8?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Gallia County-Gallipolis | On Site | Jan 28 |
-| **[Scot Forge](https://www.scotforge.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697a5981b4589b4ee87ca1d7?utm_campaign=1054&utm_source=git)** | Spring Grove, IL, US | On Site | Jan 28 |
-| **[State of Ohio](http://www.ong.ohio.gov)** | **[Human Resources Intern (PN 20082313)](https://jobright.ai/jobs/info/697a579aa5b9804527e028d3?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Gallia County | On Site | Jan 28 |
-| **[Citi](https://www.citi.com)** | **[Human Resources - Campus Ambassadors, Apprentice, Telecommuter - USA, 2025](https://jobright.ai/jobs/info/697a34eaa5b9804527dffa5a?utm_campaign=1054&utm_source=git)** | Albany, NY | Remote | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
