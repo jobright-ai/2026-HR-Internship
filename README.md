@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoox](https://www.zoox.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6968d2faf25a3800669760e4?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Jan 29 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/697aea6e1423772304eadca0?utm_campaign=1054&utm_source=git)** | Elkridge, MD | On Site | Jan 29 |
-| **[D&H Industries](https://dhmetalstamping.com)** | **[Recruitment Intern-Part-Time](https://jobright.ai/jobs/info/697b31f217b11b1c2e42482b?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Jan 28 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 HR Compensation Partner Intern](https://jobright.ai/jobs/info/697b0c1dc532c4768fe0ee27?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
 | **[New Hope Treatment Centers](https://www.newhopetreatment.com)** | **[EMPLOYEE EXPERIENCE AND TALENT INTERN](https://jobright.ai/jobs/info/697b231b17b11b1c2e422640?utm_campaign=1054&utm_source=git)** | New Hope C - Rock Hill, SC 29732 | On Site | Jan 28 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Employee Relations Intern](https://jobright.ai/jobs/info/697b02a717b11b1c2e41f606?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jan 28 |
