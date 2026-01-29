@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enchanted Rock](https://enchantedrock.com)** | **[Training and Talent Development Intern - Summer 2026](https://jobright.ai/jobs/info/697af4fac532c4768fe0c055?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 28 |
+| **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695ee80d0badca5763af6620?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 28 |
 | **[Charter Schools USA](http://www.charterschoolsusa.com)** | **[HR Intern](https://jobright.ai/jobs/info/697ae0851423772304eac5aa?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 28 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/695f15d2a1bbea1d9a79edd9?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Jan 28 |
+| **[Bottom Line](https://www.bottomline.org)** | **[STUDENT RECRUITMENT INTERN](https://jobright.ai/jobs/info/697af77617b11b1c2e41d95f?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 28 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/697af376c532c4768fe0bf94?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 28 |
 | **[UES](https://www.teamues.com)** | **[Intern - HR](https://jobright.ai/jobs/info/697acace8dbbf73badc819d1?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 28 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance – Electronic Benefit Transfer (EBT) Internship (Summer 2026)](https://jobright.ai/jobs/info/696fee5082817106e976f443?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 28 |
 | **[UNDP Careers](https://www.undp.org)** | **[Respectful Workplace Intern](https://jobright.ai/jobs/info/697ac7f19d60e431a16c7036?utm_campaign=1054&utm_source=git)** | Home, KS | On Site | Jan 28 |
+| **[Teck Resources Limited](http://www.teck.com/)** | **[HR Intern](https://jobright.ai/jobs/info/695ac620f1f8465b79f0f579?utm_campaign=1054&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 28 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/697af6be1423772304eaef16?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jan 28 |
 | **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697ac5a29d60e431a16c6dec?utm_campaign=1054&utm_source=git)** | Plainville, CT | On Site | Jan 28 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Intern - 2026 College Student Summer Internship – Department of Human Resources](https://jobright.ai/jobs/info/697ae32e1423772304eaca37?utm_campaign=1054&utm_source=git)** | 72 Marietta Street NW, Atlanta, GA, 30303, US | On Site | Jan 28 |
+| **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/697af5601423772304eaee73?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 28 |
 | **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697ac1599d60e431a16c6a1f?utm_campaign=1054&utm_source=git)** | South Windsor, CT, US | On Site | Jan 28 |
 | **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aeea5c532c4768fe0b821?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 28 |
 | **[D&H Industries](https://dhmetalstamping.com)** | **[Recruitment Intern-Part-Time](https://jobright.ai/jobs/info/697abfacf6fc293b0a2cba78?utm_campaign=1054&utm_source=git)** | Oconomowoc,WI,US | On Site | Jan 28 |
@@ -76,11 +83,14 @@ For a complete list, click the following sortable link below:
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain National Foodservice Distribution Intern (Ohio State University)](https://jobright.ai/jobs/info/697ae39c1423772304eacb02?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[North Jersey Friendship House, Inc.](https://njfriendshiphouse.org)** | **[Intern - Human Resources  - Summer 2026](https://jobright.ai/jobs/info/697ae35c17b11b1c2e41b45c?utm_campaign=1054&utm_source=git)** | 496 Kinderkamack Road, Oradell, NJ, USA | On Site | Jan 28 |
 | **[Six Flags](https://www.sixflags.com)** | **[Retail Leadership Internship](https://jobright.ai/jobs/info/697ac981f6fc293b0a2cc386?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
+| ↳ | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/697af3e0c532c4768fe0bfcb?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern - HR Intern Program Support](https://jobright.ai/jobs/info/697aa8d0f6fc293b0a2c92b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
+| **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[DWM Intern - 2026 College Student Summer Internship – Department of Human Resources](https://jobright.ai/jobs/info/697af41117b11b1c2e41d6d5?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jan 28 |
 | **[Newpark](https://www.newpark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aa8488dbbf73badc7e6d5?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Jan 28 |
 | **[Bottom Line](https://www.bottomline.org)** | **[STUDENT RECRUITMENT INTERN](https://jobright.ai/jobs/info/697ac4f4f6fc293b0a2cbeb9?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, US | Hybrid | Jan 28 |
 | **[Enchanted Rock](https://enchantedrock.com)** | **[Training and Talent Development Intern - Summer 2026](https://jobright.ai/jobs/info/697ace33f6fc293b0a2cc69e?utm_campaign=1054&utm_source=git)** | Houston,TX,US | Hybrid | Jan 28 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 HR Compensation Partner Intern](https://jobright.ai/jobs/info/697ac3a58dbbf73badc812d0?utm_campaign=1054&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
+| **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697afd9c1423772304eb02f1?utm_campaign=1054&utm_source=git)** | Ankeny, IA; Lincoln, NE | On Site | Jan 28 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2026 Dun & Bradstreet Summer Internship Program - People (HR)](https://jobright.ai/jobs/info/697aa3bbf6fc293b0a2c8bd2?utm_campaign=1054&utm_source=git)** | Jacksonville - Florida - United States | On Site | Jan 28 |
 | **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697ac12ef6fc293b0a2cbc0e?utm_campaign=1054&utm_source=git)** | South Windsor, CT | On Site | Jan 28 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Internship (yearlong immediate start)](https://jobright.ai/jobs/info/6960b725a112b402660f5cdf?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Jan 28 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/69095c13d046ab6061cd48cb?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Jan 28 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e9bf60badca5763af0799?utm_campaign=1054&utm_source=git)** | Centre Hall, PA | On Site | Jan 28 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/695e68e50badca5763aee5cb?utm_campaign=1054&utm_source=git)** | Gainesville, VA | On Site | Jan 28 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6959b57ef1f8465b79f01092?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Jan 28 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e5de3a112b402660d1fb0?utm_campaign=1054&utm_source=git)** | Henrico, VA | On Site | Jan 28 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695ea17a0badca5763af0c6b?utm_campaign=1054&utm_source=git)** | Lorton, VA | On Site | Jan 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Easton](https://jobright.ai/jobs/info/6909676dd046ab6061cd4ee2?utm_campaign=1054&utm_source=git)** | Easton, PA | On Site | Jan 28 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e658b0badca5763aee3d0?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Jan 28 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6942e2f594730b739875e631?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Jan 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ce8da3846f0b04af67afae?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jan 28 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Shamokin Dam](https://jobright.ai/jobs/info/69095ebd4a1b456627affd17?utm_campaign=1054&utm_source=git)** | Shamokin Dam, PA | On Site | Jan 28 |
-| **[ECCO](https://enter.ecco.com/)** | **[People & Culture - Intern (Paid / Temp) Local Only](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jan 28 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/6950c82fce13cd105658ae11?utm_campaign=1054&utm_source=git)** | Lilburn, GA | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
