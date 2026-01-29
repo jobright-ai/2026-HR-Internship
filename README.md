@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/697aea6e1423772304eadca0?utm_campaign=1054&utm_source=git)** | Elkridge, MD | On Site | Jan 29 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 HR Compensation Partner Intern](https://jobright.ai/jobs/info/697b0c1dc532c4768fe0ee27?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
+| **[New Hope Treatment Centers](https://www.newhopetreatment.com)** | **[EMPLOYEE EXPERIENCE AND TALENT INTERN](https://jobright.ai/jobs/info/697b231b17b11b1c2e422640?utm_campaign=1054&utm_source=git)** | New Hope C - Rock Hill, SC 29732 | On Site | Jan 28 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Employee Relations Intern](https://jobright.ai/jobs/info/697b02a717b11b1c2e41f606?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jan 28 |
+| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Supply Chain Human Resources Intern - Hanover, PA or Napoleon, OH - Summer 2026](https://jobright.ai/jobs/info/695eeb4e08ab990f282a3ce1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Jan 28 |
 | **[Enchanted Rock](https://enchantedrock.com)** | **[Training and Talent Development Intern - Summer 2026](https://jobright.ai/jobs/info/697af4fac532c4768fe0c055?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 28 |
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695ee80d0badca5763af6620?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 28 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Total Rewards](https://jobright.ai/jobs/info/697b039017b11b1c2e41f908?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
@@ -84,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[California Water Service Group](https://www.calwatergroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aeeef1423772304eae5b5?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain National Foodservice Distribution Intern (Ohio State University)](https://jobright.ai/jobs/info/697ae39c1423772304eacb02?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[North Jersey Friendship House, Inc.](https://njfriendshiphouse.org)** | **[Intern - Human Resources  - Summer 2026](https://jobright.ai/jobs/info/697ae35c17b11b1c2e41b45c?utm_campaign=1054&utm_source=git)** | 496 Kinderkamack Road, Oradell, NJ, USA | On Site | Jan 28 |
-| **[Six Flags](https://www.sixflags.com)** | **[Retail Leadership Internship](https://jobright.ai/jobs/info/697ac981f6fc293b0a2cc386?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
-| ↳ | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/697af3e0c532c4768fe0bfcb?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
+| **[Six Flags](https://www.sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/697af3e0c532c4768fe0bfcb?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
+| ↳ | **[Retail Leadership Internship](https://jobright.ai/jobs/info/697ac981f6fc293b0a2cc386?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern - HR Intern Program Support](https://jobright.ai/jobs/info/697aa8d0f6fc293b0a2c92b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[DWM Intern - 2026 College Student Summer Internship – Department of Human Resources](https://jobright.ai/jobs/info/697af41117b11b1c2e41d6d5?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jan 28 |
 | **[Newpark](https://www.newpark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aa8488dbbf73badc7e6d5?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Jan 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694eb8fe29655e4dd6584916?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Occupational Health Services (Eastern CA)- EN](https://jobright.ai/jobs/info/695c84939a87b95a9397d7d3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern South Denver](https://jobright.ai/jobs/info/692510b238cd5478a8d61f9c?utm_campaign=1054&utm_source=git)** | Littleton, CO | On Site | Jan 28 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/69095a6d4a1b456627aff9e8?utm_campaign=1054&utm_source=git)** | Stroudsburg, PA | On Site | Jan 28 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/6924e1acc0cefa13343e3513?utm_campaign=1054&utm_source=git)** | Kodiak, AK | On Site | Jan 28 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e5ab1a112b402660d1e63?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Jan 28 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6942187814ee092a69003e6c?utm_campaign=1054&utm_source=git)** | St Augustine, FL | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
