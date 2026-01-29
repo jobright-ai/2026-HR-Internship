@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/695f15d2a1bbea1d9a79edd9?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Jan 28 |
 | **[UES](https://www.teamues.com)** | **[Intern - HR](https://jobright.ai/jobs/info/697acace8dbbf73badc819d1?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 28 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance – Electronic Benefit Transfer (EBT) Internship (Summer 2026)](https://jobright.ai/jobs/info/696fee5082817106e976f443?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 28 |
 | **[UNDP Careers](https://www.undp.org)** | **[Respectful Workplace Intern](https://jobright.ai/jobs/info/697ac7f19d60e431a16c7036?utm_campaign=1054&utm_source=git)** | Home, KS | On Site | Jan 28 |
 | **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697ac5a29d60e431a16c6dec?utm_campaign=1054&utm_source=git)** | Plainville, CT | On Site | Jan 28 |
 | ↳ | **[Intern, Human Resources](https://jobright.ai/jobs/info/697ac1599d60e431a16c6a1f?utm_campaign=1054&utm_source=git)** | South Windsor, CT, US | On Site | Jan 28 |
 | **[D&H Industries](https://dhmetalstamping.com)** | **[Recruitment Intern-Part-Time](https://jobright.ai/jobs/info/697abfacf6fc293b0a2cba78?utm_campaign=1054&utm_source=git)** | Oconomowoc,WI,US | On Site | Jan 28 |
+| **[Hamilton Jewelers](http://www.hamiltonjewelers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697adc0e17b11b1c2e41aa11?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Remote | Jan 28 |
+| **[Parker Hannifin](http://www.parker.com)** | **[HR Intern](https://jobright.ai/jobs/info/697ad885c532c4768fe08ec7?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Jan 28 |
 | **[City of Red Wing](http://www.red-wing.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ab3ae9d60e431a16c555e?utm_campaign=1054&utm_source=git)** | Red Wing, MN | On Site | Jan 28 |
 | **[Six Flags](https://www.sixflags.com)** | **[Retail Leadership Internship](https://jobright.ai/jobs/info/697ac981f6fc293b0a2cc386?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
 | ↳ | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/697ac8628dbbf73badc817c2?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship](https://jobright.ai/jobs/info/695e9e780badca5763af0ae7?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Jan 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Boulder](https://jobright.ai/jobs/info/6937a1e01c1c2161c13f6716?utm_campaign=1054&utm_source=git)** | Boulder, CO | On Site | Jan 28 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933d0fc764507023d1b9cf5?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Jan 28 |
-| ↳ | **[Summer 2026 Management Trainee Intern Denver](https://jobright.ai/jobs/info/6933cc1ef131d96e484672be?utm_campaign=1054&utm_source=git)** | Aurora, CO | On Site | Jan 28 |
-| **[United Airlines](https://www.united.com)** | **[Intern - Labor Relations Change Management (Summer 2026)](https://jobright.ai/jobs/info/697a093ba8de441ca7353728?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - West Denver](https://jobright.ai/jobs/info/693b3698d4054a2bc0252410?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
