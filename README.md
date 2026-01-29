@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697ac1599d60e431a16c6a1f?utm_campaign=1054&utm_source=git)** | South Windsor, CT, US | On Site | Jan 28 |
+| **[D&H Industries](https://dhmetalstamping.com)** | **[Recruitment Intern-Part-Time](https://jobright.ai/jobs/info/697abfacf6fc293b0a2cba78?utm_campaign=1054&utm_source=git)** | Oconomowoc,WI,US | On Site | Jan 28 |
 | **[City of Red Wing](http://www.red-wing.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ab3ae9d60e431a16c555e?utm_campaign=1054&utm_source=git)** | Red Wing, MN | On Site | Jan 28 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern - HR Intern Program Support](https://jobright.ai/jobs/info/697aa8d0f6fc293b0a2c92b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
 | **[Newpark](https://www.newpark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aa8488dbbf73badc7e6d5?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Jan 28 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2026 Dun & Bradstreet Summer Internship Program - People (HR)](https://jobright.ai/jobs/info/697aa3bbf6fc293b0a2c8bd2?utm_campaign=1054&utm_source=git)** | Jacksonville - Florida - United States | On Site | Jan 28 |
+| **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697ac12ef6fc293b0a2cbc0e?utm_campaign=1054&utm_source=git)** | South Windsor, CT | On Site | Jan 28 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Internship (yearlong immediate start)](https://jobright.ai/jobs/info/6960b725a112b402660f5cdf?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Jan 28 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697a98648dbbf73badc7d3c7?utm_campaign=1054&utm_source=git)** | Fruitport, MI | On Site | Jan 28 |
+| **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Labor Relations Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/697ac1468dbbf73badc810fa?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Human Resources Intern - R10220830](https://jobright.ai/jobs/info/697a8ec89d60e431a16c1b0d?utm_campaign=1054&utm_source=git)** | Palmdale, CA | On Site | Jan 28 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/697a88c98dbbf73badc7b53d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Jan 28 |
 | **[American Gastroenterological Association (AGA)](http://www.gastro.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697a8812f6fc293b0a2c5ff8?utm_campaign=1054&utm_source=git)** | HQ - Bethesda, US | On Site | Jan 28 |
@@ -71,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[XL Construction](http://www.xlconstruction.com)** | **[2026 ASC Competition Talent Pipeline, Intern, and Early Career Opportunities](https://jobright.ai/jobs/info/697aaad39d60e431a16c4507?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Jan 28 |
 | **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/697aafe7f6fc293b0a2c9c4d?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jan 28 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern (Unpaid Co-op / Internship)](https://jobright.ai/jobs/info/695eb5e40badca5763af2c42?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | On Site | Jan 28 |
+| **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697abb96f6fc293b0a2cb732?utm_campaign=1054&utm_source=git)** | Des Moines, IA | Hybrid | Jan 28 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Worker's Compensation Claims](https://jobright.ai/jobs/info/697a841b8dbbf73badc7abf5?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | Hybrid | Jan 28 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/697a7bd7f6fc293b0a2c4e27?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jan 28 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Human Resources Student Internship (College) (9037)](https://jobright.ai/jobs/info/697a7b9f9d60e431a16bfc4d?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Jan 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Employee Experience](https://jobright.ai/jobs/info/6941e44050bbaf765053ad35?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Occupational Health Services (Western CA)- EN](https://jobright.ai/jobs/info/6926928927bf2f41a2c470a7?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 28 |
 | **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Human Resources Assistant Intern](https://jobright.ai/jobs/info/695e1d8c2847344df473a102?utm_campaign=1054&utm_source=git)** | Byhalia, MS | Hybrid | Jan 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Scranton](https://jobright.ai/jobs/info/69095e94bcccf20de59da75b?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Jan 28 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Wilkes Barre](https://jobright.ai/jobs/info/6933d0bd764507023d1b9c17?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | On Site | Jan 28 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/69650e5a6d52670c5c3dd17c?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Jan 28 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e6a02a112b402660d2635?utm_campaign=1054&utm_source=git)** | Fleming Island, FL | On Site | Jan 28 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e60a108ab990f2829b5c0?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
