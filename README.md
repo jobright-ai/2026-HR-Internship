@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/697ba35c0b88cc7d64226ed1?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
+| **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ba2251423772304ebcc3c?utm_campaign=1054&utm_source=git)** | RPSNA Lawrence KS | On Site | Jan 29 |
+| **[HubSpot](http://www.hubspot.com)** | **[Payroll Business Systems Co-op](https://jobright.ai/jobs/info/697b9d291423772304ebbd9d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 29 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Worcester, MA](https://jobright.ai/jobs/info/697b94431136d179eeef0f40?utm_campaign=1054&utm_source=git)** | Worcester, MA 01603 | On Site | Jan 29 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2026 Summer Internship Program - People (HR)](https://jobright.ai/jobs/info/697b8ccf1136d179eeef0821?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 29 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Student Intern - Talent Management](https://jobright.ai/jobs/info/697b88701423772304ebacb4?utm_campaign=1054&utm_source=git)** | Holyoke, MA | On Site | Jan 29 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697b7e851136d179eeef0057?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Jan 29 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973ec82206da320f49de521?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Jan 29 |
 | **[Balchem Corporation](http://balchem.com)** | **[HR Generalist Intern/Co-Op](https://jobright.ai/jobs/info/697b98e80b88cc7d642255df?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Jan 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, Benefits Administrator- EN](https://jobright.ai/jobs/info/695b2760aa05c26e7ab4871e?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 29 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 29 |
+| **[Jordan's Furniture](http://www.jordans.com/)** | **[Corp - Human Resources Support - Intern, Human Resources](https://jobright.ai/jobs/info/697b9b6c1136d179eeef27ec?utm_campaign=1054&utm_source=git)** | East Taunton, MA | On Site | Jan 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, HR Transformation- EN](https://jobright.ai/jobs/info/69450105a7227b3ece66a5e3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 29 |
 | **[Coinbase](https://www.coinbase.com)** | **[Employee & Workplace Experience Intern](https://jobright.ai/jobs/info/6921828f3f782d2f1afd29e2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b83e0507090163b6ba0678?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Jan 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Versant Power](http://www.versantpower.com)** | **[INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/697a956cf6fc293b0a2c78e0?utm_campaign=1054&utm_source=git)** | Bangor, ME, US | On Site | Jan 28 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/697a716d9d60e431a16bf06b?utm_campaign=1054&utm_source=git)** | Newnan, GA | On Site | Jan 28 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Grambling State University](https://jobright.ai/jobs/info/697a8f49f6fc293b0a2c6c02?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Jan 28 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/697a705d9d60e431a16bef26?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Jan 28 |
-| **[Ohio Cat](http://www.ohiocat.com)** | **[Human Resource Paid Internship](https://jobright.ai/jobs/info/697aa91d9d60e431a16c4277?utm_campaign=1054&utm_source=git)** | Broadview Heights, OH | On Site | Jan 28 |
-| **[CommScope](http://www.commscope.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697a6cc48dbbf73badc79077?utm_campaign=1054&utm_source=git)** | Claremont, NC | On Site | Jan 28 |
-| **[Altair Global](http://www.altairglobal.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697a66d99d60e431a16be449?utm_campaign=1054&utm_source=git)** | Frisco, Texas, United States | On Site | Jan 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69253c7527bf2f41a2c3d8d0?utm_campaign=1054&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
