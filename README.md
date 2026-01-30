@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Guelph](http://www.uoguelph.ca/)** | **[Co-op Job Developer](https://jobright.ai/jobs/info/697d0095137a05102565f7a3?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 30 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Human Resources, Talent Acquisition & Management](https://jobright.ai/jobs/info/69740189bc8e722e7b18e5c7?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Human Resources Paid Intern (one year/full time/April start)](https://jobright.ai/jobs/info/697ceea9137a05102565e03e?utm_campaign=1054&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 30 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern - Undergrad](https://jobright.ai/jobs/info/696721b5f25a380066957f56?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Worker's Compensation Claims](https://jobright.ai/jobs/info/697ce0793f57a33569668b3b?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | On Site | Jan 30 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[HR Intern - Learning & Development](https://jobright.ai/jobs/info/697ce0483f57a33569668b17?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Jan 30 |
 | **[Kite Realty Group](http://kiterealty.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6977f22d52f3c27ec644249c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
+| **[Six Flags](https://www.sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/697d01023f57a3356966b7e5?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Jan 30 |
 | **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern (Onsite)](https://jobright.ai/jobs/info/68f01e9778ba1621431e1fa7?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d6165ae5a90cfd481d78?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Greenwood/Franklin](https://jobright.ai/jobs/info/68d52eb71ecb447aa43e81bd?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Business Information Systems and Analytics- Geismar, LA](https://jobright.ai/jobs/info/697bba420b88cc7d642285b2?utm_campaign=1054&utm_source=git)** | Geismar, LA | On Site | Jan 29 |
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/697bb7e21136d179eeef3b36?utm_campaign=1054&utm_source=git)** | Story City,IA,US | On Site | Jan 29 |
 | **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[HRIS Intern - Human Resources](https://jobright.ai/jobs/info/697be8030b88cc7d6422cc3c?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Jan 29 |
-| **[Outlyr](http://eigermarketing.com/)** | **[Volunteer Intern (MAVRK)](https://jobright.ai/jobs/info/697bd81d0b88cc7d6422af58?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
-| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Tiffin, OH] (Unpaid, Summer 2026)](https://jobright.ai/jobs/info/697bd23e1423772304ec016e?utm_campaign=1054&utm_source=git)** | Tiffin, OH | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
