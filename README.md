@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/697c8bdf137a051025658c24?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 30 |
 | **[Cider](https://shop.shopcider.com)** | **[Student Intern - Global Talent Recruitment & Administrative Support](https://jobright.ai/jobs/info/697c4e9b0b88cc7d642367bf?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 29 |
 | **[Culligan International](http://www.culligan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69607e0b7ebc25398eb66f1b?utm_campaign=1054&utm_source=git)** | Libertyville, IL | Hybrid | Jan 29 |
 | **[ASML](https://www.asml.com)** | **[Internship, HR Operations Summer 2026](https://jobright.ai/jobs/info/6960592b7ebc25398eb65526?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Jan 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Summer 2026](https://jobright.ai/jobs/info/68d1ed048c62e63bc7fd1214?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Jan 29 |
 | **[Birge & Held](https://birgeandheld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697c39ac1423772304eca1e4?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 29 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data Scientist Intern, People Analytics (Master's Degree)](https://jobright.ai/jobs/info/6926423fd47de4798ecd5ea1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
-| **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition Intern-San Francisco](https://jobright.ai/jobs/info/695f83e77ebc25398eb55ccd?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
