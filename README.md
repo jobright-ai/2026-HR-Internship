@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/697d25373f57a3356966df3b?utm_campaign=1054&utm_source=git)** | OMAHA NE-UNION PACIFIC RR | Hybrid | Jan 30 |
+| **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Talent Management - Summer Intern](https://jobright.ai/jobs/info/697d224a3f57a3356966d8a5?utm_campaign=1054&utm_source=git)** | Georgia - Oakwood Corporate Office | On Site | Jan 30 |
+| **[HP](http://www.hp.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6976d701bc8e722e7b1b4dd0?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
+| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Human Resources/Talent Acquisition Intern](https://jobright.ai/jobs/info/697d17c6727747250d57cfb3?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Jan 30 |
+| **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Talent Analytics Intern- Summer 20026](https://jobright.ai/jobs/info/697d1482137a051025660a33?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 30 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d11e7137a05102566073b?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | On Site | Jan 30 |
 | **[Hawkes Learning](http://hawkeslearning.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d111f727747250d57c770?utm_campaign=1054&utm_source=git)** | NC, SC, GA, VA | Remote | Jan 30 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d110a137a051025660615?utm_campaign=1054&utm_source=git)** | 614 Elizabeth St, Green Bay, WI, 54302, US | On Site | Jan 30 |
 | **[Hawkes Learning](http://hawkeslearning.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d10003f57a3356966c477?utm_campaign=1054&utm_source=git)** | Fully Remote | Remote | Jan 30 |
 | **[Barnhart Crane & Rigging](https://www.barnhartcrane.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/697d0e52137a051025660375?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Jan 30 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Co-op Job Developer](https://jobright.ai/jobs/info/697d0095137a05102565f7a3?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 30 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Talent Acquisition and Records Intern](https://jobright.ai/jobs/info/697d1a9a727747250d57d34f?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Human Resources, Talent Acquisition & Management](https://jobright.ai/jobs/info/69740189bc8e722e7b18e5c7?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Human Resources Paid Intern (one year/full time/April start)](https://jobright.ai/jobs/info/697ceea9137a05102565e03e?utm_campaign=1054&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 30 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern - Undergrad](https://jobright.ai/jobs/info/696721b5f25a380066957f56?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Signal Centers](https://signalcenters.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697bf8be1423772304ec4722?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jan 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (San Diego)](https://jobright.ai/jobs/info/697beb291136d179eeef88d5?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
 | **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697bedce0b88cc7d6422d6d2?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | Jan 29 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Compensation Analyst (Human Resources) Intern - Bachelor's Degree](https://jobright.ai/jobs/info/697bc94f0b88cc7d64229657?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jan 29 |
-| **[Okta](http://www.okta.com)** | **[Recruiting Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/697bc7361423772304ebf3fc?utm_campaign=1054&utm_source=git)** | San Francisco, California | Hybrid | Jan 29 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain National Foodservice Distribution Intern (Ohio State University)](https://jobright.ai/jobs/info/697bc6651423772304ebf2e8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
-| **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697bc4ec1423772304ebf110?utm_campaign=1054&utm_source=git)** | Ankeny, IA | On Site | Jan 29 |
-| **[Hatch](https://www.hatch.com)** | **[HR Student - Summer 2026](https://jobright.ai/jobs/info/695ff65fa1bbea1d9a7ac253?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 29 |
-| **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/697bbc191423772304ebe78a?utm_campaign=1054&utm_source=git)** | Fayetteville, NC, United States | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
