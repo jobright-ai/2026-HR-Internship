@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Professional Review](https://jobright.ai/jobs/info/697c25cf1423772304ec85d3?utm_campaign=1054&utm_source=git)** | Okemos, MI | Hybrid | Jan 29 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern- Supply Chain](https://jobright.ai/jobs/info/697c23f50b88cc7d64232894?utm_campaign=1054&utm_source=git)** | Romulus, MI | On Site | Jan 29 |
 | ↳ | **[Summer 2026- Human Resource Intern- Supply Chain](https://jobright.ai/jobs/info/697c1f321423772304ec7d28?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Jan 29 |
 | ↳ | **[Summer 2026 HR & Operation Intern- Supply Chain (Bilingual)](https://jobright.ai/jobs/info/697c1d9f1423772304ec79af?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Jan 29 |
 | **[Okta](http://www.okta.com)** | **[University Recruiting Intern (Summer 2026)](https://jobright.ai/jobs/info/6973b5e237785856350d8c55?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 HR Admin Intern- Supply Chain](https://jobright.ai/jobs/info/697c2ff71136d179eeefea8b?utm_campaign=1054&utm_source=git)** | Blue Ash, OH | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Internship Experience Team Coordinator (Summer 2026)](https://jobright.ai/jobs/info/697c0f321423772304ec5d68?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69659cfd2cbf4e44756f44f2?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 29 |
 | **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/697c0abd1136d179eeefad24?utm_campaign=1054&utm_source=git)** | Schofield, WI | On Site | Jan 29 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/697c08d30b88cc7d6422f61b?utm_campaign=1054&utm_source=git)** | Delano, CA | On Site | Jan 29 |
+| **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Human Resources](https://jobright.ai/jobs/info/697c2ebd0b88cc7d642331f7?utm_campaign=1054&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
+| ↳ | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/697c2d951423772304ec9273?utm_campaign=1054&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
 | **[CRH](http://crh.com)** | **[Human Resources Intern - Early Career Development](https://jobright.ai/jobs/info/697c04611423772304ec51b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Okta](http://www.okta.com)** | **[Recruiting Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/697c1a600b88cc7d642311c7?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
 | **[Four Inc.](https://www.fourinc.com/)** | **[Human Resources- Internship](https://jobright.ai/jobs/info/697c1fbf1136d179eeefd518?utm_campaign=1054&utm_source=git)** | Herndon, Virginia, United States | Hybrid | Jan 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Supply Chain Human Resources Intern - Hanover, PA or Napoleon, OH - Summer 2026](https://jobright.ai/jobs/info/695eeb4e08ab990f282a3ce1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Jan 28 |
 | **[Enchanted Rock](https://enchantedrock.com)** | **[Training and Talent Development Intern - Summer 2026](https://jobright.ai/jobs/info/697af4fac532c4768fe0c055?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 28 |
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695ee80d0badca5763af6620?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 28 |
-| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Total Rewards](https://jobright.ai/jobs/info/697b039017b11b1c2e41f908?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
-| **[Nightingale Education Group](https://nightingaleeducationgroup.com)** | **[Recruiting Intern (Part-time)](https://jobright.ai/jobs/info/697b62df0b88cc7d642220ef?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 28 |
-| **[Charter Schools USA](http://www.charterschoolsusa.com)** | **[HR Intern](https://jobright.ai/jobs/info/697ae0851423772304eac5aa?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 28 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/695f15d2a1bbea1d9a79edd9?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
