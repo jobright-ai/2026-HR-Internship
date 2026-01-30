@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Timberland Partners](http://timberlandpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695c476c22c9dc0d3d5429d8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 29 |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Professional Review](https://jobright.ai/jobs/info/697be6aa0b88cc7d6422ca27?utm_campaign=1054&utm_source=git)** | Okemos, MI | Hybrid | Jan 29 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Human Resources (Houston, TX)](https://jobright.ai/jobs/info/697bdd6f1423772304ec17eb?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 29 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Compensation Analyst (Human Resources) Intern - Bachelor's Degree](https://jobright.ai/jobs/info/697bd7a01136d179eeef669f?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jan 29 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/697bd74d1136d179eeef65e9?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jan 29 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Krispy Kreme](https://www.krispykreme.com)** | **[Summer Internship – Total Rewards Intern](https://jobright.ai/jobs/info/697bd24f1423772304ec01a6?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Internship Experience Team Coordinator (Summer 2026)](https://jobright.ai/jobs/info/697bd1801423772304ebfffb?utm_campaign=1054&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Jan 29 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Intern - Belonging](https://jobright.ai/jobs/info/697bcee81423772304ebfbd3?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 29 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (San Diego)](https://jobright.ai/jobs/info/697beb291136d179eeef88d5?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Compensation Analyst (Human Resources) Intern - Bachelor's Degree](https://jobright.ai/jobs/info/697bc94f0b88cc7d64229657?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jan 29 |
 | **[Okta](http://www.okta.com)** | **[Recruiting Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/697bc7361423772304ebf3fc?utm_campaign=1054&utm_source=git)** | San Francisco, California | Hybrid | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain National Foodservice Distribution Intern (Ohio State University)](https://jobright.ai/jobs/info/697bc6651423772304ebf2e8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6957ee31f1f8465b79ee8bea?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Jan 29 |
 | **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Business Information Systems and Analytics- Geismar, LA](https://jobright.ai/jobs/info/697bba420b88cc7d642285b2?utm_campaign=1054&utm_source=git)** | Geismar, LA | On Site | Jan 29 |
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/697bb7e21136d179eeef3b36?utm_campaign=1054&utm_source=git)** | Story City,IA,US | On Site | Jan 29 |
+| **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[HRIS Intern - Human Resources](https://jobright.ai/jobs/info/697be8030b88cc7d6422cc3c?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Jan 29 |
 | **[Outlyr](http://eigermarketing.com/)** | **[Volunteer Intern (MAVRK)](https://jobright.ai/jobs/info/697bd81d0b88cc7d6422af58?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Tiffin, OH] (Unpaid, Summer 2026)](https://jobright.ai/jobs/info/697bd23e1423772304ec016e?utm_campaign=1054&utm_source=git)** | Tiffin, OH | On Site | Jan 29 |
 | **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697bd9cf1136d179eeef6b71?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern - HR Intern Program Support](https://jobright.ai/jobs/info/697aa8d0f6fc293b0a2c92b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[DWM Intern - 2026 College Student Summer Internship – Department of Human Resources](https://jobright.ai/jobs/info/697af41117b11b1c2e41d6d5?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jan 28 |
 | **[Newpark](https://www.newpark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697aa8488dbbf73badc7e6d5?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Jan 28 |
-| **[Bottom Line](https://www.bottomline.org)** | **[STUDENT RECRUITMENT INTERN](https://jobright.ai/jobs/info/697ac4f4f6fc293b0a2cbeb9?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, US | Hybrid | Jan 28 |
-| **[Enchanted Rock](https://enchantedrock.com)** | **[Training and Talent Development Intern - Summer 2026](https://jobright.ai/jobs/info/697ace33f6fc293b0a2cc69e?utm_campaign=1054&utm_source=git)** | Houston,TX,US | Hybrid | Jan 28 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Intern - 2026 College Student Summer Internship – Department of Human Resources](https://jobright.ai/jobs/info/697b0478c532c4768fe0e432?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 HR Compensation Partner Intern](https://jobright.ai/jobs/info/697ac3a58dbbf73badc812d0?utm_campaign=1054&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
