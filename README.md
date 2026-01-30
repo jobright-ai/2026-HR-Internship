@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d11e7137a05102566073b?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | On Site | Jan 30 |
+| **[Hawkes Learning](http://hawkeslearning.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d111f727747250d57c770?utm_campaign=1054&utm_source=git)** | NC, SC, GA, VA | Remote | Jan 30 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d110a137a051025660615?utm_campaign=1054&utm_source=git)** | 614 Elizabeth St, Green Bay, WI, 54302, US | On Site | Jan 30 |
+| **[Hawkes Learning](http://hawkeslearning.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d10003f57a3356966c477?utm_campaign=1054&utm_source=git)** | Fully Remote | Remote | Jan 30 |
+| **[Barnhart Crane & Rigging](https://www.barnhartcrane.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/697d0e52137a051025660375?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Jan 30 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Co-op Job Developer](https://jobright.ai/jobs/info/697d0095137a05102565f7a3?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 30 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Human Resources, Talent Acquisition & Management](https://jobright.ai/jobs/info/69740189bc8e722e7b18e5c7?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Human Resources Paid Intern (one year/full time/April start)](https://jobright.ai/jobs/info/697ceea9137a05102565e03e?utm_campaign=1054&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697bc4ec1423772304ebf110?utm_campaign=1054&utm_source=git)** | Ankeny, IA | On Site | Jan 29 |
 | **[Hatch](https://www.hatch.com)** | **[HR Student - Summer 2026](https://jobright.ai/jobs/info/695ff65fa1bbea1d9a7ac253?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 29 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/697bbc191423772304ebe78a?utm_campaign=1054&utm_source=git)** | Fayetteville, NC, United States | On Site | Jan 29 |
-| **[Krispy Kreme](https://www.krispykreme.com)** | **[Summer Internship – People & Culture Intern](https://jobright.ai/jobs/info/697bde801423772304ec1a18?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
-| **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6957ee31f1f8465b79ee8bea?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Jan 29 |
-| **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Business Information Systems and Analytics- Geismar, LA](https://jobright.ai/jobs/info/697bba420b88cc7d642285b2?utm_campaign=1054&utm_source=git)** | Geismar, LA | On Site | Jan 29 |
-| **[American Packaging Corporation](https://americanpackaging.com)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/697bb7e21136d179eeef3b36?utm_campaign=1054&utm_source=git)** | Story City,IA,US | On Site | Jan 29 |
-| **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[HRIS Intern - Human Resources](https://jobright.ai/jobs/info/697be8030b88cc7d6422cc3c?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
