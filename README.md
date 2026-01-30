@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program –Business Enablement Operations – Intern](https://jobright.ai/jobs/info/69603a117ebc25398eb63c5f?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Jan 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Newburgh, NY](https://jobright.ai/jobs/info/697c3dfd1423772304ecb52f?utm_campaign=1054&utm_source=git)** | Newburgh, NY | On Site | Jan 29 |
+| **[MassMutual Ascend](https://massmutualascend.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/696049f1a1bbea1d9a7b2da2?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 29 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/697c34e51423772304ec9817?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 29 |
+| **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/695dc70cf1f8465b79f41300?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Jan 29 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Professional Review](https://jobright.ai/jobs/info/697c25cf1423772304ec85d3?utm_campaign=1054&utm_source=git)** | Okemos, MI | Hybrid | Jan 29 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern- Supply Chain](https://jobright.ai/jobs/info/697c23f50b88cc7d64232894?utm_campaign=1054&utm_source=git)** | Romulus, MI | On Site | Jan 29 |
 | ↳ | **[Summer 2026- Human Resource Intern- Supply Chain](https://jobright.ai/jobs/info/697c1f321423772304ec7d28?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Jan 29 |
@@ -123,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Balchem Corporation](http://balchem.com)** | **[HR Generalist Intern/Co-Op](https://jobright.ai/jobs/info/697b98e80b88cc7d642255df?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Jan 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, Benefits Administrator- EN](https://jobright.ai/jobs/info/695b2760aa05c26e7ab4871e?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 29 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 29 |
-| **[Jordan's Furniture](http://www.jordans.com/)** | **[Corp - Human Resources Support - Intern, Human Resources](https://jobright.ai/jobs/info/697b9b6c1136d179eeef27ec?utm_campaign=1054&utm_source=git)** | East Taunton, MA | On Site | Jan 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, HR Transformation- EN](https://jobright.ai/jobs/info/69450105a7227b3ece66a5e3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 29 |
 | **[Coinbase](https://www.coinbase.com)** | **[Employee & Workplace Experience Intern](https://jobright.ai/jobs/info/6921828f3f782d2f1afd29e2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b83e0507090163b6ba0678?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Jan 29 |
@@ -145,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/68b7cc3da10b650604b60b63?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Jan 29 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68d1e8e917554c2d9eee0dc8?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jan 29 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Summer 2026](https://jobright.ai/jobs/info/68d1ed048c62e63bc7fd1214?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Jan 29 |
+| **[Birge & Held](https://birgeandheld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697c39ac1423772304eca1e4?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 29 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data Scientist Intern, People Analytics (Master's Degree)](https://jobright.ai/jobs/info/6926423fd47de4798ecd5ea1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition Intern-San Francisco](https://jobright.ai/jobs/info/695f83e77ebc25398eb55ccd?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Global Total Rewards](https://jobright.ai/jobs/info/695f9995a1bbea1d9a7a548d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6968d2faf25a3800669760e4?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Jan 29 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/697aea6e1423772304eadca0?utm_campaign=1054&utm_source=git)** | Elkridge, MD | On Site | Jan 29 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 HR Compensation Partner Intern](https://jobright.ai/jobs/info/697b0c1dc532c4768fe0ee27?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
-| **[New Hope Treatment Centers](https://www.newhopetreatment.com)** | **[EMPLOYEE EXPERIENCE AND TALENT INTERN](https://jobright.ai/jobs/info/697b231b17b11b1c2e422640?utm_campaign=1054&utm_source=git)** | New Hope C - Rock Hill, SC 29732 | On Site | Jan 28 |
-| **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Employee Relations Intern](https://jobright.ai/jobs/info/697b02a717b11b1c2e41f606?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jan 28 |
-| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Supply Chain Human Resources Intern - Hanover, PA or Napoleon, OH - Summer 2026](https://jobright.ai/jobs/info/695eeb4e08ab990f282a3ce1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Jan 28 |
-| **[Enchanted Rock](https://enchantedrock.com)** | **[Training and Talent Development Intern - Summer 2026](https://jobright.ai/jobs/info/697af4fac532c4768fe0c055?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 28 |
-| **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695ee80d0badca5763af6620?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
