@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cider](https://shop.shopcider.com)** | **[Student Intern - Global Talent Recruitment & Administrative Support](https://jobright.ai/jobs/info/697c4e9b0b88cc7d642367bf?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 29 |
 | **[Culligan International](http://www.culligan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69607e0b7ebc25398eb66f1b?utm_campaign=1054&utm_source=git)** | Libertyville, IL | Hybrid | Jan 29 |
 | **[ASML](https://www.asml.com)** | **[Internship, HR Operations Summer 2026](https://jobright.ai/jobs/info/6960592b7ebc25398eb65526?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Jan 29 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program –Business Enablement Operations – Intern](https://jobright.ai/jobs/info/69603a117ebc25398eb63c5f?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Jan 29 |
@@ -121,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697ba6140b88cc7d64227590?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/697ba35c0b88cc7d64226ed1?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
 | **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ba2251423772304ebcc3c?utm_campaign=1054&utm_source=git)** | RPSNA Lawrence KS | On Site | Jan 29 |
-| **[Jordan's Furniture](http://www.jordans.com/)** | **[Corp - Human Resources Support - Intern, Human Resources](https://jobright.ai/jobs/info/697c4c461423772304ecbff8?utm_campaign=1054&utm_source=git)** | 450 Revolutionary Dr, East Taunton, MA 02718, USA | On Site | Jan 29 |
+| **[Jordan's Furniture](http://www.jordans.com/)** | **[Corp - Human Resources Support - Intern, Human Resources](https://jobright.ai/jobs/info/697c525b137a051025654139?utm_campaign=1054&utm_source=git)** | 450 Revolutionary Dr, East Taunton, MA 02718, USA | On Site | Jan 29 |
 | **[HubSpot](http://www.hubspot.com)** | **[Payroll Business Systems Co-op](https://jobright.ai/jobs/info/697b9d291423772304ebbd9d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 29 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Worcester, MA](https://jobright.ai/jobs/info/697b94431136d179eeef0f40?utm_campaign=1054&utm_source=git)** | Worcester, MA 01603 | On Site | Jan 29 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2026 Summer Internship Program - People (HR)](https://jobright.ai/jobs/info/697b8ccf1136d179eeef0821?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 29 |
@@ -130,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697b7e851136d179eeef0057?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Jan 29 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973ec82206da320f49de521?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Jan 29 |
 | **[Balchem Corporation](http://balchem.com)** | **[HR Generalist Intern/Co-Op](https://jobright.ai/jobs/info/697b98e80b88cc7d642255df?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Jan 29 |
+| **[Jordan's Furniture](http://www.jordans.com/)** | **[Corp - Human Resources Support - Intern, Human Resources](https://jobright.ai/jobs/info/697c5339727747250d570854?utm_campaign=1054&utm_source=git)** | East Taunton, MA | On Site | Jan 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, Benefits Administrator- EN](https://jobright.ai/jobs/info/695b2760aa05c26e7ab4871e?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 29 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, HR Transformation- EN](https://jobright.ai/jobs/info/69450105a7227b3ece66a5e3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Summer 2026](https://jobright.ai/jobs/info/68d1ed048c62e63bc7fd1214?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Jan 29 |
 | **[Birge & Held](https://birgeandheld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697c39ac1423772304eca1e4?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 29 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data Scientist Intern, People Analytics (Master's Degree)](https://jobright.ai/jobs/info/6926423fd47de4798ecd5ea1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
-| **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition Intern-San Francisco](https://jobright.ai/jobs/info/695f83e77ebc25398eb55ccd?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Global Total Rewards](https://jobright.ai/jobs/info/695f9995a1bbea1d9a7a548d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
