@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Mishawaka/South Bend](https://jobright.ai/jobs/info/68d4c9faffc1276de3fde1fc?utm_campaign=1054&utm_source=git)** | South Bend, IN | On Site | Jan 30 |
+| **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern (Onsite)](https://jobright.ai/jobs/info/68f01e9778ba1621431e1fa7?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d6165ae5a90cfd481d78?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Jan 30 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Greenwood/Franklin](https://jobright.ai/jobs/info/68d52eb71ecb447aa43e81bd?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Jan 30 |
+| **[TriNet](http://trinet.com)** | **[Apprentice, Culture Program (Part-time Intern)](https://jobright.ai/jobs/info/695863c19f1b381eb271404f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/692919bed47de4798ece44bd?utm_campaign=1054&utm_source=git)** | Saint John, New Brunswick, Canada | On Site | Jan 30 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7caed5e55be5e2604dd36?utm_campaign=1054&utm_source=git)** | O'Fallon, IL | On Site | Jan 30 |
+| ↳ | **[Management Trainee Summer Internship - 2026 - Bilingual](https://jobright.ai/jobs/info/69291bc591ceeb2e8a546f97?utm_campaign=1054&utm_source=git)** | Dieppe, New Brunswick, Canada | On Site | Jan 30 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Mishawaka/South Bend](https://jobright.ai/jobs/info/68d4c9faffc1276de3fde1fc?utm_campaign=1054&utm_source=git)** | South Bend, IN | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern - West Indiana](https://jobright.ai/jobs/info/68d4d0d4ffc1276de3fde513?utm_campaign=1054&utm_source=git)** | Brownsburg, IN | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69341845a0dde7020e2f4357?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Carmel/Westfield](https://jobright.ai/jobs/info/68d4ce3dfcd3367e8df17f64?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
@@ -76,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Administrative Intern Acute Care Operations - Talent Acquisition - FT - day](https://jobright.ai/jobs/info/6941c75d14ee092a69ffde95?utm_campaign=1054&utm_source=git)** | Topeka, KS | On Site | Jan 30 |
 | ↳ | **[Administrative Intern Patient Experience - Talent Acquisition - FT - Day](https://jobright.ai/jobs/info/6948f48a63141d1884589f14?utm_campaign=1054&utm_source=git)** | Topeka, KS | On Site | Jan 30 |
 | **[Cemex US](http://www.cemex.com/)** | **[INTERNSHIP DEVELOPMENT PROFESSIONAL HR](https://jobright.ai/jobs/info/691accc845fb6f5ead8ade42?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Terre Haute](https://jobright.ai/jobs/info/68d537af39247e3c807e9154?utm_campaign=1054&utm_source=git)** | Terre Haute, IN | On Site | Jan 30 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern (Yearlong)](https://jobright.ai/jobs/info/6927776cd47de4798ecdcf17?utm_campaign=1054&utm_source=git)** | Red Lion, PA | On Site | Jan 30 |
 | **[The Arc San Francisco](http://www.thearcsf.org/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/697c9b0c3f57a33569664d59?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[rand* construction corporation](http://randcc.com)** | **[HR Intern - Alexandria, VA](https://jobright.ai/jobs/info/690bca90221b890c277f848a?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Jan 30 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Human Resource Business Partner Intern (West Palm Beach, FL)](https://jobright.ai/jobs/info/6978371a52f3c27ec6446ab1?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Jan 29 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/697bb02f1423772304ebdaf6?utm_campaign=1054&utm_source=git)** | Wake County, NC | On Site | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Health & Well-Being Delivery Intern](https://jobright.ai/jobs/info/697bd3cb1423772304ec04a6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697ba6140b88cc7d64227590?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/697ba35c0b88cc7d64226ed1?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
 | **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ba2251423772304ebcc3c?utm_campaign=1054&utm_source=git)** | RPSNA Lawrence KS | On Site | Jan 29 |
 | **[HubSpot](http://www.hubspot.com)** | **[Payroll Business Systems Co-op](https://jobright.ai/jobs/info/697b9d291423772304ebbd9d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 29 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Worcester, MA](https://jobright.ai/jobs/info/697b94431136d179eeef0f40?utm_campaign=1054&utm_source=git)** | Worcester, MA 01603 | On Site | Jan 29 |
-| **[Dun & Bradstreet](http://www.dnb.com)** | **[2026 Summer Internship Program - People (HR)](https://jobright.ai/jobs/info/697b8ccf1136d179eeef0821?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 29 |
-| **[XPO](https://www.xpo.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697bb50c1136d179eeef3939?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 29 |
-| **[ISO New England Inc.](http://www.iso-ne.com)** | **[Student Intern - Talent Management](https://jobright.ai/jobs/info/697b88701423772304ebacb4?utm_campaign=1054&utm_source=git)** | Holyoke, MA | On Site | Jan 29 |
-| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697b7e851136d179eeef0057?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Jan 29 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Payroll Services - Guelph - May 2026](https://jobright.ai/jobs/info/6973ec82206da320f49de521?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Jan 29 |
-| **[Balchem Corporation](http://balchem.com)** | **[HR Generalist Intern/Co-Op](https://jobright.ai/jobs/info/697b98e80b88cc7d642255df?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Jan 29 |
-| **[CN](http://www.cn.ca)** | **[Intern, Benefits Administrator- EN](https://jobright.ai/jobs/info/695b2760aa05c26e7ab4871e?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
