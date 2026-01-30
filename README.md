@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Human Resources, Talent Acquisition & Management](https://jobright.ai/jobs/info/69740189bc8e722e7b18e5c7?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 30 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Human Resources Paid Intern (one year/full time/April start)](https://jobright.ai/jobs/info/697ceea9137a05102565e03e?utm_campaign=1054&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 30 |
+| **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern - Undergrad](https://jobright.ai/jobs/info/696721b5f25a380066957f56?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
 | **[AirLife](https://www.myairlife.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ce96f137a05102565d150?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, US | On Site | Jan 30 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern - Undergrad](https://jobright.ai/jobs/info/69671d03f7d5ac1d4827e257?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Worker's Compensation Claims](https://jobright.ai/jobs/info/697ce0793f57a33569668b3b?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | On Site | Jan 30 |
@@ -85,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6933cb2bf131d96e48466fd8?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Jan 30 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Administrative Intern Manhattan Campus - Talent Acquisition - FT - Day](https://jobright.ai/jobs/info/6941bdddbdcf884a5add77ec?utm_campaign=1054&utm_source=git)** | Topeka, KS | On Site | Jan 30 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Human Resources - Summer 2026](https://jobright.ai/jobs/info/6944941550bbaf7650569e10?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jan 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69292507f0beb07232631f57?utm_campaign=1054&utm_source=git)** | St John’s, Newfoundland and Labrador, Canada | On Site | Jan 30 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Administrative Intern Acute Care Operations - Talent Acquisition - FT - day](https://jobright.ai/jobs/info/6941c75d14ee092a69ffde95?utm_campaign=1054&utm_source=git)** | Topeka, KS | On Site | Jan 30 |
 | ↳ | **[Administrative Intern Patient Experience - Talent Acquisition - FT - Day](https://jobright.ai/jobs/info/6948f48a63141d1884589f14?utm_campaign=1054&utm_source=git)** | Topeka, KS | On Site | Jan 30 |
 | **[Cemex US](http://www.cemex.com/)** | **[INTERNSHIP DEVELOPMENT PROFESSIONAL HR](https://jobright.ai/jobs/info/691accc845fb6f5ead8ade42?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[HRIS Intern - Human Resources](https://jobright.ai/jobs/info/697be8030b88cc7d6422cc3c?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Jan 29 |
 | **[Outlyr](http://eigermarketing.com/)** | **[Volunteer Intern (MAVRK)](https://jobright.ai/jobs/info/697bd81d0b88cc7d6422af58?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Tiffin, OH] (Unpaid, Summer 2026)](https://jobright.ai/jobs/info/697bd23e1423772304ec016e?utm_campaign=1054&utm_source=git)** | Tiffin, OH | On Site | Jan 29 |
-| **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697bd9cf1136d179eeef6b71?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 29 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/697bd19e1423772304ec0036?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jan 29 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Human Resource Business Partner Intern (West Palm Beach, FL)](https://jobright.ai/jobs/info/6978371a52f3c27ec6446ab1?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Jan 29 |
-| **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/697bb02f1423772304ebdaf6?utm_campaign=1054&utm_source=git)** | Wake County, NC | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
