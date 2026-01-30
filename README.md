@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern- Supply Chain](https://jobright.ai/jobs/info/697c23f50b88cc7d64232894?utm_campaign=1054&utm_source=git)** | Romulus, MI | On Site | Jan 29 |
+| ↳ | **[Summer 2026- Human Resource Intern- Supply Chain](https://jobright.ai/jobs/info/697c1f321423772304ec7d28?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Jan 29 |
+| ↳ | **[Summer 2026 HR & Operation Intern- Supply Chain (Bilingual)](https://jobright.ai/jobs/info/697c1d9f1423772304ec79af?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Jan 29 |
 | **[Okta](http://www.okta.com)** | **[University Recruiting Intern (Summer 2026)](https://jobright.ai/jobs/info/6973b5e237785856350d8c55?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Internship Experience Team Coordinator (Summer 2026)](https://jobright.ai/jobs/info/697c0f321423772304ec5d68?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69659cfd2cbf4e44756f44f2?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 29 |
 | **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/697c0abd1136d179eeefad24?utm_campaign=1054&utm_source=git)** | Schofield, WI | On Site | Jan 29 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/697c08d30b88cc7d6422f61b?utm_campaign=1054&utm_source=git)** | Delano, CA | On Site | Jan 29 |
 | **[CRH](http://crh.com)** | **[Human Resources Intern - Early Career Development](https://jobright.ai/jobs/info/697c04611423772304ec51b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
+| **[Okta](http://www.okta.com)** | **[Recruiting Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/697c1a600b88cc7d642311c7?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
+| **[Four Inc.](https://www.fourinc.com/)** | **[Human Resources- Internship](https://jobright.ai/jobs/info/697c1fbf1136d179eeefd518?utm_campaign=1054&utm_source=git)** | Herndon, Virginia, United States | Hybrid | Jan 29 |
 | **[MegaCorp Logistics](http://megacorplogistics.com)** | **[Corporate Recruiting Intern](https://jobright.ai/jobs/info/697bfa331136d179eeefa08f?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Jan 29 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources (Learning & Development)](https://jobright.ai/jobs/info/697bf8031136d179eeef9ce4?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 29 |
 | **[Price Industries](https://www.priceindustries.com)** | **[Intern - Human Resources Generalist (Benefits) - Summer 2026](https://jobright.ai/jobs/info/69601cdca1bbea1d9a7aeb86?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Jan 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nightingale Education Group](https://nightingaleeducationgroup.com)** | **[Recruiting Intern (Part-time)](https://jobright.ai/jobs/info/697b62df0b88cc7d642220ef?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 28 |
 | **[Charter Schools USA](http://www.charterschoolsusa.com)** | **[HR Intern](https://jobright.ai/jobs/info/697ae0851423772304eac5aa?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 28 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/695f15d2a1bbea1d9a79edd9?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Jan 28 |
-| **[Bottom Line](https://www.bottomline.org)** | **[STUDENT RECRUITMENT INTERN](https://jobright.ai/jobs/info/697af77617b11b1c2e41d95f?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 28 |
-| **[UES](https://www.teamues.com)** | **[Intern - HR](https://jobright.ai/jobs/info/697acace8dbbf73badc819d1?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 28 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance – Electronic Benefit Transfer (EBT) Internship (Summer 2026)](https://jobright.ai/jobs/info/696fee5082817106e976f443?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 28 |
-| **[UNDP Careers](https://www.undp.org)** | **[Respectful Workplace Intern](https://jobright.ai/jobs/info/697ac7f19d60e431a16c7036?utm_campaign=1054&utm_source=git)** | Home, KS | On Site | Jan 28 |
-| **[Teck Resources Limited](http://www.teck.com/)** | **[HR Intern](https://jobright.ai/jobs/info/695ac620f1f8465b79f0f579?utm_campaign=1054&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
