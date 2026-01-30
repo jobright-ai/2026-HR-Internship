@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AirLife](https://www.myairlife.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ce96f137a05102565d150?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, US | On Site | Jan 30 |
+| **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern - Undergrad](https://jobright.ai/jobs/info/69671d03f7d5ac1d4827e257?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 30 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern, Worker's Compensation Claims](https://jobright.ai/jobs/info/697ce0793f57a33569668b3b?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | On Site | Jan 30 |
+| **[Hunter Engineering Company](http://www.hunter.com)** | **[HR Intern - Learning & Development](https://jobright.ai/jobs/info/697ce0483f57a33569668b17?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Jan 30 |
+| **[Kite Realty Group](http://kiterealty.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6977f22d52f3c27ec644249c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 | **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern (Onsite)](https://jobright.ai/jobs/info/68f01e9778ba1621431e1fa7?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d6165ae5a90cfd481d78?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Greenwood/Franklin](https://jobright.ai/jobs/info/68d52eb71ecb447aa43e81bd?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Jan 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/697bd19e1423772304ec0036?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jan 29 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Human Resource Business Partner Intern (West Palm Beach, FL)](https://jobright.ai/jobs/info/6978371a52f3c27ec6446ab1?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Jan 29 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/697bb02f1423772304ebdaf6?utm_campaign=1054&utm_source=git)** | Wake County, NC | On Site | Jan 29 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Health & Well-Being Delivery Intern](https://jobright.ai/jobs/info/697bd3cb1423772304ec04a6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/697ba35c0b88cc7d64226ed1?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
-| **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ba2251423772304ebcc3c?utm_campaign=1054&utm_source=git)** | RPSNA Lawrence KS | On Site | Jan 29 |
-| **[HubSpot](http://www.hubspot.com)** | **[Payroll Business Systems Co-op](https://jobright.ai/jobs/info/697b9d291423772304ebbd9d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 29 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Worcester, MA](https://jobright.ai/jobs/info/697b94431136d179eeef0f40?utm_campaign=1054&utm_source=git)** | Worcester, MA 01603 | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
