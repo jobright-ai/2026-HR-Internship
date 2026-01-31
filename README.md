@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/697e2cf2abff4c399a9ceb4d?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 31 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[HR Intern - Sherman TX](https://jobright.ai/jobs/info/697e16dace48107c05425c21?utm_campaign=1054&utm_source=git)** | Sherman, TX | On Site | Jan 31 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6961a3bce7ed9a5731ba7a96?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | Hybrid | Jan 31 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Talent Acquisition Intern - Green Bay, Wi - Year round](https://jobright.ai/jobs/info/696183d0e7ed9a5731ba52c0?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 31 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[HR Intern - Germany](https://jobright.ai/jobs/info/6961c994a112b402661056fa?utm_campaign=1054&utm_source=git)** | St Georges, DE | On Site | Jan 31 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/69625082a112b4026610ba66?utm_campaign=1054&utm_source=git)** | Hilton Head Island, SC | On Site | Jan 31 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690d7589d046ab6061cf6671?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 31 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Jan 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/6933eff6f131d96e484687ed?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Jan 31 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Team Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6945cd79d1953b5d11becc1e?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[Stop & Shop](http://stopandshop.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961a180a112b40266103685?utm_campaign=1054&utm_source=git)** | Quincy, MA | Hybrid | Jan 31 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Restaurant Operations Summer Internship Experience](https://jobright.ai/jobs/info/697d72c6137a0510256695a6?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Coach USA](http://www.coachusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d4836137a05102566560c?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Jan 30 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697d46b43f57a335696714d4?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Jan 30 |
-| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d63dc3f57a335696745f8?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 30 |
-| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d633e727747250d5846c3?utm_campaign=1054&utm_source=git)** | Yucca Valley, California, United States | On Site | Jan 30 |
+| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d633e727747250d5846c3?utm_campaign=1054&utm_source=git)** | Yucca Valley, California, United States | On Site | Jan 30 |
+| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d63dc3f57a335696745f8?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 30 |
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d6493727747250d58487f?utm_campaign=1054&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/697d3f2f137a051025664fba?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Jan 30 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d3e89137a051025664ebb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Talent Management - Summer Intern](https://jobright.ai/jobs/info/697d224a3f57a3356966d8a5?utm_campaign=1054&utm_source=git)** | Georgia - Oakwood Corporate Office | On Site | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d3fee3f57a335696710d4?utm_campaign=1054&utm_source=git)** | Katy, TX | Hybrid | Jan 30 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Administration/Human Resources Job ID : 271441](https://jobright.ai/jobs/info/697d3c01727747250d580c85?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jan 30 |
-| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Human Resources/Talent Acquisition Intern](https://jobright.ai/jobs/info/697d17c6727747250d57cfb3?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Jan 30 |
-| **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Talent Analytics Intern- Summer 20026](https://jobright.ai/jobs/info/697d1482137a051025660a33?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
