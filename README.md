@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Frank Gay Commercial Services](https://www.frankgayservices.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/697dcdf1ce48107c0542270a?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 31 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - HR, Talent Development- EN](https://jobright.ai/jobs/info/697dc17dce48107c05420b1f?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/6973d715bc8e722e7b18a624?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 30 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697db3807f40342e15d69b46?utm_campaign=1054&utm_source=git)** | Skokie, IL | On Site | Jan 30 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026- Human Resource Intern- Supply Chain](https://jobright.ai/jobs/info/697dac11ce48107c0541fa94?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
@@ -97,9 +99,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Restaurant Operations Summer Internship Experience](https://jobright.ai/jobs/info/697d72c6137a0510256695a6?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Coach USA](http://www.coachusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d4836137a05102566560c?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Jan 30 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697d46b43f57a335696714d4?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Jan 30 |
-| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d6493727747250d58487f?utm_campaign=1054&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 30 |
-| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d633e727747250d5846c3?utm_campaign=1054&utm_source=git)** | Yucca Valley, California, United States | On Site | Jan 30 |
+| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d633e727747250d5846c3?utm_campaign=1054&utm_source=git)** | Yucca Valley, California, United States | On Site | Jan 30 |
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d63dc3f57a335696745f8?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 30 |
+| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d6493727747250d58487f?utm_campaign=1054&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 30 |
 | **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Human Resources and Recruitment Intern](https://jobright.ai/jobs/info/69618629f3f4cd1325068c8a?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | On Site | Jan 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/697d3f2f137a051025664fba?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Jan 30 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d3e89137a051025664ebb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - West Indiana](https://jobright.ai/jobs/info/68d4d0d4ffc1276de3fde513?utm_campaign=1054&utm_source=git)** | Brownsburg, IN | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69341845a0dde7020e2f4357?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Carmel/Westfield](https://jobright.ai/jobs/info/68d4ce3dfcd3367e8df17f64?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
-| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69340c1ca0dde7020e2f3e8b?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jan 30 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2dff?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
