@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Health and Network Solution Intern (Physician Contracting)](https://jobright.ai/jobs/info/697d6583137a0510256686a5?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Jan 30 |
+| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Strategic Development Intern](https://jobright.ai/jobs/info/697d6511137a05102566861a?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Jan 30 |
+| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d6191727747250d584542?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | Jan 30 |
+| **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/697d5f2c727747250d5842d9?utm_campaign=1054&utm_source=git)** | Schofield, WI | On Site | Jan 30 |
+| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d5f263f57a335696740b2?utm_campaign=1054&utm_source=git)** | Carlsbad, California, United States | On Site | Jan 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/697d5cdc727747250d583fe6?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Jan 30 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d5c58137a051025667c0e?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 | **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d5a6f137a051025667a31?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
@@ -66,6 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Health and Network Solution Intern (Physician Contracting)](https://jobright.ai/jobs/info/697d4c5f3f57a335696718d4?utm_campaign=1054&utm_source=git)** | Newark, NJ - Hybrid | Hybrid | Jan 30 |
 | **[Coach USA](http://www.coachusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d4836137a05102566560c?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Jan 30 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697d46b43f57a335696714d4?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Jan 30 |
+| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d63dc3f57a335696745f8?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 30 |
+| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d6493727747250d58487f?utm_campaign=1054&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 30 |
+| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d633e727747250d5846c3?utm_campaign=1054&utm_source=git)** | Yucca Valley, California, United States | On Site | Jan 30 |
 | **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Human Resources and Recruitment Intern](https://jobright.ai/jobs/info/69618629f3f4cd1325068c8a?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | On Site | Jan 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/697d3f2f137a051025664fba?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Jan 30 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d3e89137a051025664ebb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Jan 30 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Internship, HR Operations Summer 2026](https://jobright.ai/jobs/info/6960592b7ebc25398eb65526?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Jan 29 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program –Business Enablement Operations – Intern](https://jobright.ai/jobs/info/69603a117ebc25398eb63c5f?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Jan 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Newburgh, NY](https://jobright.ai/jobs/info/697c3dfd1423772304ecb52f?utm_campaign=1054&utm_source=git)** | Newburgh, NY | On Site | Jan 29 |
-| **[MassMutual Ascend](https://massmutualascend.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/696049f1a1bbea1d9a7b2da2?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 29 |
-| **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/695dc70cf1f8465b79f41300?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Jan 29 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Performance Management](https://jobright.ai/jobs/info/697c48e81423772304ecbe48?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Jan 29 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Professional Review](https://jobright.ai/jobs/info/697c25cf1423772304ec85d3?utm_campaign=1054&utm_source=git)** | Okemos, MI | Hybrid | Jan 29 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern- Supply Chain](https://jobright.ai/jobs/info/697c23f50b88cc7d64232894?utm_campaign=1054&utm_source=git)** | Romulus, MI | On Site | Jan 29 |
-| ↳ | **[Summer 2026- Human Resource Intern- Supply Chain](https://jobright.ai/jobs/info/697c1f321423772304ec7d28?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Jan 29 |
-| ↳ | **[Summer 2026 HR & Operation Intern- Supply Chain (Bilingual)](https://jobright.ai/jobs/info/697c1d9f1423772304ec79af?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Jan 29 |
-| **[Okta](http://www.okta.com)** | **[University Recruiting Intern (Summer 2026)](https://jobright.ai/jobs/info/6973b5e237785856350d8c55?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
