@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7cc155e55be5e2604dfc0?utm_campaign=1054&utm_source=git)** | Glen Carbon, IL | On Site | Jan 31 |
+| **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f14489f462172a5a7d5721?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/6933ba44f131d96e484665be?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jan 31 |
+| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Human Resources - Learning and Development](https://jobright.ai/jobs/info/6961df17a112b402661062c4?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Jan 31 |
+| **[Zus Health](https://zushealth.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6945ffca7d506e3808f14a0b?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jan 31 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship- Greater Columbus](https://jobright.ai/jobs/info/69613d14e7ed9a5731ba0483?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Global Talent Management PhD Intern](https://jobright.ai/jobs/info/696193c9f3f4cd132506a1b9?utm_campaign=1054&utm_source=git)** | New Brunswick, NJ | Hybrid | Jan 31 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - East Indianapolis](https://jobright.ai/jobs/info/68d4c9faffc1276de3fde1fd?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/697dffc3abff4c399a9cc346?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 31 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d76204a1b456627b218c0?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 31 |
 | **[Amazon](https://amazon.com)** | **[HR Intern - Germany](https://jobright.ai/jobs/info/6961c994a112b402661056fa?utm_campaign=1054&utm_source=git)** | St Georges, DE | On Site | Jan 31 |
@@ -148,13 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Fuyao Glass Corporation of America](https://fuyaousa.com/)** | **[HR Intern - Campus Recruiting - HR Dept -](https://jobright.ai/jobs/info/697d2e01137a05102566355d?utm_campaign=1054&utm_source=git)** | Moraine, OH, US | On Site | Jan 30 |
 | **[Hawkes Learning](http://hawkeslearning.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d10003f57a3356966c477?utm_campaign=1054&utm_source=git)** | Fully Remote | Remote | Jan 30 |
 | **[Fuyao Group](http://www.fuyaogroup.com)** | **[HR Intern - Campus Recruiting - HR Dept -](https://jobright.ai/jobs/info/697d2c043f57a3356966eff5?utm_campaign=1054&utm_source=git)** | Moraine, OH, US | On Site | Jan 30 |
-| **[Hawkes Learning](http://hawkeslearning.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d8c7e7f40342e15d66d4b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 30 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Co-op Job Developer](https://jobright.ai/jobs/info/697d0095137a05102565f7a3?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 30 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Talent Acquisition and Records Intern](https://jobright.ai/jobs/info/697d1a9a727747250d57d34f?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
-| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d79a43f57a33569676348?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 30 |
-| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Human Resources, Talent Acquisition & Management](https://jobright.ai/jobs/info/69740189bc8e722e7b18e5c7?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 30 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Human Resources Paid Intern (one year/full time/April start)](https://jobright.ai/jobs/info/697ceea9137a05102565e03e?utm_campaign=1054&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 30 |
-| **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern - Undergrad](https://jobright.ai/jobs/info/696721b5f25a380066957f56?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
-| **[AirLife](https://www.myairlife.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697ce96f137a05102565d150?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, US | On Site | Jan 30 |
-| **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern - Undergrad](https://jobright.ai/jobs/info/69671d03f7d5ac1d4827e257?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
