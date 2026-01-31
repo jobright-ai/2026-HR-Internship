@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/6973d715bc8e722e7b18a624?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 30 |
+| **[Covenant Living Communities and Services](https://covliving.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697db3807f40342e15d69b46?utm_campaign=1054&utm_source=git)** | Skokie, IL | On Site | Jan 30 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026- Human Resource Intern- Supply Chain](https://jobright.ai/jobs/info/697dac11ce48107c0541fa94?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
 | **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Human Resources - Total Rewards](https://jobright.ai/jobs/info/6961e67cf3f4cd132506dca5?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Jan 30 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - HR, Talent Development](https://jobright.ai/jobs/info/697d90ac7f40342e15d67337?utm_campaign=1054&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 30 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Fuyao Group](http://www.fuyaogroup.com)** | **[Purchasing Intern - Campus Recruiting - Purchasing Dept](https://jobright.ai/jobs/info/697d25e53f57a3356966e0e2?utm_campaign=1054&utm_source=git)** | Moraine, OH, US | On Site | Jan 30 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/697d25373f57a3356966df3b?utm_campaign=1054&utm_source=git)** | OMAHA NE-UNION PACIFIC RR | Hybrid | Jan 30 |
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Talent Management - Summer Intern](https://jobright.ai/jobs/info/697d224a3f57a3356966d8a5?utm_campaign=1054&utm_source=git)** | Georgia - Oakwood Corporate Office | On Site | Jan 30 |
-| **[HP](http://www.hp.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6976d701bc8e722e7b1b4dd0?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d3fee3f57a335696710d4?utm_campaign=1054&utm_source=git)** | Katy, TX | Hybrid | Jan 30 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Administration/Human Resources Job ID : 271441](https://jobright.ai/jobs/info/697d3c01727747250d580c85?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jan 30 |
 | **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Human Resources/Talent Acquisition Intern](https://jobright.ai/jobs/info/697d17c6727747250d57cfb3?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Carmel/Westfield](https://jobright.ai/jobs/info/68d4ce3dfcd3367e8df17f64?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69340c1ca0dde7020e2f3e8b?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2dff?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Jan 30 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Indianapolis Airport](https://jobright.ai/jobs/info/6933ab0c764507023d1b7d3b?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
