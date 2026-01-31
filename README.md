@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Org Development Intern B Braun](https://jobright.ai/jobs/info/697e4756ce48107c0542807d?utm_campaign=1054&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 31 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/697e2cf2abff4c399a9ceb4d?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 31 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[HR Intern - Sherman TX](https://jobright.ai/jobs/info/697e16dace48107c05425c21?utm_campaign=1054&utm_source=git)** | Sherman, TX | On Site | Jan 31 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6961a3bce7ed9a5731ba7a96?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | Hybrid | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Talent Management - Summer Intern](https://jobright.ai/jobs/info/697d224a3f57a3356966d8a5?utm_campaign=1054&utm_source=git)** | Georgia - Oakwood Corporate Office | On Site | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d3fee3f57a335696710d4?utm_campaign=1054&utm_source=git)** | Katy, TX | Hybrid | Jan 30 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Administration/Human Resources Job ID : 271441](https://jobright.ai/jobs/info/697d3c01727747250d580c85?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jan 30 |
-| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Human Resources/Talent Acquisition Intern](https://jobright.ai/jobs/info/697d17c6727747250d57cfb3?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
