@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026- Human Resource Intern- Supply Chain](https://jobright.ai/jobs/info/697dac11ce48107c0541fa94?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
+| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Human Resources - Total Rewards](https://jobright.ai/jobs/info/6961e67cf3f4cd132506dca5?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Jan 30 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - HR, Talent Development](https://jobright.ai/jobs/info/697d90ac7f40342e15d67337?utm_campaign=1054&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 30 |
 | ↳ | **[Internship - HR, Talent Development](https://jobright.ai/jobs/info/697d8ba8abff4c399a9c4801?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 30 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d82faabff4c399a9c3b6b?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69340c1ca0dde7020e2f3e8b?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2dff?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Indianapolis Airport](https://jobright.ai/jobs/info/6933ab0c764507023d1b7d3b?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/69636bac2cbf4e44756d28d7?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | Hybrid | Jan 30 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69291d8ef0beb07232631ec3?utm_campaign=1054&utm_source=git)** | Sydney, Nova Scotia, Canada | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
