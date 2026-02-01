@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/697f674aabff4c399a9e1473?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 01 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Industrial/Personnel Security Intern (Transitioning Military)](https://jobright.ai/jobs/info/6969bd841703f05405abb81e?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Feb 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68b9c6548043103d4f21a3e3?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Feb 01 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/68f37e1476a51a4307bce6b9?utm_campaign=1054&utm_source=git)** | Cactus, TX | On Site | Feb 01 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - HR](https://jobright.ai/jobs/info/6963557d25e18715077fed20?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c897c5f9c6ff7aedf107cb?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Feb 01 |
 | **[Daikin Comfort](http://www.daikincomfort.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/68b88dc95b42bc45628256b6?utm_campaign=1054&utm_source=git)** | Waller, TX | On Site | Feb 01 |
-| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Talent](https://jobright.ai/jobs/info/69475973d1953b5d11c07705?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Feb 01 |
 | **[Hello! Destination Management](https://www.hello-dmc.com/)** | **[Human Resource Intern- Orlando, Florida](https://jobright.ai/jobs/info/697f18bc7f40342e15d7ce8a?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 01 |
 | **[Axiom World](https://axiomworld.net)** | **[HR Intern](https://jobright.ai/jobs/info/697f0ef67f40342e15d7c8fb?utm_campaign=1054&utm_source=git)** | Innovation, VA | On Site | Feb 01 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 01 |
