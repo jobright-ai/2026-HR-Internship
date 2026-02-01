@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Payroll Business Systems Intern](https://jobright.ai/jobs/info/697f818cabff4c399a9e1824?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Feb 01 |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697f7b687f40342e15d82643?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[People, Culture & Belonging Intern](https://jobright.ai/jobs/info/697f74de7f40342e15d8258b?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/695df6304b7a590c5b956748?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Feb 01 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/697f674aabff4c399a9e1473?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 01 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[X, The Moonshot Factory](https://x.company)** | **[2026 People Experience and Employee Insights Internship (Tapestry)](https://jobright.ai/jobs/info/697e6bccce48107c0542a279?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 31 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[HR Intern](https://jobright.ai/jobs/info/695ac620f1f8465b79f0f579?utm_campaign=1054&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 31 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Org Development Intern B Braun](https://jobright.ai/jobs/info/697ec7e7ce48107c0542d9d6?utm_campaign=1054&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 31 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/697e2cf2abff4c399a9ceb4d?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jan 31 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[HR Intern - Sherman TX](https://jobright.ai/jobs/info/697e16dace48107c05425c21?utm_campaign=1054&utm_source=git)** | Sherman, TX | On Site | Jan 31 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6961a3bce7ed9a5731ba7a96?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | Hybrid | Jan 31 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Talent Acquisition Intern - Green Bay, Wi - Year round](https://jobright.ai/jobs/info/696183d0e7ed9a5731ba52c0?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Health and Network Solution Intern (Physician Contracting)](https://jobright.ai/jobs/info/697d4c5f3f57a335696718d4?utm_campaign=1054&utm_source=git)** | Newark, NJ - Hybrid | Hybrid | Jan 30 |
 | **[Hogsalt](https://www.hogsalt.com)** | **[Human Resources Summer Internship Experience](https://jobright.ai/jobs/info/697d71373f57a33569675600?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | ↳ | **[Hogsalt Private Events Summer Internship Experience](https://jobright.ai/jobs/info/697d72bc137a051025669597?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
-| ↳ | **[Restaurant Operations Summer Internship Experience](https://jobright.ai/jobs/info/697d72c6137a0510256695a6?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
