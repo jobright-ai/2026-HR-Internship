@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d70d83f57a335696755a1?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | Jan 30 |
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d7084137a051025669376?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Jan 30 |
 | **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Director](https://jobright.ai/jobs/info/6961b263e7ed9a5731ba8671?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jan 30 |
-| **[PEARCE, BEVILL, LEESBURG, MOORE, P.C.](http://pearcebevill.com)** | **[2028 Winter/Spring Internships](https://jobright.ai/jobs/info/697ec694abff4c399a9d66bc?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d693f727747250d584e4e?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Jan 30 |
 | **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d87c7abff4c399a9c3eef?utm_campaign=1054&utm_source=git)** | Escondido, CA | On Site | Jan 30 |
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d8670abff4c399a9c3db0?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Jan 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AirLife](https://www.myairlife.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d2b98137a051025662ef4?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jan 30 |
 | **[Barnhart Crane & Rigging](https://www.barnhartcrane.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/697d2b0a137a051025662d6d?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Jan 30 |
 | **[Fan Outfitters](https://www.linkedin.com/company/96338722)** | **[Summer 2026 - Human Resources Intern](https://jobright.ai/jobs/info/697d27453f57a3356966e40e?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US, 46278 | On Site | Jan 30 |
+| **[Lucchese Bootmaker](https://www.lucchese.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d26c4137a051025662303?utm_campaign=1054&utm_source=git)** | Dallas Office, Dallas, TX, US | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
