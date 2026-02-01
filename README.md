@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 01 |
+| ↳ | **[Member Services Summer Intern](https://jobright.ai/jobs/info/697f0d1ece48107c05432c39?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 01 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0366abff4c399a9dae45?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
 | ↳ | **[Member Services Summer Intern](https://jobright.ai/jobs/info/697f015aabff4c399a9dabc8?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
 | **[Baptist Health](https://www.baptist-health.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697e7f057f40342e15d74912?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jan 31 |
@@ -140,9 +142,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Restaurant Operations Summer Internship Experience](https://jobright.ai/jobs/info/697d72c6137a0510256695a6?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Coach USA](http://www.coachusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d4836137a05102566560c?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Jan 30 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697d46b43f57a335696714d4?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Jan 30 |
-| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d6493727747250d58487f?utm_campaign=1054&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 30 |
+| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d63dc3f57a335696745f8?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 30 |
+| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d6493727747250d58487f?utm_campaign=1054&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 30 |
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d633e727747250d5846c3?utm_campaign=1054&utm_source=git)** | Yucca Valley, California, United States | On Site | Jan 30 |
-| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d63dc3f57a335696745f8?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/697d3f2f137a051025664fba?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Jan 30 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d3e89137a051025664ebb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Jan 30 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Human Resources Internship (Labor Relations) - Las Vegas](https://jobright.ai/jobs/info/697d3b2d727747250d580b33?utm_campaign=1054&utm_source=git)** | 8360 South Durango, Las Vegas, NV, 89113, US | Hybrid | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Miami Lakes](https://jobright.ai/jobs/info/697d35ab3f57a33569670392?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Jan 30 |
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Talent Management - Summer Intern](https://jobright.ai/jobs/info/697d59c8137a051025667957?utm_campaign=1054&utm_source=git)** | Atlanta Metro | On Site | Jan 30 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Labor Relations Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/697ac1468dbbf73badc810fa?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Jan 30 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Accelerated Development Program - Garland, TX](https://jobright.ai/jobs/info/697d30f3137a051025663d91?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Jan 30 |
-| **[AirLife](https://www.myairlife.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d2b98137a051025662ef4?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
