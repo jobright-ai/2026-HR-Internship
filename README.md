@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comstock Companies](http://comstockcompanies.com/)** | **[HR Internship](https://jobright.ai/jobs/info/697fb9ea7f40342e15d8511b?utm_campaign=1054&utm_source=git)** | Reston VA | On Site | Feb 01 |
+| ↳ | **[HR Internship](https://jobright.ai/jobs/info/697fb2f8abff4c399a9e3e6b?utm_campaign=1054&utm_source=git)** | Reston, VA | On Site | Feb 01 |
+| **[YMCA of the Iowa Mississippi Valley](https://www.ymcaimv.org)** | **[Internship - Human Resources Summer 2026](https://jobright.ai/jobs/info/697fb2ac7f40342e15d84c58?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Feb 01 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Payroll Business Systems Intern](https://jobright.ai/jobs/info/697f818cabff4c399a9e1824?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Feb 01 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697f7b687f40342e15d82643?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[People, Culture & Belonging Intern](https://jobright.ai/jobs/info/697f74de7f40342e15d8258b?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PCG](https://www.pcgservices.com/)** | **[Strategic Development Intern](https://jobright.ai/jobs/info/697d6e143f57a335696752ce?utm_campaign=1054&utm_source=git)** | Lenexa, KS, USA | On Site | Jan 30 |
 | **[Enlyte](https://www.enlyte.com/)** | **[Learning and Organizational Development Intern](https://jobright.ai/jobs/info/697d4dee137a051025665a53?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Health and Network Solution Intern (Physician Contracting)](https://jobright.ai/jobs/info/697d4c5f3f57a335696718d4?utm_campaign=1054&utm_source=git)** | Newark, NJ - Hybrid | Hybrid | Jan 30 |
-| **[Hogsalt](https://www.hogsalt.com)** | **[Human Resources Summer Internship Experience](https://jobright.ai/jobs/info/697d71373f57a33569675600?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
-| ↳ | **[Hogsalt Private Events Summer Internship Experience](https://jobright.ai/jobs/info/697d72bc137a051025669597?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
-| ↳ | **[Restaurant Operations Summer Internship Experience](https://jobright.ai/jobs/info/697d72c6137a0510256695a6?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
