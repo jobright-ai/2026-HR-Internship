@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hello! Destination Management](https://www.hello-dmc.com/)** | **[Human Resource Intern- Orlando, Florida](https://jobright.ai/jobs/info/697f18bc7f40342e15d7ce8a?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 01 |
+| **[Axiom World](https://axiomworld.net)** | **[HR Intern](https://jobright.ai/jobs/info/697f0ef67f40342e15d7c8fb?utm_campaign=1054&utm_source=git)** | Innovation, VA | On Site | Feb 01 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 01 |
 | ↳ | **[Member Services Summer Intern](https://jobright.ai/jobs/info/697f0d1ece48107c05432c39?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 01 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0366abff4c399a9dae45?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Human Resources Summer Intern (2026)](https://jobright.ai/jobs/info/697deb07abff4c399a9cb6f6?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68d598491f7fb2169ab12241?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Jan 31 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 31 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 - Disability Case Manager](https://jobright.ai/jobs/info/697303e8694e99351d14486a?utm_campaign=1054&utm_source=git)** | Québec, Quebec, Canada | Remote | Jan 31 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Jan 31 |
 | **[Frank Gay Commercial Services](https://www.frankgayservices.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/697dcdf1ce48107c0542270a?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 31 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - HR, Talent Development- EN](https://jobright.ai/jobs/info/697dc17dce48107c05420b1f?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d5673137a051025667673?utm_campaign=1054&utm_source=git)** | Whitewater, OH | On Site | Jan 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Miami Lakes](https://jobright.ai/jobs/info/697d35ab3f57a33569670392?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Jan 30 |
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Talent Management - Summer Intern](https://jobright.ai/jobs/info/697d59c8137a051025667957?utm_campaign=1054&utm_source=git)** | Atlanta Metro | On Site | Jan 30 |
-| **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Labor Relations Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/697ac1468dbbf73badc810fa?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
