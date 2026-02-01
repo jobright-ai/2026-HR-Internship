@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Health](https://www.baptist-health.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697e7f057f40342e15d74912?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jan 31 |
 | **[Hamilton-Wentworth Catholic District School Board](https://www.hwcdsb.ca)** | **[Human Resources Student](https://jobright.ai/jobs/info/697e6d85abff4c399a9d31cc?utm_campaign=1054&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 31 |
 | **[X, The Moonshot Factory](https://x.company)** | **[2026 People Experience and Employee Insights Internship (Tapestry)](https://jobright.ai/jobs/info/697e6bccce48107c0542a279?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 31 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[HR Intern](https://jobright.ai/jobs/info/695ac620f1f8465b79f0f579?utm_campaign=1054&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 31 |
@@ -136,9 +137,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Restaurant Operations Summer Internship Experience](https://jobright.ai/jobs/info/697d72c6137a0510256695a6?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Coach USA](http://www.coachusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d4836137a05102566560c?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Jan 30 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Payroll Business Systems Co-op Fall-2026](https://jobright.ai/jobs/info/697d46b43f57a335696714d4?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Jan 30 |
-| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d63dc3f57a335696745f8?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 30 |
+| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d633e727747250d5846c3?utm_campaign=1054&utm_source=git)** | Yucca Valley, California, United States | On Site | Jan 30 |
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d6493727747250d58487f?utm_campaign=1054&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 30 |
-| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d633e727747250d5846c3?utm_campaign=1054&utm_source=git)** | Yucca Valley, California, United States | On Site | Jan 30 |
+| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d63dc3f57a335696745f8?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/697d3f2f137a051025664fba?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Jan 30 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d3e89137a051025664ebb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Jan 30 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Human Resources Internship (Labor Relations) - Las Vegas](https://jobright.ai/jobs/info/697d3b2d727747250d580b33?utm_campaign=1054&utm_source=git)** | 8360 South Durango, Las Vegas, NV, 89113, US | Hybrid | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fan Outfitters](https://www.linkedin.com/company/96338722)** | **[Summer 2026 - Human Resources Intern](https://jobright.ai/jobs/info/697d27453f57a3356966e40e?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US, 46278 | On Site | Jan 30 |
 | **[Lucchese Bootmaker](https://www.lucchese.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d26c4137a051025662303?utm_campaign=1054&utm_source=git)** | Dallas Office, Dallas, TX, US | On Site | Jan 30 |
 | **[Fuyao Group](http://www.fuyaogroup.com)** | **[Purchasing Intern - Campus Recruiting - Purchasing Dept](https://jobright.ai/jobs/info/697d25e53f57a3356966e0e2?utm_campaign=1054&utm_source=git)** | Moraine, OH, US | On Site | Jan 30 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/697d25373f57a3356966df3b?utm_campaign=1054&utm_source=git)** | OMAHA NE-UNION PACIFIC RR | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
