@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - HR](https://jobright.ai/jobs/info/6963557d25e18715077fed20?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c897c5f9c6ff7aedf107cb?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Feb 01 |
 | **[Daikin Comfort](http://www.daikincomfort.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/68b88dc95b42bc45628256b6?utm_campaign=1054&utm_source=git)** | Waller, TX | On Site | Feb 01 |
-| **[Hello! Destination Management](https://www.hello-dmc.com/)** | **[Human Resource Intern- Orlando, Florida](https://jobright.ai/jobs/info/697f18bc7f40342e15d7ce8a?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 01 |
 | **[Axiom World](https://axiomworld.net)** | **[HR Intern](https://jobright.ai/jobs/info/697f0ef67f40342e15d7c8fb?utm_campaign=1054&utm_source=git)** | Innovation, VA | On Site | Feb 01 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 01 |
 | ↳ | **[Member Services Summer Intern](https://jobright.ai/jobs/info/697f0d1ece48107c05432c39?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Health and Network Solution Intern (Physician Contracting)](https://jobright.ai/jobs/info/697d4c5f3f57a335696718d4?utm_campaign=1054&utm_source=git)** | Newark, NJ - Hybrid | Hybrid | Jan 30 |
 | **[Hogsalt](https://www.hogsalt.com)** | **[Human Resources Summer Internship Experience](https://jobright.ai/jobs/info/697d71373f57a33569675600?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | ↳ | **[Hogsalt Private Events Summer Internship Experience](https://jobright.ai/jobs/info/697d72bc137a051025669597?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
+| ↳ | **[Restaurant Operations Summer Internship Experience](https://jobright.ai/jobs/info/697d72c6137a0510256695a6?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
