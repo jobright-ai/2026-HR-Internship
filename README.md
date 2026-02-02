@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Relay](https://relaypro.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698018d67f40342e15d8da3e?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Feb 01 |
+| **[Relay](https://relaypro.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69802bf6abff4c399a9edab4?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Feb 01 |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69802bd97f40342e15d8eb14?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 01 |
+| **[Six Flags](https://www.sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/69802b88abff4c399a9ed9c4?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 01 |
 | **[Ferrara](https://www.ferrara.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69742752206da320f49e49b8?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Feb 01 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697fc1587f40342e15d86153?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Feb 01 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[HR Internship](https://jobright.ai/jobs/info/697fb9ea7f40342e15d8511b?utm_campaign=1054&utm_source=git)** | Reston VA | On Site | Feb 01 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68d598491f7fb2169ab12241?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Jan 31 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jan 31 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Jan 31 |
-| **[Frank Gay Commercial Services](https://www.frankgayservices.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/697dcdf1ce48107c0542270a?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 31 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - HR, Talent Development- EN](https://jobright.ai/jobs/info/697dc17dce48107c05420b1f?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | **[Charter Schools USA](http://www.charterschoolsusa.com)** | **[HR Intern](https://jobright.ai/jobs/info/697ae0851423772304eac5aa?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 31 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/6973d715bc8e722e7b18a624?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 30 |
@@ -129,7 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Human Resources - Total Rewards](https://jobright.ai/jobs/info/6961e67cf3f4cd132506dca5?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Jan 30 |
 | **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Human Resources and Recruitment Intern](https://jobright.ai/jobs/info/697efb1e7f40342e15d7b608?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | On Site | Jan 30 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - HR, Talent Development](https://jobright.ai/jobs/info/697d90ac7f40342e15d67337?utm_campaign=1054&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 30 |
-| ↳ | **[Internship - HR, Talent Development](https://jobright.ai/jobs/info/697d8ba8abff4c399a9c4801?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 30 |
+| **[PEARCE, BEVILL, LEESBURG, MOORE, P.C.](http://pearcebevill.com)** | **[2028 Winter/Spring Internships](https://jobright.ai/jobs/info/69803687abff4c399a9efa3b?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - HR, Talent Development](https://jobright.ai/jobs/info/697d8ba8abff4c399a9c4801?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 30 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d82faabff4c399a9c3b6b?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Jan 30 |
 | **[Charles Perry Partners, Inc.](https://cppi.com/)** | **[Intern- Human Resources (Gainesville, FL)](https://jobright.ai/jobs/info/697d821eabff4c399a9c3aa4?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Jan 30 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Student HR Intern - Kutztown University](https://jobright.ai/jobs/info/697d81bcabff4c399a9c3a0a?utm_campaign=1054&utm_source=git)** | Kutztown, PA, US, 19530 | On Site | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d5a6f137a051025667a31?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
 | **[Kinectrics](http://www.kinectrics.com)** | **[Human Resources Co-op Student - Recruitment](https://jobright.ai/jobs/info/697d59d83f57a33569673afa?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d73b53f57a3356967587f?utm_campaign=1054&utm_source=git)** | Covenant Living Communities and Services- Skokie, IL | On Site | Jan 30 |
-| **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d4f2c3f57a33569671b99?utm_campaign=1054&utm_source=git)** | Newark, NJ - Hybrid | Hybrid | Jan 30 |
-| **[Charles Perry Partners, Inc.](https://cppi.com/)** | **[Intern- Human Resources (Gainesville, FL)](https://jobright.ai/jobs/info/697d755b137a05102566983a?utm_campaign=1054&utm_source=git)** | Gainesville, Florida, United States | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
