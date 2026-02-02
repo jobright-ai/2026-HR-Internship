@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JD.COM](http://corporate.jd.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6980c236abff4c399a9f829d?utm_campaign=1054&utm_source=git)** | Houston | On Site | Feb 02 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6980b9fa49964d25b5e37f7b?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, CAN | On Site | Feb 02 |
+| ↳ | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6980b93babff4c399a9f7f5e?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, CAN | On Site | Feb 02 |
+| ↳ | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6980b81e7f40342e15d988bb?utm_campaign=1054&utm_source=git)** | Montréal, Quebec, CAN | On Site | Feb 02 |
+| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6980aa5a49964d25b5e37567?utm_campaign=1054&utm_source=git)** | Downers Grove, IL, US | On Site | Feb 02 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/691bf700bcdbf3560c9e472a?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Feb 02 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/6972f45c206da320f49ceb50?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Feb 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/68b9c7bf6105227d11897a94?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Student HR Intern - Kutztown University](https://jobright.ai/jobs/info/697d81bcabff4c399a9c3a0a?utm_campaign=1054&utm_source=git)** | Kutztown, PA, US, 19530 | On Site | Jan 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Human Resources Paid Intern (one year/full time/April start)](https://jobright.ai/jobs/info/697d7c58727747250d586602?utm_campaign=1054&utm_source=git)** | Riverton, UT | Hybrid | Jan 30 |
 | **[JR Automation](https://www.jrautomation.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/69267959d47de4798ecd788f?utm_campaign=1054&utm_source=git)** | Holland, MI | Hybrid | Jan 30 |
-| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d78033f57a33569676252?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
-| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d7590137a051025669872?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
-| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d7429727747250d585cdd?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 30 |
-| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d70d83f57a335696755a1?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | Jan 30 |
-| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d7084137a051025669376?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
