@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/691bf700bcdbf3560c9e472a?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Feb 02 |
+| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/6972f45c206da320f49ceb50?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Feb 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/68b9c7bf6105227d11897a94?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Feb 02 |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources Administrator](https://jobright.ai/jobs/info/695da554fbd62a0a656658ac?utm_campaign=1054&utm_source=git)** | Moonachie, NJ | On Site | Feb 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/68f2ab239a65fd345857ee2a?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Feb 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/68124c68988b4dafeeba1b55?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Feb 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/69341867f131d96e48469773?utm_campaign=1054&utm_source=git)** | Raynham, MA | On Site | Feb 02 |
 | ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/68f1a6bbf462172a5a7dae7a?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Feb 02 |
@@ -99,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Member Services Summer Intern](https://jobright.ai/jobs/info/697f0d1ece48107c05432c39?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 01 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0366abff4c399a9dae45?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
 | ↳ | **[Member Services Summer Intern](https://jobright.ai/jobs/info/697f015aabff4c399a9dabc8?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
-| **[Baptist Health](https://www.baptist-health.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697e7f057f40342e15d74912?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jan 31 |
 | **[X, The Moonshot Factory](https://x.company)** | **[2026 People Experience and Employee Insights Internship (Tapestry)](https://jobright.ai/jobs/info/697e6bccce48107c0542a279?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jan 31 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[HR Intern](https://jobright.ai/jobs/info/695ac620f1f8465b79f0f579?utm_campaign=1054&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 31 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Org Development Intern B Braun](https://jobright.ai/jobs/info/697ec7e7ce48107c0542d9d6?utm_campaign=1054&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d7429727747250d585cdd?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 30 |
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d70d83f57a335696755a1?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | Jan 30 |
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d7084137a051025669376?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Jan 30 |
-| **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Director](https://jobright.ai/jobs/info/6961b263e7ed9a5731ba8671?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jan 30 |
-| **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d693f727747250d584e4e?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Jan 30 |
-| **[HP](http://www.hp.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/69801061ce48107c054433c7?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
-| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d87c7abff4c399a9c3eef?utm_campaign=1054&utm_source=git)** | Escondido, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
