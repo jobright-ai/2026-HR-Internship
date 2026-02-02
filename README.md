@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/69805e4cabff4c399a9f1d58?utm_campaign=1054&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
+| **[Six Flags](https://www.sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/698062bcce48107c0544a067?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
+| ↳ | **[Retail Leadership Internship](https://jobright.ai/jobs/info/69806280abff4c399a9f2075?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
+| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Internal Communications & Employee Experience Intern](https://jobright.ai/jobs/info/69805f74abff4c399a9f1de9?utm_campaign=1054&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
+| ↳ | **[Talent Attraction Intern](https://jobright.ai/jobs/info/69805e4cabff4c399a9f1d58?utm_campaign=1054&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69640dbb2cbf4e44756db9c5?utm_campaign=1054&utm_source=git)** | Wheeling, IL | Hybrid | Feb 02 |
 | **[Relay](https://relaypro.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69802bf6abff4c399a9edab4?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Feb 01 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69802bd97f40342e15d8eb14?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 01 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - HR](https://jobright.ai/jobs/info/6963557d25e18715077fed20?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c897c5f9c6ff7aedf107cb?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Feb 01 |
 | **[Daikin Comfort](http://www.daikincomfort.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/68b88dc95b42bc45628256b6?utm_campaign=1054&utm_source=git)** | Waller, TX | On Site | Feb 01 |
-| **[Axiom World](https://axiomworld.net)** | **[HR Intern](https://jobright.ai/jobs/info/697f0ef67f40342e15d7c8fb?utm_campaign=1054&utm_source=git)** | Innovation, VA | On Site | Feb 01 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 01 |
 | ↳ | **[Member Services Summer Intern](https://jobright.ai/jobs/info/697f0d1ece48107c05432c39?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 01 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0366abff4c399a9dae45?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d5f263f57a335696740b2?utm_campaign=1054&utm_source=git)** | Carlsbad, California, United States | On Site | Jan 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/697d5cdc727747250d583fe6?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Jan 30 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d5c58137a051025667c0e?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
-| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d5a6f137a051025667a31?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
-| **[Kinectrics](http://www.kinectrics.com)** | **[Human Resources Co-op Student - Recruitment](https://jobright.ai/jobs/info/697d59d83f57a33569673afa?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
