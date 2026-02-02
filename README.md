@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/69805e4cabff4c399a9f1d58?utm_campaign=1054&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69640dbb2cbf4e44756db9c5?utm_campaign=1054&utm_source=git)** | Wheeling, IL | Hybrid | Feb 02 |
 | **[Relay](https://relaypro.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69802bf6abff4c399a9edab4?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Feb 01 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69802bd97f40342e15d8eb14?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 01 |
 | **[Six Flags](https://www.sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/69802b88abff4c399a9ed9c4?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d5c58137a051025667c0e?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 | **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d5a6f137a051025667a31?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
 | **[Kinectrics](http://www.kinectrics.com)** | **[Human Resources Co-op Student - Recruitment](https://jobright.ai/jobs/info/697d59d83f57a33569673afa?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
-| **[Covenant Living Communities and Services](https://covliving.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d73b53f57a3356967587f?utm_campaign=1054&utm_source=git)** | Covenant Living Communities and Services- Skokie, IL | On Site | Jan 30 |
-| **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d4f2c3f57a33569671b99?utm_campaign=1054&utm_source=git)** | Newark, NJ - Hybrid | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
