@@ -57,14 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NSK](https://www.nskamericas.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6977949888e2b47213bb7c87?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 02 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Internship (Summer 2026)](https://jobright.ai/jobs/info/6980dba649964d25b5e39562?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Feb 02 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 02 |
+| **[Ardent Mills](https://www.ardentmills.com/)** | **[AMIC-Denver GRQ 2026 Summer Intern](https://jobright.ai/jobs/info/6980d3ee7f40342e15d99bb4?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Feb 02 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6980d24aabff4c399a9f90d0?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/695a0319f1f8465b79f061b8?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Feb 02 |
 | **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Internship](https://jobright.ai/jobs/info/6980cb6249964d25b5e389cc?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 02 |
 | **[Real Radiology, LLC](https://realrads.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6980c81babff4c399a9f8882?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 02 |
 | **[Mycronic](https://www.mycronic.com/)** | **[Intern, Human Resources (Spring 2026)](https://jobright.ai/jobs/info/696f035882817106e97621bb?utm_campaign=1054&utm_source=git)** | Tewksbury, MA | On Site | Feb 02 |
+| **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6980db8dabff4c399a9f9804?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Hybrid | Feb 02 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6980b9fa49964d25b5e37f7b?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, CAN | On Site | Feb 02 |
 | ↳ | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6980b93babff4c399a9f7f5e?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, CAN | On Site | Feb 02 |
 | ↳ | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6980b81e7f40342e15d988bb?utm_campaign=1054&utm_source=git)** | Montréal, Quebec, CAN | On Site | Feb 02 |
+| **[Health-E Commerce](https://www.health-ecommerce.com)** | **[HR Intern](https://jobright.ai/jobs/info/6980d5b8abff4c399a9f9210?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 02 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6980aa5a49964d25b5e37567?utm_campaign=1054&utm_source=git)** | Downers Grove, IL, US | On Site | Feb 02 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/691bf700bcdbf3560c9e472a?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Feb 02 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/6972f45c206da320f49ceb50?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Feb 02 |
@@ -80,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95928043103d4f229efc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 02 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, People Services & Culture](https://jobright.ai/jobs/info/696496592cbf4e44756e107a?utm_campaign=1054&utm_source=git)** | Verona, WI | On Site | Feb 02 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/698062bcce48107c0544a067?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
-| ↳ | **[Retail Leadership Internship](https://jobright.ai/jobs/info/69806280abff4c399a9f2075?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
 | **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Internal Communications & Employee Experience Intern](https://jobright.ai/jobs/info/69805f74abff4c399a9f1de9?utm_campaign=1054&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
 | ↳ | **[Talent Attraction Intern](https://jobright.ai/jobs/info/69805e4cabff4c399a9f1d58?utm_campaign=1054&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69640dbb2cbf4e44756db9c5?utm_campaign=1054&utm_source=git)** | Wheeling, IL | Hybrid | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/6973d715bc8e722e7b18a624?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jan 30 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697db3807f40342e15d69b46?utm_campaign=1054&utm_source=git)** | Skokie, IL | On Site | Jan 30 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026- Human Resource Intern- Supply Chain](https://jobright.ai/jobs/info/697dac11ce48107c0541fa94?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
-| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Human Resources - Total Rewards](https://jobright.ai/jobs/info/6961e67cf3f4cd132506dca5?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Jan 30 |
-| **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Human Resources and Recruitment Intern](https://jobright.ai/jobs/info/697efb1e7f40342e15d7b608?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | On Site | Jan 30 |
-| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - HR, Talent Development](https://jobright.ai/jobs/info/697d90ac7f40342e15d67337?utm_campaign=1054&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 30 |
-| ↳ | **[Internship - HR, Talent Development](https://jobright.ai/jobs/info/697d8ba8abff4c399a9c4801?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 30 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d82faabff4c399a9c3b6b?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
