@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, People Services & Culture](https://jobright.ai/jobs/info/696496592cbf4e44756e107a?utm_campaign=1054&utm_source=git)** | Verona, WI | On Site | Feb 02 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/698062bcce48107c0544a067?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
 | ↳ | **[Retail Leadership Internship](https://jobright.ai/jobs/info/69806280abff4c399a9f2075?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
 | **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Internal Communications & Employee Experience Intern](https://jobright.ai/jobs/info/69805f74abff4c399a9f1de9?utm_campaign=1054&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/697d5f2c727747250d5842d9?utm_campaign=1054&utm_source=git)** | Schofield, WI | On Site | Jan 30 |
 | **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d5f263f57a335696740b2?utm_campaign=1054&utm_source=git)** | Carlsbad, California, United States | On Site | Jan 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/697d5cdc727747250d583fe6?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Jan 30 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d5c58137a051025667c0e?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
