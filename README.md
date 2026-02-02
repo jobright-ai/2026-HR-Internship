@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/68124c68988b4dafeeba1b55?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Feb 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/69341867f131d96e48469773?utm_campaign=1054&utm_source=git)** | Raynham, MA | On Site | Feb 02 |
+| ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/68f1a6bbf462172a5a7dae7a?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Feb 02 |
+| ↳ | **[Summer 2026 Management Trainee Intern - New Bedford/Dartmouth, MA](https://jobright.ai/jobs/info/69340ed3764507023d1bbb65?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Feb 02 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/691d72ea0b7dff734150393c?utm_campaign=1054&utm_source=git)** | Yocumtown, PA | On Site | Feb 02 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94105f383274918706e7?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Feb 02 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95928043103d4f229efc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 02 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, People Services & Culture](https://jobright.ai/jobs/info/696496592cbf4e44756e107a?utm_campaign=1054&utm_source=git)** | Verona, WI | On Site | Feb 02 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/698062bcce48107c0544a067?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
 | ↳ | **[Retail Leadership Internship](https://jobright.ai/jobs/info/69806280abff4c399a9f2075?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d693f727747250d584e4e?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Jan 30 |
 | **[HP](http://www.hp.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/69801061ce48107c054433c7?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
 | **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d87c7abff4c399a9c3eef?utm_campaign=1054&utm_source=git)** | Escondido, CA | On Site | Jan 30 |
-| ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d8670abff4c399a9c3db0?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Jan 30 |
-| **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Health and Network Solution Intern (Physician Contracting)](https://jobright.ai/jobs/info/697d6583137a0510256686a5?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Jan 30 |
-| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Strategic Development Intern](https://jobright.ai/jobs/info/697d6511137a05102566861a?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Jan 30 |
-| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d6191727747250d584542?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | Jan 30 |
-| **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/697d5f2c727747250d5842d9?utm_campaign=1054&utm_source=git)** | Schofield, WI | On Site | Jan 30 |
-| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d5f263f57a335696740b2?utm_campaign=1054&utm_source=git)** | Carlsbad, California, United States | On Site | Jan 30 |
-| **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/697d5cdc727747250d583fe6?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
