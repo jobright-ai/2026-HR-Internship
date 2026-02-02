@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JD.COM](http://corporate.jd.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6980c236abff4c399a9f829d?utm_campaign=1054&utm_source=git)** | Houston | On Site | Feb 02 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6980d24aabff4c399a9f90d0?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 02 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/695a0319f1f8465b79f061b8?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Feb 02 |
+| **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Internship](https://jobright.ai/jobs/info/6980cb6249964d25b5e389cc?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 02 |
+| **[Real Radiology, LLC](https://realrads.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6980c81babff4c399a9f8882?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 02 |
+| **[Mycronic](https://www.mycronic.com/)** | **[Intern, Human Resources (Spring 2026)](https://jobright.ai/jobs/info/696f035882817106e97621bb?utm_campaign=1054&utm_source=git)** | Tewksbury, MA | On Site | Feb 02 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6980b9fa49964d25b5e37f7b?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, CAN | On Site | Feb 02 |
 | ↳ | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6980b93babff4c399a9f7f5e?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, CAN | On Site | Feb 02 |
 | ↳ | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6980b81e7f40342e15d988bb?utm_campaign=1054&utm_source=git)** | Montréal, Quebec, CAN | On Site | Feb 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - HR, Talent Development](https://jobright.ai/jobs/info/697d90ac7f40342e15d67337?utm_campaign=1054&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 30 |
 | ↳ | **[Internship - HR, Talent Development](https://jobright.ai/jobs/info/697d8ba8abff4c399a9c4801?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jan 30 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d82faabff4c399a9c3b6b?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Jan 30 |
-| **[Charles Perry Partners, Inc.](https://cppi.com/)** | **[Intern- Human Resources (Gainesville, FL)](https://jobright.ai/jobs/info/697d821eabff4c399a9c3aa4?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Jan 30 |
-| **[Aramark Destinations](https://thenationsvacation.com/)** | **[Student HR Intern - Kutztown University](https://jobright.ai/jobs/info/697d81bcabff4c399a9c3a0a?utm_campaign=1054&utm_source=git)** | Kutztown, PA, US, 19530 | On Site | Jan 30 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Human Resources Paid Intern (one year/full time/April start)](https://jobright.ai/jobs/info/697d7c58727747250d586602?utm_campaign=1054&utm_source=git)** | Riverton, UT | Hybrid | Jan 30 |
-| **[JR Automation](https://www.jrautomation.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/69267959d47de4798ecd788f?utm_campaign=1054&utm_source=git)** | Holland, MI | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
