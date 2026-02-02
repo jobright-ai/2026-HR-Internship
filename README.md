@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Relay](https://relaypro.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698018d67f40342e15d8da3e?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Feb 01 |
 | **[Ferrara](https://www.ferrara.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69742752206da320f49e49b8?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Feb 01 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697fc1587f40342e15d86153?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Feb 01 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[HR Internship](https://jobright.ai/jobs/info/697fb9ea7f40342e15d8511b?utm_campaign=1054&utm_source=git)** | Reston VA | On Site | Feb 01 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697f7b687f40342e15d82643?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[People, Culture & Belonging Intern](https://jobright.ai/jobs/info/697f74de7f40342e15d8258b?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/695df6304b7a590c5b956748?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Feb 01 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/697f674aabff4c399a9e1473?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 01 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Industrial/Personnel Security Intern (Transitioning Military)](https://jobright.ai/jobs/info/6969bd841703f05405abb81e?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Feb 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68b9c6548043103d4f21a3e3?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Feb 01 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/68f37e1476a51a4307bce6b9?utm_campaign=1054&utm_source=git)** | Cactus, TX | On Site | Feb 01 |
@@ -142,6 +142,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d7084137a051025669376?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Jan 30 |
 | **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Director](https://jobright.ai/jobs/info/6961b263e7ed9a5731ba8671?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jan 30 |
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d693f727747250d584e4e?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Jan 30 |
+| **[HP](http://www.hp.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/69801061ce48107c054433c7?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
 | **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d87c7abff4c399a9c3eef?utm_campaign=1054&utm_source=git)** | Escondido, CA | On Site | Jan 30 |
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d8670abff4c399a9c3db0?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Jan 30 |
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Health and Network Solution Intern (Physician Contracting)](https://jobright.ai/jobs/info/697d6583137a0510256686a5?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d73b53f57a3356967587f?utm_campaign=1054&utm_source=git)** | Covenant Living Communities and Services- Skokie, IL | On Site | Jan 30 |
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d4f2c3f57a33569671b99?utm_campaign=1054&utm_source=git)** | Newark, NJ - Hybrid | Hybrid | Jan 30 |
 | **[Charles Perry Partners, Inc.](https://cppi.com/)** | **[Intern- Human Resources (Gainesville, FL)](https://jobright.ai/jobs/info/697d755b137a05102566983a?utm_campaign=1054&utm_source=git)** | Gainesville, Florida, United States | On Site | Jan 30 |
-| **[PCG](https://www.pcgservices.com/)** | **[Strategic Development Intern](https://jobright.ai/jobs/info/697d6e143f57a335696752ce?utm_campaign=1054&utm_source=git)** | Lenexa, KS, USA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
