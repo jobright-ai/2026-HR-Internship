@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69821215c3101f1400c3bb7e?utm_campaign=1054&utm_source=git)** | Baltimore | Hybrid | Feb 03 |
-| ↳ | **[Summer Internship Program](https://jobright.ai/jobs/info/698211dcc3101f1400c3bb60?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 03 |
+| **[FACC-NY | French American Chamber of Commerce - New York](https://www.faccnyc.org)** | **[Part-Time Intern - Paid](https://jobright.ai/jobs/info/69821da30f6f7e7a2cdb3b16?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Feb 03 |
+| **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69821a5e0f6f7e7a2cdb3917?utm_campaign=1054&utm_source=git)** | Boston | Hybrid | Feb 03 |
+| **[TTM Technologies](https://www.ttm.com/)** | **[Human Resource Intern - Part-Time Summer 2025 - Summer 2026](https://jobright.ai/jobs/info/69821992a314e7636905747a?utm_campaign=1054&utm_source=git)** | Remote - Texas | Remote | Feb 03 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 03 |
+| **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/698216800f6f7e7a2cdb3674?utm_campaign=1054&utm_source=git)** | Baltimore | Hybrid | Feb 03 |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694a343f7d506e3808f58052?utm_campaign=1054&utm_source=git)** | Ruston, LA | On Site | Feb 03 |
+| **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/698211dcc3101f1400c3bb60?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 03 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
 | ↳ | **[Summer 2026 Internship - Vanderbilt](https://jobright.ai/jobs/info/68bc806468300c452ca15b4e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Talent Acquisition](https://jobright.ai/jobs/info/694a3fed31c12007d3b90260?utm_campaign=1054&utm_source=git)** | Purchase, NY | Hybrid | Feb 03 |
@@ -139,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698141207f40342e15da3282?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 02 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong HR Communication Intern-Employee Engagement](https://jobright.ai/jobs/info/69816210abff4c399aa05955?utm_campaign=1054&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Feb 02 |
 | **[CN](http://www.cn.ca)** | **[Intern, HR - Indigenous- EN](https://jobright.ai/jobs/info/69813ca3abff4c399aa024b8?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
-| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/698164f6abff4c399aa05cd8?utm_campaign=1054&utm_source=git)** | US | Hybrid | Feb 02 |
-| ↳ | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/69815ed97f40342e15da61a9?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 02 |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/69815ed97f40342e15da61a9?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 02 |
+| ↳ | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/698164f6abff4c399aa05cd8?utm_campaign=1054&utm_source=git)** | US | Hybrid | Feb 02 |
 | **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/698184e97f40342e15da8e8d?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 02 |
 | **[Mid-Columbia Center for Living](https://www.mccfl.org)** | **[Adult Mental Health Specialist Internship](https://jobright.ai/jobs/info/6981661149964d25b5e45b93?utm_campaign=1054&utm_source=git)** | The Dalles, OR | On Site | Feb 02 |
 | **[Central Bank](https://www.centralbank.net/)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/69813b417f40342e15da2e8f?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Professional Intern – Business Professional Recruiting](https://jobright.ai/jobs/info/6981322849964d25b5e41467?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Holland, MI](https://jobright.ai/jobs/info/69812a407f40342e15da1011?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Feb 02 |
 | **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69812373abff4c399a9ff8b0?utm_campaign=1054&utm_source=git)** | Westborough, MA | On Site | Feb 02 |
-| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - HR Solutions](https://jobright.ai/jobs/info/69814773abff4c399aa02e8d?utm_campaign=1054&utm_source=git)** | Lancaster, PA | Hybrid | Feb 02 |
-| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/6981490c7f40342e15da3954?utm_campaign=1054&utm_source=git)** | United States | On Site | Feb 02 |
-| **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Human Resources Generalist Intern](https://jobright.ai/jobs/info/6981213a7f40342e15d9fea0?utm_campaign=1054&utm_source=git)** | Columbia, SC, United States | Hybrid | Feb 02 |
-| **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern - Airport Warehouse](https://jobright.ai/jobs/info/69811fb7abff4c399a9ff2bd?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Feb 02 |
-| **[Centene Corporation](http://www.centene.com)** | **[People Team Intern, People Business Partners (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69813bde7f40342e15da2f6a?utm_campaign=1054&utm_source=git)** | Remote-MO | Remote | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
