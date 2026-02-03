@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6965c9f42cbf4e44756f7289?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Feb 03 |
+| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Talent Management Intern](https://jobright.ai/jobs/info/6981ad9c49964d25b5e4bf5c?utm_campaign=1054&utm_source=git)** | Kansas City, KS | On Site | Feb 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6965d48b2cbf4e44756f91f7?utm_campaign=1054&utm_source=git)** | Lafayette, LA | On Site | Feb 02 |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Clinical Advisory Service Intern Summer Recruitment MD/VA/DC (Hybrid)](https://jobright.ai/jobs/info/6981a5c4abff4c399aa0bd81?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 02 |
+| **[Alabaster](https://www.alabasterco.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69819f2f7f40342e15dac19a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - Logan](https://jobright.ai/jobs/info/698192c27f40342e15daba02?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Feb 02 |
 | ↳ | **[Management Trainee Summer Internship - St. George](https://jobright.ai/jobs/info/69818e5249964d25b5e4a8e3?utm_campaign=1054&utm_source=git)** | St George, UT | On Site | Feb 02 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/696583be5ad3a93f8230ccec?utm_campaign=1054&utm_source=git)** | Ormond Beach, FL | On Site | Feb 02 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[WWE](http://wwe.com)** | **[Intern - Talent Development, WWE](https://jobright.ai/jobs/info/698183bfabff4c399aa09684?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/698163fcabff4c399aa05b9e?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 02 |
 | **[Textron](http://textron.com)** | **[2026 HR Compliance Intern](https://jobright.ai/jobs/info/69815ff7abff4c399aa0570f?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Feb 02 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Talent Management Intern](https://jobright.ai/jobs/info/69818965abff4c399aa0aa74?utm_campaign=1054&utm_source=git)** | Kansas City, KS | On Site | Feb 02 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69815a4e7f40342e15da5cfb?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 02 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6981578049964d25b5e44b1d?utm_campaign=1054&utm_source=git)** | Hilton Hawaiian Village2005 Kalia Road | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Talent Development, WWE](https://jobright.ai/jobs/info/698156e67f40342e15da5950?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
@@ -103,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698141207f40342e15da3282?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 02 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong HR Communication Intern-Employee Engagement](https://jobright.ai/jobs/info/69816210abff4c399aa05955?utm_campaign=1054&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Feb 02 |
 | **[CN](http://www.cn.ca)** | **[Intern, HR - Indigenous- EN](https://jobright.ai/jobs/info/69813ca3abff4c399aa024b8?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
-| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/69815ed97f40342e15da61a9?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 02 |
-| ↳ | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/698164f6abff4c399aa05cd8?utm_campaign=1054&utm_source=git)** | US | Hybrid | Feb 02 |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/698164f6abff4c399aa05cd8?utm_campaign=1054&utm_source=git)** | US | Hybrid | Feb 02 |
+| ↳ | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/69815ed97f40342e15da61a9?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 02 |
 | **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/698184e97f40342e15da8e8d?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 02 |
 | **[Mid-Columbia Center for Living](https://www.mccfl.org)** | **[Adult Mental Health Specialist Internship](https://jobright.ai/jobs/info/6981661149964d25b5e45b93?utm_campaign=1054&utm_source=git)** | The Dalles, OR | On Site | Feb 02 |
 | **[Central Bank](https://www.centralbank.net/)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/69813b417f40342e15da2e8f?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Feb 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6981122e49964d25b5e3e07d?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Feb 02 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[HR Intern (Spring Semester)](https://jobright.ai/jobs/info/69812f39abff4c399aa01424?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Feb 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Holland, MI](https://jobright.ai/jobs/info/69811c67abff4c399a9fed78?utm_campaign=1054&utm_source=git)** | Holland, MI, United States | On Site | Feb 02 |
-| **[Prairie Island Indian Community](https://prairieisland.org)** | **[TERO Intern](https://jobright.ai/jobs/info/69811eb47f40342e15d9faea?utm_campaign=1054&utm_source=git)** | Welch, Minnesota, United States | On Site | Feb 02 |
-| **[RJ Young](http://www.RJYoung.com)** | **[HR Internship](https://jobright.ai/jobs/info/69811e00abff4c399a9fefed?utm_campaign=1054&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 02 |
-| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - HR Solutions](https://jobright.ai/jobs/info/6981076d7f40342e15d9e094?utm_campaign=1054&utm_source=git)** | Lancaster, PA, US | Hybrid | Feb 02 |
-| ↳ | **[Intern - HR Solutions](https://jobright.ai/jobs/info/69810f2949964d25b5e3de9d?utm_campaign=1054&utm_source=git)** | US-PA-Lancaster | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
