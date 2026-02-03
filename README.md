@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Digital HR and Associate Experience](https://jobright.ai/jobs/info/6981517849964d25b5e445d1?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Feb 02 |
-| ↳ | **[Student Intern - HR Strategy - Business Partners](https://jobright.ai/jobs/info/698150f77f40342e15da5466?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Feb 02 |
+| **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6981578049964d25b5e44b1d?utm_campaign=1054&utm_source=git)** | Hilton Hawaiian Village2005 Kalia Road | On Site | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Talent Development, WWE](https://jobright.ai/jobs/info/698156e67f40342e15da5950?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Digital HR and Associate Experience](https://jobright.ai/jobs/info/6981557849964d25b5e448a2?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Feb 02 |
+| ↳ | **[Student Intern - HR Shared Services](https://jobright.ai/jobs/info/698153a37f40342e15da55dd?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Feb 02 |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698152827f40342e15da553b?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 02 |
+| **[ServiceTrade](http://servicetrade.com)** | **[People & Talent Strategy Intern](https://jobright.ai/jobs/info/69653cea2cbf4e44756eb258?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Feb 02 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - HR Strategy - Business Partners](https://jobright.ai/jobs/info/698150f77f40342e15da5466?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Feb 02 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Safety Internship Program - California Region 2025 – 2026](https://jobright.ai/jobs/info/698150e9abff4c399aa049a7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Feb 02 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/696b23d45fc86241853a8507?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Feb 02 |
 | **[ServiceTrade](http://servicetrade.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69653dc76d52670c5c3e04de?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Feb 02 |
@@ -80,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/698133a2abff4c399aa01a27?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 | ↳ | **[Business Professional Intern – Business Professional Recruiting](https://jobright.ai/jobs/info/6981322849964d25b5e41467?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Holland, MI](https://jobright.ai/jobs/info/69812a407f40342e15da1011?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Feb 02 |
-| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern - Associate Recruiting](https://jobright.ai/jobs/info/698124c77f40342e15da02ad?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 | **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69812373abff4c399a9ff8b0?utm_campaign=1054&utm_source=git)** | Westborough, MA | On Site | Feb 02 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - HR Solutions](https://jobright.ai/jobs/info/69814773abff4c399aa02e8d?utm_campaign=1054&utm_source=git)** | Lancaster, PA | Hybrid | Feb 02 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/6981490c7f40342e15da3954?utm_campaign=1054&utm_source=git)** | United States | On Site | Feb 02 |
@@ -121,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Holland, MI](https://jobright.ai/jobs/info/69811c67abff4c399a9fed78?utm_campaign=1054&utm_source=git)** | Holland, MI, United States | On Site | Feb 02 |
 | **[Prairie Island Indian Community](https://prairieisland.org)** | **[TERO Intern](https://jobright.ai/jobs/info/69811eb47f40342e15d9faea?utm_campaign=1054&utm_source=git)** | Welch, Minnesota, United States | On Site | Feb 02 |
 | **[RJ Young](http://www.RJYoung.com)** | **[HR Internship](https://jobright.ai/jobs/info/69811e00abff4c399a9fefed?utm_campaign=1054&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 02 |
-| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - HR Solutions](https://jobright.ai/jobs/info/6981076d7f40342e15d9e094?utm_campaign=1054&utm_source=git)** | Lancaster, PA, US | Hybrid | Feb 02 |
-| ↳ | **[Intern - HR Solutions](https://jobright.ai/jobs/info/69810f2949964d25b5e3de9d?utm_campaign=1054&utm_source=git)** | US-PA-Lancaster | Hybrid | Feb 02 |
+| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - HR Solutions](https://jobright.ai/jobs/info/69810f2949964d25b5e3de9d?utm_campaign=1054&utm_source=git)** | US-PA-Lancaster | Hybrid | Feb 02 |
+| ↳ | **[Intern - HR Solutions](https://jobright.ai/jobs/info/6981076d7f40342e15d9e094?utm_campaign=1054&utm_source=git)** | Lancaster, PA, US | Hybrid | Feb 02 |
 | **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Resource Management Intern](https://jobright.ai/jobs/info/69810d907f40342e15d9e8b1?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, New Jersey, United States | On Site | Feb 02 |
 | **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69810c06abff4c399a9fdc20?utm_campaign=1054&utm_source=git)** | Westborough, MA, US | On Site | Feb 02 |
 | **[LG Energy Solution](https://www.lgensol.com)** | **[Human Resources Internship - Summer 2026 (Culture & Development)](https://jobright.ai/jobs/info/6980e4f449964d25b5e3a77f?utm_campaign=1054&utm_source=git)** | Holland, MI, US | On Site | Feb 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/68b9c7bf6105227d11897a94?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Feb 02 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources Administrator](https://jobright.ai/jobs/info/695da554fbd62a0a656658ac?utm_campaign=1054&utm_source=git)** | Moonachie, NJ | On Site | Feb 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/68f2ab239a65fd345857ee2a?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Feb 02 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/68124c68988b4dafeeba1b55?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Feb 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/69341867f131d96e48469773?utm_campaign=1054&utm_source=git)** | Raynham, MA | On Site | Feb 02 |
-| ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/68f1a6bbf462172a5a7dae7a?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Feb 02 |
-| ↳ | **[Summer 2026 Management Trainee Intern - New Bedford/Dartmouth, MA](https://jobright.ai/jobs/info/69340ed3764507023d1bbb65?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
