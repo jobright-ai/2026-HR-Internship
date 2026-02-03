@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brose Group](https://www.brose.com/)** | **[Human Resources Intern (Year-Round / On-Site)](https://jobright.ai/jobs/info/69822896a314e76369057e57?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Feb 03 |
+| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[TA Inclusion Intern](https://jobright.ai/jobs/info/6982256ec3101f1400c3c817?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Feb 03 |
+| **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/6982211b0f6f7e7a2cdb3cc6?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Feb 03 |
 | **[FACC-NY | French American Chamber of Commerce - New York](https://www.faccnyc.org)** | **[Part-Time Intern - Paid](https://jobright.ai/jobs/info/69821da30f6f7e7a2cdb3b16?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Feb 03 |
 | **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69821a5e0f6f7e7a2cdb3917?utm_campaign=1054&utm_source=git)** | Boston | Hybrid | Feb 03 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Human Resource Intern - Part-Time Summer 2025 - Summer 2026](https://jobright.ai/jobs/info/69821992a314e7636905747a?utm_campaign=1054&utm_source=git)** | Remote - Texas | Remote | Feb 03 |
@@ -64,6 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/698216800f6f7e7a2cdb3674?utm_campaign=1054&utm_source=git)** | Baltimore | Hybrid | Feb 03 |
 | **[Origin Bank](https://www.origin.bank/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694a343f7d506e3808f58052?utm_campaign=1054&utm_source=git)** | Ruston, LA | On Site | Feb 03 |
 | **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/698211dcc3101f1400c3bb60?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 03 |
+| **[Nonprofits First](https://www.nonprofitsfirst.org)** | **[Join our Executive Volunteer Corps - Intern Recruitment](https://jobright.ai/jobs/info/698229fca314e76369057f09?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Feb 03 |
+| **[ICDR International](https://www.icdrintl.org)** | **[VOLUNTEER/ INTERNSHIP OPPORTUNITIES](https://jobright.ai/jobs/info/698224a7c3101f1400c3c780?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Feb 03 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
 | ↳ | **[Summer 2026 Internship - Vanderbilt](https://jobright.ai/jobs/info/68bc806468300c452ca15b4e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Talent Acquisition](https://jobright.ai/jobs/info/694a3fed31c12007d3b90260?utm_campaign=1054&utm_source=git)** | Purchase, NY | Hybrid | Feb 03 |
@@ -113,12 +118,10 @@ For a complete list, click the following sortable link below:
 | **[Nicholas and Company Inc. Foodservice](https://www.nicholasandco.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/6981824e7f40342e15da8d50?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, US | On Site | Feb 02 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Corporate Executive Benefits Intern](https://jobright.ai/jobs/info/698181afabff4c399aa08b96?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/6981817e7f40342e15da8ca7?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 02 |
-| **[Brose Group](https://www.brose.com/)** | **[Human Resources Intern (Year-Round / On-Site)](https://jobright.ai/jobs/info/69817dd349964d25b5e47c39?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Feb 02 |
 | **[Centene Corporation](http://www.centene.com)** | **[People Team Intern, People Business Partners (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698177c449964d25b5e47062?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Feb 02 |
 | **[Woodside Energy](http://www.woodside.com.au)** | **[Early Careers Pathway Human Resources Internship](https://jobright.ai/jobs/info/6981746fabff4c399aa0716a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 02 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Operations Professional Intern](https://jobright.ai/jobs/info/698167d949964d25b5e45dbb?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 02 |
 | **[WWE](http://wwe.com)** | **[Intern - Talent Development, WWE](https://jobright.ai/jobs/info/698183bfabff4c399aa09684?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/698163fcabff4c399aa05b9e?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 02 |
 | **[Textron](http://textron.com)** | **[2026 HR Compliance Intern](https://jobright.ai/jobs/info/69815ff7abff4c399aa0570f?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Feb 02 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69815a4e7f40342e15da5cfb?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 02 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6981578049964d25b5e44b1d?utm_campaign=1054&utm_source=git)** | Hilton Hawaiian Village2005 Kalia Road | On Site | Feb 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/698136a649964d25b5e419db?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 02 |
 | **[WWE](http://wwe.com)** | **[Intern - Talent Development, WWE](https://jobright.ai/jobs/info/6981346f7f40342e15da24ae?utm_campaign=1054&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/698133a2abff4c399aa01a27?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
-| ↳ | **[Business Professional Intern – Business Professional Recruiting](https://jobright.ai/jobs/info/6981322849964d25b5e41467?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Holland, MI](https://jobright.ai/jobs/info/69812a407f40342e15da1011?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Feb 02 |
-| **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69812373abff4c399a9ff8b0?utm_campaign=1054&utm_source=git)** | Westborough, MA | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
