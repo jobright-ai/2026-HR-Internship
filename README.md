@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/697d5cdc727747250d583fe6?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Feb 03 |
+| **[Faurecia](https://www.forvia.com)** | **[HR Intern](https://jobright.ai/jobs/info/698252a40f6f7e7a2cdb7958?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Feb 03 |
+| **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Talent Acquisition Operations Intern](https://jobright.ai/jobs/info/698252420f6f7e7a2cdb78e6?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Feb 03 |
+| **[Cerity Partners](https://ceritypartners.com/)** | **[Retirement Plan Services Internship](https://jobright.ai/jobs/info/698251070a9e07331f8d4e24?utm_campaign=1054&utm_source=git)** | West Conshohocken, PA | On Site | Feb 03 |
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69824eb70a9e07331f8d4b1b?utm_campaign=1054&utm_source=git)** | Englewood, Colorado, United States | On Site | Feb 03 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Business Partner Graduate Intern](https://jobright.ai/jobs/info/6970422c333b6343a14caa0f?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/698242fb0f6f7e7a2cdb6c2a?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Feb 03 |
@@ -66,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 03 |
 | **[Breakthrough T1D](https://www.breakthrought1d.org/)** | **[Intern, Talent Management – Talent & Performance](https://jobright.ai/jobs/info/698231800f6f7e7a2cdb5786?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[OPmobility](https://www.opmobility.com)** | **[HR INTERN](https://jobright.ai/jobs/info/692fc80d4c474121999e274b?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 03 |
+| **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977dd2afdeb8243a27acf6d?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Feb 03 |
 | **[Brose Group](https://www.brose.com/)** | **[Human Resources Intern (Year-Round / On-Site)](https://jobright.ai/jobs/info/69822896a314e76369057e57?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Feb 03 |
 | **[Virtua Health](https://www.virtua.org/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6982476a0f6f7e7a2cdb705b?utm_campaign=1054&utm_source=git)** | Marlton, NJ | Hybrid | Feb 03 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[TA Inclusion Intern](https://jobright.ai/jobs/info/6982256ec3101f1400c3c817?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Feb 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - HRIS](https://jobright.ai/jobs/info/698144efabff4c399aa02c7f?utm_campaign=1054&utm_source=git)** | Eagan, MN | Hybrid | Feb 02 |
 | **[Tencent](https://www.tencent.com/)** | **[Talent Acquisition Operations Intern](https://jobright.ai/jobs/info/698144e77f40342e15da3657?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Feb 02 |
 | **[KRAFTON Inc.](https://www.krafton.com)** | **[Internship : HR](https://jobright.ai/jobs/info/698144b27f40342e15da361e?utm_campaign=1054&utm_source=git)** | El Segundo, CA | On Site | Feb 02 |
-| **[Ryerson](https://www.ryerson.com)** | **[HR Intern](https://jobright.ai/jobs/info/697816c088e2b47213bc160b?utm_campaign=1054&utm_source=git)** | Coon Rapids, MN | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Talent Development, WWE](https://jobright.ai/jobs/info/6981422849964d25b5e425ce?utm_campaign=1054&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
-| **[Coach USA](http://www.coachusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698141e849964d25b5e42593?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Feb 02 |
-| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698141207f40342e15da3282?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 02 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong HR Communication Intern-Employee Engagement](https://jobright.ai/jobs/info/69816210abff4c399aa05955?utm_campaign=1054&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
