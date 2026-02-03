@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - Logan](https://jobright.ai/jobs/info/698192c27f40342e15daba02?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Feb 02 |
+| ↳ | **[Management Trainee Summer Internship - St. George](https://jobright.ai/jobs/info/69818e5249964d25b5e4a8e3?utm_campaign=1054&utm_source=git)** | St George, UT | On Site | Feb 02 |
+| **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/696583be5ad3a93f8230ccec?utm_campaign=1054&utm_source=git)** | Ormond Beach, FL | On Site | Feb 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6965d4892cbf4e44756f91f6?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Feb 02 |
+| ↳ | **[Summer 2026 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/69818c737f40342e15dab3ea?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Feb 02 |
+| ↳ | **[Management Trainee Summer Internship - Provo](https://jobright.ai/jobs/info/69818b15abff4c399aa0ad21?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | Feb 02 |
+| **[HP](http://www.hp.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/69801061ce48107c054433c7?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Feb 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - Ogden](https://jobright.ai/jobs/info/69818a4dabff4c399aa0abcc?utm_campaign=1054&utm_source=git)** | Ogden, UT | On Site | Feb 02 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 HR Compliance Intern](https://jobright.ai/jobs/info/6981874f49964d25b5e488a2?utm_campaign=1054&utm_source=git)** | US-Georgia-Augusta | On Site | Feb 02 |
 | **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/69803a06abff4c399a9f0034?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Feb 02 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Lenox - HR Intern (NYC)](https://jobright.ai/jobs/info/698186a249964d25b5e48437?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
@@ -70,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[WWE](http://wwe.com)** | **[Intern - Talent Development, WWE](https://jobright.ai/jobs/info/698183bfabff4c399aa09684?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/698163fcabff4c399aa05b9e?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 02 |
 | **[Textron](http://textron.com)** | **[2026 HR Compliance Intern](https://jobright.ai/jobs/info/69815ff7abff4c399aa0570f?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Feb 02 |
+| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Talent Management Intern](https://jobright.ai/jobs/info/69818965abff4c399aa0aa74?utm_campaign=1054&utm_source=git)** | Kansas City, KS | On Site | Feb 02 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69815a4e7f40342e15da5cfb?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 02 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6981578049964d25b5e44b1d?utm_campaign=1054&utm_source=git)** | Hilton Hawaiian Village2005 Kalia Road | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Talent Development, WWE](https://jobright.ai/jobs/info/698156e67f40342e15da5950?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
@@ -128,10 +137,10 @@ For a complete list, click the following sortable link below:
 | **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[Learning and Development - Summer Intern](https://jobright.ai/jobs/info/697eef207f40342e15d7ada8?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Feb 02 |
 | **[RJ Young](http://www.RJYoung.com)** | **[HR Internship](https://jobright.ai/jobs/info/69812da3abff4c399aa00f06?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Feb 02 |
 | **[Ethical and Sustainable Sourcing #ESSourcing](https://www.eandsources.com)** | **[Spring 2026 HR Intern](https://jobright.ai/jobs/info/69810504abff4c399a9fd36a?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Feb 02 |
-| **[Advertising Specialty Institute](http://asicentral.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6981175eabff4c399a9fe600?utm_campaign=1054&utm_source=git)** | Trevose, PA | Hybrid | Feb 02 |
 | **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698103fc7f40342e15d9dda1?utm_campaign=1054&utm_source=git)** | St. Charles, MO | On Site | Feb 02 |
 | **[Intact](http://www.intactfc.com)** | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6981020249964d25b5e3cee5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Talent Acquisition Systems & Operations Intern](https://jobright.ai/jobs/info/6981019a7f40342e15d9da98?utm_campaign=1054&utm_source=git)** | Muncy, PA | On Site | Feb 02 |
+| **[Advertising Specialty Institute](http://asicentral.com/)** | **[People Experience/Human Resources Intern](https://jobright.ai/jobs/info/6981175eabff4c399a9fe600?utm_campaign=1054&utm_source=git)** | Trevose, PA | Hybrid | Feb 02 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697db3807f40342e15d69b46?utm_campaign=1054&utm_source=git)** | Skokie, IL | On Site | Feb 02 |
 | **[BBYO](https://www.bbyo.org)** | **[Movement Experience Internship](https://jobright.ai/jobs/info/69811aeeabff4c399a9feb2d?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Feb 02 |
 | **[Spurwink](http://www.spurwink.org)** | **[Internship - Healthcare Services Administration](https://jobright.ai/jobs/info/69811fab7f40342e15d9fc2c?utm_campaign=1054&utm_source=git)** | Westbrook, ME | Hybrid | Feb 02 |
@@ -146,15 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Holland, MI](https://jobright.ai/jobs/info/69811c67abff4c399a9fed78?utm_campaign=1054&utm_source=git)** | Holland, MI, United States | On Site | Feb 02 |
 | **[Prairie Island Indian Community](https://prairieisland.org)** | **[TERO Intern](https://jobright.ai/jobs/info/69811eb47f40342e15d9faea?utm_campaign=1054&utm_source=git)** | Welch, Minnesota, United States | On Site | Feb 02 |
 | **[RJ Young](http://www.RJYoung.com)** | **[HR Internship](https://jobright.ai/jobs/info/69811e00abff4c399a9fefed?utm_campaign=1054&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 02 |
-| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - HR Solutions](https://jobright.ai/jobs/info/69810f2949964d25b5e3de9d?utm_campaign=1054&utm_source=git)** | US-PA-Lancaster | Hybrid | Feb 02 |
-| ↳ | **[Intern - HR Solutions](https://jobright.ai/jobs/info/6981076d7f40342e15d9e094?utm_campaign=1054&utm_source=git)** | Lancaster, PA, US | Hybrid | Feb 02 |
-| **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Resource Management Intern](https://jobright.ai/jobs/info/69810d907f40342e15d9e8b1?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, New Jersey, United States | On Site | Feb 02 |
-| **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69810c06abff4c399a9fdc20?utm_campaign=1054&utm_source=git)** | Westborough, MA, US | On Site | Feb 02 |
-| **[LG Energy Solution](https://www.lgensol.com)** | **[Human Resources Internship - Summer 2026 (Culture & Development)](https://jobright.ai/jobs/info/6980e4f449964d25b5e3a77f?utm_campaign=1054&utm_source=git)** | Holland, MI, US | On Site | Feb 02 |
-| ↳ | **[Human Resources Internship - Summer 2026 (Culture & Development)](https://jobright.ai/jobs/info/6980e4b1abff4c399a9fa9f7?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Feb 02 |
-| **[Pretium Enterprise Services, India](www.pretium.com)** | **[People Operations/Human Resource Intern](https://jobright.ai/jobs/info/6980e3f37f40342e15d9b3fb?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Feb 02 |
-| **[Ardent Mills](https://www.ardentmills.com/)** | **[AMIC-Denver GRQ 2026 Summer Intern](https://jobright.ai/jobs/info/6980e24f49964d25b5e39c7e?utm_campaign=1054&utm_source=git)** | Denver CO | On Site | Feb 02 |
-| **[Real Radiology, LLC](https://realrads.com/)** | **[Physician Services Credentialing Intern](https://jobright.ai/jobs/info/6980e02549964d25b5e39785?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 02 |
-| **[Health-E Commerce](https://www.health-ecommerce.com)** | **[HR Intern](https://jobright.ai/jobs/info/6980e00249964d25b5e3976e?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 02 |
-| **[Progress Residential®](http://rentprogress.com)** | **[People Operations/Human Resource Intern](https://jobright.ai/jobs/info/698103ca49964d25b5e3d12f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Feb 02 |
+| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - HR Solutions](https://jobright.ai/jobs/info/6981076d7f40342e15d9e094?utm_campaign=1054&utm_source=git)** | Lancaster, PA, US | Hybrid | Feb 02 |
+| ↳ | **[Intern - HR Solutions](https://jobright.ai/jobs/info/69810f2949964d25b5e3de9d?utm_campaign=1054&utm_source=git)** | US-PA-Lancaster | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
