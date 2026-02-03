@@ -57,11 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69824eb70a9e07331f8d4b1b?utm_campaign=1054&utm_source=git)** | Englewood, Colorado, United States | On Site | Feb 03 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Business Partner Graduate Intern](https://jobright.ai/jobs/info/6970422c333b6343a14caa0f?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/698242fb0f6f7e7a2cdb6c2a?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Feb 03 |
+| **[TTM Technologies](https://www.ttm.com/)** | **[Human Resource Intern - Part-Time Summer 2025 - Summer 2026](https://jobright.ai/jobs/info/698241f2a314e7636905a6f6?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Feb 03 |
+| **[AriZona Beverage Co.](https://www.drinkarizona.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69823c8bc3101f1400c3ed90?utm_campaign=1054&utm_source=git)** | Woodbury, NY | On Site | Feb 03 |
+| **[Virtua Health](https://www.virtua.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69823879a314e76369059e0c?utm_campaign=1054&utm_source=git)** | Marlton, NJ | On Site | Feb 03 |
+| **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 03 |
+| **[Breakthrough T1D](https://www.breakthrought1d.org/)** | **[Intern, Talent Management – Talent & Performance](https://jobright.ai/jobs/info/698231800f6f7e7a2cdb5786?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 03 |
+| **[OPmobility](https://www.opmobility.com)** | **[HR INTERN](https://jobright.ai/jobs/info/692fc80d4c474121999e274b?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 03 |
 | **[Brose Group](https://www.brose.com/)** | **[Human Resources Intern (Year-Round / On-Site)](https://jobright.ai/jobs/info/69822896a314e76369057e57?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Feb 03 |
+| **[Virtua Health](https://www.virtua.org/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6982476a0f6f7e7a2cdb705b?utm_campaign=1054&utm_source=git)** | Marlton, NJ | Hybrid | Feb 03 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[TA Inclusion Intern](https://jobright.ai/jobs/info/6982256ec3101f1400c3c817?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Feb 03 |
 | **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/6982211b0f6f7e7a2cdb3cc6?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Feb 03 |
 | **[FACC-NY | French American Chamber of Commerce - New York](https://www.faccnyc.org)** | **[Part-Time Intern - Paid](https://jobright.ai/jobs/info/69821da30f6f7e7a2cdb3b16?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Feb 03 |
 | **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69821a5e0f6f7e7a2cdb3917?utm_campaign=1054&utm_source=git)** | Boston | Hybrid | Feb 03 |
+| **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/69823b0bc3101f1400c3ec0d?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Feb 03 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Human Resource Intern - Part-Time Summer 2025 - Summer 2026](https://jobright.ai/jobs/info/69821992a314e7636905747a?utm_campaign=1054&utm_source=git)** | Remote - Texas | Remote | Feb 03 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 03 |
 | **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/698216800f6f7e7a2cdb3674?utm_campaign=1054&utm_source=git)** | Baltimore | Hybrid | Feb 03 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coach USA](http://www.coachusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698141e849964d25b5e42593?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Feb 02 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698141207f40342e15da3282?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 02 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong HR Communication Intern-Employee Engagement](https://jobright.ai/jobs/info/69816210abff4c399aa05955?utm_campaign=1054&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Feb 02 |
-| **[CN](http://www.cn.ca)** | **[Intern, HR - Indigenous- EN](https://jobright.ai/jobs/info/69813ca3abff4c399aa024b8?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
-| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/69815ed97f40342e15da61a9?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 02 |
-| ↳ | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/698164f6abff4c399aa05cd8?utm_campaign=1054&utm_source=git)** | US | Hybrid | Feb 02 |
-| **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/698184e97f40342e15da8e8d?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 02 |
-| **[Mid-Columbia Center for Living](https://www.mccfl.org)** | **[Adult Mental Health Specialist Internship](https://jobright.ai/jobs/info/6981661149964d25b5e45b93?utm_campaign=1054&utm_source=git)** | The Dalles, OR | On Site | Feb 02 |
-| **[Central Bank](https://www.centralbank.net/)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/69813b417f40342e15da2e8f?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Feb 02 |
-| **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - HR](https://jobright.ai/jobs/info/698138b3abff4c399aa020c1?utm_campaign=1054&utm_source=git)** | Eagan, MN | Hybrid | Feb 02 |
-| **[Tencent](https://www.tencent.com/)** | **[Talent Acquisition Operations Intern](https://jobright.ai/jobs/info/6981379649964d25b5e41b25?utm_campaign=1054&utm_source=git)** | US-California-Palo Alto | On Site | Feb 02 |
-| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/698136a649964d25b5e419db?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 02 |
-| **[WWE](http://wwe.com)** | **[Intern - Talent Development, WWE](https://jobright.ai/jobs/info/6981346f7f40342e15da24ae?utm_campaign=1054&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
-| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/698133a2abff4c399aa01a27?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
