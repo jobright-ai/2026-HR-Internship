@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69821215c3101f1400c3bb7e?utm_campaign=1054&utm_source=git)** | Baltimore | Hybrid | Feb 03 |
+| ↳ | **[Summer Internship Program](https://jobright.ai/jobs/info/698211dcc3101f1400c3bb60?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 03 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
+| ↳ | **[Summer 2026 Internship - Vanderbilt](https://jobright.ai/jobs/info/68bc806468300c452ca15b4e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
+| **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Talent Acquisition](https://jobright.ai/jobs/info/694a3fed31c12007d3b90260?utm_campaign=1054&utm_source=git)** | Purchase, NY | Hybrid | Feb 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Beckley, WV](https://jobright.ai/jobs/info/692e5054ef4b48533d13e9af?utm_campaign=1054&utm_source=git)** | Beckley, WV | On Site | Feb 03 |
+| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6981fd54c3101f1400c3ad8c?utm_campaign=1054&utm_source=git)** | Coppell, TX | Hybrid | Feb 03 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d720bbd3fe025a3015f22b?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/692e5b964c474121999d8c12?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Feb 03 |
 | **[Sony](https://www.sony.com)** | **[CSR & Social Impact Intern](https://jobright.ai/jobs/info/696583025ad3a93f8230cbbe?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 03 |
 | **[Peabody Energy](http://www.peabodyenergy.com)** | **[HR Intern](https://jobright.ai/jobs/info/694a3eb831c12007d3b90162?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Feb 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Human Resources Generalist Intern](https://jobright.ai/jobs/info/6981213a7f40342e15d9fea0?utm_campaign=1054&utm_source=git)** | Columbia, SC, United States | Hybrid | Feb 02 |
 | **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern - Airport Warehouse](https://jobright.ai/jobs/info/69811fb7abff4c399a9ff2bd?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Feb 02 |
 | **[Centene Corporation](http://www.centene.com)** | **[People Team Intern, People Business Partners (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69813bde7f40342e15da2f6a?utm_campaign=1054&utm_source=git)** | Remote-MO | Remote | Feb 02 |
-| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Lateral Partner Recruiting](https://jobright.ai/jobs/info/69813b1a7f40342e15da2e61?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 02 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 HR Compliance Intern](https://jobright.ai/jobs/info/69813c9b7f40342e15da3092?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Feb 02 |
-| **[AFB International](http://afbinternational.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69811b32abff4c399a9feba3?utm_campaign=1054&utm_source=git)** | Greater St. Louis | On Site | Feb 02 |
-| **[Peninsula Humane Society & SPCA](https://phs-spca.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698135ad49964d25b5e41868?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Feb 02 |
-| **[Endeavor Health](https://www.endeavorhealth.org)** | **[Dermatology Research Internship (Seasonal Employee)](https://jobright.ai/jobs/info/698134f849964d25b5e41763?utm_campaign=1054&utm_source=git)** | Skokie, IL | On Site | Feb 02 |
-| **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Associate, Tampa - USA, 2026](https://jobright.ai/jobs/info/692f118f4c474121999dc1bf?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Feb 02 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 People Development Intern](https://jobright.ai/jobs/info/698115d649964d25b5e3e43e?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
-| **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698115a67f40342e15d9f011?utm_campaign=1054&utm_source=git)** | Park Ridge, NJ | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
