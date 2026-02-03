@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hoffmaster](http://hoffmastergroupinc.com)** | **[HR Intern Talent Attraction](https://jobright.ai/jobs/info/694a10c463141d188459b7b4?utm_campaign=1054&utm_source=git)** | Oshkosh, WI | On Site | Feb 03 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[Winchester HR Talent Acquisition Intern - 2026](https://jobright.ai/jobs/info/6981d9f3a314e76369053d30?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Feb 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6965d56e5ad3a93f8231474f?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Feb 03 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/695ddd70924bd9135dd46d00?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Feb 03 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698141207f40342e15da3282?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 02 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong HR Communication Intern-Employee Engagement](https://jobright.ai/jobs/info/69816210abff4c399aa05955?utm_campaign=1054&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Feb 02 |
 | **[CN](http://www.cn.ca)** | **[Intern, HR - Indigenous- EN](https://jobright.ai/jobs/info/69813ca3abff4c399aa024b8?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
-| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/698164f6abff4c399aa05cd8?utm_campaign=1054&utm_source=git)** | US | Hybrid | Feb 02 |
-| ↳ | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/69815ed97f40342e15da61a9?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 02 |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/69815ed97f40342e15da61a9?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 02 |
+| ↳ | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/698164f6abff4c399aa05cd8?utm_campaign=1054&utm_source=git)** | US | Hybrid | Feb 02 |
 | **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/698184e97f40342e15da8e8d?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 02 |
 | **[Mid-Columbia Center for Living](https://www.mccfl.org)** | **[Adult Mental Health Specialist Internship](https://jobright.ai/jobs/info/6981661149964d25b5e45b93?utm_campaign=1054&utm_source=git)** | The Dalles, OR | On Site | Feb 02 |
 | **[Central Bank](https://www.centralbank.net/)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/69813b417f40342e15da2e8f?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Feb 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ethical and Sustainable Sourcing #ESSourcing](https://www.eandsources.com)** | **[Spring 2026 HR Intern](https://jobright.ai/jobs/info/69810504abff4c399a9fd36a?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Feb 02 |
 | **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698103fc7f40342e15d9dda1?utm_campaign=1054&utm_source=git)** | St. Charles, MO | On Site | Feb 02 |
 | **[Intact](http://www.intactfc.com)** | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6981020249964d25b5e3cee5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
-| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Talent Acquisition Systems & Operations Intern](https://jobright.ai/jobs/info/6981019a7f40342e15d9da98?utm_campaign=1054&utm_source=git)** | Muncy, PA | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
