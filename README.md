@@ -57,10 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/692e5b964c474121999d8c12?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Feb 03 |
+| **[Sony](https://www.sony.com)** | **[CSR & Social Impact Intern](https://jobright.ai/jobs/info/696583025ad3a93f8230cbbe?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 03 |
+| **[Peabody Energy](http://www.peabodyenergy.com)** | **[HR Intern](https://jobright.ai/jobs/info/694a3eb831c12007d3b90162?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Feb 03 |
+| **[Magna International](http://www.magna.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69651b2a2cbf4e44756e8632?utm_campaign=1054&utm_source=git)** | Holly, MI | On Site | Feb 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6933a18aa0dde7020e2efbe6?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Feb 03 |
+| ↳ | **[Management Trainee Intern - Princeton, WV](https://jobright.ai/jobs/info/6933ef24f131d96e48468525?utm_campaign=1054&utm_source=git)** | Princeton, WV | On Site | Feb 03 |
+| **[Haemonetics](http://www.haemonetics.com)** | **[Intern Talent Acquisition (Jan-Aug Requirement)](https://jobright.ai/jobs/info/694a18fcc6f0e2546cef2033?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Feb 03 |
+| **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Director](https://jobright.ai/jobs/info/694a0acb63141d188459a6f0?utm_campaign=1054&utm_source=git)** | Lansdowne, VA | On Site | Feb 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Charleston, WV](https://jobright.ai/jobs/info/69340f2c764507023d1bbc8f?utm_campaign=1054&utm_source=git)** | Charleston, WV | On Site | Feb 03 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[HR Intern Talent Attraction](https://jobright.ai/jobs/info/694a10c463141d188459b7b4?utm_campaign=1054&utm_source=git)** | Oshkosh, WI | On Site | Feb 03 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[Winchester HR Talent Acquisition Intern - 2026](https://jobright.ai/jobs/info/6981d9f3a314e76369053d30?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Feb 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6965d56e5ad3a93f8231474f?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Feb 03 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/695ddd70924bd9135dd46d00?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Feb 03 |
+| **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Director](https://jobright.ai/jobs/info/694a0f1763141d188459b30d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
 | **[Quiddity](https://quiddity.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6965aa872cbf4e44756f5804?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Feb 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6965d56ca112b4026613f148?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Feb 03 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6965d722a112b4026613f21d?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Feb 03 |
@@ -121,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698141207f40342e15da3282?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 02 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong HR Communication Intern-Employee Engagement](https://jobright.ai/jobs/info/69816210abff4c399aa05955?utm_campaign=1054&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Feb 02 |
 | **[CN](http://www.cn.ca)** | **[Intern, HR - Indigenous- EN](https://jobright.ai/jobs/info/69813ca3abff4c399aa024b8?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
-| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/69815ed97f40342e15da61a9?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 02 |
-| ↳ | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/698164f6abff4c399aa05cd8?utm_campaign=1054&utm_source=git)** | US | Hybrid | Feb 02 |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/698164f6abff4c399aa05cd8?utm_campaign=1054&utm_source=git)** | US | Hybrid | Feb 02 |
+| ↳ | **[TekSynap Internship- Proposal Recruiting](https://jobright.ai/jobs/info/69815ed97f40342e15da61a9?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 02 |
 | **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/698184e97f40342e15da8e8d?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 02 |
 | **[Mid-Columbia Center for Living](https://www.mccfl.org)** | **[Adult Mental Health Specialist Internship](https://jobright.ai/jobs/info/6981661149964d25b5e45b93?utm_campaign=1054&utm_source=git)** | The Dalles, OR | On Site | Feb 02 |
 | **[Central Bank](https://www.centralbank.net/)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/69813b417f40342e15da2e8f?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Feb 02 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Associate, Tampa - USA, 2026](https://jobright.ai/jobs/info/692f118f4c474121999dc1bf?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Feb 02 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 People Development Intern](https://jobright.ai/jobs/info/698115d649964d25b5e3e43e?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
 | **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698115a67f40342e15d9f011?utm_campaign=1054&utm_source=git)** | Park Ridge, NJ | Hybrid | Feb 02 |
-| **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Retirement Services](https://jobright.ai/jobs/info/6981134c7f40342e15d9ed6a?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
-| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Operations Professional Intern](https://jobright.ai/jobs/info/69812e0b49964d25b5e40b52?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Feb 02 |
-| **[Peckham Industries, Inc.](http://peckham.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69812a5749964d25b5e40175?utm_campaign=1054&utm_source=git)** | Brewster, NY | On Site | Feb 02 |
-| **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69810917abff4c399a9fd86e?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Hybrid | Feb 02 |
-| **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/69810832abff4c399a9fd766?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 02 |
-| **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[Learning and Development - Summer Intern](https://jobright.ai/jobs/info/697eef207f40342e15d7ada8?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Feb 02 |
-| **[RJ Young](http://www.RJYoung.com)** | **[HR Internship](https://jobright.ai/jobs/info/69812da3abff4c399aa00f06?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Feb 02 |
-| **[Ethical and Sustainable Sourcing #ESSourcing](https://www.eandsources.com)** | **[Spring 2026 HR Intern](https://jobright.ai/jobs/info/69810504abff4c399a9fd36a?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Feb 02 |
-| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698103fc7f40342e15d9dda1?utm_campaign=1054&utm_source=git)** | St. Charles, MO | On Site | Feb 02 |
-| **[Intact](http://www.intactfc.com)** | **[Career Opportunities for Indigenous Peoples – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/6981020249964d25b5e3cee5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
