@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProAmpac](http://www.proampac.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6966bd24a112b4026614b668?utm_campaign=1054&utm_source=git)** | Hanover, OH | Hybrid | Feb 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/694b7f1ad64ebf28d821460c?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Feb 04 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68db932d9f13662d20e4e58b?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ | On Site | Feb 04 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Feb 04 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Feb 04 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern - Summer 2026 (Mentor, OH)](https://jobright.ai/jobs/info/6969f951639b452fb57fefe9?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Feb 04 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 04 |
 | ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 04 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Intern](https://jobright.ai/jobs/info/6933f3d6a0dde7020e2f34de?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ | On Site | Feb 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Webber - Human Resources Intern - Infrastructure Management](https://jobright.ai/jobs/info/69826104348f733a5c353185?utm_campaign=1054&utm_source=git)** | York, Ontario, Canada | On Site | Feb 03 |
 | **[AriZona Beverage Co.](https://www.drinkarizona.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69823c8bc3101f1400c3ed90?utm_campaign=1054&utm_source=git)** | Woodbury, NY | On Site | Feb 03 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Human Resources- Talent Development Intern](https://jobright.ai/jobs/info/69825e390f6f7e7a2cdb87e0?utm_campaign=1054&utm_source=git)** | Minneapolis - Corporate | Hybrid | Feb 03 |
-| **[Cerity Partners](https://ceritypartners.com/)** | **[Retirement Plan Services Internship](https://jobright.ai/jobs/info/69825c610f6f7e7a2cdb8573?utm_campaign=1054&utm_source=git)** | Los Angeles Office | On Site | Feb 03 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Operations Support Associate, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69826424348f733a5c35358a?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Feb 03 |
-| **[Virtua Health](https://www.virtua.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69823879a314e76369059e0c?utm_campaign=1054&utm_source=git)** | Marlton, NJ | On Site | Feb 03 |
-| **[The State Group](https://www.stategroup.com)** | **[HR Intern - 2026-2027 Program](https://jobright.ai/jobs/info/69825f8a0a9e07331f8d618a?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 03 |
-| **[The Timken Company](http://www.timken.com)** | **[Talent Acquisition Intern - Spring & Summer 2026](https://jobright.ai/jobs/info/698257460f6f7e7a2cdb7f15?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Feb 03 |
-| **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
