@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b6258232105a2d0b091e?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 03 |
+| ↳ | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b4fb0f6f7e7a2cdc07b6?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 03 |
+| ↳ | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b2b9348f733a5c35abc1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
+| ↳ | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b2248232105a2d0b04b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
+| **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[HR Intern](https://jobright.ai/jobs/info/6982b190348f733a5c35aa6c?utm_campaign=1054&utm_source=git)** | Hauppauge, NY | On Site | Feb 03 |
+| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[TA Inclusion Intern](https://jobright.ai/jobs/info/6982ae240f6f7e7a2cdc001a?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Feb 03 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Human Resources Coordinator Intern – ROC Operations](https://jobright.ai/jobs/info/6982adf50f6f7e7a2cdbffef?utm_campaign=1054&utm_source=git)** | Oak Creek, WI | On Site | Feb 03 |
+| **[City of North Myrtle Beach](http://www.nmb.us)** | **[HR Intern](https://jobright.ai/jobs/info/6982acce0f6f7e7a2cdbfecf?utm_campaign=1054&utm_source=git)** | North Myrtle Beach, SC | On Site | Feb 03 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982aacc348f733a5c35a3b0?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Onboarding Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982aa150f6f7e7a2cdbfbe7?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982a840348f733a5c35a0f1?utm_campaign=1054&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 03 |
@@ -70,9 +78,14 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship - Private Wealth Management,  HR & Recruiting -  (Year-Round)](https://jobright.ai/jobs/info/698293610f6f7e7a2cdbd36c?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 03 |
 | **[Callaway Golf](http://www.callawaygolf.com)** | **[2026 Summer Internship Interest Application (Fort Worth, TX)](https://jobright.ai/jobs/info/698292840f6f7e7a2cdbd28f?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
 | **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69829234348f733a5c357a34?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 03 |
+| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Human Resource Specialist](https://jobright.ai/jobs/info/6982b9158232105a2d0b0bfa?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Feb 03 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Summer 2026)](https://jobright.ai/jobs/info/698290cc0f6f7e7a2cdbd0e3?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Feb 03 |
+| **[Fusion100](http://Fusion100co.com)** | **[Campus Greek Life Intern](https://jobright.ai/jobs/info/6982b6ca8232105a2d0b09be?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982abd5348f733a5c35a4c0?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Feb 03 |
+| ↳ | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b0370f6f7e7a2cdc025d?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Feb 03 |
 | **[Vertex Education](http://vertexeducation.com/)** | **[HR & Talent Intern](https://jobright.ai/jobs/info/69828f22348f733a5c357729?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Feb 03 |
+| **[Marex](http://marexspectron.com)** | **[Onboarding Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982ad390f6f7e7a2cdbff39?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
+| ↳ | **[Onboarding Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b1f90f6f7e7a2cdc0453?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Feb 03 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Summer 2026)](https://jobright.ai/jobs/info/69828ea90a9e07331f8da820?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Feb 03 |
 | ↳ | **[Internship, Recruiting (Summer 2026)](https://jobright.ai/jobs/info/69828bc50a9e07331f8da626?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Feb 03 |
 | **[Athletics](http://www.athletics.com)** | **[Intern, People Operations](https://jobright.ai/jobs/info/69828bab0a9e07331f8da617?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Feb 03 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/698211dcc3101f1400c3bb60?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 03 |
 | **[Nonprofits First](https://www.nonprofitsfirst.org)** | **[Join our Executive Volunteer Corps - Intern Recruitment](https://jobright.ai/jobs/info/698229fca314e76369057f09?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Feb 03 |
 | **[ICDR International](https://www.icdrintl.org)** | **[VOLUNTEER/ INTERNSHIP OPPORTUNITIES](https://jobright.ai/jobs/info/698224a7c3101f1400c3c780?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Feb 03 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
-| ↳ | **[Summer 2026 Internship - Vanderbilt](https://jobright.ai/jobs/info/68bc806468300c452ca15b4e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
-| **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Talent Acquisition](https://jobright.ai/jobs/info/694a3fed31c12007d3b90260?utm_campaign=1054&utm_source=git)** | Purchase, NY | Hybrid | Feb 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Beckley, WV](https://jobright.ai/jobs/info/692e5054ef4b48533d13e9af?utm_campaign=1054&utm_source=git)** | Beckley, WV | On Site | Feb 03 |
-| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6981fd54c3101f1400c3ad8c?utm_campaign=1054&utm_source=git)** | Coppell, TX | Hybrid | Feb 03 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d720bbd3fe025a3015f22b?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/692e5b964c474121999d8c12?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Feb 03 |
-| **[Sony](https://www.sony.com)** | **[CSR & Social Impact Intern](https://jobright.ai/jobs/info/696583025ad3a93f8230cbbe?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 03 |
-| **[Peabody Energy](http://www.peabodyenergy.com)** | **[HR Intern](https://jobright.ai/jobs/info/694a3eb831c12007d3b90162?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Feb 03 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69651b2a2cbf4e44756e8632?utm_campaign=1054&utm_source=git)** | Holly, MI | On Site | Feb 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6933a18aa0dde7020e2efbe6?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Feb 03 |
-| ↳ | **[Management Trainee Intern - Princeton, WV](https://jobright.ai/jobs/info/6933ef24f131d96e48468525?utm_campaign=1054&utm_source=git)** | Princeton, WV | On Site | Feb 03 |
-| **[Haemonetics](http://www.haemonetics.com)** | **[Intern Talent Acquisition (Jan-Aug Requirement)](https://jobright.ai/jobs/info/694a18fcc6f0e2546cef2033?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
