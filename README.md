@@ -57,7 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - York](https://jobright.ai/jobs/info/694b81775d73121134701f09?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Feb 04 |
+| **[Tarion](http://www.tarion.com)** | **[Human Resources, Summer Student Internship/Coop](https://jobright.ai/jobs/info/6983844f348f733a5c369346?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
+| **[C.H. Guenther](http://www.chg.com)** | **[HR Workforce Development Intern](https://jobright.ai/jobs/info/698380cd348f733a5c36874d?utm_campaign=1054&utm_source=git)** | San Antonio, TX (CH Guenther) | On Site | Feb 04 |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Human Resources "SharePoint" Intern Summer 2026](https://jobright.ai/jobs/info/6966c117a112b4026614bb4b?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Feb 04 |
+| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Oracle Recruitment (ORC) Intern](https://jobright.ai/jobs/info/69837bad0f6f7e7a2cdcdb0e?utm_campaign=1054&utm_source=git)** | US-NJ-Lebanon | On Site | Feb 04 |
+| **[H.B. Fuller](http://www.hbfuller.com)** | **[HR Intern - Benefits and Talent Operations](https://jobright.ai/jobs/info/69837913348f733a5c367ee4?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Feb 04 |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Communication/Recruiter Intern Fall 2026](https://jobright.ai/jobs/info/6966a58a7a34f5392055226d?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Feb 04 |
+| ↳ | **[Human Resources Safety  Intern Fall 2026](https://jobright.ai/jobs/info/6966b6185ad3a93f82320839?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Feb 04 |
+| **[TriNet](http://trinet.com)** | **[Apprentice, Corporate Social Responsibility and Corporate Communications (Part-time Intern)](https://jobright.ai/jobs/info/69600105a112b402660eb246?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
+| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b718dd64ebf28d8212508?utm_campaign=1054&utm_source=git)** | Wakefield, MA | On Site | Feb 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Feb 04 |
+| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac8f967a69734cac5e0cc?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Feb 04 |
+| **[Arconic](https://www.arconic.com)** | **[HR Intern](https://jobright.ai/jobs/info/6914017ee344172248f75e82?utm_campaign=1054&utm_source=git)** | Visalia, CA | On Site | Feb 04 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6970074a3ed06875134b0607?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/6933c078764507023d1b8f6d?utm_campaign=1054&utm_source=git)** | Gatineau, Quebec, Canada | On Site | Feb 04 |
+| ↳ | **[Summer 2026 Management Trainee Intern - York](https://jobright.ai/jobs/info/694b81775d73121134701f09?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Feb 04 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/698367cd348f733a5c3672f8?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Amarillo, TX](https://jobright.ai/jobs/info/696791bbf25a38006695e6bd?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | Feb 04 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acc933019f50a4fe5e202?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
@@ -66,15 +80,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac5fc1224705e9001e003?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA | On Site | Feb 04 |
 | ↳ | **[Summer 2026 Management Trainee Intern - San Angelo, TX](https://jobright.ai/jobs/info/6967990ff25a38006695efb9?utm_campaign=1054&utm_source=git)** | San Angelo, TX | On Site | Feb 04 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Lancaster](https://jobright.ai/jobs/info/694b7f3ed64ebf28d821464a?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Feb 04 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/696818b7f25a380066966f38?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Feb 04 |
+| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/694ba6ad5d731211347032a7?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Feb 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/696818b7f25a380066966f38?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Feb 04 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/696791bbf25a38006695e6be?utm_campaign=1054&utm_source=git)** | Lubbock, TX | On Site | Feb 04 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/694ac8341224705e9001e0fa?utm_campaign=1054&utm_source=git)** | Vestal, NY | On Site | Feb 04 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/68cda1c6b2a74e1837eda31f?utm_campaign=1054&utm_source=git)** | Westerly, RI | On Site | Feb 04 |
 | ↳ | **[Summer 2026 Management Internship - Concord, NH](https://jobright.ai/jobs/info/6933ce30a0dde7020e2f21e2?utm_campaign=1054&utm_source=git)** | Concord, NH | On Site | Feb 04 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/694b6e6f1a572a617dddc35c?utm_campaign=1054&utm_source=git)** | Lebanon, PA | On Site | Feb 04 |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Human Resources Safety Intern Summer 2026](https://jobright.ai/jobs/info/6966b0e3a112b4026614a5d6?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Feb 04 |
+| ↳ | **[Communication/Recruiter Intern Summer 2026](https://jobright.ai/jobs/info/6966bd275ad3a93f823211b3?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Feb 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/694b6e6f1a572a617dddc35c?utm_campaign=1054&utm_source=git)** | Lebanon, PA | On Site | Feb 04 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[HR Strategy & Talent Intern - The Toro Company](https://jobright.ai/jobs/info/69678dbb639b452fb57d1ac7?utm_campaign=1054&utm_source=git)** | Hennepin County, MN | On Site | Feb 04 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - HRIS](https://jobright.ai/jobs/info/698355b90f6f7e7a2cdcabfc?utm_campaign=1054&utm_source=git)** | Eagan, MN | Hybrid | Feb 04 |
-| ↳ | **[Intern - HR](https://jobright.ai/jobs/info/698354b3348f733a5c3661ab?utm_campaign=1054&utm_source=git)** | Eagan, MN | Hybrid | Feb 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/691719a0370fde633d07d4cf?utm_campaign=1054&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Feb 04 |
+| **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - HR](https://jobright.ai/jobs/info/698354b3348f733a5c3661ab?utm_campaign=1054&utm_source=git)** | Eagan, MN | Hybrid | Feb 04 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Human Resources Intern - Total Rewards & HR Operations](https://jobright.ai/jobs/info/69679e45f25a38006695f71a?utm_campaign=1054&utm_source=git)** | Hennepin County, MN | On Site | Feb 04 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691aaa8315b4156367189ca9?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Feb 04 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-op - Employee Engagement - Finance Americas](https://jobright.ai/jobs/info/6966f7bba135876680843d8c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Feb 04 |
@@ -134,27 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Human Resource Specialist](https://jobright.ai/jobs/info/6982b9158232105a2d0b0bfa?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Feb 03 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Summer 2026)](https://jobright.ai/jobs/info/698290cc0f6f7e7a2cdbd0e3?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Feb 03 |
 | **[Fusion100](http://Fusion100co.com)** | **[Campus Greek Life Intern](https://jobright.ai/jobs/info/6982b6ca8232105a2d0b09be?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 03 |
-| **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982abd5348f733a5c35a4c0?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Feb 03 |
-| ↳ | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b0370f6f7e7a2cdc025d?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Feb 03 |
+| **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b0370f6f7e7a2cdc025d?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Feb 03 |
+| ↳ | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982abd5348f733a5c35a4c0?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Feb 03 |
 | **[Vertex Education](http://vertexeducation.com/)** | **[HR & Talent Intern](https://jobright.ai/jobs/info/69828f22348f733a5c357729?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Onboarding Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982ad390f6f7e7a2cdbff39?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
 | ↳ | **[Onboarding Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b1f90f6f7e7a2cdc0453?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Feb 03 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Summer 2026)](https://jobright.ai/jobs/info/69828ea90a9e07331f8da820?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Feb 03 |
-| ↳ | **[Internship, Recruiting (Summer 2026)](https://jobright.ai/jobs/info/69828bc50a9e07331f8da626?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Feb 03 |
-| **[Athletics](http://www.athletics.com)** | **[Intern, People Operations](https://jobright.ai/jobs/info/69828bab0a9e07331f8da617?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Feb 03 |
-| **[IAMPACT MGMT](iampactmgmt.com)** | **[Talent Manager Intern (Influencer)](https://jobright.ai/jobs/info/69828b95348f733a5c357479?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Feb 03 |
-| **[OTC Markets Group](http://www.otcmarkets.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69828a83348f733a5c3573c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 03 |
-| **[Extra Space Storage](http://www.extraspace.com)** | **[Recruiting Intern-Part Time](https://jobright.ai/jobs/info/697c6b7c137a051025655d8b?utm_campaign=1054&utm_source=git)** | Midvale, UT | On Site | Feb 03 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Canadian Payroll (Summer 2026)](https://jobright.ai/jobs/info/6982a1800a9e07331f8dccc0?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 03 |
-| **[Warner Bros. Discovery](https://wbd.com)** | **[TNT Sports/ Auburn University Talent Relations Internship: ATL - Summer 2026](https://jobright.ai/jobs/info/69827f12348f733a5c3565f8?utm_campaign=1054&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Feb 03 |
-| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Human Resources Co-op (Summer 2026)](https://jobright.ai/jobs/info/69827eab0a9e07331f8d9694?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Feb 03 |
-| **[Ameresco](http://www.apses.com)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69827d8d0f6f7e7a2cdbbc5b?utm_campaign=1054&utm_source=git)** | Framingham, MA | On Site | Feb 03 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship - Private Wealth Management,  HR & Recruiting -  (Year-Round)](https://jobright.ai/jobs/info/69827c190a9e07331f8d93d1?utm_campaign=1054&utm_source=git)** | WI-Milwaukee | On Site | Feb 03 |
-| **[Cerity Partners](https://ceritypartners.com/)** | **[Retirement Plan Services Internship](https://jobright.ai/jobs/info/69827a360f6f7e7a2cdbb7a8?utm_campaign=1054&utm_source=git)** | West Conshohocken, PA | On Site | Feb 03 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (Spring 2026) - NYC](https://jobright.ai/jobs/info/698279ee0f6f7e7a2cdbb6eb?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 03 |
-| **[Athletics](http://www.athletics.com)** | **[Intern, People Operations](https://jobright.ai/jobs/info/69828ff5348f733a5c3577dc?utm_campaign=1054&utm_source=git)** | Las Vegas Black Fire | On Site | Feb 03 |
-| **[Students 2 Science](https://www.students2science.org/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/698272170f6f7e7a2cdba65e?utm_campaign=1054&utm_source=git)** | Whippany, NJ, US | On Site | Feb 03 |
-| **[Fluence](https://fluenceenergy.com/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6982716b0a9e07331f8d7c50?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Feb 03 |
-| **[Quantum Workplace](http://www.quantumworkplace.com)** | **[Human Resources (People Operations) Intern (Summer 2026)](https://jobright.ai/jobs/info/698270e6348f733a5c354be3?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Feb 03 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Associate Director of Student Programs and Career Services](https://jobright.ai/jobs/info/69826e850f6f7e7a2cdb9e40?utm_campaign=1054&utm_source=git)** | Triangle Area | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
