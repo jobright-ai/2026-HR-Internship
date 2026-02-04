@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 04 |
+| ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 04 |
+| **[JD.COM](http://corporate.jd.com)** | **[HR Intern](https://jobright.ai/jobs/info/6933f3d6a0dde7020e2f34de?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ | On Site | Feb 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern, Dearborn](https://jobright.ai/jobs/info/69832c1b01214b4cdacadf75?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Feb 04 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/694b65b45d731211346ff21f?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | Feb 04 |
 | **[H.W. Kaufman Group](https://www.hwkaufman.com/)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/69608d327ebc25398eb67680?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 04 |
@@ -118,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship - Private Wealth Management,  HR & Recruiting -  (Year-Round)](https://jobright.ai/jobs/info/69827c190a9e07331f8d93d1?utm_campaign=1054&utm_source=git)** | WI-Milwaukee | On Site | Feb 03 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Retirement Plan Services Internship](https://jobright.ai/jobs/info/69827a360f6f7e7a2cdbb7a8?utm_campaign=1054&utm_source=git)** | West Conshohocken, PA | On Site | Feb 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (Spring 2026) - NYC](https://jobright.ai/jobs/info/698279ee0f6f7e7a2cdbb6eb?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 03 |
-| **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/69829c74348f733a5c359558?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Feb 03 |
 | **[Athletics](http://www.athletics.com)** | **[Intern, People Operations](https://jobright.ai/jobs/info/69828ff5348f733a5c3577dc?utm_campaign=1054&utm_source=git)** | Las Vegas Black Fire | On Site | Feb 03 |
 | **[Students 2 Science](https://www.students2science.org/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/698272170f6f7e7a2cdba65e?utm_campaign=1054&utm_source=git)** | Whippany, NJ, US | On Site | Feb 03 |
 | **[Fluence](https://fluenceenergy.com/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6982716b0a9e07331f8d7c50?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Feb 03 |
@@ -145,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/698242fb0f6f7e7a2cdb6c2a?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Feb 03 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Human Resource Intern - Part-Time Summer 2025 - Summer 2026](https://jobright.ai/jobs/info/698241f2a314e7636905a6f6?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Feb 03 |
 | **[MESA Charter High School](http://mesacharter.org)** | **[25-26 Talent Recruitment Intern](https://jobright.ai/jobs/info/69825a0b0f6f7e7a2cdb826e?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Feb 03 |
-| **[Prestige Hotels & Resorts](https://prestigehotelsandresorts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69826d43348f733a5c354348?utm_campaign=1054&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Feb 03 |
+| **[Prestige Hotels & Resorts](http://www.prestigehotelsandresorts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69826d43348f733a5c354348?utm_campaign=1054&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Feb 03 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Webber - Human Resources Intern - Infrastructure Management](https://jobright.ai/jobs/info/69826104348f733a5c353185?utm_campaign=1054&utm_source=git)** | York, Ontario, Canada | On Site | Feb 03 |
 | **[AriZona Beverage Co.](https://www.drinkarizona.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69823c8bc3101f1400c3ed90?utm_campaign=1054&utm_source=git)** | Woodbury, NY | On Site | Feb 03 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Human Resources- Talent Development Intern](https://jobright.ai/jobs/info/69825e390f6f7e7a2cdb87e0?utm_campaign=1054&utm_source=git)** | Minneapolis - Corporate | Hybrid | Feb 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The State Group](https://www.stategroup.com)** | **[HR Intern - 2026-2027 Program](https://jobright.ai/jobs/info/69825f8a0a9e07331f8d618a?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 03 |
 | **[The Timken Company](http://www.timken.com)** | **[Talent Acquisition Intern - Spring & Summer 2026](https://jobright.ai/jobs/info/698257460f6f7e7a2cdb7f15?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Feb 03 |
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 03 |
-| **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6982567c0a9e07331f8d5556?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Feb 03 |
-| **[Breakthrough T1D](https://www.breakthrought1d.org/)** | **[Intern, Talent Management – Talent & Performance](https://jobright.ai/jobs/info/698231800f6f7e7a2cdb5786?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
