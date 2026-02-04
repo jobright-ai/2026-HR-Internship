@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/693f752c50bbaf765051b42c?utm_campaign=1054&utm_source=git)** | Boise, ID | Hybrid | Feb 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Port St Lucie](https://jobright.ai/jobs/info/6982d8fe8232105a2d0b56e8?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Feb 03 |
+| ↳ | **[Summer 2026 Management Trainee Intern / Fairfield County](https://jobright.ai/jobs/info/6982d59b8232105a2d0b534f?utm_campaign=1054&utm_source=git)** | Bridgeport, CT | On Site | Feb 03 |
+| **[HX5, LLC](http://hxfive.com)** | **[NASA Internship Coordinator](https://jobright.ai/jobs/info/6982cc508232105a2d0b28f7?utm_campaign=1054&utm_source=git)** | Edwards, CA | On Site | Feb 03 |
+| **[AirLife](https://www.myairlife.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d2b98137a051025662ef4?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Feb 03 |
+| **[HUB International](https://www.hubinternational.com)** | **[Retirement & Private Wealth Summer Internship](https://jobright.ai/jobs/info/6982c31d0f6f7e7a2cdc1598?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 03 |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[TNT Sports/ Auburn University Talent Relations Internship: ATL - Summer 2026](https://jobright.ai/jobs/info/6982bea70f6f7e7a2cdc1169?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b6258232105a2d0b091e?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 03 |
 | ↳ | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b4fb0f6f7e7a2cdc07b6?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 03 |
 | ↳ | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b2b9348f733a5c35abc1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
@@ -68,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982aacc348f733a5c35a3b0?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Onboarding Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982aa150f6f7e7a2cdbfbe7?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982a840348f733a5c35a0f1?utm_campaign=1054&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 03 |
+| ↳ | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982cc4d348f733a5c35d459?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Feb 03 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6982a6bb0a9e07331f8dd21c?utm_campaign=1054&utm_source=git)** | Possible | On Site | Feb 03 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982a60b0f6f7e7a2cdbf830?utm_campaign=1054&utm_source=git)** | US-TX-Houston | On Site | Feb 03 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6982a56e0f6f7e7a2cdbf7c6?utm_campaign=1054&utm_source=git)** | Alabama | On Site | Feb 03 |
@@ -76,13 +84,14 @@ For a complete list, click the following sortable link below:
 | **[Ameritas](http://www.ameritas.com)** | **[Campus Recruiter & Internship Program Coordinator](https://jobright.ai/jobs/info/6982a0170a9e07331f8dcb3d?utm_campaign=1054&utm_source=git)** | Lincoln, NE | Hybrid | Feb 03 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Human Resources- Talent Development Intern](https://jobright.ai/jobs/info/6982952e0a9e07331f8dae49?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | On Site | Feb 03 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship - Private Wealth Management,  HR & Recruiting -  (Year-Round)](https://jobright.ai/jobs/info/698293610f6f7e7a2cdbd36c?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 03 |
+| **[Aspire Bakeries](https://www.aspirebakeries.com/)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/6982be498232105a2d0b10fb?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, US, 90045 | On Site | Feb 03 |
 | **[Callaway Golf](http://www.callawaygolf.com)** | **[2026 Summer Internship Interest Application (Fort Worth, TX)](https://jobright.ai/jobs/info/698292840f6f7e7a2cdbd28f?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
 | **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69829234348f733a5c357a34?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 03 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Human Resource Specialist](https://jobright.ai/jobs/info/6982b9158232105a2d0b0bfa?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Feb 03 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Summer 2026)](https://jobright.ai/jobs/info/698290cc0f6f7e7a2cdbd0e3?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Feb 03 |
 | **[Fusion100](http://Fusion100co.com)** | **[Campus Greek Life Intern](https://jobright.ai/jobs/info/6982b6ca8232105a2d0b09be?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 03 |
-| **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982abd5348f733a5c35a4c0?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Feb 03 |
-| ↳ | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b0370f6f7e7a2cdc025d?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Feb 03 |
+| **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982b0370f6f7e7a2cdc025d?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Feb 03 |
+| ↳ | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6982abd5348f733a5c35a4c0?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Feb 03 |
 | **[Vertex Education](http://vertexeducation.com/)** | **[HR & Talent Intern](https://jobright.ai/jobs/info/69828f22348f733a5c357729?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Onboarding Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982ad390f6f7e7a2cdbff39?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
 | ↳ | **[Onboarding Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b1f90f6f7e7a2cdc0453?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Feb 03 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Virtua Health](https://www.virtua.org/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6982476a0f6f7e7a2cdb705b?utm_campaign=1054&utm_source=git)** | Marlton, NJ | Hybrid | Feb 03 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[TA Inclusion Intern](https://jobright.ai/jobs/info/6982256ec3101f1400c3c817?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Feb 03 |
 | **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/6982211b0f6f7e7a2cdb3cc6?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Feb 03 |
-| **[FACC-NY | French American Chamber of Commerce - New York](https://www.faccnyc.org)** | **[Part-Time Intern - Paid](https://jobright.ai/jobs/info/69821da30f6f7e7a2cdb3b16?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Feb 03 |
-| **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69821a5e0f6f7e7a2cdb3917?utm_campaign=1054&utm_source=git)** | Boston | Hybrid | Feb 03 |
-| **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/69823b0bc3101f1400c3ec0d?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Feb 03 |
-| **[TTM Technologies](https://www.ttm.com/)** | **[Human Resource Intern - Part-Time Summer 2025 - Summer 2026](https://jobright.ai/jobs/info/69821992a314e7636905747a?utm_campaign=1054&utm_source=git)** | Remote - Texas | Remote | Feb 03 |
-| **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/698216800f6f7e7a2cdb3674?utm_campaign=1054&utm_source=git)** | Baltimore | Hybrid | Feb 03 |
-| **[Origin Bank](https://www.origin.bank/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694a343f7d506e3808f58052?utm_campaign=1054&utm_source=git)** | Ruston, LA | On Site | Feb 03 |
-| **[Coverys](https://www.coverys.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/698211dcc3101f1400c3bb60?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 03 |
-| **[Nonprofits First](https://www.nonprofitsfirst.org)** | **[Join our Executive Volunteer Corps - Intern Recruitment](https://jobright.ai/jobs/info/698229fca314e76369057f09?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Feb 03 |
-| **[ICDR International](https://www.icdrintl.org)** | **[VOLUNTEER/ INTERNSHIP OPPORTUNITIES](https://jobright.ai/jobs/info/698224a7c3101f1400c3c780?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
