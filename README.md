@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6984e1ff0f6f7e7a2cdf5ed6?utm_campaign=1054&utm_source=git)** | Houston, Texas | On Site | Feb 05 |
+| **[Agiliti](https://www.agilitihealth.com/)** | **[Human Resources Information System Intern](https://jobright.ai/jobs/info/6984e1928da7a612045f2df1?utm_campaign=1054&utm_source=git)** | Minneapolis - Corporate | Hybrid | Feb 05 |
+| **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6984e1910f6f7e7a2cdf5e2d?utm_campaign=1054&utm_source=git)** | Washington D.C., District of Columbia | On Site | Feb 05 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6984dfdf8da7a612045f2b67?utm_campaign=1054&utm_source=git)** | Los Angeles, California | On Site | Feb 05 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6984df5a348f733a5c38fe17?utm_campaign=1054&utm_source=git)** | Austin, Texas | On Site | Feb 05 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6984dc2d8da7a612045f26ed?utm_campaign=1054&utm_source=git)** | Chicago, Illinois | On Site | Feb 05 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Fort Wayne](https://jobright.ai/jobs/info/696efc139c3c52633455aeb0?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Feb 05 |
 | **[The Fedcap Group](https://fedcapgroup.org)** | **[Temporary Paid Intern](https://jobright.ai/jobs/info/696ac4c15fc862418539de94?utm_campaign=1054&utm_source=git)** | Jamaica, NY | On Site | Feb 05 |
+| **[Rotochopper, Inc.](https://www.rotochopper.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6984dba98da7a612045f2619?utm_campaign=1054&utm_source=git)** | St Martin, MN | On Site | Feb 05 |
 | **[Xometry](https://www.xometry.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/694c51501a572a617dde809e?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 05 |
 | **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/695dc70cf1f8465b79f41300?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Feb 05 |
+| **[Steffes](http://www.steffes.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6984da32348f733a5c38f767?utm_campaign=1054&utm_source=git)** | Shelby, NC | On Site | Feb 05 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6930cbbcef4b48533d14f430?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 05 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696885611703f05405aa44fa?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Feb 05 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6968e21df25a3800669773b5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 05 |
@@ -130,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Acrisure](http://acrisure.com)** | **[Summer Intern - Employee Benefits](https://jobright.ai/jobs/info/6983b7d0348f733a5c36f8e5?utm_campaign=1054&utm_source=git)** | Grove City, PA | On Site | Feb 04 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983b7cf0f6f7e7a2cdd501f?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6983b59b0f6f7e7a2cdd49b0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6983ed30348f733a5c3789bd?utm_campaign=1054&utm_source=git)** | Philadelphia - 15th | Hybrid | Feb 04 |
-| ↳ | **[Voluntary Benefit Analyst Intern](https://jobright.ai/jobs/info/6983dc7f01214b4cdacbfc64?utm_campaign=1054&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 04 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Voluntary Benefit Analyst Intern](https://jobright.ai/jobs/info/6983dc7f01214b4cdacbfc64?utm_campaign=1054&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 04 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6983ed30348f733a5c3789bd?utm_campaign=1054&utm_source=git)** | Philadelphia - 15th | Hybrid | Feb 04 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[HR Operations Intern - Bachelor's Degree](https://jobright.ai/jobs/info/6983b3a7348f733a5c36edff?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Feb 04 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Feb 04 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GMH Associates, Inc.](http://gmhassoc.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69802379abff4c399a9ed2ed?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | On Site | Feb 04 |
 | **[Dometic](https://www.dometic.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6983cb7a01214b4cdacbcc56?utm_campaign=1054&utm_source=git)** | Katy, TX | Hybrid | Feb 04 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983a5b901214b4cdacb68c6?utm_campaign=1054&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 04 |
-| **[Avid Technology Professionals](http://www.avidtec.com/)** | **[HR/Accounting/Administration Intern](https://jobright.ai/jobs/info/6983a4a9348f733a5c36c6d8?utm_campaign=1054&utm_source=git)** | Laurel, MD | Hybrid | Feb 04 |
-| **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6983c741348f733a5c372249?utm_campaign=1054&utm_source=git)** | Allentown, PA | Hybrid | Feb 04 |
-| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6983d1f001214b4cdacbde4a?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Feb 04 |
-| **[Community Health Network](https://www.ecommunity.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/69839d5501214b4cdacb522c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 04 |
-| **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[P&O Intern](https://jobright.ai/jobs/info/698398cc01214b4cdacb4f7d?utm_campaign=1054&utm_source=git)** | Grand Rapids Metro | On Site | Feb 04 |
-| **[ITW](http://www.itw.com/)** | **[HR Intern Co-op](https://jobright.ai/jobs/info/6984509a0f6f7e7a2cdea791?utm_campaign=1054&utm_source=git)** | Appleton-1635 W Spencer | On Site | Feb 04 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 Human Capital Management Internship - MA Conversion](https://jobright.ai/jobs/info/6983d9d9348f733a5c37533a?utm_campaign=1054&utm_source=git)** | USA WA Seattle 999 Third Ave | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
