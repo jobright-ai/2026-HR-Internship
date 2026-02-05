@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Confluent](https://confluent.io)** | **[Early Talent Sophmore Intern](https://jobright.ai/jobs/info/698406d10f6f7e7a2cde18c6?utm_campaign=1054&utm_source=git)** | Ontario, Canada | Hybrid | Feb 04 |
+| **[McKinstry](http://www.mckinstry.com)** | **[Human Resource Operations Intern](https://jobright.ai/jobs/info/694b22f64b53a1551f94e5a8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/694344da50bbaf76505529a2?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
+| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Facilitator Intern](https://jobright.ai/jobs/info/6968a982f25a3800669730d7?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 04 |
+| **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69682b45639b452fb57dc001?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
+| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6967dfc4639b452fb57d7673?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 04 |
 | **[Community Health Network](https://www.ecommunity.com/)** | **[Intern - Case Management](https://jobright.ai/jobs/info/6983f8f7348f733a5c379e9f?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 04 |
 | **[Skyline Group of Companies](https://www.skylinegroupofcompanies.ca//)** | **[Human Resources Assistant, Student](https://jobright.ai/jobs/info/6983f1cb0f6f7e7a2cddeb09?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Feb 04 |
 | **[Kiewit](http://www.kiewit.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/6983f11d01214b4cdacc3164?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 04 |
@@ -85,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Acrisure](http://acrisure.com)** | **[Summer Intern - Employee Benefits](https://jobright.ai/jobs/info/6983b7d0348f733a5c36f8e5?utm_campaign=1054&utm_source=git)** | Grove City, PA | On Site | Feb 04 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983b7cf0f6f7e7a2cdd501f?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6983b59b0f6f7e7a2cdd49b0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6983ed30348f733a5c3789bd?utm_campaign=1054&utm_source=git)** | Philadelphia - 15th | Hybrid | Feb 04 |
-| ↳ | **[Voluntary Benefit Analyst Intern](https://jobright.ai/jobs/info/6983dc7f01214b4cdacbfc64?utm_campaign=1054&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 04 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Voluntary Benefit Analyst Intern](https://jobright.ai/jobs/info/6983dc7f01214b4cdacbfc64?utm_campaign=1054&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 04 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6983ed30348f733a5c3789bd?utm_campaign=1054&utm_source=git)** | Philadelphia - 15th | Hybrid | Feb 04 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[HR Operations Intern - Bachelor's Degree](https://jobright.ai/jobs/info/6983b3a7348f733a5c36edff?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Feb 04 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Feb 04 |
@@ -118,11 +124,12 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1e1348f733a5c36e98f?utm_campaign=1054&utm_source=git)** | US-TX-North Richland Hills | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b3aa01214b4cdacb8dae?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX, US | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983c5030f6f7e7a2cdd7491?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 04 |
+| ↳ | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983bdc301214b4cdacba843?utm_campaign=1054&utm_source=git)** | US-AZ-Glendale | On Site | Feb 04 |
+| ↳ | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983a8ec01214b4cdacb707c?utm_campaign=1054&utm_source=git)** | Owatonna, MN, US | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b86301214b4cdacb9a1f?utm_campaign=1054&utm_source=git)** | Overland Park, KS, US | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983bed80f6f7e7a2cdd637f?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983a8ec01214b4cdacb707c?utm_campaign=1054&utm_source=git)** | Owatonna, MN, US | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983bdc301214b4cdacba843?utm_campaign=1054&utm_source=git)** | US-AZ-Glendale | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983bf3a348f733a5c370d93?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Feb 04 |
+| **[Posillico Civil, Inc.](http://posillicoinc.com)** | **[Human Resources Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6984076d01214b4cdacc628a?utm_campaign=1054&utm_source=git)** | US-NY-Farmingdale | On Site | Feb 04 |
 | **[C.H. Guenther](http://www.chg.com)** | **[HR Workforce Development Intern](https://jobright.ai/jobs/info/6983aac8348f733a5c36d6e4?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 04 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6983b6b9348f733a5c36f61f?utm_campaign=1054&utm_source=git)** | Bronx Zoo | On Site | Feb 04 |
 | **[CN](http://www.cn.ca)** | **[Intern, Early Career Analyst- EN](https://jobright.ai/jobs/info/6983881b01214b4cdacb3fd0?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/691832e8bcdbf3560c9cf923?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 04 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/698367cd348f733a5c3672f8?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Amarillo, TX](https://jobright.ai/jobs/info/696791bbf25a38006695e6bd?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | Feb 04 |
-| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acc933019f50a4fe5e202?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
-| **[Groot Hospitality](https://groothospitality.com/)** | **[HR Intern](https://jobright.ai/jobs/info/692e62eefa28370be26a4195?utm_campaign=1054&utm_source=git)** | Miami Beach, FL | On Site | Feb 04 |
-| **[Kiewit](http://www.kiewit.com)** | **[Bilingual Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/6967028c639b452fb57c9356?utm_campaign=1054&utm_source=git)** | Oakville, Ontario, Canada | On Site | Feb 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/6968289c639b452fb57dbb27?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Feb 04 |
-| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac5fc1224705e9001e003?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA | On Site | Feb 04 |
-| ↳ | **[Summer 2026 Management Trainee Intern - San Angelo, TX](https://jobright.ai/jobs/info/6967990ff25a38006695efb9?utm_campaign=1054&utm_source=git)** | San Angelo, TX | On Site | Feb 04 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Lancaster](https://jobright.ai/jobs/info/694b7f3ed64ebf28d821464a?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
