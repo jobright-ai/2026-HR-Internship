@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/694c51501a572a617dde809e?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 05 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6930cbbcef4b48533d14f430?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 05 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696885611703f05405aa44fa?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Feb 05 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6968e21df25a3800669773b5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 05 |
 | **[MGIC](https://www.mgic.com)** | **[HR Intern](https://jobright.ai/jobs/info/69639f6e2cbf4e44756d5534?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 05 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) - Service Operations Strategy & Planning Intern](https://jobright.ai/jobs/info/696b20acdb26b618950eae5a?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 05 |
@@ -124,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Acrisure](http://acrisure.com)** | **[Summer Intern - Employee Benefits](https://jobright.ai/jobs/info/6983b7d0348f733a5c36f8e5?utm_campaign=1054&utm_source=git)** | Grove City, PA | On Site | Feb 04 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983b7cf0f6f7e7a2cdd501f?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6983b59b0f6f7e7a2cdd49b0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Voluntary Benefit Analyst Intern](https://jobright.ai/jobs/info/6983dc7f01214b4cdacbfc64?utm_campaign=1054&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 04 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6983ed30348f733a5c3789bd?utm_campaign=1054&utm_source=git)** | Philadelphia - 15th | Hybrid | Feb 04 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6983ed30348f733a5c3789bd?utm_campaign=1054&utm_source=git)** | Philadelphia - 15th | Hybrid | Feb 04 |
+| ↳ | **[Voluntary Benefit Analyst Intern](https://jobright.ai/jobs/info/6983dc7f01214b4cdacbfc64?utm_campaign=1054&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 04 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[HR Operations Intern - Bachelor's Degree](https://jobright.ai/jobs/info/6983b3a7348f733a5c36edff?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Feb 04 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Feb 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shaw Industries](https://shawinc.com)** | **[Total Rewards Intern ](https://jobright.ai/jobs/info/698424af348f733a5c37ff28?utm_campaign=1054&utm_source=git)** | Shaw Plant 72, 900 VD Parrot Parkway, Dalton, GA 30721 USA | On Site | Feb 04 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Global Compensation](https://jobright.ai/jobs/info/6983b9d90f6f7e7a2cdd5608?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 04 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698396b501214b4cdacb4e21?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 04 |
-| **[ALIGN PRECISION](https://alignprecision.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6983e6f1348f733a5c377745?utm_campaign=1054&utm_source=git)** | Cottondale, Alabama, United States | On Site | Feb 04 |
-| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69838eca348f733a5c36a640?utm_campaign=1054&utm_source=git)** | Allentown, PA - 1110 American Parkway | Hybrid | Feb 04 |
-| **[COPT Defense Properties](http://www.copt.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6983ac38348f733a5c36da90?utm_campaign=1054&utm_source=git)** | Columbia, Maryland, United States | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
