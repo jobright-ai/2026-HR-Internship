@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Enterprise Benefits Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/694c66735d7312113470d806?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Feb 05 |
+| **[Xometry](https://www.xometry.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/694c526a5d7312113470c0e9?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 05 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Administrative Internships](https://jobright.ai/jobs/info/68d3009017554c2d9eeecc32?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Feb 05 |
+| ↳ | **[Human Resources Internships](https://jobright.ai/jobs/info/68d4719777769e778f509032?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Feb 05 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2026 Summer Internship Program: Risk Management/Safety](https://jobright.ai/jobs/info/68bf24a08e65e77df55b74c5?utm_campaign=1054&utm_source=git)** | Yakima, WA | On Site | Feb 05 |
+| **[Acrisure Trade Credit](https://www.traderiskgroup.com/)** | **[Summer Intern - Employee Benefits](https://jobright.ai/jobs/info/6984933d348f733a5c38a252?utm_campaign=1054&utm_source=git)** | Grove City, PA | On Site | Feb 05 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Global Total Rewards Intern (Compensation & Benefits)](https://jobright.ai/jobs/info/696878a71703f05405aa3230?utm_campaign=1054&utm_source=git)** | Detroit Metro | Hybrid | Feb 04 |
-| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698431d88da7a612045e41c8?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 04 |
+| **[dormakaba Americas](http://www.e-data.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698431d88da7a612045e41c8?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 04 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6967feac1703f05405a99ce4?utm_campaign=1054&utm_source=git)** | Glenview, IL | On Site | Feb 04 |
 | **[The Hills](https://www.linkedin.com/company/105052505)** | **[Human Resources Seasonal Intern (April to September)](https://jobright.ai/jobs/info/69842d44348f733a5c3810ee?utm_campaign=1054&utm_source=git)** | East Quogue, NY | On Site | Feb 04 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Voluntary Benefit Analyst Intern](https://jobright.ai/jobs/info/69842d3d348f733a5c3810e2?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | On Site | Feb 04 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69838eca348f733a5c36a640?utm_campaign=1054&utm_source=git)** | Allentown, PA - 1110 American Parkway | Hybrid | Feb 04 |
 | **[COPT Defense Properties](http://www.copt.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6983ac38348f733a5c36da90?utm_campaign=1054&utm_source=git)** | Columbia, Maryland, United States | On Site | Feb 04 |
 | **[CN](http://www.cn.ca)** | **[Intern, Early Careers Analyst](https://jobright.ai/jobs/info/6983c0be348f733a5c3711d0?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, CA | On Site | Feb 04 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1e1348f733a5c36e98f?utm_campaign=1054&utm_source=git)** | US-TX-North Richland Hills | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983c5030f6f7e7a2cdd7491?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 04 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983c5030f6f7e7a2cdd7491?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 04 |
+| ↳ | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1e1348f733a5c36e98f?utm_campaign=1054&utm_source=git)** | US-TX-North Richland Hills | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b3aa01214b4cdacb8dae?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX, US | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983a8ec01214b4cdacb707c?utm_campaign=1054&utm_source=git)** | Owatonna, MN, US | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b86301214b4cdacb9a1f?utm_campaign=1054&utm_source=git)** | Overland Park, KS, US | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983bed80f6f7e7a2cdd637f?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983bdc301214b4cdacba843?utm_campaign=1054&utm_source=git)** | US-AZ-Glendale | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983bf3a348f733a5c370d93?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Feb 04 |
-| **[Posillico Civil, Inc.](http://posillicoinc.com)** | **[Human Resources Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6984076d01214b4cdacc628a?utm_campaign=1054&utm_source=git)** | US-NY-Farmingdale | On Site | Feb 04 |
-| **[C.H. Guenther](http://www.chg.com)** | **[HR Workforce Development Intern](https://jobright.ai/jobs/info/6983aac8348f733a5c36d6e4?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
