@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6968e21df25a3800669773b5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 05 |
+| **[MGIC](https://www.mgic.com)** | **[HR Intern](https://jobright.ai/jobs/info/69639f6e2cbf4e44756d5534?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 05 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) - Service Operations Strategy & Planning Intern](https://jobright.ai/jobs/info/696b20acdb26b618950eae5a?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 05 |
+| **[STR](https://www.str.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6968ddc1639b452fb57ea900?utm_campaign=1054&utm_source=git)** | Woburn, MA | Hybrid | Feb 05 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Enterprise Benefits Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/694c66735d7312113470d806?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Feb 05 |
 | **[Xometry](https://www.xometry.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/694c526a5d7312113470c0e9?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 05 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Administrative Internships](https://jobright.ai/jobs/info/68d3009017554c2d9eeecc32?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Feb 05 |
@@ -90,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Skyline Group of Companies](https://www.skylinegroupofcompanies.ca//)** | **[Human Resources Assistant, Student](https://jobright.ai/jobs/info/6983f1cb0f6f7e7a2cddeb09?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Feb 04 |
 | **[Kiewit](http://www.kiewit.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/6983f11d01214b4cdacc3164?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 04 |
 | **[Shaw Industries](https://shawinc.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/69840dc7348f733a5c37cd82?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | Feb 04 |
+| **[Community Health Network](https://www.ecommunity.com/)** | **[Intern - Case Management](https://jobright.ai/jobs/info/698497cf348f733a5c38a4d9?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 04 |
 | **[Okta](http://www.okta.com)** | **[Talent Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6983ea5c0f6f7e7a2cdddb4e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Feb 04 |
 | **[Kiewit](http://www.kiewit.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/6983ea4a01214b4cdacc24e5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 04 |
 | **[Partnership for Public Service](https://ourpublicservice.org/)** | **[2026 Summer Recruitment and Employee Engagement Internship](https://jobright.ai/jobs/info/69843cc48da7a612045e5577?utm_campaign=1054&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Feb 04 |
@@ -119,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Acrisure](http://acrisure.com)** | **[Summer Intern - Employee Benefits](https://jobright.ai/jobs/info/6983b7d0348f733a5c36f8e5?utm_campaign=1054&utm_source=git)** | Grove City, PA | On Site | Feb 04 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983b7cf0f6f7e7a2cdd501f?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6983b59b0f6f7e7a2cdd49b0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6983ed30348f733a5c3789bd?utm_campaign=1054&utm_source=git)** | Philadelphia - 15th | Hybrid | Feb 04 |
-| ↳ | **[Voluntary Benefit Analyst Intern](https://jobright.ai/jobs/info/6983dc7f01214b4cdacbfc64?utm_campaign=1054&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 04 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Voluntary Benefit Analyst Intern](https://jobright.ai/jobs/info/6983dc7f01214b4cdacbfc64?utm_campaign=1054&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 04 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6983ed30348f733a5c3789bd?utm_campaign=1054&utm_source=git)** | Philadelphia - 15th | Hybrid | Feb 04 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[HR Operations Intern - Bachelor's Degree](https://jobright.ai/jobs/info/6983b3a7348f733a5c36edff?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Feb 04 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Feb 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALIGN PRECISION](https://alignprecision.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6983e6f1348f733a5c377745?utm_campaign=1054&utm_source=git)** | Cottondale, Alabama, United States | On Site | Feb 04 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69838eca348f733a5c36a640?utm_campaign=1054&utm_source=git)** | Allentown, PA - 1110 American Parkway | Hybrid | Feb 04 |
 | **[COPT Defense Properties](http://www.copt.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6983ac38348f733a5c36da90?utm_campaign=1054&utm_source=git)** | Columbia, Maryland, United States | On Site | Feb 04 |
-| **[CN](http://www.cn.ca)** | **[Intern, Early Careers Analyst](https://jobright.ai/jobs/info/6983c0be348f733a5c3711d0?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, CA | On Site | Feb 04 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983c5030f6f7e7a2cdd7491?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1e1348f733a5c36e98f?utm_campaign=1054&utm_source=git)** | US-TX-North Richland Hills | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b3aa01214b4cdacb8dae?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX, US | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983bed80f6f7e7a2cdd637f?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
