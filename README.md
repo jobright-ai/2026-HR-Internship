@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Fort Wayne](https://jobright.ai/jobs/info/696efc139c3c52633455aeb0?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Feb 05 |
 | **[The Fedcap Group](https://fedcapgroup.org)** | **[Temporary Paid Intern](https://jobright.ai/jobs/info/696ac4c15fc862418539de94?utm_campaign=1054&utm_source=git)** | Jamaica, NY | On Site | Feb 05 |
 | **[Xometry](https://www.xometry.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/694c51501a572a617dde809e?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 05 |
+| **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/695dc70cf1f8465b79f41300?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Feb 05 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6930cbbcef4b48533d14f430?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 05 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696885611703f05405aa44fa?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Feb 05 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6968e21df25a3800669773b5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[P&O Intern](https://jobright.ai/jobs/info/698398cc01214b4cdacb4f7d?utm_campaign=1054&utm_source=git)** | Grand Rapids Metro | On Site | Feb 04 |
 | **[ITW](http://www.itw.com/)** | **[HR Intern Co-op](https://jobright.ai/jobs/info/6984509a0f6f7e7a2cdea791?utm_campaign=1054&utm_source=git)** | Appleton-1635 W Spencer | On Site | Feb 04 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 Human Capital Management Internship - MA Conversion](https://jobright.ai/jobs/info/6983d9d9348f733a5c37533a?utm_campaign=1054&utm_source=git)** | USA WA Seattle 999 Third Ave | On Site | Feb 04 |
-| **[Shaw Industries](https://shawinc.com)** | **[Total Rewards Intern ](https://jobright.ai/jobs/info/698424af348f733a5c37ff28?utm_campaign=1054&utm_source=git)** | Shaw Plant 72, 900 VD Parrot Parkway, Dalton, GA 30721 USA | On Site | Feb 04 |
-| **[Gildan](https://gildancorp.com)** | **[Intern, Global Compensation](https://jobright.ai/jobs/info/6983b9d90f6f7e7a2cdd5608?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
