@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Fedcap Group](https://fedcapgroup.org)** | **[Temporary Paid Intern](https://jobright.ai/jobs/info/696ac4c15fc862418539de94?utm_campaign=1054&utm_source=git)** | Jamaica, NY | On Site | Feb 05 |
 | **[Xometry](https://www.xometry.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/694c51501a572a617dde809e?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 05 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6930cbbcef4b48533d14f430?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 05 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696885611703f05405aa44fa?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Feb 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 Human Capital Management Internship - MA Conversion](https://jobright.ai/jobs/info/6983d9d9348f733a5c37533a?utm_campaign=1054&utm_source=git)** | USA WA Seattle 999 Third Ave | On Site | Feb 04 |
 | **[Shaw Industries](https://shawinc.com)** | **[Total Rewards Intern ](https://jobright.ai/jobs/info/698424af348f733a5c37ff28?utm_campaign=1054&utm_source=git)** | Shaw Plant 72, 900 VD Parrot Parkway, Dalton, GA 30721 USA | On Site | Feb 04 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Global Compensation](https://jobright.ai/jobs/info/6983b9d90f6f7e7a2cdd5608?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 04 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698396b501214b4cdacb4e21?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
