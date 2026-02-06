@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69862e768da7a6120460df43?utm_campaign=1054&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 06 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69862a300f6f7e7a2ce10a85?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Feb 06 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933c17c764507023d1b9215?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Feb 06 |
 | **[MarshBerry](http://marshberry.com)** | **[HR Intern](https://jobright.ai/jobs/info/698620ca8da7a6120460cacd?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Feb 06 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6986204b0f6f7e7a2ce0f7a7?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Feb 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Feb 06 |
@@ -78,6 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op or Intern, Human Resources – Multiple Locations – May 2026](https://jobright.ai/jobs/info/6986191e8ca8121a3a683fff?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
 | **[Somos, Inc.](https://www.somos.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69850e78348f733a5c392d14?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 06 |
 | **[GAF](http://www.gaf.com/)** | **[HRS Intern](https://jobright.ai/jobs/info/69746717206da320f49ea4ed?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Feb 06 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Human Resources – Multiple Locations – May 2026](https://jobright.ai/jobs/info/698625ee8ca8121a3a684c52?utm_campaign=1054&utm_source=git)** | Calgary - 8th Ave SW | Hybrid | Feb 06 |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Total Rewards](https://jobright.ai/jobs/info/6986296c0f6f7e7a2ce10893?utm_campaign=1054&utm_source=git)** | Okemos, MI | Hybrid | Feb 06 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f80165ec6dbe7073fd0372?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/6813f40e7654653d2d0e9f1f?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 06 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/68f93a96cadb2e5a06a62a48?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Feb 06 |
@@ -117,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/6985704b0f6f7e7a2ce03591?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68dbe2b497329f2f7731f9f6?utm_campaign=1054&utm_source=git)** | Burlington, NC | On Site | Feb 05 |
 | ↳ | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/6933f41ba0dde7020e2f35c8?utm_campaign=1054&utm_source=git)** | Jackson, TN | On Site | Feb 05 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Waterbury/Watertown/Naugatuck, CT](https://jobright.ai/jobs/info/6933f2e1a0dde7020e2f31f3?utm_campaign=1054&utm_source=git)** | Waterbury, CT | On Site | Feb 05 |
 | ↳ | **[Summer 2026 Management Trainee Intern - BDL Airport](https://jobright.ai/jobs/info/6933b8bca0dde7020e2f0ffe?utm_campaign=1054&utm_source=git)** | Windsor Locks, CT | On Site | Feb 05 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Waterbury/Watertown/Naugatuck, CT](https://jobright.ai/jobs/info/6933f2e1a0dde7020e2f31f3?utm_campaign=1054&utm_source=git)** | Waterbury, CT | On Site | Feb 05 |
 | **[Byrne](https://www.byrne.com)** | **[HR Org Development Intern](https://jobright.ai/jobs/info/697a3437a8de441ca73553ac?utm_campaign=1054&utm_source=git)** | Rockford, MI | On Site | Feb 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Waco](https://jobright.ai/jobs/info/69685260f25a38006696b7a9?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Feb 05 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d199dd4a7df7a06724a5d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Feb 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698521640f6f7e7a2cdfabf7?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Feb 05 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6985a5f08da7a61204605474?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Feb 05 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/698552d70f6f7e7a2cdffd98?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Feb 05 |
-| ↳ | **[Campus Chapter Intern - Howard University](https://jobright.ai/jobs/info/698555588da7a612045fd331?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Feb 05 |
-| **[Campbell Transportation Company, Inc.](https://www.barges.us)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/698512490f6f7e7a2cdf8fdf?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
-| **[Ohio Cat](http://www.ohiocat.com)** | **[Human Resource Paid Internship](https://jobright.ai/jobs/info/698511dc0f6f7e7a2cdf8f29?utm_campaign=1054&utm_source=git)** | Broadview Heights, OH | On Site | Feb 05 |
-| **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern - Airport Warehouse](https://jobright.ai/jobs/info/69811fb7abff4c399a9ff2bd?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Feb 05 |
-| **[Northwest Youth Services](https://www.nwys.org)** | **[HR Administrative Assistant Internship](https://jobright.ai/jobs/info/698510c28da7a612045f61a3?utm_campaign=1054&utm_source=git)** | Bellingham, WA, US | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
