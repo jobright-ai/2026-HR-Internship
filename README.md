@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6985d0890f6f7e7a2ce0b3a2?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Feb 06 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932018c4c474121999f5929?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 06 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Austin](https://jobright.ai/jobs/info/6968a839f25a380066972f50?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 06 |
+| **[Valeo](http://www.valeo.com/en/)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/6985bc668ca8121a3a67ec72?utm_campaign=1054&utm_source=git)** | Reno, NV | Hybrid | Feb 06 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - West Springfield/Chicopee, MA](https://jobright.ai/jobs/info/6933ef41f131d96e48468592?utm_campaign=1054&utm_source=git)** | West Springfield, MA | On Site | Feb 06 |
+| **[South Jersey Industries](https://www.sjindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db077a6df7b8311bb158ea?utm_campaign=1054&utm_source=git)** | Folsom, NJ | Hybrid | Feb 06 |
+| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 CRE Summer Intern](https://jobright.ai/jobs/info/6967f97af25a380066964e49?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
+| **[Parker Hannifin](http://www.parker.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6969fba11703f05405ac02d9?utm_campaign=1054&utm_source=git)** | Haverhill, MA | On Site | Feb 06 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6985a42b348f733a5c3a2626?utm_campaign=1054&utm_source=git)** | Alabama, United States | Remote | Feb 06 |
 | **[City of Little Rock](https://www.littlerock.gov)** | **[Summer Youth Intern (Part Time)](https://jobright.ai/jobs/info/6985a0f18da7a61204605159?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Feb 06 |
 | **[Lendistry](http://www.Lendistry.com)** | **[Human Resources Systems & Analytics Intern](https://jobright.ai/jobs/info/697974579c90a224ecc32c7e?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Feb 05 |
@@ -107,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Valeo](http://www.valeo.com/en/)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698521640f6f7e7a2cdfabf7?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Feb 05 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6985a5f08da7a61204605474?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Feb 05 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/698552d70f6f7e7a2cdffd98?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Feb 05 |
-| ↳ | **[Campus Chapter Intern - Howard University](https://jobright.ai/jobs/info/698555588da7a612045fd331?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Feb 05 |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Howard University](https://jobright.ai/jobs/info/698555588da7a612045fd331?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Feb 05 |
+| ↳ | **[Campus Chapter Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/698552d70f6f7e7a2cdffd98?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Feb 05 |
 | **[GAO Tek Company](https://www.linkedin.com/company/108336892)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6985135e348f733a5c39379d?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Campbell Transportation Company, Inc.](https://www.barges.us)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/698512490f6f7e7a2cdf8fdf?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Human Resource Paid Internship](https://jobright.ai/jobs/info/698511dc0f6f7e7a2cdf8f29?utm_campaign=1054&utm_source=git)** | Broadview Heights, OH | On Site | Feb 05 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/696885611703f05405aa44fa?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Feb 05 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6968e21df25a3800669773b5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 05 |
 | **[MGIC](https://www.mgic.com)** | **[HR Intern](https://jobright.ai/jobs/info/69639f6e2cbf4e44756d5534?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 05 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) - Service Operations Strategy & Planning Intern](https://jobright.ai/jobs/info/696b20acdb26b618950eae5a?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 05 |
-| **[STR](https://www.str.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6968ddc1639b452fb57ea900?utm_campaign=1054&utm_source=git)** | Woburn, MA | Hybrid | Feb 05 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Enterprise Benefits Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/694c66735d7312113470d806?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Feb 05 |
-| **[Xometry](https://www.xometry.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/694c526a5d7312113470c0e9?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 05 |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Administrative Internships](https://jobright.ai/jobs/info/68d3009017554c2d9eeecc32?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Feb 05 |
-| ↳ | **[Human Resources Internships](https://jobright.ai/jobs/info/68d4719777769e778f509032?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Feb 05 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2026 Summer Internship Program: Risk Management/Safety](https://jobright.ai/jobs/info/68bf24a08e65e77df55b74c5?utm_campaign=1054&utm_source=git)** | Yakima, WA | On Site | Feb 05 |
-| **[Acrisure Trade Credit](https://www.traderiskgroup.com/)** | **[Summer Intern - Employee Benefits](https://jobright.ai/jobs/info/6984933d348f733a5c38a252?utm_campaign=1054&utm_source=git)** | Grove City, PA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
