@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69351f85f131d96e4846ce9c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Feb 05 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1054&utm_source=git)** | Roseville, CA | On Site | Feb 05 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/6985704b0f6f7e7a2ce03591?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 05 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68dbe2b497329f2f7731f9f6?utm_campaign=1054&utm_source=git)** | Burlington, NC | On Site | Feb 05 |
+| ↳ | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/6933f41ba0dde7020e2f35c8?utm_campaign=1054&utm_source=git)** | Jackson, TN | On Site | Feb 05 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Waterbury/Watertown/Naugatuck, CT](https://jobright.ai/jobs/info/6933f2e1a0dde7020e2f31f3?utm_campaign=1054&utm_source=git)** | Waterbury, CT | On Site | Feb 05 |
+| ↳ | **[Summer 2026 Management Trainee Intern - BDL Airport](https://jobright.ai/jobs/info/6933b8bca0dde7020e2f0ffe?utm_campaign=1054&utm_source=git)** | Windsor Locks, CT | On Site | Feb 05 |
 | **[Byrne](https://www.byrne.com)** | **[HR Org Development Intern](https://jobright.ai/jobs/info/697a3437a8de441ca73553ac?utm_campaign=1054&utm_source=git)** | Rockford, MI | On Site | Feb 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Waco](https://jobright.ai/jobs/info/69685260f25a38006696b7a9?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Feb 05 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d199dd4a7df7a06724a5d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Feb 05 |
@@ -66,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[People Team Intern, People Business Partners (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69855f0d348f733a5c39b8df?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Feb 05 |
 | **[Röchling Industrial](http://www.roechling-plastics.us)** | **[Intern HR Services](https://jobright.ai/jobs/info/69855a1a0f6f7e7a2ce00cf1?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Feb 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6933f2eea0dde7020e2f3207?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Feb 05 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/6933cb3bf131d96e48467000?utm_campaign=1054&utm_source=git)** | Brooklyn, CT | On Site | Feb 05 |
 | **[Bigelow Tea](http://www.bigelowtea.com)** | **[Corporate Responsibility & Human Resources Intern](https://jobright.ai/jobs/info/698553528da7a612045fcf36?utm_campaign=1054&utm_source=git)** | Fairfield, CT | On Site | Feb 05 |
 | **[UNCF](http://www.uncf.org)** | **[HR Talent Intern](https://jobright.ai/jobs/info/698551a4348f733a5c399d28?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69691bab1703f05405aaee48?utm_campaign=1054&utm_source=git)** | Alto, MI | On Site | Feb 05 |
@@ -77,8 +85,9 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7fb59b0edcf159dc8d12a?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Feb 05 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6969912df25a380066984892?utm_campaign=1054&utm_source=git)** | Tucson, AZ | Hybrid | Feb 05 |
 | **[Springpoint Senior Living](https://springpointsl.org/)** | **[Affordable Housing Intern](https://jobright.ai/jobs/info/69855c440f6f7e7a2ce01144?utm_campaign=1054&utm_source=git)** | Plainfield, NJ 07060, USA | On Site | Feb 05 |
-| **[Minerals Technologies Inc.](http://www.mineralstech.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69854e2d0f6f7e7a2cdff52e?utm_campaign=1054&utm_source=git)** | Lucerne Valley, CA, US | On Site | Feb 05 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69855bdd8da7a612045fdfe0?utm_campaign=1054&utm_source=git)** | Adams, MA, US | On Site | Feb 05 |
+| **[Bigelow Tea](http://www.bigelowtea.com)** | **[Corporate Responsibility & Human Resources Intern](https://jobright.ai/jobs/info/698576858da7a61204601305?utm_campaign=1054&utm_source=git)** | Fairfield, Connecticut, United States | On Site | Feb 05 |
+| **[Minerals Technologies Inc.](http://www.mineralstech.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69855bdd8da7a612045fdfe0?utm_campaign=1054&utm_source=git)** | Adams, MA, US | On Site | Feb 05 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69854e2d0f6f7e7a2cdff52e?utm_campaign=1054&utm_source=git)** | Lucerne Valley, CA, US | On Site | Feb 05 |
 | **[Kairoi Residential](https://www.kairoi.com/)** | **[People Services Intern - Human Resources](https://jobright.ai/jobs/info/698555cc0f6f7e7a2ce00332?utm_campaign=1054&utm_source=git)** | San Antonio,TX,US | On Site | Feb 05 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Human Resources Information System Intern](https://jobright.ai/jobs/info/69852e8b8da7a612045f8e94?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | Hybrid | Feb 05 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Internal Communications Intern - Spring 2026 HR](https://jobright.ai/jobs/info/6985248d0f6f7e7a2cdfaf3f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 05 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/69841b79348f733a5c37eb30?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 04 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6967f12f639b452fb57d7ff8?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Feb 04 |
 | **[AutoNation](http://autonation.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698414d3348f733a5c37e191?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 04 |
-| **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d693f727747250d584e4e?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Feb 04 |
-| **[Confluent](https://confluent.io)** | **[Early Talent Sophmore Intern](https://jobright.ai/jobs/info/698406d10f6f7e7a2cde18c6?utm_campaign=1054&utm_source=git)** | Ontario, Canada | Hybrid | Feb 04 |
-| **[McKinstry](http://www.mckinstry.com)** | **[Human Resource Operations Intern](https://jobright.ai/jobs/info/694b22f64b53a1551f94e5a8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/694344da50bbaf76505529a2?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
-| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Facilitator Intern](https://jobright.ai/jobs/info/6968a982f25a3800669730d7?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 04 |
-| **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69682b45639b452fb57dc001?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
-| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6967dfc4639b452fb57d7673?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 04 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Organizational Support Internship](https://jobright.ai/jobs/info/698453218da7a612045e72fc?utm_campaign=1054&utm_source=git)** | West Lebanon, NH, US | On Site | Feb 04 |
-| **[Dundee Bank](https://www.dundeebanking.com)** | **[HR Training and Development Internship - Summer 2026](https://jobright.ai/jobs/info/69841e910f6f7e7a2cde4bed?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
