@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 05 |
+| **[Valeo](http://www.valeo.com/en/)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698521640f6f7e7a2cdfabf7?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Feb 05 |
 | **[GAO Tek Company](https://www.linkedin.com/company/108336892)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6985135e348f733a5c39379d?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Campbell Transportation Company, Inc.](https://www.barges.us)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/698512490f6f7e7a2cdf8fdf?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Human Resource Paid Internship](https://jobright.ai/jobs/info/698511dc0f6f7e7a2cdf8f29?utm_campaign=1054&utm_source=git)** | Broadview Heights, OH | On Site | Feb 05 |
@@ -65,9 +67,12 @@ For a complete list, click the following sortable link below:
 | **[Humber College](http://www.humber.ca/)** | **[Program Support Officer, CPL - TPT - FHLS](https://jobright.ai/jobs/info/698510638da7a612045f60d4?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | **[Somos, Inc.](https://www.somos.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69850e78348f733a5c392d14?utm_campaign=1054&utm_source=git)** | McNair, VA | Remote | Feb 05 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698506d8348f733a5c392443?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Feb 05 |
+| **[Canterbury Park](https://www.canterburypark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69851bb80f6f7e7a2cdfa549?utm_campaign=1054&utm_source=git)** | Shakopee, MN | On Site | Feb 05 |
+| **[Halton District School Board](http://www.hdsb.ca)** | **[Temporary Human Resources Assistant - Operations Department](https://jobright.ai/jobs/info/69851ee30f6f7e7a2cdfa838?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Feb 05 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: HR Intern](https://jobright.ai/jobs/info/6984f4ab348f733a5c39104a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 05 |
 | **[Steffes](http://www.steffes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6984f37f348f733a5c390f13?utm_campaign=1054&utm_source=git)** | Grand Forks, North Dakota, United States | On Site | Feb 05 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6984ef420f6f7e7a2cdf68c8?utm_campaign=1054&utm_source=git)** | Port Washington, NY | On Site | Feb 05 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/69851b310f6f7e7a2cdfa41b?utm_campaign=1054&utm_source=git)** | Syracuse, NY, USA | Hybrid | Feb 05 |
 | **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Compensation Intern (Summer 2026)](https://jobright.ai/jobs/info/6984eaff8da7a612045f35f6?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 05 |
 | **[Dime Community Bank](https://www.dime.com)** | **[Intern - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/6984e8d18da7a612045f33f4?utm_campaign=1054&utm_source=git)** | Hauppauge, NY | On Site | Feb 05 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6984e7808da7a612045f3277?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 05 |
@@ -77,7 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment -- CHSS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/6984e4e88da7a612045f2ffb?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Feb 05 |
 | **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6984e1ff0f6f7e7a2cdf5ed6?utm_campaign=1054&utm_source=git)** | Houston, Texas | On Site | Feb 05 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6984e1910f6f7e7a2cdf5e2d?utm_campaign=1054&utm_source=git)** | Washington D.C., District of Columbia | On Site | Feb 05 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6984dfdf8da7a612045f2b67?utm_campaign=1054&utm_source=git)** | Los Angeles, California | On Site | Feb 05 |
+| **[Dime Community Bank](https://www.dime.com)** | **[Intern -  Human Resources (Summer 2026)](https://jobright.ai/jobs/info/698520688da7a612045f7aae?utm_campaign=1054&utm_source=git)** | Hauppauge, New York, United States | On Site | Feb 05 |
+| **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6984dfdf8da7a612045f2b67?utm_campaign=1054&utm_source=git)** | Los Angeles, California | On Site | Feb 05 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6984df5a348f733a5c38fe17?utm_campaign=1054&utm_source=git)** | Austin, Texas | On Site | Feb 05 |
 | **[Steffes](http://www.steffes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698501bd8da7a612045f4b18?utm_campaign=1054&utm_source=git)** | Shelby, North Carolina, United States | On Site | Feb 05 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6984fa0b8da7a612045f41e5?utm_campaign=1054&utm_source=git)** | Shakopee, Minnesota, United States | On Site | Feb 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vista Capital Partners](http://vistacp.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/698421670f6f7e7a2cde513f?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Feb 04 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/6983bd7c348f733a5c3708ad?utm_campaign=1054&utm_source=git)** | Kodiak, AK | On Site | Feb 04 |
 | **[DeBra-Kuempel](https://dkemcor.com/)** | **[HR Co-Op](https://jobright.ai/jobs/info/6983da7a01214b4cdacbf5cc?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Feb 04 |
-| **[Moody's Corporation](http://www.moodys.com)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/6983ba7e348f733a5c37002d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 04 |
-| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69682ecd1703f05405a9d5e2?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Feb 04 |
-| **[Acrisure](http://acrisure.com)** | **[Summer Intern - Employee Benefits](https://jobright.ai/jobs/info/6983b7d0348f733a5c36f8e5?utm_campaign=1054&utm_source=git)** | Grove City, PA | On Site | Feb 04 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983b7cf0f6f7e7a2cdd501f?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6983b59b0f6f7e7a2cdd49b0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Voluntary Benefit Analyst Intern](https://jobright.ai/jobs/info/6983dc7f01214b4cdacbfc64?utm_campaign=1054&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
