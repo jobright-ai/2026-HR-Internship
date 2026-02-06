@@ -57,13 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SWBC](https://www.swbc.com)** | **[Workforce Management Intern](https://jobright.ai/jobs/info/69865c2a8da7a6120461122c?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 06 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Early Talent Internship](https://jobright.ai/jobs/info/698659d98ca8121a3a6891df?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 06 |
+| **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917efd615b415636717cfe5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
+| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698654888ca8121a3a6888a4?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, United States | On Site | Feb 06 |
 | **[Museum of Science](http://www.mos.org)** | **[Human Resources Internship](https://jobright.ai/jobs/info/698643758da7a6120460f4b5?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Feb 06 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Non-Profit Administration, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a95d0db26b618950dbfa7?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
 | **[FieldPulse](https://www.fieldpulse.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698639458da7a6120460ea70?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/698638358ca8121a3a68672d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 06 |
+| **[Summit County Public Health](https://www.scph.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69865c588da7a61204611289?utm_campaign=1054&utm_source=git)** | Akron,OH,US | On Site | Feb 06 |
+| **[Hays County](http://hayscountytx.com)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/6986555b8da7a61204610a95?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Feb 06 |
 | **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69862e768da7a6120460df43?utm_campaign=1054&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 06 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69862a300f6f7e7a2ce10a85?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Feb 06 |
+| **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69865d3f8ca8121a3a689805?utm_campaign=1054&utm_source=git)** | US-MA-Westborough | On Site | Feb 06 |
+| ↳ | **[HR Operations Intern](https://jobright.ai/jobs/info/69865f898da7a6120461164a?utm_campaign=1054&utm_source=git)** | Westborough, MA, US | On Site | Feb 06 |
+| **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69862a300f6f7e7a2ce10a85?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Feb 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933c17c764507023d1b9215?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Feb 06 |
 | **[MarshBerry](http://marshberry.com)** | **[HR Intern](https://jobright.ai/jobs/info/698620ca8da7a6120460cacd?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Feb 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Feb 06 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7fb59b0edcf159dc8d12a?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Feb 05 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6969912df25a380066984892?utm_campaign=1054&utm_source=git)** | Tucson, AZ | Hybrid | Feb 05 |
 | **[Springpoint Senior Living](https://springpointsl.org/)** | **[Affordable Housing Intern](https://jobright.ai/jobs/info/69855c440f6f7e7a2ce01144?utm_campaign=1054&utm_source=git)** | Plainfield, NJ 07060, USA | On Site | Feb 05 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Human Resources Communications Intern / 2026 Treasury Summer Internship Program](https://jobright.ai/jobs/info/69858547348f733a5c39f990?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Feb 05 |
-| **[Bigelow Tea](http://www.bigelowtea.com)** | **[Corporate Responsibility & Human Resources Intern](https://jobright.ai/jobs/info/698576858da7a61204601305?utm_campaign=1054&utm_source=git)** | Fairfield, Connecticut, United States | On Site | Feb 05 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Human Resources Communications Intern / 2026 Treasury Summer Internship Program](https://jobright.ai/jobs/info/6985856c348f733a5c39f9c1?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Feb 05 |
-| **[Minerals Technologies Inc.](http://www.mineralstech.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69854e2d0f6f7e7a2cdff52e?utm_campaign=1054&utm_source=git)** | Lucerne Valley, CA, US | On Site | Feb 05 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69855bdd8da7a612045fdfe0?utm_campaign=1054&utm_source=git)** | Adams, MA, US | On Site | Feb 05 |
-| **[Kairoi Residential](https://www.kairoi.com/)** | **[People Services Intern - Human Resources](https://jobright.ai/jobs/info/698555cc0f6f7e7a2ce00332?utm_campaign=1054&utm_source=git)** | San Antonio,TX,US | On Site | Feb 05 |
-| **[Agiliti](https://www.agilitihealth.com/)** | **[Human Resources Information System Intern](https://jobright.ai/jobs/info/69852e8b8da7a612045f8e94?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | Hybrid | Feb 05 |
-| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Internal Communications Intern - Spring 2026 HR](https://jobright.ai/jobs/info/6985248d0f6f7e7a2cdfaf3f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
