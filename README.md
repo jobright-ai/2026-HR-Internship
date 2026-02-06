@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ff5aa0dde7020e2f395d?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Feb 06 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f80165ec6dbe7073fd0372?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/6813f40e7654653d2d0e9f1f?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 06 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/68f93a96cadb2e5a06a62a48?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Feb 06 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6933d021764507023d1b99ae?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | Feb 06 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f8976f36db06ef04a343?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Feb 06 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/6933b9fdf131d96e48466501?utm_campaign=1054&utm_source=git)** | Vernon Rockville, CT | On Site | Feb 06 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ff5aa0dde7020e2f395d?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Feb 06 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68dc75c7a125e75c422a0f1c?utm_campaign=1054&utm_source=git)** | Cedar Park, TX | On Site | Feb 06 |
+| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Richmond HR Intern](https://jobright.ai/jobs/info/694c25831a572a617dde6e99?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Feb 06 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Talent Acquisition Team Intern](https://jobright.ai/jobs/info/69327a82764507023d1aef03?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/6985e5128da7a612046094b7?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Feb 06 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[South Internship - 2026](https://jobright.ai/jobs/info/68f85423a628d10664e81c7b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Feb 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment -- CHSS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/6984e4e88da7a612045f2ffb?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Feb 05 |
 | **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6984e1ff0f6f7e7a2cdf5ed6?utm_campaign=1054&utm_source=git)** | Houston, Texas | On Site | Feb 05 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6984e1910f6f7e7a2cdf5e2d?utm_campaign=1054&utm_source=git)** | Washington D.C., District of Columbia | On Site | Feb 05 |
-| **[Dime Community Bank](https://www.dime.com)** | **[Intern -  Human Resources (Summer 2026)](https://jobright.ai/jobs/info/698520688da7a612045f7aae?utm_campaign=1054&utm_source=git)** | Hauppauge, New York, United States | On Site | Feb 05 |
-| **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6984dfdf8da7a612045f2b67?utm_campaign=1054&utm_source=git)** | Los Angeles, California | On Site | Feb 05 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6984df5a348f733a5c38fe17?utm_campaign=1054&utm_source=git)** | Austin, Texas | On Site | Feb 05 |
-| **[Steffes](http://www.steffes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698501bd8da7a612045f4b18?utm_campaign=1054&utm_source=git)** | Shelby, North Carolina, United States | On Site | Feb 05 |
-| **[Canterbury Park](https://www.canterburypark.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6984fa0b8da7a612045f41e5?utm_campaign=1054&utm_source=git)** | Shakopee, Minnesota, United States | On Site | Feb 05 |
-| **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6984dc2d8da7a612045f26ed?utm_campaign=1054&utm_source=git)** | Chicago, Illinois | On Site | Feb 05 |
-| **[Mastercard](http://www.mastercard.com)** | **[People and Capabilities (Benefit and Well-Being) Intern, Summer 2026 - Purchase, NY](https://jobright.ai/jobs/info/6984f9a60f6f7e7a2cdf728b?utm_campaign=1054&utm_source=git)** | Purchase, New York | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
