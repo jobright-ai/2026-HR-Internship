@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GAO Tek Company](https://www.linkedin.com/company/108336892)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6985135e348f733a5c39379d?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 05 |
+| **[Campbell Transportation Company, Inc.](https://www.barges.us)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/698512490f6f7e7a2cdf8fdf?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
+| **[Ohio Cat](http://www.ohiocat.com)** | **[Human Resource Paid Internship](https://jobright.ai/jobs/info/698511dc0f6f7e7a2cdf8f29?utm_campaign=1054&utm_source=git)** | Broadview Heights, OH | On Site | Feb 05 |
+| **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern - Airport Warehouse](https://jobright.ai/jobs/info/69811fb7abff4c399a9ff2bd?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Feb 05 |
+| **[Northwest Youth Services](https://www.nwys.org)** | **[HR Administrative Assistant Internship](https://jobright.ai/jobs/info/698510c28da7a612045f61a3?utm_campaign=1054&utm_source=git)** | Bellingham, WA, US | On Site | Feb 05 |
+| **[Humber College](http://www.humber.ca/)** | **[Program Support Officer, CPL - TPT - FHLS](https://jobright.ai/jobs/info/698510638da7a612045f60d4?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
+| **[Somos, Inc.](https://www.somos.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69850e78348f733a5c392d14?utm_campaign=1054&utm_source=git)** | McNair, VA | Remote | Feb 05 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698506d8348f733a5c392443?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Feb 05 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: HR Intern](https://jobright.ai/jobs/info/6984f4ab348f733a5c39104a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 05 |
 | **[Steffes](http://www.steffes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6984f37f348f733a5c390f13?utm_campaign=1054&utm_source=git)** | Grand Forks, North Dakota, United States | On Site | Feb 05 |
@@ -106,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/69841b79348f733a5c37eb30?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 04 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6967f12f639b452fb57d7ff8?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Feb 04 |
 | **[AutoNation](http://autonation.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698414d3348f733a5c37e191?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 04 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship - West - Summer 2026](https://jobright.ai/jobs/info/69683afa639b452fb57ddbb5?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Feb 04 |
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d693f727747250d584e4e?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Feb 04 |
 | **[Confluent](https://confluent.io)** | **[Early Talent Sophmore Intern](https://jobright.ai/jobs/info/698406d10f6f7e7a2cde18c6?utm_campaign=1054&utm_source=git)** | Ontario, Canada | Hybrid | Feb 04 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Human Resource Operations Intern](https://jobright.ai/jobs/info/694b22f64b53a1551f94e5a8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
@@ -126,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/6983ea4a01214b4cdacc24e5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 04 |
 | **[Partnership for Public Service](https://ourpublicservice.org/)** | **[2026 Summer Recruitment and Employee Engagement Internship](https://jobright.ai/jobs/info/69843cc48da7a612045e5577?utm_campaign=1054&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Feb 04 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[HR Intern Co-op](https://jobright.ai/jobs/info/6983e16001214b4cdacc0bce?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Feb 04 |
+| **[Everest](https://www.everestglobal.com/)** | **[Human Resources - People Analytics Internship Program](https://jobright.ai/jobs/info/6983daba01214b4cdacbf6b2?utm_campaign=1054&utm_source=git)** | Warren, NJ | Hybrid | Feb 04 |
 | **[Kiewit](http://www.kiewit.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/6983fbea348f733a5c37a4e8?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Feb 04 |
 | **[ALIGN PRECISION](https://alignprecision.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6983ded6348f733a5c376048?utm_campaign=1054&utm_source=git)** | Cottondale, AL | On Site | Feb 04 |
 | **[Montcure LLC](https://montcure.com/)** | **[Human Resources and Recruitment - Intern](https://jobright.ai/jobs/info/69843daa0f6f7e7a2cde8d90?utm_campaign=1054&utm_source=git)** | Dumfries, VA, US | Remote | Feb 04 |
@@ -134,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[HITT Contracting Inc.](http://www.hitt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6983db8801214b4cdacbf96e?utm_campaign=1054&utm_source=git)** | Falls Church, VA | On Site | Feb 04 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69687051639b452fb57e1773?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
 | **[Teradata](https://www.teradata.com)** | **[HR Compensation Intern](https://jobright.ai/jobs/info/6983db1c01214b4cdacbf810?utm_campaign=1054&utm_source=git)** | San Diego, CA | Remote | Feb 04 |
-| **[Everest](https://www.everestglobal.com/)** | **[Human Resources - Data Analytics Internship Program](https://jobright.ai/jobs/info/6983daba01214b4cdacbf6b2?utm_campaign=1054&utm_source=git)** | Warren, NJ | Hybrid | Feb 04 |
 | **[King Soopers/City Market](https://www.kingsoopers.com/)** | **[Summer 2026 Human Resources Intern- Supply Chain](https://jobright.ai/jobs/info/6983da2001214b4cdacbf4cd?utm_campaign=1054&utm_source=git)** | Monroe, OH | On Site | Feb 04 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69691bae1703f05405aaee4a?utm_campaign=1054&utm_source=git)** | South Dakota, United States | Remote | Feb 04 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Human Resources Seasonal Intern (April to September)](https://jobright.ai/jobs/info/6983ce14348f733a5c3730d1?utm_campaign=1054&utm_source=git)** | Westhampton Beach, NY | On Site | Feb 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983b7cf0f6f7e7a2cdd501f?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Feb 04 |
 | ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6983b59b0f6f7e7a2cdd49b0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Voluntary Benefit Analyst Intern](https://jobright.ai/jobs/info/6983dc7f01214b4cdacbfc64?utm_campaign=1054&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 04 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6983ed30348f733a5c3789bd?utm_campaign=1054&utm_source=git)** | Philadelphia - 15th | Hybrid | Feb 04 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[HR Operations Intern - Bachelor's Degree](https://jobright.ai/jobs/info/6983b3a7348f733a5c36edff?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Feb 04 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Feb 04 |
-| ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Feb 04 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/698424a20f6f7e7a2cde57a9?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Feb 04 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1a6348f733a5c36e8df?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
