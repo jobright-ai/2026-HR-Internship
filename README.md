@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AltimateMedical](http://easystand.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/698560340f6f7e7a2ce01929?utm_campaign=1054&utm_source=git)** | Morton, MN | On Site | Feb 05 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb6cf5c5d5f14f46d94f5?utm_campaign=1054&utm_source=git)** | Cary, NC | On Site | Feb 05 |
+| **[Byrne](https://www.byrne.com)** | **[HR Org Development Intern](https://jobright.ai/jobs/info/697a3437a8de441ca73553ac?utm_campaign=1054&utm_source=git)** | Rockford, MI | On Site | Feb 05 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Waco](https://jobright.ai/jobs/info/69685260f25a38006696b7a9?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Feb 05 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d199dd4a7df7a06724a5d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Feb 05 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1767d4a7df7a067247bb?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Feb 05 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb6cf5c5d5f14f46d94f5?utm_campaign=1054&utm_source=git)** | Cary, NC | On Site | Feb 05 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1054&utm_source=git)** | Eureka, CA | On Site | Feb 05 |
 | **[Centene Corporation](http://www.centene.com)** | **[People Team Intern, People Business Partners (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69855f0d348f733a5c39b8df?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Feb 05 |
 | **[Röchling Industrial](http://www.roechling-plastics.us)** | **[Intern HR Services](https://jobright.ai/jobs/info/69855a1a0f6f7e7a2ce00cf1?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Feb 05 |
@@ -70,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[People Operations Intern - Organizational Development & Learning](https://jobright.ai/jobs/info/69697e1a1703f05405ab6a3e?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Program Support Officer, CPL - TPT - FHLS](https://jobright.ai/jobs/info/698547f20f6f7e7a2cdfee0b?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 05 |
 | **[Valeo](http://www.valeo.com/en/)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698544350f6f7e7a2cdfe7ef?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Feb 05 |
+| **[Röchling Automotive](http://www.roechling.com/automotive)** | **[Intern HR Services](https://jobright.ai/jobs/info/6985655c0f6f7e7a2ce0225c?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Feb 05 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7fb59b0edcf159dc8d12a?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Feb 05 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6969912df25a380066984892?utm_campaign=1054&utm_source=git)** | Tucson, AZ | Hybrid | Feb 05 |
 | **[Springpoint Senior Living](https://springpointsl.org/)** | **[Affordable Housing Intern](https://jobright.ai/jobs/info/69855c440f6f7e7a2ce01144?utm_campaign=1054&utm_source=git)** | Plainfield, NJ 07060, USA | On Site | Feb 05 |
@@ -81,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698524208da7a612045f8015?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 05 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Valeo](http://www.valeo.com/en/)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698521640f6f7e7a2cdfabf7?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Feb 05 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Howard University](https://jobright.ai/jobs/info/698555588da7a612045fd331?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Feb 05 |
-| ↳ | **[Campus Chapter Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/698552d70f6f7e7a2cdffd98?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Feb 05 |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/698552d70f6f7e7a2cdffd98?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Feb 05 |
+| ↳ | **[Campus Chapter Intern - Howard University](https://jobright.ai/jobs/info/698555588da7a612045fd331?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Feb 05 |
 | **[GAO Tek Company](https://www.linkedin.com/company/108336892)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6985135e348f733a5c39379d?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Campbell Transportation Company, Inc.](https://www.barges.us)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/698512490f6f7e7a2cdf8fdf?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Human Resource Paid Internship](https://jobright.ai/jobs/info/698511dc0f6f7e7a2cdf8f29?utm_campaign=1054&utm_source=git)** | Broadview Heights, OH | On Site | Feb 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6967dfc4639b452fb57d7673?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 04 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Organizational Support Internship](https://jobright.ai/jobs/info/698453218da7a612045e72fc?utm_campaign=1054&utm_source=git)** | West Lebanon, NH, US | On Site | Feb 04 |
 | **[Dundee Bank](https://www.dundeebanking.com)** | **[HR Training and Development Internship - Summer 2026](https://jobright.ai/jobs/info/69841e910f6f7e7a2cde4bed?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 04 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Regional Scheduler](https://jobright.ai/jobs/info/6984139e8da7a612045dff16?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 04 |
-| **[LOFT Community Services](https://loftcs.org)** | **[Human Resources Student Placement](https://jobright.ai/jobs/info/69841e268da7a612045e13f6?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
-| **[Skyline Group of Companies](https://www.skylinegroupofcompanies.ca//)** | **[Human Resources Assistant, Student](https://jobright.ai/jobs/info/6983f1cb0f6f7e7a2cddeb09?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Feb 04 |
-| **[Kiewit](http://www.kiewit.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/6983f11d01214b4cdacc3164?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
