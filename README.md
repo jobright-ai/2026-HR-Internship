@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DESRI](https://desri.com/)** | **[Intern, Human Capital](https://jobright.ai/jobs/info/68def78744d32141e0c045b2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 07 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/696dcb705fc86241853c9fb8?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Feb 07 |
 | **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/69162f0b6f36db06ef0538d9?utm_campaign=1054&utm_source=git)** | Hopkins, MN | On Site | Feb 07 |
 | **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/698715740f6f7e7a2ce25883?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Feb 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product&Design team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adc5edb26b618950e3638?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Feb 07 |
@@ -103,9 +105,9 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6986c0858ca8121a3a692f2d?utm_campaign=1054&utm_source=git)** | Tennessee-Brentwood | On Site | Feb 06 |
 | **[Intact](http://www.intactfc.com)** | **[Coordinator, HR Systems & Analytics - 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/6986a0f38da7a61204617ce4?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 06 |
 | **[Alerus](https://www.alerus.com/)** | **[Retirement/401(k) & Benefits Intern](https://jobright.ai/jobs/info/6986a4ce0f6f7e7a2ce1afbf?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Hybrid | Feb 06 |
-| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986ad8f8da7a612046191ca?utm_campaign=1054&utm_source=git)** | New York, New York, USA | On Site | Feb 06 |
+| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986b3c20f6f7e7a2ce1cf0f?utm_campaign=1054&utm_source=git)** | Washington DC, USA | On Site | Feb 06 |
+| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986ad8f8da7a612046191ca?utm_campaign=1054&utm_source=git)** | New York, New York, USA | On Site | Feb 06 |
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986b3218da7a6120461999f?utm_campaign=1054&utm_source=git)** | San Antonio, Texas, USA | On Site | Feb 06 |
-| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986b3c20f6f7e7a2ce1cf0f?utm_campaign=1054&utm_source=git)** | Washington DC, USA | On Site | Feb 06 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/698091aa7f40342e15d95980?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 06 |
 | **[Manitoba Public Insurance](https://www.mpi.mb.ca/Pages/Home.aspx)** | **[HR Intern](https://jobright.ai/jobs/info/6986b39e0f6f7e7a2ce1cdc0?utm_campaign=1054&utm_source=git)** | CA-MB-Winnipeg | Hybrid | Feb 06 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6986a0cf8ca8121a3a68f069?utm_campaign=1054&utm_source=git)** | Winnipeg, MB, CA | Hybrid | Feb 06 |
@@ -116,9 +118,9 @@ For a complete list, click the following sortable link below:
 | **[Pluralsight](http://www.pluralsight.com)** | **[Operational Effectiveness & Development Intern](https://jobright.ai/jobs/info/698698a10f6f7e7a2ce1a152?utm_campaign=1054&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Feb 06 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698697cf8da7a61204617016?utm_campaign=1054&utm_source=git)** | Watsonville, California | On Site | Feb 06 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/698694800f6f7e7a2ce19a02?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, USA | On Site | Feb 06 |
+| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/698693208ca8121a3a68e1ed?utm_campaign=1054&utm_source=git)** | Minneapolis, Minnesota, USA | On Site | Feb 06 |
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986ab4f8da7a61204618ea3?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, USA | On Site | Feb 06 |
 | ↳ | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/698694578da7a61204616aa8?utm_campaign=1054&utm_source=git)** | Dallas, Texas, USA | On Site | Feb 06 |
-| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/698693208ca8121a3a68e1ed?utm_campaign=1054&utm_source=git)** | Minneapolis, Minnesota, USA | On Site | Feb 06 |
 | **[UBS](https://www.ubs.com)** | **[UBS Veterans Pathway Internship 2026 (Nashville)](https://jobright.ai/jobs/info/698669958da7a61204612a2d?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Feb 06 |
 | **[OTC Markets Group](http://www.otcmarkets.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69828a83348f733a5c3573c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[maurices](https://www.maurices.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698692900f6f7e7a2ce1973c?utm_campaign=1054&utm_source=git)** | Corporate Office-maurices-Duluth, MN 55802 | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69862e768da7a6120460df43?utm_campaign=1054&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 06 |
 | **[Middlesex University Dubai](http://www.mdx.ac.ae)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/698662720f6f7e7a2ce14e99?utm_campaign=1054&utm_source=git)** | Remote job | Remote | Feb 06 |
 | **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69865d3f8ca8121a3a689805?utm_campaign=1054&utm_source=git)** | US-MA-Westborough | On Site | Feb 06 |
-| ↳ | **[HR Operations Intern](https://jobright.ai/jobs/info/69865f898da7a6120461164a?utm_campaign=1054&utm_source=git)** | Westborough, MA, US | On Site | Feb 06 |
-| **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69862a300f6f7e7a2ce10a85?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
