@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GeoComply](https://www.geocomply.com)** | **[People Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6986d1cb0f6f7e7a2ce20552?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
+| ↳ | **[HR Special Projects Intern - Summer 2026](https://jobright.ai/jobs/info/6986cfef0f6f7e7a2ce200ad?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Feb 06 |
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/697bf17a1423772304ec39be?utm_campaign=1054&utm_source=git)** | Story City, IA | On Site | Feb 06 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986c7ed0f6f7e7a2ce1ea0d?utm_campaign=1054&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 06 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6986c5140f6f7e7a2ce1e8de?utm_campaign=1054&utm_source=git)** | Watsonville, CA | On Site | Feb 06 |
@@ -92,9 +94,9 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6986c0858ca8121a3a692f2d?utm_campaign=1054&utm_source=git)** | Tennessee-Brentwood | On Site | Feb 06 |
 | **[Intact](http://www.intactfc.com)** | **[Coordinator, HR Systems & Analytics - 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/6986a0f38da7a61204617ce4?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 06 |
 | **[Alerus](https://www.alerus.com/)** | **[Retirement/401(k) & Benefits Intern](https://jobright.ai/jobs/info/6986a4ce0f6f7e7a2ce1afbf?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Hybrid | Feb 06 |
-| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986b3c20f6f7e7a2ce1cf0f?utm_campaign=1054&utm_source=git)** | Washington DC, USA | On Site | Feb 06 |
+| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986ad8f8da7a612046191ca?utm_campaign=1054&utm_source=git)** | New York, New York, USA | On Site | Feb 06 |
+| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986b3c20f6f7e7a2ce1cf0f?utm_campaign=1054&utm_source=git)** | Washington DC, USA | On Site | Feb 06 |
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986b3218da7a6120461999f?utm_campaign=1054&utm_source=git)** | San Antonio, Texas, USA | On Site | Feb 06 |
-| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986ad8f8da7a612046191ca?utm_campaign=1054&utm_source=git)** | New York, New York, USA | On Site | Feb 06 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/698091aa7f40342e15d95980?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 06 |
 | **[Manitoba Public Insurance](https://www.mpi.mb.ca/Pages/Home.aspx)** | **[HR Intern](https://jobright.ai/jobs/info/6986a0cf8ca8121a3a68f069?utm_campaign=1054&utm_source=git)** | Winnipeg, MB, CA | Hybrid | Feb 06 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6986b39e0f6f7e7a2ce1cdc0?utm_campaign=1054&utm_source=git)** | CA-MB-Winnipeg | Hybrid | Feb 06 |
@@ -104,10 +106,10 @@ For a complete list, click the following sortable link below:
 | **[Sixth Street](https://sixthstreet.com)** | **[2026 Summer Internship - Human Capital Management](https://jobright.ai/jobs/info/6986785c8ca8121a3a68c1dc?utm_campaign=1054&utm_source=git)** | New York City | On Site | Feb 06 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Operational Effectiveness & Development Intern](https://jobright.ai/jobs/info/698698a10f6f7e7a2ce1a152?utm_campaign=1054&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Feb 06 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698697cf8da7a61204617016?utm_campaign=1054&utm_source=git)** | Watsonville, California | On Site | Feb 06 |
-| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/698693208ca8121a3a68e1ed?utm_campaign=1054&utm_source=git)** | Minneapolis, Minnesota, USA | On Site | Feb 06 |
+| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986ab4f8da7a61204618ea3?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, USA | On Site | Feb 06 |
+| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/698693208ca8121a3a68e1ed?utm_campaign=1054&utm_source=git)** | Minneapolis, Minnesota, USA | On Site | Feb 06 |
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/698694800f6f7e7a2ce19a02?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, USA | On Site | Feb 06 |
 | ↳ | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/698694578da7a61204616aa8?utm_campaign=1054&utm_source=git)** | Dallas, Texas, USA | On Site | Feb 06 |
-| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986ab4f8da7a61204618ea3?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, USA | On Site | Feb 06 |
 | **[UBS](https://www.ubs.com)** | **[UBS Veterans Pathway Internship 2026 (Nashville)](https://jobright.ai/jobs/info/698669958da7a61204612a2d?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Feb 06 |
 | **[OTC Markets Group](http://www.otcmarkets.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69828a83348f733a5c3573c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[maurices](https://www.maurices.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698692900f6f7e7a2ce1973c?utm_campaign=1054&utm_source=git)** | Corporate Office-maurices-Duluth, MN 55802 | On Site | Feb 06 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Sentara Health](http://www.sentara.com)** | **[Employee Relations Internship - Summer  2026](https://jobright.ai/jobs/info/6986683c0f6f7e7a2ce15a60?utm_campaign=1054&utm_source=git)** | Norfolk, VA | On Site | Feb 06 |
 | **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69862e768da7a6120460df43?utm_campaign=1054&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 06 |
 | **[Middlesex University Dubai](http://www.mdx.ac.ae)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/698662720f6f7e7a2ce14e99?utm_campaign=1054&utm_source=git)** | Remote job | Remote | Feb 06 |
-| **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69865f898da7a6120461164a?utm_campaign=1054&utm_source=git)** | Westborough, MA, US | On Site | Feb 06 |
-| ↳ | **[HR Operations Intern](https://jobright.ai/jobs/info/69865d3f8ca8121a3a689805?utm_campaign=1054&utm_source=git)** | US-MA-Westborough | On Site | Feb 06 |
+| **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69865d3f8ca8121a3a689805?utm_campaign=1054&utm_source=git)** | US-MA-Westborough | On Site | Feb 06 |
+| ↳ | **[HR Operations Intern](https://jobright.ai/jobs/info/69865f898da7a6120461164a?utm_campaign=1054&utm_source=git)** | Westborough, MA, US | On Site | Feb 06 |
 | **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69862a300f6f7e7a2ce10a85?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Feb 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933c17c764507023d1b9215?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Feb 06 |
 | **[MarshBerry](http://marshberry.com)** | **[HR Intern](https://jobright.ai/jobs/info/698620ca8da7a6120460cacd?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Museum of Science](http://www.mos.org)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69864b198ca8121a3a687e83?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Human Resources – Multiple Locations – May 2026](https://jobright.ai/jobs/info/69861d608da7a6120460c610?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
 | ↳ | **[Co-op or Intern, Human Resources – Multiple Locations – May 2026](https://jobright.ai/jobs/info/69861ca88ca8121a3a684255?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 06 |
-| ↳ | **[Co-op or Intern, Human Resources – Multiple Locations – May 2026](https://jobright.ai/jobs/info/69861ca18ca8121a3a684251?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 06 |
-| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b19?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
