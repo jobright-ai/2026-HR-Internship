@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Feb 08 |
+| **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt (40865)](https://jobright.ai/jobs/info/6988bcfd0f6f7e7a2ce3e0e9?utm_campaign=1054&utm_source=git)** | Richland, WA | On Site | Feb 08 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68d7555f7a37c712687c86ee?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b52ae11ade4306aa6409f6?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Feb 08 |
+| **[Arvento A](arventoa.us)** | **[Career Development Program](https://jobright.ai/jobs/info/6988b8a98da7a6120463b97f?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | On Site | Feb 08 |
+| **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 08 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/6933b9b1a0dde7020e2f12a8?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd3ab8e23def7af55b7063?utm_campaign=1054&utm_source=git)** | Fuquay-Varina, NC | On Site | Feb 08 |
+| ↳ | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 08 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Feb 08 |
 | **[PACCAR Technical Center](https://jobs.paccar.com/)** | **[Summer Internship 2026 - Human Resources](https://jobright.ai/jobs/info/69188b2e45fb6f5ead8a5d53?utm_campaign=1054&utm_source=git)** | Mount Vernon, WA | On Site | Feb 08 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/69340d99764507023d1bb9a3?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6916618e286ccf0a151351b5?utm_campaign=1054&utm_source=git)** | New Albany, IN | On Site | Feb 08 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986b9a40f6f7e7a2ce1d42e?utm_campaign=1054&utm_source=git)** | Twin Cities Area | On Site | Feb 06 |
 | ↳ | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/6986b5430f6f7e7a2ce1d00a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[HR Summer Internship 2026](https://jobright.ai/jobs/info/6986adcb8ca8121a3a690a70?utm_campaign=1054&utm_source=git)** | Armonk, NY | On Site | Feb 06 |
-| **[maurices](https://www.maurices.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6986abc38da7a61204618f49?utm_campaign=1054&utm_source=git)** | Duluth, MN | On Site | Feb 06 |
-| **[MVB Bank](https://mvbbanking.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6978298852f3c27ec6445723?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 06 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director of International Recruiting & Admissions](https://jobright.ai/jobs/info/6986a7ac0f6f7e7a2ce1b410?utm_campaign=1054&utm_source=git)** | Kalamazoo, MI | On Site | Feb 06 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/6986ca390f6f7e7a2ce1eb4a?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 06 |
-| **[Sixth Street](https://sixthstreet.com)** | **[2026 Summer Internship - Human Capital Management](https://jobright.ai/jobs/info/6986a1058ca8121a3a68f0d8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[Alerus](https://www.alerus.com/)** | **[Retirement/401(k) & Benefits Intern](https://jobright.ai/jobs/info/69869f1c8da7a61204617be1?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Hybrid | Feb 06 |
-| **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 06 |
-| **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Student Future Opportunity Stream - Business & Professional Functions - HR, Finance and Accounting](https://jobright.ai/jobs/info/69869afb0f6f7e7a2ce1a549?utm_campaign=1054&utm_source=git)** | Nova Scotia, Canada | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
