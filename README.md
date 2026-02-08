@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Human Resources Intern - Early Career Development](https://jobright.ai/jobs/info/6988e7588da7a6120463dcd4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/6988dca70f6f7e7a2ce3fda4?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt (40865)](https://jobright.ai/jobs/info/6988bcfd0f6f7e7a2ce3e0e9?utm_campaign=1054&utm_source=git)** | Richland, WA | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68d7555f7a37c712687c86ee?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b52ae11ade4306aa6409f6?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Feb 08 |
-| **[Arvento A](arventoa.us)** | **[Career Development Program](https://jobright.ai/jobs/info/6988b8a98da7a6120463b97f?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | On Site | Feb 08 |
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/6933b9b1a0dde7020e2f12a8?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd3ab8e23def7af55b7063?utm_campaign=1054&utm_source=git)** | Fuquay-Varina, NC | On Site | Feb 08 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Feb 08 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Safety)](https://jobright.ai/jobs/info/69704790587dfa0bb55dcc0b?utm_campaign=1054&utm_source=git)** | Missouri, United States | On Site | Feb 08 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/698485d20f6f7e7a2cdeef10?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Feb 08 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d76431e5763f188e4072?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Feb 08 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/68f14a25ef766b3f0fd0b447?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Feb 08 |
 | **[Carl Buddig and Company](https://buddig.com/)** | **[Human Resources (HR) / Safety Intern - Summer 2026 (2183)](https://jobright.ai/jobs/info/698873de8ca8121a3a6affca?utm_campaign=1054&utm_source=git)** | Montgomery - Montgomery, IL 60538 | On Site | Feb 08 |
@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696b7ab1db26b618950efe70?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Feb 08 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Retirement Plan Services Internship](https://jobright.ai/jobs/info/69827a360f6f7e7a2cdbb7a8?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Feb 08 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Tennis](https://jobright.ai/jobs/info/696ba3d65fc86241853afe7e?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Feb 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/698861f98da7a612046382f5?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ccc1cbd99309000e5a29a4?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Feb 08 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Golf](https://jobright.ai/jobs/info/696ba372db26b618950f2962?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Feb 08 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Golf](https://jobright.ai/jobs/info/696b7026350cf4380312c68c?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Feb 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986bc270f6f7e7a2ce1d6c6?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Feb 06 |
 | ↳ | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/6986b9d78da7a6120461a56c?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Feb 06 |
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986b9a40f6f7e7a2ce1d42e?utm_campaign=1054&utm_source=git)** | Twin Cities Area | On Site | Feb 06 |
+| ↳ | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/6986b5430f6f7e7a2ce1d00a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
