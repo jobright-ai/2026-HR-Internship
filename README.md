@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[HR Summer Intern](https://jobright.ai/jobs/info/698803c90f6f7e7a2ce3366e?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 07 |
 | **[Hotels AI](http://www.gudens.com/hotels-ai)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/6987a81a8ca8121a3a6a28e1?utm_campaign=1054&utm_source=git)** | Hilton Head Island, SC | On Site | Feb 07 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Human Resources Internship](https://jobright.ai/jobs/info/69879e108ca8121a3a6a22e2?utm_campaign=1054&utm_source=git)** | Concord, NH | Hybrid | Feb 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/69878a790f6f7e7a2ce2cb12?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 07 |
@@ -142,10 +143,10 @@ For a complete list, click the following sortable link below:
 | **[Sixth Street](https://sixthstreet.com)** | **[2026 Summer Internship - Human Capital Management](https://jobright.ai/jobs/info/6986785c8ca8121a3a68c1dc?utm_campaign=1054&utm_source=git)** | New York City | On Site | Feb 06 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Operational Effectiveness & Development Intern](https://jobright.ai/jobs/info/698698a10f6f7e7a2ce1a152?utm_campaign=1054&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Feb 06 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698697cf8da7a61204617016?utm_campaign=1054&utm_source=git)** | Watsonville, California | On Site | Feb 06 |
-| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986ab4f8da7a61204618ea3?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, USA | On Site | Feb 06 |
+| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/698693208ca8121a3a68e1ed?utm_campaign=1054&utm_source=git)** | Minneapolis, Minnesota, USA | On Site | Feb 06 |
 | ↳ | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/698694578da7a61204616aa8?utm_campaign=1054&utm_source=git)** | Dallas, Texas, USA | On Site | Feb 06 |
+| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986ab4f8da7a61204618ea3?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, USA | On Site | Feb 06 |
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/698694800f6f7e7a2ce19a02?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, USA | On Site | Feb 06 |
-| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/698693208ca8121a3a68e1ed?utm_campaign=1054&utm_source=git)** | Minneapolis, Minnesota, USA | On Site | Feb 06 |
 | **[UBS](https://www.ubs.com)** | **[UBS Veterans Pathway Internship 2026 (Nashville)](https://jobright.ai/jobs/info/698669958da7a61204612a2d?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Feb 06 |
 | **[OTC Markets Group](http://www.otcmarkets.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69828a83348f733a5c3573c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[maurices](https://www.maurices.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698692900f6f7e7a2ce1973c?utm_campaign=1054&utm_source=git)** | Corporate Office-maurices-Duluth, MN 55802 | On Site | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SWBC](https://www.swbc.com)** | **[Workforce Management Intern](https://jobright.ai/jobs/info/69865c2a8da7a6120461122c?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 06 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Early Talent Internship](https://jobright.ai/jobs/info/698659d98ca8121a3a6891df?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 06 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69875ce98ca8121a3a69e98a?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Remote | Feb 06 |
-| **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917efd615b415636717cfe5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
