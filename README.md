@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Cape Cod / South Shore area](https://jobright.ai/jobs/info/68cff20f846f0b04af6864f7?utm_campaign=1054&utm_source=git)** | Hyannis, MA | On Site | Feb 08 |
+| **[PACCAR](http://www.paccar.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/691884d415b41563671829dd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Human Resources Intern/Co-Op](https://jobright.ai/jobs/info/6904876dd64a22104aa9a1fb?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Feb 08 |
+| **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Feb 08 |
+| **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/696c65a1db26b618950fc505?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Feb 08 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691662f36f36db06ef055cb5?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Management Internship - Cape Cod / South Shore area](https://jobright.ai/jobs/info/68cff20f846f0b04af6864f7?utm_campaign=1054&utm_source=git)** | Hyannis, MA | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/68ce883a846f0b04af67ac2f?utm_campaign=1054&utm_source=git)** | Leominster, MA | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Feb 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Middletown and Goshen, NY](https://jobright.ai/jobs/info/696ad3dd5fc862418539f813?utm_campaign=1054&utm_source=git)** | Goshen, NY | On Site | Feb 06 |
 | **[Wesley Behavioral Health Services](https://www.wesleybhsllc.com/home)** | **[HR Intern (Unpaid)](https://jobright.ai/jobs/info/6986b16f0f6f7e7a2ce1c1af?utm_campaign=1054&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Feb 06 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/698688bf8ca8121a3a68d67c?utm_campaign=1054&utm_source=git)** | Houston, Texas, USA | On Site | Feb 06 |
-| **[Pluralsight](http://www.pluralsight.com)** | **[Operational Effectiveness & Development Intern](https://jobright.ai/jobs/info/6986a4168da7a61204618144?utm_campaign=1054&utm_source=git)** | Westlake, TX | Hybrid | Feb 06 |
-| **[Metropolitan District Commission](https://themdc.org)** | **[College Intern -Human Resources](https://jobright.ai/jobs/info/6986b3b18ca8121a3a691202?utm_campaign=1054&utm_source=git)** | 555 Main Street, Hartford, CT, USA | On Site | Feb 06 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6986c0858ca8121a3a692f2d?utm_campaign=1054&utm_source=git)** | Tennessee-Brentwood | On Site | Feb 06 |
-| **[Intact](http://www.intactfc.com)** | **[Coordinator, HR Systems & Analytics - 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/6986a0f38da7a61204617ce4?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 06 |
-| **[Alerus](https://www.alerus.com/)** | **[Retirement/401(k) & Benefits Intern](https://jobright.ai/jobs/info/6986a4ce0f6f7e7a2ce1afbf?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
