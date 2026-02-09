@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Student Future Opportunity Stream - Business & Professional Functions - HR, Finance and Accounting](https://jobright.ai/jobs/info/69869afb0f6f7e7a2ce1a549?utm_campaign=1054&utm_source=git)** | Nova Scotia, Canada | Hybrid | Feb 08 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698973b547434001cc67a75a?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 08 |
 | **[Dollar General](https://www.dollargeneral.com/)** | **[DC Intern](https://jobright.ai/jobs/info/6989663c47434001cc678771?utm_campaign=1054&utm_source=git)** | Blair, NE | On Site | Feb 08 |
+| **[Arrow Financial Corporation](http://www.arrowfinancial.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698987578ca8121a3a6bdca4?utm_campaign=1054&utm_source=git)** | Glens Falls, NY | On Site | Feb 08 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Intern - Development](https://jobright.ai/jobs/info/69890f5e8ca8121a3a6b6bfc?utm_campaign=1054&utm_source=git)** | Hobe Sound, FL | On Site | Feb 08 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Human Resources Intern - Early Career Development](https://jobright.ai/jobs/info/6988e7588da7a6120463dcd4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/6988dca70f6f7e7a2ce3fda4?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 08 |
@@ -74,16 +76,16 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/69340d99764507023d1bb9a3?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6916618e286ccf0a151351b5?utm_campaign=1054&utm_source=git)** | New Albany, IN | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Worcester area](https://jobright.ai/jobs/info/68d824a0295f8e37655e5acd?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Feb 08 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6933da52a0dde7020e2f255c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Feb 08 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6933da52a0dde7020e2f255c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/691884d415b41563671829dd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Human Resources Intern/Co-Op](https://jobright.ai/jobs/info/6904876dd64a22104aa9a1fb?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Feb 08 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Feb 08 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/696c65a1db26b618950fc505?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691662f36f36db06ef055cb5?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Cape Cod / South Shore area](https://jobright.ai/jobs/info/68cff20f846f0b04af6864f7?utm_campaign=1054&utm_source=git)** | Hyannis, MA | On Site | Feb 08 |
-| ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/68ce883a846f0b04af67ac2f?utm_campaign=1054&utm_source=git)** | Leominster, MA | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Feb 08 |
@@ -135,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[City of Doraville, Georgia](http://www.doravillega.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69872e6c0f6f7e7a2ce26ca1?utm_campaign=1054&utm_source=git)** | Doraville, GA | On Site | Feb 07 |
 | **[DESRI](https://desri.com/)** | **[Intern, Human Capital](https://jobright.ai/jobs/info/68def78744d32141e0c045b2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/69162f0b6f36db06ef0538d9?utm_campaign=1054&utm_source=git)** | Hopkins, MN | On Site | Feb 07 |
-| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/698715740f6f7e7a2ce25883?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Feb 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product&Design team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adc5edb26b618950e3638?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Feb 07 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[People & Culture Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae58b5fc86241853a19f9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product&Design team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69797ee2ca92cf0d6a82a31b?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69896ca78ca8121a3a6bc33e?utm_campaign=1054&utm_source=git)** | Nevada, United States | Remote | Feb 06 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986bfa08da7a6120461abca?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Feb 06 |
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986bc6a8ca8121a3a692898?utm_campaign=1054&utm_source=git)** | DC-Baltimore Area | On Site | Feb 06 |
-| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986bc270f6f7e7a2ce1d6c6?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
