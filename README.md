@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/696d46ab350cf43803143d1a?utm_campaign=1054&utm_source=git)** | Westminster, CO | On Site | Feb 09 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Workforce Planning & Development Intern](https://jobright.ai/jobs/info/6989a82d47434001cc67c7dc?utm_campaign=1054&utm_source=git)** | United States of America-OHIO | Hybrid | Feb 09 |
+| **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Workforce Planning & Development Intern](https://jobright.ai/jobs/info/6989a4620f6f7e7a2ce4a2e8?utm_campaign=1054&utm_source=git)** | Ohio, United States | Hybrid | Feb 09 |
 | **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Student Future Opportunity Stream - Business & Professional Functions - HR, Finance and Accounting](https://jobright.ai/jobs/info/69869afb0f6f7e7a2ce1a549?utm_campaign=1054&utm_source=git)** | Nova Scotia, Canada | Hybrid | Feb 08 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698973b547434001cc67a75a?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 08 |
 | **[Dollar General](https://www.dollargeneral.com/)** | **[DC Intern](https://jobright.ai/jobs/info/6989663c47434001cc678771?utm_campaign=1054&utm_source=git)** | Blair, NE | On Site | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69896d378ca8121a3a6bc862?utm_campaign=1054&utm_source=git)** | Alabama, United States | Remote | Feb 06 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986c1478ca8121a3a692fa8?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 06 |
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986bff68da7a6120461ac1f?utm_campaign=1054&utm_source=git)** | Greater St. Louis | On Site | Feb 06 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69896ca78ca8121a3a6bc33e?utm_campaign=1054&utm_source=git)** | Nevada, United States | Remote | Feb 06 |
-| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986bfa08da7a6120461abca?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Feb 06 |
-| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986bc6a8ca8121a3a692898?utm_campaign=1054&utm_source=git)** | DC-Baltimore Area | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
