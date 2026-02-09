@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/69340d99764507023d1bb9a3?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6916618e286ccf0a151351b5?utm_campaign=1054&utm_source=git)** | New Albany, IN | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Worcester area](https://jobright.ai/jobs/info/68d824a0295f8e37655e5acd?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Feb 08 |
-| ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6933da52a0dde7020e2f255c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Feb 08 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/691884d415b41563671829dd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Human Resources Intern/Co-Op](https://jobright.ai/jobs/info/6904876dd64a22104aa9a1fb?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Feb 08 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Feb 08 |
@@ -107,8 +107,7 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/69878a790f6f7e7a2ce2cb12?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 07 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 07 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern - Summer '26](https://jobright.ai/jobs/info/68c2333563b706703e11245b?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Feb 07 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6988d1698ca8121a3a6b4448?utm_campaign=1054&utm_source=git)** | Nevada, United States | Remote | Feb 07 |
-| ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6988ce068ca8121a3a6b43d5?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Remote | Feb 07 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6988ce068ca8121a3a6b43d5?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Remote | Feb 07 |
 | **[American Gastroenterological Association (AGA)](http://www.gastro.org)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/698774a08ca8121a3a6a04c8?utm_campaign=1054&utm_source=git)** | Bethesda, MD | Hybrid | Feb 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f602ca2668b7f54528a69?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Feb 07 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1054&utm_source=git)** | Twin Falls, ID | On Site | Feb 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/6986b9d78da7a6120461a56c?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Feb 06 |
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986b9a40f6f7e7a2ce1d42e?utm_campaign=1054&utm_source=git)** | Twin Cities Area | On Site | Feb 06 |
 | ↳ | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/6986b5430f6f7e7a2ce1d00a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Feb 06 |
+| **[IBM](http://www.ibm.com)** | **[HR Summer Internship 2026](https://jobright.ai/jobs/info/6986adcb8ca8121a3a690a70?utm_campaign=1054&utm_source=git)** | Armonk, NY | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
