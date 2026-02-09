@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[USG](https://www.usg.com/)** | **[HR Intern](https://jobright.ai/jobs/info/698a32f64db8972cecff73c4?utm_campaign=1054&utm_source=git)** | Metro Jacksonville | On Site | Feb 09 |
+| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/698a3d550f6f7e7a2ce54e54?utm_campaign=1054&utm_source=git)** | Remote, Remote, United States | Remote | Feb 09 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Resettlement Case Management Intern – Spring 2026](https://jobright.ai/jobs/info/696980dff25a380066982613?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 09 |
+| **[Runnings](https://www.runnings.com)** | **[Human Resources Recruiting Intern](https://jobright.ai/jobs/info/698a3b8a0f6f7e7a2ce54c84?utm_campaign=1054&utm_source=git)** | Marshall, Minnesota, United States | On Site | Feb 09 |
+| **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/698a39b047434001cc686dfd?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 09 |
+| **[USG](https://www.usg.com/)** | **[HR Intern](https://jobright.ai/jobs/info/698a399f0f6f7e7a2ce54a62?utm_campaign=1054&utm_source=git)** | UNITED STATES GYPSUM COMPANY;6825 Evergreen Avenue, Jacksonville, United States, 32208-4483, US | On Site | Feb 09 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/698a32f64db8972cecff73c4?utm_campaign=1054&utm_source=git)** | Metro Jacksonville | On Site | Feb 09 |
 | **[Blast Cleaning Technologies, Inc.](http://bct-us.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698a328f0f6f7e7a2ce545cd?utm_campaign=1054&utm_source=git)** | West Allis, WI | On Site | Feb 09 |
 | **[Hudl](http://www.hudl.com)** | **[Learning, Talent and Inclusion Intern](https://jobright.ai/jobs/info/698a303547434001cc68679c?utm_campaign=1054&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Feb 09 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Security Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/698a2f4c4db8972cecff71b8?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1054&utm_source=git)** | Twin Falls, ID | On Site | Feb 07 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | Feb 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[Organizational Support Internship](https://jobright.ai/jobs/info/698767640f6f7e7a2ce2a5d8?utm_campaign=1054&utm_source=git)** | West Lebanon, NH | On Site | Feb 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | Feb 07 |
-| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f5ffca2668b7f54528a5b?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Feb 07 |
-| **[JR Automation](https://www.jrautomation.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/69267959d47de4798ecd788f?utm_campaign=1054&utm_source=git)** | Holland, MI | Hybrid | Feb 07 |
-| **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/6967b2451703f05405a9576b?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Feb 07 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, HR Analyst](https://jobright.ai/jobs/info/693365b2a0dde7020e2ed707?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
