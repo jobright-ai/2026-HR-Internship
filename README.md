@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Fedcap Group](https://fedcapgroup.org)** | **[Temporary Paid Intern](https://jobright.ai/jobs/info/696ac4c15fc862418539de94?utm_campaign=1054&utm_source=git)** | Jamaica, NY | On Site | Feb 09 |
+| **[San José State University](http://www.sjsu.edu/)** | **[International Recruitment Specialist](https://jobright.ai/jobs/info/694365d150bbaf7650554ee4?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 09 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Feb 09 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6989dfe60f6f7e7a2ce4ec65?utm_campaign=1054&utm_source=git)** | New Mexico, United States | Remote | Feb 09 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919ccacbcdbf3560c9d72fd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 09 |
@@ -96,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/696c65a1db26b618950fc505?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691662f36f36db06ef055cb5?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Cape Cod / South Shore area](https://jobright.ai/jobs/info/68cff20f846f0b04af6864f7?utm_campaign=1054&utm_source=git)** | Hyannis, MA | On Site | Feb 08 |
-| ↳ | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/68ce883a846f0b04af67ac2f?utm_campaign=1054&utm_source=git)** | Leominster, MA | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/68ce883a846f0b04af67ac2f?utm_campaign=1054&utm_source=git)** | Leominster, MA | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern Summer 2026- Corpus Christi](https://jobright.ai/jobs/info/68df2e5efe896042b0b778f5?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Feb 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product&Design team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69797ee2ca92cf0d6a82a31b?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
 | **[GeoComply](https://www.geocomply.com)** | **[People Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6986f4dd8da7a612046205a9?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 07 |
 | **[City of Colleyville, TX](https://www.colleyville.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69871d588da7a61204623524?utm_campaign=1054&utm_source=git)** | Colleyville, TX | On Site | Feb 06 |
-| **[GeoComply](https://www.geocomply.com)** | **[People Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6986d1cb0f6f7e7a2ce20552?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
-| ↳ | **[HR Special Projects Intern - Summer 2026](https://jobright.ai/jobs/info/6986cfef0f6f7e7a2ce200ad?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
