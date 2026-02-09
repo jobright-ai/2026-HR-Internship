@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Feb 09 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Human Resources Internship - Summer/Fall '26](https://jobright.ai/jobs/info/6989d45e0f6f7e7a2ce4da79?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6989d2f50f6f7e7a2ce4d9bc?utm_campaign=1054&utm_source=git)** | Maryland, United States | Remote | Feb 09 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6989fd164db8972cecff3d6d?utm_campaign=1054&utm_source=git)** | North Liberty, Iowa | On Site | Feb 09 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Prince George Campus Recruiting - Talent Pool for CPA Opportunities in Audit and Tax, 2026](https://jobright.ai/jobs/info/691878be45fb6f5ead8a57e4?utm_campaign=1054&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Feb 09 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/696d46ab350cf43803143d1a?utm_campaign=1054&utm_source=git)** | Westminster, CO | On Site | Feb 09 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Workforce Planning & Development Intern](https://jobright.ai/jobs/info/6989a82d47434001cc67c7dc?utm_campaign=1054&utm_source=git)** | United States of America-OHIO | Hybrid | Feb 09 |
@@ -90,16 +91,16 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/69340d99764507023d1bb9a3?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6916618e286ccf0a151351b5?utm_campaign=1054&utm_source=git)** | New Albany, IN | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Worcester area](https://jobright.ai/jobs/info/68d824a0295f8e37655e5acd?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Feb 08 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6933da52a0dde7020e2f255c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Feb 08 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6933da52a0dde7020e2f255c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/691884d415b41563671829dd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Human Resources Intern/Co-Op](https://jobright.ai/jobs/info/6904876dd64a22104aa9a1fb?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Feb 08 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Feb 08 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/696c65a1db26b618950fc505?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691662f36f36db06ef055cb5?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Cape Cod / South Shore area](https://jobright.ai/jobs/info/68cff20f846f0b04af6864f7?utm_campaign=1054&utm_source=git)** | Hyannis, MA | On Site | Feb 08 |
-| ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/68ce883a846f0b04af67ac2f?utm_campaign=1054&utm_source=git)** | Leominster, MA | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern Summer 2026- Corpus Christi](https://jobright.ai/jobs/info/68df2e5efe896042b0b778f5?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[People & Culture Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae58b5fc86241853a19f9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product&Design team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69797ee2ca92cf0d6a82a31b?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
 | **[GeoComply](https://www.geocomply.com)** | **[People Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6986f4dd8da7a612046205a9?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 07 |
-| **[City of Colleyville, TX](https://www.colleyville.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69871d588da7a61204623524?utm_campaign=1054&utm_source=git)** | Colleyville, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
