@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Feb 08 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Safety)](https://jobright.ai/jobs/info/69704790587dfa0bb55dcc0b?utm_campaign=1054&utm_source=git)** | Missouri, United States | On Site | Feb 08 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69893ff50f6f7e7a2ce4477a?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Feb 08 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d76431e5763f188e4072?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Feb 08 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/68f14a25ef766b3f0fd0b447?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Feb 08 |
 | **[Carl Buddig and Company](https://buddig.com/)** | **[Human Resources (HR) / Safety Intern - Summer 2026 (2183)](https://jobright.ai/jobs/info/698873de8ca8121a3a6affca?utm_campaign=1054&utm_source=git)** | Montgomery - Montgomery, IL 60538 | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/6986b9d78da7a6120461a56c?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Feb 06 |
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986b9a40f6f7e7a2ce1d42e?utm_campaign=1054&utm_source=git)** | Twin Cities Area | On Site | Feb 06 |
 | ↳ | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/6986b5430f6f7e7a2ce1d00a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Feb 06 |
-| **[IBM](http://www.ibm.com)** | **[HR Summer Internship 2026](https://jobright.ai/jobs/info/6986adcb8ca8121a3a690a70?utm_campaign=1054&utm_source=git)** | Armonk, NY | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
