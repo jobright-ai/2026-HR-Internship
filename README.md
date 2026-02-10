@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[2026 Internships - HR, Marketing-Sales, Finance](https://jobright.ai/jobs/info/698baef8c5761b521a9b40d3?utm_campaign=1054&utm_source=git)** | Rock Hill, NY | Hybrid | Feb 10 |
 | **[Birge & Held](https://birgeandheld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698b8f5006d9b0622495b395?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 10 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Talent Brand Intern - Summer 2026](https://jobright.ai/jobs/info/698b88b1c5761b521a9b1691?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Hybrid | Feb 10 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Talent Foundation Management Intern](https://jobright.ai/jobs/info/698b81a00f6f7e7a2ce6f37d?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Feb 10 |
@@ -126,15 +127,15 @@ For a complete list, click the following sortable link below:
 | **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[College and International Programs Intern, Fall 2026](https://jobright.ai/jobs/info/698b1fc44db8972cec00948f?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 10 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[College and International Programs Intern, Fall 2026](https://jobright.ai/jobs/info/698b1ea04db8972cec00942d?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 10 |
-| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3df20f6f7e7a2ce68da0?utm_campaign=1054&utm_source=git)** | Salt Lake City - remote first in US | Remote | Feb 10 |
+| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d8b0f6f7e7a2ce68d38?utm_campaign=1054&utm_source=git)** | Atlanta - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d8a4db8972cec00b59b?utm_campaign=1054&utm_source=git)** | Minneapolis - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3c334db8972cec00b4ec?utm_campaign=1054&utm_source=git)** | Phoenix - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3df20f6f7e7a2ce68da0?utm_campaign=1054&utm_source=git)** | Salt Lake City - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3b310f6f7e7a2ce68ace?utm_campaign=1054&utm_source=git)** | Chicago - remote first in US | Remote | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3b7fc5761b521a9aa1b1?utm_campaign=1054&utm_source=git)** | Houston - remote first in US | Remote | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3f094db8972cec00b6c0?utm_campaign=1054&utm_source=git)** | Columbus - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3c334db8972cec00b4ec?utm_campaign=1054&utm_source=git)** | Phoenix - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d8b0f6f7e7a2ce68d38?utm_campaign=1054&utm_source=git)** | Atlanta - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3f314db8972cec00b6e3?utm_campaign=1054&utm_source=git)** | Portland - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3b310f6f7e7a2ce68ace?utm_campaign=1054&utm_source=git)** | Chicago - remote first in US | Remote | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d92c5761b521a9aa2c2?utm_campaign=1054&utm_source=git)** | Los Angeles - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d8a4db8972cec00b59b?utm_campaign=1054&utm_source=git)** | Minneapolis - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3f314db8972cec00b6e3?utm_campaign=1054&utm_source=git)** | Portland - remote first in US | Remote | Feb 10 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6952e2d7f1f8465b79ea29ef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Process & Knowledge Intern, Global Human Resources Operations, Summer/Fall 2026](https://jobright.ai/jobs/info/698b1c63c5761b521a9a7ee8?utm_campaign=1054&utm_source=git)** | Celebration, FL | Hybrid | Feb 10 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/697309531790715e866bfd03?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Feb 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698abae6c5761b521a9a0f02?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Feb 09 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Performance Management - Loveland, CO](https://jobright.ai/jobs/info/698ab776c5761b521a9a089e?utm_campaign=1054&utm_source=git)** | Loveland, CO | On Site | Feb 09 |
 | ↳ | **[Co-op, Performance Management - Loveland, CO](https://jobright.ai/jobs/info/698ab4d3c5761b521a9a05ed?utm_campaign=1054&utm_source=git)** | Loveland, CO | On Site | Feb 09 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698ab4c30f6f7e7a2ce5f4ac?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
