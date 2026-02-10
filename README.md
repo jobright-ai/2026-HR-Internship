@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robinhood](https://www.robinhood.com)** | **[PeopleX Partner Intern](https://jobright.ai/jobs/info/693748a8aabec14a727c5f9d?utm_campaign=1054&utm_source=git)** | Menlo Park, CA | Hybrid | Feb 10 |
+| **[Alerus](https://www.alerus.com/)** | **[Retirement/401(k) & Benefits Intern](https://jobright.ai/jobs/info/698b745b06d9b06224958dd9?utm_campaign=1054&utm_source=git)** | Excelsior, MN | Hybrid | Feb 10 |
+| **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-SUST-004-Sustainability Human Resources Intern](https://jobright.ai/jobs/info/698b739e06d9b06224958c21?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Feb 10 |
+| **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69379c3eaabec14a727c9c3c?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 10 |
+| **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-ODHR-001-Human Resources Information Services Intern](https://jobright.ai/jobs/info/698b727106d9b062249589fc?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Feb 10 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698b6d7d06d9b062249581aa?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | **[WM](https://www.wm.com/)** | **[HR Reporting and Analytics Intern](https://jobright.ai/jobs/info/698b5dcfc5761b521a9ad27a?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Feb 10 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698b76fa06d9b062249591e0?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Feb 10 |
 | **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b5210c5761b521a9abf89?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b51aec5761b521a9abf04?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b51a906d9b062249554fb?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | Hybrid | Feb 10 |
@@ -69,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b4d88c5761b521a9ab830?utm_campaign=1054&utm_source=git)** | Twin Cities Area | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b4b07c5761b521a9ab407?utm_campaign=1054&utm_source=git)** | DFW Metroplex | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b4ad406d9b0622495493f?utm_campaign=1054&utm_source=git)** | Miami-FTL Area | Hybrid | Feb 10 |
+| **[Cerity Partners](https://ceritypartners.com/)** | **[Retirement Plan Services Internship](https://jobright.ai/jobs/info/69827a360f6f7e7a2cdbb7a8?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Feb 10 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/68cbaccbba798c1a501d3c75?utm_campaign=1054&utm_source=git)** | Frankfort, NY | On Site | Feb 10 |
 | **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b49fb06d9b0622495481a?utm_campaign=1054&utm_source=git)** | SLC Metro Area | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b49f406d9b0622495480f?utm_campaign=1054&utm_source=git)** | KC Metro Area | Hybrid | Feb 10 |
@@ -81,8 +88,10 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6937676fa0dde7020e302727?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Feb 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/696eb344350cf43803158b80?utm_campaign=1054&utm_source=git)** | Annapolis, MD | On Site | Feb 10 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919cd6145fb6f5ead8aa697?utm_campaign=1054&utm_source=git)** | Irondale, AL | On Site | Feb 10 |
-| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b6d0e06d9b062249580de?utm_campaign=1054&utm_source=git)** | Nashville Metro | Hybrid | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b37d2c5761b521a9a9ec7?utm_campaign=1054&utm_source=git)** | Philadelphia - remote first in US | Remote | Feb 10 |
+| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b76b406d9b062249591bf?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b6d0e06d9b062249580de?utm_campaign=1054&utm_source=git)** | Nashville Metro | Hybrid | Feb 10 |
+| **[Woolpert](http://www.woolpert.com)** | **[Internships - Expression of Interest](https://jobright.ai/jobs/info/68e2f27b1852e62f007f8b11?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 10 |
+| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b37d2c5761b521a9a9ec7?utm_campaign=1054&utm_source=git)** | Philadelphia - remote first in US | Remote | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b36b4c5761b521a9a9dfd?utm_campaign=1054&utm_source=git)** | Kansas City - remote first in US | Remote | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b5b830f6f7e7a2ce6b93b?utm_campaign=1054&utm_source=git)** | Boise Metropolitan Area | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b5cc60f6f7e7a2ce6bb3d?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 10 |
@@ -104,15 +113,15 @@ For a complete list, click the following sortable link below:
 | **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[College and International Programs Intern, Fall 2026](https://jobright.ai/jobs/info/698b1fc44db8972cec00948f?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 10 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[College and International Programs Intern, Fall 2026](https://jobright.ai/jobs/info/698b1ea04db8972cec00942d?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 10 |
-| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3f314db8972cec00b6e3?utm_campaign=1054&utm_source=git)** | Portland - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d92c5761b521a9aa2c2?utm_campaign=1054&utm_source=git)** | Los Angeles - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3f094db8972cec00b6c0?utm_campaign=1054&utm_source=git)** | Columbus - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3b310f6f7e7a2ce68ace?utm_campaign=1054&utm_source=git)** | Chicago - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3df20f6f7e7a2ce68da0?utm_campaign=1054&utm_source=git)** | Salt Lake City - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3b7fc5761b521a9aa1b1?utm_campaign=1054&utm_source=git)** | Houston - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d8a4db8972cec00b59b?utm_campaign=1054&utm_source=git)** | Minneapolis - remote first in US | Remote | Feb 10 |
+| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3c334db8972cec00b4ec?utm_campaign=1054&utm_source=git)** | Phoenix - remote first in US | Remote | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d8b0f6f7e7a2ce68d38?utm_campaign=1054&utm_source=git)** | Atlanta - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3c334db8972cec00b4ec?utm_campaign=1054&utm_source=git)** | Phoenix - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3f314db8972cec00b6e3?utm_campaign=1054&utm_source=git)** | Portland - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d8a4db8972cec00b59b?utm_campaign=1054&utm_source=git)** | Minneapolis - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3b310f6f7e7a2ce68ace?utm_campaign=1054&utm_source=git)** | Chicago - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3f094db8972cec00b6c0?utm_campaign=1054&utm_source=git)** | Columbus - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3b7fc5761b521a9aa1b1?utm_campaign=1054&utm_source=git)** | Houston - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d92c5761b521a9aa2c2?utm_campaign=1054&utm_source=git)** | Los Angeles - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3df20f6f7e7a2ce68da0?utm_campaign=1054&utm_source=git)** | Salt Lake City - remote first in US | Remote | Feb 10 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6952e2d7f1f8465b79ea29ef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Process & Knowledge Intern, Global Human Resources Operations, Summer/Fall 2026](https://jobright.ai/jobs/info/698b1c63c5761b521a9a7ee8?utm_campaign=1054&utm_source=git)** | Celebration, FL | Hybrid | Feb 10 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/697309531790715e866bfd03?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Feb 10 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grifols](http://www.grifols.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698aa2420f6f7e7a2ce5d786?utm_campaign=1054&utm_source=git)** | NC-Clayton | On Site | Feb 09 |
 | **[SBA Communications](http://www.sbasite.com)** | **[2026 Summer Internship - Human Resources](https://jobright.ai/jobs/info/698a9d404db8972cecfff8a8?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Feb 09 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a9cac4db8972cecfff852?utm_campaign=1054&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Feb 09 |
-| ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a9c480f6f7e7a2ce5d193?utm_campaign=1054&utm_source=git)** | Brossard, Quebec, Canada | On Site | Feb 09 |
-| ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a9bb04db8972cecfff791?utm_campaign=1054&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Feb 09 |
-| ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a9ae8c5761b521a99e132?utm_campaign=1054&utm_source=git)** | Quesnel, British Columbia, Canada | On Site | Feb 09 |
-| ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a9aa0c5761b521a99e0d6?utm_campaign=1054&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 09 |
-| ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a9a6b4db8972cecfff5fd?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 09 |
-| ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a9a57c5761b521a99e073?utm_campaign=1054&utm_source=git)** | Chilliwack, British Columbia, Canada | On Site | Feb 09 |
-| ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a9a37c5761b521a99e04b?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 09 |
-| ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a9a27c5761b521a99e032?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 09 |
-| ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a99fb4db8972cecfff57a?utm_campaign=1054&utm_source=git)** | Langley, British Columbia, Canada | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
