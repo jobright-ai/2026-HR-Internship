@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robinhood](https://www.robinhood.com)** | **[PeopleX Partner Intern](https://jobright.ai/jobs/info/693748a61c1c2161c13f2663?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
+| **[Take-Two Interactive](http://www.take2games.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/693798731c1c2161c13f625d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Feb 10 |
 | **[Bay FC](https://bayfc.com)** | **[HR/Legal Internship](https://jobright.ai/jobs/info/698af282c5761b521a9a4ff2?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 10 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698aeaee0f6f7e7a2ce635f7?utm_campaign=1054&utm_source=git)** | Braselton, GA | On Site | Feb 10 |
 | ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698aea8e0f6f7e7a2ce6359c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 10 |
@@ -135,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[USG](https://www.usg.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698a8c9b0f6f7e7a2ce5becb?utm_campaign=1054&utm_source=git)** | Gypsum, CO | On Site | Feb 09 |
 | **[Paradigm Max Q LLC](https://paradigmmaxq.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698a8b9bc5761b521a99cf92?utm_campaign=1054&utm_source=git)** | 50 Tech Parkway ste 201, Stafford, VA, USA | On Site | Feb 09 |
 | **[Nakupuna Companies](https://www.nakupuna.com)** | **[Jr. Human Resource Specialist Intern](https://jobright.ai/jobs/info/698a8a0f4db8972cecffe443?utm_campaign=1054&utm_source=git)** | US-HI-Honolulu | Hybrid | Feb 09 |
-| **[Applewood Centers Inc](https://www.applewoodcenters.org)** | **[Family Preservation Paid Intern](https://jobright.ai/jobs/info/698a89854db8972cecffe3ad?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
 | **[CRH](http://crh.com)** | **[HR & Communications Intern (May-Aug 2026)](https://jobright.ai/jobs/info/698a86b40f6f7e7a2ce5b868?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 09 |
 | **[The Duracell Company](http://www.duracell.com)** | **[HR - Intern](https://jobright.ai/jobs/info/698aa512c5761b521a99ebd4?utm_campaign=1054&utm_source=git)** | 515 N Flagler Dr, Ste 600, West Palm Beach, FL, 33401, US | Remote | Feb 09 |
 | **[Nakupuna Companies](https://www.nakupuna.com)** | **[Jr. Human Resource Specialist Intern](https://jobright.ai/jobs/info/698a7d36c5761b521a99b811?utm_campaign=1054&utm_source=git)** | Honolulu, HI | Hybrid | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Instruments](http://www.ti.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698a52454db8972cecff9155?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 09 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Site Strategy & Culture](https://jobright.ai/jobs/info/698a51ee0f6f7e7a2ce56728?utm_campaign=1054&utm_source=git)** | Oceanside, CA | On Site | Feb 09 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/698a51d40f6f7e7a2ce56700?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 09 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/698a51924db8972cecff9090?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
