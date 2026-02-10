@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CRH](http://crh.com)** | **[HR & Communications Intern (May-Aug 2026)](https://jobright.ai/jobs/info/698a85450f6f7e7a2ce5adcd?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 09 |
+| **[Nakupuna Companies](https://www.nakupuna.com)** | **[Jr. Human Resource Specialist Intern](https://jobright.ai/jobs/info/698a7d36c5761b521a99b811?utm_campaign=1054&utm_source=git)** | Honolulu, HI | Hybrid | Feb 09 |
+| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Human Resources Generalist Intern](https://jobright.ai/jobs/info/698a7425c5761b521a99ad6c?utm_campaign=1054&utm_source=git)** | Ames, IA | On Site | Feb 09 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Performance Management - Calgary, AB or Saskatoon, SK](https://jobright.ai/jobs/info/698a6a700f6f7e7a2ce5905d?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 09 |
 | **[Metso](http://www.metso.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/698a64320f6f7e7a2ce5862c?utm_campaign=1054&utm_source=git)** | Mesa, AZ | Hybrid | Feb 09 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Performance Management - Loveland, CO](https://jobright.ai/jobs/info/698a63c30f6f7e7a2ce5857c?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 09 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/698a51924db8972cecff9090?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Feb 09 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/698a516c47434001cc6885fc?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 09 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, HR & Employee Relations (8 Months)](https://jobright.ai/jobs/info/698a51394db8972cecff902c?utm_campaign=1054&utm_source=git)** | 50 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Feb 09 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Performance Management - Loveland, CO](https://jobright.ai/jobs/info/698a7216c5761b521a99aa1a?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 09 |
 | **[KTGY Interior Design & Branded Environments](https://www.simeonedeary.com)** | **[Intern Associate, HR](https://jobright.ai/jobs/info/698a4fdd4db8972cecff8ea4?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 09 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Internship (Summer 2026)](https://jobright.ai/jobs/info/698a6bab0f6f7e7a2ce59254?utm_campaign=1054&utm_source=git)** | Mundelein, IL | On Site | Feb 09 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Talent Acquisition (8 Months)](https://jobright.ai/jobs/info/698a4e880f6f7e7a2ce5600d?utm_campaign=1054&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Feb 09 |
@@ -90,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Runnings](https://www.runnings.com)** | **[Human Resources Recruiting Intern](https://jobright.ai/jobs/info/698a41390f6f7e7a2ce552b2?utm_campaign=1054&utm_source=git)** | Marshall, MN | On Site | Feb 09 |
 | **[Heartland Coca-Cola](https://www.heartlandcocacola.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/698a40044db8972cecff7f6d?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Feb 09 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/698a3fa447434001cc687488?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Feb 09 |
+| **[Biotechnology Innovation Organization](http://www.bio.org/)** | **[Pathways Intern, HR](https://jobright.ai/jobs/info/698a70a54db8972cecffc05f?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | Feb 09 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2026 Ogilvy Health Canada Internship](https://jobright.ai/jobs/info/698a6affc5761b521a99a132?utm_campaign=1054&utm_source=git)** | Toronto, Canada | On Site | Feb 09 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/698a3d550f6f7e7a2ce54e54?utm_campaign=1054&utm_source=git)** | Remote, Remote, United States | Remote | Feb 09 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Resettlement Case Management Intern – Spring 2026](https://jobright.ai/jobs/info/696980dff25a380066982613?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 09 |
@@ -140,6 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/698a4b6447434001cc687fd2?utm_campaign=1054&utm_source=git)** | Gypsum, KS | On Site | Feb 08 |
 | **[Dollar General](https://www.dollargeneral.com/)** | **[DC Intern](https://jobright.ai/jobs/info/6989663c47434001cc678771?utm_campaign=1054&utm_source=git)** | Blair, NE | On Site | Feb 08 |
 | **[Arrow Financial Corporation](http://www.arrowfinancial.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698987578ca8121a3a6bdca4?utm_campaign=1054&utm_source=git)** | Glens Falls, NY | On Site | Feb 08 |
+| **[Delta Dental of Minnesota](https://www.deltadentalmn.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698a7dda0f6f7e7a2ce5a4e4?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Feb 08 |
+| **[CareQuest Institute for Oral Health](https://www.carequest.org/)** | **[People and Culture Intern](https://jobright.ai/jobs/info/698a6f3d0f6f7e7a2ce596dc?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Feb 08 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Human Resources Intern - Early Career Development](https://jobright.ai/jobs/info/6988e7588da7a6120463dcd4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/698a28e40f6f7e7a2ce53fea?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Feb 08 |
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt (40865)](https://jobright.ai/jobs/info/6988bcfd0f6f7e7a2ce3e0e9?utm_campaign=1054&utm_source=git)** | Richland, WA | On Site | Feb 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd3ab8e23def7af55b7063?utm_campaign=1054&utm_source=git)** | Fuquay-Varina, NC | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 08 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Feb 08 |
-| **[PACCAR Technical Center](https://jobs.paccar.com/)** | **[Summer Internship 2026 - Human Resources](https://jobright.ai/jobs/info/69188b2e45fb6f5ead8a5d53?utm_campaign=1054&utm_source=git)** | Mount Vernon, WA | On Site | Feb 08 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/69340d99764507023d1bb9a3?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Feb 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6916618e286ccf0a151351b5?utm_campaign=1054&utm_source=git)** | New Albany, IN | On Site | Feb 08 |
-| ↳ | **[Summer 2026 Management Internship - Worcester area](https://jobright.ai/jobs/info/68d824a0295f8e37655e5acd?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Feb 08 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6933da52a0dde7020e2f255c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
-| ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Feb 08 |
-| **[PACCAR](http://www.paccar.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/691884d415b41563671829dd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
