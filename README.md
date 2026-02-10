@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bay FC](https://bayfc.com)** | **[HR/Legal Internship](https://jobright.ai/jobs/info/698af282c5761b521a9a4ff2?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 10 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698aeaee0f6f7e7a2ce635f7?utm_campaign=1054&utm_source=git)** | Braselton, GA | On Site | Feb 10 |
 | ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698aea8e0f6f7e7a2ce6359c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698ae8180f6f7e7a2ce63346?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Feb 10 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship- Housekeeping](https://jobright.ai/jobs/info/698ae68b4db8972cec0059fe?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty and Employee Benefits Intern](https://jobright.ai/jobs/info/698ae4c54db8972cec00586c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 09 |
 | ↳ | **[Benefits Intern](https://jobright.ai/jobs/info/698adcf6c5761b521a9a4049?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Feb 09 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Housekeeping](https://jobright.ai/jobs/info/698af2e3c5761b521a9a5019?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 09 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69687051639b452fb57e1773?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 09 |
 | **[Indium Corporation](http://www.indium.com/)** | **[HR Organizational Development Intern](https://jobright.ai/jobs/info/698583aa0f6f7e7a2ce055b8?utm_campaign=1054&utm_source=git)** | New Hartford, NY | On Site | Feb 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship-Salem](https://jobright.ai/jobs/info/698ac08a0f6f7e7a2ce6109c?utm_campaign=1054&utm_source=git)** | Salem, OR | On Site | Feb 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Site Strategy & Culture](https://jobright.ai/jobs/info/698a51ee0f6f7e7a2ce56728?utm_campaign=1054&utm_source=git)** | Oceanside, CA | On Site | Feb 09 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/698a51d40f6f7e7a2ce56700?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 09 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/698a51924db8972cecff9090?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Feb 09 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/698a516c47434001cc6885fc?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 09 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, HR & Employee Relations (8 Months)](https://jobright.ai/jobs/info/698a51394db8972cecff902c?utm_campaign=1054&utm_source=git)** | 50 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
