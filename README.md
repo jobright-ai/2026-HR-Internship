@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698adcf6c5761b521a9a4049?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Feb 09 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698aeaee0f6f7e7a2ce635f7?utm_campaign=1054&utm_source=git)** | Braselton, GA | On Site | Feb 10 |
+| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698aea8e0f6f7e7a2ce6359c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 10 |
+| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698ae8180f6f7e7a2ce63346?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Feb 10 |
+| **[Sander Geophysics](http://www.sgl.com/)** | **[Human Resources Student](https://jobright.ai/jobs/info/698ae7d60f6f7e7a2ce63302?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 10 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Housekeeping](https://jobright.ai/jobs/info/698ae6924db8972cec005a09?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Feb 10 |
+| ↳ | **[Internship- Housekeeping](https://jobright.ai/jobs/info/698ae68b4db8972cec0059fe?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty and Employee Benefits Intern](https://jobright.ai/jobs/info/698ae4c54db8972cec00586c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 09 |
+| ↳ | **[Benefits Intern](https://jobright.ai/jobs/info/698adcf6c5761b521a9a4049?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Feb 09 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69687051639b452fb57e1773?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 09 |
 | **[Indium Corporation](http://www.indium.com/)** | **[HR Organizational Development Intern](https://jobright.ai/jobs/info/698583aa0f6f7e7a2ce055b8?utm_campaign=1054&utm_source=git)** | New Hartford, NY | On Site | Feb 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship-Salem](https://jobright.ai/jobs/info/698ac08a0f6f7e7a2ce6109c?utm_campaign=1054&utm_source=git)** | Salem, OR | On Site | Feb 09 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698abae6c5761b521a9a0f02?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Feb 09 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Performance Management - Loveland, CO](https://jobright.ai/jobs/info/698ab776c5761b521a9a089e?utm_campaign=1054&utm_source=git)** | Loveland, CO | On Site | Feb 09 |
+| ↳ | **[Co-op, Performance Management - Loveland, CO](https://jobright.ai/jobs/info/698ab4d3c5761b521a9a05ed?utm_campaign=1054&utm_source=git)** | Loveland, CO | On Site | Feb 09 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698ab4c30f6f7e7a2ce5f4ac?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Feb 09 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698ab21dc5761b521a9a02fb?utm_campaign=1054&utm_source=git)** | North Carolina, United States | On Site | Feb 09 |
 | **[UniUni](https://www.uniuni.com)** | **[HR and Admin Intern](https://jobright.ai/jobs/info/698acfc50f6f7e7a2ce628ac?utm_campaign=1054&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Feb 09 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/698a51924db8972cecff9090?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Feb 09 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/698a516c47434001cc6885fc?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 09 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, HR & Employee Relations (8 Months)](https://jobright.ai/jobs/info/698a51394db8972cecff902c?utm_campaign=1054&utm_source=git)** | 50 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Feb 09 |
-| **[KTGY Interior Design & Branded Environments](https://www.simeonedeary.com)** | **[Intern Associate, HR](https://jobright.ai/jobs/info/698a4fdd4db8972cecff8ea4?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 09 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Internship (Summer 2026)](https://jobright.ai/jobs/info/698a6bab0f6f7e7a2ce59254?utm_campaign=1054&utm_source=git)** | Mundelein, IL | On Site | Feb 09 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Talent Acquisition (8 Months)](https://jobright.ai/jobs/info/698a4e880f6f7e7a2ce5600d?utm_campaign=1054&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Feb 09 |
-| **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Human Resources Student Internship (College) (9037)](https://jobright.ai/jobs/info/697a7b9f9d60e431a16bfc4d?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Feb 09 |
-| **[KTGY](http://ktgy.com)** | **[Intern Associate, HR](https://jobright.ai/jobs/info/698a4c534db8972cecff8af3?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Feb 09 |
-| **[Portnox](http://portnox.com/)** | **[Intern](https://jobright.ai/jobs/info/698a676d4db8972cecffb062?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 09 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Career and Financial Coaching Intern Spring 2026](https://jobright.ai/jobs/info/69694ee9639b452fb57f1a08?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 09 |
-| **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/698a6d750f6f7e7a2ce59572?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
