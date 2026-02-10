@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kenan Advantage Group](http://www.thekag.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696eca0c350cf4380315b134?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Feb 10 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 10 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[College and International Programs Intern, Fall 2026](https://jobright.ai/jobs/info/698b1fc44db8972cec00948f?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 10 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[College and International Programs Intern, Fall 2026](https://jobright.ai/jobs/info/698b1ea04db8972cec00942d?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 10 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6952e2d7f1f8465b79ea29ef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 10 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Process & Knowledge Intern, Global Human Resources Operations, Summer/Fall 2026](https://jobright.ai/jobs/info/698b1c63c5761b521a9a7ee8?utm_campaign=1054&utm_source=git)** | Celebration, FL | Hybrid | Feb 10 |
+| **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/697309531790715e866bfd03?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Feb 10 |
 | **[Robinhood](https://www.robinhood.com)** | **[PeopleX Partner Intern](https://jobright.ai/jobs/info/693748a61c1c2161c13f2663?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/693798731c1c2161c13f625d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Feb 10 |
 | **[Bay FC](https://bayfc.com)** | **[HR/Legal Internship](https://jobright.ai/jobs/info/698af282c5761b521a9a4ff2?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hussmann](http://www.hussmann.com)** | **[Intern – Human Resources](https://jobright.ai/jobs/info/698a62f7c5761b521a99909d?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Feb 09 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Performance Management - Calgary, AB or Saskatoon, SK](https://jobright.ai/jobs/info/698a62f04db8972cecffa502?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 09 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Retirement Intern](https://jobright.ai/jobs/info/698a62a50f6f7e7a2ce583d5?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Feb 09 |
-| **[AssetMark](http://www.assetmark.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/698a5d590f6f7e7a2ce57ec3?utm_campaign=1054&utm_source=git)** | Concord, CA | Hybrid | Feb 09 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698a56450f6f7e7a2ce56f9a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 09 |
-| **[Collège Lionel-Groulx](http://www.clg.qc.ca/)** | **[Commis à la bibliothèque (Personnel occasionnel)](https://jobright.ai/jobs/info/698a54360f6f7e7a2ce56b61?utm_campaign=1054&utm_source=git)** | Sainte-Thérèse, Quebec, Canada | On Site | Feb 09 |
-| **[Columbia Bank](http://www.columbiabankflorida.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/698a527c47434001cc68874b?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Feb 09 |
-| **[Texas Instruments](http://www.ti.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698a52454db8972cecff9155?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 09 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Site Strategy & Culture](https://jobright.ai/jobs/info/698a51ee0f6f7e7a2ce56728?utm_campaign=1054&utm_source=git)** | Oceanside, CA | On Site | Feb 09 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/698a51d40f6f7e7a2ce56700?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
