@@ -107,6 +107,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a90afc5761b521a99d477?utm_campaign=1054&utm_source=git)** | Kanata, Ontario, Canada | On Site | Feb 09 |
 | ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698a908ec5761b521a99d44e?utm_campaign=1054&utm_source=git)** | Sault Ste. Marie, Ontario, Canada | On Site | Feb 09 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698a8d270f6f7e7a2ce5bf79?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Feb 09 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698aa9b5c5761b521a99f0b0?utm_campaign=1054&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Feb 09 |
+| ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698aad464db8972cec00098a?utm_campaign=1054&utm_source=git)** | Abbotsford, British Columbia, Canada | On Site | Feb 09 |
+| ↳ | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/698aa96d0f6f7e7a2ce5df38?utm_campaign=1054&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Feb 09 |
 | **[USG](https://www.usg.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698a8c9b0f6f7e7a2ce5becb?utm_campaign=1054&utm_source=git)** | Gypsum, CO | On Site | Feb 09 |
 | **[Paradigm Max Q LLC](https://paradigmmaxq.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698a8b9bc5761b521a99cf92?utm_campaign=1054&utm_source=git)** | 50 Tech Parkway ste 201, Stafford, VA, USA | On Site | Feb 09 |
 | **[Nakupuna Companies](https://www.nakupuna.com)** | **[Jr. Human Resource Specialist Intern](https://jobright.ai/jobs/info/698a8a0f4db8972cecffe443?utm_campaign=1054&utm_source=git)** | US-HI-Honolulu | Hybrid | Feb 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/698a3fa447434001cc687488?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Feb 09 |
 | **[Biotechnology Innovation Organization](http://www.bio.org/)** | **[Pathways Intern, HR](https://jobright.ai/jobs/info/698a70a54db8972cecffc05f?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | Feb 09 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2026 Ogilvy Health Canada Internship](https://jobright.ai/jobs/info/698a6affc5761b521a99a132?utm_campaign=1054&utm_source=git)** | Toronto, Canada | On Site | Feb 09 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/698a3d550f6f7e7a2ce54e54?utm_campaign=1054&utm_source=git)** | Remote, Remote, United States | Remote | Feb 09 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Resettlement Case Management Intern – Spring 2026](https://jobright.ai/jobs/info/696980dff25a380066982613?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 09 |
-| **[Runnings](https://www.runnings.com)** | **[Human Resources Recruiting Intern](https://jobright.ai/jobs/info/698a3b8a0f6f7e7a2ce54c84?utm_campaign=1054&utm_source=git)** | Marshall, Minnesota, United States | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
