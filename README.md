@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6971104551f7264771834e9e?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Feb 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698cd8f90f6f7e7a2ce88d27?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 11 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA or Baton Rouge, LA](https://jobright.ai/jobs/info/698cd158f64d441a164eb362?utm_campaign=1054&utm_source=git)** | Metairie, LA | On Site | Feb 11 |
 | **[SBM Life Science](https://sbm-company.com/)** | **[HR Intern](https://jobright.ai/jobs/info/698ccdee78b4502f12a34678?utm_campaign=1054&utm_source=git)** | Cary, NC | On Site | Feb 11 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698ccb1378b4502f12a342fc?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Feb 11 |
+| **[RITALKA, INC](https://www.ritalka.com)** | **[Summer Intern: Human Resources](https://jobright.ai/jobs/info/698ced050f6f7e7a2ce89c68?utm_campaign=1054&utm_source=git)** | 1123 U.S. 212, Granite Falls, MN 56241, USA | On Site | Feb 11 |
 | **[Staples](http://www.staples.com)** | **[Quill Loyalty & Memberships Program Intern (Rewards+) - June 2026](https://jobright.ai/jobs/info/698cc72278b4502f12a33de0?utm_campaign=1054&utm_source=git)** | Lincolnshire, IL, United States | On Site | Feb 11 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698cf2b90f6f7e7a2ce8a0b6?utm_campaign=1054&utm_source=git)** | Denver Tech Center | Hybrid | Feb 11 |
 | **[Centene Corporation](http://www.centene.com)** | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc2aa0f6f7e7a2ce8795b?utm_campaign=1054&utm_source=git)** | Remote-NM | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc1850f6f7e7a2ce877b3?utm_campaign=1054&utm_source=git)** | Remote-DE | Remote | Feb 11 |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Clinical Advisory Service Intern Summer Recruitment MD/VA/DC (Hybrid)](https://jobright.ai/jobs/info/6981a5c4abff4c399aa0bd81?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Feb 11 |
+| **[Centene Corporation](http://www.centene.com)** | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc1850f6f7e7a2ce877b3?utm_campaign=1054&utm_source=git)** | Remote-DE | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cbe3d0f6f7e7a2ce87305?utm_campaign=1054&utm_source=git)** | Remote-PA | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cbdf30f6f7e7a2ce872a7?utm_campaign=1054&utm_source=git)** | Remote-WI | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cbd300f6f7e7a2ce871c1?utm_campaign=1054&utm_source=git)** | Remote-MT | Remote | Feb 11 |
@@ -81,24 +85,24 @@ For a complete list, click the following sortable link below:
 | **[MEAG Power](https://www.meagpower.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698cd7c5f64d441a164ebb34?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Feb 11 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026](https://jobright.ai/jobs/info/698ca9df78b4502f12a3279b?utm_campaign=1054&utm_source=git)** | Indianapolis, Indiana | On Site | Feb 11 |
 | **[Ziegler Caterpillar](https://www.zieglercat.com)** | **[HR / Talent Acquisition Intern](https://jobright.ai/jobs/info/698ccf0ff64d441a164eb05b?utm_campaign=1054&utm_source=git)** | Bloomington, MN 55420 | On Site | Feb 11 |
-| **[Centene Corporation](http://www.centene.com)** | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc7f078b4502f12a33efe?utm_campaign=1054&utm_source=git)** | Remote-LA | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cca3f78b4502f12a341d9?utm_campaign=1054&utm_source=git)** | Remote-MS | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd250f64d441a164eb472?utm_campaign=1054&utm_source=git)** | Remote-NC | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd62ff64d441a164eb92d?utm_campaign=1054&utm_source=git)** | Remote-IA | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698ccf5a78b4502f12a34843?utm_campaign=1054&utm_source=git)** | Remote-GA | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd57178b4502f12a35010?utm_campaign=1054&utm_source=git)** | Remote-NY | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc56a78b4502f12a33bb5?utm_campaign=1054&utm_source=git)** | Remote-MN | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc5560f6f7e7a2ce87d38?utm_campaign=1054&utm_source=git)** | Remote-CO | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd7bff64d441a164ebb2a?utm_campaign=1054&utm_source=git)** | Remote-FL | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd4c0f64d441a164eb74d?utm_campaign=1054&utm_source=git)** | Remote-UT | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd201f64d441a164eb3fc?utm_campaign=1054&utm_source=git)** | Remote-WV | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cceb478b4502f12a34760?utm_campaign=1054&utm_source=git)** | Remote-AL | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698ccc5df64d441a164ead84?utm_campaign=1054&utm_source=git)** | Remote-RI | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc5c00f6f7e7a2ce87db8?utm_campaign=1054&utm_source=git)** | Remote-NE | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698ccae578b4502f12a342b3?utm_campaign=1054&utm_source=git)** | Remote-CA | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cce8e78b4502f12a34728?utm_campaign=1054&utm_source=git)** | Remote-VA | Remote | Feb 11 |
+| **[Centene Corporation](http://www.centene.com)** | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc5560f6f7e7a2ce87d38?utm_campaign=1054&utm_source=git)** | Remote-CO | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd15778b4502f12a34afc?utm_campaign=1054&utm_source=git)** | Remote-SC | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698ccc5df64d441a164ead84?utm_campaign=1054&utm_source=git)** | Remote-RI | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc7f078b4502f12a33efe?utm_campaign=1054&utm_source=git)** | Remote-LA | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd57178b4502f12a35010?utm_campaign=1054&utm_source=git)** | Remote-NY | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cca3f78b4502f12a341d9?utm_campaign=1054&utm_source=git)** | Remote-MS | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd4c0f64d441a164eb74d?utm_campaign=1054&utm_source=git)** | Remote-UT | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698ccff178b4502f12a34907?utm_campaign=1054&utm_source=git)** | Remote-DC | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cceb478b4502f12a34760?utm_campaign=1054&utm_source=git)** | Remote-AL | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd7bff64d441a164ebb2a?utm_campaign=1054&utm_source=git)** | Remote-FL | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698ccae578b4502f12a342b3?utm_campaign=1054&utm_source=git)** | Remote-CA | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd201f64d441a164eb3fc?utm_campaign=1054&utm_source=git)** | Remote-WV | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698ccf5a78b4502f12a34843?utm_campaign=1054&utm_source=git)** | Remote-GA | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd250f64d441a164eb472?utm_campaign=1054&utm_source=git)** | Remote-NC | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cce8e78b4502f12a34728?utm_campaign=1054&utm_source=git)** | Remote-VA | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc5c00f6f7e7a2ce87db8?utm_campaign=1054&utm_source=git)** | Remote-NE | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cd62ff64d441a164eb92d?utm_campaign=1054&utm_source=git)** | Remote-IA | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc56a78b4502f12a33bb5?utm_campaign=1054&utm_source=git)** | Remote-MN | Remote | Feb 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning Operations - Learning & Talent Development)](https://jobright.ai/jobs/info/698ca6b60f6f7e7a2ce85ca6?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Feb 11 |
 | ↳ | **[Intern - Year Round (Learning Operations - Learning & Talent Development)](https://jobright.ai/jobs/info/698ca6b50f6f7e7a2ce85ca5?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Feb 11 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: People & Culture (Summer 2026)](https://jobright.ai/jobs/info/698cb95cf64d441a164e9dda?utm_campaign=1054&utm_source=git)** | Shippensburg, PA | On Site | Feb 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empyrean](http://www.goempyrean.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/697003a20f4e0f657ea46138?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[Cider](https://shop.shopcider.com)** | **[Student Intern - Global Talent Recruitment & Administrative Support](https://jobright.ai/jobs/info/697c4e9b0b88cc7d642367bf?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Feb 10 |
 | **[Telligen](https://www.telligen.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/698be92fc5761b521a9b83ad?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Feb 10 |
-| **[Ogilvy Canada](http://ogilvy-canada.com/en)** | **[2026 Ogilvy Canada General Internship Program](https://jobright.ai/jobs/info/698bf84ae4f6572f0e43efaf?utm_campaign=1054&utm_source=git)** | Toronto, Canada | On Site | Feb 10 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant / PBD / ODD / Recruiting and Selection Section](https://jobright.ai/jobs/info/698bccb00f6f7e7a2ce742cf?utm_campaign=1054&utm_source=git)** | Dimondale, MI | On Site | Feb 10 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698c120de4f6572f0e440c63?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 10 |
-| **[JR Automation](https://www.jrautomation.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/69267959d47de4798ecd788f?utm_campaign=1054&utm_source=git)** | Holland, MI | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
