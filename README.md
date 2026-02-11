@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Centene Corporation](http://www.centene.com)** | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cbe3d0f6f7e7a2ce87305?utm_campaign=1054&utm_source=git)** | Remote-PA | Remote | Feb 11 |
+| **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698ccb1378b4502f12a342fc?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Feb 11 |
+| **[Staples](http://www.staples.com)** | **[Quill Loyalty & Memberships Program Intern (Rewards+) - June 2026](https://jobright.ai/jobs/info/698cc72278b4502f12a33de0?utm_campaign=1054&utm_source=git)** | Lincolnshire, IL, United States | On Site | Feb 11 |
+| **[Centene Corporation](http://www.centene.com)** | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc2aa0f6f7e7a2ce8795b?utm_campaign=1054&utm_source=git)** | Remote-NM | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc1850f6f7e7a2ce877b3?utm_campaign=1054&utm_source=git)** | Remote-DE | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cbe3d0f6f7e7a2ce87305?utm_campaign=1054&utm_source=git)** | Remote-PA | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cbdf30f6f7e7a2ce872a7?utm_campaign=1054&utm_source=git)** | Remote-WI | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cbd300f6f7e7a2ce871c1?utm_campaign=1054&utm_source=git)** | Remote-MT | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cbc360f6f7e7a2ce87083?utm_campaign=1054&utm_source=git)** | Remote-IL | Remote | Feb 11 |
@@ -68,6 +72,12 @@ For a complete list, click the following sortable link below:
 | **[Dometic](https://www.dometic.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698cb72b78b4502f12a331c0?utm_campaign=1054&utm_source=git)** | Katy, TX | Hybrid | Feb 11 |
 | **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Human Resources & Talent Acquisition Intern Training Program](https://jobright.ai/jobs/info/68cbfc2a128dc347fd91cd9b?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026](https://jobright.ai/jobs/info/698ca9df78b4502f12a3279b?utm_campaign=1054&utm_source=git)** | Indianapolis, Indiana | On Site | Feb 11 |
+| **[Centene Corporation](http://www.centene.com)** | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc5c00f6f7e7a2ce87db8?utm_campaign=1054&utm_source=git)** | Remote-NE | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698ccae578b4502f12a342b3?utm_campaign=1054&utm_source=git)** | Remote-CA | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc56a78b4502f12a33bb5?utm_campaign=1054&utm_source=git)** | Remote-MN | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cca3f78b4502f12a341d9?utm_campaign=1054&utm_source=git)** | Remote-MS | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc5560f6f7e7a2ce87d38?utm_campaign=1054&utm_source=git)** | Remote-CO | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698cc7f078b4502f12a33efe?utm_campaign=1054&utm_source=git)** | Remote-LA | Remote | Feb 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning Operations - Learning & Talent Development)](https://jobright.ai/jobs/info/698ca6b60f6f7e7a2ce85ca6?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Feb 11 |
 | ↳ | **[Intern - Year Round (Learning Operations - Learning & Talent Development)](https://jobright.ai/jobs/info/698ca6b50f6f7e7a2ce85ca5?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Feb 11 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: People & Culture (Summer 2026)](https://jobright.ai/jobs/info/698cb95cf64d441a164e9dda?utm_campaign=1054&utm_source=git)** | Shippensburg, PA | On Site | Feb 11 |
@@ -75,9 +85,9 @@ For a complete list, click the following sortable link below:
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/698c972d0f6f7e7a2ce8508e?utm_campaign=1054&utm_source=git)** | Watertown, SD | On Site | Feb 11 |
 | **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, HR](https://jobright.ai/jobs/info/698cb25478b4502f12a32dcf?utm_campaign=1054&utm_source=git)** | Hazelwood, MO | On Site | Feb 11 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/698c93a6f64d441a164e7e62?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Feb 11 |
-| **[CentraCare](https://www.centracare.com/)** | **[Administrative Intern / Total Rewards & Human Resources Operations](https://jobright.ai/jobs/info/698cbcd678b4502f12a33607?utm_campaign=1054&utm_source=git)** | Saint Cloud, MN, United States | On Site | Feb 11 |
-| ↳ | **[Administrative Intern / Employee Labor Relations & Organizational Development](https://jobright.ai/jobs/info/698cbc6678b4502f12a335af?utm_campaign=1054&utm_source=git)** | Saint Cloud, MN, United States | On Site | Feb 11 |
+| **[CentraCare](https://www.centracare.com/)** | **[Administrative Intern / Employee Labor Relations & Organizational Development](https://jobright.ai/jobs/info/698cbc6678b4502f12a335af?utm_campaign=1054&utm_source=git)** | Saint Cloud, MN, United States | On Site | Feb 11 |
 | ↳ | **[Administrative Intern / Human Resources Operations](https://jobright.ai/jobs/info/698cb5700f6f7e7a2ce86872?utm_campaign=1054&utm_source=git)** | Saint Cloud, MN, United States | On Site | Feb 11 |
+| ↳ | **[Administrative Intern / Total Rewards & Human Resources Operations](https://jobright.ai/jobs/info/698cbcd678b4502f12a33607?utm_campaign=1054&utm_source=git)** | Saint Cloud, MN, United States | On Site | Feb 11 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68aa5142d627244576e3c9b7?utm_campaign=1054&utm_source=git)** | Maumelle, AR | On Site | Feb 11 |
 | **[Lids](https://www.lids.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698cb19378b4502f12a32d2c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Organizational Management/Human Resources Information Systems Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c76870f6f7e7a2ce82f8f?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | Hybrid | Feb 11 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alerus](https://www.alerus.com/)** | **[Retirement/401(k) & Benefits Intern](https://jobright.ai/jobs/info/698b745b06d9b06224958dd9?utm_campaign=1054&utm_source=git)** | Excelsior, MN | Hybrid | Feb 10 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-SUST-004-Sustainability Human Resources Intern](https://jobright.ai/jobs/info/698b739e06d9b06224958c21?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Feb 10 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69379c3eaabec14a727c9c3c?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 10 |
-| **[Neolytix](https://neolytix.com)** | **[HR and Recruitment Intern](https://jobright.ai/jobs/info/698bd241c5761b521a9b614e?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 10 |
-| **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-ODHR-001-Human Resources Information Services Intern](https://jobright.ai/jobs/info/698b727106d9b062249589fc?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Feb 10 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698b8fba06d9b0622495b416?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 10 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68aa5159758f2e4ac3ffc656?utm_campaign=1054&utm_source=git)** | Navarre, OH | On Site | Feb 10 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698b6d7d06d9b062249581aa?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 10 |
-| **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-EXEC-001-HR Unit Intern](https://jobright.ai/jobs/info/698b89470f6f7e7a2ce6ff21?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Feb 10 |
-| ↳ | **[2026-ODHR-003-Strategic Workforce Planning Intern](https://jobright.ai/jobs/info/698b94180f6f7e7a2ce70af5?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Feb 10 |
-| **[WM](https://www.wm.com/)** | **[HR Reporting and Analytics Intern](https://jobright.ai/jobs/info/698b5dcfc5761b521a9ad27a?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Feb 10 |
-| **[Timpte, Inc.](https://timpte.com)** | **[Timpte Summer Office Internship Opportunities](https://jobright.ai/jobs/info/698ba0a006d9b0622495c771?utm_campaign=1054&utm_source=git)** | David City, NE, US | On Site | Feb 10 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698b76fa06d9b062249591e0?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
