@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698c5a9ff64d441a164e4bbb?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Feb 11 |
+| **[Empyrean](http://www.goempyrean.com)** | **[Client Operations & Analytics Internship (Minneapolis)](https://jobright.ai/jobs/info/69704d85333b6343a14cbc2c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Feb 11 |
+| **[Benchmark](http://www.bench.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698c560578b4502f12a2dc2b?utm_campaign=1054&utm_source=git)** | Winona, MN | On Site | Feb 10 |
+| **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698c616ef64d441a164e53db?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 10 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[People Development Intern - Summer 2026](https://jobright.ai/jobs/info/696ffa3a0f4e0f657ea45297?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Feb 10 |
 | **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/695dc70cf1f8465b79f41300?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Feb 10 |
+| **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/698c5e3af64d441a164e500c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 10 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Perioperative OR Nurse Internship-Summer-Cohort 2026](https://jobright.ai/jobs/info/69885b438da7a61204637be7?utm_campaign=1054&utm_source=git)** | Nashville Metro | On Site | Feb 10 |
 | **[LightFeather](https://lightfeather.io)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698c489278b4502f12a2ccbc?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Feb 10 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[HR/Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/698c1a7f0f6f7e7a2ce7ad84?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b812ac5761b521a9b0c1f?utm_campaign=1054&utm_source=git)** | Greater Houston | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b76b406d9b062249591bf?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b6d0e06d9b062249580de?utm_campaign=1054&utm_source=git)** | Nashville Metro | Hybrid | Feb 10 |
-| **[Woolpert](http://www.woolpert.com)** | **[Internships - Expression of Interest](https://jobright.ai/jobs/info/68e2f27b1852e62f007f8b11?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 10 |
-| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b37d2c5761b521a9a9ec7?utm_campaign=1054&utm_source=git)** | Philadelphia - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b36b4c5761b521a9a9dfd?utm_campaign=1054&utm_source=git)** | Kansas City - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b5b830f6f7e7a2ce6b93b?utm_campaign=1054&utm_source=git)** | Boise Metropolitan Area | Hybrid | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b5cc60f6f7e7a2ce6bb3d?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
