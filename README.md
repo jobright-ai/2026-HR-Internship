@@ -57,16 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/695dc70cf1f8465b79f41300?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Feb 10 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[HR/Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/698c1a7f0f6f7e7a2ce7ad84?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 10 |
+| **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697002583ed06875134b02a2?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | Feb 10 |
+| **[LightFeather](https://lightfeather.io)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698c21f20f6f7e7a2ce7b6de?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Feb 10 |
 | **[Martis Camp Club & Community Association](https://martiscamp.org/public/employment)** | **[Seasons of Success Internship Program 2026](https://jobright.ai/jobs/info/698c0e6c0f6f7e7a2ce79f43?utm_campaign=1054&utm_source=git)** | Truckee, CA | On Site | Feb 10 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69702b1a587dfa0bb55dace0?utm_campaign=1054&utm_source=git)** | Avery Island, LA | On Site | Feb 10 |
 | **[Ogilvy Canada](http://ogilvy-canada.com/en)** | **[2026 Ogilvy Canada General Internship Program](https://jobright.ai/jobs/info/698c020ae4f6572f0e43faf1?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 10 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/698c07380f6f7e7a2ce79747?utm_campaign=1054&utm_source=git)** | Mineral Wells, TX | On Site | Feb 10 |
 | **[Clarion Psychiatric Center](https://clarioncenter.com/)** | **[Internship / Clinical Rotation Opportunity](https://jobright.ai/jobs/info/698c0bb191fdda424d58ca9f?utm_campaign=1054&utm_source=git)** | Clarion, PA | On Site | Feb 10 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698bfe8f0f6f7e7a2ce78dff?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Feb 10 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/698c1609e4f6572f0e441135?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 10 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Human Resources/Recruitment](https://jobright.ai/jobs/info/698bcd000f6f7e7a2ce7431b?utm_campaign=1054&utm_source=git)** | Danville, PA | On Site | Feb 10 |
 | **[FNBO](https://www.fnbo.com)** | **[Summer Intern - HR Business Partnering (Omaha, NE)](https://jobright.ai/jobs/info/698c0ac9e4f6572f0e44043d?utm_campaign=1054&utm_source=git)** | Omaha Metropolitan Area | Hybrid | Feb 10 |
 | **[AXA XL](https://axaxl.com)** | **[Workplace Intern](https://jobright.ai/jobs/info/696fe75382817106e976ecd9?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Feb 10 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[HR/Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/698c249a0f6f7e7a2ce7bb09?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | Hybrid | Feb 10 |
+| **[Empyrean](http://www.goempyrean.com)** | **[HR Total Rewards Internship](https://jobright.ai/jobs/info/6970009c0f4e0f657ea45e3a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[Bank of Colorado](http://bankofcolorado.com)** | **[HR INTERN](https://jobright.ai/jobs/info/698bff6b0f6f7e7a2ce78ee4?utm_campaign=1054&utm_source=git)** | Omaha 180th and Dodge | On Site | Feb 10 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6984ef420f6f7e7a2cdf68c8?utm_campaign=1054&utm_source=git)** | Port Washington, NY | On Site | Feb 10 |
+| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/698c254391fdda424d58e9d4?utm_campaign=1054&utm_source=git)** | Hickory, NC, US | Hybrid | Feb 10 |
+| **[Dexterra Group](https://dexterra.com/)** | **[Organizational Development CO-OP Student](https://jobright.ai/jobs/info/698c1de891fdda424d58df92?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 10 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Employee Labor Relations](https://jobright.ai/jobs/info/698be46fc5761b521a9b7c2f?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Feb 10 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Talent Advisor](https://jobright.ai/jobs/info/698be0190f6f7e7a2ce759ff?utm_campaign=1054&utm_source=git)** | North York, Ontario, Canada | Hybrid | Feb 10 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Client Operations & Analytics Internship (Houston)](https://jobright.ai/jobs/info/697005c982817106e9772326?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 10 |
@@ -77,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Telligen](https://www.telligen.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/698be92fc5761b521a9b83ad?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Feb 10 |
 | **[Ogilvy Canada](http://ogilvy-canada.com/en)** | **[2026 Ogilvy Canada General Internship Program](https://jobright.ai/jobs/info/698bf84ae4f6572f0e43efaf?utm_campaign=1054&utm_source=git)** | Toronto, Canada | On Site | Feb 10 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant / PBD / ODD / Recruiting and Selection Section](https://jobright.ai/jobs/info/698bccb00f6f7e7a2ce742cf?utm_campaign=1054&utm_source=git)** | Dimondale, MI | On Site | Feb 10 |
+| **[Veolia](http://www.veolia.com/en/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698c120de4f6572f0e440c63?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[JR Automation](https://www.jrautomation.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/69267959d47de4798ecd788f?utm_campaign=1054&utm_source=git)** | Holland, MI | Hybrid | Feb 10 |
 | **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - HR Business Partnering (Omaha, NE)](https://jobright.ai/jobs/info/698c118791fdda424d58d152?utm_campaign=1054&utm_source=git)** | Omaha - FN Tower | Hybrid | Feb 10 |
 | **[Dexterra](https://dexterra.com/)** | **[Organizational Development CO-OP Student](https://jobright.ai/jobs/info/698bf1f606d9b0622496258e?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 10 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b56020f6f7e7a2ce6b05e?utm_campaign=1054&utm_source=git)** | Atlanta Metro | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b5a190f6f7e7a2ce6b6c7?utm_campaign=1054&utm_source=git)** | DC-Baltimore Area | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b363cc5761b521a9a9da1?utm_campaign=1054&utm_source=git)** | Austin - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b35f2c5761b521a9a9d69?utm_campaign=1054&utm_source=git)** | San Francisco - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b35534db8972cec00affe?utm_campaign=1054&utm_source=git)** | Nashville - remote first in US | Remote | Feb 10 |
-| **[RailPros](http://railpros.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/696ec3a4350cf4380315aed8?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Feb 10 |
-| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b344d4db8972cec00af3f?utm_campaign=1054&utm_source=git)** | Miami - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b33a4c5761b521a9a9ba9?utm_campaign=1054&utm_source=git)** | Seattle - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b32eec5761b521a9a9b27?utm_campaign=1054&utm_source=git)** | Boise - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b32d20f6f7e7a2ce682be?utm_campaign=1054&utm_source=git)** | Dallas - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b320f0f6f7e7a2ce681ea?utm_campaign=1054&utm_source=git)** | New York City - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b31430f6f7e7a2ce68124?utm_campaign=1054&utm_source=git)** | Raleigh - remote first in US | Remote | Feb 10 |
-| **[Kenan Advantage Group](http://www.thekag.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696eca0c350cf4380315b134?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Feb 10 |
-| **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
