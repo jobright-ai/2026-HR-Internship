@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Organizational Management/Human Resources Information Systems Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c76870f6f7e7a2ce82f8f?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | Hybrid | Feb 11 |
 | **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698c5a9ff64d441a164e4bbb?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Feb 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/698c75a5f64d441a164e670a?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Feb 11 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/698c727078b4502f12a2fa4e?utm_campaign=1054&utm_source=git)** | Rio Rancho, NM | On Site | Feb 11 |
+| **[GALLO](http://www.gallocareers.com)** | **[Program Manager - Sales Leadership Development Program](https://jobright.ai/jobs/info/698c74b878b4502f12a2fb07?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
+| ↳ | **[Program Manager - Sales Leadership Development Program](https://jobright.ai/jobs/info/698c76b8f64d441a164e67f5?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 11 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Human Resources Field Team Summer Intern](https://jobright.ai/jobs/info/698c7757f64d441a164e6870?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 11 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Client Operations & Analytics Internship (Minneapolis)](https://jobright.ai/jobs/info/69704d85333b6343a14cbc2c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Feb 11 |
 | **[Benchmark](http://www.bench.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698c560578b4502f12a2dc2b?utm_campaign=1054&utm_source=git)** | Winona, MN | On Site | Feb 10 |
 | **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698c616ef64d441a164e53db?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b42f1c5761b521a9aa6d9?utm_campaign=1054&utm_source=git)** | Greater Boston | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b42e74db8972cec00b911?utm_campaign=1054&utm_source=git)** | SD Metro Area | Hybrid | Feb 10 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6937676fa0dde7020e302727?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Feb 10 |
-| **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[HR Reporting and Analytics Intern](https://jobright.ai/jobs/info/698be27a0f6f7e7a2ce75fe7?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | Hybrid | Feb 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/696eb344350cf43803158b80?utm_campaign=1054&utm_source=git)** | Annapolis, MD | On Site | Feb 10 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919cd6145fb6f5ead8aa697?utm_campaign=1054&utm_source=git)** | Irondale, AL | On Site | Feb 10 |
-| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b812ac5761b521a9b0c1f?utm_campaign=1054&utm_source=git)** | Greater Houston | Hybrid | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b76b406d9b062249591bf?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b6d0e06d9b062249580de?utm_campaign=1054&utm_source=git)** | Nashville Metro | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
