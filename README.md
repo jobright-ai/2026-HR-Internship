@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[People Development Intern - Summer 2026](https://jobright.ai/jobs/info/696ffa3a0f4e0f657ea45297?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Feb 10 |
 | **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/695dc70cf1f8465b79f41300?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Feb 10 |
+| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Perioperative OR Nurse Internship-Summer-Cohort 2026](https://jobright.ai/jobs/info/69885b438da7a61204637be7?utm_campaign=1054&utm_source=git)** | Nashville Metro | On Site | Feb 10 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[HR/Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/698c1a7f0f6f7e7a2ce7ad84?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 10 |
 | **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697002583ed06875134b02a2?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | Feb 10 |
 | **[LightFeather](https://lightfeather.io)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698c21f20f6f7e7a2ce7b6de?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b58b8c5761b521a9aca51?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b5a500f6f7e7a2ce6b739?utm_campaign=1054&utm_source=git)** | Charlotte Metro | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b56020f6f7e7a2ce6b05e?utm_campaign=1054&utm_source=git)** | Atlanta Metro | Hybrid | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b5a190f6f7e7a2ce6b6c7?utm_campaign=1054&utm_source=git)** | DC-Baltimore Area | Hybrid | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b363cc5761b521a9a9da1?utm_campaign=1054&utm_source=git)** | Austin - remote first in US | Remote | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
