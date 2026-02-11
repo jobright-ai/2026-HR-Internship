@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wurth Elektronik](https://www.we-ics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/698c972d0f6f7e7a2ce8508e?utm_campaign=1054&utm_source=git)** | Watertown, SD | On Site | Feb 11 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/698c93a6f64d441a164e7e62?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Feb 11 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68aa5142d627244576e3c9b7?utm_campaign=1054&utm_source=git)** | Maumelle, AR | On Site | Feb 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Organizational Management/Human Resources Information Systems Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c76870f6f7e7a2ce82f8f?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | Hybrid | Feb 11 |
 | **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698c5a9ff64d441a164e4bbb?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Feb 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/698c75a5f64d441a164e670a?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Feb 11 |
@@ -95,10 +98,10 @@ For a complete list, click the following sortable link below:
 | **[Dexterra Group](https://dexterra.com/)** | **[Organizational Development CO-OP Student](https://jobright.ai/jobs/info/698c1de891fdda424d58df92?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 10 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Employee Labor Relations](https://jobright.ai/jobs/info/698be46fc5761b521a9b7c2f?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Feb 10 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Talent Advisor](https://jobright.ai/jobs/info/698be0190f6f7e7a2ce759ff?utm_campaign=1054&utm_source=git)** | North York, Ontario, Canada | Hybrid | Feb 10 |
+| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[HR Recruiter Internship - 100% Remote - USA](https://jobright.ai/jobs/info/698bd3bc06d9b0622495f9b8?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Client Operations & Analytics Internship (Houston)](https://jobright.ai/jobs/info/697005c982817106e9772326?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/698bda7f06d9b06224960116?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Feb 10 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/697003a20f4e0f657ea46138?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 10 |
-| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Technical Recruiting Internship - 100% Remote - USA](https://jobright.ai/jobs/info/698bd3bc06d9b0622495f9b8?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Cider](https://shop.shopcider.com)** | **[Student Intern - Global Talent Recruitment & Administrative Support](https://jobright.ai/jobs/info/697c4e9b0b88cc7d642367bf?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Feb 10 |
 | **[Telligen](https://www.telligen.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/698be92fc5761b521a9b83ad?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Feb 10 |
 | **[Ogilvy Canada](http://ogilvy-canada.com/en)** | **[2026 Ogilvy Canada General Internship Program](https://jobright.ai/jobs/info/698bf84ae4f6572f0e43efaf?utm_campaign=1054&utm_source=git)** | Toronto, Canada | On Site | Feb 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b442ac5761b521a9aa8f1?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | Hybrid | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b4419c5761b521a9aa8d9?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 10 |
 | **[XPO](https://www.xpo.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/696e717bdb26b61895115979?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 10 |
-| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b42f1c5761b521a9aa6d9?utm_campaign=1054&utm_source=git)** | Greater Boston | Hybrid | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b42e74db8972cec00b911?utm_campaign=1054&utm_source=git)** | SD Metro Area | Hybrid | Feb 10 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6937676fa0dde7020e302727?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
