@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revilo Technologies](www.revilotechnologies.com)** | **[Virtual Administrative Assistant Intern - US Based Preferred](https://jobright.ai/jobs/info/698bcbc0c5761b521a9b5b1f?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 10 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Employee Labor Relations](https://jobright.ai/jobs/info/698bc9f70f6f7e7a2ce74048?utm_campaign=1054&utm_source=git)** | 600 E Lafayette Blvd, Detroit, MI, 48226, US | On Site | Feb 10 |
 | **[Birge & Held](https://birgeandheld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698b8f5006d9b0622495b395?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 10 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Talent Brand Intern - Summer 2026](https://jobright.ai/jobs/info/698b88b1c5761b521a9b1691?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Hybrid | Feb 10 |
+| **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Human Resources](https://jobright.ai/jobs/info/698bc1d606d9b0622495e969?utm_campaign=1054&utm_source=git)** | East Windsor, NJ | On Site | Feb 10 |
+| **[Six Flags](https://www.sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/698bc002c5761b521a9b4f76?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 10 |
 | **[Skanska](http://skanska.com)** | **[HR Intern](https://jobright.ai/jobs/info/698bb6c40f6f7e7a2ce72fcb?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Feb 10 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Talent Foundation Management Intern](https://jobright.ai/jobs/info/698b81a00f6f7e7a2ce6f37d?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Feb 10 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68c6d72ec96a22563eceff92?utm_campaign=1054&utm_source=git)** | Pendleton, IN | On Site | Feb 10 |
@@ -128,11 +132,11 @@ For a complete list, click the following sortable link below:
 | **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[College and International Programs Intern, Fall 2026](https://jobright.ai/jobs/info/698b1fc44db8972cec00948f?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 10 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[College and International Programs Intern, Fall 2026](https://jobright.ai/jobs/info/698b1ea04db8972cec00942d?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 10 |
-| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3b310f6f7e7a2ce68ace?utm_campaign=1054&utm_source=git)** | Chicago - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3b7fc5761b521a9aa1b1?utm_campaign=1054&utm_source=git)** | Houston - remote first in US | Remote | Feb 10 |
+| **[Circle](https://www.circle.com)** | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3b7fc5761b521a9aa1b1?utm_campaign=1054&utm_source=git)** | Houston - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3b310f6f7e7a2ce68ace?utm_campaign=1054&utm_source=git)** | Chicago - remote first in US | Remote | Feb 10 |
+| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3c334db8972cec00b4ec?utm_campaign=1054&utm_source=git)** | Phoenix - remote first in US | Remote | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d92c5761b521a9aa2c2?utm_campaign=1054&utm_source=git)** | Los Angeles - remote first in US | Remote | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3f314db8972cec00b6e3?utm_campaign=1054&utm_source=git)** | Portland - remote first in US | Remote | Feb 10 |
-| ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3c334db8972cec00b4ec?utm_campaign=1054&utm_source=git)** | Phoenix - remote first in US | Remote | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3f094db8972cec00b6c0?utm_campaign=1054&utm_source=git)** | Columbus - remote first in US | Remote | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d8b0f6f7e7a2ce68d38?utm_campaign=1054&utm_source=git)** | Atlanta - remote first in US | Remote | Feb 10 |
 | ↳ | **[People & Workplace (HR) Intern](https://jobright.ai/jobs/info/698b3d8a4db8972cec00b59b?utm_campaign=1054&utm_source=git)** | Minneapolis - remote first in US | Remote | Feb 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Benefits Intern](https://jobright.ai/jobs/info/698adcf6c5761b521a9a4049?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Feb 09 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Housekeeping](https://jobright.ai/jobs/info/698af2e3c5761b521a9a5019?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 09 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69687051639b452fb57e1773?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 09 |
-| **[Indium Corporation](http://www.indium.com/)** | **[HR Organizational Development Intern](https://jobright.ai/jobs/info/698583aa0f6f7e7a2ce055b8?utm_campaign=1054&utm_source=git)** | New Hartford, NY | On Site | Feb 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship-Salem](https://jobright.ai/jobs/info/698ac08a0f6f7e7a2ce6109c?utm_campaign=1054&utm_source=git)** | Salem, OR | On Site | Feb 09 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/698abae6c5761b521a9a0f02?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Feb 09 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Performance Management - Loveland, CO](https://jobright.ai/jobs/info/698ab776c5761b521a9a089e?utm_campaign=1054&utm_source=git)** | Loveland, CO | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
