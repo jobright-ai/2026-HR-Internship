@@ -57,14 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- White River Junction, VT](https://jobright.ai/jobs/info/693a823ef3cb0010f8708c2d?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Feb 12 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6969f71af25a38006698b9e5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ceafb7846f0b04af67c4ad?utm_campaign=1054&utm_source=git)** | Waldorf, MD | On Site | Feb 12 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69216a01a49a885af9a45ab2?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Feb 12 |
-| **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/698e117f0f6f7e7a2cea20d2?utm_campaign=1054&utm_source=git)** | New York | Remote | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c943aca0c52d598ea367f7?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Feb 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933cd56a0dde7020e2f1f11?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Feb 12 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6933db02a0dde7020e2f27ff?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | On Site | Feb 12 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a442056b68f3dc4e79bbf?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 12 |
+| **[TekniPlex](http://www.tekni-plex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691d3993bcdbf3560c9ee5fa?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a3a57ac80bb5492bcbf23?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Feb 12 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a431fac80bb5492bcc4ab?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Feb 12 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4a9f06a34016008c637f?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Feb 12 |
+| **[Fellowes Brands](http://www.fellowes.com/us/en/Pages/default.aspx)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69723ee4584a1c1ef6fd398a?utm_campaign=1054&utm_source=git)** | Itasca, IL | On Site | Feb 12 |
+| **[City of Champlin](https://ci.champlin.mn.us/)** | **[HR & Payroll Intern](https://jobright.ai/jobs/info/698e1da078b4502f12a4e9c7?utm_campaign=1054&utm_source=git)** | Champlin, MN | On Site | Feb 12 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/691be24a22a2cb4b9bd17181?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 12 |
+| **[SONESTA INTERNATION HOTELS CORPORATION](https://www.linkedin.com/company/61878893)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698e1bddf64d441a16505536?utm_campaign=1054&utm_source=git)** | Corporate Office – Newton, MA | On Site | Feb 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a442056b68f3dc4e79bbf?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 12 |
 | **[Staples](http://www.staples.com)** | **[Quill Loyalty & Memberships Program Intern (Rewards+) - June 2026](https://jobright.ai/jobs/info/698df90a0f6f7e7a2cea07b0?utm_campaign=1054&utm_source=git)** | Lincolnshire, IL | On Site | Feb 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f81baa05c26e7ab0328f?utm_campaign=1054&utm_source=git)** | Stockton, CA | On Site | Feb 12 |
+| **[Juniper Creates](https://junipercreates.com/)** | **[People Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69691a9ef25a38006697a3b2?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf12022a2cb4b9bd1eeff?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Feb 12 |
 | ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/694f0cccce13cd10565745d5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 12 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern - Summer - Onsite](https://jobright.ai/jobs/info/698ded390f6f7e7a2ce9f8f6?utm_campaign=1054&utm_source=git)** | Oxnard, CA | On Site | Feb 12 |
@@ -122,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[TruStone Financial Credit Union](http://www.trustonefinancial.org)** | **[Human Resources & Staff Development Intern](https://jobright.ai/jobs/info/698d7fa30f6f7e7a2ce96a87?utm_campaign=1054&utm_source=git)** | Burnsville, MN, US | On Site | Feb 11 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d43c3f64d441a164f489c?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d43eb0f6f7e7a2ce91621?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d46baf64d441a164f4ce4?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d42cc0f6f7e7a2ce9154a?utm_campaign=1054&utm_source=git)** | Greater Cleveland | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d408af64d441a164f44c4?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d42cc0f6f7e7a2ce9154a?utm_campaign=1054&utm_source=git)** | Greater Cleveland | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d46baf64d441a164f4ce4?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d44680f6f7e7a2ce916b9?utm_campaign=1054&utm_source=git)** | Youngstown, OH | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d49310f6f7e7a2ce91d67?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d4869f64d441a164f4f2c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Feb 11 |
@@ -132,29 +144,17 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Talent Marketing](https://jobright.ai/jobs/info/698d1d730f6f7e7a2ce8d95e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 11 |
 | **[Lynden](https://www.lynden.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698d78b40f6f7e7a2ce9531d?utm_campaign=1054&utm_source=git)** | 18000 International Blvd, SeaTac, WA 98188, USA | Hybrid | Feb 11 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/697128d8587dfa0bb55eb19a?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Feb 11 |
-| **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d60f80f6f7e7a2ce93f8a?utm_campaign=1054&utm_source=git)** | US-NC-Charlotte | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d4a050f6f7e7a2ce91e97?utm_campaign=1054&utm_source=git)** | US-PA-Pittsburgh | Remote | Feb 11 |
+| **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d4a2b0f6f7e7a2ce91ec3?utm_campaign=1054&utm_source=git)** | Charlotte, NC, US | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d425678b4502f12a3dcb2?utm_campaign=1054&utm_source=git)** | NORTH BETHESDA, MD, US | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d4a2b0f6f7e7a2ce91ec3?utm_campaign=1054&utm_source=git)** | Charlotte, NC, US | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d41a5f64d441a164f45b0?utm_campaign=1054&utm_source=git)** | Baltimore, MD, US | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d48df0f6f7e7a2ce91ce9?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d49190f6f7e7a2ce91d45?utm_campaign=1054&utm_source=git)** | Cleveland, OH, US | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d5f0f0f6f7e7a2ce93eef?utm_campaign=1054&utm_source=git)** | Akron, OH, US | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d4c5f78b4502f12a3f13c?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, US | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d49190f6f7e7a2ce91d45?utm_campaign=1054&utm_source=git)** | Cleveland, OH, US | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d5615f64d441a164f69ba?utm_campaign=1054&utm_source=git)** | US-OH-Youngstown | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d478a0f6f7e7a2ce91b25?utm_campaign=1054&utm_source=git)** | US-OH-Cleveland | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d60f80f6f7e7a2ce93f8a?utm_campaign=1054&utm_source=git)** | US-NC-Charlotte | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d541a78b4502f12a3fcbe?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, US | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d42f478b4502f12a3dd9a?utm_campaign=1054&utm_source=git)** | US-PA-Philadelphia | Remote | Feb 11 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d3aba0f6f7e7a2ce90824?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Remote | Feb 11 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698d40a078b4502f12a3da56?utm_campaign=1054&utm_source=git)** | Strongsville OH - Strongsville, OH 44136 | On Site | Feb 11 |
-| **[De Nora](https://www.denora.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698d0e4e78b4502f12a386b3?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Feb 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Talent Marketing](https://jobright.ai/jobs/info/698d0e1d78b4502f12a38667?utm_campaign=1054&utm_source=git)** | Illinois - Chicago | On Site | Feb 11 |
-| ↳ | **[Summer 2026 Intern - Talent Marketing](https://jobright.ai/jobs/info/698d0c66f64d441a164eea6e?utm_campaign=1054&utm_source=git)** | Georgia - Atlanta | On Site | Feb 11 |
-| ↳ | **[Summer 2026 Intern - Talent Intelligence Data Analyst](https://jobright.ai/jobs/info/698d37c9f64d441a164f3670?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 11 |
-| ↳ | **[Summer 2026 Intern - Talent Intelligence Data Analyst](https://jobright.ai/jobs/info/698d2ccff64d441a164f2335?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 11 |
-| ↳ | **[Summer 2026 Intern - Talent Intelligence Data Analyst](https://jobright.ai/jobs/info/698d0bbaf64d441a164ee9bf?utm_campaign=1054&utm_source=git)** | Washington - Bellevue | On Site | Feb 11 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/698d2c1178b4502f12a3bb1b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 11 |
-| **[Walden Security](http://www.waldensecurity.com)** | **[HR/Medical Intern, Chattanooga, TN](https://jobright.ai/jobs/info/698d27080f6f7e7a2ce8eb4e?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Feb 11 |
-| **[Centene Corporation](http://www.centene.com)** | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d00d20f6f7e7a2ce8acd7?utm_campaign=1054&utm_source=git)** | Fremont County, CO | Remote | Feb 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Talent Intelligence Data Analyst](https://jobright.ai/jobs/info/698d211e0f6f7e7a2ce8df72?utm_campaign=1054&utm_source=git)** | Indiana - Indianapolis | On Site | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d4a050f6f7e7a2ce91e97?utm_campaign=1054&utm_source=git)** | US-PA-Pittsburgh | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d48df0f6f7e7a2ce91ce9?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d5615f64d441a164f69ba?utm_campaign=1054&utm_source=git)** | US-OH-Youngstown | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d478a0f6f7e7a2ce91b25?utm_campaign=1054&utm_source=git)** | US-OH-Cleveland | Remote | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
