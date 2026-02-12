@@ -66,16 +66,18 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- White River Junction, VT](https://jobright.ai/jobs/info/693a823ef3cb0010f8708c2d?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Feb 12 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6969f71af25a38006698b9e5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ceafb7846f0b04af67c4ad?utm_campaign=1054&utm_source=git)** | Waldorf, MD | On Site | Feb 12 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cd517ff7024498416ae10?utm_campaign=1054&utm_source=git)** | Traverse City, MI | On Site | Feb 12 |
+| **[Alliant Insurance Services](https://alliant.com)** | **[Summer Intern - Employee Benefits Insurance](https://jobright.ai/jobs/info/698e4b9e78b4502f12a51416?utm_campaign=1054&utm_source=git)** | McLean, VA, USA | On Site | Feb 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cd517ff7024498416ae10?utm_campaign=1054&utm_source=git)** | Traverse City, MI | On Site | Feb 12 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698e3f30f64d441a165076ed?utm_campaign=1054&utm_source=git)** | Ormond Beach, FL | On Site | Feb 12 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698e41fc0f6f7e7a2cea4c68?utm_campaign=1054&utm_source=git)** | US-MO-Chesterfield | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/693a8ec6e50e320634e2e047?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Feb 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Schenectady, NY and Amsterdam, NY](https://jobright.ai/jobs/info/693a817ef4e44c4d629d2bd7?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Feb 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Talent Acceleration Co-op (July to December)](https://jobright.ai/jobs/info/6971e780b707bf728a4b8201?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Feb 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 12 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Feb 12 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69216a01a49a885af9a45ab2?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c943aca0c52d598ea367f7?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/698e2e5af64d441a165069c4?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Feb 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Feb 12 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Feb 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933cd56a0dde7020e2f1f11?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Feb 12 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6933db02a0dde7020e2f27ff?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | On Site | Feb 12 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[2026 Summer Internship - Compensation/Total Rewards](https://jobright.ai/jobs/info/698e369478b4502f12a5029d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 12 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[TruStone Financial Credit Union](http://www.trustonefinancial.org)** | **[Human Resources & Staff Development Intern](https://jobright.ai/jobs/info/698d7fa30f6f7e7a2ce96a87?utm_campaign=1054&utm_source=git)** | Burnsville, MN, US | On Site | Feb 11 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d43c3f64d441a164f489c?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d43eb0f6f7e7a2ce91621?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d44680f6f7e7a2ce916b9?utm_campaign=1054&utm_source=git)** | Youngstown, OH | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d42cc0f6f7e7a2ce9154a?utm_campaign=1054&utm_source=git)** | Greater Cleveland | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d408af64d441a164f44c4?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d46baf64d441a164f4ce4?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d42cc0f6f7e7a2ce9154a?utm_campaign=1054&utm_source=git)** | Greater Cleveland | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d44680f6f7e7a2ce916b9?utm_campaign=1054&utm_source=git)** | Youngstown, OH | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d408af64d441a164f44c4?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d49310f6f7e7a2ce91d67?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d4869f64d441a164f4f2c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d3f75f64d441a164f442c?utm_campaign=1054&utm_source=git)** | Akron, OH | Remote | Feb 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Talent Marketing](https://jobright.ai/jobs/info/698d1d730f6f7e7a2ce8d95e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
