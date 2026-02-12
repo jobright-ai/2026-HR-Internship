@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026](https://jobright.ai/jobs/info/698d4a6b0f6f7e7a2ce91f24?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 11 |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/698a51d40f6f7e7a2ce56700?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 11 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/698d46ad0f6f7e7a2ce919d7?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Feb 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698d43c00f6f7e7a2ce915e6?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 11 |
 | **[Texas General Land Office](http://www.glo.texas.gov/)** | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/698d43000f6f7e7a2ce91568?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 11 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Talent Intelligence Data Analyst](https://jobright.ai/jobs/info/698d0f68f64d441a164ef034?utm_campaign=1054&utm_source=git)** | Washington - Seattle | On Site | Feb 11 |
@@ -65,11 +68,13 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Store Operations (Workforce Planning & Analytics)](https://jobright.ai/jobs/info/6986ce8e8da7a6120461cc43?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Feb 11 |
 | **[Teradyne](http://www.teradyne.com)** | **[HR Intern (Teradyne, N Reading, MA)](https://jobright.ai/jobs/info/698d3395f64d441a164f2ec8?utm_campaign=1054&utm_source=git)** | North Reading, MA | On Site | Feb 11 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Talent Acquisition & Strategy](https://jobright.ai/jobs/info/69712407587dfa0bb55ead31?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Feb 11 |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/698a57d3b708d23f366c0d0b?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Feb 11 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: HR Shared Services](https://jobright.ai/jobs/info/69710e34333b6343a14d89ec?utm_campaign=1054&utm_source=git)** | Brownsville, WI | On Site | Feb 11 |
 | **[Freeman Company](http://www.freeman.com)** | **[Intern Talent Acquisition](https://jobright.ai/jobs/info/698d2cfdf64d441a164f238f?utm_campaign=1054&utm_source=git)** | Montgomery, AL | On Site | Feb 11 |
 | **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698d2b3ef64d441a164f2116?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Talent Intelligence Data Analyst](https://jobright.ai/jobs/info/698d195e0f6f7e7a2ce8d1c2?utm_campaign=1054&utm_source=git)** | Georgia - Atlanta | On Site | Feb 11 |
 | ↳ | **[Summer 2026 Intern - Talent Intelligence Data Analyst](https://jobright.ai/jobs/info/698d1e460f6f7e7a2ce8dada?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Feb 11 |
+| **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/6971b84151f7264771842d3f?utm_campaign=1054&utm_source=git)** | Manteno, IL | On Site | Feb 11 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d254278b4502f12a3af1c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Feb 11 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Talent Intelligence Data Analyst](https://jobright.ai/jobs/info/698d24c878b4502f12a3aedd?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 11 |
 | ↳ | **[Summer 2026 Intern - Talent Marketing](https://jobright.ai/jobs/info/698d248478b4502f12a3aeb6?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
@@ -78,15 +83,24 @@ For a complete list, click the following sortable link below:
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Administrative Coordinator I - ACP Recruitment & Outreach Coordinator – Part-Time, Temporary](https://jobright.ai/jobs/info/698d41a078b4502f12a3dbbc?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Feb 11 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d43c3f64d441a164f489c?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d43eb0f6f7e7a2ce91621?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Feb 11 |
-| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d42cc0f6f7e7a2ce9154a?utm_campaign=1054&utm_source=git)** | Greater Cleveland | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d408af64d441a164f44c4?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d44680f6f7e7a2ce916b9?utm_campaign=1054&utm_source=git)** | Youngstown, OH | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d42cc0f6f7e7a2ce9154a?utm_campaign=1054&utm_source=git)** | Greater Cleveland | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d46baf64d441a164f4ce4?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d49310f6f7e7a2ce91d67?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d4869f64d441a164f4f2c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d3f75f64d441a164f442c?utm_campaign=1054&utm_source=git)** | Akron, OH | Remote | Feb 11 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Talent Marketing](https://jobright.ai/jobs/info/698d1d730f6f7e7a2ce8d95e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 11 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/697128d8587dfa0bb55eb19a?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Feb 11 |
-| **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d42f478b4502f12a3dd9a?utm_campaign=1054&utm_source=git)** | US-PA-Philadelphia | Remote | Feb 11 |
+| **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d478a0f6f7e7a2ce91b25?utm_campaign=1054&utm_source=git)** | US-OH-Cleveland | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d42f478b4502f12a3dd9a?utm_campaign=1054&utm_source=git)** | US-PA-Philadelphia | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d41a5f64d441a164f45b0?utm_campaign=1054&utm_source=git)** | Baltimore, MD, US | Remote | Feb 11 |
 | ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d425678b4502f12a3dcb2?utm_campaign=1054&utm_source=git)** | NORTH BETHESDA, MD, US | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d48df0f6f7e7a2ce91ce9?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d4a050f6f7e7a2ce91e97?utm_campaign=1054&utm_source=git)** | US-PA-Pittsburgh | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d4a2b0f6f7e7a2ce91ec3?utm_campaign=1054&utm_source=git)** | Charlotte, NC, US | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d4c5f78b4502f12a3f13c?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, US | Remote | Feb 11 |
+| ↳ | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d49190f6f7e7a2ce91d45?utm_campaign=1054&utm_source=git)** | Cleveland, OH, US | Remote | Feb 11 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Human Resources](https://jobright.ai/jobs/info/698d3aba0f6f7e7a2ce90824?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Remote | Feb 11 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698d40a078b4502f12a3da56?utm_campaign=1054&utm_source=git)** | Strongsville OH - Strongsville, OH 44136 | On Site | Feb 11 |
 | **[De Nora](https://www.denora.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698d0e4e78b4502f12a386b3?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Feb 11 |
@@ -115,46 +129,32 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Diversity, Equity and Inclusion Intern - Summer Recruitment- DC, MD, VA (Hybrid)](https://jobright.ai/jobs/info/698697f60f6f7e7a2ce1a016?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Feb 11 |
 | **[Centene Corporation](http://www.centene.com)** | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d1d03f64d441a164f0a03?utm_campaign=1054&utm_source=git)** | Nashville Metro | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d1a50f64d441a164f04d5?utm_campaign=1054&utm_source=git)** | Iowa, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d0d140f6f7e7a2ce8bfad?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d12ca0f6f7e7a2ce8c752?utm_campaign=1054&utm_source=git)** | Georgia, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d0d93f64d441a164eeca8?utm_campaign=1054&utm_source=git)** | South Carolina, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d14db0f6f7e7a2ce8cb45?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d0c670f6f7e7a2ce8be7d?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d14db0f6f7e7a2ce8cb45?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d0d140f6f7e7a2ce8bfad?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d184cf64d441a164f00f5?utm_campaign=1054&utm_source=git)** | Nevada, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d18b178b4502f12a39bed?utm_campaign=1054&utm_source=git)** | Indiana, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d13980f6f7e7a2ce8c8f1?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d0ded0f6f7e7a2ce8c06b?utm_campaign=1054&utm_source=git)** | Utah, United States | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d22c1f64d441a164f163e?utm_campaign=1054&utm_source=git)** | Caroline County, MD | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d15abf64d441a164efbe1?utm_campaign=1054&utm_source=git)** | South Dakota, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d16e5f64d441a164efe2e?utm_campaign=1054&utm_source=git)** | Greater Enid Area | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d123df64d441a164ef58f?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d22c1f64d441a164f163e?utm_campaign=1054&utm_source=git)** | Caroline County, MD | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d1a2f78b4502f12a39f0e?utm_campaign=1054&utm_source=git)** | Illinois, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d0f9b78b4502f12a3893d?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d1a2f78b4502f12a39f0e?utm_campaign=1054&utm_source=git)** | Illinois, United States | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d17f0f64d441a164f0039?utm_campaign=1054&utm_source=git)** | Providence County, RI | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d10aff64d441a164ef2ab?utm_campaign=1054&utm_source=git)** | Montana, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d061b78b4502f12a37809?utm_campaign=1054&utm_source=git)** | Kansas, United States | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d098478b4502f12a37d9a?utm_campaign=1054&utm_source=git)** | Bernalillo County, NM | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d123df64d441a164ef590?utm_campaign=1054&utm_source=git)** | Maine, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d176ff64d441a164eff41?utm_campaign=1054&utm_source=git)** | Mississippi, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d098478b4502f12a37d9a?utm_campaign=1054&utm_source=git)** | Bernalillo County, NM | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d17f0f64d441a164f0039?utm_campaign=1054&utm_source=git)** | Providence County, RI | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d061b78b4502f12a37809?utm_campaign=1054&utm_source=git)** | Kansas, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d17acf64d441a164effbf?utm_campaign=1054&utm_source=git)** | Elmore County, ID | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d195df64d441a164f0320?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d147df64d441a164ef9a8?utm_campaign=1054&utm_source=git)** | Fremont County, WY | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d1ccc78b4502f12a3a444?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d082878b4502f12a37b09?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d04e10f6f7e7a2ce8b2d0?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d1b6578b4502f12a3a1b0?utm_campaign=1054&utm_source=git)** | Ohio, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d08130f6f7e7a2ce8b835?utm_campaign=1054&utm_source=git)** | Hillsborough County, NH | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d1ccaf64d441a164f098b?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d10bd78b4502f12a38b68?utm_campaign=1054&utm_source=git)** | Arkansas, United States | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d04e10f6f7e7a2ce8b2d0?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Feb 11 |
 | ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d186bf64d441a164f0133?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d1ab1f64d441a164f0598?utm_campaign=1054&utm_source=git)** | Florida, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d0f6a0f6f7e7a2ce8c197?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d00f60f6f7e7a2ce8ad0f?utm_campaign=1054&utm_source=git)** | Hawaii County, HI | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d08810f6f7e7a2ce8b8ec?utm_campaign=1054&utm_source=git)** | Matanuska-Susitna Borough County, AK | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d10010f6f7e7a2ce8c22f?utm_campaign=1054&utm_source=git)** | Nebraska, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d058678b4502f12a3776e?utm_campaign=1054&utm_source=git)** | Vermont, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d17b078b4502f12a399c5?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d18f178b4502f12a39c61?utm_campaign=1054&utm_source=git)** | Kenton County, KY | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d14a60f6f7e7a2ce8cad5?utm_campaign=1054&utm_source=git)** | Delaware, United States | Remote | Feb 11 |
-| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d0dc00f6f7e7a2ce8c048?utm_campaign=1054&utm_source=git)** | Cass County, ND | Remote | Feb 11 |
+| ↳ | **[Benefits Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/698d1ccc78b4502f12a3a444?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
