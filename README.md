@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Rotational Human Resource Intern (Full Year 2026)](https://jobright.ai/jobs/info/698e843f78b4502f12a55b5b?utm_campaign=1054&utm_source=git)** | US-OH-CINCINNATI | On Site | Feb 12 |
+| **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e83710f6f7e7a2ceaa23d?utm_campaign=1054&utm_source=git)** | Homer City, PA | On Site | Feb 12 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Food and Beverage Staffing Internship](https://jobright.ai/jobs/info/698e7d7af64d441a1650c50d?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Feb 12 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e77d978b4502f12a54a74?utm_campaign=1054&utm_source=git)** | Port Arthur, TX | On Site | Feb 12 |
 | **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/69727ee2584a1c1ef6fd79e2?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 12 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[du-it](https://du-it.my/index.html)** | **[Staffing Coordinator SkillBridge Internship](https://jobright.ai/jobs/info/698e7ee30f6f7e7a2cea9a9a?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Feb 12 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698e7467f64d441a1650ba1f?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Madison](https://jobright.ai/jobs/info/69003019e0c73b3a111a31c2?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 12 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d2908bcdbf3560c9edb92?utm_campaign=1054&utm_source=git)** | Brampton, Ontario, Canada | On Site | Feb 12 |
 | **[Camaco](http://www.camacollc.com)** | **[HR Intern](https://jobright.ai/jobs/info/697279d4584a1c1ef6fd743d?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Feb 12 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Optimization](https://jobright.ai/jobs/info/698e73730f6f7e7a2cea87ae?utm_campaign=1054&utm_source=git)** | Washington - Seattle | On Site | Feb 12 |
 | ↳ | **[Summer 2026 Intern - Recruiting Optimization](https://jobright.ai/jobs/info/698e6de9f64d441a1650ab70?utm_campaign=1054&utm_source=git)** | California - San Francisco | On Site | Feb 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lynden Logistics](http://lynden.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698d9188f64d441a164fb61c?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 11 |
 | **[American Gas Association](http://www.aga.org)** | **[Intern, Talent Operations](https://jobright.ai/jobs/info/6971892f587dfa0bb55f3a87?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Feb 11 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[DATA INTERN (ADMINISTRATIVE INTERN)](https://jobright.ai/jobs/info/698d87ae78b4502f12a43a90?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Feb 11 |
-| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/698d8c050f6f7e7a2ce9768e?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Feb 11 |
-| **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026](https://jobright.ai/jobs/info/698d4a6b0f6f7e7a2ce91f24?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 11 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/698a51d40f6f7e7a2ce56700?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
