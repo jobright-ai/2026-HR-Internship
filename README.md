@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6978428639f7f96cc6d09792?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 13 |
+| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/698f21f20cc8ea15f1d98848?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 13 |
+| **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Workforce Planning & Development Intern](https://jobright.ai/jobs/info/6989a4620f6f7e7a2ce4a2e8?utm_campaign=1054&utm_source=git)** | Ohio, United States | Hybrid | Feb 13 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Early Talent Internship](https://jobright.ai/jobs/info/698659d98ca8121a3a6891df?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 13 |
+| **[O'Neal Steel](https://www.onealsteel.com/)** | **[HR Technology Intern](https://jobright.ai/jobs/info/698f19ff0cc8ea15f1d977cf?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Feb 13 |
 | **[Sectra](http://www.sectra.com)** | **[Summer Internship Program - Human Resources](https://jobright.ai/jobs/info/698f13940cc8ea15f1d96ac8?utm_campaign=1054&utm_source=git)** | Shelton, CT | On Site | Feb 13 |
+| **[Lumber](https://www.lumberfi.com/)** | **[Product Intern - Payroll (Intern-to-Hire)](https://jobright.ai/jobs/info/698f22510f6f7e7a2ceb3283?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 13 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, HR, Benefits & Wellness Intern - Summer 2026](https://jobright.ai/jobs/info/6986cf9a8ca8121a3a694e6f?utm_campaign=1054&utm_source=git)** | Brillion, WI | On Site | Feb 12 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/6973099f694e99351d1455d7?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 12 |
+| **[UniUni](https://www.uniuni.com)** | **[HR and Admin Intern](https://jobright.ai/jobs/info/698f220a0cc8ea15f1d98879?utm_campaign=1054&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Feb 12 |
 | **[Butterball](http://www.butterball.com/)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/6972d34f98522904c697a516?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Feb 12 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[HR Talent Acquisition Intern](https://jobright.ai/jobs/info/698f18810cc8ea15f1d97495?utm_campaign=1054&utm_source=git)** | Connecticut, District of Columbia, Florida, Maryland, New Jersey, New York, Virginia | Remote | Feb 12 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698ebdf578b4502f12a59aee?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Feb 12 |
@@ -73,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[ATB Financial](http://www.atb.com/)** | **[Indigenous Internship - Talent Attraction Student](https://jobright.ai/jobs/info/698ec0e978b4502f12a59cfb?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 12 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Corporate Intern-Talent Acquisition](https://jobright.ai/jobs/info/698e9532f64d441a1650e084?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Feb 12 |
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Recruiting Intern (Part Time) (Clayton, MO)](https://jobright.ai/jobs/info/698ecf990f6f7e7a2ceaee3f?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Feb 12 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/698e92f1f64d441a1650de59?utm_campaign=1054&utm_source=git)** | Georgia, United States | Remote | Feb 12 |
 | **[Lam Research](http://www.lamresearch.com)** | **[Global Talent Acquisition Intern](https://jobright.ai/jobs/info/698e92e20f6f7e7a2ceab2cb?utm_campaign=1054&utm_source=git)** | Tualatin, OR | On Site | Feb 12 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/69728d854ccbf64f8df28005?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Feb 12 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[HR Recruiting Internship - 100% Remote - USA](https://jobright.ai/jobs/info/698eb8e8f64d441a16510778?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/698f01f66ea51a7610f1245e?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Feb 12 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Human Resources Summer Internship 2026](https://jobright.ai/jobs/info/698e69f5f64d441a1650a302?utm_campaign=1054&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 12 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69216a01a49a885af9a45ab2?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Feb 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c943aca0c52d598ea367f7?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Feb 12 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933cd56a0dde7020e2f1f11?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Feb 12 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6933db02a0dde7020e2f27ff?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | On Site | Feb 12 |
-| **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[2026 Summer Internship - Compensation/Total Rewards](https://jobright.ai/jobs/info/698e369478b4502f12a5029d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 12 |
-| **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Corporate Intern-Talent Acquisition](https://jobright.ai/jobs/info/698e46d70f6f7e7a2cea503c?utm_campaign=1054&utm_source=git)** | Fort Mill SC 29715 | On Site | Feb 12 |
-| **[TekniPlex](http://www.tekni-plex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691d3993bcdbf3560c9ee5fa?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
