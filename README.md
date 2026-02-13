@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, HR, Benefits & Wellness Intern - Summer 2026](https://jobright.ai/jobs/info/6986cf9a8ca8121a3a694e6f?utm_campaign=1054&utm_source=git)** | Brillion, WI | On Site | Feb 12 |
 | **[Butterball](http://www.butterball.com/)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/6972d34f98522904c697a516?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Feb 12 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698ebdf578b4502f12a59aee?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Feb 12 |
+| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698ef21178b4502f12a5c476?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern- Sky Harbor](https://jobright.ai/jobs/info/698eba77f64d441a1651096d?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
 | **[Posillico Civil, Inc.](http://posillicoinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698ecb4378b4502f12a5a409?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 12 |
 | **[Sabert Corporation](https://sabert.com/)** | **[Human Resources Intern-Talent Acquisition](https://jobright.ai/jobs/info/6972b445584a1c1ef6fdc6e0?utm_campaign=1054&utm_source=git)** | Sayreville, NJ | Hybrid | Feb 12 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/69727ee2584a1c1ef6fd79e2?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 12 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Optimization](https://jobright.ai/jobs/info/698e7ef3f64d441a1650c7a4?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 12 |
 | ↳ | **[Summer 2026 Intern - Recruiting Optimization](https://jobright.ai/jobs/info/698e7f3df64d441a1650c80f?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Feb 12 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Human Resources Internship-Jefferson City MO](https://jobright.ai/jobs/info/698f05780cc8ea15f1d95b29?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Feb 12 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/698e7b39f64d441a1650c145?utm_campaign=1054&utm_source=git)** | 95 Morton St, New York, NY, 10014, US | On Site | Feb 12 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / HRBP](https://jobright.ai/jobs/info/698e572df64d441a16508bb4?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 12 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698e564278b4502f12a51dbc?utm_campaign=1054&utm_source=git)** | Napa, CA | On Site | Feb 12 |
@@ -143,6 +145,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern- Schenectady, NY and Amsterdam, NY](https://jobright.ai/jobs/info/693a817ef4e44c4d629d2bd7?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Feb 12 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 12 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Feb 12 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/698f01f66ea51a7610f1245e?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Feb 12 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Human Resources Summer Internship 2026](https://jobright.ai/jobs/info/698e69f5f64d441a1650a302?utm_campaign=1054&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 12 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69216a01a49a885af9a45ab2?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c943aca0c52d598ea367f7?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691d3993bcdbf3560c9ee5fa?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a3a57ac80bb5492bcbf23?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Feb 12 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a431fac80bb5492bcc4ab?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Feb 12 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4a9f06a34016008c637f?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Feb 12 |
-| **[Fellowes Brands](http://www.fellowes.com/us/en/Pages/default.aspx)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69723ee4584a1c1ef6fd398a?utm_campaign=1054&utm_source=git)** | Itasca, IL | On Site | Feb 12 |
-| **[City of Champlin](https://ci.champlin.mn.us/)** | **[HR & Payroll Intern](https://jobright.ai/jobs/info/698e1da078b4502f12a4e9c7?utm_campaign=1054&utm_source=git)** | Champlin, MN | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
