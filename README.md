@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern, HR, Benefits & Wellness Intern - Summer 2026](https://jobright.ai/jobs/info/6986cf9a8ca8121a3a694e6f?utm_campaign=1054&utm_source=git)** | Brillion, WI | On Site | Feb 12 |
+| **[Butterball](http://www.butterball.com/)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/6972d34f98522904c697a516?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Feb 12 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698ebdf578b4502f12a59aee?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern- Sky Harbor](https://jobright.ai/jobs/info/698eba77f64d441a1651096d?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
 | **[Posillico Civil, Inc.](http://posillicoinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698ecb4378b4502f12a5a409?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 12 |
 | **[Sabert Corporation](https://sabert.com/)** | **[Human Resources Intern-Talent Acquisition](https://jobright.ai/jobs/info/6972b445584a1c1ef6fdc6e0?utm_campaign=1054&utm_source=git)** | Sayreville, NJ | Hybrid | Feb 12 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 - Disability Case Manager](https://jobright.ai/jobs/info/698ecc43f64d441a16511d54?utm_campaign=1054&utm_source=git)** | Québec, Quebec, Canada | Remote | Feb 12 |
+| **[UniUni](https://www.uniuni.com)** | **[HR and Admin Intern](https://jobright.ai/jobs/info/698ed3e678b4502f12a5abca?utm_campaign=1054&utm_source=git)** | Richmond, Canada | On Site | Feb 12 |
 | **[Metso](http://www.metso.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/698a64320f6f7e7a2ce5862c?utm_campaign=1054&utm_source=git)** | Mesa, AZ | Hybrid | Feb 12 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/698ea0ff0f6f7e7a2ceabe23?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Feb 12 |
 | **[ATB Financial](http://www.atb.com/)** | **[Indigenous Internship - Talent Attraction Student](https://jobright.ai/jobs/info/698ec0e978b4502f12a59cfb?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4a9f06a34016008c637f?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Feb 12 |
 | **[Fellowes Brands](http://www.fellowes.com/us/en/Pages/default.aspx)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69723ee4584a1c1ef6fd398a?utm_campaign=1054&utm_source=git)** | Itasca, IL | On Site | Feb 12 |
 | **[City of Champlin](https://ci.champlin.mn.us/)** | **[HR & Payroll Intern](https://jobright.ai/jobs/info/698e1da078b4502f12a4e9c7?utm_campaign=1054&utm_source=git)** | Champlin, MN | On Site | Feb 12 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/691be24a22a2cb4b9bd17181?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 12 |
-| **[SONESTA INTERNATION HOTELS CORPORATION](https://www.linkedin.com/company/61878893)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698e1bddf64d441a16505536?utm_campaign=1054&utm_source=git)** | Corporate Office – Newton, MA | On Site | Feb 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a442056b68f3dc4e79bbf?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
