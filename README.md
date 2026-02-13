@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[2026 Sourcing Recruiter Intern](https://jobright.ai/jobs/info/693bdfeb49a7695fbd02d4e8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698f3a900f6f7e7a2ceb5ba6?utm_campaign=1054&utm_source=git)** | Berkeley, CA | Remote | Feb 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Feb 13 |
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693b430e5f2c001987ed3eb7?utm_campaign=1054&utm_source=git)** | Hazel Park, MI | On Site | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[College and International Programs Intern, Fall 2026](https://jobright.ai/jobs/info/698b1fc44db8972cec00948f?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6978428639f7f96cc6d09792?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 13 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, HR & Talent Experiences](https://jobright.ai/jobs/info/698f30f80f6f7e7a2ceb4abc?utm_campaign=1054&utm_source=git)** | US-MI-Birmingham | Hybrid | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate, Talent Intern](https://jobright.ai/jobs/info/698f37b30cc8ea15f1d9ab08?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
+| ↳ | **[Intern, HR & Talent Experiences](https://jobright.ai/jobs/info/698f399c0f6f7e7a2ceb59f5?utm_campaign=1054&utm_source=git)** | Miami, FL, US | Hybrid | Feb 13 |
+| ↳ | **[Intern, HR & Talent Experiences](https://jobright.ai/jobs/info/698f30f80f6f7e7a2ceb4abc?utm_campaign=1054&utm_source=git)** | US-MI-Birmingham | Hybrid | Feb 13 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6972d0d20488fd59f7d5c816?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Feb 13 |
 | **[BHM Law Firm](http://www.bhm.az)** | **[Influencer Talent Internship](https://jobright.ai/jobs/info/698f32426ea51a7610f170fa?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Feb 13 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/698f21f20cc8ea15f1d98848?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 13 |
 | **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Workforce Planning & Development Intern](https://jobright.ai/jobs/info/6989a4620f6f7e7a2ce4a2e8?utm_campaign=1054&utm_source=git)** | Ohio, United States | Hybrid | Feb 13 |
@@ -87,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Corporate Intern-Talent Acquisition](https://jobright.ai/jobs/info/698e9532f64d441a1650e084?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Feb 12 |
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Recruiting Intern (Part Time) (Clayton, MO)](https://jobright.ai/jobs/info/698ecf990f6f7e7a2ceaee3f?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Feb 12 |
 | **[Lam Research](http://www.lamresearch.com)** | **[Global Talent Acquisition Intern](https://jobright.ai/jobs/info/698e92e20f6f7e7a2ceab2cb?utm_campaign=1054&utm_source=git)** | Tualatin, OR | On Site | Feb 12 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/698f3da16ea51a7610f18085?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Remote | Feb 12 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/69728d854ccbf64f8df28005?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Feb 12 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[HR Recruiting Internship - 100% Remote - USA](https://jobright.ai/jobs/info/698eb8e8f64d441a16510778?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Peter Millar](http://www.petermillar.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/698ea872f64d441a1650f04f?utm_campaign=1054&utm_source=git)** | Triangle, NC | On Site | Feb 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Feb 12 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 12 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698e3f30f64d441a165076ed?utm_campaign=1054&utm_source=git)** | Ormond Beach, FL | On Site | Feb 12 |
-| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698e678bf64d441a16509e29?utm_campaign=1054&utm_source=git)** | Buffalo,NY,US | On Site | Feb 12 |
-| **[Family Trust Federal Credit Union](https://www.familytrust.org)** | **[HR Intern](https://jobright.ai/jobs/info/698e68ac78b4502f12a530fb?utm_campaign=1054&utm_source=git)** | Rock Hill, South Carolina, United States | On Site | Feb 12 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698e41fc0f6f7e7a2cea4c68?utm_campaign=1054&utm_source=git)** | US-MO-Chesterfield | On Site | Feb 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/693a8ec6e50e320634e2e047?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Feb 12 |
-| ↳ | **[Summer 2026 Management Trainee Intern- Schenectady, NY and Amsterdam, NY](https://jobright.ai/jobs/info/693a817ef4e44c4d629d2bd7?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Feb 12 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
