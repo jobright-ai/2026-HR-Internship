@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Systems Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/693c967f50bbaf76504fd8fb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Feb 14 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6973ebbb206da320f49de42a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 14 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship – Human Resources, Employee Benefits](https://jobright.ai/jobs/info/68cd56d3e23def7af55b871b?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Crystal Lake, IL](https://jobright.ai/jobs/info/6974a0c0bc8e722e7b19b27e?utm_campaign=1054&utm_source=git)** | Crystal Lake, IL | On Site | Feb 14 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Human Resources Launch Intern - Summer 2026](https://jobright.ai/jobs/info/698fd5aa6ea51a7610f23d98?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Feb 13 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fd3520f6f7e7a2cec1d88?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Talent Acquisition Marketing Account Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698fcd740cc8ea15f1da6972?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 13 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[HR Operations & Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/698fe3236ea51a7610f2483a?utm_campaign=1054&utm_source=git)** | Marlborough, MA 01752 | Hybrid | Feb 13 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/698fba2c0cc8ea15f1da57b7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
