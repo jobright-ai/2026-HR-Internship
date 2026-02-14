@@ -59,8 +59,13 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fd2f50cc8ea15f1da6d34?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Feb 13 |
 | **[REGENT](https://www.regentcraft.com)** | **[SkillBridge - Mission Assurance](https://jobright.ai/jobs/info/698fc9b30cc8ea15f1da6726?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Feb 13 |
+| **[LightFeather](https://lightfeather.io)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698fed6f6ea51a7610f2509f?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/698fc44b0cc8ea15f1da624a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 13 |
+| **[Beedie](http://www.beedie.ca/)** | **[Summer Intern, Human Resources](https://jobright.ai/jobs/info/698fef6e6ea51a7610f25257?utm_campaign=1054&utm_source=git)** | Burnaby, BC | On Site | Feb 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Central NJ](https://jobright.ai/jobs/info/698fbeb56ea51a7610f229b2?utm_campaign=1054&utm_source=git)** | Edison, NJ | On Site | Feb 13 |
+| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[HR Employment Specialist Internship](https://jobright.ai/jobs/info/698ff5de0cc8ea15f1da8d88?utm_campaign=1054&utm_source=git)** | Monroe, WI | On Site | Feb 13 |
+| **[ISACA](http://www.isaca.org)** | **[Credentialing Intern](https://jobright.ai/jobs/info/698fe49a6ea51a7610f2499e?utm_campaign=1054&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
+| **[Vanderlande](https://www.vanderlande.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698fed6b6ea51a7610f25099?utm_campaign=1054&utm_source=git)** | Marietta, GA USA | Hybrid | Feb 13 |
 | **[RXO, Inc.](https://rxo.com)** | **[Leadership & Development Intern](https://jobright.ai/jobs/info/698fbad80f6f7e7a2cec0719?utm_campaign=1054&utm_source=git)** | Dublin, Ohio | On Site | Feb 13 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698fb6bd0cc8ea15f1da52ac?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Specimen Lifecycle Management - Intern](https://jobright.ai/jobs/info/698fd3a90cc8ea15f1da6dac?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Feb 13 |
@@ -72,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Human Resources Launch Intern - Summer 2026](https://jobright.ai/jobs/info/698fd5aa6ea51a7610f23d98?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Feb 13 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fd3520f6f7e7a2cec1d88?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Talent Acquisition Marketing Account Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698fcd740cc8ea15f1da6972?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 13 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[HR Operations & Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/698fe3236ea51a7610f2483a?utm_campaign=1054&utm_source=git)** | Marlborough, MA 01752 | Hybrid | Feb 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/698fba2c0cc8ea15f1da57b7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Feb 13 |
 | ↳ | **[HR Human Resources Intern](https://jobright.ai/jobs/info/698fb1350f6f7e7a2cebfc86?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 13 |
 | **[RXO, Inc.](https://rxo.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fb78f0f6f7e7a2cec035c?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Feb 13 |
@@ -80,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Human Resources Intern - Indianapolis Motor Speedway](https://jobright.ai/jobs/info/698fb4356ea51a7610f21d27?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US, 46222 | On Site | Feb 13 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fcd116ea51a7610f23869?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fb8760cc8ea15f1da5614?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
+| **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fea140f6f7e7a2cec2edb?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
 | **[Waséyabek](https://waseyabek.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/698fb0eb0f6f7e7a2cebfc45?utm_campaign=1054&utm_source=git)** | 16 Monroe Center St NE, Suite 200, Grand Rapids MI, Grand Rapids, MI, US | On Site | Feb 13 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Human Resources Launch Intern - Summer 2026](https://jobright.ai/jobs/info/698fd3a30f6f7e7a2cec1dbf?utm_campaign=1054&utm_source=git)** | USA - Sunnyvale, CA | On Site | Feb 13 |
 | **[Powerplay Retail™](http://www.powerplayretail.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fa2e10f6f7e7a2cebef7a?utm_campaign=1054&utm_source=git)** | Mendota Heights, MN | On Site | Feb 13 |
@@ -121,9 +128,9 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6956d2c3f1f8465b79edb2dd?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate, Talent Intern](https://jobright.ai/jobs/info/698f37b30cc8ea15f1d9ab08?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
 | ↳ | **[HR and Learning & Development Intern](https://jobright.ai/jobs/info/698f49430cc8ea15f1d9c461?utm_campaign=1054&utm_source=git)** | CA-ON-Toronto | On Site | Feb 13 |
-| ↳ | **[Intern, HR & Talent Experiences](https://jobright.ai/jobs/info/698f399c0f6f7e7a2ceb59f5?utm_campaign=1054&utm_source=git)** | Miami, FL, US | Hybrid | Feb 13 |
 | ↳ | **[Intern, HR & Talent Experiences](https://jobright.ai/jobs/info/698f30f80f6f7e7a2ceb4abc?utm_campaign=1054&utm_source=git)** | US-MI-Birmingham | Hybrid | Feb 13 |
 | ↳ | **[Intern, HR & Talent Experiences](https://jobright.ai/jobs/info/698f43ec6ea51a7610f18a3e?utm_campaign=1054&utm_source=git)** | US-NY-New York | Hybrid | Feb 13 |
+| ↳ | **[Intern, HR & Talent Experiences](https://jobright.ai/jobs/info/698f399c0f6f7e7a2ceb59f5?utm_campaign=1054&utm_source=git)** | Miami, FL, US | Hybrid | Feb 13 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6972d0d20488fd59f7d5c816?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Feb 13 |
 | **[BHM Law Firm](http://www.bhm.az)** | **[Influencer Talent Internship](https://jobright.ai/jobs/info/698f32426ea51a7610f170fa?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Feb 13 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/698f21f20cc8ea15f1d98848?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Recruiting Intern (Part Time) (Clayton, MO)](https://jobright.ai/jobs/info/698ecf990f6f7e7a2ceaee3f?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Feb 12 |
 | **[Lam Research](http://www.lamresearch.com)** | **[Global Talent Acquisition Intern](https://jobright.ai/jobs/info/698e92e20f6f7e7a2ceab2cb?utm_campaign=1054&utm_source=git)** | Tualatin, OR | On Site | Feb 12 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/69728d854ccbf64f8df28005?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Feb 12 |
-| **[Peter Millar](http://www.petermillar.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/698ea872f64d441a1650f04f?utm_campaign=1054&utm_source=git)** | Triangle, NC | On Site | Feb 12 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/698ec8c40f6f7e7a2ceaea5f?utm_campaign=1054&utm_source=git)** | Research Triangle Park, NC | On Site | Feb 12 |
-| **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Rotational Human Resource Intern (Full Year 2026)](https://jobright.ai/jobs/info/698e843f78b4502f12a55b5b?utm_campaign=1054&utm_source=git)** | US-OH-CINCINNATI | On Site | Feb 12 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e83710f6f7e7a2ceaa23d?utm_campaign=1054&utm_source=git)** | Homer City, PA | On Site | Feb 12 |
-| **[Sabert Corporation](https://sabert.com/)** | **[Human Resources Intern-Talent Management](https://jobright.ai/jobs/info/6972b4044ccbf64f8df2bf18?utm_campaign=1054&utm_source=git)** | Sayreville, NJ | Hybrid | Feb 12 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Food and Beverage Staffing Internship](https://jobright.ai/jobs/info/698e7d7af64d441a1650c50d?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Feb 12 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/698ea83178b4502f12a580bc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
