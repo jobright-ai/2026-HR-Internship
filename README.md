@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69743030206da320f49e5267?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Feb 14 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Talent Acquisition Marketing Account Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699064b90cc8ea15f1db269c?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 14 |
+| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Talent Resources](https://jobright.ai/jobs/info/695829df9f1b381eb271091d?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Feb 14 |
+| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695837a9aa05c26e7ab21c27?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | Feb 14 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69742d44206da320f49e4f92?utm_campaign=1054&utm_source=git)** | McLean, VA | Hybrid | Feb 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f60803f782d2f1afbb23d?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 14 |
 | **[DriveTime](https://www.drivetime.com)** | **[Employee Experience Intern - Events (Summer 2026)](https://jobright.ai/jobs/info/697423c7bc8e722e7b191920?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Feb 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 Sourcing Recruiter Intern](https://jobright.ai/jobs/info/693bdfeb49a7695fbd02d4e8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Feb 13 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4ac546caff4db51fcb26?utm_campaign=1054&utm_source=git)** | Gastonia, NC | On Site | Feb 13 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[College and International Programs Intern, Fall 2026](https://jobright.ai/jobs/info/698b1fc44db8972cec00948f?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 13 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6978428639f7f96cc6d09792?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Feb 13 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Organizational Management/Human Resources Information Systems Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c76870f6f7e7a2ce82f8f?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | Hybrid | Feb 13 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Human Resources](https://jobright.ai/jobs/info/693b7f765f2c001987ed7257?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
