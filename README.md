@@ -67,7 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Feb 14 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933d03e764507023d1b99df?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Feb 14 |
 | ↳ | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a67b95f5211cd2ce7e4a?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Feb 14 |
-| ↳ | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1054&utm_source=git)** | Homestead, FL | On Site | Feb 14 |
+| **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744fb6206da320f49e8b76?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Feb 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1054&utm_source=git)** | Homestead, FL | On Site | Feb 14 |
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Feb 14 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e719d11852e62f00822363?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Feb 14 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD | On Site | Feb 14 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Springfield, MA](https://jobright.ai/jobs/info/6990a29a0f6f7e7a2ced0a0a?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | Feb 14 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/693ce08450bbaf7650500599?utm_campaign=1054&utm_source=git)** | Woodbridge, VA | On Site | Feb 14 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/697400fbbc8e722e7b18e531?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Feb 14 |
-| **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744fa637785856350e5a25?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Feb 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Talent & Recruiting Intern (Summer 2026)](https://jobright.ai/jobs/info/6974318a206da320f49e52fb?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Human Resources](https://jobright.ai/jobs/info/693ce99f50bbaf7650500cba?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Feb 14 |
 | **[Siemens](https://www.siemens.com)** | **[People & Organization Internship](https://jobright.ai/jobs/info/6973aa60bc8e722e7b187341?utm_campaign=1054&utm_source=git)** | Wendell, NC | On Site | Feb 14 |
@@ -99,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/69742266206da320f49e441e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Feb 14 |
 | ↳ | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/69742502206da320f49e470e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Feb 14 |
 | **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada HR Intern - Winter 2026](https://jobright.ai/jobs/info/691dc7d7ad5a517034796608?utm_campaign=1054&utm_source=git)** | New Minas, Nova Scotia, Canada | On Site | Feb 14 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69906dfd0cc8ea15f1db2a6c?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Feb 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69743030206da320f49e5267?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Talent Acquisition Marketing Account Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699064b90cc8ea15f1db269c?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 14 |
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Talent Resources](https://jobright.ai/jobs/info/695829df9f1b381eb271091d?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Feb 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Human Resources Launch Intern - Summer 2026](https://jobright.ai/jobs/info/698fd5aa6ea51a7610f23d98?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Feb 13 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fd3520f6f7e7a2cec1d88?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Talent Acquisition Marketing Account Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698fcd740cc8ea15f1da6972?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 13 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[HR Operations & Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/698fe3236ea51a7610f2483a?utm_campaign=1054&utm_source=git)** | Marlborough, MA 01752 | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
