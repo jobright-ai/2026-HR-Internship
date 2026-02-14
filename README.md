@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship – Human Resources, Employee Benefits](https://jobright.ai/jobs/info/68cd56d3e23def7af55b871b?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Crystal Lake, IL](https://jobright.ai/jobs/info/6974a0c0bc8e722e7b19b27e?utm_campaign=1054&utm_source=git)** | Crystal Lake, IL | On Site | Feb 14 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 14 |
 | ↳ | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | Feb 14 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Springfield, MA](https://jobright.ai/jobs/info/6990a29a0f6f7e7a2ced0a0a?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | Feb 14 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/693ce08450bbaf7650500599?utm_campaign=1054&utm_source=git)** | Woodbridge, VA | On Site | Feb 14 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/697400fbbc8e722e7b18e531?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Feb 14 |
+| **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744fa637785856350e5a25?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Feb 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Talent & Recruiting Intern (Summer 2026)](https://jobright.ai/jobs/info/6974318a206da320f49e52fb?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Human Resources](https://jobright.ai/jobs/info/693ce99f50bbaf7650500cba?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Feb 14 |
 | **[Siemens](https://www.siemens.com)** | **[People & Organization Internship](https://jobright.ai/jobs/info/6973aa60bc8e722e7b187341?utm_campaign=1054&utm_source=git)** | Wendell, NC | On Site | Feb 14 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Flexera](https://www.flexera.com)** | **[HR Intern](https://jobright.ai/jobs/info/69741642bc8e722e7b18f594?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 14 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[HR Operations & Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/69903c1a0f6f7e7a2cecae14?utm_campaign=1054&utm_source=git)** | Marlborough, MA | Hybrid | Feb 14 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69904c7f6ea51a7610f2da67?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69902d650f6f7e7a2cec9875?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69902d650f6f7e7a2cec9875?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69904c7f6ea51a7610f2da67?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
 | **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69902c3c6ea51a7610f2ae04?utm_campaign=1054&utm_source=git)** | Lake Spring, MO | On Site | Feb 13 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69902a806ea51a7610f2ab61?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
 | **[Aquarian Holdings](http://www.aquarianlp.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69902cec0cc8ea15f1daea42?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Talent Acquisition Marketing Account Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698fcd740cc8ea15f1da6972?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 13 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[HR Operations & Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/698fe3236ea51a7610f2483a?utm_campaign=1054&utm_source=git)** | Marlborough, MA 01752 | Hybrid | Feb 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/698fba2c0cc8ea15f1da57b7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Feb 13 |
-| ↳ | **[HR Human Resources Intern](https://jobright.ai/jobs/info/698fb1350f6f7e7a2cebfc86?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 13 |
-| **[RXO, Inc.](https://rxo.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fb78f0f6f7e7a2cec035c?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
