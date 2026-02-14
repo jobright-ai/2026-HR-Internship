@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744fb6206da320f49e8b76?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Feb 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1054&utm_source=git)** | Homestead, FL | On Site | Feb 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Crystal Lake, IL](https://jobright.ai/jobs/info/6974a0c0bc8e722e7b19b27e?utm_campaign=1054&utm_source=git)** | Crystal Lake, IL | On Site | Feb 14 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 14 |
+| ↳ | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | Feb 14 |
+| **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/697450b4206da320f49e8c09?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Feb 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Feb 14 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933d03e764507023d1b99df?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Feb 14 |
+| ↳ | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a67b95f5211cd2ce7e4a?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Feb 14 |
+| ↳ | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1054&utm_source=git)** | Homestead, FL | On Site | Feb 14 |
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Feb 14 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e719d11852e62f00822363?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Feb 14 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD | On Site | Feb 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/698fba2c0cc8ea15f1da57b7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Feb 13 |
 | ↳ | **[HR Human Resources Intern](https://jobright.ai/jobs/info/698fb1350f6f7e7a2cebfc86?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 13 |
 | **[RXO, Inc.](https://rxo.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fb78f0f6f7e7a2cec035c?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Feb 13 |
-| **[Cone Health](http://www.conehealth.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698f8ee66ea51a7610f1eddb?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Feb 13 |
-| **[Kids in the Game](http://kidsinthegame.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/698f8e536ea51a7610f1ecf2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[Aramark Destinations](https://thenationsvacation.com/)** | **[Human Resources Intern - Indianapolis Motor Speedway](https://jobright.ai/jobs/info/698fb4356ea51a7610f21d27?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US, 46222 | On Site | Feb 13 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fcd116ea51a7610f23869?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
-| **[Sally Beauty](https://www.sallybeauty.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fb8760cc8ea15f1da5614?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
-| **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fea140f6f7e7a2cec2edb?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
