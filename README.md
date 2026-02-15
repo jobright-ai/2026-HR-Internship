@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Interac Corp.](http://www.interac.ca)** | **[People & Culture Intern (DEI and Learning)](https://jobright.ai/jobs/info/69912d0d6ea51a7610f38110?utm_campaign=1054&utm_source=git)** | Toronto | Hybrid | Feb 14 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Systems Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/693c967f50bbaf76504fd8fb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Feb 14 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6973ebbb206da320f49de42a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 14 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship – Human Resources, Employee Benefits](https://jobright.ai/jobs/info/68cd56d3e23def7af55b871b?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Feb 14 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Warrington, PA](https://jobright.ai/jobs/info/693ce636aa598a08c3edaa26?utm_campaign=1054&utm_source=git)** | Warrington, PA | On Site | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Green Bay](https://jobright.ai/jobs/info/68ce445d24dd5209002f1272?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Feb 14 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68c8e01e95f5211cd2cea679?utm_campaign=1054&utm_source=git)** | Goodhue, MN | On Site | Feb 14 |
-| **[Interfor](http://www.interfor.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/69742e01bc8e722e7b192439?utm_campaign=1054&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Feb 14 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Human Resources](https://jobright.ai/jobs/info/693b1958d4054a2bc0250b89?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Feb 14 |
 | ↳ | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Feb 14 |
@@ -108,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Employee Experience Intern - Events (Summer 2026)](https://jobright.ai/jobs/info/697423c7bc8e722e7b191920?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Feb 14 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69687051639b452fb57e1773?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 14 |
 | **[Flexera](https://www.flexera.com)** | **[HR Intern](https://jobright.ai/jobs/info/69741642bc8e722e7b18f594?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 14 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69913dd66ea51a7610f38f7a?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Feb 14 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[HR Operations & Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/69903c1a0f6f7e7a2cecae14?utm_campaign=1054&utm_source=git)** | Marlborough, MA | Hybrid | Feb 14 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69904c7f6ea51a7610f2da67?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Human Resources Launch Intern - Summer 2026](https://jobright.ai/jobs/info/698fd5aa6ea51a7610f23d98?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Feb 13 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fd3520f6f7e7a2cec1d88?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Talent Acquisition Marketing Account Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698fcd740cc8ea15f1da6972?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 13 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[HR Operations & Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/698fe3236ea51a7610f2483a?utm_campaign=1054&utm_source=git)** | Marlborough, MA 01752 | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
