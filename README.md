@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/6991e1886ea51a7610f42ebe?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 15 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 15 |
+| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/6894ee6f73b3a600fe883708?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Feb 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6921211300c9ee50eaecbf11?utm_campaign=1054&utm_source=git)** | Kent, OH | On Site | Feb 15 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc46c516d00d2beeb1cb1f?utm_campaign=1054&utm_source=git)** | Joplin, MO | On Site | Feb 15 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfae37785856350fc356?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1054&utm_source=git)** | Farmington, MI | On Site | Feb 15 |
+| **[Camaco](http://www.camacollc.com)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/693db76d49a7695fbd042f1a?utm_campaign=1054&utm_source=git)** | Columbus, NE | On Site | Feb 15 |
 | **[Clarios](https://www.clarios.com/)** | **[HR Intern - St Joseph, MO DAP (Summer 2026)](https://jobright.ai/jobs/info/690429e6d64a22104aa97ab7?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Feb 15 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfce37785856350fc35e?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Feb 15 |
 | ↳ | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6975dffd206da320f49fe7d2?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Feb 15 |
@@ -66,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/693cdce750bbaf76505004d7?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Feb 15 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585da29f1b381eb2713dbf?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 15 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69917fac6ea51a7610f3e878?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | Feb 15 |
-| ↳ | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69917e580cc8ea15f1dc2970?utm_campaign=1054&utm_source=git)** | Louisiana, United States | Remote | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[People & Culture Intern (DEI and Learning)](https://jobright.ai/jobs/info/69917a0c6ea51a7610f3e3c6?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[Leslie's](https://lesliespool.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699147840cc8ea15f1dbd98a?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[People & Culture Intern (DEI and Learning)](https://jobright.ai/jobs/info/69912d0d6ea51a7610f38110?utm_campaign=1054&utm_source=git)** | Toronto | Hybrid | Feb 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sound Transit](https://www.soundtransit.org)** | **[Diversity, Equity, and Inclusion Intern - Summer 2026](https://jobright.ai/jobs/info/698ff8b70f6f7e7a2cec3e63?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
 | **[LightFeather](https://lightfeather.io)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698fed6f6ea51a7610f2509f?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/698fc44b0cc8ea15f1da624a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[Beedie](http://www.beedie.ca/)** | **[Summer Intern, Human Resources](https://jobright.ai/jobs/info/698fef6e6ea51a7610f25257?utm_campaign=1054&utm_source=git)** | Burnaby, BC | On Site | Feb 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Central NJ](https://jobright.ai/jobs/info/698fbeb56ea51a7610f229b2?utm_campaign=1054&utm_source=git)** | Edison, NJ | On Site | Feb 13 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship / Human Resources / Spring 2026](https://jobright.ai/jobs/info/69901a0c0f6f7e7a2cec6b00?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, US | On Site | Feb 13 |
-| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[HR Employment Specialist Internship](https://jobright.ai/jobs/info/698ff5de0cc8ea15f1da8d88?utm_campaign=1054&utm_source=git)** | Monroe, WI | On Site | Feb 13 |
-| **[ISACA](http://www.isaca.org)** | **[Credentialing Intern](https://jobright.ai/jobs/info/698fe49a6ea51a7610f2499e?utm_campaign=1054&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
-| **[Vanderlande](https://www.vanderlande.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698fed6b6ea51a7610f25099?utm_campaign=1054&utm_source=git)** | Marietta, GA USA | Hybrid | Feb 13 |
-| **[Crusoe](https://crusoe.ai)** | **[Talent Development Intern, Summer 2026](https://jobright.ai/jobs/info/699008c06ea51a7610f27653?utm_campaign=1054&utm_source=git)** | Denver, CO - US | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
