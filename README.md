@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clarios](https://www.clarios.com/)** | **[HR Intern - St Joseph, MO DAP (Summer 2026)](https://jobright.ai/jobs/info/690429e6d64a22104aa97ab7?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Feb 15 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfce37785856350fc35e?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Feb 15 |
+| ↳ | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6975dffd206da320f49fe7d2?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Feb 15 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b1089d6fab621da7b09867?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 15 |
+| **[Expert Institute](https://expertinstitute.com/)** | **[Expert Witness Research & Recruitment Intern (Summer)](https://jobright.ai/jobs/info/69422ce1bdcf884a5ade0074?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 15 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Human Resources- EN](https://jobright.ai/jobs/info/697b7a300b88cc7d642241fd?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 15 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/693cdce750bbaf76505004d7?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Feb 15 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585da29f1b381eb2713dbf?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 15 |
@@ -117,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[HR Operations & Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/69903c1a0f6f7e7a2cecae14?utm_campaign=1054&utm_source=git)** | Marlborough, MA | Hybrid | Feb 14 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 New York Life Direct Summer Internship Program - Business, Employee & Workplace](https://jobright.ai/jobs/info/699172240f6f7e7a2cedcd60?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 13 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69902d650f6f7e7a2cec9875?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69904c7f6ea51a7610f2da67?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69904c7f6ea51a7610f2da67?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69902d650f6f7e7a2cec9875?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/699163000cc8ea15f1dc0772?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Feb 13 |
 | **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69902c3c6ea51a7610f2ae04?utm_campaign=1054&utm_source=git)** | Lake Spring, MO | On Site | Feb 13 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69902a806ea51a7610f2ab61?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ISACA](http://www.isaca.org)** | **[Credentialing Intern](https://jobright.ai/jobs/info/698fe49a6ea51a7610f2499e?utm_campaign=1054&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
 | **[Vanderlande](https://www.vanderlande.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698fed6b6ea51a7610f25099?utm_campaign=1054&utm_source=git)** | Marietta, GA USA | Hybrid | Feb 13 |
 | **[Crusoe](https://crusoe.ai)** | **[Talent Development Intern, Summer 2026](https://jobright.ai/jobs/info/699008c06ea51a7610f27653?utm_campaign=1054&utm_source=git)** | Denver, CO - US | On Site | Feb 13 |
-| **[RXO, Inc.](https://rxo.com)** | **[Leadership & Development Intern](https://jobright.ai/jobs/info/698fbad80f6f7e7a2cec0719?utm_campaign=1054&utm_source=git)** | Dublin, Ohio | On Site | Feb 13 |
-| **[PACSUN](http://www.pacsun.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698fb6bd0cc8ea15f1da52ac?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Specimen Lifecycle Management - Intern](https://jobright.ai/jobs/info/698fd3a90cc8ea15f1da6dac?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Feb 13 |
-| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern - Benefits](https://jobright.ai/jobs/info/698fcbda0f6f7e7a2cec1860?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Feb 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Talent Intern](https://jobright.ai/jobs/info/698ff8ab0cc8ea15f1da90c5?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
