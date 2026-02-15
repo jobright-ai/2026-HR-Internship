@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wayside Recovery](https://waysiderecovery.org)** | **[GRADUATE LEVEL INTERNSHIP OPPORTUNITIES](https://jobright.ai/jobs/info/6992057d0f6f7e7a2cee3789?utm_campaign=1054&utm_source=git)** | St Louis Park, MN | On Site | Feb 15 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Feb 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd78b11ad6b16f02899ef7?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Feb 15 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc28fa7342c7623ae601fb?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Feb 15 |
+| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b5068b1ade4306aa63f19a?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Feb 15 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118daa49a885af9a42e35?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 15 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ccfd185954791a1d7024dc?utm_campaign=1054&utm_source=git)** | Falls Church, VA | On Site | Feb 15 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118b300c9ee50eaecbabf?utm_campaign=1054&utm_source=git)** | Youngstown, OH | On Site | Feb 15 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cce1f55954791a1d700706?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Feb 15 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6921165600c9ee50eaecb8fa?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Feb 15 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/6991e1886ea51a7610f42ebe?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 15 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 15 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/6894ee6f73b3a600fe883708?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Feb 15 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colas Western Canada Inc.](https://www.colascanada.ca/en)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69901d996ea51a7610f28633?utm_campaign=1054&utm_source=git)** | Acheson, Alberta, Canada | On Site | Feb 13 |
 | **[Colonial Group, Inc.](http://www.colonialgroupinc.com/)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/69900bac6ea51a7610f2787f?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Feb 13 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699002076ea51a7610f271a2?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
-| **[LightFeather](https://lightfeather.io)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69907ea60cc8ea15f1db41b6?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Feb 13 |
-| **[Schaeffler](https://www.schaeffler.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fd2f50cc8ea15f1da6d34?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Feb 13 |
-| **[Colonial Group, Inc.](http://www.colonialgroupinc.com/)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6990108a0cc8ea15f1dab878?utm_campaign=1054&utm_source=git)** | Savannah, GA, USA | On Site | Feb 13 |
-| **[Clarkston Consulting](http://clarkstonconsulting.com/)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/699028e86ea51a7610f2a8eb?utm_campaign=1054&utm_source=git)** | Durham, North Carolina, United States | Hybrid | Feb 13 |
-| **[OTG Management](http://www.otgexp.com/)** | **[PAS Talent Acquisition Intern](https://jobright.ai/jobs/info/699042086ea51a7610f2cd6c?utm_campaign=1054&utm_source=git)** | 352 Park Ave S, New York, NY 10010, USA | Hybrid | Feb 13 |
-| ↳ | **[IAH Talent Acquisition Intern](https://jobright.ai/jobs/info/699013f80f6f7e7a2cec658c?utm_campaign=1054&utm_source=git)** | OTG - George Bush Intercontinental Airport, Houston, TX, 2800 N TERMINAL Road, Houston, Texas, United States of America | On Site | Feb 13 |
-| **[REGENT](https://www.regentcraft.com)** | **[SkillBridge - Mission Assurance](https://jobright.ai/jobs/info/698fc9b30cc8ea15f1da6726?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Feb 13 |
-| **[Sound Transit](https://www.soundtransit.org)** | **[Diversity, Equity, and Inclusion Intern - Summer 2026](https://jobright.ai/jobs/info/698ff8b70f6f7e7a2cec3e63?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
-| **[LightFeather](https://lightfeather.io)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698fed6f6ea51a7610f2509f?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Feb 13 |
-| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/698fc44b0cc8ea15f1da624a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
