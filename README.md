@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2026](https://jobright.ai/jobs/info/68ca499046caff4db51fc945?utm_campaign=1054&utm_source=git)** | DFW Metroplex | Hybrid | Feb 16 |
+| **[Lasko Products](https://www.lasko.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6976e09abc8e722e7b1b55e0?utm_campaign=1054&utm_source=git)** | West Chester, PA | On Site | Feb 16 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Intern - 2026 College Student Summer Internship – Department of Human Resources](https://jobright.ai/jobs/info/697b0478c532c4768fe0e432?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/69207e2a3f782d2f1afc8001?utm_campaign=1054&utm_source=git)** | CS-Bryan Area | On Site | Feb 16 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Feb 16 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/697040b851f726477182718d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Feb 16 |
 | **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Volunteer Coordinator Intern (Unpaid Internship – Remote)](https://jobright.ai/jobs/info/69929d7be0bddb6acac0c2f6?utm_campaign=1054&utm_source=git)** | Vienna, VA | Remote | Feb 15 |
 | **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69927ac40f6f7e7a2cee798e?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Feb 15 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69925cb10cc8ea15f1dcc34c?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Feb 15 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Senior Outreach](https://jobright.ai/jobs/info/699258930cc8ea15f1dcc243?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Wayside Recovery](https://waysiderecovery.org)** | **[GRADUATE LEVEL INTERNSHIP OPPORTUNITIES](https://jobright.ai/jobs/info/6992057d0f6f7e7a2cee3789?utm_campaign=1054&utm_source=git)** | St Louis Park, MN | On Site | Feb 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Feb 15 |
@@ -146,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/69742502206da320f49e470e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Feb 14 |
 | **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada HR Intern - Winter 2026](https://jobright.ai/jobs/info/691dc7d7ad5a517034796608?utm_campaign=1054&utm_source=git)** | New Minas, Nova Scotia, Canada | On Site | Feb 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69743030206da320f49e5267?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Feb 14 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6993152be0bddb6acac160d3?utm_campaign=1054&utm_source=git)** | Moses Lake, WA | On Site | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Talent Acquisition Marketing Account Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699064b90cc8ea15f1db269c?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Feb 14 |
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Talent Resources](https://jobright.ai/jobs/info/695829df9f1b381eb271091d?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Feb 14 |
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695837a9aa05c26e7ab21c27?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | Feb 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6993084481476f6176aaa13b?utm_campaign=1054&utm_source=git)** | Arlington, OR | On Site | Feb 14 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69687051639b452fb57e1773?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 14 |
 | **[Flexera](https://www.flexera.com)** | **[HR Intern](https://jobright.ai/jobs/info/69741642bc8e722e7b18f594?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 14 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6992efff81476f6176aa84ec?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Feb 14 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[HR Operations & Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/69903c1a0f6f7e7a2cecae14?utm_campaign=1054&utm_source=git)** | Marlborough, MA | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
