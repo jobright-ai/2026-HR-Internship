@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69925cb10cc8ea15f1dcc34c?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Feb 15 |
+| **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69927ac40f6f7e7a2cee798e?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Feb 15 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69925cb10cc8ea15f1dcc34c?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Feb 15 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Senior Outreach](https://jobright.ai/jobs/info/699258930cc8ea15f1dcc243?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Wayside Recovery](https://waysiderecovery.org)** | **[GRADUATE LEVEL INTERNSHIP OPPORTUNITIES](https://jobright.ai/jobs/info/6992057d0f6f7e7a2cee3789?utm_campaign=1054&utm_source=git)** | St Louis Park, MN | On Site | Feb 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RXO, Inc.](https://rxo.com)** | **[Leadership & Development Intern](https://jobright.ai/jobs/info/69900d956ea51a7610f279ef?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Feb 13 |
 | **[Vanderlande](https://www.vanderlande.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/699001a16ea51a7610f2714c?utm_campaign=1054&utm_source=git)** | Marietta, GA | Hybrid | Feb 13 |
 | **[Colas Western Canada Inc.](https://www.colascanada.ca/en)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69901d996ea51a7610f28633?utm_campaign=1054&utm_source=git)** | Acheson, Alberta, Canada | On Site | Feb 13 |
-| **[Colonial Group, Inc.](http://www.colonialgroupinc.com/)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/69900bac6ea51a7610f2787f?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
