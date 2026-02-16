@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 16 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/69422afabdcf884a5addf7d6?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Feb 16 |
+| **[Methode Electronics](http://methode.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69936ec781476f6176ab0a98?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Feb 16 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Case Management Intern FR](https://jobright.ai/jobs/info/699366a1ce78e77b4fd73c3a?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Feb 16 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993663f81476f6176ab060f?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 16 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[People & Culture Intern FR](https://jobright.ai/jobs/info/699364a481476f6176ab0516?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Feb 16 |
@@ -64,8 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Carboline](https://www.carboline.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69935e90e0bddb6acac1a0cd?utm_campaign=1054&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Feb 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bcb8feeb0006c1a56f63?utm_campaign=1054&utm_source=git)** | Monroeville, PA | On Site | Feb 16 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bccffeeb0006c1a56f73?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 16 |
-| **[Methode Electronics](http://methode.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699352d281476f6176aafd83?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Feb 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ceb2efdbd9fb154ede23a6?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Feb 16 |
+| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ceb2efdbd9fb154ede23a6?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Feb 16 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bb2965768b6412b1ef6a?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Feb 16 |
 | **[Chewy](https://www.chewy.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/6976cb91206da320f4a07bc2?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | On Site | Feb 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc5108128dc347fd92274c?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Feb 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[People & Organization Internship](https://jobright.ai/jobs/info/6973aa60bc8e722e7b187341?utm_campaign=1054&utm_source=git)** | Wendell, NC | On Site | Feb 14 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Warrington, PA](https://jobright.ai/jobs/info/693ce636aa598a08c3edaa26?utm_campaign=1054&utm_source=git)** | Warrington, PA | On Site | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Green Bay](https://jobright.ai/jobs/info/68ce445d24dd5209002f1272?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Feb 14 |
-| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68c8e01e95f5211cd2cea679?utm_campaign=1054&utm_source=git)** | Goodhue, MN | On Site | Feb 14 |
-| **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Human Resources](https://jobright.ai/jobs/info/693b1958d4054a2bc0250b89?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
