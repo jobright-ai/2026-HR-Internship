@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Volunteer Coordinator Intern (Unpaid Internship – Remote)](https://jobright.ai/jobs/info/69929d7be0bddb6acac0c2f6?utm_campaign=1054&utm_source=git)** | Vienna, VA | Remote | Feb 15 |
 | **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69927ac40f6f7e7a2cee798e?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Feb 15 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69925cb10cc8ea15f1dcc34c?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Feb 15 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Senior Outreach](https://jobright.ai/jobs/info/699258930cc8ea15f1dcc243?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 15 |
@@ -142,10 +143,11 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[HR Operations & Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/69903c1a0f6f7e7a2cecae14?utm_campaign=1054&utm_source=git)** | Marlborough, MA | Hybrid | Feb 14 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 New York Life Direct Summer Internship Program - Business, Employee & Workplace](https://jobright.ai/jobs/info/699172240f6f7e7a2cedcd60?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 13 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69902d650f6f7e7a2cec9875?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69904c7f6ea51a7610f2da67?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69904c7f6ea51a7610f2da67?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69902d650f6f7e7a2cec9875?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
 | **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69902c3c6ea51a7610f2ae04?utm_campaign=1054&utm_source=git)** | Lake Spring, MO | On Site | Feb 13 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69902a806ea51a7610f2ab61?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/6992acb281476f6176aa28cb?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 13 |
 | **[OTG Management](http://www.otgexp.com/)** | **[IAH Talent Acquisition Intern](https://jobright.ai/jobs/info/699002af6ea51a7610f2722a?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Feb 13 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/699032ac6ea51a7610f2b841?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
 | **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Workforce Planning & Development Intern](https://jobright.ai/jobs/info/699153630f6f7e7a2ced9a97?utm_campaign=1054&utm_source=git)** | Ohio, United States | Hybrid | Feb 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Specimen Lifecycle Management - Intern](https://jobright.ai/jobs/info/6990178d0cc8ea15f1dabf38?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Feb 13 |
 | **[Highgate](https://www.highgate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699014e30f6f7e7a2cec6670?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[RXO, Inc.](https://rxo.com)** | **[Leadership & Development Intern](https://jobright.ai/jobs/info/69900d956ea51a7610f279ef?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Feb 13 |
-| **[Vanderlande](https://www.vanderlande.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/699001a16ea51a7610f2714c?utm_campaign=1054&utm_source=git)** | Marietta, GA | Hybrid | Feb 13 |
-| **[Colas Western Canada Inc.](https://www.colascanada.ca/en)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69901d996ea51a7610f28633?utm_campaign=1054&utm_source=git)** | Acheson, Alberta, Canada | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
