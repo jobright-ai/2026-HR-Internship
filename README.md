@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Methode Electronics](http://methode.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699352d281476f6176aafd83?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Feb 16 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ceb2efdbd9fb154ede23a6?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Feb 16 |
+| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bb2965768b6412b1ef6a?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Feb 16 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc5108128dc347fd92274c?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Feb 16 |
+| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b519c61ade4306aa63fdf0?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Feb 16 |
+| **[Bio-Techne](https://www.bio-techne.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6993470fce78e77b4fd717d0?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 16 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/699340a281476f6176aadc7a?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Feb 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933db32a0dde7020e2f289b?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Feb 16 |
 | **[Office for National Statistics](http://www.ons.gov.uk/ons/index.html)** | **[International Passenger Survey Interviewer - Glasgow & Edinburgh](https://jobright.ai/jobs/info/69933bc181476f6176aadaa7?utm_campaign=1054&utm_source=git)** | Airport, MO | On Site | Feb 16 |
@@ -89,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd78b11ad6b16f02899ef7?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Feb 15 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc28fa7342c7623ae601fb?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Feb 15 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b5068b1ade4306aa63f19a?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Feb 15 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118daa49a885af9a42e35?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 15 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ccfd185954791a1d7024dc?utm_campaign=1054&utm_source=git)** | Falls Church, VA | On Site | Feb 15 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118b300c9ee50eaecbabf?utm_campaign=1054&utm_source=git)** | Youngstown, OH | On Site | Feb 15 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cce1f55954791a1d700706?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Feb 15 |
@@ -137,7 +142,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/693ce08450bbaf7650500599?utm_campaign=1054&utm_source=git)** | Woodbridge, VA | On Site | Feb 14 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/697400fbbc8e722e7b18e531?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Feb 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Talent & Recruiting Intern (Summer 2026)](https://jobright.ai/jobs/info/6974318a206da320f49e52fb?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
-| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Human Resources](https://jobright.ai/jobs/info/693ce99f50bbaf7650500cba?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Feb 14 |
 | **[Siemens](https://www.siemens.com)** | **[People & Organization Internship](https://jobright.ai/jobs/info/6973aa60bc8e722e7b187341?utm_campaign=1054&utm_source=git)** | Wendell, NC | On Site | Feb 14 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Warrington, PA](https://jobright.ai/jobs/info/693ce636aa598a08c3edaa26?utm_campaign=1054&utm_source=git)** | Warrington, PA | On Site | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Green Bay](https://jobright.ai/jobs/info/68ce445d24dd5209002f1272?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Feb 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Komatsu](https://www.komatsu.jp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69744f44bc8e722e7b195941?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 14 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Feb 14 |
 | **[Musco Lighting](http://www.musco.com)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/6903741e63502c0aded68f32?utm_campaign=1054&utm_source=git)** | Oskaloosa, IA | On Site | Feb 14 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/69742266206da320f49e441e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Feb 14 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6902320f00a1816c41e9bb0e?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 14 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/69742502206da320f49e470e?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Feb 14 |
-| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada HR Intern - Winter 2026](https://jobright.ai/jobs/info/691dc7d7ad5a517034796608?utm_campaign=1054&utm_source=git)** | New Minas, Nova Scotia, Canada | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
