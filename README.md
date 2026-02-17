@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b51b501ade4306aa64012b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 17 |
+| ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b285d9bc187f64e1bdcafd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 17 |
+| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/695c93af9a87b95a9397e7d4?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Feb 17 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Dallas)](https://jobright.ai/jobs/info/698c282a0f6f7e7a2ce7c83a?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 17 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Baltimore, MD](https://jobright.ai/jobs/info/6977f19588e2b47213bbf924?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Feb 17 |
+| **[Mobile Communications America](http://callmc.com)** | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/6978334a39f7f96cc6d07c0f?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | Hybrid | Feb 17 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/699006110cc8ea15f1da9fb7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 17 |
 | **[CPL](https://cplteam.com/locations)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6962055ea112b4026610723c?utm_campaign=1054&utm_source=git)** | Fairport, NY | On Site | Feb 17 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Austin)](https://jobright.ai/jobs/info/696116e2e7ed9a5731b9cfa1?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 17 |
@@ -96,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Victaulic](https://www.victaulic.com)** | **[2026 Summer Internship- Human Resources](https://jobright.ai/jobs/info/6993c2ece0bddb6acac20c73?utm_campaign=1054&utm_source=git)** | Northampton County, PA | On Site | Feb 16 |
 | **[Hattie Larlham](https://www.hattielarlham.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993bcc0e0bddb6acac20591?utm_campaign=1054&utm_source=git)** | Uniontown, OH | On Site | Feb 16 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993bc4ce0bddb6acac2051e?utm_campaign=1054&utm_source=git)** | Chatham, VA | On Site | Feb 16 |
-| **[Frontier Airlines](http://www.flyfrontier.com)** | **[Summer Intern, Human Resources (Onboarding)](https://jobright.ai/jobs/info/6993df9ce0bddb6acac226ad?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Feb 16 |
-| ↳ | **[2026 Summer Intern, Human Resources (Learning & Engagement)](https://jobright.ai/jobs/info/6993ecb6ce78e77b4fd7c2c9?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Feb 16 |
+| **[Frontier Airlines](http://www.flyfrontier.com)** | **[2026 Summer Intern, Human Resources (Learning & Engagement)](https://jobright.ai/jobs/info/6993ecb6ce78e77b4fd7c2c9?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Feb 16 |
+| ↳ | **[Summer Intern, Human Resources (Onboarding)](https://jobright.ai/jobs/info/6993df9ce0bddb6acac226ad?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Feb 16 |
 | **[Barge Design Solutions](https://www.bargedesign.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6993d79681476f6176ab7268?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Feb 16 |
 | **[Paper Transport](http://www.papertransport.com/)** | **[Marketing/Driver Recruiting Intern](https://jobright.ai/jobs/info/6993e06d81476f6176ab7bd1?utm_campaign=1054&utm_source=git)** | De Pere, Wisconsin, United States | On Site | Feb 16 |
 | **[Victaulic](https://www.victaulic.com)** | **[2026 Summer Internship- Human Resources](https://jobright.ai/jobs/info/6993f16c81476f6176ab920f?utm_campaign=1054&utm_source=git)** | Easton, Pennsylvania | On Site | Feb 16 |
@@ -131,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6993b18681476f6176ab4cd9?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Feb 16 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69936162e0bddb6acac1a552?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 16 |
 | **[Carboline](https://www.carboline.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69935e90e0bddb6acac1a0cd?utm_campaign=1054&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Feb 16 |
-| **[Palmetto Citizens Federal Credit Union](https://www.pcemail.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699397d281476f6176ab2a91?utm_campaign=1054&utm_source=git)** | US-SC-Columbia | On Site | Feb 16 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6993b7c0e0bddb6acac200f6?utm_campaign=1054&utm_source=git)** | Columbia, SC, US | On Site | Feb 16 |
+| **[Palmetto Citizens Federal Credit Union](https://www.pcemail.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993b7c0e0bddb6acac200f6?utm_campaign=1054&utm_source=git)** | Columbia, SC, US | On Site | Feb 16 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/699397d281476f6176ab2a91?utm_campaign=1054&utm_source=git)** | US-SC-Columbia | On Site | Feb 16 |
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993bf5fce78e77b4fd79621?utm_campaign=1054&utm_source=git)** | Syracuse,NY,US | On Site | Feb 16 |
 | **[Damar Services, Inc.](https://www.damar.org)** | **[Human Resources Intern - Strategic Projects](https://jobright.ai/jobs/info/6993b7ed81476f6176ab5497?utm_campaign=1054&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 16 |
 | ↳ | **[Human Resources Intern - Strategic Projects](https://jobright.ai/jobs/info/6993c148e0bddb6acac20a96?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69687051639b452fb57e1773?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 16 |
 | **[Lactalis USA](https://lactalisamericangroup.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69933ac781476f6176aada78?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
 | **[USA Sport Group](https://usasportgroup.com/)** | **[Human Resources/Recruitment Intern](https://jobright.ai/jobs/info/6993332cce78e77b4fd70d96?utm_campaign=1054&utm_source=git)** | Whitehouse Station, NJ | On Site | Feb 16 |
-| **[World Relief](https://worldrelief.org/)** | **[Employment Services Intern - 2025585](https://jobright.ai/jobs/info/699332c681476f6176aad670?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Feb 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69340347764507023d1bb62e?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Feb 16 |
-| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b07fe313563e782a9f6c3d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 16 |
-| **[World Relief](https://worldrelief.org/)** | **[Employment Services Intern - 2025585](https://jobright.ai/jobs/info/69932bd881476f6176aad2e3?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Feb 16 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b106bc6fab621da7b0972e?utm_campaign=1054&utm_source=git)** | Findlay, OH | On Site | Feb 16 |
-| ↳ | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68ccd9d7d11b445e0bee2ee8?utm_campaign=1054&utm_source=git)** | Texas City, TX | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
