@@ -59,10 +59,14 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, Customer Experience Case Management (1st Shift) - Remote](https://jobright.ai/jobs/info/69939a73ce78e77b4fd76cf3?utm_campaign=1054&utm_source=git)** | 14350 North 87th Street, Suite 350, Scottsdale, AZ, 85260, US | Remote | Feb 16 |
 | **[Damar Services, Inc.](https://www.damar.org)** | **[Human Resources Intern - Strategic Projects](https://jobright.ai/jobs/info/69939525ce78e77b4fd76745?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Feb 16 |
+| **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, Customer Experience Case Management (1st Shift) - Remote](https://jobright.ai/jobs/info/69939e0481476f6176ab32d2?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | Remote | Feb 16 |
+| **[Welty Building Construction](http://thinkwelty.com)** | **[INTERN](https://jobright.ai/jobs/info/6993a025e0bddb6acac1e6fd?utm_campaign=1054&utm_source=git)** | Fairlawn, OH, US | On Site | Feb 16 |
+| **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Commerce, California, United States | On Site | Feb 16 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993970681476f6176ab2998?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 16 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/6993974fe0bddb6acac1de5e?utm_campaign=1054&utm_source=git)** | Indiana, United States | Remote | Feb 16 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 16 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/69422afabdcf884a5addf7d6?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Feb 16 |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993a08181476f6176ab3648?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 16 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[HR Talent Program Intern - Summer 2026](https://jobright.ai/jobs/info/69939a05e0bddb6acac1e140?utm_campaign=1054&utm_source=git)** | Montana, United States | Remote | Feb 16 |
 | **[Methode Electronics](http://methode.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69936ec781476f6176ab0a98?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Feb 16 |
 | **[LabConnect](https://www.labconnect.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6993859b81476f6176ab1c48?utm_campaign=1054&utm_source=git)** | Johnson City, TN | On Site | Feb 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744fb6206da320f49e8b76?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1054&utm_source=git)** | Homestead, FL | On Site | Feb 14 |
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Feb 14 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e719d11852e62f00822363?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Feb 14 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD | On Site | Feb 14 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Feb 14 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Springfield, MA](https://jobright.ai/jobs/info/6990a29a0f6f7e7a2ced0a0a?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
