@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Winter Haven, FL](https://jobright.ai/jobs/info/6977e73788e2b47213bbe4f2?utm_campaign=1054&utm_source=git)** | Winter Haven, FL | On Site | Feb 17 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695a767faa05c26e7ab4139a?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Feb 17 |
+| **[Emerson](http://www.emerson.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6994538ae0bddb6acac2b906?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Feb 17 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Development Intern (Remote)](https://jobright.ai/jobs/info/697819a488e2b47213bc18ba?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Berkadia](https://www.berkadia.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6977ce7a52f3c27ec643f13e?utm_campaign=1054&utm_source=git)** | Ambler, PA | Hybrid | Feb 17 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - HR Shared Services](https://jobright.ai/jobs/info/6977e5f588e2b47213bbe2b1?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Feb 17 |
@@ -123,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Palmetto Citizens Federal Credit Union](https://www.pcemail.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699397d281476f6176ab2a91?utm_campaign=1054&utm_source=git)** | US-SC-Columbia | On Site | Feb 16 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6993b7c0e0bddb6acac200f6?utm_campaign=1054&utm_source=git)** | Columbia, SC, US | On Site | Feb 16 |
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993bf5fce78e77b4fd79621?utm_campaign=1054&utm_source=git)** | Syracuse,NY,US | On Site | Feb 16 |
-| **[Damar Services, Inc.](https://www.damar.org)** | **[Human Resources Intern - Strategic Projects](https://jobright.ai/jobs/info/6993b7ed81476f6176ab5497?utm_campaign=1054&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 16 |
-| ↳ | **[Human Resources Intern - Strategic Projects](https://jobright.ai/jobs/info/6993c148e0bddb6acac20a96?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 16 |
+| **[Damar Services, Inc.](https://www.damar.org)** | **[Human Resources Intern - Strategic Projects](https://jobright.ai/jobs/info/6993c148e0bddb6acac20a96?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 16 |
+| ↳ | **[Human Resources Intern - Strategic Projects](https://jobright.ai/jobs/info/6993b7ed81476f6176ab5497?utm_campaign=1054&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bcb8feeb0006c1a56f63?utm_campaign=1054&utm_source=git)** | Monroeville, PA | On Site | Feb 16 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bccffeeb0006c1a56f73?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 16 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ceb2efdbd9fb154ede23a6?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Feb 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Feb 16 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6992fd5881476f6176aa9a8e?utm_campaign=1054&utm_source=git)** | Tacoma, WA | Hybrid | Feb 16 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Talent Acquisition](https://jobright.ai/jobs/info/697723e4fdeb8243a279f38b?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 16 |
-| **[KQT Health](http://fusionexperiences.com/)** | **[Intern Talent Acquisition](https://jobright.ai/jobs/info/6992e2a9ce78e77b4fd6a7c7?utm_campaign=1054&utm_source=git)** | Bensalem, PA | On Site | Feb 16 |
-| **[Six Flags](https://www.sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/6992e289e0bddb6acac11ac0?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
-| ↳ | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/6992e282e0bddb6acac11ab9?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
