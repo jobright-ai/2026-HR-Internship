@@ -57,20 +57,37 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RIVA Solutions, Inc.](https://rivasolutionsinc.com)** | **[Culture & Community Engagement Internship](https://jobright.ai/jobs/info/699539d4e0bddb6acac3c258?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Feb 17 |
+| **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/6995398881476f6176ad1aa5?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 17 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6995343081476f6176ad14b2?utm_campaign=1054&utm_source=git)** | Pryor, OK | On Site | Feb 17 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698262630f6f7e7a2cdb8bc4?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 17 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6995200ee0bddb6acac3a7b3?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Feb 17 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/69951f74ce78e77b4fd93713?utm_campaign=1054&utm_source=git)** | Longwood,FL,US | On Site | Feb 17 |
+| **[Swisher](http://www.swisher.com/)** | **[Human Resources Intern (Talent Acquisition)](https://jobright.ai/jobs/info/69953e7781476f6176ad2015?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 17 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[HR Student Intern (summer)](https://jobright.ai/jobs/info/699515aace78e77b4fd92e6b?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Feb 17 |
+| **[Suffolk Construction](https://www.suffolk.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6995348c81476f6176ad1513?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 17 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Learning & Development, Human Resources](https://jobright.ai/jobs/info/69953d2dce78e77b4fd9593f?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Feb 17 |
+| **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/699544a181476f6176ad2765?utm_campaign=1054&utm_source=git)** | Lake Zurich, IL | On Site | Feb 17 |
 | **[WD](https://www.westerndigital.com)** | **[Human Resources Internship (Summer 2026), Bachelors or Masters](https://jobright.ai/jobs/info/699511c381476f6176acf0bf?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast HR Communications Specialist Intern](https://jobright.ai/jobs/info/69953270ce78e77b4fd94cac?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Feb 17 |
 | **[Thomas & Hutton](http://thomasandhutton.com)** | **[HR Intern](https://jobright.ai/jobs/info/699509b3ce78e77b4fd920ff?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Feb 17 |
+| **[WD](https://www.westerndigital.com)** | **[Human Resources Internship (Summer 2026), Bachelors or Masters](https://jobright.ai/jobs/info/69954236ce78e77b4fd95f41?utm_campaign=1054&utm_source=git)** | San Jose, CA, USA | On Site | Feb 17 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Human Resources Intern](https://jobright.ai/jobs/info/69952dbace78e77b4fd945f4?utm_campaign=1054&utm_source=git)** | Longwood,FL,US | On Site | Feb 17 |
 | **[United Way Miami](http://www.unitedwaymiami.org)** | **[Human Resources Intern - College Credit Only](https://jobright.ai/jobs/info/6995250481476f6176ad02b0?utm_campaign=1054&utm_source=git)** | Miami,FL,US | On Site | Feb 17 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69952b8fce78e77b4fd943b0?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Feb 17 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - HR Information Systems Analyst Intern](https://jobright.ai/jobs/info/699544a7ce78e77b4fd96189?utm_campaign=1054&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
+| ↳ | **[Summer 2026 - HR Information Systems Analyst Intern](https://jobright.ai/jobs/info/699544ae81476f6176ad2775?utm_campaign=1054&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
+| **[Nueces Electric Cooperative](https://nueceselectric.org/)** | **[HR/Communications Internship](https://jobright.ai/jobs/info/6995351181476f6176ad1577?utm_campaign=1054&utm_source=git)** | Robstown, TX | On Site | Feb 17 |
 | **[The Timken Company](http://www.timken.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6995225ace78e77b4fd93a2b?utm_campaign=1054&utm_source=git)** | Iron Station, NC | On Site | Feb 17 |
+| **[INNIO Group](https://www.innio.com/en/)** | **[HR Intern - Recruitment Focus](https://jobright.ai/jobs/info/69954487ce78e77b4fd9615d?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | Feb 17 |
 | **[Swisher](http://www.swisher.com/)** | **[Human Resources Intern (Talent Acquisition)](https://jobright.ai/jobs/info/69952e31e0bddb6acac3b611?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Feb 17 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - HR Information Systems Analyst Intern](https://jobright.ai/jobs/info/69952a39ce78e77b4fd9415b?utm_campaign=1054&utm_source=git)** | North Carolina | Hybrid | Feb 17 |
+| **[City of Rock Island](http://rigov.org)** | **[Administrative Records Management Intern](https://jobright.ai/jobs/info/69953e6381476f6176ad2001?utm_campaign=1054&utm_source=git)** | Rock Island, IL | On Site | Feb 17 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - HR Information Systems Analyst Intern](https://jobright.ai/jobs/info/6995451781476f6176ad27c5?utm_campaign=1054&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
+| ↳ | **[Summer 2026 - HR Information Systems Analyst Intern](https://jobright.ai/jobs/info/69952a39ce78e77b4fd9415b?utm_campaign=1054&utm_source=git)** | North Carolina | Hybrid | Feb 17 |
+| ↳ | **[Summer 2026 - HR Information Systems Analyst Intern](https://jobright.ai/jobs/info/69953852e0bddb6acac3c0ee?utm_campaign=1054&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Apartment Property Management  Intern - HR, Admin, Executive Support](https://jobright.ai/jobs/info/699523b0e0bddb6acac3ab52?utm_campaign=1054&utm_source=git)** | Indianapolis, Indiana | On Site | Feb 17 |
 | **[McIntosh Box & Pallet](https://mcintoshbox.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699501b981476f6176acde49?utm_campaign=1054&utm_source=git)** | Palermo, NY | On Site | Feb 17 |
+| **[RIVA Solutions, Inc.](https://rivasolutionsinc.com)** | **[Culture & Community Engagement Internship](https://jobright.ai/jobs/info/6995344f81476f6176ad14cb?utm_campaign=1054&utm_source=git)** | Reston, Virginia | Hybrid | Feb 17 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6995003081476f6176acdc8f?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/6994ffda81476f6176acdc18?utm_campaign=1054&utm_source=git)** | San Diego, California, United States | Hybrid | Feb 17 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Intern- Employee Services](https://jobright.ai/jobs/info/696ced505fc86241853c0125?utm_campaign=1054&utm_source=git)** | Indiana, PA | On Site | Feb 17 |
@@ -81,7 +98,10 @@ For a complete list, click the following sortable link below:
 | **[Integrity Home Solutions](https://www.homeofintegrity.com/)** | **[ADM515 Intern](https://jobright.ai/jobs/info/6994f6cfce78e77b4fd90a90?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Feb 17 |
 | **[Hatch](https://www.hatch.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69951dbb81476f6176acfb3d?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Feb 17 |
 | **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6995177681476f6176acf4e0?utm_campaign=1054&utm_source=git)** | Chicago, Illinois | On Site | Feb 17 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/699537c281476f6176ad1914?utm_campaign=1054&utm_source=git)** | Washington D.C., District of Columbia | On Site | Feb 17 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69952fa281476f6176ad0e5c?utm_campaign=1054&utm_source=git)** | Houston, Texas | On Site | Feb 17 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69952af0ce78e77b4fd94303?utm_campaign=1054&utm_source=git)** | Los Angeles, California | On Site | Feb 17 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/699540dbce78e77b4fd95d6e?utm_campaign=1054&utm_source=git)** | New York City, New York | On Site | Feb 17 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Apartment Property Management  Intern - HR, Admin, Executive Support](https://jobright.ai/jobs/info/69951de981476f6176acfb6a?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/699512a3e0bddb6acac39c4d?utm_campaign=1054&utm_source=git)** | Charter Steel - Cleveland, OH | On Site | Feb 17 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/6994e63f81476f6176acbb96?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Feb 17 |
@@ -137,24 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Medford/Somerville, MA](https://jobright.ai/jobs/info/69789de139f7f96cc6d1061e?utm_campaign=1054&utm_source=git)** | Medford, MA | On Site | Feb 17 |
 | ↳ | **[Management Trainee Internship - Summer 2026](https://jobright.ai/jobs/info/695c83b3f1f8465b79f2a80d?utm_campaign=1054&utm_source=git)** | Dollard-des-Ormeaux, Quebec, Canada | On Site | Feb 17 |
 | **[SupplyCore](http://supplycore.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/69949a3d81476f6176ac5f2c?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | Feb 17 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6978b5be39f7f96cc6d1231e?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Feb 17 |
-| ↳ | **[Summer 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/6978530f52f3c27ec644aa7f?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Feb 17 |
-| **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cde0af1f8465b79f30fd0?utm_campaign=1054&utm_source=git)** | Windsor, CT | On Site | Feb 17 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern / Eastern Suffolk County](https://jobright.ai/jobs/info/69784a1d39f7f96cc6d0a903?utm_campaign=1054&utm_source=git)** | Manorville, NY | On Site | Feb 17 |
-| **[Whisker](https://www.litter-robot.com/)** | **[Human Resources Generalist Intern](https://jobright.ai/jobs/info/695c50d5f1f8465b79f270bb?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Feb 17 |
-| **[Exela Pharma Sciences LLC](https://www.exelapharma.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6994c4cfe0bddb6acac33c76?utm_campaign=1054&utm_source=git)** | Lenoir, NC, US | On Site | Feb 17 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship - Summer 2026](https://jobright.ai/jobs/info/695c8ce85e4962051b59ab5b?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 17 |
-| **[Greene Tweed](https://www.gtweed.com/)** | **[Human Resources Technology Intern](https://jobright.ai/jobs/info/6994c02181476f6176ac882f?utm_campaign=1054&utm_source=git)** | Lansdale, PA, United States of America | On Site | Feb 17 |
-| **[Zeta Global](http://www.zetaglobal.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/6994b0b981476f6176ac745e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast HR Communications Specialist Intern](https://jobright.ai/jobs/info/6994c59ae0bddb6acac33e1d?utm_campaign=1054&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Feb 17 |
-| **[Brother USA](https://brother-usa.com)** | **[Total Rewards Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/6978839c88e2b47213bcad5a?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Feb 17 |
-| **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd2e61dfa954d1c46ef64?utm_campaign=1054&utm_source=git)** | Edison, NJ | On Site | Feb 17 |
-| **[dwell design studio, llc](http://dwelldesignstudio.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6994c43bce78e77b4fd8cbe1?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 17 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6994c5e181476f6176ac9387?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 17 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6994bdbc81476f6176ac83aa?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Feb 17 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6994cbc9e0bddb6acac349b8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6994bc20ce78e77b4fd8bc52?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 17 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6994be69e0bddb6acac331c6?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 17 |
-| **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cda471dfa954d1c47024d?utm_campaign=1054&utm_source=git)** | Somerset County, NJ | On Site | Feb 17 |
-| **[AM Best](https://www.ambest.com)** | **[2026 Summer Intern - Application Services](https://jobright.ai/jobs/info/6994b29c81476f6176ac769d?utm_campaign=1054&utm_source=git)** | Oldwick, NJ | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
