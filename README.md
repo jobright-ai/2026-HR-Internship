@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Contemporary Amperex Technology Kentucky LLC](http://www.catl.com)** | **[Human Resources Intern -CATK](https://jobright.ai/jobs/info/68b89d16ea901c0d269f81f5?utm_campaign=1054&utm_source=git)** | Marshall, MI | On Site | Feb 19 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/6993c4efce78e77b4fd79b5f?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Feb 19 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Campus Recruiting Sophomore Summer Internship](https://jobright.ai/jobs/info/6997721281476f6176af8ff2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[Center for Science in the Public Interest](http://cspinet.org)** | **[2026 Summer Employee Experience Internship](https://jobright.ai/jobs/info/6997707c81476f6176af8e27?utm_campaign=1054&utm_source=git)** | DC or remote within the US, DC | Remote | Feb 19 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Worley](https://www.worley.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699691b0e0bddb6acac513f1?utm_campaign=1054&utm_source=git)** | CAN-AB-Edmonton | On Site | Feb 18 |
 | **[TD](https://www.td.com)** | **[Accident Benefit Claims Intern/Co-op (SUMMER 2026) - Preferred Candidate](https://jobright.ai/jobs/info/6996864cce78e77b4fda9ab3?utm_campaign=1054&utm_source=git)** | Burlington, Ontario | Hybrid | Feb 18 |
 | **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Recruiting Intern - Texas](https://jobright.ai/jobs/info/69968827ce78e77b4fda9df9?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | On Site | Feb 18 |
-| ↳ | **[Summer Recruiting Intern – East Coast](https://jobright.ai/jobs/info/69967408e0bddb6acac4ec76?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Feb 18 |
 | ↳ | **[Summer Recruiting Intern – Bay Area](https://jobright.ai/jobs/info/6996868bce78e77b4fda9b0c?utm_campaign=1054&utm_source=git)** | San Francisco, California, United States | On Site | Feb 18 |
+| ↳ | **[Summer Recruiting Intern – East Coast](https://jobright.ai/jobs/info/69967408e0bddb6acac4ec76?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Feb 18 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6996a92ce0bddb6acac54048?utm_campaign=1054&utm_source=git)** | Muskegon, MI | On Site | Feb 18 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698b8fba06d9b0622495b416?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[BENEFITS BILLING ANALYST INTERN, UCPATH](https://jobright.ai/jobs/info/69966fe581476f6176ae420a?utm_campaign=1054&utm_source=git)** | Riverside, CA | Hybrid | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/699675dfce78e77b4fda83ab?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/6996664ce0bddb6acac4db4d?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Feb 18 |
 | **[SECU](https://www.ncsecu.org)** | **[Intern - Talent Acquisition Full-time Summer 2026](https://jobright.ai/jobs/info/699674b9e0bddb6acac4ed37?utm_campaign=1054&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[JSVP Intern](https://jobright.ai/jobs/info/69969136ce78e77b4fdaacd0?utm_campaign=1054&utm_source=git)** | Boston | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
