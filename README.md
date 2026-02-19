@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clark Capital Management Group](http://ccmg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69976937e0bddb6acac62211?utm_campaign=1054&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Feb 19 |
+| **[VOA Northern Rockies](https://voanr.org)** | **[CASE MANAGER INTERN](https://jobright.ai/jobs/info/699766eae0bddb6acac61fc5?utm_campaign=1054&utm_source=git)** | Laramie, WY | On Site | Feb 19 |
+| **[Atlantic Health](http://www.atlantichealth.org)** | **[Talent Management Intern](https://jobright.ai/jobs/info/699765c3ce78e77b4fdbbdef?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Feb 19 |
+| **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Human Resources/Recruitment](https://jobright.ai/jobs/info/6997653981476f6176af844a?utm_campaign=1054&utm_source=git)** | Danville, PA | On Site | Feb 19 |
+| **[The Breakers Palm Beach](https://www.thebreakers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699761c481476f6176af8212?utm_campaign=1054&utm_source=git)** | Palm Beach, FL | On Site | Feb 19 |
 | **[Siemens](https://www.siemens.com)** | **[People & Organization Internship](https://jobright.ai/jobs/info/69975811e0bddb6acac61775?utm_campaign=1054&utm_source=git)** | Wendell, NC | On Site | Feb 19 |
 | **[Dieffenbach's Snacks](https://www.dieffenbachs.com)** | **[Intern, Human Resources (Talent Acquisition) - 2026](https://jobright.ai/jobs/info/6997563ee0bddb6acac6164d?utm_campaign=1054&utm_source=git)** | Chambersburg, PA | On Site | Feb 19 |
 | **[NetSPI](https://www.netspi.com)** | **[PeopleOps Intern](https://jobright.ai/jobs/info/69975138e0bddb6acac61350?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Feb 19 |
@@ -119,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Commerce, California, United States | On Site | Feb 18 |
 | **[Worley](https://www.worley.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699691b0e0bddb6acac513f1?utm_campaign=1054&utm_source=git)** | CAN-AB-Edmonton | On Site | Feb 18 |
 | **[TD](https://www.td.com)** | **[Accident Benefit Claims Intern/Co-op (SUMMER 2026) - Preferred Candidate](https://jobright.ai/jobs/info/6996864cce78e77b4fda9ab3?utm_campaign=1054&utm_source=git)** | Burlington, Ontario | Hybrid | Feb 18 |
-| **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Recruiting Intern – Bay Area](https://jobright.ai/jobs/info/6996868bce78e77b4fda9b0c?utm_campaign=1054&utm_source=git)** | San Francisco, California, United States | On Site | Feb 18 |
-| ↳ | **[Summer Recruiting Intern – East Coast](https://jobright.ai/jobs/info/69967408e0bddb6acac4ec76?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Feb 18 |
+| **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Recruiting Intern – East Coast](https://jobright.ai/jobs/info/69967408e0bddb6acac4ec76?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Feb 18 |
+| ↳ | **[Summer Recruiting Intern – Bay Area](https://jobright.ai/jobs/info/6996868bce78e77b4fda9b0c?utm_campaign=1054&utm_source=git)** | San Francisco, California, United States | On Site | Feb 18 |
 | ↳ | **[Summer Recruiting Intern - Texas](https://jobright.ai/jobs/info/69968827ce78e77b4fda9df9?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | On Site | Feb 18 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6996a92ce0bddb6acac54048?utm_campaign=1054&utm_source=git)** | Muskegon, MI | On Site | Feb 18 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698b8fba06d9b0622495b416?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 18 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Talent Development](https://jobright.ai/jobs/info/6996499281476f6176ae0ba4?utm_campaign=1054&utm_source=git)** | San Antonio, TX | Hybrid | Feb 18 |
 | **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69965dae81476f6176ae2c5a?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Feb 18 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - People Analytics](https://jobright.ai/jobs/info/69964d9781476f6176ae1262?utm_campaign=1054&utm_source=git)** | San Francisco, California | On Site | Feb 18 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Intern (Summer 2026- UNPAID)](https://jobright.ai/jobs/info/69965a26e0bddb6acac4c9dc?utm_campaign=1054&utm_source=git)** | Charlottesville, VA USA | On Site | Feb 18 |
-| ↳ | **[Economic Empowerment Intern (Summer 2026 UNPAID)](https://jobright.ai/jobs/info/69966296ce78e77b4fda6c90?utm_campaign=1054&utm_source=git)** | Charlottesville, VA USA | On Site | Feb 18 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern (Summer 2026 UNPAID)](https://jobright.ai/jobs/info/69966296ce78e77b4fda6c90?utm_campaign=1054&utm_source=git)** | Charlottesville, VA USA | On Site | Feb 18 |
+| ↳ | **[Intensive Case Management Intern (Summer 2026- UNPAID)](https://jobright.ai/jobs/info/69965a26e0bddb6acac4c9dc?utm_campaign=1054&utm_source=git)** | Charlottesville, VA USA | On Site | Feb 18 |
 | ↳ | **[Client Benefits Intern (Summer 2026-UNPAID)](https://jobright.ai/jobs/info/69965d57e0bddb6acac4cea2?utm_campaign=1054&utm_source=git)** | Charlottesville, VA USA | On Site | Feb 18 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/6996537de0bddb6acac4c20f?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Feb 18 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/6996373ee0bddb6acac498e1?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Feb 18 |
 | **[Social Planning Council of Ottawa](https://www.spcottawa.on.ca/)** | **[Development Coordinator Assistant Intern (Volunteer, Unpaid)](https://jobright.ai/jobs/info/69963eface78e77b4fda3733?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Feb 18 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6996521dce78e77b4fda5496?utm_campaign=1054&utm_source=git)** | Waterloo, IA | On Site | Feb 18 |
-| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Early Talent Acquisition Intern](https://jobright.ai/jobs/info/69420ec414ee092a69002c53?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Feb 18 |
-| **[Aalo Atomics](https://www.aalo.com)** | **[HR Intern](https://jobright.ai/jobs/info/6996379ee0bddb6acac49924?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 18 |
-| **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699657aae0bddb6acac4c775?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Feb 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Wilkes Barre](https://jobright.ai/jobs/info/6933d0bd764507023d1b9c17?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | On Site | Feb 18 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern (Sanders) 2025 - 2026](https://jobright.ai/jobs/info/69964c7de0bddb6acac4b6ec?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
