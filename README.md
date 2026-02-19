@@ -57,10 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of California Office of the President](https://www.ucop.edu)** | **[WAGE AND COMPENSATION DATA ANALYST INTERN, UCPATH](https://jobright.ai/jobs/info/6996b5a681476f6176aeb0e9?utm_campaign=1054&utm_source=git)** | Riverside, CA | Hybrid | Feb 18 |
+| ↳ | **[EMPLOYEE EXPERIENCE INSIGHTS ANALYST INTERN, UCPATH](https://jobright.ai/jobs/info/6996b3c981476f6176aeae0a?utm_campaign=1054&utm_source=git)** | Riverside, CA | Hybrid | Feb 18 |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6996b33881476f6176aeac3b?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 18 |
+| ↳ | **[人力资源实习生](https://jobright.ai/jobs/info/6996af36e0bddb6acac54885?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6996911781476f6176ae723c?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 18 |
 | **[Healthfirst](https://healthfirst.org)** | **[Dental Benefits Intern (Pharmacy Department) &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/699690e381476f6176ae720b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 18 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69968c66e0bddb6acac50b75?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 18 |
+| **[Hawaii Pacific Health](https://www.hawaiipacifichealth.org/straub/)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/6996a95081476f6176ae9d33?utm_campaign=1054&utm_source=git)** | Honolulu, HI | On Site | Feb 18 |
+| **[FetchJobs.co](https://www.fetchjobs.co)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6996a657e0bddb6acac53b19?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - People Analytics](https://jobright.ai/jobs/info/6996750681476f6176ae495e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 18 |
+| **[Worley](https://www.worley.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6996a94281476f6176ae9d29?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 18 |
+| **[TD](https://www.td.com)** | **[Accident Benefit Claims Intern/Co-op (SUMMER 2026) - Preferred Candidate](https://jobright.ai/jobs/info/6996a6cfce78e77b4fdad356?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Feb 18 |
+| **[Montgomery Parks](https://montgomeryparks.org)** | **[Equitable Hiring & Workforce Belonging Intern](https://jobright.ai/jobs/info/6996a487ce78e77b4fdaceb2?utm_campaign=1054&utm_source=git)** | Wheaton, MD | Hybrid | Feb 18 |
+| **[Sonesta International Hotels](http://www.sonesta.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698e67f40f6f7e7a2cea722d?utm_campaign=1054&utm_source=git)** | Newton, MA | On Site | Feb 18 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[JSVP Intern](https://jobright.ai/jobs/info/69968e4ece78e77b4fdaa7c8?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 18 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern](https://jobright.ai/jobs/info/69968d89e0bddb6acac50d2d?utm_campaign=1054&utm_source=git)** | Holly Springs, MS | On Site | Feb 18 |
 | **[Tate](http://tateinc.com)** | **[Human Resources Department Intern](https://jobright.ai/jobs/info/69969387ce78e77b4fdab0c2?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Feb 18 |
@@ -75,9 +85,10 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Commerce, California, United States | On Site | Feb 18 |
 | **[Worley](https://www.worley.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699691b0e0bddb6acac513f1?utm_campaign=1054&utm_source=git)** | CAN-AB-Edmonton | On Site | Feb 18 |
 | **[TD](https://www.td.com)** | **[Accident Benefit Claims Intern/Co-op (SUMMER 2026) - Preferred Candidate](https://jobright.ai/jobs/info/6996864cce78e77b4fda9ab3?utm_campaign=1054&utm_source=git)** | Burlington, Ontario | Hybrid | Feb 18 |
-| **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Recruiting Intern – Bay Area](https://jobright.ai/jobs/info/6996868bce78e77b4fda9b0c?utm_campaign=1054&utm_source=git)** | San Francisco, California, United States | On Site | Feb 18 |
+| **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Recruiting Intern - Texas](https://jobright.ai/jobs/info/69968827ce78e77b4fda9df9?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | On Site | Feb 18 |
+| ↳ | **[Summer Recruiting Intern – Bay Area](https://jobright.ai/jobs/info/6996868bce78e77b4fda9b0c?utm_campaign=1054&utm_source=git)** | San Francisco, California, United States | On Site | Feb 18 |
 | ↳ | **[Summer Recruiting Intern – East Coast](https://jobright.ai/jobs/info/69967408e0bddb6acac4ec76?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Feb 18 |
-| ↳ | **[Summer Recruiting Intern - Texas](https://jobright.ai/jobs/info/69968827ce78e77b4fda9df9?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | On Site | Feb 18 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6996a92ce0bddb6acac54048?utm_campaign=1054&utm_source=git)** | Muskegon, MI | On Site | Feb 18 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698b8fba06d9b0622495b416?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[BENEFITS BILLING ANALYST INTERN, UCPATH](https://jobright.ai/jobs/info/69966fe581476f6176ae420a?utm_campaign=1054&utm_source=git)** | Riverside, CA | Hybrid | Feb 18 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6992fd5881476f6176aa9a8e?utm_campaign=1054&utm_source=git)** | Tacoma, WA | Hybrid | Feb 18 |
@@ -115,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern (Sanders) 2025 - 2026](https://jobright.ai/jobs/info/69964c7de0bddb6acac4b6ec?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 18 |
 | **[Essex Solutions](https://essexfurukawa.com)** | **[HR Intern](https://jobright.ai/jobs/info/69792faf88e2b47213bd4f54?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Fort Collins](https://jobright.ai/jobs/info/693b216e5f2c001987ed1f9e?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Feb 18 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Cares Human Resources Internship](https://jobright.ai/jobs/info/69963619ce78e77b4fda2bd7?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
-| ↳ | **[2026 Omni Cares Human Resources Internship](https://jobright.ai/jobs/info/69964c6c81476f6176ae102e?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Cares Human Resources Internship](https://jobright.ai/jobs/info/69964c6c81476f6176ae102e?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
+| ↳ | **[2026 Omni Cares Human Resources Internship](https://jobright.ai/jobs/info/69963619ce78e77b4fda2bd7?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69965cf281476f6176ae2b19?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 18 |
 | **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/69968b61e0bddb6acac50a37?utm_campaign=1054&utm_source=git)** | US-TX-Midland | On Site | Feb 18 |
 | ↳ | **[RN Internship](https://jobright.ai/jobs/info/699696edce78e77b4fdab713?utm_campaign=1054&utm_source=git)** | Midland, TX, US | On Site | Feb 18 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Graham Partners](http://www.grahampartners.net)** | **[Private Equity / Talent Management & Human Resources Intern](https://jobright.ai/jobs/info/69960fb3ce78e77b4fda04fb?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69355354a0dde7020e2f86f2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/69095a6d4a1b456627aff9e8?utm_campaign=1054&utm_source=git)** | Stroudsburg, PA | On Site | Feb 18 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ce8da3846f0b04af67afae?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Feb 18 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e6646a112b402660d2425?utm_campaign=1054&utm_source=git)** | Essex, MD | On Site | Feb 18 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e5f7da112b402660d2098?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Feb 18 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e5ab8a112b402660d1e65?utm_campaign=1054&utm_source=git)** | Forestville, MD | On Site | Feb 18 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6959e86daa05c26e7ab3875e?utm_campaign=1054&utm_source=git)** | Wilmington, DE | On Site | Feb 18 |
-| **[ATB Financial](http://www.atb.com/)** | **[Indigenous Internship - Talent Attraction Student](https://jobright.ai/jobs/info/698ec0e978b4502f12a59cfb?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 18 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern - CT](https://jobright.ai/jobs/info/6995fdf6e0bddb6acac4620b?utm_campaign=1054&utm_source=git)** | Shelton, CT | Hybrid | Feb 18 |
-| **[Cogeco Media](http://www.cogecomedia.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69960200ce78e77b4fd9fae9?utm_campaign=1054&utm_source=git)** | Burlington, ON | Hybrid | Feb 18 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e5de3a112b402660d1fb0?utm_campaign=1054&utm_source=git)** | Henrico, VA | On Site | Feb 18 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/694d20f829655e4dd6573446?utm_campaign=1054&utm_source=git)** | Toughkenamon, PA | On Site | Feb 18 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e62e60badca5763aee21e?utm_campaign=1054&utm_source=git)** | Gainesville, VA | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
