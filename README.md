@@ -57,15 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Databricks](https://www.databricks.com)** | **[MBA Intern - People Analytics](https://jobright.ai/jobs/info/6996750681476f6176ae495e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 18 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Transportation HR Intern](https://jobright.ai/jobs/info/699665e1ce78e77b4fda7130?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
 | **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Commerce, California, United States | On Site | Feb 18 |
+| **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Recruiting Intern – East Coast](https://jobright.ai/jobs/info/69967408e0bddb6acac4ec76?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Feb 18 |
+| **[University of California Office of the President](https://www.ucop.edu)** | **[BENEFITS BILLING ANALYST INTERN, UCPATH](https://jobright.ai/jobs/info/69966fe581476f6176ae420a?utm_campaign=1054&utm_source=git)** | Riverside, CA | Hybrid | Feb 18 |
+| **[Sound Credit Union](https://www.soundcu.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6992fd5881476f6176aa9a8e?utm_campaign=1054&utm_source=git)** | Tacoma, WA | Hybrid | Feb 18 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/69966d8ce0bddb6acac4e445?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 18 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Insurance Internship](https://jobright.ai/jobs/info/69963d4481476f6176adf975?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Feb 18 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[HR Technical Recruiting Internship](https://jobright.ai/jobs/info/69963d2981476f6176adf958?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Feb 18 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[2026 Omni Cares Human Resources Internship](https://jobright.ai/jobs/info/69963c2fce78e77b4fda3310?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 18 |
 | **[Cogeco Inc.](http://corpo.cogeco.com/cgo/en/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69963aade0bddb6acac49d30?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Feb 18 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Transportation HR Intern](https://jobright.ai/jobs/info/6996692881476f6176ae3986?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
 | **[Ocean Power Technologies](http://www.oceanpowertechnologies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69963648ce78e77b4fda2bfb?utm_campaign=1054&utm_source=git)** | Monroe Township, NJ, US | On Site | Feb 18 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Human Resources Process Documentation Intern](https://jobright.ai/jobs/info/697309531790715e866bfd03?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Feb 18 |
+| **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/699675dfce78e77b4fda83ab?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/6996664ce0bddb6acac4db4d?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Feb 18 |
+| **[SECU](https://www.ncsecu.org)** | **[Intern - Talent Acquisition Full-time Summer 2026](https://jobright.ai/jobs/info/699674b9e0bddb6acac4ed37?utm_campaign=1054&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Talent Development](https://jobright.ai/jobs/info/6996499281476f6176ae0ba4?utm_campaign=1054&utm_source=git)** | San Antonio, TX | Hybrid | Feb 18 |
 | **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69965dae81476f6176ae2c5a?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Feb 18 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - People Analytics](https://jobright.ai/jobs/info/69964d9781476f6176ae1262?utm_campaign=1054&utm_source=git)** | San Francisco, California | On Site | Feb 18 |
@@ -79,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Early Talent Acquisition Intern](https://jobright.ai/jobs/info/69420ec414ee092a69002c53?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Feb 18 |
 | **[MTF Biologics](https://www.mtfbiologics.org/)** | **[Summer Intern - HR Compensation & Benefits](https://jobright.ai/jobs/info/69963eb3ce78e77b4fda36be?utm_campaign=1054&utm_source=git)** | Edison, NJ | On Site | Feb 18 |
 | **[Aalo Atomics](https://www.aalo.com)** | **[HR Intern](https://jobright.ai/jobs/info/6996379ee0bddb6acac49924?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 18 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/6996489ce0bddb6acac4b0e9?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 18 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699657aae0bddb6acac4c775?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Feb 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Wilkes Barre](https://jobright.ai/jobs/info/6933d0bd764507023d1b9c17?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | On Site | Feb 18 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern (Sanders) 2025 - 2026](https://jobright.ai/jobs/info/69964c7de0bddb6acac4b6ec?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Corp Benefits Intern - Bethesda, MD](https://jobright.ai/jobs/info/697986feca92cf0d6a82af76?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Feb 18 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e65be08ab990f2829b908?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Feb 18 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/695e5c10a112b402660d1ebc?utm_campaign=1054&utm_source=git)** | Centre Hall, PA | On Site | Feb 18 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e644c08ab990f2829b812?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Feb 18 |
-| **[Voya Financial](https://www.voya.com/)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/69793a5388e2b47213bd6363?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Feb 18 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e605e08ab990f2829b599?utm_campaign=1054&utm_source=git)** | Davidsonville, MD | On Site | Feb 18 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695ea17a0badca5763af0c6b?utm_campaign=1054&utm_source=git)** | Lorton, VA | On Site | Feb 18 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/69572c069f1b381eb2704356?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 18 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e9c7e0badca5763af0872?utm_campaign=1054&utm_source=git)** | Laytonsville, MD | On Site | Feb 18 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695982df9f1b381eb27244e2?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
