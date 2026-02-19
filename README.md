@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com)** | **[People & Organization Internship](https://jobright.ai/jobs/info/69975811e0bddb6acac61775?utm_campaign=1054&utm_source=git)** | Wendell, NC | On Site | Feb 19 |
+| **[Dieffenbach's Snacks](https://www.dieffenbachs.com)** | **[Intern, Human Resources (Talent Acquisition) - 2026](https://jobright.ai/jobs/info/6997563ee0bddb6acac6164d?utm_campaign=1054&utm_source=git)** | Chambersburg, PA | On Site | Feb 19 |
+| **[NetSPI](https://www.netspi.com)** | **[PeopleOps Intern](https://jobright.ai/jobs/info/69975138e0bddb6acac61350?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Feb 19 |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Internal Culture & Communication Intern](https://jobright.ai/jobs/info/69974dc8ce78e77b4fdbaf3c?utm_campaign=1054&utm_source=git)** | St Louis, MO | Remote | Feb 19 |
+| **[5WPR](http://www.5wpr.com)** | **[People Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69974a1281476f6176af7140?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Feb 19 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Campus Recruiting Sophomore Summer Internship](https://jobright.ai/jobs/info/69974789e0bddb6acac6067a?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Feb 19 |
 | **[Interac Corp.](http://www.interac.ca)** | **[People & Culture Intern (Talent Programs + Platforms & Technology)](https://jobright.ai/jobs/info/6997444a81476f6176af5d9b?utm_campaign=1054&utm_source=git)** | Toronto | Hybrid | Feb 19 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Exec Director-Apprenticeship & Workforce Solutions](https://jobright.ai/jobs/info/699742fee0bddb6acac5f792?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
@@ -115,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Worley](https://www.worley.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699691b0e0bddb6acac513f1?utm_campaign=1054&utm_source=git)** | CAN-AB-Edmonton | On Site | Feb 18 |
 | **[TD](https://www.td.com)** | **[Accident Benefit Claims Intern/Co-op (SUMMER 2026) - Preferred Candidate](https://jobright.ai/jobs/info/6996864cce78e77b4fda9ab3?utm_campaign=1054&utm_source=git)** | Burlington, Ontario | Hybrid | Feb 18 |
 | **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Recruiting Intern – Bay Area](https://jobright.ai/jobs/info/6996868bce78e77b4fda9b0c?utm_campaign=1054&utm_source=git)** | San Francisco, California, United States | On Site | Feb 18 |
-| ↳ | **[Summer Recruiting Intern - Texas](https://jobright.ai/jobs/info/69968827ce78e77b4fda9df9?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | On Site | Feb 18 |
 | ↳ | **[Summer Recruiting Intern – East Coast](https://jobright.ai/jobs/info/69967408e0bddb6acac4ec76?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Feb 18 |
+| ↳ | **[Summer Recruiting Intern - Texas](https://jobright.ai/jobs/info/69968827ce78e77b4fda9df9?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | On Site | Feb 18 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6996a92ce0bddb6acac54048?utm_campaign=1054&utm_source=git)** | Muskegon, MI | On Site | Feb 18 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698b8fba06d9b0622495b416?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[BENEFITS BILLING ANALYST INTERN, UCPATH](https://jobright.ai/jobs/info/69966fe581476f6176ae420a?utm_campaign=1054&utm_source=git)** | Riverside, CA | Hybrid | Feb 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699657aae0bddb6acac4c775?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Feb 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Wilkes Barre](https://jobright.ai/jobs/info/6933d0bd764507023d1b9c17?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | On Site | Feb 18 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern (Sanders) 2025 - 2026](https://jobright.ai/jobs/info/69964c7de0bddb6acac4b6ec?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 18 |
-| **[Essex Solutions](https://essexfurukawa.com)** | **[HR Intern](https://jobright.ai/jobs/info/69792faf88e2b47213bd4f54?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Fort Collins](https://jobright.ai/jobs/info/693b216e5f2c001987ed1f9e?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Feb 18 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Cares Human Resources Internship](https://jobright.ai/jobs/info/69964c6c81476f6176ae102e?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
-| ↳ | **[2026 Omni Cares Human Resources Internship](https://jobright.ai/jobs/info/69963619ce78e77b4fda2bd7?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
-| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69965cf281476f6176ae2b19?utm_campaign=1054&utm_source=git)** | Canada | Remote | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
