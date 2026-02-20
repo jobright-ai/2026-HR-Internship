@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69341845a0dde7020e2f4357?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Feb 20 |
+| ↳ | **[Management Trainee Summer Internship - Salt Lake City](https://jobright.ai/jobs/info/69608694a112b402660f3b59?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 20 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/693d0c9650bbaf7650503588?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Feb 20 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program –Business Enablement Operations – Intern](https://jobright.ai/jobs/info/69603a117ebc25398eb63c5f?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Feb 20 |
+| **[Cemex US](http://www.cemex.com/)** | **[INTERNSHIP DEVELOPMENT PROFESSIONAL HR](https://jobright.ai/jobs/info/691accc845fb6f5ead8ade42?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (San Diego)](https://jobright.ai/jobs/info/6993526581476f6176aafd5b?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Feb 20 |
 | **[rand* construction corporation](http://randcc.com)** | **[HR Intern - Alexandria, VA](https://jobright.ai/jobs/info/690bca90221b890c277f848a?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Feb 20 |
 | **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Benefits Analyst– Client Services Team (Intern – Flex)](https://jobright.ai/jobs/info/699850ce81476f6176b0c2ac?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/699344a2e0bddb6acac188f3?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 20 |
-| **[FetchJobs.co](https://www.fetchjobs.co)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699838f1ce78e77b4fdcedf8?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Summer 2026](https://jobright.ai/jobs/info/68d1ed048c62e63bc7fd1214?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Feb 20 |
 | **[Balchem Corporation](http://balchem.com)** | **[HR Generalist Intern/Co-Op](https://jobright.ai/jobs/info/697b98e80b88cc7d642255df?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Feb 20 |
 | **[Coinbase](https://www.coinbase.com)** | **[Employee & Workplace Experience Intern](https://jobright.ai/jobs/info/6921828f3f782d2f1afd29e2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
@@ -73,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Human Resources](https://jobright.ai/jobs/info/693b7f765f2c001987ed7257?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[HII](https://hii.com)** | **[2026 COLLEGE INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/6997f92bce78e77b4fdc959e?utm_campaign=1054&utm_source=git)** | Pascagoula, MS | On Site | Feb 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/6997e602ce78e77b4fdc628d?utm_campaign=1054&utm_source=git)** | Northampton, MA | On Site | Feb 19 |
-| **[FetchJobs.co](https://www.fetchjobs.co)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6997e440ce78e77b4fdc5e36?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 19 |
 | **[Toshiba Business](http://business.toshiba.com)** | **[Human Resources Intern - Summer Internship Program (June 15, 2026 - August 7, 2026)](https://jobright.ai/jobs/info/6997e23be0bddb6acac6bb09?utm_campaign=1054&utm_source=git)** | Lake Forest, CA | On Site | Feb 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (HR Analytics)](https://jobright.ai/jobs/info/6997e151e0bddb6acac6b971?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Feb 19 |
 | **[Eastern States Exposition](http://www.thebige.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6997de5bce78e77b4fdc53bd?utm_campaign=1054&utm_source=git)** | West Springfield, MA | On Site | Feb 19 |
@@ -95,23 +98,22 @@ For a complete list, click the following sortable link below:
 | **[Skanska](http://skanska.com)** | **[Culture and Engagement Intern](https://jobright.ai/jobs/info/6997d91a81476f6176b01043?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 19 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6952e2d7f1f8465b79ea29ef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[INNIO Group](https://www.innio.com/en/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/6997dd61ce78e77b4fdc5237?utm_campaign=1054&utm_source=git)** | Welland, Ontario, Canada | On Site | Feb 19 |
-| **[Skanska](http://skanska.com)** | **[Culture and Engagement Intern](https://jobright.ai/jobs/info/6997c936e0bddb6acac68e41?utm_campaign=1054&utm_source=git)** | US-GA-Atlanta | On Site | Feb 19 |
-| ↳ | **[Culture and Engagement Intern](https://jobright.ai/jobs/info/6997d85ece78e77b4fdc4950?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Feb 19 |
+| **[Skanska](http://skanska.com)** | **[Culture and Engagement Intern](https://jobright.ai/jobs/info/6997d85ece78e77b4fdc4950?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Feb 19 |
+| ↳ | **[Culture and Engagement Intern](https://jobright.ai/jobs/info/6997c936e0bddb6acac68e41?utm_campaign=1054&utm_source=git)** | US-GA-Atlanta | On Site | Feb 19 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Adult Protective Services Program](https://jobright.ai/jobs/info/6997de6081476f6176b01972?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | Feb 19 |
 | **[Stewart Title](https://www.stewart.com/)** | **[HR Compensation Intern](https://jobright.ai/jobs/info/6997a651e0bddb6acac65cbe?utm_campaign=1054&utm_source=git)** | Greater Houston | Hybrid | Feb 19 |
 | **[Toshiba Business](http://business.toshiba.com)** | **[Human Resources Intern - Summer Internship Program (June 15, 2026 - August 7, 2026)](https://jobright.ai/jobs/info/6997d92181476f6176b0104b?utm_campaign=1054&utm_source=git)** | Lake Forest, California, United States | On Site | Feb 19 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 19 |
 | **[PROtect LLC](https://protect.llc/)** | **[People Systems & Process Documentation HR Intern](https://jobright.ai/jobs/info/6997e95a81476f6176b03202?utm_campaign=1054&utm_source=git)** | Corporate - Wichita, KS, 3815 S Midco St, Wichita, Kansas, United States of America | On Site | Feb 19 |
 | **[Loenbro](http://loenbro.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6997cca8e0bddb6acac693f4?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 19 |
-| **[Grimmway Produce Group](http://www.grimmway.com)** | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997cb2481476f6176aff9a1?utm_campaign=1054&utm_source=git)** | 12064 Buena Vista Blvd. | On Site | Feb 19 |
-| ↳ | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997cf7681476f6176b0004d?utm_campaign=1054&utm_source=git)** | US-CA-Arvin | On Site | Feb 19 |
+| **[Grimmway Produce Group](http://www.grimmway.com)** | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997cf7681476f6176b0004d?utm_campaign=1054&utm_source=git)** | US-CA-Arvin | On Site | Feb 19 |
 | ↳ | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997daddce78e77b4fdc4dc3?utm_campaign=1054&utm_source=git)** | 93203 | On Site | Feb 19 |
-| **[Loenbro](http://loenbro.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6997c5c3ce78e77b4fdc2afb?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 19 |
-| ↳ | **[People Operations & Organization Development Intern](https://jobright.ai/jobs/info/6997bb9dce78e77b4fdc19a4?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 19 |
+| ↳ | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997cb2481476f6176aff9a1?utm_campaign=1054&utm_source=git)** | 12064 Buena Vista Blvd. | On Site | Feb 19 |
+| **[Loenbro](http://loenbro.com)** | **[People Operations & Organization Development Intern](https://jobright.ai/jobs/info/6997bb9dce78e77b4fdc19a4?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 19 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6997c5c3ce78e77b4fdc2afb?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 19 |
 | **[MBH Architects](https://www.mbharch.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697242349b83b424830e2f6d?utm_campaign=1054&utm_source=git)** | Alameda, CA | On Site | Feb 19 |
 | **[ChampionX Emissions Technologies](https://www.scientificaviation.com/)** | **[Summer 2026 HR Internship](https://jobright.ai/jobs/info/6997bfe1e0bddb6acac682a5?utm_campaign=1054&utm_source=git)** | USA -TX - Midland Regional | On Site | Feb 19 |
 | **[PROtect LLC](https://protect.llc/)** | **[People Systems & Process Documentation HR Intern](https://jobright.ai/jobs/info/6997bc2dce78e77b4fdc1ab4?utm_campaign=1054&utm_source=git)** | Wichita, Kansas Metropolitan Area | On Site | Feb 19 |
-| **[Hutchinson](https://www.hutchinson.com)** | **[HR/HRIS Intern](https://jobright.ai/jobs/info/6997950ece78e77b4fdbe563?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Feb 19 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Adult Protective Services Program](https://jobright.ai/jobs/info/6997c31581476f6176afeea2?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Compliance Intern](https://jobright.ai/jobs/info/6997b42b81476f6176afd52f?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Feb 19 |
 | **[Tolmar](http://tolmar.com)** | **[Intern - HR](https://jobright.ai/jobs/info/6997933a81476f6176afaaad?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Feb 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Talent Management Intern](https://jobright.ai/jobs/info/699765c3ce78e77b4fdbbdef?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Feb 19 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Human Resources Intern](https://jobright.ai/jobs/info/69978f8ee0bddb6acac63f21?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 19 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Human Resources/Recruitment](https://jobright.ai/jobs/info/6997653981476f6176af844a?utm_campaign=1054&utm_source=git)** | Danville, PA | On Site | Feb 19 |
-| **[The Breakers Palm Beach](https://www.thebreakers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699761c481476f6176af8212?utm_campaign=1054&utm_source=git)** | Palm Beach, FL | On Site | Feb 19 |
-| **[Geneva Trading](https://geneva-trading.com)** | **[HR Programs & Operations Intern](https://jobright.ai/jobs/info/6997923ece78e77b4fdbe1e7?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
