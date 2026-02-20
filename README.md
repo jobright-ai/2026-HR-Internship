@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Human Resources](https://jobright.ai/jobs/info/693b7f765f2c001987ed7257?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
+| **[HII](https://hii.com)** | **[2026 COLLEGE INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/6997f92bce78e77b4fdc959e?utm_campaign=1054&utm_source=git)** | Pascagoula, MS | On Site | Feb 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/6997e602ce78e77b4fdc628d?utm_campaign=1054&utm_source=git)** | Northampton, MA | On Site | Feb 19 |
 | **[FetchJobs.co](https://www.fetchjobs.co)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6997e440ce78e77b4fdc5e36?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 19 |
 | **[Toshiba Business](http://business.toshiba.com)** | **[Human Resources Intern - Summer Internship Program (June 15, 2026 - August 7, 2026)](https://jobright.ai/jobs/info/6997e23be0bddb6acac6bb09?utm_campaign=1054&utm_source=git)** | Lake Forest, CA | On Site | Feb 19 |
@@ -65,7 +67,11 @@ For a complete list, click the following sortable link below:
 | **[New College of Florida](https://www.ncf.edu/)** | **[Graduate Assistant, People & Workforce Analytics Internship](https://jobright.ai/jobs/info/6997ddf1e0bddb6acac6b163?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Feb 19 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/6997ddc381476f6176b0186e?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 19 |
 | ↳ | **[Intern, HR Enablement](https://jobright.ai/jobs/info/6997d7e381476f6176b00de8?utm_campaign=1054&utm_source=git)** | Pawtucket, RI | On Site | Feb 19 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/6997f1f5e0bddb6acac6db59?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 19 |
+| **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Workforce Planning & Development Intern](https://jobright.ai/jobs/info/699153630f6f7e7a2ced9a97?utm_campaign=1054&utm_source=git)** | Ohio, United States | Hybrid | Feb 19 |
+| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/697040b851f726477182718d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Feb 19 |
 | **[Zimmer Biomet](https://www.zimmerbiomet.com/en)** | **[2026 Summer Intern, HR Business Partnering (Operations)](https://jobright.ai/jobs/info/6997c8bbe0bddb6acac68d82?utm_campaign=1054&utm_source=git)** | Warsaw, IN | On Site | Feb 19 |
+| **[Globe Life](https://www.globelifeinsurance.com)** | **[Sales & Recruiting - Summer Internship 2026](https://jobright.ai/jobs/info/6997f002ce78e77b4fdc7b87?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Feb 19 |
 | **[Metaprise](https://www.metaprise.ai/)** | **[Talent Acquisition Specialist (Sales Hiring)](https://jobright.ai/jobs/info/6997e4cace78e77b4fdc5f12?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Feb 19 |
 | **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[2026 COLLEGE INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/6997c1edce78e77b4fdc266d?utm_campaign=1054&utm_source=git)** | Pascagoula, MS | On Site | Feb 19 |
 | **[Cognizant](https://www.cognizant.com)** | **[Associate Intern](https://jobright.ai/jobs/info/6997e0d8e0bddb6acac6b730?utm_campaign=1054&utm_source=git)** | Teaneck, NJ | Remote | Feb 19 |
@@ -80,12 +86,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Culture and Engagement Intern](https://jobright.ai/jobs/info/6997c936e0bddb6acac68e41?utm_campaign=1054&utm_source=git)** | US-GA-Atlanta | On Site | Feb 19 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Adult Protective Services Program](https://jobright.ai/jobs/info/6997de6081476f6176b01972?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | Feb 19 |
 | **[Stewart Title](https://www.stewart.com/)** | **[HR Compensation Intern](https://jobright.ai/jobs/info/6997a651e0bddb6acac65cbe?utm_campaign=1054&utm_source=git)** | Greater Houston | Hybrid | Feb 19 |
-| **[Toshiba Business](http://business.toshiba.com)** | **[Human Resources Intern - Summer Internship Program (June 15, 2026 - August 7, 2026)](https://jobright.ai/jobs/info/6997d92181476f6176b0104b?utm_campaign=1054&utm_source=git)** | Lake Forest, California, United States | On Site | Feb 19 |
+| **[Toshiba Business](http://business.toshiba.com)** | **[Human Resources Intern - Summer Internship Program (June 15, 2026 - August 7, 2026)](https://jobright.ai/jobs/info/6997de3b81476f6176b0192a?utm_campaign=1054&utm_source=git)** | Lake Forest, California, United States | On Site | Feb 19 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 19 |
 | **[PROtect LLC](https://protect.llc/)** | **[People Systems & Process Documentation HR Intern](https://jobright.ai/jobs/info/6997e95a81476f6176b03202?utm_campaign=1054&utm_source=git)** | Corporate - Wichita, KS, 3815 S Midco St, Wichita, Kansas, United States of America | On Site | Feb 19 |
 | **[Loenbro](http://loenbro.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6997cca8e0bddb6acac693f4?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 19 |
-| **[Grimmway Produce Group](http://www.grimmway.com)** | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997cb2481476f6176aff9a1?utm_campaign=1054&utm_source=git)** | 12064 Buena Vista Blvd. | On Site | Feb 19 |
-| ↳ | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997cf7681476f6176b0004d?utm_campaign=1054&utm_source=git)** | US-CA-Arvin | On Site | Feb 19 |
+| **[Grimmway Produce Group](http://www.grimmway.com)** | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997cf7681476f6176b0004d?utm_campaign=1054&utm_source=git)** | US-CA-Arvin | On Site | Feb 19 |
+| ↳ | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997cb2481476f6176aff9a1?utm_campaign=1054&utm_source=git)** | 12064 Buena Vista Blvd. | On Site | Feb 19 |
 | ↳ | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997daddce78e77b4fdc4dc3?utm_campaign=1054&utm_source=git)** | 93203 | On Site | Feb 19 |
 | **[Loenbro](http://loenbro.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6997c5c3ce78e77b4fdc2afb?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 19 |
 | ↳ | **[People Operations & Organization Development Intern](https://jobright.ai/jobs/info/6997bb9dce78e77b4fdc19a4?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Interac Corp.](http://www.interac.ca)** | **[People & Culture Intern (Talent Programs + Platforms & Technology)](https://jobright.ai/jobs/info/6997444a81476f6176af5d9b?utm_campaign=1054&utm_source=git)** | Toronto | Hybrid | Feb 19 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Exec Director-Apprenticeship & Workforce Solutions](https://jobright.ai/jobs/info/699742fee0bddb6acac5f792?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6997396be0bddb6acac5ee97?utm_campaign=1054&utm_source=git)** | Corporate_Cove | On Site | Feb 19 |
-| ↳ | **[Organizational Development Internship](https://jobright.ai/jobs/info/6997393fce78e77b4fdb8a54?utm_campaign=1054&utm_source=git)** | Corporate_Cove | On Site | Feb 19 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Human Resources)](https://jobright.ai/jobs/info/69972f8981476f6176af49ab?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Feb 19 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[People eXperience Intern](https://jobright.ai/jobs/info/69972e21ce78e77b4fdb81e3?utm_campaign=1054&utm_source=git)** | Ohio, United States | Hybrid | Feb 19 |
-| **[T. A. Loving Company](https://www.taloving.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69716827587dfa0bb55f08a0?utm_campaign=1054&utm_source=git)** | Goldsboro, NC | On Site | Feb 19 |
-| **[CommScope](http://www.commscope.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697a6cc48dbbf73badc79077?utm_campaign=1054&utm_source=git)** | Claremont, NC | On Site | Feb 19 |
-| **[ISACA](http://www.isaca.org)** | **[Intern, Credentialing](https://jobright.ai/jobs/info/699714b8e0bddb6acac5cd95?utm_campaign=1054&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
