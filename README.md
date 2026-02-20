@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (San Diego)](https://jobright.ai/jobs/info/6993526581476f6176aafd5b?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Feb 20 |
+| **[rand* construction corporation](http://randcc.com)** | **[HR Intern - Alexandria, VA](https://jobright.ai/jobs/info/690bca90221b890c277f848a?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Feb 20 |
+| **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Benefits Analyst– Client Services Team (Intern – Flex)](https://jobright.ai/jobs/info/699850ce81476f6176b0c2ac?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 20 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/699344a2e0bddb6acac188f3?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 20 |
 | **[FetchJobs.co](https://www.fetchjobs.co)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699838f1ce78e77b4fdcedf8?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Summer 2026](https://jobright.ai/jobs/info/68d1ed048c62e63bc7fd1214?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Feb 20 |
 | **[Balchem Corporation](http://balchem.com)** | **[HR Generalist Intern/Co-Op](https://jobright.ai/jobs/info/697b98e80b88cc7d642255df?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Feb 20 |
@@ -100,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[PROtect LLC](https://protect.llc/)** | **[People Systems & Process Documentation HR Intern](https://jobright.ai/jobs/info/6997e95a81476f6176b03202?utm_campaign=1054&utm_source=git)** | Corporate - Wichita, KS, 3815 S Midco St, Wichita, Kansas, United States of America | On Site | Feb 19 |
 | **[Loenbro](http://loenbro.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6997cca8e0bddb6acac693f4?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 19 |
 | **[Grimmway Produce Group](http://www.grimmway.com)** | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997cb2481476f6176aff9a1?utm_campaign=1054&utm_source=git)** | 12064 Buena Vista Blvd. | On Site | Feb 19 |
-| ↳ | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997daddce78e77b4fdc4dc3?utm_campaign=1054&utm_source=git)** | 93203 | On Site | Feb 19 |
 | ↳ | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997cf7681476f6176b0004d?utm_campaign=1054&utm_source=git)** | US-CA-Arvin | On Site | Feb 19 |
+| ↳ | **[Human Resources Internship 2026](https://jobright.ai/jobs/info/6997daddce78e77b4fdc4dc3?utm_campaign=1054&utm_source=git)** | 93203 | On Site | Feb 19 |
 | **[Loenbro](http://loenbro.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6997c5c3ce78e77b4fdc2afb?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 19 |
 | ↳ | **[People Operations & Organization Development Intern](https://jobright.ai/jobs/info/6997bb9dce78e77b4fdc19a4?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 19 |
 | **[MBH Architects](https://www.mbharch.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697242349b83b424830e2f6d?utm_campaign=1054&utm_source=git)** | Alameda, CA | On Site | Feb 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Human Resources/Recruitment](https://jobright.ai/jobs/info/6997653981476f6176af844a?utm_campaign=1054&utm_source=git)** | Danville, PA | On Site | Feb 19 |
 | **[The Breakers Palm Beach](https://www.thebreakers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699761c481476f6176af8212?utm_campaign=1054&utm_source=git)** | Palm Beach, FL | On Site | Feb 19 |
 | **[Geneva Trading](https://geneva-trading.com)** | **[HR Programs & Operations Intern](https://jobright.ai/jobs/info/6997923ece78e77b4fdbe1e7?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
-| **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[HRIS Intern - Human Resources](https://jobright.ai/jobs/info/6997a0d5ce78e77b4fdbf609?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Feb 19 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern (Titus NorCal) 2025 - 2026](https://jobright.ai/jobs/info/69979dcbe0bddb6acac64fbc?utm_campaign=1054&utm_source=git)** | WA_Seattle_825085 | On Site | Feb 19 |
-| **[5WPR](http://www.5wpr.com)** | **[People Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69977a9881476f6176af9767?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 19 |
-| **[telMAX Inc.](https://telmax.com)** | **[People Operations Coordinator Co-op - Summer Term (4 Months)](https://jobright.ai/jobs/info/69981ae2ce78e77b4fdcc151?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
