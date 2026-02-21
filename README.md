@@ -58,8 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6999107ece78e77b4fddac2d?utm_campaign=1054&utm_source=git)** | 223 Pine Road, Powdersville, SC, USA | On Site | Feb 20 |
+| **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/699916ade0bddb6acac810a0?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Feb 20 |
+| **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Schedule](https://jobright.ai/jobs/info/69991600ce78e77b4fddb64f?utm_campaign=1054&utm_source=git)** | Schaumburg, Illinois, United States | Hybrid | Feb 20 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Learning & Organizational Development Intern](https://jobright.ai/jobs/info/6998ee5781476f6176b1564e?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Feb 20 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Benefit Intern](https://jobright.ai/jobs/info/6998e5afce78e77b4fdd72d4?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Feb 20 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699912f881476f6176b188cc?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 20 |
 | **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977dd2afdeb8243a27acf6d?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Feb 20 |
 | **[Martin's Point Health Care](http://martinspoint.org)** | **[Organizational Development Summer Intern](https://jobright.ai/jobs/info/6998fc6ee0bddb6acac7ef88?utm_campaign=1054&utm_source=git)** | Portland, ME | Hybrid | Feb 20 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Intern, Healthcare Administrative/Business - Geisinger St. Luke's](https://jobright.ai/jobs/info/6998fbd181476f6176b16c4c?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA - 100 Paramount Blvd | On Site | Feb 20 |
@@ -143,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[STR](https://www.str.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6968ddc1639b452fb57ea900?utm_campaign=1054&utm_source=git)** | Woburn, MA | Hybrid | Feb 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69341845a0dde7020e2f4357?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Feb 20 |
 | ↳ | **[Management Trainee Summer Internship - Salt Lake City](https://jobright.ai/jobs/info/69608694a112b402660f3b59?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 20 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 HR/Payroll Internship](https://jobright.ai/jobs/info/699887f0ce78e77b4fdd2999?utm_campaign=1054&utm_source=git)** | USA PA New Castle | Hybrid | Feb 20 |
-| ↳ | **[Summer 2026 HR/Payroll Internship](https://jobright.ai/jobs/info/69988723e0bddb6acac784c3?utm_campaign=1054&utm_source=git)** | USA PA Pittsburgh | Hybrid | Feb 20 |
+| **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 HR/Payroll Internship](https://jobright.ai/jobs/info/69988723e0bddb6acac784c3?utm_campaign=1054&utm_source=git)** | USA PA Pittsburgh | Hybrid | Feb 20 |
+| ↳ | **[Summer 2026 HR/Payroll Internship](https://jobright.ai/jobs/info/699887f0ce78e77b4fdd2999?utm_campaign=1054&utm_source=git)** | USA PA New Castle | Hybrid | Feb 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/693d0c9650bbaf7650503588?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Feb 20 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program –Business Enablement Operations – Intern](https://jobright.ai/jobs/info/69603a117ebc25398eb63c5f?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Feb 20 |
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/696049f1a1bbea1d9a7b2da2?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Benefits Analyst– Client Services Team (Intern – Flex)](https://jobright.ai/jobs/info/699850ce81476f6176b0c2ac?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/699344a2e0bddb6acac188f3?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 20 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Summer 2026](https://jobright.ai/jobs/info/68d1ed048c62e63bc7fd1214?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Feb 20 |
-| **[Balchem Corporation](http://balchem.com)** | **[HR Generalist Intern/Co-Op](https://jobright.ai/jobs/info/697b98e80b88cc7d642255df?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Feb 20 |
-| **[Coinbase](https://www.coinbase.com)** | **[Employee & Workplace Experience Intern](https://jobright.ai/jobs/info/6921828f3f782d2f1afd29e2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/6960c0e3a112b402660f6291?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
