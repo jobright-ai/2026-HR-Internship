@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Acceptance Insurance](https://firstacceptance.com)** | **[2026 FAC Summer Internship](https://jobright.ai/jobs/info/69996e06e0bddb6acac8abff?utm_campaign=1054&utm_source=git)** | Nashville, TN 37215, USA | Hybrid | Feb 20 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | New York | Remote | Feb 20 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Service Delivery Data, Emerging Talent Intern](https://jobright.ai/jobs/info/69994c6d81476f6176b1eb65?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Feb 20 |
 | **[Seaspan Corporation](http://www.seaspancorp.com/index.php)** | **[Crew Management Intern](https://jobright.ai/jobs/info/6999273cce78e77b4fddd798?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
@@ -111,11 +112,10 @@ For a complete list, click the following sortable link below:
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – People & Culture, UFC](https://jobright.ai/jobs/info/6998e2c3e0bddb6acac7cd16?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (HR Total Rewards) Hybrid Schedule](https://jobright.ai/jobs/info/6998da6ece78e77b4fdd6aac?utm_campaign=1054&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6998da4bce78e77b4fdd6a79?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Feb 20 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6998eb40e0bddb6acac7d64d?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Trenton | Hybrid | Feb 20 |
-| ↳ | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6999046c81476f6176b17910?utm_campaign=1054&utm_source=git)** | USA - New Jersey - West Trenton | Hybrid | Feb 20 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6999046c81476f6176b17910?utm_campaign=1054&utm_source=git)** | USA - New Jersey - West Trenton | Hybrid | Feb 20 |
+| ↳ | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6998eb40e0bddb6acac7d64d?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Trenton | Hybrid | Feb 20 |
 | **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/6998b134e0bddb6acac7a51b?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 20 |
 | **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998d83781476f6176b140f3?utm_campaign=1054&utm_source=git)** | Canton, MA | Hybrid | Feb 20 |
-| **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship](https://jobright.ai/jobs/info/6998e822e0bddb6acac7d162?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Feb 20 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/697bd74d1136d179eeef65e9?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Feb 20 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6998ab37ce78e77b4fdd4659?utm_campaign=1054&utm_source=git)** | Paramus, NJ | On Site | Feb 20 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[People & Culture Intern FR](https://jobright.ai/jobs/info/699364a481476f6176ab0516?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Feb 20 |
