@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Feb 21 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Feb 21 |
 | **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d7429727747250d585cdd?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Feb 21 |
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d78033f57a33569676252?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
 | ↳ | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d70d83f57a335696755a1?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | Feb 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026*](https://jobright.ai/jobs/info/6998dfaece78e77b4fdd6f6a?utm_campaign=1054&utm_source=git)** | Indianapolis, Indiana | On Site | Feb 20 |
 | **[National Hockey League (NHL)](http://senators.nhl.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6998a805ce78e77b4fdd425b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Food and Beverage Staffing Internship](https://jobright.ai/jobs/info/6998dcb081476f6176b144df?utm_campaign=1054&utm_source=git)** | New Braunfels, TX, US | On Site | Feb 20 |
-| **[State of Ohio](https://development.ohio.gov/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/6998a508ce78e77b4fdd3f1f?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Cuyahoga County-Highland Hills | On Site | Feb 20 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Employer Communications](https://jobright.ai/jobs/info/6998c4d5e0bddb6acac7b377?utm_campaign=1054&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
