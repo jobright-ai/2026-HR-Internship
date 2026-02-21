@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d7590137a051025669872?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Miami Lakes](https://jobright.ai/jobs/info/697d35ab3f57a33569670392?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Feb 21 |
+| ↳ | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d39093f57a33569670778?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Feb 21 |
+| ↳ | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/6933eff6f131d96e484687ed?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Feb 21 |
+| ↳ | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/6933ba44f131d96e484665be?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Feb 21 |
+| **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f14489f462172a5a7d5721?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Feb 21 |
+| **[Amazon](https://amazon.com)** | **[HR Intern - Germany](https://jobright.ai/jobs/info/6961c994a112b402661056fa?utm_campaign=1054&utm_source=git)** | St Georges, DE | On Site | Feb 21 |
+| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6961a3bce7ed9a5731ba7a96?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | Hybrid | Feb 21 |
+| **[Lids](https://www.lids.com)** | **[Summer 2026 - Human Resources Intern](https://jobright.ai/jobs/info/697ded9dabff4c399a9cb799?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 21 |
 | **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/697d7084137a051025669376?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Feb 21 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Human Resources Internship (Labor Relations) - Las Vegas](https://jobright.ai/jobs/info/697d38fc137a051025664737?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 21 |
 | **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Human Resources - Learning and Development](https://jobright.ai/jobs/info/6961df17a112b402661062c4?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Feb 21 |
@@ -87,7 +96,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6999449bce78e77b4fde0608?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 20 |
 | **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699950cee0bddb6acac87769?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Feb 20 |
 | **[AAA Northeast](http://www.aaa.com)** | **[Human Resources Internship (58001)](https://jobright.ai/jobs/info/6994e1c3ce78e77b4fd8f1e7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Feb 20 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/699934f7e0bddb6acac844d8?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 20 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026*](https://jobright.ai/jobs/info/69993c3981476f6176b1caeb?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 20 |
 | **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6999107ece78e77b4fddac2d?utm_campaign=1054&utm_source=git)** | 223 Pine Road, Powdersville, SC, USA | On Site | Feb 20 |
 | **[DART Aerospace](https://www.dartaerospace.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69993489ce78e77b4fddedb4?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 20 |
@@ -99,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/69995068ce78e77b4fde1a9d?utm_campaign=1054&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
 | ↳ | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/6999311d81476f6176b1bb6d?utm_campaign=1054&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
 | **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69991cc8e0bddb6acac81bb3?utm_campaign=1054&utm_source=git)** | Lincoln,NE,US | On Site | Feb 20 |
-| **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
+| **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
+| ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999536ee0bddb6acac87c2c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 20 |
 | ↳ | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69992456e0bddb6acac82a09?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Service Delivery Data, Emerging Talent Intern](https://jobright.ai/jobs/info/6998c6b6e0bddb6acac7b52d?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (HR Total Rewards) Hybrid Schedule](https://jobright.ai/jobs/info/6998e0ed81476f6176b14771?utm_campaign=1054&utm_source=git)** | Glen Allen, Virginia, United States | Hybrid | Feb 20 |
 | **[DULCEDO Management](https://www.dulcedo.com)** | **[Talent Agent Assistant](https://jobright.ai/jobs/info/6998d18ace78e77b4fdd6234?utm_campaign=1054&utm_source=git)** | Toronto | Remote | Feb 20 |
-| **[State of Ohio](https://development.ohio.gov/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/6998a059ce78e77b4fdd3b13?utm_campaign=1054&utm_source=git)** | Cuyahoga Juvenile Correctional4321 Green Road | On Site | Feb 20 |
-| **[Multiquip Inc.](http://multiquip.com)** | **[Human Recourses Intern](https://jobright.ai/jobs/info/6998d49fce78e77b4fdd650a?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Feb 20 |
-| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/699897e2e0bddb6acac7960e?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Feb 20 |
-| **[The Citco Group Limited](https://www.citco.com)** | **[HR Intern - Summer Internship](https://jobright.ai/jobs/info/6998b8cae0bddb6acac7aaf3?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Feb 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Newburgh, NY](https://jobright.ai/jobs/info/697c3dfd1423772304ecb52f?utm_campaign=1054&utm_source=git)** | Newburgh, NY | On Site | Feb 20 |
-| **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern (Onsite)](https://jobright.ai/jobs/info/68f01e9778ba1621431e1fa7?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 20 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Internship Program Development Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/69434bf6dd382f5f56694bb3?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Feb 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Greenwood/Franklin](https://jobright.ai/jobs/info/68d52eb71ecb447aa43e81bd?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
