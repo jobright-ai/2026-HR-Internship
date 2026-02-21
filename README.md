@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRUMPF North America](https://www.us.trumpf.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d5c58137a051025667c0e?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Feb 21 |
+| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Strategic Development Intern](https://jobright.ai/jobs/info/697d6511137a05102566861a?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Feb 21 |
+| **[Enlyte](https://www.enlyte.com/)** | **[Learning and Organizational Development Intern](https://jobright.ai/jobs/info/697d4dee137a051025665a53?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 21 |
+| **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d3e89137a051025664ebb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Feb 21 |
+| **[EAC Network](https://eac-network.org/)** | **[Recruitment Intern (Remote)](https://jobright.ai/jobs/info/69997e6ace78e77b4fde68b3?utm_campaign=1054&utm_source=git)** | 99 Quentin Roosevelt Blvd Suite 200, Garden City, NY, 11530 - Garden City, NY 11530 | Remote | Feb 21 |
 | **[First Acceptance Insurance](https://firstacceptance.com)** | **[2026 FAC Summer Internship](https://jobright.ai/jobs/info/69996e06e0bddb6acac8abff?utm_campaign=1054&utm_source=git)** | Nashville, TN 37215, USA | Hybrid | Feb 20 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | New York | Remote | Feb 20 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Service Delivery Data, Emerging Talent Intern](https://jobright.ai/jobs/info/69994c6d81476f6176b1eb65?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Feb 20 |
@@ -78,13 +83,13 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69995dfa81476f6176b20814?utm_campaign=1054&utm_source=git)** | New York City, New York, NY, US | Hybrid | Feb 20 |
 | **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/699916ade0bddb6acac810a0?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Feb 20 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Schedule](https://jobright.ai/jobs/info/69991600ce78e77b4fddb64f?utm_campaign=1054&utm_source=git)** | Schaumburg, Illinois, United States | Hybrid | Feb 20 |
-| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/69995068ce78e77b4fde1a9d?utm_campaign=1054&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
-| ↳ | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/6999311d81476f6176b1bb6d?utm_campaign=1054&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
+| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/6999311d81476f6176b1bb6d?utm_campaign=1054&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
+| ↳ | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/69995068ce78e77b4fde1a9d?utm_campaign=1054&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
 | **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69991cc8e0bddb6acac81bb3?utm_campaign=1054&utm_source=git)** | Lincoln,NE,US | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
 | ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
-| ↳ | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999536ee0bddb6acac87c2c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 20 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999536ee0bddb6acac87c2c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 20 |
+| ↳ | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69992456e0bddb6acac82a09?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 20 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op/Intern](https://jobright.ai/jobs/info/69991f2281476f6176b19ea8?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Feb 20 |
 | **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/69992845e0bddb6acac83185?utm_campaign=1054&utm_source=git)** | Powdersville, SC | On Site | Feb 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69956756ce78e77b4fd9924d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Nashville](https://jobright.ai/jobs/info/690ab44f4a1b456627b0a6bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Feb 20 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6933cb2bf131d96e48466fd8?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Feb 20 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Feb 20 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics and Systems](https://jobright.ai/jobs/info/69988423e0bddb6acac77ea1?utm_campaign=1054&utm_source=git)** | Columbia, MO | Remote | Feb 20 |
-| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Human Resources (Houston, TX)](https://jobright.ai/jobs/info/697bdd6f1423772304ec17eb?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 20 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 HR/Payroll Internship](https://jobright.ai/jobs/info/6998829281476f6176b0f1c2?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | Hybrid | Feb 20 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 HR/Payroll Internship](https://jobright.ai/jobs/info/6998826b81476f6176b0f1b2?utm_campaign=1054&utm_source=git)** | USA PA Remote | Remote | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
