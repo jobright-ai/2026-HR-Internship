@@ -58,9 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6999107ece78e77b4fddac2d?utm_campaign=1054&utm_source=git)** | 223 Pine Road, Powdersville, SC, USA | On Site | Feb 20 |
+| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/69991b55e0bddb6acac818ec?utm_campaign=1054&utm_source=git)** | Delano, CA | On Site | Feb 20 |
 | **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/699916ade0bddb6acac810a0?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Feb 20 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Schedule](https://jobright.ai/jobs/info/69991600ce78e77b4fddb64f?utm_campaign=1054&utm_source=git)** | Schaumburg, Illinois, United States | Hybrid | Feb 20 |
+| **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69991cc8e0bddb6acac81bb3?utm_campaign=1054&utm_source=git)** | Lincoln,NE,US | On Site | Feb 20 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Learning & Organizational Development Intern](https://jobright.ai/jobs/info/6998ee5781476f6176b1564e?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Feb 20 |
+| **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/69991763e0bddb6acac811cf?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Benefit Intern](https://jobright.ai/jobs/info/6998e5afce78e77b4fdd72d4?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Feb 20 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699912f881476f6176b188cc?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 20 |
 | **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977dd2afdeb8243a27acf6d?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Feb 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[INTERNSHIP DEVELOPMENT PROFESSIONAL HR](https://jobright.ai/jobs/info/691accc845fb6f5ead8ade42?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (San Diego)](https://jobright.ai/jobs/info/6993526581476f6176aafd5b?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Feb 20 |
 | **[rand* construction corporation](http://randcc.com)** | **[HR Intern - Alexandria, VA](https://jobright.ai/jobs/info/690bca90221b890c277f848a?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Feb 20 |
-| **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Benefits Analyst– Client Services Team (Intern – Flex)](https://jobright.ai/jobs/info/699850ce81476f6176b0c2ac?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 20 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/699344a2e0bddb6acac188f3?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 20 |
-| **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Summer 2026](https://jobright.ai/jobs/info/68d1ed048c62e63bc7fd1214?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
