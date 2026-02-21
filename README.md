@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6999107ece78e77b4fddac2d?utm_campaign=1054&utm_source=git)** | 223 Pine Road, Powdersville, SC, USA | On Site | Feb 20 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Learning & Organizational Development Intern](https://jobright.ai/jobs/info/6998ee5781476f6176b1564e?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Feb 20 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Benefit Intern](https://jobright.ai/jobs/info/6998e5afce78e77b4fdd72d4?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Feb 20 |
 | **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977dd2afdeb8243a27acf6d?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Feb 20 |
@@ -76,7 +77,8 @@ For a complete list, click the following sortable link below:
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – People & Culture, UFC](https://jobright.ai/jobs/info/6998e2c3e0bddb6acac7cd16?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (HR Total Rewards) Hybrid Schedule](https://jobright.ai/jobs/info/6998da6ece78e77b4fdd6aac?utm_campaign=1054&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6998da4bce78e77b4fdd6a79?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Feb 20 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6998eb40e0bddb6acac7d64d?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Trenton | Hybrid | Feb 20 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6999046c81476f6176b17910?utm_campaign=1054&utm_source=git)** | USA - New Jersey - West Trenton | Hybrid | Feb 20 |
+| ↳ | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6998eb40e0bddb6acac7d64d?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Trenton | Hybrid | Feb 20 |
 | **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/6998b134e0bddb6acac7a51b?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 20 |
 | **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998d83781476f6176b140f3?utm_campaign=1054&utm_source=git)** | Canton, MA | Hybrid | Feb 20 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship](https://jobright.ai/jobs/info/6998e822e0bddb6acac7d162?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Feb 20 |
@@ -96,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (HR Total Rewards) Hybrid Schedule](https://jobright.ai/jobs/info/6998e0ed81476f6176b14771?utm_campaign=1054&utm_source=git)** | Glen Allen, Virginia, United States | Hybrid | Feb 20 |
 | **[DULCEDO Management](https://www.dulcedo.com)** | **[Talent Agent Assistant](https://jobright.ai/jobs/info/6998d18ace78e77b4fdd6234?utm_campaign=1054&utm_source=git)** | Toronto | Remote | Feb 20 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/6998a059ce78e77b4fdd3b13?utm_campaign=1054&utm_source=git)** | Cuyahoga Juvenile Correctional4321 Green Road | On Site | Feb 20 |
+| **[Multiquip Inc.](http://multiquip.com)** | **[Human Recourses Intern](https://jobright.ai/jobs/info/6998d49fce78e77b4fdd650a?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Feb 20 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/699897e2e0bddb6acac7960e?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Feb 20 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[HR Intern - Summer Internship](https://jobright.ai/jobs/info/6998b8cae0bddb6acac7aaf3?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Feb 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Newburgh, NY](https://jobright.ai/jobs/info/697c3dfd1423772304ecb52f?utm_campaign=1054&utm_source=git)** | Newburgh, NY | On Site | Feb 20 |
@@ -137,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[S&T Bank](https://www.stbank.com/)** | **[Intern- Employee Services](https://jobright.ai/jobs/info/696ced505fc86241853c0125?utm_campaign=1054&utm_source=git)** | Indiana, PA | On Site | Feb 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026 - Bilingual](https://jobright.ai/jobs/info/69291bc591ceeb2e8a546f97?utm_campaign=1054&utm_source=git)** | Dieppe, New Brunswick, Canada | On Site | Feb 20 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69434a2794730b7398765963?utm_campaign=1054&utm_source=git)** | La Porte, IN | On Site | Feb 20 |
-| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/697c08d30b88cc7d6422f61b?utm_campaign=1054&utm_source=git)** | Delano, CA | On Site | Feb 20 |
 | **[STR](https://www.str.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6968ddc1639b452fb57ea900?utm_campaign=1054&utm_source=git)** | Woburn, MA | Hybrid | Feb 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69341845a0dde7020e2f4357?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Feb 20 |
 | ↳ | **[Management Trainee Summer Internship - Salt Lake City](https://jobright.ai/jobs/info/69608694a112b402660f3b59?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Balchem Corporation](http://balchem.com)** | **[HR Generalist Intern/Co-Op](https://jobright.ai/jobs/info/697b98e80b88cc7d642255df?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Feb 20 |
 | **[Coinbase](https://www.coinbase.com)** | **[Employee & Workplace Experience Intern](https://jobright.ai/jobs/info/6921828f3f782d2f1afd29e2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/6960c0e3a112b402660f6291?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 20 |
-| **[Price Industries](https://www.priceindustries.com)** | **[Intern - Human Resources Generalist - Summer 2026](https://jobright.ai/jobs/info/69601cdca1bbea1d9a7aeb86?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Feb 20 |
-| **[Culligan International](http://www.culligan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69607e0b7ebc25398eb66f1b?utm_campaign=1054&utm_source=git)** | Libertyville, IL | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
