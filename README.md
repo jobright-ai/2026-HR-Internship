@@ -58,11 +58,14 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | New York | Remote | Feb 20 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Service Delivery Data, Emerging Talent Intern](https://jobright.ai/jobs/info/69994c6d81476f6176b1eb65?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Feb 20 |
 | **[Seaspan Corporation](http://www.seaspancorp.com/index.php)** | **[Crew Management Intern](https://jobright.ai/jobs/info/6999273cce78e77b4fddd798?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/699925ad81476f6176b1a9fe?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Feb 20 |
 | **[J.M. Huber Corporation](http://www.huber.com)** | **[HRIS Co-Op](https://jobright.ai/jobs/info/69992539ce78e77b4fddd2b8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Schedule](https://jobright.ai/jobs/info/699924b0e0bddb6acac82acb?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 20 |
-| **[Highgate](https://www.highgate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6999449bce78e77b4fde0608?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 20 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/69994aecce78e77b4fde118d?utm_campaign=1054&utm_source=git)** | Trenton, NJ | Hybrid | Feb 20 |
+| **[Highgate](https://www.highgate.com)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/69994d1981476f6176b1ee6a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 20 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6999449bce78e77b4fde0608?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 20 |
 | **[AAA Northeast](http://www.aaa.com)** | **[Human Resources Internship (58001)](https://jobright.ai/jobs/info/6994e1c3ce78e77b4fd8f1e7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Feb 20 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/699934f7e0bddb6acac844d8?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 20 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026*](https://jobright.ai/jobs/info/69993c3981476f6176b1caeb?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 20 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69991cc8e0bddb6acac81bb3?utm_campaign=1054&utm_source=git)** | Lincoln,NE,US | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
 | ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69992456e0bddb6acac82a09?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 20 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op/Intern](https://jobright.ai/jobs/info/69991f2281476f6176b19ea8?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Feb 20 |
 | **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/69992845e0bddb6acac83185?utm_campaign=1054&utm_source=git)** | Powdersville, SC | On Site | Feb 20 |
@@ -103,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – People & Culture, UFC](https://jobright.ai/jobs/info/6998e2c3e0bddb6acac7cd16?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (HR Total Rewards) Hybrid Schedule](https://jobright.ai/jobs/info/6998da6ece78e77b4fdd6aac?utm_campaign=1054&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6998da4bce78e77b4fdd6a79?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Feb 20 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6998eb40e0bddb6acac7d64d?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Trenton | Hybrid | Feb 20 |
-| ↳ | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6999046c81476f6176b17910?utm_campaign=1054&utm_source=git)** | USA - New Jersey - West Trenton | Hybrid | Feb 20 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6999046c81476f6176b17910?utm_campaign=1054&utm_source=git)** | USA - New Jersey - West Trenton | Hybrid | Feb 20 |
+| ↳ | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6998eb40e0bddb6acac7d64d?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Trenton | Hybrid | Feb 20 |
 | **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/6998b134e0bddb6acac7a51b?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 20 |
 | **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998d83781476f6176b140f3?utm_campaign=1054&utm_source=git)** | Canton, MA | Hybrid | Feb 20 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship](https://jobright.ai/jobs/info/6998e822e0bddb6acac7d162?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Feb 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Citco Group Limited](https://www.citco.com)** | **[HR Intern - Summer Internship](https://jobright.ai/jobs/info/699880d8ce78e77b4fdd1cc1?utm_campaign=1054&utm_source=git)** | Harborside Plaza 10, Jersey City, NJ, 07311, US | On Site | Feb 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/697c8bdf137a051025658c24?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 20 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[HR Manufacturing Sprin/Summer 2026 Intern](https://jobright.ai/jobs/info/69987df5ce78e77b4fdd182d?utm_campaign=1054&utm_source=git)** | Butler, IN | On Site | Feb 20 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 HR/Payroll Internship](https://jobright.ai/jobs/info/69987c5de0bddb6acac773a9?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/692919bed47de4798ece44bd?utm_campaign=1054&utm_source=git)** | Saint John, New Brunswick, Canada | On Site | Feb 20 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Mishawaka/South Bend](https://jobright.ai/jobs/info/68d4c9faffc1276de3fde1fc?utm_campaign=1054&utm_source=git)** | South Bend, IN | On Site | Feb 20 |
-| ↳ | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/69608e35a112b402660f3f46?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
