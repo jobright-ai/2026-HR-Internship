@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/68f37e1476a51a4307bce6b9?utm_campaign=1054&utm_source=git)** | Cactus, TX | On Site | Feb 22 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68b9c6548043103d4f21a3e3?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Feb 22 |
+| ↳ | **[Summer 2026 Management Internship - Seacoast, NH Area](https://jobright.ai/jobs/info/68bace706105227d118a0a13?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Feb 22 |
+| ↳ | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/6933cd31a0dde7020e2f1ea3?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Feb 22 |
+| ↳ | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Feb 22 |
+| ↳ | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Feb 22 |
+| ↳ | **[Summer 2026 Management Trainee Intern Cookeville](https://jobright.ai/jobs/info/68f1a307ef766b3f0fd104bb?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Feb 22 |
+| **[Arrow Financial Corporation](http://www.arrowfinancial.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699b0c0ece78e77b4fdfd01f?utm_campaign=1054&utm_source=git)** | Glens Falls, NY | On Site | Feb 22 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c897c5f9c6ff7aedf107cb?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Feb 22 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - HR](https://jobright.ai/jobs/info/6963557d25e18715077fed20?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 22 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/697dffc3abff4c399a9cc346?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Feb 22 |
@@ -72,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 21 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/699aa3d681476f6176b3451f?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 21 |
 | **[CollisionRight](https://collisionright.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/699a85c8e0bddb6acac9990e?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Feb 21 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a68b881476f6176b2fe8b?utm_campaign=1054&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
-| ↳ | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a682ee0bddb6acac97a0a?utm_campaign=1054&utm_source=git)** | Austin GLO Main FL71700 N Congress Ave | On Site | Feb 21 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a682ee0bddb6acac97a0a?utm_campaign=1054&utm_source=git)** | Austin GLO Main FL71700 N Congress Ave | On Site | Feb 21 |
+| ↳ | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a68b881476f6176b2fe8b?utm_campaign=1054&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Commerce, California, United States | On Site | Feb 21 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Feb 21 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Feb 21 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Talent Relations Intern, Summer/Fall 2026ll 2026](https://jobright.ai/jobs/info/69992c60ce78e77b4fdde199?utm_campaign=1054&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 20 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Benefit Intern](https://jobright.ai/jobs/info/6998e5afce78e77b4fdd72d4?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Feb 20 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699912f881476f6176b188cc?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 20 |
-| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/699920c7ce78e77b4fddcaca?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 20 |
-| **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977dd2afdeb8243a27acf6d?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Feb 20 |
-| **[Martin's Point Health Care](http://martinspoint.org)** | **[Organizational Development Summer Intern](https://jobright.ai/jobs/info/6998fc6ee0bddb6acac7ef88?utm_campaign=1054&utm_source=git)** | Portland, ME | Hybrid | Feb 20 |
-| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Intern, Healthcare Administrative/Business - Geisinger St. Luke's](https://jobright.ai/jobs/info/6998fbd181476f6176b16c4c?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA - 100 Paramount Blvd | On Site | Feb 20 |
-| **[Independence Physician Management (IPM)](http://www.uhs.com/ipm)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cd12e0bddb6acac7b915?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Feb 20 |
-| **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Sched](https://jobright.ai/jobs/info/6998fb61ce78e77b4fdd9557?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 20 |
-| **[Badger Meter](http://badgermeter.com)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/6998c976ce78e77b4fdd5b36?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 20 |
-| **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Teammate Experience) Hybrid Schedule](https://jobright.ai/jobs/info/6998c910ce78e77b4fdd5ac1?utm_campaign=1054&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
