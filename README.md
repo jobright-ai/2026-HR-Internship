@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio Department of Youth Services](http://www.dys.ohio.gov)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/6998ccace0bddb6acac7b8d4?utm_campaign=1054&utm_source=git)** | Highland Hills, OH | On Site | Feb 22 |
+| **[Ohio Cat](http://www.ohiocat.com)** | **[Human Resource Paid Internship](https://jobright.ai/jobs/info/699ac15d81476f6176b35b38?utm_campaign=1054&utm_source=git)** | Broadview Heights, OH | On Site | Feb 22 |
+| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/697040b851f726477182718d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Feb 22 |
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 21 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/699aa3d681476f6176b3451f?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 21 |
 | **[CollisionRight](https://collisionright.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/699a85c8e0bddb6acac9990e?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Feb 21 |
@@ -141,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Martin's Point Health Care](http://martinspoint.org)** | **[Organizational Development Summer Intern](https://jobright.ai/jobs/info/6998fc6ee0bddb6acac7ef88?utm_campaign=1054&utm_source=git)** | Portland, ME | Hybrid | Feb 20 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Intern, Healthcare Administrative/Business - Geisinger St. Luke's](https://jobright.ai/jobs/info/6998fbd181476f6176b16c4c?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA - 100 Paramount Blvd | On Site | Feb 20 |
 | **[Independence Physician Management (IPM)](http://www.uhs.com/ipm)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cd12e0bddb6acac7b915?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Feb 20 |
-| **[Ohio Department of Youth Services](http://www.dys.ohio.gov)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/6998ccace0bddb6acac7b8d4?utm_campaign=1054&utm_source=git)** | Highland Hills, OH | On Site | Feb 20 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Sched](https://jobright.ai/jobs/info/6998fb61ce78e77b4fdd9557?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 20 |
 | **[Badger Meter](http://badgermeter.com)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/6998c976ce78e77b4fdd5b36?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Teammate Experience) Hybrid Schedule](https://jobright.ai/jobs/info/6998c910ce78e77b4fdd5ac1?utm_campaign=1054&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – People & Culture, UFC](https://jobright.ai/jobs/info/6998e2c3e0bddb6acac7cd16?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (HR Total Rewards) Hybrid Schedule](https://jobright.ai/jobs/info/6998da6ece78e77b4fdd6aac?utm_campaign=1054&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6998da4bce78e77b4fdd6a79?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Feb 20 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6998eb40e0bddb6acac7d64d?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Trenton | Hybrid | Feb 20 |
-| ↳ | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6999046c81476f6176b17910?utm_campaign=1054&utm_source=git)** | USA - New Jersey - West Trenton | Hybrid | Feb 20 |
-| **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/6998b134e0bddb6acac7a51b?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 20 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/6999046c81476f6176b17910?utm_campaign=1054&utm_source=git)** | USA - New Jersey - West Trenton | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
