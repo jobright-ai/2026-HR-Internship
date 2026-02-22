@@ -118,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69991cc8e0bddb6acac81bb3?utm_campaign=1054&utm_source=git)** | Lincoln,NE,US | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
 | ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999536ee0bddb6acac87c2c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 20 |
-| ↳ | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
+| ↳ | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999536ee0bddb6acac87c2c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 20 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69992456e0bddb6acac82a09?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 20 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op/Intern](https://jobright.ai/jobs/info/69991f2281476f6176b19ea8?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Feb 20 |
 | **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/69992845e0bddb6acac83185?utm_campaign=1054&utm_source=git)** | Powdersville, SC | On Site | Feb 20 |
