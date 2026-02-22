@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c897c5f9c6ff7aedf107cb?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Feb 22 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - HR](https://jobright.ai/jobs/info/6963557d25e18715077fed20?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 22 |
+| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/697dffc3abff4c399a9cc346?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Feb 22 |
+| **[X, The Moonshot Factory](https://x.company)** | **[2026 People Experience and Employee Insights Internship (Tapestry)](https://jobright.ai/jobs/info/697e6bccce48107c0542a279?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Feb 22 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Member Services Summer Intern](https://jobright.ai/jobs/info/697f0d1ece48107c05432c39?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 22 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[HR Intern](https://jobright.ai/jobs/info/697e110cabff4c399a9ce1c3?utm_campaign=1054&utm_source=git)** | El Segundo, CA | On Site | Feb 22 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Feb 22 |
@@ -100,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/6999a62281476f6176b26063?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Feb 21 |
 | **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/697d5f2c727747250d5842d9?utm_campaign=1054&utm_source=git)** | Schofield, WI | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Talent Relations Intern, Summer/Fall 2026ll 2026](https://jobright.ai/jobs/info/6999a12de0bddb6acac8e286?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | Feb 21 |
+| **[Industrial Scientific](http://www.indsci.com)** | **[Onboarding Program Management Intern](https://jobright.ai/jobs/info/69988f6ee0bddb6acac79250?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 21 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d82faabff4c399a9c3b6b?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Feb 21 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d5c58137a051025667c0e?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Feb 21 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Strategic Development Intern](https://jobright.ai/jobs/info/697d6511137a05102566861a?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Feb 21 |
@@ -131,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/69995068ce78e77b4fde1a9d?utm_campaign=1054&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
 | ↳ | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/6999311d81476f6176b1bb6d?utm_campaign=1054&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
 | **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69991cc8e0bddb6acac81bb3?utm_campaign=1054&utm_source=git)** | Lincoln,NE,US | On Site | Feb 20 |
-| **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
+| **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
+| ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
 | ↳ | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999536ee0bddb6acac87c2c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 20 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69992456e0bddb6acac82a09?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Sched](https://jobright.ai/jobs/info/6998fb61ce78e77b4fdd9557?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 20 |
 | **[Badger Meter](http://badgermeter.com)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/6998c976ce78e77b4fdd5b36?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Teammate Experience) Hybrid Schedule](https://jobright.ai/jobs/info/6998c910ce78e77b4fdd5ac1?utm_campaign=1054&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998f3abce78e77b4fdd87ae?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Feb 20 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Employer Communications](https://jobright.ai/jobs/info/6998f07781476f6176b15949?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Feb 20 |
-| **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998f6a0ce78e77b4fdd8d09?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
-| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/6998f60ace78e77b4fdd8bd6?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Feb 20 |
-| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Food and Beverage Staffing Internship](https://jobright.ai/jobs/info/6998be2bce78e77b4fdd526a?utm_campaign=1054&utm_source=git)** | US-TX-New Braunfels | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
