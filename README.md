@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69710a6d333b6343a14d8776?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Feb 22 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/68f37e1476a51a4307bce6b9?utm_campaign=1054&utm_source=git)** | Cactus, TX | On Site | Feb 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68b9c6548043103d4f21a3e3?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Feb 22 |
 | ↳ | **[Summer 2026 Management Internship - Seacoast, NH Area](https://jobright.ai/jobs/info/68bace706105227d118a0a13?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Feb 22 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Human Resource Paid Internship](https://jobright.ai/jobs/info/699ac15d81476f6176b35b38?utm_campaign=1054&utm_source=git)** | Broadview Heights, OH | On Site | Feb 22 |
 | **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/697040b851f726477182718d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Feb 22 |
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 21 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/699aa3d681476f6176b3451f?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 21 |
 | **[CollisionRight](https://collisionright.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/699a85c8e0bddb6acac9990e?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a682ee0bddb6acac97a0a?utm_campaign=1054&utm_source=git)** | Austin GLO Main FL71700 N Congress Ave | On Site | Feb 21 |
 | ↳ | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a68b881476f6176b2fe8b?utm_campaign=1054&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69995dfa81476f6176b20814?utm_campaign=1054&utm_source=git)** | New York City, New York, NY, US | Hybrid | Feb 20 |
 | **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/699916ade0bddb6acac810a0?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Feb 20 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Schedule](https://jobright.ai/jobs/info/69991600ce78e77b4fddb64f?utm_campaign=1054&utm_source=git)** | Schaumburg, Illinois, United States | Hybrid | Feb 20 |
-| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/69995068ce78e77b4fde1a9d?utm_campaign=1054&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
-| ↳ | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/6999311d81476f6176b1bb6d?utm_campaign=1054&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
+| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/6999311d81476f6176b1bb6d?utm_campaign=1054&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
+| ↳ | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/69995068ce78e77b4fde1a9d?utm_campaign=1054&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
 | **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69991cc8e0bddb6acac81bb3?utm_campaign=1054&utm_source=git)** | Lincoln,NE,US | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
 | ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
