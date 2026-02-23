@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95928043103d4f229efc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 23 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94105f383274918706e7?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Feb 23 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/691d72ea0b7dff734150393c?utm_campaign=1054&utm_source=git)** | Yocumtown, PA | On Site | Feb 23 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[People, Culture & Belonging Intern](https://jobright.ai/jobs/info/697f74de7f40342e15d8258b?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Feb 23 |
 | **[Hyatt Regency San Francisco Downtown SoMa](https://www.hyatt.com/en-US/hotel/california/hyatt-regency-san-francisco-downtown-soma/sford?msclkid=162dcb75badd11ec98c88c952a5a1447)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699c2712e0bddb6acacb0b5c?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 23 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Recruitment Intern - Corporate](https://jobright.ai/jobs/info/699c19e8ce78e77b4fe0a67b?utm_campaign=1054&utm_source=git)** | Tippecanoe County, IN | On Site | Feb 23 |
@@ -122,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/6999a62281476f6176b26063?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Feb 21 |
 | **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/697d5f2c727747250d5842d9?utm_campaign=1054&utm_source=git)** | Schofield, WI | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Talent Relations Intern, Summer/Fall 2026ll 2026](https://jobright.ai/jobs/info/6999a12de0bddb6acac8e286?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | Feb 21 |
+| **[Industrial Scientific](http://www.indsci.com)** | **[Onboarding Program Management Intern](https://jobright.ai/jobs/info/69988f6ee0bddb6acac79250?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 21 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697d82faabff4c399a9c3b6b?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Feb 21 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[HR Intern](https://jobright.ai/jobs/info/697d5c58137a051025667c0e?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Feb 21 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Strategic Development Intern](https://jobright.ai/jobs/info/697d6511137a05102566861a?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Feb 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Huber AgroSolutions](https://huberagrosolutions.com)** | **[HRIS Co-Op](https://jobright.ai/jobs/info/69994115e0bddb6acac85a60?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/69991b55e0bddb6acac818ec?utm_campaign=1054&utm_source=git)** | Delano, CA | On Site | Feb 20 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69995dfa81476f6176b20814?utm_campaign=1054&utm_source=git)** | New York City, New York, NY, US | Hybrid | Feb 20 |
-| **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/699916ade0bddb6acac810a0?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Feb 20 |
-| **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Schedule](https://jobright.ai/jobs/info/69991600ce78e77b4fddb64f?utm_campaign=1054&utm_source=git)** | Schaumburg, Illinois, United States | Hybrid | Feb 20 |
-| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/6999311d81476f6176b1bb6d?utm_campaign=1054&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
-| ↳ | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/69995068ce78e77b4fde1a9d?utm_campaign=1054&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
