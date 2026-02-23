@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - New Bedford/Dartmouth, MA](https://jobright.ai/jobs/info/69340ed3764507023d1bbb65?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Feb 23 |
+| ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/68f1a6bbf462172a5a7dae7a?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Feb 23 |
+| **[AZCO](http://www.azco-inc.com)** | **[Payroll Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/6982cabb348f733a5c35d136?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Feb 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/68f2ab239a65fd345857ee2a?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Feb 23 |
+| **[City of Doraville, Georgia](http://www.doravillega.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699c83fece78e77b4fe13ab4?utm_campaign=1054&utm_source=git)** | Doraville, GA | On Site | Feb 23 |
+| **[Lee Company](http://www.leecompany.com/hvac/nashville-tn/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699c7d2cce78e77b4fe136ab?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Feb 23 |
 | **[Dollarama](https://www.dollarama.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/699c7a7781476f6176b5066f?utm_campaign=1054&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Feb 23 |
 | **[Lemartec Corporation, a MasTec company](http://lemartec.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/699c7a19e0bddb6acacb8507?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Feb 23 |
-| **[Lee Company](http://www.leecompany.com/hvac/nashville-tn/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699c790de0bddb6acacb840e?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Feb 23 |
 | **[Coleman Research](http://www.colemanrg.com)** | **[Global Recruiting Intern](https://jobright.ai/jobs/info/699c76b7e0bddb6acacb8164?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Feb 23 |
 | **[AAA Northeast](http://www.aaa.com)** | **[Human Resources Internship (58001)](https://jobright.ai/jobs/info/6994e1c3ce78e77b4fd8f1e7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Feb 23 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[HR Internship](https://jobright.ai/jobs/info/697fb2f8abff4c399a9e3e6b?utm_campaign=1054&utm_source=git)** | Reston, VA | On Site | Feb 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seaspan Corporation](http://www.seaspancorp.com/index.php)** | **[Crew Management Intern](https://jobright.ai/jobs/info/6999273cce78e77b4fddd798?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/699925ad81476f6176b1a9fe?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Feb 20 |
 | **[J.M. Huber Corporation](http://www.huber.com)** | **[HRIS Co-Op](https://jobright.ai/jobs/info/69992539ce78e77b4fddd2b8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
-| **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Schedule](https://jobright.ai/jobs/info/699924b0e0bddb6acac82acb?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 20 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Aviation Operations Associate - Intern](https://jobright.ai/jobs/info/69994aecce78e77b4fde118d?utm_campaign=1054&utm_source=git)** | Trenton, NJ | Hybrid | Feb 20 |
-| **[Highgate](https://www.highgate.com)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/69994d1981476f6176b1ee6a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 20 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6999449bce78e77b4fde0608?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 20 |
-| **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699950cee0bddb6acac87769?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
