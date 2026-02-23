@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/699beb3ee0bddb6acacad498?utm_campaign=1054&utm_source=git)** | Lake Spring, MO | On Site | Feb 22 |
 | **[Museum of Science](http://www.mos.org)** | **[Human Resources  College Internship](https://jobright.ai/jobs/info/698643758da7a6120460f4b5?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 22 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/699ba010e0bddb6acaca6a96?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 22 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 22 |
@@ -126,8 +127,9 @@ For a complete list, click the following sortable link below:
 | **[EcoRise](https://www.ecorise.org/about/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/699aa8b4ce78e77b4fdf7133?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Feb 20 |
 | ↳ | **[Internship Coordinator](https://jobright.ai/jobs/info/699aa73581476f6176b34593?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 20 |
 | **[First Acceptance Insurance](https://firstacceptance.com)** | **[2026 FAC Summer Internship](https://jobright.ai/jobs/info/69996e06e0bddb6acac8abff?utm_campaign=1054&utm_source=git)** | Nashville, TN 37215, USA | Hybrid | Feb 20 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (San Diego)](https://jobright.ai/jobs/info/699bef6181476f6176b459bf?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Feb 20 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | New York | Remote | Feb 20 |
-| **[Center for Science in the Public Interest](http://cspinet.org)** | **[2026 Summer Employee Experience Internship](https://jobright.ai/jobs/info/699be7fd81476f6176b44ee4?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
+| **[Microbiologics](http://www.microbiologics.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699bee0ce0bddb6acacad4c9?utm_campaign=1054&utm_source=git)** | St Cloud, MN | On Site | Feb 20 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Service Delivery Data, Emerging Talent Intern](https://jobright.ai/jobs/info/69994c6d81476f6176b1eb65?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Feb 20 |
 | **[Seaspan Corporation](http://www.seaspancorp.com/index.php)** | **[Crew Management Intern](https://jobright.ai/jobs/info/6999273cce78e77b4fddd798?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/699925ad81476f6176b1a9fe?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Feb 20 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69991cc8e0bddb6acac81bb3?utm_campaign=1054&utm_source=git)** | Lincoln,NE,US | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
 | ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999536ee0bddb6acac87c2c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 20 |
-| ↳ | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
+| ↳ | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999536ee0bddb6acac87c2c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 20 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69992456e0bddb6acac82a09?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 20 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op/Intern](https://jobright.ai/jobs/info/69991f2281476f6176b19ea8?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Feb 20 |
-| **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Learning & Organizational Development Intern](https://jobright.ai/jobs/info/6998ee5781476f6176b1564e?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Feb 20 |
-| **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/69991763e0bddb6acac811cf?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
