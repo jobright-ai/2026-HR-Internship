@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Recruitment Intern - Corporate](https://jobright.ai/jobs/info/699c19e8ce78e77b4fe0a67b?utm_campaign=1054&utm_source=git)** | Tippecanoe County, IN | On Site | Feb 23 |
 | **[Six Flags](https://www.sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/699c0362e0bddb6acacae15b?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 22 |
+| ↳ | **[Retail Leadership Internship](https://jobright.ai/jobs/info/699c1b4ce0bddb6acacaf7af?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 22 |
 | **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/699beb3ee0bddb6acacad498?utm_campaign=1054&utm_source=git)** | Lake Spring, MO | On Site | Feb 22 |
 | **[Museum of Science](http://www.mos.org)** | **[Human Resources  College Internship](https://jobright.ai/jobs/info/698643758da7a6120460f4b5?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 22 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/699ba010e0bddb6acaca6a96?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 22 |
@@ -124,8 +126,10 @@ For a complete list, click the following sortable link below:
 | **[Enlyte](https://www.enlyte.com/)** | **[Learning and Organizational Development Intern](https://jobright.ai/jobs/info/697d4dee137a051025665a53?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/699aad62e0bddb6acac9cbd3?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Feb 21 |
 | **[EAC Network](https://eac-network.org/)** | **[Recruitment Intern (Remote)](https://jobright.ai/jobs/info/69997e6ace78e77b4fde68b3?utm_campaign=1054&utm_source=git)** | 99 Quentin Roosevelt Blvd Suite 200, Garden City, NY, 11530 - Garden City, NY 11530 | Remote | Feb 21 |
+| **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/699c108fe0bddb6acacaea59?utm_campaign=1054&utm_source=git)** | Powdersville, SC | On Site | Feb 20 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[SkillBridge Internship Opportunity with Security Clearance](https://jobright.ai/jobs/info/699c067881476f6176b46676?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Feb 20 |
 | **[Cydecor, Inc.](http://www.cydecor.com)** | **[Talent Acquisition SkillBridge Intern (Recruiter) with Security Clearance](https://jobright.ai/jobs/info/699c0bb481476f6176b4697a?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
+| **[OMNI Consulting Solutions](https://omniconsultingsolutions.com)** | **[OMNI SkillBridge Internship with Security Clearance](https://jobright.ai/jobs/info/699c129981476f6176b47022?utm_campaign=1054&utm_source=git)** | La Canada Flintridge, CA | Remote | Feb 20 |
 | **[EcoRise](https://www.ecorise.org/about/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/699aa8b4ce78e77b4fdf7133?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Feb 20 |
 | ↳ | **[Internship Coordinator](https://jobright.ai/jobs/info/699aa73581476f6176b34593?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 20 |
 | **[First Acceptance Insurance](https://firstacceptance.com)** | **[2026 FAC Summer Internship](https://jobright.ai/jobs/info/69996e06e0bddb6acac8abff?utm_campaign=1054&utm_source=git)** | Nashville, TN 37215, USA | Hybrid | Feb 20 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/69995068ce78e77b4fde1a9d?utm_campaign=1054&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
 | ↳ | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/6999311d81476f6176b1bb6d?utm_campaign=1054&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
 | **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69991cc8e0bddb6acac81bb3?utm_campaign=1054&utm_source=git)** | Lincoln,NE,US | On Site | Feb 20 |
-| **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
-| ↳ | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999536ee0bddb6acac87c2c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 20 |
-| **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69992456e0bddb6acac82a09?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 20 |
+| **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
