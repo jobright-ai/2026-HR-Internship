@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Apex Service Partners](https://apexservicepartners.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/699ba010e0bddb6acaca6a96?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 22 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/699b5dc7e0bddb6acaca477c?utm_campaign=1054&utm_source=git)** | Easley, SC | On Site | Feb 22 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699b419dce78e77b4fdfeead?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 22 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/697040b851f726477182718d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Feb 22 |
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 21 |
 | **[CollisionRight](https://collisionright.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/699a85c8e0bddb6acac9990e?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Feb 21 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a68b881476f6176b2fe8b?utm_campaign=1054&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
-| ↳ | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a682ee0bddb6acac97a0a?utm_campaign=1054&utm_source=git)** | Austin GLO Main FL71700 N Congress Ave | On Site | Feb 21 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a682ee0bddb6acac97a0a?utm_campaign=1054&utm_source=git)** | Austin GLO Main FL71700 N Congress Ave | On Site | Feb 21 |
+| ↳ | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a68b881476f6176b2fe8b?utm_campaign=1054&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Commerce, California, United States | On Site | Feb 21 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Feb 21 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Feb 21 |
@@ -147,14 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/69995068ce78e77b4fde1a9d?utm_campaign=1054&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
 | ↳ | **[Centric Brands - Stage d'été en RH - HR Summer Internship - Montreal](https://jobright.ai/jobs/info/6999311d81476f6176b1bb6d?utm_campaign=1054&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
 | **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69991cc8e0bddb6acac81bb3?utm_campaign=1054&utm_source=git)** | Lincoln,NE,US | On Site | Feb 20 |
-| **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
-| ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999536ee0bddb6acac87c2c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 20 |
-| ↳ | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
+| **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/699943fbe0bddb6acac85f93?utm_campaign=1054&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
+| ↳ | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/6999374cce78e77b4fddf257?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999493cce78e77b4fde0e23?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
+| ↳ | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/6999536ee0bddb6acac87c2c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 20 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69992456e0bddb6acac82a09?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Feb 20 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op/Intern](https://jobright.ai/jobs/info/69991f2281476f6176b19ea8?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Feb 20 |
 | **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/69992845e0bddb6acac83185?utm_campaign=1054&utm_source=git)** | Powdersville, SC | On Site | Feb 20 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Learning & Organizational Development Intern](https://jobright.ai/jobs/info/6998ee5781476f6176b1564e?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/69991763e0bddb6acac811cf?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
-| **[Hatch](https://www.hatch.com)** | **[Coordinator, Campus Talent Acquisition](https://jobright.ai/jobs/info/69991e5c81476f6176b19d5c?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
