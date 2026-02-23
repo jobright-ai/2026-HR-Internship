@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dollarama](https://www.dollarama.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/699c7a7781476f6176b5066f?utm_campaign=1054&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Feb 23 |
+| **[Lemartec Corporation, a MasTec company](http://lemartec.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/699c7a19e0bddb6acacb8507?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Feb 23 |
+| **[Lee Company](http://www.leecompany.com/hvac/nashville-tn/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699c790de0bddb6acacb840e?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Feb 23 |
+| **[Coleman Research](http://www.colemanrg.com)** | **[Global Recruiting Intern](https://jobright.ai/jobs/info/699c76b7e0bddb6acacb8164?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Feb 23 |
+| **[AAA Northeast](http://www.aaa.com)** | **[Human Resources Internship (58001)](https://jobright.ai/jobs/info/6994e1c3ce78e77b4fd8f1e7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Feb 23 |
+| **[Comstock Companies](http://comstockcompanies.com/)** | **[HR Internship](https://jobright.ai/jobs/info/697fb2f8abff4c399a9e3e6b?utm_campaign=1054&utm_source=git)** | Reston, VA | On Site | Feb 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/68b9c7bf6105227d11897a94?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Feb 23 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95928043103d4f229efc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 23 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94105f383274918706e7?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Feb 23 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/691d72ea0b7dff734150393c?utm_campaign=1054&utm_source=git)** | Yocumtown, PA | On Site | Feb 23 |
@@ -93,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Human Resource Paid Internship](https://jobright.ai/jobs/info/699ac15d81476f6176b35b38?utm_campaign=1054&utm_source=git)** | Broadview Heights, OH | On Site | Feb 22 |
 | **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/697040b851f726477182718d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Feb 22 |
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 21 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a68b881476f6176b2fe8b?utm_campaign=1054&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
-| ↳ | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a682ee0bddb6acac97a0a?utm_campaign=1054&utm_source=git)** | Austin GLO Main FL71700 N Congress Ave | On Site | Feb 21 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a682ee0bddb6acac97a0a?utm_campaign=1054&utm_source=git)** | Austin GLO Main FL71700 N Congress Ave | On Site | Feb 21 |
+| ↳ | **[GLO - Human Resources Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a68b881476f6176b2fe8b?utm_campaign=1054&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Commerce, California, United States | On Site | Feb 21 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Feb 21 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Feb 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Highgate](https://www.highgate.com)** | **[Social Media HR Internship - Summer 2026](https://jobright.ai/jobs/info/69994d1981476f6176b1ee6a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6999449bce78e77b4fde0608?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 20 |
 | **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699950cee0bddb6acac87769?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Feb 20 |
-| **[AAA Northeast](http://www.aaa.com)** | **[Human Resources Internship (58001)](https://jobright.ai/jobs/info/6994e1c3ce78e77b4fd8f1e7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Feb 20 |
-| **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026*](https://jobright.ai/jobs/info/69993c3981476f6176b1caeb?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 20 |
-| **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6999107ece78e77b4fddac2d?utm_campaign=1054&utm_source=git)** | 223 Pine Road, Powdersville, SC, USA | On Site | Feb 20 |
-| **[DART Aerospace](https://www.dartaerospace.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69993489ce78e77b4fddedb4?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 20 |
-| **[Huber AgroSolutions](https://huberagrosolutions.com)** | **[HRIS Co-Op](https://jobright.ai/jobs/info/69994115e0bddb6acac85a60?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
-| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/69991b55e0bddb6acac818ec?utm_campaign=1054&utm_source=git)** | Delano, CA | On Site | Feb 20 |
-| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69995dfa81476f6176b20814?utm_campaign=1054&utm_source=git)** | New York City, New York, NY, US | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
