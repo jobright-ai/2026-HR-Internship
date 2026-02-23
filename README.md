@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Museum of Science](http://www.mos.org)** | **[Human Resources  College Internship](https://jobright.ai/jobs/info/698643758da7a6120460f4b5?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 22 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/699ba010e0bddb6acaca6a96?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 22 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/699b5dc7e0bddb6acaca477c?utm_campaign=1054&utm_source=git)** | Easley, SC | On Site | Feb 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Daedalus Industrial](https://www.daedalusindustrial.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/69992845e0bddb6acac83185?utm_campaign=1054&utm_source=git)** | Powdersville, SC | On Site | Feb 20 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Learning & Organizational Development Intern](https://jobright.ai/jobs/info/6998ee5781476f6176b1564e?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Talent (Human Resources) Intern](https://jobright.ai/jobs/info/69991763e0bddb6acac811cf?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
-| **[Hatch](https://www.hatch.com)** | **[Coordinator, Campus Talent Acquisition](https://jobright.ai/jobs/info/69991e5c81476f6176b19d5c?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
