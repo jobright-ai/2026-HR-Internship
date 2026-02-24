@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eastern States Exposition](http://www.thebige.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/699d1f7d81476f6176b5c4f3?utm_campaign=1054&utm_source=git)** | West Springfield, MA | On Site | Feb 23 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699d13b8e0bddb6acacc3125?utm_campaign=1054&utm_source=git)** | Mission, TX, USA | On Site | Feb 23 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699d0a99e0bddb6acacc2650?utm_campaign=1054&utm_source=git)** | Mission, TX | On Site | Feb 23 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Volunteer Management Intern - UNPAID](https://jobright.ai/jobs/info/699d098581476f6176b5a889?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 23 |
@@ -65,12 +66,16 @@ For a complete list, click the following sortable link below:
 | **[Calyxo, Inc.](https://calyxoinc.com)** | **[People Operations Intern - Pleasanton, CA](https://jobright.ai/jobs/info/699cfcf381476f6176b58e81?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | On Site | Feb 23 |
 | **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Human Resource Intern (Mandarin Bilingual)](https://jobright.ai/jobs/info/699cf99581476f6176b587f6?utm_campaign=1054&utm_source=git)** | Houston, TX | Remote | Feb 23 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analyst](https://jobright.ai/jobs/info/699cf551e0bddb6acacbff69?utm_campaign=1054&utm_source=git)** | Astoria, OR | On Site | Feb 23 |
+| **[Ensign Energy Services](https://www.ensignenergy.com/)** | **[BENEFITS INTERN](https://jobright.ai/jobs/info/699d20eece78e77b4fe1f616?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Feb 23 |
 | **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699d1505e0bddb6acacc32de?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 23 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Total Compensation Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/699d108be0bddb6acacc2ce0?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 23 |
-| ↳ | **[HR Operations Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/699d1008ce78e77b4fe1df3f?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 23 |
+| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/699d1ca981476f6176b5c0bb?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Feb 23 |
+| ↳ | **[HR Operations Intern - Summer 2026](https://jobright.ai/jobs/info/699d214581476f6176b5c76b?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Feb 23 |
 | **[C1](http://www.spanlink.com)** | **[Employee Engagement Intern](https://jobright.ai/jobs/info/699d1207ce78e77b4fe1e1b6?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 23 |
 | **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/699d0bd7e0bddb6acacc271a?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 23 |
 | **[ACCIONA](https://www.acciona.com)** | **[Human Resources Co-op (12-Month Paid Internship - Recent Graduate)](https://jobright.ai/jobs/info/699d0c8ce0bddb6acacc280a?utm_campaign=1054&utm_source=git)** | Ontario | On Site | Feb 23 |
+| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[HR Operations Intern - Summer 2026](https://jobright.ai/jobs/info/699d191de0bddb6acacc381f?utm_campaign=1054&utm_source=git)** | Madison, Wisconsin, United States | Hybrid | Feb 23 |
+| **[Harbor Foods](http://harborfoods.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/699d1f0de0bddb6acacc4022?utm_campaign=1054&utm_source=git)** | Lacey, WA, US | On Site | Feb 23 |
 | **[C1](http://www.spanlink.com)** | **[Employee Engagement Intern](https://jobright.ai/jobs/info/699d1309ce78e77b4fe1e30f?utm_campaign=1054&utm_source=git)** | US-Virtual Office | Remote | Feb 23 |
 | **[Alberta Utilities Commission](http://www.auc.ab.ca)** | **[Student, Human Resources](https://jobright.ai/jobs/info/699d039181476f6176b59bf3?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 23 |
 | **[Highgate](https://www.highgate.com)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/699cdc5b81476f6176b566f4?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Feb 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dollarama](https://www.dollarama.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/699c7a7781476f6176b5066f?utm_campaign=1054&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Feb 23 |
 | **[Lemartec Corporation, a MasTec company](http://lemartec.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/699c7a19e0bddb6acacb8507?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Feb 23 |
 | **[Coleman Research](http://www.colemanrg.com)** | **[Global Recruiting Intern](https://jobright.ai/jobs/info/699c76b7e0bddb6acacb8164?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Feb 23 |
-| **[AAA Northeast](http://www.aaa.com)** | **[Human Resources Internship (58001)](https://jobright.ai/jobs/info/6994e1c3ce78e77b4fd8f1e7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Feb 23 |
-| **[Comstock Companies](http://comstockcompanies.com/)** | **[HR Internship](https://jobright.ai/jobs/info/697fb2f8abff4c399a9e3e6b?utm_campaign=1054&utm_source=git)** | Reston, VA | On Site | Feb 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/68b9c7bf6105227d11897a94?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Feb 23 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95928043103d4f229efc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 23 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94105f383274918706e7?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
