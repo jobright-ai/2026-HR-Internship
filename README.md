@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Wonderful Company](http://www.wonderful.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699d13b8e0bddb6acacc3125?utm_campaign=1054&utm_source=git)** | Mission, TX, USA | On Site | Feb 23 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699d0a99e0bddb6acacc2650?utm_campaign=1054&utm_source=git)** | Mission, TX | On Site | Feb 23 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Volunteer Management Intern - UNPAID](https://jobright.ai/jobs/info/699d098581476f6176b5a889?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 23 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - HR Services](https://jobright.ai/jobs/info/699d0935e0bddb6acacc2582?utm_campaign=1054&utm_source=git)** | Midvale, UT | On Site | Feb 23 |
@@ -64,7 +65,13 @@ For a complete list, click the following sortable link below:
 | **[Calyxo, Inc.](https://calyxoinc.com)** | **[People Operations Intern - Pleasanton, CA](https://jobright.ai/jobs/info/699cfcf381476f6176b58e81?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | On Site | Feb 23 |
 | **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Human Resource Intern (Mandarin Bilingual)](https://jobright.ai/jobs/info/699cf99581476f6176b587f6?utm_campaign=1054&utm_source=git)** | Houston, TX | Remote | Feb 23 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analyst](https://jobright.ai/jobs/info/699cf551e0bddb6acacbff69?utm_campaign=1054&utm_source=git)** | Astoria, OR | On Site | Feb 23 |
+| **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699d1505e0bddb6acacc32de?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 23 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Total Compensation Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/699d108be0bddb6acacc2ce0?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 23 |
+| ↳ | **[HR Operations Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/699d1008ce78e77b4fe1df3f?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 23 |
+| **[C1](http://www.spanlink.com)** | **[Employee Engagement Intern](https://jobright.ai/jobs/info/699d1207ce78e77b4fe1e1b6?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 23 |
 | **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/699d0bd7e0bddb6acacc271a?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 23 |
+| **[ACCIONA](https://www.acciona.com)** | **[Human Resources Co-op (12-Month Paid Internship - Recent Graduate)](https://jobright.ai/jobs/info/699d0c8ce0bddb6acacc280a?utm_campaign=1054&utm_source=git)** | Ontario | On Site | Feb 23 |
+| **[C1](http://www.spanlink.com)** | **[Employee Engagement Intern](https://jobright.ai/jobs/info/699d1309ce78e77b4fe1e30f?utm_campaign=1054&utm_source=git)** | US-Virtual Office | Remote | Feb 23 |
 | **[Alberta Utilities Commission](http://www.auc.ab.ca)** | **[Student, Human Resources](https://jobright.ai/jobs/info/699d039181476f6176b59bf3?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 23 |
 | **[Highgate](https://www.highgate.com)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/699cdc5b81476f6176b566f4?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Feb 23 |
 | **[Terex Corporation](http://www.terex.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/699d0261ce78e77b4fe1ca9b?utm_campaign=1054&utm_source=git)** | Norwalk, CT | Hybrid | Feb 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/68b9c7bf6105227d11897a94?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Feb 23 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95928043103d4f229efc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Feb 23 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94105f383274918706e7?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Feb 23 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/691d72ea0b7dff734150393c?utm_campaign=1054&utm_source=git)** | Yocumtown, PA | On Site | Feb 23 |
-| **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[People, Culture & Belonging Intern](https://jobright.ai/jobs/info/697f74de7f40342e15d8258b?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Feb 23 |
-| **[Hyatt Regency San Francisco Downtown SoMa](https://www.hyatt.com/en-US/hotel/california/hyatt-regency-san-francisco-downtown-soma/sford?msclkid=162dcb75badd11ec98c88c952a5a1447)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699c2712e0bddb6acacb0b5c?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 23 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Recruitment Intern - Corporate](https://jobright.ai/jobs/info/699c19e8ce78e77b4fe0a67b?utm_campaign=1054&utm_source=git)** | Tippecanoe County, IN | On Site | Feb 23 |
-| **[Six Flags](https://www.sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/699c0362e0bddb6acacae15b?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 22 |
-| **[Museum of Science](http://www.mos.org)** | **[Human Resources  College Internship](https://jobright.ai/jobs/info/698643758da7a6120460f4b5?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Feb 22 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/699ba010e0bddb6acaca6a96?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
