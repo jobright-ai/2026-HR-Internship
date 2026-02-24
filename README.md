@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FMC Corporation](http://www.fmc.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/699dfbd6e0bddb6acacd66d7?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Feb 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Total Compensation Bachelor's Intern](https://jobright.ai/jobs/info/699df595e0bddb6acacd6154?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 24 |
 | **[FMC Corporation](http://www.fmc.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/699df4ec81476f6176b6e82e?utm_campaign=1054&utm_source=git)** | Philadelphia, Pennsylvania | Hybrid | Feb 24 |
 | **[AFB International](http://afbinternational.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69811b32abff4c399a9feba3?utm_campaign=1054&utm_source=git)** | Greater St. Louis | On Site | Feb 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Operations Intern - Summer 2026](https://jobright.ai/jobs/info/699d214581476f6176b5c76b?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Feb 23 |
 | ↳ | **[HR Operations Intern - Summer 2026](https://jobright.ai/jobs/info/699d2353ce78e77b4fe1faf2?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Feb 23 |
 | **[C1](http://www.spanlink.com)** | **[Employee Engagement Intern](https://jobright.ai/jobs/info/699d1207ce78e77b4fe1e1b6?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 23 |
-| **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Civil Service Intern](https://jobright.ai/jobs/info/699d0bd7e0bddb6acacc271a?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
