@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CarDon & Associates](https://cardon.us/)** | **[HR Intern- CarDon and Associates Corp - Greenwood - Indianapolis Region](https://jobright.ai/jobs/info/699e7ec881476f6176b7a5f0?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 24 |
+| **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN](https://jobright.ai/jobs/info/699e7df8ce78e77b4fe3d75e?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Feb 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/699e79d6ce78e77b4fe3c985?utm_campaign=1054&utm_source=git)** | Yuma, AZ | On Site | Feb 24 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Labour Relations Intern](https://jobright.ai/jobs/info/699e777681476f6176b7959f?utm_campaign=1054&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Feb 24 |
 | **[Lifetouch](http://lifetouch.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/699e7741e0bddb6acace13e1?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | Remote | Feb 24 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[HRIS Intern- Summer 2026](https://jobright.ai/jobs/info/699e5e2fe0bddb6acacddb58?utm_campaign=1054&utm_source=git)** | Grimes, IA | On Site | Feb 24 |
 | **[Entergy](https://www.entergy.com)** | **[Student Intern, Payroll, Fall 2026](https://jobright.ai/jobs/info/699e5aa6ce78e77b4fe389a9?utm_campaign=1054&utm_source=git)** | Hammond, LA | Hybrid | Feb 24 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[HR Intern Spring 2026](https://jobright.ai/jobs/info/699e59a881476f6176b7576d?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 24 |
+| **[TalentBase](https://www.talentbaseusa.com)** | **[Veterans CareerBridge – Professional Development & Paid Internship Pathway](https://jobright.ai/jobs/info/699e82d9e0bddb6acace2b8a?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Feb 24 |
 | **[The Dalton School](https://www.dalton.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699e4904ce78e77b4fe368b5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6952e2d7f1f8465b79ea29ef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[OUTPATIENT INTERN CASE MANAGER - SOCIAL WORK AND COUNSELING STUDENTS (UNPAID)](https://jobright.ai/jobs/info/699e61b481476f6176b76730?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Feb 24 |
@@ -91,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Schedule](https://jobright.ai/jobs/info/699924b0e0bddb6acac82acb?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 24 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HR Services Paid Internship](https://jobright.ai/jobs/info/699e3ef0e0bddb6acacd9e24?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 24 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Team Member Experience Intern](https://jobright.ai/jobs/info/699e4b1781476f6176b73c8e?utm_campaign=1054&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Feb 24 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HR Services Paid Internship](https://jobright.ai/jobs/info/699e7b43ce78e77b4fe3cdeb?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Feb 24 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Graduate Intern, Affiliate Support and Nationwide Initiatives - Organizational Management, Equity & Inclusion](https://jobright.ai/jobs/info/699e3a91e0bddb6acacd968b?utm_campaign=1054&utm_source=git)** | Remote/Hybrid-Washington, D.C. | Remote | Feb 24 |
 | **[FAIRWINDS Credit Union](https://www.fairwinds.org)** | **[Intern - Human Resources: Training](https://jobright.ai/jobs/info/699e319ece78e77b4fe34330?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Feb 24 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Human Resources - Talent Management - Hybrid](https://jobright.ai/jobs/info/699e6f1381476f6176b78325?utm_campaign=1054&utm_source=git)** | Phoenix, AZ USA 85004-2121 | Hybrid | Feb 24 |
@@ -99,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/699e4504e0bddb6acacdaafb?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Feb 24 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/699e312981476f6176b7113e?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Feb 24 |
 | **[FMC Corporation](http://www.fmc.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/699dfbd6e0bddb6acacd66d7?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Feb 24 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/699e775f81476f6176b79571?utm_campaign=1054&utm_source=git)** | Vista, California | On Site | Feb 24 |
-| ↳ | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/699e5feae0bddb6acacddee3?utm_campaign=1054&utm_source=git)** | Ventura, California | On Site | Feb 24 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/699e5feae0bddb6acacddee3?utm_campaign=1054&utm_source=git)** | Ventura, California | On Site | Feb 24 |
+| ↳ | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/699e775f81476f6176b79571?utm_campaign=1054&utm_source=git)** | Vista, California | On Site | Feb 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Total Compensation Bachelor's Intern](https://jobright.ai/jobs/info/699df595e0bddb6acacd6154?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 24 |
 | **[FMC Corporation](http://www.fmc.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/699df4ec81476f6176b6e82e?utm_campaign=1054&utm_source=git)** | Philadelphia, Pennsylvania | Hybrid | Feb 24 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[HR Operations & Coordination Intern / Remote / Unpaid](https://jobright.ai/jobs/info/699e346681476f6176b715d2?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Feb 24 |
@@ -114,7 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Compliance Intern](https://jobright.ai/jobs/info/6997b42b81476f6176afd52f?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Feb 24 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6985ee678ca8121a3a682440?utm_campaign=1054&utm_source=git)** | Coppell, TX | Hybrid | Feb 24 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - HR Generalist](https://jobright.ai/jobs/info/699e4dafce78e77b4fe371c8?utm_campaign=1054&utm_source=git)** | Metairie,LA,US | On Site | Feb 24 |
-| **[ChristianaCare](http://christianacare.org)** | **[Intern - HR Strategy](https://jobright.ai/jobs/info/699e7812e0bddb6acace16f0?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Feb 24 |
+| **[ChristianaCare](http://christianacare.org)** | **[Intern - HR Strategy](https://jobright.ai/jobs/info/699e7c04ce78e77b4fe3d11c?utm_campaign=1054&utm_source=git)** | Newark, DE | Hybrid | Feb 24 |
+| ↳ | **[Intern - HR Strategy](https://jobright.ai/jobs/info/699e7812e0bddb6acace16f0?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Feb 24 |
 | **[FAIRWINDS Credit Union](https://www.fairwinds.org)** | **[Intern - Human Resources: Training](https://jobright.ai/jobs/info/699e0ba8e0bddb6acacd6fd3?utm_campaign=1054&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 24 |
 | **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[Human Resources Intern (Port of Miami)](https://jobright.ai/jobs/info/699e3342e0bddb6acacd8cc4?utm_campaign=1054&utm_source=git)** | Miami, Florida | On Site | Feb 24 |
 | **[Network Distribution](https://us.networkdistribution.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699e17bee0bddb6acacd7799?utm_campaign=1054&utm_source=git)** | Schaumburg, Illinois, United States | On Site | Feb 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Compensation Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/699dde63ce78e77b4fe2eff1?utm_campaign=1054&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 24 |
 | **[Alside](https://www.alside.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699dd78be0bddb6acacd351d?utm_campaign=1054&utm_source=git)** | Cuyahoga Falls, OH | On Site | Feb 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - St. George](https://jobright.ai/jobs/info/69818e5249964d25b5e4a8e3?utm_campaign=1054&utm_source=git)** | St George, UT | On Site | Feb 24 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 24 |
-| **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69810917abff4c399a9fd86e?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Hybrid | Feb 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Intern, LIFTS](https://jobright.ai/jobs/info/699db1c781476f6176b69a08?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 24 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6981122e49964d25b5e3e07d?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Feb 24 |
-| **[Central Bank](https://www.centralbank.net/)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/69813b417f40342e15da2e8f?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
