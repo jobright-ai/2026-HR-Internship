@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GeoComply](https://www.geocomply.com)** | **[People Operations Intern - Summer 2026 (Vancouver)](https://jobright.ai/jobs/info/699f554ace78e77b4fe5215d?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Feb 25 |
+| **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[Graduate Intern – Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/699f554994ef206f184e7d20?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 25 |
+| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699f4b92ce78e77b4fe51933?utm_campaign=1054&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Feb 25 |
+| **[SBM Life Science](https://sbm-company.com/)** | **[HR Intern](https://jobright.ai/jobs/info/698ccdee78b4502f12a34678?utm_campaign=1054&utm_source=git)** | Cary, NC | On Site | Feb 25 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 People Analytics Summer Internship](https://jobright.ai/jobs/info/699f493881476f6176b8ea5f?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Feb 25 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Canadian Payroll (Summer 2026)](https://jobright.ai/jobs/info/6982a1800a9e07331f8dccc0?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 25 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Human Resources Safety  Intern Fall 2026](https://jobright.ai/jobs/info/6966b6185ad3a93f82320839?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Feb 25 |
@@ -67,7 +71,8 @@ For a complete list, click the following sortable link below:
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Human Resources "SharePoint" Intern Summer 2026](https://jobright.ai/jobs/info/6966c117a112b4026614bb4b?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Feb 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Port St Lucie](https://jobright.ai/jobs/info/6982d8fe8232105a2d0b56e8?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Feb 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/698242fb0f6f7e7a2cdb6c2a?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Feb 25 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68db932d9f13662d20e4e58b?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ | On Site | Feb 25 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/699f510081476f6176b8f017?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68db932d9f13662d20e4e58b?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ | On Site | Feb 25 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/694ac8341224705e9001e0fa?utm_campaign=1054&utm_source=git)** | Vestal, NY | On Site | Feb 25 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/694ac7d31224705e9001e0ce?utm_campaign=1054&utm_source=git)** | Ithaca, NY | On Site | Feb 25 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac8f967a69734cac5e0cc?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Feb 25 |
@@ -137,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Talent Acquisition Rotation](https://jobright.ai/jobs/info/699eb82d81476f6176b82d25?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | On Site | Feb 25 |
 | ↳ | **[Intern - Talent Acquisition Rotation](https://jobright.ai/jobs/info/699eaf5481476f6176b81a9b?utm_campaign=1054&utm_source=git)** | Newtown, PA | On Site | Feb 25 |
 | **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/699ef67dce78e77b4fe4abe6?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Feb 24 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Compensation Analyst](https://jobright.ai/jobs/info/699e8c4ae0bddb6acace3f7c?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 24 |
 | **[CarDon & Associates](https://cardon.us/)** | **[HR Intern- CarDon and Associates Corp - Greenwood - Indianapolis Region](https://jobright.ai/jobs/info/699e7ec881476f6176b7a5f0?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 24 |
 | **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN](https://jobright.ai/jobs/info/699e7df8ce78e77b4fe3d75e?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Feb 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/699ef36881476f6176b87ae4?utm_campaign=1054&utm_source=git)** | Ontario, CA | On Site | Feb 24 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/699ec7bfe0bddb6acaceb953?utm_campaign=1054&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | Feb 24 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/699ee1dace78e77b4fe488f9?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Feb 24 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/699e6909e0bddb6acacdf1ef?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 24 |
-| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699e67efe0bddb6acacdef81?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 24 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[HR Services Paid Internship](https://jobright.ai/jobs/info/699e87d2e0bddb6acace38af?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 24 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[HRIS Intern- Summer 2026](https://jobright.ai/jobs/info/699e5e2fe0bddb6acacddb58?utm_campaign=1054&utm_source=git)** | Grimes, IA | On Site | Feb 24 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - HR Business Partner](https://jobright.ai/jobs/info/699ed1c581476f6176b8463c?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Feb 24 |
 | **[Entergy](https://www.entergy.com)** | **[Student Intern, Payroll, Fall 2026](https://jobright.ai/jobs/info/699e5aa6ce78e77b4fe389a9?utm_campaign=1054&utm_source=git)** | Hammond, LA | Hybrid | Feb 24 |
-| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[HR Intern Spring 2026](https://jobright.ai/jobs/info/699e59a881476f6176b7576d?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 24 |
-| **[TalentBase](https://www.talentbaseusa.com)** | **[Veterans CareerBridge – Professional Development & Paid Internship Pathway](https://jobright.ai/jobs/info/699e82d9e0bddb6acace2b8a?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Feb 24 |
-| **[Snohomish County PUD](http://www.snopud.com/)** | **[Summer Student Intern - Human Resources](https://jobright.ai/jobs/info/699e9ec4ce78e77b4fe41ab2?utm_campaign=1054&utm_source=git)** | Everett, WA, US | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
