@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, People, Performance and Culture](https://jobright.ai/jobs/info/6983cf61348f733a5c37347a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 26 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Learning & Development Intern – Summer 2025 (May – August)](https://jobright.ai/jobs/info/6983cfe3348f733a5c3735ec?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 26 |
+| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69682ecd1703f05405a9d5e2?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Feb 26 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - St Augustine, FL](https://jobright.ai/jobs/info/6983d28401214b4cdacbe00c?utm_campaign=1054&utm_source=git)** | St Augustine, FL | On Site | Feb 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983b173348f733a5c36e838?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Feb 26 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6968e21df25a3800669773b5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 26 |
@@ -119,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Corporate One Federal Credit Union](http://www.corporateone.coop)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fa0e7d643757b0e4510cf?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Feb 25 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Employee Relations Intern (Remote)](https://jobright.ai/jobs/info/699fcec253d97f23ee655388?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 25 |
 | **[The Seagate Hotel, Golf & Beach Club, Autograph Collection](http://www.seagatedelray.com)** | **[Human Resources Analyst Intern](https://jobright.ai/jobs/info/699ffab153d97f23ee6596d6?utm_campaign=1054&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
-| **[Turnberry](https://www.turnberry.com)** | **[Human Resources Analyst Intern](https://jobright.ai/jobs/info/699fc23181476f6176b97bb8?utm_campaign=1054&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
-| ↳ | **[Human Resources Communications Intern](https://jobright.ai/jobs/info/699fc72853d97f23ee65475c?utm_campaign=1054&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
+| **[Turnberry](https://www.turnberry.com)** | **[Human Resources Communications Intern](https://jobright.ai/jobs/info/699fc72853d97f23ee65475c?utm_campaign=1054&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
+| ↳ | **[Human Resources Analyst Intern](https://jobright.ai/jobs/info/699fc23181476f6176b97bb8?utm_campaign=1054&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
 | **[TMX Group](http://www.tmx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fe7a753d97f23ee657509?utm_campaign=1054&utm_source=git)** | New York - 225 Liberty Street | Hybrid | Feb 25 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/699fbcefce78e77b4fe5a135?utm_campaign=1054&utm_source=git)** | Liberty, NY | Hybrid | Feb 25 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fefb5ce78e77b4fe5eeae?utm_campaign=1054&utm_source=git)** | Elkhorn, WI | On Site | Feb 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Royal Canadian Yacht Club](https://rcyc.ca/private-club-toronto/Membership_inquiry_form)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fa3b4d643757b0e451710?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | On Site | Feb 25 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[HUMAN RESOURCES INTERN - SALES](https://jobright.ai/jobs/info/699fb017d643757b0e453255?utm_campaign=1054&utm_source=git)** | Dallas TX CF Hawn - Complex II (US010202) | On Site | Feb 25 |
 | **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/699fbd8bd643757b0e454332?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
-| **[Shopko Optical](http://www.shopko.com)** | **[Human Resources Recruiting Intern- Onsite](https://jobright.ai/jobs/info/699f865281476f6176b925ed?utm_campaign=1054&utm_source=git)** | Green Bay, WI, US | On Site | Feb 25 |
-| **[Alarm Detection Systems](https://www.adsalarm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699f9512ce78e77b4fe57022?utm_campaign=1054&utm_source=git)** | Aurora, Illinois, United States | On Site | Feb 25 |
-| **[ChristianaCare](http://christianacare.org)** | **[Summer Intern - Organizational Development](https://jobright.ai/jobs/info/699f940c81476f6176b943f6?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
