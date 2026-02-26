@@ -57,26 +57,36 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Continental Properties](http://www.cproperties.com/)** | **[Paid Human Resources Intern](https://jobright.ai/jobs/info/69a0c0f35218a8167671ec41?utm_campaign=1054&utm_source=git)** | Menomonee Falls, WI | On Site | Feb 26 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Talent Strategy, Cycle](https://jobright.ai/jobs/info/69a0bebe5218a8167671e9c6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 26 |
 | **[Thorlabs](http://www.thorlabs.com)** | **[Summer 2026 Change Management and HR Support Internship](https://jobright.ai/jobs/info/69a0b8b781476f6176bb0516?utm_campaign=1054&utm_source=git)** | Newton, NJ | On Site | Feb 26 |
 | **[Ursa Major](https://www.ursamajor.com)** | **[Summer 2026 People Operations Intern](https://jobright.ai/jobs/info/69a0b4405218a8167671deaf?utm_campaign=1054&utm_source=git)** | Berthoud, Colorado | On Site | Feb 26 |
 | **[Tenneco](https://www.tenneco.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69a0b3d70836fe79d861b3a8?utm_campaign=1054&utm_source=git)** | Northville, MI | On Site | Feb 26 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Career Development Intern - UNPAID](https://jobright.ai/jobs/info/69a0aed55218a8167671dab3?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 26 |
 | ↳ | **[Summer 2026 Employment Intern - UNPAID](https://jobright.ai/jobs/info/69a0a7d70836fe79d861a9b0?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | On Site | Feb 26 |
 | ↳ | **[Summer 2026 CRS Casework Intern - UNPAID](https://jobright.ai/jobs/info/69a0a2cb5218a8167671d03a?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | Hybrid | Feb 26 |
+| **[Stantec](http://www.stantec.com)** | **[Intern, Future Talent](https://jobright.ai/jobs/info/69a0c7395218a8167671f268?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 26 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c370836fe79d861a083?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Feb 26 |
+| **[Thorlabs](http://www.thorlabs.com)** | **[Summer 2026 Change Management and HR Support Internship](https://jobright.ai/jobs/info/69a0c66381476f6176bb127b?utm_campaign=1054&utm_source=git)** | Newton, NJ | On Site | Feb 26 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Human Resource Operations Intern](https://jobright.ai/jobs/info/694b22f64b53a1551f94e5a8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 26 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[HR Operations Bachelor's Intern](https://jobright.ai/jobs/info/69a0971a5218a8167671c7f2?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 26 |
+| **[E.S. FOX LIMITED](https://esfox.com/)** | **[Human Resources Co-op Student](https://jobright.ai/jobs/info/69a0c99c5218a8167671f4dd?utm_campaign=1054&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Feb 26 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6967f12f639b452fb57d7ff8?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Feb 26 |
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69a093090836fe79d86198f8?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Feb 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/691832e8bcdbf3560c9cf923?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 26 |
+| **[CN](http://www.cn.ca)** | **[Intern, Early Careers Analyst- EN](https://jobright.ai/jobs/info/6993147de0bddb6acac15c08?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 26 |
 | **[C.H. Guenther](http://www.chg.com)** | **[HR Workforce Development Intern](https://jobright.ai/jobs/info/6986e5fc8ca8121a3a696846?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 26 |
 | **[Maynard Nexsen](https://www.maynardnexsen.com)** | **[Intern - Recruiting](https://jobright.ai/jobs/info/69a090e35218a8167671bee7?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Feb 26 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[HR Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69a0adc90836fe79d861aeef?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Feb 26 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69680bc7f25a380066966019?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 26 |
-| **[Repligen Corporation](http://www.repligen.com)** | **[HR Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69a0adbe5218a8167671d9cb?utm_campaign=1054&utm_source=git)** | US-MA-Waltham | On Site | Feb 26 |
-| **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0a8030836fe79d861a9d7?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Feb 26 |
+| **[Stantec](http://www.stantec.com)** | **[Intern, Future Talent](https://jobright.ai/jobs/info/69a0c57c81476f6176bb11b1?utm_campaign=1054&utm_source=git)** | 1905 Aldrich Street Suite 300, Austin, TX, 78723, US | On Site | Feb 26 |
+| **[Repligen Corporation](http://www.repligen.com)** | **[HR Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69a0c35181476f6176bb0fc5?utm_campaign=1054&utm_source=git)** | Waltham, MA, US | On Site | Feb 26 |
+| ↳ | **[HR Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69a0adbe5218a8167671d9cb?utm_campaign=1054&utm_source=git)** | US-MA-Waltham | On Site | Feb 26 |
+| **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0c5555218a8167671f0a3?utm_campaign=1054&utm_source=git)** | Lakewood, New Jersey, United States | On Site | Feb 26 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0a8030836fe79d861a9d7?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Feb 26 |
 | **[Okta](http://www.okta.com)** | **[Talent Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6983ea5c0f6f7e7a2cdddb4e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Feb 26 |
 | **[Swindoll, Janzen, Hawk & Loyd, LLC](http://sjhl.com)** | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0b40b5218a8167671de74?utm_campaign=1054&utm_source=git)** | Manhattan, Kansas, United States | On Site | Feb 26 |
+| ↳ | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0c65681476f6176bb1271?utm_campaign=1054&utm_source=git)** | Topeka, Kansas, United States | On Site | Feb 26 |
 | ↳ | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0ab2a81476f6176baf97c?utm_campaign=1054&utm_source=git)** | Hutchinson, Kansas, United States | On Site | Feb 26 |
 | ↳ | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0a9bd0836fe79d861ab3e?utm_campaign=1054&utm_source=git)** | McPherson, Kansas, United States | On Site | Feb 26 |
 | ↳ | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0b0580836fe79d861b0b3?utm_campaign=1054&utm_source=git)** | Wichita, Kansas, United States | On Site | Feb 26 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avivo](https://www.avivomn.org/)** | **[Intern, Ending Homelessness Scattered Site](https://jobright.ai/jobs/info/69a0033dce78e77b4fe6263b?utm_campaign=1054&utm_source=git)** | 1826 Chicago Ave Mpls - MINNEAPOLIS, MN 55404 | On Site | Feb 25 |
 | **[San Diego County Regional Airport Authority](http://www.san.org)** | **[Human Resources - Intern II](https://jobright.ai/jobs/info/69a00f91ce78e77b4fe63783?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Feb 25 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Summer 2026 Recruiting Intern (Distribution) - St. Louis, MO](https://jobright.ai/jobs/info/699fcdc453d97f23ee655139?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Feb 25 |
-| **[Brad Hall Companies](https://bradhallfuel.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699ff28a81476f6176b9d483?utm_campaign=1054&utm_source=git)** | G2G HQ - Idaho Falls, ID 83404 | On Site | Feb 25 |
-| **[Dal-Tile LLC](http://dal-tile.com)** | **[MFG HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/699fff1181476f6176b9f72f?utm_campaign=1054&utm_source=git)** | Sunnyvale, TX | On Site | Feb 25 |
-| ↳ | **[HUMAN RESOURCES INTERN - SALES](https://jobright.ai/jobs/info/699fec3281476f6176b9c0cf?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 25 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Immigration Specialist (Summer 2026)](https://jobright.ai/jobs/info/699fdd2581476f6176b997d2?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 25 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69a0242c5218a81676711380?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 25 |
-| **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/699fbad881476f6176b973c3?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Feb 25 |
-| **[Avivo](https://www.avivomn.org/)** | **[Intern, Ending Homelessness Scattered Site](https://jobright.ai/jobs/info/69a0038253d97f23ee65a6a7?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Feb 25 |
-| **[Parkland Corporation](https://www.parkland.ca/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/699fe3bb81476f6176b9a7fc?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 25 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/699fe4db81476f6176b9aac3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 25 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[People & Culture Intern - Orlando, FL](https://jobright.ai/jobs/info/699fdcb081476f6176b99791?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
