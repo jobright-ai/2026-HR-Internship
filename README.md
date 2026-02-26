@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - St Augustine, FL](https://jobright.ai/jobs/info/6983d28401214b4cdacbe00c?utm_campaign=1054&utm_source=git)** | St Augustine, FL | On Site | Feb 26 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983b173348f733a5c36e838?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Feb 26 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6968e21df25a3800669773b5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 26 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Feb 26 |
+| **[TriHealth](http://www.trihealth.com)** | **[Intern - Human Resources Department](https://jobright.ai/jobs/info/69a05b115218a81676716c99?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a059d50836fe79d8613f47?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Feb 26 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Feb 26 |
+| ↳ | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Feb 26 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/698c281fe4f6572f0e443cc5?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Feb 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6983c0ec0f6f7e7a2cdd6999?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Feb 26 |
 | ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/698e0c3b0f6f7e7a2cea1a2f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 26 |
@@ -72,7 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Confluent](https://confluent.io)** | **[Early Talent Sophmore Intern](https://jobright.ai/jobs/info/698406d10f6f7e7a2cde18c6?utm_campaign=1054&utm_source=git)** | Ontario, Canada | Hybrid | Feb 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1a6348f733a5c36e8df?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Feb 26 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698396b501214b4cdacb4e21?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 26 |
+| **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Talent and Development - Intern](https://jobright.ai/jobs/info/69275f93d47de4798ecdbf91?utm_campaign=1054&utm_source=git)** | Sissonville, WV | On Site | Feb 26 |
 | **[HITT Contracting Inc.](http://www.hitt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6983db8801214b4cdacbf96e?utm_campaign=1054&utm_source=git)** | Falls Church, VA | On Site | Feb 26 |
+| **[Vista Capital Partners](http://vistacp.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/698421670f6f7e7a2cde513f?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Feb 26 |
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Personnel Management and Administration](https://jobright.ai/jobs/info/69a0546281476f6176ba8994?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Intern](https://jobright.ai/jobs/info/6933f3d6a0dde7020e2f34de?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ | On Site | Feb 26 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[HR Strategy & Talent Intern - The Toro Company](https://jobright.ai/jobs/info/69678dbb639b452fb57d1ac7?utm_campaign=1054&utm_source=git)** | Hennepin County, MN | On Site | Feb 26 |
@@ -116,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fefb5ce78e77b4fe5eeae?utm_campaign=1054&utm_source=git)** | Elkhorn, WI | On Site | Feb 25 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Summer 2026 Recruiting Intern (Distribution) - St. Louis, MO](https://jobright.ai/jobs/info/699fb5fece78e77b4fe59ab1?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Feb 25 |
 | **[Kairoi Residential](https://www.kairoi.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/699fb9c1ce78e77b4fe59e73?utm_campaign=1054&utm_source=git)** | San Antonio,TX,US | On Site | Feb 25 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[HR Intern](https://jobright.ai/jobs/info/699fd0d1ce78e77b4fe5bb3d?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 25 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/699fe47053d97f23ee65707b?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 25 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[HR Intern](https://jobright.ai/jobs/info/699fe47053d97f23ee65707b?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Feb 25 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/699fd0d1ce78e77b4fe5bb3d?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Feb 25 |
 | **[Reality Defender](https://realitydefender.com)** | **[HR & Recruiting Intern](https://jobright.ai/jobs/info/699fed4753d97f23ee657dc5?utm_campaign=1054&utm_source=git)** | New York City | On Site | Feb 25 |
 | **[OTG Management](http://www.otgexp.com/)** | **[IAH Talent Acquisition Intern](https://jobright.ai/jobs/info/699f882cce78e77b4fe55475?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Feb 25 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - PhD Workforce Innovation](https://jobright.ai/jobs/info/699ffc2b53d97f23ee659935?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 25 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shopko Optical](http://www.shopko.com)** | **[Human Resources Recruiting Intern- Onsite](https://jobright.ai/jobs/info/699f865281476f6176b925ed?utm_campaign=1054&utm_source=git)** | Green Bay, WI, US | On Site | Feb 25 |
 | **[Alarm Detection Systems](https://www.adsalarm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699f9512ce78e77b4fe57022?utm_campaign=1054&utm_source=git)** | Aurora, Illinois, United States | On Site | Feb 25 |
 | **[ChristianaCare](http://christianacare.org)** | **[Summer Intern - Organizational Development](https://jobright.ai/jobs/info/699f940c81476f6176b943f6?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Feb 25 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[HRIS Intern (Year-Round)](https://jobright.ai/jobs/info/699f9086ce78e77b4fe565e4?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | Hybrid | Feb 25 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fe75cce78e77b4fe5db16?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Feb 25 |
-| **[GeoComply](https://www.geocomply.com)** | **[People Operations Intern - Summer 2026 (Vancouver)](https://jobright.ai/jobs/info/699f554ace78e77b4fe5215d?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Feb 25 |
-| **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[Graduate Intern – Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/699f554994ef206f184e7d20?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 25 |
-| **[SECU](https://www.ncsecu.org)** | **[Intern - Talent Acquisition Full-time Summer 2026](https://jobright.ai/jobs/info/69968ac781476f6176ae67d0?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Hybrid | Feb 25 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/699fe34d53d97f23ee656e29?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 25 |
-| **[GeoComply](https://www.geocomply.com)** | **[People Operations Intern - Summer 2026 (Vancouver)](https://jobright.ai/jobs/info/699ff819ce78e77b4fe60568?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 25 |
-| **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/699fba8fce78e77b4fe59f5f?utm_campaign=1054&utm_source=git)** | Danville, VA | On Site | Feb 25 |
-| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699f96c0ce78e77b4fe57437?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Feb 25 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/699f4b92ce78e77b4fe51933?utm_campaign=1054&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
