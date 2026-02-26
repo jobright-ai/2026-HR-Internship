@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 CRS Casework Intern - UNPAID](https://jobright.ai/jobs/info/69a0a2cb5218a8167671d03a?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | Hybrid | Feb 26 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c370836fe79d861a083?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Feb 26 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Human Resource Operations Intern](https://jobright.ai/jobs/info/694b22f64b53a1551f94e5a8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 26 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[HR Operations Bachelor's Intern](https://jobright.ai/jobs/info/69a0971a5218a8167671c7f2?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 26 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Corporate One Federal Credit Union](http://www.corporateone.coop)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fa0e7d643757b0e4510cf?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Feb 25 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Employee Relations Intern (Remote)](https://jobright.ai/jobs/info/699fcec253d97f23ee655388?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 25 |
 | **[The Seagate Hotel, Golf & Beach Club, Autograph Collection](http://www.seagatedelray.com)** | **[Human Resources Analyst Intern](https://jobright.ai/jobs/info/699ffab153d97f23ee6596d6?utm_campaign=1054&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
-| **[Turnberry](https://www.turnberry.com)** | **[Human Resources Analyst Intern](https://jobright.ai/jobs/info/699fc23181476f6176b97bb8?utm_campaign=1054&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
-| ↳ | **[Human Resources Communications Intern](https://jobright.ai/jobs/info/699fc72853d97f23ee65475c?utm_campaign=1054&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
+| **[Turnberry](https://www.turnberry.com)** | **[Human Resources Communications Intern](https://jobright.ai/jobs/info/699fc72853d97f23ee65475c?utm_campaign=1054&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
+| ↳ | **[Human Resources Analyst Intern](https://jobright.ai/jobs/info/699fc23181476f6176b97bb8?utm_campaign=1054&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
 | **[TMX Group](http://www.tmx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fe7a753d97f23ee657509?utm_campaign=1054&utm_source=git)** | New York - 225 Liberty Street | Hybrid | Feb 25 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/699fbcefce78e77b4fe5a135?utm_campaign=1054&utm_source=git)** | Liberty, NY | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
