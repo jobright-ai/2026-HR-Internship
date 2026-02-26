@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Freeman Company](https://linktr.ee/freeman.events)** | **[Intern Human Resources](https://jobright.ai/jobs/info/69a003fe81476f6176b9fbf4?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 26 |
 | **[Freeman Company](https://linktr.ee/freeman.events)** | **[Intern Human Resources](https://jobright.ai/jobs/info/69a0095fce78e77b4fe62ee8?utm_campaign=1054&utm_source=git)** | Texas - Dallas | On Site | Feb 25 |
+| **[Michael Best & Friedrich LLP](http://www.michaelbest.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a01101ce78e77b4fe63b5d?utm_campaign=1054&utm_source=git)** | Waukesha County, WI | On Site | Feb 25 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Remote HR Internship- Technical Recruiting (U.S. residents only)](https://jobright.ai/jobs/info/699ff741ce78e77b4fe603e7?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Avivo](https://www.avivomn.org/)** | **[Intern, Ending Homelessness Scattered Site](https://jobright.ai/jobs/info/69a0033dce78e77b4fe6263b?utm_campaign=1054&utm_source=git)** | 1826 Chicago Ave Mpls - MINNEAPOLIS, MN 55404 | On Site | Feb 25 |
 | **[San Diego County Regional Airport Authority](http://www.san.org)** | **[Human Resources - Intern II](https://jobright.ai/jobs/info/69a00f91ce78e77b4fe63783?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/698242fb0f6f7e7a2cdb6c2a?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Feb 25 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/699f510081476f6176b8f017?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Feb 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68db932d9f13662d20e4e58b?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ | On Site | Feb 25 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/694ac8341224705e9001e0fa?utm_campaign=1054&utm_source=git)** | Vestal, NY | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
