@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[tastytrade](https://tastytrade.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69a0fa276b458d060735b314?utm_campaign=1054&utm_source=git)** | Chicago, Illinois | On Site | Feb 26 |
+| **[tastylive](https://www.tastylive.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69a0f94d5218a816767233f5?utm_campaign=1054&utm_source=git)** | Chicago, Illinois | On Site | Feb 26 |
+| **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern - Talent Connections](https://jobright.ai/jobs/info/69a0f7565218a8167672325a?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 26 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a0d5db81476f6176bb22b3?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Feb 26 |
 | **[SOCAN](http://www.socan.ca)** | **[HR Operations & Policy Intern](https://jobright.ai/jobs/info/69a0f4a581476f6176bb507a?utm_campaign=1054&utm_source=git)** | North York, Ontario, Canada | Hybrid | Feb 26 |
-| **[Constellation](https://www.helloconstellation.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69a0f5726b458d060735af1f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
 | **[St. Croix County](http://www.sccwi.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0f4896b458d060735ae66?utm_campaign=1054&utm_source=git)** | 1101 Carmichael Rd, Hudson, WI, 54016, US | On Site | Feb 26 |
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid Human Resources Intern](https://jobright.ai/jobs/info/69a0c0f35218a8167671ec41?utm_campaign=1054&utm_source=git)** | Menomonee Falls, WI | On Site | Feb 26 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Talent Strategy, Cycle](https://jobright.ai/jobs/info/69a0bebe5218a8167671e9c6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 26 |
@@ -72,10 +74,10 @@ For a complete list, click the following sortable link below:
 | **[Arvato](https://arvato.com/)** | **[Recruiting Communications Intern](https://jobright.ai/jobs/info/69a0e5275218a81676721bb7?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 26 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Career Development Intern - UNPAID](https://jobright.ai/jobs/info/69a0aed55218a8167671dab3?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 26 |
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[HR Intern](https://jobright.ai/jobs/info/69a0cf5b81476f6176bb19be?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Feb 26 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Talent Strategy, Cycle](https://jobright.ai/jobs/info/69a0d5845218a81676720183?utm_campaign=1054&utm_source=git)** | USA-NY - New York Remote | Remote | Feb 26 |
-| ↳ | **[Summer 2026 Internship - Talent Strategy, Cycle](https://jobright.ai/jobs/info/69a0e6dc0836fe79d861f343?utm_campaign=1054&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Feb 26 |
-| ↳ | **[Summer 2026 Internship - Talent Strategy, Cycle](https://jobright.ai/jobs/info/69a0e4cc5218a81676721af7?utm_campaign=1054&utm_source=git)** | USA-TX - Dallas Office | On Site | Feb 26 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Talent Strategy, Cycle](https://jobright.ai/jobs/info/69a0e6dc0836fe79d861f343?utm_campaign=1054&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Feb 26 |
 | ↳ | **[Summer 2026 Internship - Talent Strategy, Cycle](https://jobright.ai/jobs/info/69a0eb3a81476f6176bb46e8?utm_campaign=1054&utm_source=git)** | USA-NY - Brooklyn (Dumbo) | On Site | Feb 26 |
+| ↳ | **[Summer 2026 Internship - Talent Strategy, Cycle](https://jobright.ai/jobs/info/69a0e4cc5218a81676721af7?utm_campaign=1054&utm_source=git)** | USA-TX - Dallas Office | On Site | Feb 26 |
+| ↳ | **[Summer 2026 Internship - Talent Strategy, Cycle](https://jobright.ai/jobs/info/69a0d5845218a81676720183?utm_campaign=1054&utm_source=git)** | USA-NY - New York Remote | Remote | Feb 26 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Employment Intern - UNPAID](https://jobright.ai/jobs/info/69a0a7d70836fe79d861a9b0?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | On Site | Feb 26 |
 | **[HII](https://hii.com)** | **[2026 COLLEGE INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/69a0ca745218a8167671f585?utm_campaign=1054&utm_source=git)** | Pascagoula, MS | On Site | Feb 26 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Employee Relations Intern](https://jobright.ai/jobs/info/69a0ce690836fe79d861cd51?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Feb 26 |
@@ -106,9 +108,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0a8030836fe79d861a9d7?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Feb 26 |
 | **[Okta](http://www.okta.com)** | **[Talent Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6983ea5c0f6f7e7a2cdddb4e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Feb 26 |
 | **[Swindoll, Janzen, Hawk & Loyd, LLC](http://sjhl.com)** | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0b40b5218a8167671de74?utm_campaign=1054&utm_source=git)** | Manhattan, Kansas, United States | On Site | Feb 26 |
-| ↳ | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0ab2a81476f6176baf97c?utm_campaign=1054&utm_source=git)** | Hutchinson, Kansas, United States | On Site | Feb 26 |
-| ↳ | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0b0580836fe79d861b0b3?utm_campaign=1054&utm_source=git)** | Wichita, Kansas, United States | On Site | Feb 26 |
 | ↳ | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0a9bd0836fe79d861ab3e?utm_campaign=1054&utm_source=git)** | McPherson, Kansas, United States | On Site | Feb 26 |
+| ↳ | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0b0580836fe79d861b0b3?utm_campaign=1054&utm_source=git)** | Wichita, Kansas, United States | On Site | Feb 26 |
+| ↳ | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0ab2a81476f6176baf97c?utm_campaign=1054&utm_source=git)** | Hutchinson, Kansas, United States | On Site | Feb 26 |
 | ↳ | **[Spring 2027 Internship](https://jobright.ai/jobs/info/69a0c65681476f6176bb1271?utm_campaign=1054&utm_source=git)** | Topeka, Kansas, United States | On Site | Feb 26 |
 | **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696859cc1703f05405aa0a8d?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Feb 26 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/6983bd7c348f733a5c3708ad?utm_campaign=1054&utm_source=git)** | Kodiak, AK | On Site | Feb 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Skills Centre](https://skillscentre.ca/)** | **[Summer Student, Delivery of Benefits Research Assistant](https://jobright.ai/jobs/info/69a04a1c81476f6176ba794a?utm_campaign=1054&utm_source=git)** | Castlegar, British Columbia, Canada | On Site | Feb 26 |
 | **[Confluent](https://confluent.io)** | **[Early Talent Sophmore Intern](https://jobright.ai/jobs/info/698406d10f6f7e7a2cde18c6?utm_campaign=1054&utm_source=git)** | Ontario, Canada | Hybrid | Feb 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1a6348f733a5c36e8df?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Feb 26 |
-| **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69691bae1703f05405aaee4a?utm_campaign=1054&utm_source=git)** | South Dakota, United States | Remote | Feb 26 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/698823028ca8121a3a6ab039?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
