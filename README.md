@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syska Hennessy Group](http://www.syska.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/698638358ca8121a3a68672d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Feb 28 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6986afc38da7a612046194ce?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Feb 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1054&utm_source=git)** | Twin Falls, ID | On Site | Feb 28 |
+| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69a319920da45516f16c6b31?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 28 |
+| ↳ | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69a31972359fe034b1ce6268?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f5ffca2668b7f54528a5b?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Feb 28 |
+| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69a3184cb600907a96296f04?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 28 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Senior Outreach](https://jobright.ai/jobs/info/69a3155b0da45516f16c6813?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | Feb 28 |
 | **[Crusoe](https://crusoe.ai)** | **[Workplace Intern, Summer 2026](https://jobright.ai/jobs/info/6986c2718ca8121a3a69303f?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] People Science - PhD Intern](https://jobright.ai/jobs/info/69a23d5d359fe034b1cd7954?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Feb 27 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026**](https://jobright.ai/jobs/info/69a24242359fe034b1cd7e31?utm_campaign=1054&utm_source=git)** | Indianapolis, Indiana | On Site | Feb 27 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Talent acquisition, intern](https://jobright.ai/jobs/info/69a24ba1b600907a962895cc?utm_campaign=1054&utm_source=git)** | Saint-Laurent, QC | Hybrid | Feb 27 |
-| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Talent Attraction & Candidate Experience Undergraduate Intern](https://jobright.ai/jobs/info/69a217330da45516f16b6054?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 27 |
-| **[Topcon Positioning Systems](https://www.topconpositioning.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a240f70da45516f16b8862?utm_campaign=1054&utm_source=git)** | Oakland, NJ | On Site | Feb 27 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] People Science - PhD Intern](https://jobright.ai/jobs/info/69a245a3b600907a9628906e?utm_campaign=1054&utm_source=git)** | San Mateo, CA, United States | Hybrid | Feb 27 |
-| **[Hanseatic Global Terminals](https://www.hanseaticglobalterminals.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69a245d1b600907a962890a3?utm_campaign=1054&utm_source=git)** | US | On Site | Feb 27 |
-| **[Miller Industries, LLC](https://millc.com)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69a23ec1359fe034b1cd7a93?utm_campaign=1054&utm_source=git)** | Fenton, MI | On Site | Feb 27 |
-| **[Dometic](https://www.dometic.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a213de359fe034b1cd5266?utm_campaign=1054&utm_source=git)** | Katy, TX | Hybrid | Feb 27 |
-| **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/699032ac6ea51a7610f2b841?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Feb 27 |
-| **[Fremont Bank](http://www.fremontbank.com)** | **[Intern - AI HR Operations & Automation](https://jobright.ai/jobs/info/69a20d7c0da45516f16b56cd?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
