@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MESA Charter High School](http://mesacharter.org)** | **[SY 25-26 Talent Recruitment Intern](https://jobright.ai/jobs/info/69825a0b0f6f7e7a2cdb826e?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Feb 28 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a3490a359fe034b1ce7c23?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Feb 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Human Resources Bachelor's Intern](https://jobright.ai/jobs/info/69a32fec0da45516f16c76ca?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 28 |
 | **[4imprint](http://investors.4imprint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a32b140da45516f16c73e8?utm_campaign=1054&utm_source=git)** | Oshkosh, WI | On Site | Feb 28 |
 | **[Snohomish County PUD](http://www.snopud.com/)** | **[Summer Student Intern - Human Resources](https://jobright.ai/jobs/info/69a32ad4b600907a9629782a?utm_campaign=1054&utm_source=git)** | Everett, WA | On Site | Feb 28 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[HR Intern – (Corporate)](https://jobright.ai/jobs/info/69a2cec7359fe034b1ce2d52?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Feb 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a2a91a0da45516f16c0b06?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Feb 28 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a2a71c359fe034b1cdfce6?utm_campaign=1054&utm_source=git)** | Chester, UT | Hybrid | Feb 28 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69a29c5b359fe034b1cde964?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 27 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694eb8fe29655e4dd6584916?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | Feb 27 |
 | **[Super.com](https://www.super.com)** | **[Talent Acquisition Intern (8 months)](https://jobright.ai/jobs/info/69a272e2b600907a9628c52a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | Feb 27 |
@@ -139,10 +140,10 @@ For a complete list, click the following sortable link below:
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69a27369359fe034b1cdb791?utm_campaign=1054&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
 | **[TRDI Incorporated](https://trdi.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69a26a7a359fe034b1cdaaca?utm_campaign=1054&utm_source=git)** | San Antonio, Texas, United States | On Site | Feb 27 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Summer 2026](https://jobright.ai/jobs/info/69a25791b600907a96289fd4?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 27 |
-| **[Barnes](https://www.onebarnes.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a25ee5b600907a9628a778?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 27 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a25f15359fe034b1cd9913?utm_campaign=1054&utm_source=git)** | West Chester, Ohio, United States | On Site | Feb 27 |
+| **[Barnes](https://www.onebarnes.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a25f15359fe034b1cd9913?utm_campaign=1054&utm_source=git)** | West Chester, Ohio, United States | On Site | Feb 27 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a273dc0da45516f16bc0be?utm_campaign=1054&utm_source=git)** | Warren, Michigan, United States | On Site | Feb 27 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a25611359fe034b1cd8f9f?utm_campaign=1054&utm_source=git)** | Ogden, Utah, United States | On Site | Feb 27 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a25ee5b600907a9628a778?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 27 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a25bcdb600907a9628a3a9?utm_campaign=1054&utm_source=git)** | Lansing, Michigan, United States | On Site | Feb 27 |
 | **[Van Subaru](http://www.vansubaru.com)** | **[INTERN - HR Operations (NASI)](https://jobright.ai/jobs/info/69a255590da45516f16b98ff?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI, United States | On Site | Feb 27 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Strategy and Operations Intern](https://jobright.ai/jobs/info/69a2600eb600907a9628a9b6?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69a24faab600907a96289910?utm_campaign=1054&utm_source=git)** | Breinigsville, PA, United States | On Site | Feb 27 |
 | **[Cooper Machinery Services](http://cooperservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69a21ab1359fe034b1cd5817?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 27 |
 | **[Lower Cape Fear LifeCare](https://lifecare.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a219570da45516f16b6242?utm_campaign=1054&utm_source=git)** | Wilmington, NC, US | On Site | Feb 27 |
-| **[Extra Space Storage](http://www.extraspace.com)** | **[Recruiting Intern-Part Time](https://jobright.ai/jobs/info/69a24bbb0da45516f16b91ac?utm_campaign=1054&utm_source=git)** | Midvale, UT | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
