@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69a29c5b359fe034b1cde964?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 27 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a294d0359fe034b1cddf7f?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Feb 27 |
 | **[TMX Group](http://www.tmx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a28e730da45516f16be315?utm_campaign=1054&utm_source=git)** | Liberty, NY | Hybrid | Feb 27 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694eb8fe29655e4dd6584916?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d229529655e4dd6573479?utm_campaign=1054&utm_source=git)** | Yuba City, CA | On Site | Feb 27 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d136a29655e4dd6572569?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Feb 27 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: HR Intern](https://jobright.ai/jobs/info/6984f37d0f6f7e7a2cdf6bd9?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 27 |
-| **[Baldwin Supply Company](http://baldwinsupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/69a1ded30da45516f16b3152?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
