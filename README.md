@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Human Resources Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a44dd2359fe034b1cf2fbd?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Mar 01 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a446400da45516f16d384e?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 01 |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, IT Business Solutions](https://jobright.ai/jobs/info/6933a5b6764507023d1b7a4a?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Mar 01 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - HR Operations (NASI)](https://jobright.ai/jobs/info/69a43376359fe034b1cf1c82?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 01 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ccc1cbd99309000e5a29a4?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product&Design team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adc5edb26b618950e3638?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026**](https://jobright.ai/jobs/info/69a353d00da45516f16c8c61?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 28 |
 | **[MESA Charter High School](http://mesacharter.org)** | **[SY 25-26 Talent Recruitment Intern](https://jobright.ai/jobs/info/69825a0b0f6f7e7a2cdb826e?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Feb 28 |
 | **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[HR Intern](https://jobright.ai/jobs/info/69a36a59359fe034b1ce86e3?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Feb 28 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a3490a359fe034b1ce7c23?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Feb 28 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[University Recruiting Intern - Summer 2026](https://jobright.ai/jobs/info/69a3811eb600907a962999e5?utm_campaign=1054&utm_source=git)** | North Carolina, United States | On Site | Feb 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Human Resources Bachelor's Intern](https://jobright.ai/jobs/info/69a32fec0da45516f16c76ca?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Feb 28 |
 | **[4imprint](http://investors.4imprint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a32b140da45516f16c73e8?utm_campaign=1054&utm_source=git)** | Oshkosh, WI | On Site | Feb 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Steel Technologies](http://www.steeltechnologies.com)** | **[Summer 2026: HR Intern](https://jobright.ai/jobs/info/69a263b20da45516f16ba922?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Feb 27 |
 | **[TRDI Incorporated](https://trdi.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69a254d4b600907a96289d32?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 27 |
 | **[Highridge Medical](https://www.highridgemedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a265d1b600907a9628b179?utm_campaign=1054&utm_source=git)** | Westminster, CO, US | On Site | Feb 27 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - HR Operations (NASI)](https://jobright.ai/jobs/info/69a269770da45516f16bb065?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI, United States | On Site | Feb 27 |
-| **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Human Resources & Risk Management Intern](https://jobright.ai/jobs/info/69a2583f0da45516f16b9bf7?utm_campaign=1054&utm_source=git)** | Auburn, WA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
