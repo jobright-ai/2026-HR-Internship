@@ -143,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69a27369359fe034b1cdb791?utm_campaign=1054&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
 | **[TRDI Incorporated](https://trdi.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69a26a7a359fe034b1cdaaca?utm_campaign=1054&utm_source=git)** | San Antonio, Texas, United States | On Site | Feb 27 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Summer 2026](https://jobright.ai/jobs/info/69a25791b600907a96289fd4?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 27 |
-| **[Barnes](https://www.onebarnes.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a25f15359fe034b1cd9913?utm_campaign=1054&utm_source=git)** | West Chester, Ohio, United States | On Site | Feb 27 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a273dc0da45516f16bc0be?utm_campaign=1054&utm_source=git)** | Warren, Michigan, United States | On Site | Feb 27 |
+| **[Barnes](https://www.onebarnes.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a273dc0da45516f16bc0be?utm_campaign=1054&utm_source=git)** | Warren, Michigan, United States | On Site | Feb 27 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a25f15359fe034b1cd9913?utm_campaign=1054&utm_source=git)** | West Chester, Ohio, United States | On Site | Feb 27 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a25bcdb600907a9628a3a9?utm_campaign=1054&utm_source=git)** | Lansing, Michigan, United States | On Site | Feb 27 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a25ee5b600907a9628a778?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 27 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a25611359fe034b1cd8f9f?utm_campaign=1054&utm_source=git)** | Ogden, Utah, United States | On Site | Feb 27 |
