@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - HR Operations (NASI)](https://jobright.ai/jobs/info/69a43376359fe034b1cf1c82?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 01 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ccc1cbd99309000e5a29a4?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product&Design team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adc5edb26b618950e3638?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
 | **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/69162f0b6f36db06ef0538d9?utm_campaign=1054&utm_source=git)** | Hopkins, MN | On Site | Mar 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Highridge Medical](https://www.highridgemedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a265d1b600907a9628b179?utm_campaign=1054&utm_source=git)** | Westminster, CO, US | On Site | Feb 27 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - HR Operations (NASI)](https://jobright.ai/jobs/info/69a269770da45516f16bb065?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI, United States | On Site | Feb 27 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Human Resources & Risk Management Intern](https://jobright.ai/jobs/info/69a2583f0da45516f16b9bf7?utm_campaign=1054&utm_source=git)** | Auburn, WA | On Site | Feb 27 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69a25bad359fe034b1cd9502?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
