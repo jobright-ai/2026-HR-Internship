@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Human Resource Business Partner Intern C (Camden, AR)](https://jobright.ai/jobs/info/69a4846eb600907a962a5195?utm_campaign=1054&utm_source=git)** | Camden, AR | On Site | Mar 01 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern - Summer '26](https://jobright.ai/jobs/info/68c2333563b706703e11245b?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Mar 01 |
 | **[Canandaigua National Bank](http://cnbank.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69a471f2359fe034b1cf3c79?utm_campaign=1054&utm_source=git)** | BASIN PARK 1150, Pittsford, NY, US | On Site | Mar 01 |
 | **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[Human Resources Bachelor's Intern](https://jobright.ai/jobs/info/69a471c2359fe034b1cf3c53?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Mar 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product&Design team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69797ee2ca92cf0d6a82a31b?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[HR Intern – (Corporate)](https://jobright.ai/jobs/info/69a2cec7359fe034b1ce2d52?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Feb 28 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69a40437359fe034b1cef715?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 28 |
-| **[Barnes Aerospace](https://www.barnesaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a2a71c359fe034b1cdfce6?utm_campaign=1054&utm_source=git)** | Chester, UT | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
