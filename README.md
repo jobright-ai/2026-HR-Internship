@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f602ca2668b7f54528a69?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Mar 01 |
+| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern - Summer '26](https://jobright.ai/jobs/info/68c2333563b706703e11245b?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Mar 01 |
+| **[Canandaigua National Bank](http://cnbank.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69a471f2359fe034b1cf3c79?utm_campaign=1054&utm_source=git)** | BASIN PARK 1150, Pittsford, NY, US | On Site | Mar 01 |
+| **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[Human Resources Bachelor's Intern](https://jobright.ai/jobs/info/69a471c2359fe034b1cf3c53?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Mar 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/68ce883a846f0b04af67ac2f?utm_campaign=1054&utm_source=git)** | Leominster, MA | On Site | Mar 01 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691662f36f36db06ef055cb5?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Mar 01 |
+| ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Mar 01 |
+| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f602ca2668b7f54528a69?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Mar 01 |
 | ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Mar 01 |
 | ↳ | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Mar 01 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Mar 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[HR Intern – (Corporate)](https://jobright.ai/jobs/info/69a2cec7359fe034b1ce2d52?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Feb 28 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69a40437359fe034b1cef715?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Feb 28 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a2a71c359fe034b1cdfce6?utm_campaign=1054&utm_source=git)** | Chester, UT | Hybrid | Feb 28 |
-| **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694eb8fe29655e4dd6584916?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 27 |
-| **[Hocking Valley Community Hospital](https://www.hvch.org)** | **[College Intern - Hospital, Human Resources in Logan, Ohio](https://jobright.ai/jobs/info/69a37ec50da45516f16c9475?utm_campaign=1054&utm_source=git)** | Logan, OH, US | On Site | Feb 27 |
-| **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | Feb 27 |
-| **[Super.com](https://www.super.com)** | **[Talent Acquisition Intern (8 months)](https://jobright.ai/jobs/info/69a272e2b600907a9628c52a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | Feb 27 |
-| **[City of St. Charles, Illinois](https://www.stcharlesil.gov)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69a26883b600907a9628b683?utm_campaign=1054&utm_source=git)** | St Charles, IL | On Site | Feb 27 |
-| **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a266e00da45516f16bad74?utm_campaign=1054&utm_source=git)** | Warren, MI | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
