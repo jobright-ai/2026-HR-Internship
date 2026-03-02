@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[El Centro Family Health](https://ecfh.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a4e11e0da45516f16d7a4e?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | Mar 01 |
+| **[Museum of Science](http://www.mos.org)** | **[Human Resources  College Internship](https://jobright.ai/jobs/info/698643758da7a6120460f4b5?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 01 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Business Professional Recruiting](https://jobright.ai/jobs/info/69a4d9050da45516f16d78bb?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College (Unpaid) - Office of Physician and APP Recruitment and Alignment](https://jobright.ai/jobs/info/69a4a3cab600907a962a685b?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 01 |
 | **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977dd2afdeb8243a27acf6d?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Mar 01 |
@@ -93,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a41a13b600907a962a2256?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 01 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- HR Data Analyst](https://jobright.ai/jobs/info/6979238a88e2b47213bd4087?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Mar 01 |
 | **[DSG Supply](https://www.dsgsupply.com/)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/69a3f5430da45516f16cf12b?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Mar 01 |
-| **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a3f5140da45516f16cf0e8?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 01 |
 | **[Bunzl plc](http://www.bunzl.com)** | **[Recruiting Intern - Summer 2026 Distribution (St. Louis, MO)](https://jobright.ai/jobs/info/69a3f219359fe034b1cedeca?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Mar 01 |
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a3ece60da45516f16ce452?utm_campaign=1054&utm_source=git)** | Gillette, WY | On Site | Feb 28 |
 | **[TRDI](https://trdi.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69a3e95c359fe034b1ced5da?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avivo](https://www.avivomn.org/)** | **[Intern, Ending Homelessness Scattered Site](https://jobright.ai/jobs/info/69a0038253d97f23ee65a6a7?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Feb 28 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Talent acquisition, intern](https://jobright.ai/jobs/info/69a2c749b600907a96293648?utm_campaign=1054&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Feb 28 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69a2c5db0da45516f16c30e4?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Feb 28 |
-| **[Par Health](https://parsterileproducts.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69a2fbc50da45516f16c5cad?utm_campaign=1054&utm_source=git)** | Hazelwood, MO | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
