@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/699032ac6ea51a7610f2b841?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 01 |
 | **[El Centro Family Health](https://ecfh.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a4e11e0da45516f16d7a4e?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | Mar 01 |
 | **[Museum of Science](http://www.mos.org)** | **[Human Resources  College Internship](https://jobright.ai/jobs/info/698643758da7a6120460f4b5?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 01 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Business Professional Recruiting](https://jobright.ai/jobs/info/69a4d9050da45516f16d78bb?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College (Unpaid) - Office of Physician and APP Recruitment and Alignment](https://jobright.ai/jobs/info/69a4a3cab600907a962a685b?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 01 |
 | **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977dd2afdeb8243a27acf6d?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Mar 01 |
-| **[Tetr College of Business](https://tetr.com)** | **[Admissions Intern](https://jobright.ai/jobs/info/69a492a6b600907a962a57b0?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 01 |
 | **[PACCAR Technical Center](https://jobs.paccar.com/)** | **[Summer Internship 2026 - Human Resources](https://jobright.ai/jobs/info/69188b2e45fb6f5ead8a5d53?utm_campaign=1054&utm_source=git)** | Mount Vernon, WA | On Site | Mar 01 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/691884d415b41563671829dd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Mar 01 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Human Resource Business Partner Intern C (Camden, AR)](https://jobright.ai/jobs/info/69a4846eb600907a962a5195?utm_campaign=1054&utm_source=git)** | Camden, AR | On Site | Mar 01 |
@@ -114,8 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Feb 28 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6986afc38da7a612046194ce?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Feb 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1054&utm_source=git)** | Twin Falls, ID | On Site | Feb 28 |
-| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69a319920da45516f16c6b31?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 28 |
-| ↳ | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69a31972359fe034b1ce6268?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 28 |
+| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69a31972359fe034b1ce6268?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f5ffca2668b7f54528a5b?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Feb 28 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Feb 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Talent acquisition, intern](https://jobright.ai/jobs/info/69a2c749b600907a96293648?utm_campaign=1054&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Feb 28 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69a2c5db0da45516f16c30e4?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Feb 28 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69a2fbc50da45516f16c5cad?utm_campaign=1054&utm_source=git)** | Hazelwood, MO | On Site | Feb 28 |
+| ↳ | **[Intern, Learning and Development](https://jobright.ai/jobs/info/69a2fae9b600907a96295fe9?utm_campaign=1054&utm_source=git)** | Hobart, NY | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
