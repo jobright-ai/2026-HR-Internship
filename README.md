@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5ac42359fe034b1d04c4a?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Mar 02 |
+| **[Illinois Tollway](https://www.illinoistollway.com)** | **[Professional Services Internship Program (Various Departments)](https://jobright.ai/jobs/info/69a5a8d9b600907a962b59fc?utm_campaign=1054&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 02 |
+| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Summer 2026](https://jobright.ai/jobs/info/69a5a7efb600907a962b598a?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 02 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Talent Experience](https://jobright.ai/jobs/info/69a5a40b0da45516f16e55e9?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Mar 02 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a5a2bd359fe034b1d04452?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 02 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Talent Experience](https://jobright.ai/jobs/info/69a5a1170da45516f16e50d3?utm_campaign=1054&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Mar 02 |
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a59f03359fe034b1d0402b?utm_campaign=1054&utm_source=git)** | Gillette, WY | On Site | Mar 02 |
 | **[Grail Talent](http://www.grail-talent.com)** | **[Influencer Talent Internship](https://jobright.ai/jobs/info/69a59e820da45516f16e4e8f?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Mar 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/6933b9b1a0dde7020e2f12a8?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Mar 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/69a0146853d97f23ee65d087?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/699feb02ce78e77b4fe5e3c5?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Feb 28 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, HR Analyst](https://jobright.ai/jobs/info/693365b2a0dde7020e2ed707?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 28 |
-| **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Feb 28 |
-| **[Sentara Health](http://www.sentara.com)** | **[Employee Relations Internship - Summer 2026](https://jobright.ai/jobs/info/69867ba28ca8121a3a68c6ea?utm_campaign=1054&utm_source=git)** | Norfolk, VA | On Site | Feb 28 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern (Atlantic Region) - Future Opportunity](https://jobright.ai/jobs/info/68de53a4a125e75c422b3b6a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/69731c2f1790715e866c1b0a?utm_campaign=1054&utm_source=git)** | Live Oak, FL | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
