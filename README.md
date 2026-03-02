@@ -143,7 +143,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Executive Pathways Equity and Employee Engagement Intern - Management Analyst 1](https://jobright.ai/jobs/info/69a2f2a1359fe034b1ce4536?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Feb 28 |
 | ↳ | **[Executive Pathways Classification and Recruitment Intern - Management Analyst 1](https://jobright.ai/jobs/info/69a2f223359fe034b1ce449c?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Feb 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/699c7157ce78e77b4fe12dd1?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Feb 28 |
-| ↳ | **[Safety Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/699001760f6f7e7a2cec5332?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Feb 28 |
 | **[Lesaffre North America](https://lesaffreyeast.com)** | **[Intern, HR](https://jobright.ai/jobs/info/696abd80350cf4380311c8e8?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 28 |
 | **[KCI](http://www.kci.com/)** | **[HR Intern](https://jobright.ai/jobs/info/696ad23f5fc862418539f5a2?utm_campaign=1054&utm_source=git)** | Sparks, MD | On Site | Feb 28 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a2ea8e0da45516f16c481b?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Talent acquisition, intern](https://jobright.ai/jobs/info/69a2c749b600907a96293648?utm_campaign=1054&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Feb 28 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69a2c5db0da45516f16c30e4?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Feb 28 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69a2fbc50da45516f16c5cad?utm_campaign=1054&utm_source=git)** | Hazelwood, MO | On Site | Feb 28 |
+| ↳ | **[Intern, Learning and Development](https://jobright.ai/jobs/info/69a2fae9b600907a96295fe9?utm_campaign=1054&utm_source=git)** | Hobart, NY | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
