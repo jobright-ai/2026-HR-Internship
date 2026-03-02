@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hydro One](http://www.hydroone.com/)** | **[Human Resources Assistant](https://jobright.ai/jobs/info/69a5764b0da45516f16e2829?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 02 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Prince George Campus Recruiting - Talent Pool for CPA Opportunities in Audit and Tax, 2026](https://jobright.ai/jobs/info/691878be45fb6f5ead8a57e4?utm_campaign=1054&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Mar 02 |
+| **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69710a6d333b6343a14d8776?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Mar 02 |
+| **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/68f14a25ef766b3f0fd0b447?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Mar 02 |
+| **[Grant Regional Health Center](https://www.grantregional.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69a5618eb600907a962b16cf?utm_campaign=1054&utm_source=git)** | Grant Regional Health Center, Lancaster, WI, US | On Site | Mar 02 |
+| **[Calgary Zoo](https://www.calgaryzoo.com/)** | **[People Services Intern (Payroll)](https://jobright.ai/jobs/info/69a55faf0da45516f16e128f?utm_campaign=1054&utm_source=git)** | Calgary, AB, CA | On Site | Mar 02 |
+| **[燃石医学 Burning Rock Biotech](http://www.brbiotech.com/?English.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a55e5e0da45516f16e0dc3?utm_campaign=1054&utm_source=git)** | Irvine, CA | Remote | Mar 02 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/699fd2a8ce78e77b4fe5bccd?utm_campaign=1054&utm_source=git)** | Westminster, CO | On Site | Mar 02 |
+| **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a55948359fe034b1cff45a?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 02 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/69a54484359fe034b1cfd5c8?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Mar 02 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/699032ac6ea51a7610f2b841?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 01 |
 | **[Six Flags](https://www.sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/69a5298eb600907a962ac5fd?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Mar 01 |
@@ -85,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Mar 01 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College (Unpaid) - Office of Physician and APP Recruitment and Alignment](https://jobright.ai/jobs/info/69a4524eb600907a962a3ee4?utm_campaign=1054&utm_source=git)** | Remote Location | Remote | Mar 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Human Resources Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a44dd2359fe034b1cf2fbd?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Mar 01 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a446400da45516f16d384e?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 01 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, IT Business Solutions](https://jobright.ai/jobs/info/6933a5b6764507023d1b7a4a?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Mar 01 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a45e690da45516f16d3f8a?utm_campaign=1054&utm_source=git)** | North Liberty, Iowa | On Site | Mar 01 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - HR Operations (NASI)](https://jobright.ai/jobs/info/69a43376359fe034b1cf1c82?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 01 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a2ea8e0da45516f16c481b?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Feb 28 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/6813f40e7654653d2d0e9f1f?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 28 |
 | ↳ | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b19?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Feb 28 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Strategy and Operations Intern](https://jobright.ai/jobs/info/69a40d7f359fe034b1cf0d59?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Feb 28 |
-| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Richmond HR Intern](https://jobright.ai/jobs/info/694c25831a572a617dde6e99?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Feb 28 |
-| **[Pluralsight](http://www.pluralsight.com)** | **[Operational Effectiveness & Development Intern](https://jobright.ai/jobs/info/6986a4168da7a61204618144?utm_campaign=1054&utm_source=git)** | Westlake, TX | Hybrid | Feb 28 |
-| **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Talent and Learning](https://jobright.ai/jobs/info/6982371aa314e76369059cde?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 28 |
-| **[Avivo](https://www.avivomn.org/)** | **[Intern, Ending Homelessness Scattered Site](https://jobright.ai/jobs/info/69a0038253d97f23ee65a6a7?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Feb 28 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Talent acquisition, intern](https://jobright.ai/jobs/info/69a2c749b600907a96293648?utm_campaign=1054&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Feb 28 |
-| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69a2c5db0da45516f16c30e4?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Feb 28 |
-| **[Par Health](https://parsterileproducts.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69a2fbc50da45516f16c5cad?utm_campaign=1054&utm_source=git)** | Hazelwood, MO | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
