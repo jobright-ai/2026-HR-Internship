@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Summer Intern, Talent Management & Culture & Employee Experience, Hybrid- Columbia, MD](https://jobright.ai/jobs/info/69a5e085359fe034b1d093ce?utm_campaign=1054&utm_source=git)** | Columbia, MD | Hybrid | Mar 02 |
+| **[Blakely Brown](https://www.blakelybrowngroup.com/)** | **[Executive Search Intern](https://jobright.ai/jobs/info/69a5dedab600907a962ba1ba?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 02 |
+| **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/69a5db34359fe034b1d08882?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 02 |
+| **[San José State University](http://www.sjsu.edu/)** | **[International Recruitment Specialist](https://jobright.ai/jobs/info/694365d150bbaf7650554ee4?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
 | **[Sonaca North America](http://www.sonaca.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5cac9b600907a962b75fb?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | Mar 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b52ae11ade4306aa6409f6?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Mar 02 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Mar 02 |
@@ -130,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ccc1cbd99309000e5a29a4?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product&Design team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adc5edb26b618950e3638?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
 | **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/69162f0b6f36db06ef0538d9?utm_campaign=1054&utm_source=git)** | Hopkins, MN | On Site | Mar 01 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Manager, Early Careers](https://jobright.ai/jobs/info/69a3fe25b600907a962a0029?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 01 |
 | **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Human Resources Intern- Summer of 2026](https://jobright.ai/jobs/info/69a3fae20da45516f16cf7dc?utm_campaign=1054&utm_source=git)** | Lynnwood, WA | On Site | Mar 01 |
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a41a13b600907a962a2256?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 01 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- HR Data Analyst](https://jobright.ai/jobs/info/6979238a88e2b47213bd4087?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Mar 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1054&utm_source=git)** | Twin Falls, ID | On Site | Feb 28 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69a31972359fe034b1ce6268?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f5ffca2668b7f54528a5b?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Feb 28 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Feb 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | Feb 28 |
-| **[Crusoe](https://crusoe.ai)** | **[Workplace Intern, Summer 2026](https://jobright.ai/jobs/info/6986c2718ca8121a3a69303f?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
