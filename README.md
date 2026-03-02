@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a2ea8e0da45516f16c481b?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Mar 02 |
+| **[Sonoco](https://www.sonoco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5b70b0da45516f16e65f5?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | On Site | Mar 02 |
+| **[Brose Group](https://www.brose.com/)** | **[Human Resources Intern (Year-Round / On-Site)](https://jobright.ai/jobs/info/69a5b06f359fe034b1d04ede?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Mar 02 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5ac42359fe034b1d04c4a?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Mar 02 |
-| **[Illinois Tollway](https://www.illinoistollway.com)** | **[Professional Services Internship Program (Various Departments)](https://jobright.ai/jobs/info/69a5a8d9b600907a962b59fc?utm_campaign=1054&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 02 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Summer 2026](https://jobright.ai/jobs/info/69a5a7efb600907a962b598a?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 02 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Talent Experience](https://jobright.ai/jobs/info/69a5a40b0da45516f16e55e9?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Mar 02 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a5a2bd359fe034b1d04452?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 02 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, People Team (Human Resources)](https://jobright.ai/jobs/info/69a31438b600907a96296bcb?utm_campaign=1054&utm_source=git)** | San Rafael, CA | On Site | Feb 28 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986bfa08da7a6120461abca?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Feb 28 |
 | ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986bc6a8ca8121a3a692898?utm_campaign=1054&utm_source=git)** | DC-Baltimore Area | On Site | Feb 28 |
-| ↳ | **[Intern, Entry Level Recruitment](https://jobright.ai/jobs/info/6986b9d78da7a6120461a56c?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| ↳ | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/69a0146853d97f23ee65d087?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
