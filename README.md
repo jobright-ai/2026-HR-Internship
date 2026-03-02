@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Business Professional Recruiting](https://jobright.ai/jobs/info/69a4d9050da45516f16d78bb?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College (Unpaid) - Office of Physician and APP Recruitment and Alignment](https://jobright.ai/jobs/info/69a4a3cab600907a962a685b?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 01 |
 | **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977dd2afdeb8243a27acf6d?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Mar 01 |
 | **[Tetr College of Business](https://tetr.com)** | **[Admissions Intern](https://jobright.ai/jobs/info/69a492a6b600907a962a57b0?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Talent acquisition, intern](https://jobright.ai/jobs/info/69a2c749b600907a96293648?utm_campaign=1054&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Feb 28 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69a2c5db0da45516f16c30e4?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Feb 28 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69a2fbc50da45516f16c5cad?utm_campaign=1054&utm_source=git)** | Hazelwood, MO | On Site | Feb 28 |
-| ↳ | **[Intern, Learning and Development](https://jobright.ai/jobs/info/69a2fae9b600907a96295fe9?utm_campaign=1054&utm_source=git)** | Hobart, NY | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
