@@ -117,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69a319920da45516f16c6b31?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 28 |
 | ↳ | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69a31972359fe034b1ce6268?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f5ffca2668b7f54528a5b?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Feb 28 |
-| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Associate Recruiting](https://jobright.ai/jobs/info/69a3184cb600907a96296f04?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 28 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Feb 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | Feb 28 |
 | **[Crusoe](https://crusoe.ai)** | **[Workplace Intern, Summer 2026](https://jobright.ai/jobs/info/6986c2718ca8121a3a69303f?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Avivo](https://www.avivomn.org/)** | **[Intern, Ending Homelessness Scattered Site](https://jobright.ai/jobs/info/69a0038253d97f23ee65a6a7?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Feb 28 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Talent acquisition, intern](https://jobright.ai/jobs/info/69a2c749b600907a96293648?utm_campaign=1054&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Feb 28 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69a2c5db0da45516f16c30e4?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Feb 28 |
+| **[Par Health](https://parsterileproducts.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69a2fbc50da45516f16c5cad?utm_campaign=1054&utm_source=git)** | Hazelwood, MO | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
