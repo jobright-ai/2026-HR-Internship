@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sonaca North America](http://www.sonaca.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5cac9b600907a962b75fb?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | Mar 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b52ae11ade4306aa6409f6?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Mar 02 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Mar 02 |
+| **[Sonaca](http://www.sonaca.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5c2dd0da45516f16e6ca0?utm_campaign=1054&utm_source=git)** | St. Charles, MO (Corporate) | On Site | Mar 02 |
+| **[Tetr College of Business](https://tetr.com)** | **[Admissions Intern](https://jobright.ai/jobs/info/69a5c2c5359fe034b1d05d30?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 02 |
+| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern ,Talent Management](https://jobright.ai/jobs/info/69a5c11b0da45516f16e6b50?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 02 |
+| **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5bca1359fe034b1d059d7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 02 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a2ea8e0da45516f16c481b?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Mar 02 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5b70b0da45516f16e65f5?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | On Site | Mar 02 |
 | **[Brose Group](https://www.brose.com/)** | **[Human Resources Intern (Year-Round / On-Site)](https://jobright.ai/jobs/info/69a5b06f359fe034b1d04ede?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Mar 02 |
@@ -108,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691662f36f36db06ef055cb5?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Mar 01 |
 | ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Mar 01 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f602ca2668b7f54528a69?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Mar 01 |
-| ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Mar 01 |
 | ↳ | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Mar 01 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Mar 01 |
 | ↳ | **[Summer 2026 Management Internship - Worcester area](https://jobright.ai/jobs/info/68d824a0295f8e37655e5acd?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Mar 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Feb 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | Feb 28 |
 | **[Crusoe](https://crusoe.ai)** | **[Workplace Intern, Summer 2026](https://jobright.ai/jobs/info/6986c2718ca8121a3a69303f?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | Feb 28 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, People Team (Human Resources)](https://jobright.ai/jobs/info/69a31438b600907a96296bcb?utm_campaign=1054&utm_source=git)** | San Rafael, CA | On Site | Feb 28 |
-| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986bfa08da7a6120461abca?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Feb 28 |
-| ↳ | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/6986bc6a8ca8121a3a692898?utm_campaign=1054&utm_source=git)** | DC-Baltimore Area | On Site | Feb 28 |
-| **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
