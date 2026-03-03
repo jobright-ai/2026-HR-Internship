@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Administrative (HR)](https://jobright.ai/jobs/info/69a679e5d706a731db386842?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Mar 02 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[University Recruiting Data Launch Intern (Hybrid)](https://jobright.ai/jobs/info/69a666d12c0d8b0f5cd08852?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Mar 02 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[HR Intern](https://jobright.ai/jobs/info/69a6772c2c0d8b0f5cd0956d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 02 |
+| **[BrightView Landscapes](https://www.brightview.com)** | **[Intern - scanning project](https://jobright.ai/jobs/info/69a676b12c0d8b0f5cd094c5?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Mar 02 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a675b0e567421f4257784b?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Mar 02 |
+| **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Human Capital](https://jobright.ai/jobs/info/69a67594e567421f42577840?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Mar 02 |
+| **[Veolia](http://www.veolia.com/en/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a67590e567421f4257783f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 02 |
+| **[BOLAND](http://boland.com)** | **[HR Intern (Summer)](https://jobright.ai/jobs/info/69a66e56e567421f425773a3?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD | Hybrid | Mar 02 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Human Resources Intern (Students)](https://jobright.ai/jobs/info/69a66c70e567421f425772f6?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 02 |
 | **[VEIT](http://veitusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a6682fd706a731db385821?utm_campaign=1054&utm_source=git)** | Rogers, IL | On Site | Mar 02 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[University Recruiting Data Launch Intern (Hybrid)](https://jobright.ai/jobs/info/69a666d12c0d8b0f5cd08852?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Mar 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/69a6645bd706a731db385343?utm_campaign=1054&utm_source=git)** | Sterling, VA | On Site | Mar 02 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[HR Operations & Coordination Intern / Remote & Unpaid](https://jobright.ai/jobs/info/69a65c422c0d8b0f5cd07aba?utm_campaign=1054&utm_source=git)** | Florida, United States | Remote | Mar 02 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/698823028ca8121a3a6ab039?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Mar 02 |
@@ -141,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[San José State University](http://www.sjsu.edu/)** | **[International Recruitment Specialist](https://jobright.ai/jobs/info/694365d150bbaf7650554ee4?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
 | **[Avidex](http://www.avidex.com/)** | **[Payroll and Compliance Intern](https://jobright.ai/jobs/info/69a60cd0359fe034b1d0d9f3?utm_campaign=1054&utm_source=git)** | Lake Forest, CA | On Site | Mar 02 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[HR Compensation Intern](https://jobright.ai/jobs/info/69a5ee47359fe034b1d0abca?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Mar 02 |
-| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[HR Intern](https://jobright.ai/jobs/info/69a5f0320da45516f16eba9f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 02 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/69a600a0b600907a962bd862?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 02 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[HR Intern](https://jobright.ai/jobs/info/69a600a0b600907a962bd862?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 02 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/69a5f0320da45516f16eba9f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 02 |
 | **[Highridge Medical](https://www.highridgemedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5ee79b600907a962bba0f?utm_campaign=1054&utm_source=git)** | Westminster, CO | On Site | Mar 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b52ae11ade4306aa6409f6?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Mar 02 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Mar 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sonaca](http://www.sonaca.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5c2dd0da45516f16e6ca0?utm_campaign=1054&utm_source=git)** | St. Charles, MO (Corporate) | On Site | Mar 02 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Summer Intern, Talent Management & Culture & Employee Experience, Hybrid- Columbia, MD](https://jobright.ai/jobs/info/69a5e6640da45516f16eb092?utm_campaign=1054&utm_source=git)** | Columbia, MD | Hybrid | Mar 02 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern ,Talent Management](https://jobright.ai/jobs/info/69a5c11b0da45516f16e6b50?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 02 |
-| **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5bca1359fe034b1d059d7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 02 |
-| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - Volunteer Services](https://jobright.ai/jobs/info/69a5ef37b600907a962bbb51?utm_campaign=1054&utm_source=git)** | St Paul, MN, US | On Site | Mar 02 |
-| **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a2ea8e0da45516f16c481b?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Mar 02 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5b70b0da45516f16e65f5?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | On Site | Mar 02 |
-| **[Brose Group](https://www.brose.com/)** | **[Human Resources Intern (Year-Round / On-Site)](https://jobright.ai/jobs/info/69a5b06f359fe034b1d04ede?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Mar 02 |
-| **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5ac42359fe034b1d04c4a?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Mar 02 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Summer 2026](https://jobright.ai/jobs/info/69a5a7efb600907a962b598a?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
