@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Supportive Services Casework Intern (Unpaid)](https://jobright.ai/jobs/info/69a71ae52672cb0acb4b8905?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ USA | Hybrid | Mar 03 |
+| **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69379c3eaabec14a727c9c3c?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
+| **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Intern - JCG Talent Acquisition](https://jobright.ai/jobs/info/69a717be2672cb0acb4b843f?utm_campaign=1054&utm_source=git)** | New York, NY, USA (Headquarters) | Hybrid | Mar 03 |
+| **[Grand Mere Restaurant Group](https://www.gmrestaurantgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7172d76bbe83d3afa732d?utm_campaign=1054&utm_source=git)** | Overland Park, KS | Hybrid | Mar 03 |
+| **[ProAmpac](http://www.proampac.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7127c2672cb0acb4b7a4b?utm_campaign=1054&utm_source=git)** | Hanover Park, IL | Hybrid | Mar 03 |
+| **[Apogee Architectural Metals](http://www.wausauwindow.com/)** | **[Early Talent Program - Students and New Grads](https://jobright.ai/jobs/info/698ab45b4db8972cec001a5b?utm_campaign=1054&utm_source=git)** | Monett, MO | On Site | Mar 03 |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 HR Compliance Intern](https://jobright.ai/jobs/info/69a70c2d76bbe83d3afa5ea5?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Mar 03 |
+| ↳ | **[2026 HR Compliance Intern](https://jobright.ai/jobs/info/69a708b82672cb0acb4b686f?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Mar 03 |
 | **[DiliTrust](https://www.dilitrust.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a700f276bbe83d3afa5106?utm_campaign=1054&utm_source=git)** | Montreal | Hybrid | Mar 03 |
 | **[Riverside Health](http://www.riversideonline.com)** | **[RIVERSIDE SUMMER INTERN](https://jobright.ai/jobs/info/69a7004b2672cb0acb4b6120?utm_campaign=1054&utm_source=git)** | Newport Square Professional Center - Newport News, Virginia | On Site | Mar 03 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a6fe7e2672cb0acb4b5f95?utm_campaign=1054&utm_source=git)** | Newport Square Professional Center - Newport News, Virginia | On Site | Mar 03 |
@@ -127,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Arbor Therapy](https://arbortherapies.com/)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/69a65867d706a731db383d02?utm_campaign=1054&utm_source=git)** | 2950 North Dobson Road ste 4, Chandler, AZ 85224, USA | On Site | Mar 02 |
 | **[ALO](https://www.aloyoga.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69a630760da45516f16f1141?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Mar 02 |
 | **[Okta](http://www.okta.com)** | **[Global Benefits Intern (Summer 2026)](https://jobright.ai/jobs/info/69a62b0cb600907a962c0cc3?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Mar 02 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern, Spring 2026](https://jobright.ai/jobs/info/69a6564fe567421f425757c5?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Mar 02 |
-| ↳ | **[Human Resources Intern, Spring 2026](https://jobright.ai/jobs/info/69a653f52c0d8b0f5cd06c13?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Mar 02 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern, Spring 2026](https://jobright.ai/jobs/info/69a653f52c0d8b0f5cd06c13?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Mar 02 |
+| ↳ | **[Human Resources Intern, Spring 2026](https://jobright.ai/jobs/info/69a6564fe567421f425757c5?utm_campaign=1054&utm_source=git)** | US-MA-Boston | On Site | Mar 02 |
 | **[US Conec](http://www.usconec.com/)** | **[Intern - Talent Strategy & Workforce Research - Summer 2026](https://jobright.ai/jobs/info/69a622010da45516f16f0596?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Mar 02 |
 | **[Okta](http://www.okta.com)** | **[Global Benefits Intern (Summer 2026)](https://jobright.ai/jobs/info/69a63f4ee567421f42573016?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 02 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Human Resources Specialist intern](https://jobright.ai/jobs/info/69a61ddc359fe034b1d0ef65?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Compensation Intern](https://jobright.ai/jobs/info/69a60b23359fe034b1d0d738?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Mar 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Creative Talent Development & Inclusion Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a629e9b600907a962c0c1f?utm_campaign=1054&utm_source=git)** | Burbank, CA, USA | Hybrid | Mar 02 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Administrative (HR)](https://jobright.ai/jobs/info/69a626b50da45516f16f0a3d?utm_campaign=1054&utm_source=git)** | AZ - Chandler | On Site | Mar 02 |
-| **[DIRECTV](https://www.directv.com/)** | **[2026 DIRECTV Advertising Sales Business Operations Internship (People Management)](https://jobright.ai/jobs/info/69a627fb0da45516f16f0b78?utm_campaign=1054&utm_source=git)** | New York-NY-114 W 47Th St | Hybrid | Mar 02 |
-| **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69a60869359fe034b1d0d2fe?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Mar 02 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a60406b600907a962bde7a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 02 |
-| **[US Conec](http://www.usconec.com/)** | **[Intern - Talent Acquisition Systems & Operations - Summer 2026](https://jobright.ai/jobs/info/69a6029f0da45516f16ed874?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Mar 02 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69a60280b600907a962bdba3?utm_campaign=1054&utm_source=git)** | Muskegon, MI | On Site | Mar 02 |
-| **[Stake Center Locating](http://www.stakecenter.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69a602250da45516f16ed7c7?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Mar 02 |
-| **[Brooke Charter Schools](https://www.ebrooke.org/)** | **[Recruitment & Communications Specialist Intern (Undergraduate Student)](https://jobright.ai/jobs/info/69a600940da45516f16ed543?utm_campaign=1054&utm_source=git)** | Brooke Charter Schools | Boston, MA | On Site | Mar 02 |
-| **[ALO](https://www.aloyoga.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69a5ffc8359fe034b1d0c679?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
