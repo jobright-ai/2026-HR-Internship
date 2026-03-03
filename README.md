@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[G2](https://www.g2.com)** | **[Employee Success (People Operations) Intern](https://jobright.ai/jobs/info/69a693e3f707784310afe92f?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 02 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Ontario & Atlantic Offices – Opportunities in Technology Risk Services (TRS) – Co-op/Intern – Fall 2026, Winter 2027 and Summer 2027 Start](https://jobright.ai/jobs/info/69a6813be567421f42578703?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
 | ↳ | **[Ontario & Atlantic Offices – Opportunities in Technology Risk Services (TRS) – Co-op/Intern – Fall 2026, Winter 2027 and Summer 2027 Start](https://jobright.ai/jobs/info/69a6809de567421f4257856e?utm_campaign=1054&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Mar 02 |
 | **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Talent Acquistion/Human Resources](https://jobright.ai/jobs/info/69a67c19d706a731db386a5e?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Mar 02 |
@@ -67,9 +68,9 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a675b0e567421f4257784b?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Mar 02 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Human Capital](https://jobright.ai/jobs/info/69a67594e567421f42577840?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Mar 02 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a67590e567421f4257783f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 02 |
-| **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[People Team: Internal Communications Intern](https://jobright.ai/jobs/info/69a68d02708b430a607af0d4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 02 |
 | **[BOLAND](http://boland.com)** | **[HR Intern (Summer)](https://jobright.ai/jobs/info/69a66e56e567421f425773a3?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD | Hybrid | Mar 02 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Human Resources Intern (Students)](https://jobright.ai/jobs/info/69a66c70e567421f425772f6?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 02 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69a69141708b430a607af564?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Mar 02 |
 | **[VEIT](http://veitusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a6682fd706a731db385821?utm_campaign=1054&utm_source=git)** | Rogers, IL | On Site | Mar 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/69a6645bd706a731db385343?utm_campaign=1054&utm_source=git)** | Sterling, VA | On Site | Mar 02 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[HR Operations & Coordination Intern / Remote & Unpaid](https://jobright.ai/jobs/info/69a65c422c0d8b0f5cd07aba?utm_campaign=1054&utm_source=git)** | Florida, United States | Remote | Mar 02 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Avidex](http://www.avidex.com/)** | **[Payroll and Compliance Intern](https://jobright.ai/jobs/info/69a60cd0359fe034b1d0d9f3?utm_campaign=1054&utm_source=git)** | Lake Forest, CA | On Site | Mar 02 |
 | **[Calgary Zoo](https://www.calgaryzoo.com/)** | **[People Services Intern (Payroll)](https://jobright.ai/jobs/info/69a680392c0d8b0f5cd09df4?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 02 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[HR Compensation Intern](https://jobright.ai/jobs/info/69a5ee47359fe034b1d0abca?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Mar 02 |
-| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[HR Intern](https://jobright.ai/jobs/info/69a600a0b600907a962bd862?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 02 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/69a5f0320da45516f16eba9f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 02 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[HR Intern](https://jobright.ai/jobs/info/69a5f0320da45516f16eba9f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 02 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/69a600a0b600907a962bd862?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 02 |
 | **[Highridge Medical](https://www.highridgemedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a5ee79b600907a962bba0f?utm_campaign=1054&utm_source=git)** | Westminster, CO | On Site | Mar 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b52ae11ade4306aa6409f6?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Mar 02 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
