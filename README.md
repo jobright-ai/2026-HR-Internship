@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RIVA Solutions, Inc.](https://rivasolutionsinc.com)** | **[Culture & Community Engagement Internship](https://jobright.ai/jobs/info/69a6bb8976bbe83d3afa1cf4?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Mar 03 |
+| **[Texas Instruments](http://www.ti.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698a52454db8972cecff9155?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 03 |
 | **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a69fd8f11be161e274f059?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 03 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship](https://jobright.ai/jobs/info/69a69f1cf707784310aff9b9?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Mar 03 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[HR Strategy & Talent Intern - The Toro Company](https://jobright.ai/jobs/info/69678dbb639b452fb57d1ac7?utm_campaign=1054&utm_source=git)** | Hennepin County, MN | On Site | Mar 03 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a675b0e567421f4257784b?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Mar 02 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Human Capital](https://jobright.ai/jobs/info/69a67594e567421f42577840?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Mar 02 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a67590e567421f4257783f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 02 |
-| **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[People Team: Internal Communications Intern](https://jobright.ai/jobs/info/69a69800f707784310afef64?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 02 |
 | **[BOLAND](http://boland.com)** | **[HR Intern (Summer)](https://jobright.ai/jobs/info/69a66e56e567421f425773a3?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD | Hybrid | Mar 02 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Human Resources Intern (Students)](https://jobright.ai/jobs/info/69a66c70e567421f425772f6?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 02 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69a69141708b430a607af564?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Mar 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern ,Talent Management](https://jobright.ai/jobs/info/69a5e97f359fe034b1d0a52a?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 02 |
 | **[IEW Construction Group, Inc.](http://www.iewconstructiongroup.com)** | **[HR/Payroll Intern](https://jobright.ai/jobs/info/69a61f59b600907a962c02ae?utm_campaign=1054&utm_source=git)** | Trenton, NJ | On Site | Mar 02 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Total Rewards](https://jobright.ai/jobs/info/69a5e36e359fe034b1d09a4e?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 02 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Ontario & Atlantic Offices – Opportunities in Technology Risk Services (TRS) – Co-op/Intern – Fall 2026, Winter 2027 and Summer 2027 Start](https://jobright.ai/jobs/info/69a5ff9d359fe034b1d0c639?utm_campaign=1054&utm_source=git)** | St John’s, Newfoundland and Labrador, Canada | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
