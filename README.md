@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benchmark](http://www.bench.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698c560578b4502f12a2dc2b?utm_campaign=1054&utm_source=git)** | Winona, MN | On Site | Mar 04 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Mar 04 |
 | **[RIVA Solutions, Inc.](https://rivasolutionsinc.com)** | **[Culture & Community Engagement Internship](https://jobright.ai/jobs/info/69a81101637232443f656138?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Mar 04 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Registered Nurse Internal Travel](https://jobright.ai/jobs/info/69a80f9376bbe83d3afb8203?utm_campaign=1054&utm_source=git)** | Lorton, VA | On Site | Mar 04 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Grand Mere Restaurant Group](https://www.gmrestaurantgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7172d76bbe83d3afa732d?utm_campaign=1054&utm_source=git)** | Overland Park, KS | Hybrid | Mar 03 |
 | **[The Will Group](https://thewillgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a732f176bbe83d3afa8e4b?utm_campaign=1054&utm_source=git)** | Wheaton, IL | On Site | Mar 03 |
 | **[Apogee Architectural Metals](http://www.wausauwindow.com/)** | **[Early Talent Program - Students and New Grads](https://jobright.ai/jobs/info/698ab45b4db8972cec001a5b?utm_campaign=1054&utm_source=git)** | Monett, MO | On Site | Mar 03 |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 HR Compliance Intern](https://jobright.ai/jobs/info/69a827212580d3183f002d78?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Mar 03 |
 | **[Love146](https://love146.org)** | **[HR, Operations & Finance Summer Intern](https://jobright.ai/jobs/info/69a7a40a1fc3d83b78094e43?utm_campaign=1054&utm_source=git)** | New Haven, CT | Hybrid | Mar 03 |
 | **[DiliTrust](https://www.dilitrust.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a700f276bbe83d3afa5106?utm_campaign=1054&utm_source=git)** | Montreal | Hybrid | Mar 03 |
 | **[Riverside Health](http://www.riversideonline.com)** | **[RIVERSIDE SUMMER INTERN](https://jobright.ai/jobs/info/69a7004b2672cb0acb4b6120?utm_campaign=1054&utm_source=git)** | Newport Square Professional Center - Newport News, Virginia | On Site | Mar 03 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a6fe7e2672cb0acb4b5f95?utm_campaign=1054&utm_source=git)** | Newport Square Professional Center - Newport News, Virginia | On Site | Mar 03 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698a8d270f6f7e7a2ce5bf79?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Mar 03 |
 | ↳ | **[Benefits Intern](https://jobright.ai/jobs/info/698a94404db8972cecffee85?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Mar 03 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Braintree (48513)](https://jobright.ai/jobs/info/68cbb0769e3a822f5d24a798?utm_campaign=1054&utm_source=git)** | Braintree, MA | On Site | Mar 03 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty and Employee Benefits Intern](https://jobright.ai/jobs/info/698ae4c54db8972cec00586c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
