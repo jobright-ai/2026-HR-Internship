@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[2026 Internships - HR, Marketing-Sales, Finance](https://jobright.ai/jobs/info/69a7c10176bbe83d3afb381b?utm_campaign=1054&utm_source=git)** | South Carolina, United States | Hybrid | Mar 04 |
+| **[Magnera Corporation](https://magnera.com/)** | **[Human Resources - Summer Co-Op Student](https://jobright.ai/jobs/info/69a871df7ac93962b7083ed8?utm_campaign=1054&utm_source=git)** | North Bay, Ontario, Canada | On Site | Mar 04 |
 | **[Modern Wealth Management](https://barberfinancialgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69a865c67ac93962b70838d3?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US | On Site | Mar 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/698c75a5f64d441a164e670a?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Mar 04 |
 | **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[2026 Internships - HR, Marketing-Sales, Finance](https://jobright.ai/jobs/info/69a84eeb7ac93962b7081bf1?utm_campaign=1054&utm_source=git)** | Rock Hill, NY | Hybrid | Mar 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Member Retention and Engagement Intern](https://jobright.ai/jobs/info/699f1d5c94ef206f184e44dd?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Mar 03 |
 | **[Integris, a Division of Coastal Community Credit Union](http://www.integriscu.ca)** | **[HR Co-op Student](https://jobright.ai/jobs/info/69a742b576bbe83d3afa9e83?utm_campaign=1054&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Mar 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Supportive Services Casework Intern (Unpaid)](https://jobright.ai/jobs/info/69a71ae52672cb0acb4b8905?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ USA | Hybrid | Mar 03 |
-| **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69379c3eaabec14a727c9c3c?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
-| **[NAPA Auto Parts](https://www.napacanada.com/en/qc/la-baie/store/1007230)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7388d2672cb0acb4ba4d0?utm_campaign=1054&utm_source=git)** | Birmingham, AL, USA | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
