@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/69a7dd72637232443f6537ec?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69a7c4cc637232443f6520ac?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 03 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69a7c4a176bbe83d3afb4111?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Mar 03 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69a7c49876bbe83d3afb4104?utm_campaign=1054&utm_source=git)** | Cypress, TX | On Site | Mar 03 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern (Unpaid)](https://jobright.ai/jobs/info/69a7270076bbe83d3afa839a?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ USA | Hybrid | Mar 03 |
 | **[Lactalis Heritage Dairy](https://www.linkedin.com/company/80164640)** | **[Human Resource Organizational Development (OD) Internship](https://jobright.ai/jobs/info/69a74d982672cb0acb4bbdb2?utm_campaign=1054&utm_source=git)** | Chicago,IL,US | On Site | Mar 03 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Credentialing Bachelor's Intern](https://jobright.ai/jobs/info/69a7402b76bbe83d3afa9b8e?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Mar 03 |
-| **[Tetr College of Business](https://tetr.com)** | **[Admissions Intern](https://jobright.ai/jobs/info/69a73fc42672cb0acb4babc0?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 03 |
 | **[The Vomela Companies](https://www.vomela.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a721cd2672cb0acb4b8ebc?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, US | On Site | Mar 03 |
 | **[Marceco](http://marceco.net)** | **[People Operations Intern](https://jobright.ai/jobs/info/69a7219f2672cb0acb4b8e7f?utm_campaign=1054&utm_source=git)** | Main Location - Grand Rapids, MI 49512 | On Site | Mar 03 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Member Retention and Engagement Intern](https://jobright.ai/jobs/info/699f1d5c94ef206f184e44dd?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Mar 03 |
