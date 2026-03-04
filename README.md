@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pathlabs](https://www.pathlabs.com/)** | **[Operations and HR Intern](https://jobright.ai/jobs/info/69a7b05f76bbe83d3afb1dea?utm_campaign=1054&utm_source=git)** | Missoula, MT | Hybrid | Mar 03 |
+| **[Healthfirst](https://healthfirst.org)** | **[Dental Benefits Intern (Pharmacy Department) &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/699ff80753d97f23ee659294?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Global Benefits & Accommodations Intern](https://jobright.ai/jobs/info/69a7a851637232443f64ed1a?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Mar 03 |
+| **[Ultra Maritime](https://www.umaritime.com)** | **[Human Resources Intern/Assistant](https://jobright.ai/jobs/info/69a7a4c2637232443f64e667?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Mar 03 |
 | **[Central States](https://centralstatesco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7a1eb637232443f64e37c?utm_campaign=1054&utm_source=git)** | Tontitown, AR | On Site | Mar 03 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a7a11276bbe83d3afb030f?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Mar 03 |
 | **[OneStream Software](https://www.onestream.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a79b1d76bbe83d3afafd23?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 03 |
@@ -67,9 +71,12 @@ For a complete list, click the following sortable link below:
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Bilingual HR Intern - Nespresso](https://jobright.ai/jobs/info/69a78e8d76bbe83d3afaefc4?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 03 |
 | **[Ultra Electronics Group](https://www.ultra.group/)** | **[Human Resources Intern/Assistant](https://jobright.ai/jobs/info/69a78c6976bbe83d3afaee3d?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Mar 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Intensive Case Management (ICM) Intern - UNPAID](https://jobright.ai/jobs/info/699cb79fe0bddb6acacbc833?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
-| **[Transcarent](https://www.transcarent.com)** | **[AI People & Culture Solutions Intern](https://jobright.ai/jobs/info/69a785d22672cb0acb4bfd37?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
+| **[Transcarent](https://www.transcarent.com)** | **[AI People & Culture Solutions Intern](https://jobright.ai/jobs/info/69a7a4d876bbe83d3afb0777?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Volunteer Management Intern - UNPAID](https://jobright.ai/jobs/info/699d098581476f6176b5a889?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
+| **[ICONA Resorts](https://icona.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7ac5676bbe83d3afb146a?utm_campaign=1054&utm_source=git)** | ICONA Management LLC - Wildwood Crest, NJ 08260 | On Site | Mar 03 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, Talent Attraction (Revenue Recruiting)](https://jobright.ai/jobs/info/69a7823d76bbe83d3afae647?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | Hybrid | Mar 03 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Idlewild and SoakZone: Human Resources Intern](https://jobright.ai/jobs/info/69a780f276bbe83d3afae520?utm_campaign=1054&utm_source=git)** | Idlewild & Soakzone, PO Box C, Ligonier,  PA 15658, United States of America | On Site | Mar 03 |
+| **[Montecito Bank & Trust](https://montecito.bank)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7ad1176bbe83d3afb1638?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Mar 03 |
 | **[Mammoth Holdings](http://www.mammothholdings.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69a79a5e637232443f64dc70?utm_campaign=1054&utm_source=git)** | Alcoa,TN,US | Hybrid | Mar 03 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Work Force Management Internship $18/HR](https://jobright.ai/jobs/info/69a779a82672cb0acb4bf16b?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Mar 03 |
 | **[The Lighthouse of Houston](https://www.houstonlighthouse.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a79c0976bbe83d3afafe07?utm_campaign=1054&utm_source=git)** | Legal Address - Houston, TX 77019 | On Site | Mar 03 |
@@ -130,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[ProAmpac](http://www.proampac.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7127c2672cb0acb4b7a4b?utm_campaign=1054&utm_source=git)** | Hanover Park, IL | Hybrid | Mar 03 |
 | **[Apogee Architectural Metals](http://www.wausauwindow.com/)** | **[Early Talent Program - Students and New Grads](https://jobright.ai/jobs/info/698ab45b4db8972cec001a5b?utm_campaign=1054&utm_source=git)** | Monett, MO | On Site | Mar 03 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 HR Compliance Intern](https://jobright.ai/jobs/info/69a70c2d76bbe83d3afa5ea5?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Mar 03 |
+| **[Love146](https://love146.org)** | **[HR, Operations & Finance Summer Intern](https://jobright.ai/jobs/info/69a7a40a1fc3d83b78094e43?utm_campaign=1054&utm_source=git)** | New Haven, CT | Hybrid | Mar 03 |
 | **[DiliTrust](https://www.dilitrust.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a700f276bbe83d3afa5106?utm_campaign=1054&utm_source=git)** | Montreal | Hybrid | Mar 03 |
 | **[Riverside Health](http://www.riversideonline.com)** | **[RIVERSIDE SUMMER INTERN](https://jobright.ai/jobs/info/69a7004b2672cb0acb4b6120?utm_campaign=1054&utm_source=git)** | Newport Square Professional Center - Newport News, Virginia | On Site | Mar 03 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a6fe7e2672cb0acb4b5f95?utm_campaign=1054&utm_source=git)** | Newport Square Professional Center - Newport News, Virginia | On Site | Mar 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6997e582ce78e77b4fdc615e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 03 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Fall Human Resources Co-op Program](https://jobright.ai/jobs/info/698a284d4db8972cecff6c51?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Mar 03 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Manager, Early Careers](https://jobright.ai/jobs/info/69a6d03c2672cb0acb4b3da1?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 03 |
-| **[Peckham Industries, Inc.](http://peckham.com)** | **[Human Resources Intern (Req #: 1303)](https://jobright.ai/jobs/info/69a6cc3b76bbe83d3afa2a77?utm_campaign=1054&utm_source=git)** | Brewster, NY | On Site | Mar 03 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance – Electronic Benefit Transfer (EBT) Internship (Summer 2026)](https://jobright.ai/jobs/info/696fee5082817106e976f443?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Mar 03 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a6c8671fc3d83b78091f2b?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Mar 03 |
-| **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/699cb754ce78e77b4fe17811?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Mar 03 |
-| **[Hudl](http://www.hudl.com)** | **[Learning, Talent and Inclusion Intern](https://jobright.ai/jobs/info/698a303547434001cc68679c?utm_campaign=1054&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 03 |
-| **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/69a6c2c12672cb0acb4b3382?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[Ball Corporation](http://ball.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69a6c22a1fc3d83b78091d67?utm_campaign=1054&utm_source=git)** | Westminster, CO | On Site | Mar 03 |
-| **[Reworld Waste](https://www.reworldwaste.com)** | **[Summer Intern - Compensation & Benefits](https://jobright.ai/jobs/info/698a21c90f6f7e7a2ce53ac7?utm_campaign=1054&utm_source=git)** | Florham Park, NJ | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
