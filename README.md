@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919cd6145fb6f5ead8aa697?utm_campaign=1054&utm_source=git)** | Irondale, AL | On Site | Mar 03 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Summer 2026](https://jobright.ai/jobs/info/69a7286f76bbe83d3afa8574?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern (Summer 2026 UNPAID)](https://jobright.ai/jobs/info/69968bf2e0bddb6acac50adb?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Mar 03 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69a7e51e1fc3d83b78095d94?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 03 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Learning and Development](https://jobright.ai/jobs/info/69a746191fc3d83b7809386d?utm_campaign=1054&utm_source=git)** | Hobart, NY | On Site | Mar 03 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- HR Data Analyst](https://jobright.ai/jobs/info/6979238a88e2b47213bd4087?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Mar 03 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698adcf6c5761b521a9a4049?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Mar 03 |
 | **[Kenan Advantage Group](http://www.thekag.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/696eca0c350cf4380315b134?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Mar 03 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6997e582ce78e77b4fdc615e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
