@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modern Wealth Management](https://barberfinancialgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69a865c67ac93962b70838d3?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US | On Site | Mar 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/698c75a5f64d441a164e670a?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Mar 04 |
 | **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[2026 Internships - HR, Marketing-Sales, Finance](https://jobright.ai/jobs/info/69a84eeb7ac93962b7081bf1?utm_campaign=1054&utm_source=git)** | Rock Hill, NY | Hybrid | Mar 04 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Client Operations & Analytics Internship (Minneapolis)](https://jobright.ai/jobs/info/69704d85333b6343a14cbc2c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 04 |
 | ↳ | **[Client Operations & Analytics Internship (Houston)](https://jobright.ai/jobs/info/697005c982817106e9772326?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 04 |
+| **[Skanska](http://skanska.com)** | **[HR Intern](https://jobright.ai/jobs/info/698bb6c40f6f7e7a2ce72fcb?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/698c727078b4502f12a2fa4e?utm_campaign=1054&utm_source=git)** | Rio Rancho, NM | On Site | Mar 04 |
 | **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697002583ed06875134b02a2?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | Mar 04 |
+| **[Trademark Metals Recycling - A Nucor Company](http://tmrecycling.com)** | **[VSC HR Intern](https://jobright.ai/jobs/info/69a8644e2580d3183f007dbb?utm_campaign=1054&utm_source=git)** | Florence, SC, US, 29501 | On Site | Mar 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Airport Management Trainee Intern](https://jobright.ai/jobs/info/698c46a378b4502f12a2ca3b?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 04 |
 | **[Benchmark](http://www.bench.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698c560578b4502f12a2dc2b?utm_campaign=1054&utm_source=git)** | Winona, MN | On Site | Mar 04 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Mar 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Supportive Services Casework Intern (Unpaid)](https://jobright.ai/jobs/info/69a71ae52672cb0acb4b8905?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ USA | Hybrid | Mar 03 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69379c3eaabec14a727c9c3c?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
 | **[NAPA Auto Parts](https://www.napacanada.com/en/qc/la-baie/store/1007230)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7388d2672cb0acb4ba4d0?utm_campaign=1054&utm_source=git)** | Birmingham, AL, USA | On Site | Mar 03 |
-| **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Intern - JCG Talent Acquisition](https://jobright.ai/jobs/info/69a717be2672cb0acb4b843f?utm_campaign=1054&utm_source=git)** | New York, NY, USA (Headquarters) | Hybrid | Mar 03 |
-| **[Grand Mere Restaurant Group](https://www.gmrestaurantgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7172d76bbe83d3afa732d?utm_campaign=1054&utm_source=git)** | Overland Park, KS | Hybrid | Mar 03 |
-| **[Watts Water Technologies](https://wattswater.eu/)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69a847ba1dfc787e9aa350a8?utm_campaign=1054&utm_source=git)** | Hutchinson, KS | On Site | Mar 03 |
-| **[The Will Group](https://thewillgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a732f176bbe83d3afa8e4b?utm_campaign=1054&utm_source=git)** | Wheaton, IL | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
