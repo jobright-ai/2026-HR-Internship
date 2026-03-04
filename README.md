@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[2026 Internships - HR, Marketing-Sales, Finance](https://jobright.ai/jobs/info/69a84eeb7ac93962b7081bf1?utm_campaign=1054&utm_source=git)** | Rock Hill, NY | Hybrid | Mar 04 |
+| **[Empyrean](http://www.goempyrean.com)** | **[Client Operations & Analytics Internship (Minneapolis)](https://jobright.ai/jobs/info/69704d85333b6343a14cbc2c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 04 |
+| ↳ | **[Client Operations & Analytics Internship (Houston)](https://jobright.ai/jobs/info/697005c982817106e9772326?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/698c727078b4502f12a2fa4e?utm_campaign=1054&utm_source=git)** | Rio Rancho, NM | On Site | Mar 04 |
+| **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697002583ed06875134b02a2?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | Mar 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Airport Management Trainee Intern](https://jobright.ai/jobs/info/698c46a378b4502f12a2ca3b?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 04 |
 | **[Benchmark](http://www.bench.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698c560578b4502f12a2dc2b?utm_campaign=1054&utm_source=git)** | Winona, MN | On Site | Mar 04 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Mar 04 |
 | **[RIVA Solutions, Inc.](https://rivasolutionsinc.com)** | **[Culture & Community Engagement Internship](https://jobright.ai/jobs/info/69a81101637232443f656138?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Mar 04 |
@@ -118,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Human Resource Organizational Development (OD) Internship](https://jobright.ai/jobs/info/69a76acf76bbe83d3aface1d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Process Development and Operations - HR Finances (Summer 2026)](https://jobright.ai/jobs/info/69a7646876bbe83d3afac6f3?utm_campaign=1054&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69a768962672cb0acb4bdde1?utm_campaign=1054&utm_source=git)** | California - San Francisco | On Site | Mar 03 |
+| **[Hexagon US Federal](https://hexagonusfederal.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a83d6e1dfc787e9aa34f29?utm_campaign=1054&utm_source=git)** | Huntsville, AL | Hybrid | Mar 03 |
 | **[Ultra Electronics Group](https://www.ultra.group/)** | **[Human Resources Intern/Assistant](https://jobright.ai/jobs/info/69a7650a76bbe83d3afac7ba?utm_campaign=1054&utm_source=git)** | Dartmouth, NS, Canada | On Site | Mar 03 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Talent Acquisition Coordinator Intern](https://jobright.ai/jobs/info/69a7695d2672cb0acb4bded8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
 | **[Okta](http://www.okta.com)** | **[Recruiting Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/69a73dea76bbe83d3afa98fe?utm_campaign=1054&utm_source=git)** | San Francisco, California | Hybrid | Mar 03 |
@@ -148,13 +155,6 @@ For a complete list, click the following sortable link below:
 | **[NAPA Auto Parts](https://www.napacanada.com/en/qc/la-baie/store/1007230)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7388d2672cb0acb4ba4d0?utm_campaign=1054&utm_source=git)** | Birmingham, AL, USA | On Site | Mar 03 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Intern - JCG Talent Acquisition](https://jobright.ai/jobs/info/69a717be2672cb0acb4b843f?utm_campaign=1054&utm_source=git)** | New York, NY, USA (Headquarters) | Hybrid | Mar 03 |
 | **[Grand Mere Restaurant Group](https://www.gmrestaurantgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7172d76bbe83d3afa732d?utm_campaign=1054&utm_source=git)** | Overland Park, KS | Hybrid | Mar 03 |
+| **[Watts Water Technologies](https://wattswater.eu/)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69a847ba1dfc787e9aa350a8?utm_campaign=1054&utm_source=git)** | Hutchinson, KS | On Site | Mar 03 |
 | **[The Will Group](https://thewillgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a732f176bbe83d3afa8e4b?utm_campaign=1054&utm_source=git)** | Wheaton, IL | On Site | Mar 03 |
-| **[Apogee Architectural Metals](http://www.wausauwindow.com/)** | **[Early Talent Program - Students and New Grads](https://jobright.ai/jobs/info/698ab45b4db8972cec001a5b?utm_campaign=1054&utm_source=git)** | Monett, MO | On Site | Mar 03 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 HR Compliance Intern](https://jobright.ai/jobs/info/69a827212580d3183f002d78?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Mar 03 |
-| **[Love146](https://love146.org)** | **[HR, Operations & Finance Summer Intern](https://jobright.ai/jobs/info/69a7a40a1fc3d83b78094e43?utm_campaign=1054&utm_source=git)** | New Haven, CT | Hybrid | Mar 03 |
-| **[DiliTrust](https://www.dilitrust.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a700f276bbe83d3afa5106?utm_campaign=1054&utm_source=git)** | Montreal | Hybrid | Mar 03 |
-| **[Riverside Health](http://www.riversideonline.com)** | **[RIVERSIDE SUMMER INTERN](https://jobright.ai/jobs/info/69a7004b2672cb0acb4b6120?utm_campaign=1054&utm_source=git)** | Newport Square Professional Center - Newport News, Virginia | On Site | Mar 03 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a6fe7e2672cb0acb4b5f95?utm_campaign=1054&utm_source=git)** | Newport Square Professional Center - Newport News, Virginia | On Site | Mar 03 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698a8d270f6f7e7a2ce5bf79?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Mar 03 |
-| ↳ | **[Benefits Intern](https://jobright.ai/jobs/info/698a94404db8972cecffee85?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
