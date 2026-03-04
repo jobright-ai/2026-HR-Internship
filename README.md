@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Mar 04 |
 | **[RIVA Solutions, Inc.](https://rivasolutionsinc.com)** | **[Culture & Community Engagement Internship](https://jobright.ai/jobs/info/69a81101637232443f656138?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Mar 04 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Registered Nurse Internal Travel](https://jobright.ai/jobs/info/69a80f9376bbe83d3afb8203?utm_campaign=1054&utm_source=git)** | Lorton, VA | On Site | Mar 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Beaverton, OR](https://jobright.ai/jobs/info/69a80ee476bbe83d3afb81b9?utm_campaign=1054&utm_source=git)** | Beaverton, OR | On Site | Mar 04 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[ICONA Resorts](https://icona.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7ac5676bbe83d3afb146a?utm_campaign=1054&utm_source=git)** | ICONA Management LLC - Wildwood Crest, NJ 08260 | On Site | Mar 03 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, Talent Attraction (Revenue Recruiting)](https://jobright.ai/jobs/info/69a7823d76bbe83d3afae647?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | Hybrid | Mar 03 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Idlewild and SoakZone: Human Resources Intern](https://jobright.ai/jobs/info/69a780f276bbe83d3afae520?utm_campaign=1054&utm_source=git)** | Idlewild & Soakzone, PO Box C, Ligonier,  PA 15658, United States of America | On Site | Mar 03 |
+| **[Southern Champion Tray](http://sctray.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a81be41dfc787e9aa349b8?utm_campaign=1054&utm_source=git)** | Mansfield, TX, US | On Site | Mar 03 |
 | **[Montecito Bank & Trust](https://montecito.bank)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7ad1176bbe83d3afb1638?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Mar 03 |
 | **[Mammoth Holdings](http://www.mammothholdings.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69a79a5e637232443f64dc70?utm_campaign=1054&utm_source=git)** | Alcoa,TN,US | Hybrid | Mar 03 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Work Force Management Internship $18/HR](https://jobright.ai/jobs/info/69a779a82672cb0acb4bf16b?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Mar 03 |
@@ -135,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern (Unpaid)](https://jobright.ai/jobs/info/69a7270076bbe83d3afa839a?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ USA | Hybrid | Mar 03 |
 | **[Lactalis Heritage Dairy](https://www.linkedin.com/company/80164640)** | **[Human Resource Organizational Development (OD) Internship](https://jobright.ai/jobs/info/69a74d982672cb0acb4bbdb2?utm_campaign=1054&utm_source=git)** | Chicago,IL,US | On Site | Mar 03 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Credentialing Bachelor's Intern](https://jobright.ai/jobs/info/69a7402b76bbe83d3afa9b8e?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Mar 03 |
+| **[Okta](http://www.okta.com)** | **[University Recruiting Intern (Summer 2026)](https://jobright.ai/jobs/info/69a81cf61dfc787e9aa34a29?utm_campaign=1054&utm_source=git)** | San Francisco, California | Hybrid | Mar 03 |
 | **[The Vomela Companies](https://www.vomela.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a721cd2672cb0acb4b8ebc?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, US | On Site | Mar 03 |
 | **[Marceco](http://marceco.net)** | **[People Operations Intern](https://jobright.ai/jobs/info/69a7219f2672cb0acb4b8e7f?utm_campaign=1054&utm_source=git)** | Main Location - Grand Rapids, MI 49512 | On Site | Mar 03 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Member Retention and Engagement Intern](https://jobright.ai/jobs/info/699f1d5c94ef206f184e44dd?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Mar 03 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a6fe7e2672cb0acb4b5f95?utm_campaign=1054&utm_source=git)** | Newport Square Professional Center - Newport News, Virginia | On Site | Mar 03 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698a8d270f6f7e7a2ce5bf79?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Mar 03 |
 | ↳ | **[Benefits Intern](https://jobright.ai/jobs/info/698a94404db8972cecffee85?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Mar 03 |
-| ↳ | **[Property & Casualty and Employee Benefits Intern](https://jobright.ai/jobs/info/698ae4c54db8972cec00586c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Mar 03 |
-| **[DiliTrust](https://www.dilitrust.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a763db1fc3d83b78093f74?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 03 |
-| **[Par Health](https://parsterileproducts.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69a6f1e676bbe83d3afa4628?utm_campaign=1054&utm_source=git)** | Hazelwood, MO | On Site | Mar 03 |
-| **[XPO](https://www.xpo.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/696e717bdb26b61895115979?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 03 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919cd6145fb6f5ead8aa697?utm_campaign=1054&utm_source=git)** | Irondale, AL | On Site | Mar 03 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Braintree (48513)](https://jobright.ai/jobs/info/68cbb0769e3a822f5d24a798?utm_campaign=1054&utm_source=git)** | Braintree, MA | On Site | Mar 03 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty and Employee Benefits Intern](https://jobright.ai/jobs/info/698ae4c54db8972cec00586c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
