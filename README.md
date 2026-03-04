@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RIVA Solutions, Inc.](https://rivasolutionsinc.com)** | **[Culture & Community Engagement Internship](https://jobright.ai/jobs/info/69a81101637232443f656138?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Mar 04 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Registered Nurse Internal Travel](https://jobright.ai/jobs/info/69a80f9376bbe83d3afb8203?utm_campaign=1054&utm_source=git)** | Lorton, VA | On Site | Mar 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Beaverton, OR](https://jobright.ai/jobs/info/69a80ee476bbe83d3afb81b9?utm_campaign=1054&utm_source=git)** | Beaverton, OR | On Site | Mar 04 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rides Unit Leadership Internship](https://jobright.ai/jobs/info/69a801d776bbe83d3afb773b?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Mar 04 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/69a7dd72637232443f6537ec?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69a7c4cc637232443f6520ac?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 03 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69a7c4a176bbe83d3afb4111?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Mar 03 |
@@ -64,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69a7c453637232443f65205e?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 03 |
 | **[Pathlabs](https://www.pathlabs.com/)** | **[Operations and HR Intern](https://jobright.ai/jobs/info/69a7b05f76bbe83d3afb1dea?utm_campaign=1054&utm_source=git)** | Missoula, MT | Hybrid | Mar 03 |
 | **[Healthfirst](https://healthfirst.org)** | **[Dental Benefits Intern (Pharmacy Department) &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/699ff80753d97f23ee659294?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7fb85637232443f65507f?utm_campaign=1054&utm_source=git)** | Santa Maria, CA | On Site | Mar 03 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Regulatory Legal - Summer Intern](https://jobright.ai/jobs/info/69a7f1e4637232443f6548b4?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Mar 03 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Global Benefits & Accommodations Intern](https://jobright.ai/jobs/info/69a7a851637232443f64ed1a?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Mar 03 |
 | **[Ultra Maritime](https://www.umaritime.com)** | **[Human Resources Intern/Assistant](https://jobright.ai/jobs/info/69a7a4c2637232443f64e667?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Mar 03 |
@@ -98,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Benefits Intern / 2026](https://jobright.ai/jobs/info/69a76a9676bbe83d3afacdbc?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 03 |
 | **[Eataly](http://www.eataly.com/)** | **[Total Rewards Intern - Eataly Corporate](https://jobright.ai/jobs/info/69a766aa2672cb0acb4bdb70?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Sevita](https://sevitahealth.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69a7654a2672cb0acb4bd9b2?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 03 |
+| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 HR Compliance Intern](https://jobright.ai/jobs/info/69a7ff7d76bbe83d3afb7536?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Mar 03 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Work Force Management Internship](https://jobright.ai/jobs/info/69a78b9a2672cb0acb4c0150?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Mar 03 |
 | **[The Miller Group](https://www.millergroup.ca)** | **[HR Digital Solutions , Student (4 Months)](https://jobright.ai/jobs/info/69a75eb32672cb0acb4bd22e?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 03 |
 | **[UNFI](http://unfi.com)** | **[Program Delivery, HR - Summer Intern](https://jobright.ai/jobs/info/69a75b5a76bbe83d3afabc79?utm_campaign=1054&utm_source=git)** | Providence, RI | Remote | Mar 03 |
@@ -139,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Intern - JCG Talent Acquisition](https://jobright.ai/jobs/info/69a717be2672cb0acb4b843f?utm_campaign=1054&utm_source=git)** | New York, NY, USA (Headquarters) | Hybrid | Mar 03 |
 | **[Grand Mere Restaurant Group](https://www.gmrestaurantgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7172d76bbe83d3afa732d?utm_campaign=1054&utm_source=git)** | Overland Park, KS | Hybrid | Mar 03 |
 | **[The Will Group](https://thewillgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a732f176bbe83d3afa8e4b?utm_campaign=1054&utm_source=git)** | Wheaton, IL | On Site | Mar 03 |
-| **[ProAmpac](http://www.proampac.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7127c2672cb0acb4b7a4b?utm_campaign=1054&utm_source=git)** | Hanover Park, IL | Hybrid | Mar 03 |
 | **[Apogee Architectural Metals](http://www.wausauwindow.com/)** | **[Early Talent Program - Students and New Grads](https://jobright.ai/jobs/info/698ab45b4db8972cec001a5b?utm_campaign=1054&utm_source=git)** | Monett, MO | On Site | Mar 03 |
 | **[Love146](https://love146.org)** | **[HR, Operations & Finance Summer Intern](https://jobright.ai/jobs/info/69a7a40a1fc3d83b78094e43?utm_campaign=1054&utm_source=git)** | New Haven, CT | Hybrid | Mar 03 |
 | **[DiliTrust](https://www.dilitrust.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a700f276bbe83d3afa5106?utm_campaign=1054&utm_source=git)** | Montreal | Hybrid | Mar 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69a6f1e676bbe83d3afa4628?utm_campaign=1054&utm_source=git)** | Hazelwood, MO | On Site | Mar 03 |
 | **[XPO](https://www.xpo.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/696e717bdb26b61895115979?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 03 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919cd6145fb6f5ead8aa697?utm_campaign=1054&utm_source=git)** | Irondale, AL | On Site | Mar 03 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Summer 2026](https://jobright.ai/jobs/info/69a7286f76bbe83d3afa8574?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 03 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern (Summer 2026 UNPAID)](https://jobright.ai/jobs/info/69968bf2e0bddb6acac50adb?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Mar 03 |
-| **[Par Health](https://parsterileproducts.com)** | **[Intern, Learning and Development](https://jobright.ai/jobs/info/69a746191fc3d83b7809386d?utm_campaign=1054&utm_source=git)** | Hobart, NY | On Site | Mar 03 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Internship (Summer 2026)](https://jobright.ai/jobs/info/698a6bab0f6f7e7a2ce59254?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Mar 03 |
-| **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- HR Data Analyst](https://jobright.ai/jobs/info/6979238a88e2b47213bd4087?utm_campaign=1054&utm_source=git)** | Montvale, NJ | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
