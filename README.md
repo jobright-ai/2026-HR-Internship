@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 - Disability Case Manager](https://jobright.ai/jobs/info/69aab3947e1fab39d382619a?utm_campaign=1054&utm_source=git)** | Québec, Quebec, Canada | Remote | Mar 06 |
 | **[Sectra](http://www.sectra.com)** | **[Summer Internship Program - Human Resources](https://jobright.ai/jobs/info/698f13940cc8ea15f1d96ac8?utm_campaign=1054&utm_source=git)** | Shelton, CT | On Site | Mar 06 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/698f21f20cc8ea15f1d98848?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/6973099f694e99351d1455d7?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
@@ -92,9 +93,9 @@ For a complete list, click the following sortable link below:
 | **[Heritage Auctions](https://www.ha.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69aa31949ca4e908ec6584dc?utm_campaign=1054&utm_source=git)** | Dallas,TX,US | On Site | Mar 05 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69aa31841f59c56275e30ac8?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 05 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Child Support - Central Region - Worcester location](https://jobright.ai/jobs/info/69aa315e9ca4e908ec658471?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Worcester - 18 Chestnut Street | On Site | Mar 05 |
-| ↳ | **[Summer Intern - Child Support - Metro Region - Boston Location](https://jobright.ai/jobs/info/69aa30aa2ebd316bece1f17c?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 05 |
 | ↳ | **[Summer Intern - Child Support - Western Region - Springfield](https://jobright.ai/jobs/info/69aa30aa2ebd316bece1f17f?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Springfield- 1 Federal Street | On Site | Mar 05 |
 | ↳ | **[Summer Intern - Child Support - Northern Region - Woburn Location](https://jobright.ai/jobs/info/69aa30aa2ebd316bece1f181?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Woburn-100 Trade Ctr Suite 760 | On Site | Mar 05 |
+| ↳ | **[Summer Intern - Child Support - Metro Region - Boston Location](https://jobright.ai/jobs/info/69aa30aa2ebd316bece1f17c?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 05 |
 | ↳ | **[Summer Intern - Child Support - Central Region - Woburn location](https://jobright.ai/jobs/info/69aa2e5e1f59c56275e3051d?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Woburn-100 Trade Ctr Suite 760 | On Site | Mar 05 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69aa2d731f59c56275e300d8?utm_campaign=1054&utm_source=git)** | Royal Oak, MI | On Site | Mar 05 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Human Resources Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/698823028ca8121a3a6ab039?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Mar 05 |
@@ -103,10 +104,10 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - King of Prussia, PA](https://jobright.ai/jobs/info/69aa2bc32ebd316bece1e2b7?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Mar 05 |
 | **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69aa2ba59ca4e908ec65738b?utm_campaign=1054&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Mar 05 |
 | **[Five Guys](http://Www.fiveguys.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/69aa2b9b2ebd316bece1e231?utm_campaign=1054&utm_source=git)** | Alexandria, Virginia, United States | On Site | Mar 05 |
-| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - People & Culture](https://jobright.ai/jobs/info/69aa2b669ca4e908ec657306?utm_campaign=1054&utm_source=git)** | Chadds Ford, PA | Hybrid | Mar 05 |
-| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/69aa2b669ca4e908ec657308?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Mar 05 |
-| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/69aa2b492ebd316bece1e0ab?utm_campaign=1054&utm_source=git)** | Draper, UT | Hybrid | Mar 05 |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - People & Culture](https://jobright.ai/jobs/info/69aa2b669ca4e908ec657308?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Mar 05 |
+| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/69aa2b669ca4e908ec657306?utm_campaign=1054&utm_source=git)** | Chadds Ford, PA | Hybrid | Mar 05 |
 | ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/69aa2b492ebd316bece1e0a3?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Mar 05 |
+| ↳ | **[Intern - People & Culture](https://jobright.ai/jobs/info/69aa2b492ebd316bece1e0ab?utm_campaign=1054&utm_source=git)** | Draper, UT | Hybrid | Mar 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Career Development Intern - UNPAID](https://jobright.ai/jobs/info/69a57047b600907a962b24cc?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 05 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Central Region - Worcester location](https://jobright.ai/jobs/info/69aa3ed91f59c56275e31924?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Worcester - 18 Chestnut Street | On Site | Mar 05 |
 | ↳ | **[Summer Intern - Child Support - Western Region - Springfield](https://jobright.ai/jobs/info/69aa3e719ca4e908ec6594ba?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Springfield- 1 Federal Street | On Site | Mar 05 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Active Generations](https://activegenerations.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a9f91c2ebd316bece1b5c9?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | Hybrid | Mar 05 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/69a9d7f82ebd316bece16214?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Mar 05 |
 | ↳ | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/69a9d7a39ca4e908ec6508e7?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Mar 05 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f2a79ca4e908ec653acf?utm_campaign=1054&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Mar 05 |
-| ↳ | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f28b1f59c56275e2c02c?utm_campaign=1054&utm_source=git)** | USA-TX - Dallas Office | On Site | Mar 05 |
-| ↳ | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f6c42ebd316bece1b0ff?utm_campaign=1054&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Mar 05 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f6c42ebd316bece1b0ff?utm_campaign=1054&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Mar 05 |
+| ↳ | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f2a79ca4e908ec653acf?utm_campaign=1054&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Mar 05 |
 | ↳ | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f2a79ca4e908ec653acb?utm_campaign=1054&utm_source=git)** | USA-NY - New York Remote | Remote | Mar 05 |
+| ↳ | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f28b1f59c56275e2c02c?utm_campaign=1054&utm_source=git)** | USA-TX - Dallas Office | On Site | Mar 05 |
 | **[ButcherBox](https://www.butcherbox.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69a9d5a01f59c56275e288e7?utm_campaign=1054&utm_source=git)** | Greater Boston | Hybrid | Mar 05 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69a9d4422ebd316bece15b4c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 05 |
-| ↳ | **[Culture Team Intern](https://jobright.ai/jobs/info/69a9d4099ca4e908ec650212?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
