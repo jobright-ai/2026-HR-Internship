@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BSI Corporate Benefits](https://bsicorporate.com/)** | **[Summer Intern -  Account Management - Employee Benefits](https://jobright.ai/jobs/info/69aa7d651f59c56275e34f5e?utm_campaign=1054&utm_source=git)** | 205 Webster Street, Bethlehem, PA 18015, USA | On Site | Mar 05 |
+| **[Five Guys](http://Www.fiveguys.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/69aa7c801f59c56275e34ef1?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Mar 05 |
+| **[Lynden Logistics](http://lynden.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69aa73209ca4e908ec65c2b5?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Mar 05 |
+| **[UniUni](https://www.uniuni.com)** | **[HR & Admin Intern](https://jobright.ai/jobs/info/69aa6e982ebd316bece22c94?utm_campaign=1054&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Mar 05 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69aa65a12ebd316bece22579?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Mar 05 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Digital Enablement and Experience (Enablement Services) / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69aa61f11f59c56275e33c23?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 05 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69aa5fe81f59c56275e33beb?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Mar 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/69aa571d9ca4e908ec65b01a?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Mar 05 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Risk Management - Communications and Colleague Engagement Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69aa54499ca4e908ec65aacc?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 05 |
 | **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition - San Francisco （Intern / Contract）](https://jobright.ai/jobs/info/69aa4de72ebd316bece21104?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 05 |
+| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[HR & Admin Coordinator](https://jobright.ai/jobs/info/69aa7c712ebd316bece2340d?utm_campaign=1054&utm_source=git)** | Indiana, United States | Hybrid | Mar 05 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Human Resource Specialist](https://jobright.ai/jobs/info/69aa48b21f59c56275e32356?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Mar 05 |
 | **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 05 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69aa44482ebd316bece207f3?utm_campaign=1054&utm_source=git)** | Altamonte Springs, FL | On Site | Mar 05 |
@@ -136,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Active Generations](https://activegenerations.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a9f91c2ebd316bece1b5c9?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | Hybrid | Mar 05 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/69a9d7f82ebd316bece16214?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Mar 05 |
 | ↳ | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/69a9d7a39ca4e908ec6508e7?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Mar 05 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f28b1f59c56275e2c02c?utm_campaign=1054&utm_source=git)** | USA-TX - Dallas Office | On Site | Mar 05 |
-| ↳ | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f6c42ebd316bece1b0ff?utm_campaign=1054&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Mar 05 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f6c42ebd316bece1b0ff?utm_campaign=1054&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Mar 05 |
+| ↳ | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f28b1f59c56275e2c02c?utm_campaign=1054&utm_source=git)** | USA-TX - Dallas Office | On Site | Mar 05 |
 | ↳ | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f2a79ca4e908ec653acf?utm_campaign=1054&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Mar 05 |
 | ↳ | **[Summer 2026 Internship - Talent Relations, Cycle](https://jobright.ai/jobs/info/69a9f2a79ca4e908ec653acb?utm_campaign=1054&utm_source=git)** | USA-NY - New York Remote | Remote | Mar 05 |
 | **[ButcherBox](https://www.butcherbox.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69a9d5a01f59c56275e288e7?utm_campaign=1054&utm_source=git)** | Greater Boston | Hybrid | Mar 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern - HR Intern Program Support](https://jobright.ai/jobs/info/697aa8d0f6fc293b0a2c92b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 05 |
 | **[Mainstay Life Services](https://mainstaylifeservices.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69aa07552ebd316bece1c559?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern Fort Worth](https://jobright.ai/jobs/info/68e422021852e62f00801e15?utm_campaign=1054&utm_source=git)** | Keller, TX | On Site | Mar 05 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4a9f06a34016008c637f?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Mar 05 |
-| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Intern – Compensation/Total Rewards](https://jobright.ai/jobs/info/69a9b6862ebd316bece1456e?utm_campaign=1054&utm_source=git)** | SLEEPY HOLLOW | On Site | Mar 05 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6933db02a0dde7020e2f27ff?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | On Site | Mar 05 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Digital Employee Experience](https://jobright.ai/jobs/info/69a9b5409ca4e908ec64eb62?utm_campaign=1054&utm_source=git)** | Schenectady, NY | Hybrid | Mar 05 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Early Talent Access Co-op (July to December)](https://jobright.ai/jobs/info/6971e90fb707bf728a4b8312?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
