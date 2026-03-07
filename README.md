@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Madison Energy Infrastructure](https://www.madisonei.com)** | **[People Team Intern – Summer 2026](https://jobright.ai/jobs/info/69aba57e2747003c3d513663?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
+| **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977dd2afdeb8243a27acf6d?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Mar 06 |
+| **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69abaab67e1fab39d38330bc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[Mitsubishi HC Capital Canada](https://www.mhccna.com/en-ca)** | **[Organizational Development Interns](https://jobright.ai/jobs/info/69aba1ca142d5b4265fcceca?utm_campaign=1054&utm_source=git)** | Trois-Rivières, Quebec, Canada | Hybrid | Mar 06 |
 | **[Specialisterne USA](https://us.specialisterne.com/)** | **[Behavioral Health Intern - Neurodiversity Hiring Initiative](https://jobright.ai/jobs/info/69ab9ca02747003c3d512620?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Health & Benefits Operations Intern](https://jobright.ai/jobs/info/69ab98897e1fab39d3830c9c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 06 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[High School Intern - Summer 2026 - Cedar Rapids, IA](https://jobright.ai/jobs/info/69ab90fe142d5b4265fca97c?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 06 |
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Vista)](https://jobright.ai/jobs/info/69ab9bb2142d5b4265fcbe77?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Mar 06 |
 | **[Continental](https://www.continental.com)** | **[Intern - Recruiting/ Talent Acquisition Coordinator, Year-Round](https://jobright.ai/jobs/info/69ab972a2747003c3d5120a4?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | Hybrid | Mar 06 |
+| **[RQ Construction, LLC](http://rqconstruction.com)** | **[Intern - Job Analyses](https://jobright.ai/jobs/info/69abb3b47e1fab39d3833e17?utm_campaign=1054&utm_source=git)** | 1620 Faraday Avenue, Carlsbad, CA 92008, USA | Hybrid | Mar 06 |
 | **[Relativity](http://www.relativity.com)** | **[Intern, Talent & Community Enablement](https://jobright.ai/jobs/info/69ab6f5f7e1fab39d382f68d?utm_campaign=1054&utm_source=git)** | Illinois, United States | Hybrid | Mar 06 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Employee Engagement](https://jobright.ai/jobs/info/69ab981f142d5b4265fcbb9e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 People Team (HR) Internship](https://jobright.ai/jobs/info/69ab68657e1fab39d382f1ad?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
@@ -81,6 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Ozinga](https://www.ozinga.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69ab654e2747003c3d5100eb?utm_campaign=1054&utm_source=git)** | Davie, FL | On Site | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 People Team (HR) Intern](https://jobright.ai/jobs/info/69ab6527142d5b4265fc9e9f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Colorado Springs](https://jobright.ai/jobs/info/69ab649f142d5b4265fc9c0f?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Mar 06 |
+| **[Priority Waste](https://www.prioritywaste.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69aba8052747003c3d513fb1?utm_campaign=1054&utm_source=git)** | Corporate - Clinton Township, MI 48038 | On Site | Mar 06 |
+| **[Lake Lawn Resort](http://lakelawnresort.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69aba8062747003c3d513fb6?utm_campaign=1054&utm_source=git)** | Lake Lawn Resort - Delavan, WI 53115 | On Site | Mar 06 |
 | **[Corporate One Federal Credit Union](http://www.corporateone.coop)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fa0e7d643757b0e4510cf?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Mar 06 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69ab44787e1fab39d382dde1?utm_campaign=1054&utm_source=git)** | Smithfield, RI | On Site | Mar 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Des Moines, IA](https://jobright.ai/jobs/info/69ab446c2747003c3d50f240?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Mar 06 |
@@ -131,9 +135,9 @@ For a complete list, click the following sortable link below:
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab018a142d5b4265fc41a2?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 06 |
 | **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, LTW Brooklyn Academy High School](https://jobright.ai/jobs/info/69ab0089142d5b4265fc40f1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Mar 06 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a3a57ac80bb5492bcbf23?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Mar 06 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a431fac80bb5492bcc4ab?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Mar 06 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Mar 06 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a3a57ac80bb5492bcbf23?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Mar 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Talent Acceleration Co-op (July to December)](https://jobright.ai/jobs/info/6971e780b707bf728a4b8201?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Mar 06 |
 | **[INFICON](http://www.inficon.com)** | **[Human Resource Intern/Generalist - Part Time (Seasonal)](https://jobright.ai/jobs/info/69aafaf62747003c3d50a48a?utm_campaign=1054&utm_source=git)** | East Syracuse, NY | On Site | Mar 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Corporate](https://jobright.ai/jobs/info/68ec9ab81eecd439f43fb2bb?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 06 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Talent Development - Intern](https://jobright.ai/jobs/info/698eae8178b4502f12a5857e?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Plattsburgh, NY](https://jobright.ai/jobs/info/693aa2ee5f2c001987ecbc7d?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Mar 06 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693ceeb250bbaf765050100d?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Mar 06 |
-| **[TekniPlex](http://www.tekni-plex.com)** | **[Human Resources Internship - Healthcare Manufacturing](https://jobright.ai/jobs/info/691d3993bcdbf3560c9ee5fa?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Madison](https://jobright.ai/jobs/info/69003019e0c73b3a111a31c2?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 06 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6978428639f7f96cc6d09792?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
