@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Charlotte, NC](https://jobright.ai/jobs/info/69ab94aa142d5b4265fcb109?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 06 |
+| **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Development)](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830159?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
+| **[Wright-Patt Credit Union](https://www.wpcu.coop/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69ab923b7e1fab39d382fba8?utm_campaign=1054&utm_source=git)** | Beavercreek, OH | On Site | Mar 06 |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Employee Engagement](https://jobright.ai/jobs/info/69ab9142142d5b4265fcaa05?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - New York, NY](https://jobright.ai/jobs/info/69ab91112747003c3d510f8d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 06 |
+| ↳ | **[High School Intern - Summer 2026 - Cedar Rapids, IA](https://jobright.ai/jobs/info/69ab90fe142d5b4265fca97c?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 06 |
 | **[Relativity](http://www.relativity.com)** | **[Intern, Talent & Community Enablement](https://jobright.ai/jobs/info/69ab6f5f7e1fab39d382f68d?utm_campaign=1054&utm_source=git)** | Illinois, United States | Hybrid | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 People Team (HR) Internship](https://jobright.ai/jobs/info/69ab68657e1fab39d382f1ad?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026***](https://jobright.ai/jobs/info/69ab68557e1fab39d382f19a?utm_campaign=1054&utm_source=git)** | Indianapolis, Indiana | On Site | Mar 06 |
@@ -65,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Vevo](http://vevo.com)** | **[Summer 2026 People Team (HR) Intern](https://jobright.ai/jobs/info/69ab6527142d5b4265fc9e9f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Colorado Springs](https://jobright.ai/jobs/info/69ab649f142d5b4265fc9c0f?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Mar 06 |
 | **[Corporate One Federal Credit Union](http://www.corporateone.coop)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fa0e7d643757b0e4510cf?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Mar 06 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Human Resources Intern (Spring)](https://jobright.ai/jobs/info/69ab66a47e1fab39d382ef52?utm_campaign=1054&utm_source=git)** | Elkhorn, WI | On Site | Mar 06 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69ab44787e1fab39d382dde1?utm_campaign=1054&utm_source=git)** | Smithfield, RI | On Site | Mar 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Des Moines, IA](https://jobright.ai/jobs/info/69ab446c2747003c3d50f240?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Cedar Rapids, IA](https://jobright.ai/jobs/info/69ab446b2747003c3d50f23e?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 06 |
@@ -115,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab018a142d5b4265fc41a2?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 06 |
 | **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, LTW Brooklyn Academy High School](https://jobright.ai/jobs/info/69ab0089142d5b4265fc40f1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Mar 06 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a431fac80bb5492bcc4ab?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Mar 06 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Mar 06 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a3a57ac80bb5492bcbf23?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Mar 06 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Mar 06 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a431fac80bb5492bcc4ab?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Mar 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Talent Acceleration Co-op (July to December)](https://jobright.ai/jobs/info/6971e780b707bf728a4b8201?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Mar 06 |
 | **[INFICON](http://www.inficon.com)** | **[Human Resource Intern/Generalist - Part Time (Seasonal)](https://jobright.ai/jobs/info/69aafaf62747003c3d50a48a?utm_campaign=1054&utm_source=git)** | East Syracuse, NY | On Site | Mar 06 |
@@ -136,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/694f0cccce13cd10565745d5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Corporate](https://jobright.ai/jobs/info/68ec9ab81eecd439f43fb2bb?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 06 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Talent Development - Intern](https://jobright.ai/jobs/info/698eae8178b4502f12a5857e?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Mar 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693ceeb250bbaf765050100d?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Mar 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern- Plattsburgh, NY](https://jobright.ai/jobs/info/693aa2ee5f2c001987ecbc7d?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Mar 06 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Plattsburgh, NY](https://jobright.ai/jobs/info/693aa2ee5f2c001987ecbc7d?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Mar 06 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693ceeb250bbaf765050100d?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Mar 06 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Human Resources Internship - Healthcare Manufacturing](https://jobright.ai/jobs/info/691d3993bcdbf3560c9ee5fa?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Madison](https://jobright.ai/jobs/info/69003019e0c73b3a111a31c2?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6978428639f7f96cc6d09792?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Mar 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Town of Davie](https://www.davie-fl.gov/)** | **[College Intern - Human Resources Department](https://jobright.ai/jobs/info/69aaa3ac9ca4e908ec6618a5?utm_campaign=1054&utm_source=git)** | Davie, FL | On Site | Mar 06 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698e564278b4502f12a51dbc?utm_campaign=1054&utm_source=git)** | Napa, CA | On Site | Mar 06 |
 | **[The Carroll Center for the Blind](http://carroll.org)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/69aa91f234184204e44916cb?utm_campaign=1054&utm_source=git)** | Newton, MA | On Site | Mar 06 |
-| **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69aa91ef34184204e44916b4?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 06 |
-| **[E&S Home Care Solutions I Home Care Provider](http://www.eshcs.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69ab23277e1fab39d382aae1?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | Mar 06 |
-| **[BSI Corporate Benefits](https://bsicorporate.com/)** | **[Summer Intern -  Account Management - Employee Benefits](https://jobright.ai/jobs/info/69aa7d651f59c56275e34f5e?utm_campaign=1054&utm_source=git)** | 205 Webster Street, Bethlehem, PA 18015, USA | On Site | Mar 05 |
-| **[Five Guys](http://Www.fiveguys.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/69aa7c801f59c56275e34ef1?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Mar 05 |
-| **[UniUni](https://www.uniuni.com)** | **[HR & Admin Intern](https://jobright.ai/jobs/info/69aa6e982ebd316bece22c94?utm_campaign=1054&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
