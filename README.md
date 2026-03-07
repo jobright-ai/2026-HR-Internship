@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hexcel Corporation](http://hexcel.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/698fa8c20f6f7e7a2cebf5a9?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Mar 07 |
+| **[Peckham Industries, Inc.](http://peckham.com)** | **[Estimating Intern (Req #: 1284)](https://jobright.ai/jobs/info/69ac64a12747003c3d520fd5?utm_campaign=1054&utm_source=git)** | Hudson Falls, NY | On Site | Mar 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | Mar 07 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Intern Dallas](https://jobright.ai/jobs/info/68e5783f1852e62f0081075c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
+| ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Mar 07 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 07 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744ce5bc8e722e7b19456c?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Mar 07 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/69abdcce142d5b4265fd4bee?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Mar 07 |
 | **[A Leading North American Company](www.TheGAOGroup.com (https://www.thegaogroup.com/))** | **[Human Resources Intern](https://jobright.ai/jobs/info/69abd71a7e1fab39d3838cfe?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | Remote | Mar 06 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong HR Communication Intern-Employee Engagement](https://jobright.ai/jobs/info/69abced87e1fab39d38385fc?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 06 |
-| **[Parkland Corporation](https://www.parkland.ca/)** | **[Labour Relations Intern](https://jobright.ai/jobs/info/69abbcc07e1fab39d3836d2f?utm_campaign=1054&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Mar 06 |
 | **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6977dd2afdeb8243a27acf6d?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | Mar 06 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69abaab67e1fab39d38330bc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[Mitsubishi HC Capital Canada](https://www.mhccna.com/en-ca)** | **[Organizational Development Interns](https://jobright.ai/jobs/info/69aba1ca142d5b4265fcceca?utm_campaign=1054&utm_source=git)** | Trois-Rivières, Quebec, Canada | Hybrid | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[INFICON](http://www.inficon.com)** | **[Human Resource Intern/Generalist  - Part Time (Seasonal)](https://jobright.ai/jobs/info/69ab35d32747003c3d50e431?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, USA | On Site | Mar 06 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab34df7e1fab39d382cbaa?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 06 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab3243142d5b4265fc78b6?utm_campaign=1054&utm_source=git)** | NY - New York - Loews Hotels & Co Corporate Office | On Site | Mar 06 |
-| **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern - Undergrad](https://jobright.ai/jobs/info/69ab2da32747003c3d50d6a8?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
