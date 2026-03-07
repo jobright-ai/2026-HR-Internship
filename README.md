@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flexera](https://www.flexera.com)** | **[HR Intern](https://jobright.ai/jobs/info/69741642bc8e722e7b18f594?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 07 |
+| **[Pioneer Athletics](http://pioneerathletics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69abe078142d5b4265fd5ad0?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 07 |
+| **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69abdced7e1fab39d3839aa1?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 07 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/69abdcd62747003c3d51b2f9?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Mar 07 |
+| ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/69abdcce142d5b4265fd4bee?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Mar 07 |
 | **[A Leading North American Company](www.TheGAOGroup.com (https://www.thegaogroup.com/))** | **[Human Resources Intern](https://jobright.ai/jobs/info/69abd71a7e1fab39d3838cfe?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | Remote | Mar 06 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong HR Communication Intern-Employee Engagement](https://jobright.ai/jobs/info/69abced87e1fab39d38385fc?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 06 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Labour Relations Intern](https://jobright.ai/jobs/info/69abbcc07e1fab39d3836d2f?utm_campaign=1054&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Mar 06 |
@@ -110,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/69ab2ab97e1fab39d382b73a?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Indianapolis, IN](https://jobright.ai/jobs/info/69ab2a717e1fab39d382b60c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Quincy, MA](https://jobright.ai/jobs/info/69ab2a37142d5b4265fc66fe?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Mar 06 |
-| ↳ | **[High School Intern - Summer 2026 - Nashville, TN](https://jobright.ai/jobs/info/69ab2a2f142d5b4265fc66e4?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Greater Tampa Bay, FL](https://jobright.ai/jobs/info/69ab298e2747003c3d50ca15?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Sacramento, CA](https://jobright.ai/jobs/info/69ab29792747003c3d50c99e?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Baltimore MD](https://jobright.ai/jobs/info/69ab29702747003c3d50c98a?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Mar 06 |
@@ -138,23 +142,19 @@ For a complete list, click the following sortable link below:
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab018a142d5b4265fc41a2?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 06 |
 | **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, LTW Brooklyn Academy High School](https://jobright.ai/jobs/info/69ab0089142d5b4265fc40f1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Mar 06 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Mar 06 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a3a57ac80bb5492bcbf23?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Mar 06 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a431fac80bb5492bcc4ab?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Mar 06 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a3a57ac80bb5492bcbf23?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Mar 06 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Mar 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Talent Acceleration Co-op (July to December)](https://jobright.ai/jobs/info/6971e780b707bf728a4b8201?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Mar 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Chicago - Oak Brook, IL](https://jobright.ai/jobs/info/69aafd7a7e1fab39d3828fc7?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | On Site | Mar 06 |
 | **[INFICON](http://www.inficon.com)** | **[Human Resource Intern/Generalist - Part Time (Seasonal)](https://jobright.ai/jobs/info/69aafaf62747003c3d50a48a?utm_campaign=1054&utm_source=git)** | East Syracuse, NY | On Site | Mar 06 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698ef21178b4502f12a5c476?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Quincy, MA](https://jobright.ai/jobs/info/69aaf9f52747003c3d50a30f?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Mar 06 |
+| ↳ | **[High School Intern - Summer 2026 - Nashville, TN](https://jobright.ai/jobs/info/69aaf9f52747003c3d50a310?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6939c54456b68f3dc4e7251a?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Mar 06 |
 | **[Nakupuna Companies](https://www.nakupuna.com)** | **[Jr. Human Resource Specialist Intern](https://jobright.ai/jobs/info/698a7d36c5761b521a99b811?utm_campaign=1054&utm_source=git)** | Honolulu, HI | Hybrid | Mar 06 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69216a01a49a885af9a45ab2?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Mar 06 |
 | **[Amazon](https://amazon.com)** | **[2026 Sourcing Recruiter Intern](https://jobright.ai/jobs/info/693bdfeb49a7695fbd02d4e8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
 | **[UNFI](http://unfi.com)** | **[Talent and Culture Summer Intern](https://jobright.ai/jobs/info/69aae979142d5b4265fc3372?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Mar 06 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Manager, Early Careers](https://jobright.ai/jobs/info/69a7b23776bbe83d3afb202d?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 06 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69aae4092747003c3d509802?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 06 |
-| **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/69728d854ccbf64f8df28005?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d412c7481340785ed58d5?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Mar 06 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
