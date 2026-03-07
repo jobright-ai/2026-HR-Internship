@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RAE Corporation](https://raecorp.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69ac3faf2747003c3d520480?utm_campaign=1054&utm_source=git)** | Pryor, OK | On Site | Mar 07 |
+| **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 07 |
+| **[RXO, Inc.](https://rxo.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69900d956ea51a7610f279ef?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Mar 07 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Human Resources Internship-Jefferson City MO](https://jobright.ai/jobs/info/69a9be421f59c56275e2742d?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Mar 07 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69ac34202747003c3d5201e3?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 07 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fd2f50cc8ea15f1da6d34?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Mar 07 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Atlantic Region (Charlotte, NC)](https://jobright.ai/jobs/info/693ce5d6aa598a08c3eda9fc?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 07 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69743030206da320f49e5267?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Mar 07 |
@@ -131,8 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab3243142d5b4265fc78b6?utm_campaign=1054&utm_source=git)** | NY - New York - Loews Hotels & Co Corporate Office | On Site | Mar 06 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern - Undergrad](https://jobright.ai/jobs/info/69ab2da32747003c3d50d6a8?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 06 |
 | **[Extant Aerospace](http://extantaerospace.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69ab2d502747003c3d50d5c1?utm_campaign=1054&utm_source=git)** | Melbourne, Florida, United States | On Site | Mar 06 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Quincy, MA](https://jobright.ai/jobs/info/69ab2a37142d5b4265fc66fe?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Mar 06 |
-| ↳ | **[High School Intern - Summer 2026 - Greater Tampa Bay, FL](https://jobright.ai/jobs/info/69ab298e2747003c3d50ca15?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 06 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Greater Tampa Bay, FL](https://jobright.ai/jobs/info/69ab298e2747003c3d50ca15?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Baltimore MD](https://jobright.ai/jobs/info/69ab29702747003c3d50c98a?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Mar 06 |
 | **[Rocky Brands, Inc.](https://linktr.ee/rockybrandsinc)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab28327e1fab39d382b10e?utm_campaign=1054&utm_source=git)** | Nelsonville, Ohio, United States | On Site | Mar 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: HR-Preboarding](https://jobright.ai/jobs/info/69ab209b142d5b4265fc593f?utm_campaign=1054&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Mar 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dallas College](https://www.dcccd.edu)** | **[Intern - Employee and Cultural Engagement](https://jobright.ai/jobs/info/69ab0812142d5b4265fc4633?utm_campaign=1054&utm_source=git)** | Dallas College Administration | On Site | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Schenectady, NY and Amsterdam, NY](https://jobright.ai/jobs/info/693a817ef4e44c4d629d2bd7?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Mar 06 |
 | ↳ | **[Summer 2026 Management Internship - Ellsworth](https://jobright.ai/jobs/info/6955d363f1f8465b79ecb776?utm_campaign=1054&utm_source=git)** | Ellsworth, ME | On Site | Mar 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933cd56a0dde7020e2f1f11?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Mar 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4ac546caff4db51fcb26?utm_campaign=1054&utm_source=git)** | Gastonia, NC | On Site | Mar 06 |
-| **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, LTW Brooklyn Academy High School](https://jobright.ai/jobs/info/69ab0089142d5b4265fc40f1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Mar 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
