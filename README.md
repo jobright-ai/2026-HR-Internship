@@ -115,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab018a142d5b4265fc41a2?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 06 |
 | **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, LTW Brooklyn Academy High School](https://jobright.ai/jobs/info/69ab0089142d5b4265fc40f1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Mar 06 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a3a57ac80bb5492bcbf23?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Mar 06 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a431fac80bb5492bcc4ab?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Mar 06 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Mar 06 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a3a57ac80bb5492bcbf23?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Mar 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Talent Acceleration Co-op (July to December)](https://jobright.ai/jobs/info/6971e780b707bf728a4b8201?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Mar 06 |
 | **[INFICON](http://www.inficon.com)** | **[Human Resource Intern/Generalist - Part Time (Seasonal)](https://jobright.ai/jobs/info/69aafaf62747003c3d50a48a?utm_campaign=1054&utm_source=git)** | East Syracuse, NY | On Site | Mar 06 |
@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/694f0cccce13cd10565745d5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Corporate](https://jobright.ai/jobs/info/68ec9ab81eecd439f43fb2bb?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 06 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Talent Development - Intern](https://jobright.ai/jobs/info/698eae8178b4502f12a5857e?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Mar 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Plattsburgh, NY](https://jobright.ai/jobs/info/693aa2ee5f2c001987ecbc7d?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Mar 06 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693ceeb250bbaf765050100d?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Mar 06 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693ceeb250bbaf765050100d?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Mar 06 |
+| ↳ | **[Summer 2026 Management Trainee Intern- Plattsburgh, NY](https://jobright.ai/jobs/info/693aa2ee5f2c001987ecbc7d?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Mar 06 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Human Resources Internship - Healthcare Manufacturing](https://jobright.ai/jobs/info/691d3993bcdbf3560c9ee5fa?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Madison](https://jobright.ai/jobs/info/69003019e0c73b3a111a31c2?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/6978428639f7f96cc6d09792?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Mar 06 |
