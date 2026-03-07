@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Butterball](http://www.butterball.com/)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/69ac16fe142d5b4265fd7daf?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Mar 07 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Labor Relations JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a9214b79f3f4037f43d655?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | Mar 07 |
+| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69abc4287e1fab39d3837850?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | Mar 07 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6956d2c3f1f8465b79edb2dd?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Mar 07 |
 | **[Cerrowire](http://cerrowire.com)** | **[HR Intern](https://jobright.ai/jobs/info/698f7bf40f6f7e7a2cebb5cd?utm_campaign=1054&utm_source=git)** | Hartselle, AL | On Site | Mar 07 |
 | **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[HR Intern](https://jobright.ai/jobs/info/69abf4f97e1fab39d383c173?utm_campaign=1054&utm_source=git)** | Spring Hill, TN | On Site | Mar 07 |
 | **[Flexera](https://www.flexera.com)** | **[HR Intern](https://jobright.ai/jobs/info/69741642bc8e722e7b18f594?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/69ac02bc2747003c3d51dfff?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 07 |
+| **[KQT Health](http://fusionexperiences.com/)** | **[Intern Talent Acquisition](https://jobright.ai/jobs/info/69ac10eb2747003c3d51e3e4?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 07 |
+| ↳ | **[Intern Talent Acquisition](https://jobright.ai/jobs/info/69ac10b67e1fab39d383c973?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 07 |
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Human Resources Intern (Req #: 1303)](https://jobright.ai/jobs/info/69ac0252142d5b4265fd773b?utm_campaign=1054&utm_source=git)** | Brewster, NY | On Site | Mar 07 |
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69abe078142d5b4265fd5ad0?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 07 |
 | **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69abdced7e1fab39d3839aa1?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 07 |
@@ -110,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Unlimited USA Co](http://www.unlimited-usa.com)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/69ab3f472747003c3d50ee2f?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Mar 06 |
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab3c3c142d5b4265fc84f9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 06 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - HR Reporting & Analytics](https://jobright.ai/jobs/info/69ab3c07142d5b4265fc84bc?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 06 |
-| **[E&S Home Care Solutions I Home Care Provider](http://www.eshcs.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69ab3666142d5b4265fc8064?utm_campaign=1054&utm_source=git)** | New jersey, New Jersey, United States | On Site | Mar 06 |
+| **[E&S Home Care Solutions - Home Care Provider](http://www.eshcs.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69ab3666142d5b4265fc8064?utm_campaign=1054&utm_source=git)** | New jersey, New Jersey, United States | On Site | Mar 06 |
 | **[AWP Safety](http://www.awpsafety.com)** | **[Summer Internship Human Resources](https://jobright.ai/jobs/info/69ab362f142d5b4265fc8023?utm_campaign=1054&utm_source=git)** | North Canton, OH, USA | On Site | Mar 06 |
 | **[INFICON](http://www.inficon.com)** | **[Human Resource Intern/Generalist  - Part Time (Seasonal)](https://jobright.ai/jobs/info/69ab35d32747003c3d50e431?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, USA | On Site | Mar 06 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab34df7e1fab39d382cbaa?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 06 |
@@ -146,15 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab018a142d5b4265fc41a2?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 06 |
 | **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, LTW Brooklyn Academy High School](https://jobright.ai/jobs/info/69ab0089142d5b4265fc40f1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Mar 06 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Mar 06 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a3a57ac80bb5492bcbf23?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Mar 06 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a431fac80bb5492bcc4ab?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Mar 06 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693d2865aa598a08c3eddfce?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Mar 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Talent Acceleration Co-op (July to December)](https://jobright.ai/jobs/info/6971e780b707bf728a4b8201?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Mar 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Chicago - Oak Brook, IL](https://jobright.ai/jobs/info/69aafd7a7e1fab39d3828fc7?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | On Site | Mar 06 |
-| **[INFICON](http://www.inficon.com)** | **[Human Resource Intern/Generalist - Part Time (Seasonal)](https://jobright.ai/jobs/info/69aafaf62747003c3d50a48a?utm_campaign=1054&utm_source=git)** | East Syracuse, NY | On Site | Mar 06 |
-| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698ef21178b4502f12a5c476?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 06 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Nashville, TN](https://jobright.ai/jobs/info/69aaf9f52747003c3d50a310?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
-| ↳ | **[High School Intern - Summer 2026 - Quincy, MA](https://jobright.ai/jobs/info/69aaf9f52747003c3d50a30f?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Mar 06 |
-| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6939c54456b68f3dc4e7251a?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
