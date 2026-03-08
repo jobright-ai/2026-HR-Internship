@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MARKHAM](markham.co)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69aca5712747003c3d524602?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 07 |
+| **[Vest Labs](https://www.vest.exchange)** | **[Operations & Talent Acquisition Associate (Intern)](https://jobright.ai/jobs/info/69aca2d87e1fab39d3843f59?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Mar 07 |
+| **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026***](https://jobright.ai/jobs/info/69ac9aec142d5b4265fde2a6?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Mar 07 |
 | **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 07 |
 | **[WyoTech](http://www.wyotech.edu/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69ac92ee7e1fab39d3842772?utm_campaign=1054&utm_source=git)** | Laramie, WY | On Site | Mar 07 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[HR & Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/69ac92c17e1fab39d384268b?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 07 |
@@ -64,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Estimating Intern (Req #: 1284)](https://jobright.ai/jobs/info/69ac64a12747003c3d520fd5?utm_campaign=1054&utm_source=git)** | Hudson Falls, NY | On Site | Mar 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | Mar 07 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Management Intern Dallas](https://jobright.ai/jobs/info/68e5783f1852e62f0081075c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Mar 07 |
+| ↳ | **[Summer 2026 Management Intern Dallas](https://jobright.ai/jobs/info/68e5783f1852e62f0081075c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 07 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744ce5bc8e722e7b19456c?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Mar 07 |
@@ -87,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 07 |
 | **[RXO, Inc.](https://rxo.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69900d956ea51a7610f279ef?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Mar 07 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Human Resources Internship-Jefferson City MO](https://jobright.ai/jobs/info/69a9be421f59c56275e2742d?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Mar 07 |
-| **[KQT Health](http://fusionexperiences.com/)** | **[Intern Talent Acquisition](https://jobright.ai/jobs/info/69ac5590142d5b4265fda537?utm_campaign=1054&utm_source=git)** | Bensalem, PA | On Site | Mar 07 |
-| ↳ | **[Intern Talent Acquisition](https://jobright.ai/jobs/info/69ac558c142d5b4265fda531?utm_campaign=1054&utm_source=git)** | Bedford, PA | On Site | Mar 07 |
+| **[KQT Health](http://fusionexperiences.com/)** | **[Intern Talent Acquisition](https://jobright.ai/jobs/info/69ac558c142d5b4265fda531?utm_campaign=1054&utm_source=git)** | Bedford, PA | On Site | Mar 07 |
+| ↳ | **[Intern Talent Acquisition](https://jobright.ai/jobs/info/69ac5590142d5b4265fda537?utm_campaign=1054&utm_source=git)** | Bensalem, PA | On Site | Mar 07 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69ac34202747003c3d5201e3?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 07 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fd2f50cc8ea15f1da6d34?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Mar 07 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Atlantic Region (Charlotte, NC)](https://jobright.ai/jobs/info/693ce5d6aa598a08c3eda9fc?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 07 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Bellevue, WA](https://jobright.ai/jobs/info/69ab96e97e1fab39d38308fa?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Charlotte, NC](https://jobright.ai/jobs/info/69ab94aa142d5b4265fcb109?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 06 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Development)](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830159?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
-| **[Wright-Patt Credit Union](https://www.wpcu.coop/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69ab923b7e1fab39d382fba8?utm_campaign=1054&utm_source=git)** | Beavercreek, OH | On Site | Mar 06 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Employee Engagement](https://jobright.ai/jobs/info/69ab9142142d5b4265fcaa05?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - New York, NY](https://jobright.ai/jobs/info/69ab91112747003c3d510f8d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Cedar Rapids, IA](https://jobright.ai/jobs/info/69ab90fe142d5b4265fca97c?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Unlimited USA Co](http://www.unlimited-usa.com)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/69ab3f472747003c3d50ee2f?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Mar 06 |
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab3c3c142d5b4265fc84f9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 06 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - HR Reporting & Analytics](https://jobright.ai/jobs/info/69ab3c07142d5b4265fc84bc?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 06 |
-| **[E&S Home Care Solutions - Home Care Provider](http://www.eshcs.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69ab3666142d5b4265fc8064?utm_campaign=1054&utm_source=git)** | New jersey, New Jersey, United States | On Site | Mar 06 |
-| **[AWP Safety](http://www.awpsafety.com)** | **[Summer Internship Human Resources](https://jobright.ai/jobs/info/69ab362f142d5b4265fc8023?utm_campaign=1054&utm_source=git)** | North Canton, OH, USA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
