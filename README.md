@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69a67dead706a731db386c39?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 08 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Mar 08 |
+| **[Western Welding Academy](ApplyToWeld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ad70dd142d5b4265fe8fa7?utm_campaign=1054&utm_source=git)** | Gillette, WY | On Site | Mar 08 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69a7c85576bbe83d3afb430f?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 08 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6975dffd206da320f49fe7d2?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Mar 08 |
+| ↳ | **[Benefits Intern - Warrington, PA](https://jobright.ai/jobs/info/693ce636aa598a08c3edaa26?utm_campaign=1054&utm_source=git)** | Warrington, PA | On Site | Mar 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f60803f782d2f1afbb23d?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 08 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/693cdce750bbaf76505004d7?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 08 |
 | **[Metropolitan Behavioral Health](https://metropolitanbh.com/)** | **[HR STUDENT INTERN (UNPAID)](https://jobright.ai/jobs/info/69ad38c57e1fab39d384bb25?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Mar 08 |
 | **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69ad2e577e1fab39d384a9bf?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 08 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Business Partner (Summer 2026)](https://jobright.ai/jobs/info/69ace54c2747003c3d5275f8?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 07 |
-| **[Western Welding Academy](ApplyToWeld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69accf587e1fab39d3844c31?utm_campaign=1054&utm_source=git)** | Gillette, WY | On Site | Mar 07 |
-| **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Business Partner (Summer 2026)](https://jobright.ai/jobs/info/69accebf7e1fab39d3844b3b?utm_campaign=1054&utm_source=git)** | USA - Texas - Austin | On Site | Mar 07 |
+| ↳ | **[Human Resources Intern, HR Business Partner (Summer 2026)](https://jobright.ai/jobs/info/69accebf7e1fab39d3844b3b?utm_campaign=1054&utm_source=git)** | USA - Texas - Austin | On Site | Mar 07 |
 | **[Intermountain Hospital](https://intermountainhospital.com)** | **[OUTPATIENT INTERN CASE MANAGER - SOCIAL WORK AND COUNSELING STUDENTS (UNPAID)](https://jobright.ai/jobs/info/69acaad2142d5b4265fdf22f?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 07 |
 | **[MARKHAM](markham.co)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69aca5712747003c3d524602?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 07 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026***](https://jobright.ai/jobs/info/69ac9aec142d5b4265fde2a6?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Mar 07 |
@@ -142,8 +147,7 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - New York, NY](https://jobright.ai/jobs/info/69ab91112747003c3d510f8d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Cedar Rapids, IA](https://jobright.ai/jobs/info/69ab90fe142d5b4265fca97c?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Nashville, TN](https://jobright.ai/jobs/info/69ace76f142d5b4265fe13e9?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
-| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Economic Empowerment – Refugee Services Intern](https://jobright.ai/jobs/info/69ace7ba7e1fab39d38462a7?utm_campaign=1054&utm_source=git)** | Bridgeport, CT | Hybrid | Mar 06 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/69ace7a07e1fab39d3846267?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 06 |
+| ↳ | **[High School Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/69ace7a07e1fab39d3846267?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Des Moines, IA](https://jobright.ai/jobs/info/69ac20c5142d5b4265fd8445?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Mar 06 |
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Vista)](https://jobright.ai/jobs/info/69ab9bb2142d5b4265fcbe77?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Mar 06 |
 | **[Continental](https://www.continental.com)** | **[Intern - Recruiting/ Talent Acquisition Coordinator, Year-Round](https://jobright.ai/jobs/info/69ab972a2747003c3d5120a4?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | Hybrid | Mar 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vevo](http://vevo.com)** | **[Summer 2026 People Team (HR) Internship](https://jobright.ai/jobs/info/69ab68657e1fab39d382f1ad?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: HR - 2026***](https://jobright.ai/jobs/info/69ab68557e1fab39d382f19a?utm_campaign=1054&utm_source=git)** | Indianapolis, Indiana | On Site | Mar 06 |
 | **[Community Mental Health Affiliates, Inc. (CMHA)](http://www.cmhacc.org)** | **[Human Resource Intern - part-time - 1st shift - Mon-Fri](https://jobright.ai/jobs/info/69ab65957e1fab39d382ec79?utm_campaign=1054&utm_source=git)** | New Britain, CT | On Site | Mar 06 |
-| **[Ozinga](https://www.ozinga.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69ab654e2747003c3d5100eb?utm_campaign=1054&utm_source=git)** | Davie, FL | On Site | Mar 06 |
-| **[Vevo](http://vevo.com)** | **[Summer 2026 People Team (HR) Intern](https://jobright.ai/jobs/info/69ab6527142d5b4265fc9e9f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Colorado Springs](https://jobright.ai/jobs/info/69ab649f142d5b4265fc9c0f?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Mar 06 |
-| **[Priority Waste](https://www.prioritywaste.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69aba8052747003c3d513fb1?utm_campaign=1054&utm_source=git)** | Corporate - Clinton Township, MI 48038 | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
