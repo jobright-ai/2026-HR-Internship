@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Business Partner (Summer 2026)](https://jobright.ai/jobs/info/69ace54c2747003c3d5275f8?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 07 |
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69accf587e1fab39d3844c31?utm_campaign=1054&utm_source=git)** | Gillette, WY | On Site | Mar 07 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Business Partner (Summer 2026)](https://jobright.ai/jobs/info/69accebf7e1fab39d3844b3b?utm_campaign=1054&utm_source=git)** | USA - Texas - Austin | On Site | Mar 07 |
 | **[Intermountain Hospital](https://intermountainhospital.com)** | **[OUTPATIENT INTERN CASE MANAGER - SOCIAL WORK AND COUNSELING STUDENTS (UNPAID)](https://jobright.ai/jobs/info/69acaad2142d5b4265fdf22f?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 07 |
@@ -74,14 +75,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 07 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744ce5bc8e722e7b19456c?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Mar 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
-| ↳ | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/6974a2e637785856350eb952?utm_campaign=1054&utm_source=git)** | Merrillville, IN | On Site | Mar 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/6974a2e637785856350eb952?utm_campaign=1054&utm_source=git)** | Merrillville, IN | On Site | Mar 07 |
+| ↳ | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/698f67640cc8ea15f1d9ec4d?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 07 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/693ce08450bbaf7650500599?utm_campaign=1054&utm_source=git)** | Woodbridge, VA | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Mar 07 |
-| ↳ | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a67b95f5211cd2ce7e4a?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Mar 07 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9ddb9e3a822f5d23e1e3?utm_campaign=1054&utm_source=git)** | Temple Hills, MD | On Site | Mar 07 |
+| ↳ | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a67b95f5211cd2ce7e4a?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Mar 07 |
 | **[Crusoe](https://crusoe.ai)** | **[Talent Development Intern, Summer 2026](https://jobright.ai/jobs/info/699021410cc8ea15f1dac7c7?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Mar 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/699010c96ea51a7610f27c52?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 07 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69ac4dff142d5b4265fda359?utm_campaign=1054&utm_source=git)** | Lafayette, LA | On Site | Mar 07 |
@@ -131,6 +132,9 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Employee Engagement](https://jobright.ai/jobs/info/69ab9142142d5b4265fcaa05?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - New York, NY](https://jobright.ai/jobs/info/69ab91112747003c3d510f8d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Cedar Rapids, IA](https://jobright.ai/jobs/info/69ab90fe142d5b4265fca97c?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 06 |
+| ↳ | **[High School Intern - Summer 2026 - Nashville, TN](https://jobright.ai/jobs/info/69ace76f142d5b4265fe13e9?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
+| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Economic Empowerment – Refugee Services Intern](https://jobright.ai/jobs/info/69ace7ba7e1fab39d38462a7?utm_campaign=1054&utm_source=git)** | Bridgeport, CT | Hybrid | Mar 06 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/69ace7a07e1fab39d3846267?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 06 |
 | ↳ | **[High School Intern - Summer 2026 - Des Moines, IA](https://jobright.ai/jobs/info/69ac20c5142d5b4265fd8445?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Mar 06 |
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Vista)](https://jobright.ai/jobs/info/69ab9bb2142d5b4265fcbe77?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Mar 06 |
 | **[Continental](https://www.continental.com)** | **[Intern - Recruiting/ Talent Acquisition Coordinator, Year-Round](https://jobright.ai/jobs/info/69ab972a2747003c3d5120a4?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | Hybrid | Mar 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[High School Intern - Summer 2026 - Bellevue, WA](https://jobright.ai/jobs/info/69ab44467e1fab39d382dcfd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Mar 06 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern, Leave of Absence, Workers Compensation and Accommodations](https://jobright.ai/jobs/info/69ab64ea142d5b4265fc9d0d?utm_campaign=1054&utm_source=git)** | Orange, CA | Hybrid | Mar 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: HR-Preboarding](https://jobright.ai/jobs/info/69ab41537e1fab39d382db7d?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Mar 06 |
-| **[AWP Safety](http://www.awpsafety.com)** | **[Summer Internship Human Resources](https://jobright.ai/jobs/info/69ab400b7e1fab39d382d81e?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Mar 06 |
-| **[Unlimited USA Co](http://www.unlimited-usa.com)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/69ab3f472747003c3d50ee2f?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Mar 06 |
-| **[Pioneer Athletics](http://pioneerathletics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ab3c3c142d5b4265fc84f9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 06 |
-| **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - HR Reporting & Analytics](https://jobright.ai/jobs/info/69ab3c07142d5b4265fc84bc?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
