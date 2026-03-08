@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ad45d62747003c3d52d988?utm_campaign=1054&utm_source=git)** | Arlington, OR | On Site | Mar 08 |
 | **[Metropolitan Behavioral Health](https://metropolitanbh.com/)** | **[HR STUDENT INTERN (UNPAID)](https://jobright.ai/jobs/info/69ad38c57e1fab39d384bb25?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Mar 08 |
 | **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69ad2e577e1fab39d384a9bf?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 08 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Business Partner (Summer 2026)](https://jobright.ai/jobs/info/69ace54c2747003c3d5275f8?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 07 |
@@ -72,13 +73,13 @@ For a complete list, click the following sortable link below:
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Estimating Intern (Req #: 1284)](https://jobright.ai/jobs/info/69ac64a12747003c3d520fd5?utm_campaign=1054&utm_source=git)** | Hudson Falls, NY | On Site | Mar 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | Mar 07 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Management Intern Dallas](https://jobright.ai/jobs/info/68e5783f1852e62f0081075c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Mar 07 |
+| ↳ | **[Summer 2026 Management Intern Dallas](https://jobright.ai/jobs/info/68e5783f1852e62f0081075c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 07 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69744ce5bc8e722e7b19456c?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Mar 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
-| ↳ | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/6974a2e637785856350eb952?utm_campaign=1054&utm_source=git)** | Merrillville, IN | On Site | Mar 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/6974a2e637785856350eb952?utm_campaign=1054&utm_source=git)** | Merrillville, IN | On Site | Mar 07 |
+| ↳ | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/698f67640cc8ea15f1d9ec4d?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 07 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/693ce08450bbaf7650500599?utm_campaign=1054&utm_source=git)** | Woodbridge, VA | On Site | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Colorado Springs](https://jobright.ai/jobs/info/69ab649f142d5b4265fc9c0f?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Mar 06 |
 | **[Priority Waste](https://www.prioritywaste.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69aba8052747003c3d513fb1?utm_campaign=1054&utm_source=git)** | Corporate - Clinton Township, MI 48038 | On Site | Mar 06 |
 | **[Lake Lawn Resort](http://lakelawnresort.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69aba8062747003c3d513fb6?utm_campaign=1054&utm_source=git)** | Lake Lawn Resort - Delavan, WI 53115 | On Site | Mar 06 |
-| **[Corporate One Federal Credit Union](http://www.corporateone.coop)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fa0e7d643757b0e4510cf?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
