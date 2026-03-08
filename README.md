@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Mar 08 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6973ebbb206da320f49de42a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 08 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69adad212747003c3d5305cf?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Mar 08 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69adab5d2747003c3d530582?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 08 |
+| **[RXO, Inc.](https://rxo.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fb78f0f6f7e7a2cec035c?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Mar 08 |
+| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 08 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc46c516d00d2beeb1cb1f?utm_campaign=1054&utm_source=git)** | Joplin, MO | On Site | Mar 08 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Mar 08 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Human Resources](https://jobright.ai/jobs/info/693b1958d4054a2bc0250b89?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e719d11852e62f00822363?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Mar 08 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Health & Benefits Operations Intern](https://jobright.ai/jobs/info/69ab97342747003c3d5120c0?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Mar 06 |
 | **[Faurecia](https://www.forvia.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ab970d2747003c3d512057?utm_campaign=1054&utm_source=git)** | Fraser, MI | On Site | Mar 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Bellevue, WA](https://jobright.ai/jobs/info/69ab96e97e1fab39d38308fa?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Mar 06 |
-| ↳ | **[High School Intern - Summer 2026 - Charlotte, NC](https://jobright.ai/jobs/info/69ab94aa142d5b4265fcb109?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 06 |
-| **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Development)](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830159?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
-| **[Glass House Brands Inc.](https://www.glasshousebrands.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69acf199142d5b4265fe1b56?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Mar 06 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Employee Engagement](https://jobright.ai/jobs/info/69ab9142142d5b4265fcaa05?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - New York, NY](https://jobright.ai/jobs/info/69ab91112747003c3d510f8d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 06 |
-| ↳ | **[High School Intern - Summer 2026 - Cedar Rapids, IA](https://jobright.ai/jobs/info/69ab90fe142d5b4265fca97c?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
