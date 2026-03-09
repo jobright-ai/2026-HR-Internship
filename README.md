@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Partners Group](https://www.thepartnersgroup.com)** | **[Organizational Wellbeing Intern](https://jobright.ai/jobs/info/69af24aadfaeda6ff597373f?utm_campaign=1054&utm_source=git)** | Renton,WA,US | On Site | Mar 09 |
+| **[Network Connex](https://www.networkconnex.com/)** | **[Intern](https://jobright.ai/jobs/info/69af23396b21de023e604341?utm_campaign=1054&utm_source=git)** | Downers Grove, IL | On Site | Mar 09 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69af2227749500645093938f?utm_campaign=1054&utm_source=git)** | Simi Valley, CA | On Site | Mar 09 |
+| **[Calderys](https://www.calderys.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/69af1facdfaeda6ff597214c?utm_campaign=1054&utm_source=git)** | 2000 Park Lane Drive, Pittsburgh, PA, 15275, US | On Site | Mar 09 |
+| **[IntelliShade](https://www.mdintellishade.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69af1f3bdfaeda6ff59720fd?utm_campaign=1054&utm_source=git)** | Oklahoma City, Oklahoma, United States | On Site | Mar 09 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Des Moines, IA](https://jobright.ai/jobs/info/69af1e727495006450938856?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Mar 09 |
+| ↳ | **[High School Intern - Summer 2026 - Cedar Rapids, IA](https://jobright.ai/jobs/info/69af1e727495006450938852?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 09 |
 | **[Palmetto](http://www.palmetto.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69af18a3749500645093855d?utm_campaign=1054&utm_source=git)** | 1616 Camden Rd Charlotte, NC 28203 | On Site | Mar 09 |
 | **[Zen Educate](http://www.zeneducate.com)** | **[Junior Educator Recruitment Associate (Internship) - Minneapolis](https://jobright.ai/jobs/info/69af18296b21de023e602ec7?utm_campaign=1054&utm_source=git)** | Minneapolis | Hybrid | Mar 09 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern - HR Intern Program Support](https://jobright.ai/jobs/info/697aa8d0f6fc293b0a2c92b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WyoTech](http://www.wyotech.edu/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69ac92ee7e1fab39d3842772?utm_campaign=1054&utm_source=git)** | Laramie, WY | On Site | Mar 07 |
 | **[MOJO Family of Brands](https://managemycarwash.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69a9201f79f3f4037f43d3dc?utm_campaign=1054&utm_source=git)** | Pelham, AL | Hybrid | Mar 07 |
 | **[Issue One](https://www.issueone.org/)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69ad29992747003c3d52b867?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
-| **[Hexcel Corporation](http://hexcel.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/698fa8c20f6f7e7a2cebf5a9?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Mar 07 |
-| **[Peckham Industries, Inc.](http://peckham.com)** | **[Estimating Intern (Req #: 1284)](https://jobright.ai/jobs/info/69ac64a12747003c3d520fd5?utm_campaign=1054&utm_source=git)** | Hudson Falls, NY | On Site | Mar 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | Mar 07 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Management Intern Dallas](https://jobright.ai/jobs/info/68e5783f1852e62f0081075c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Mar 07 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
