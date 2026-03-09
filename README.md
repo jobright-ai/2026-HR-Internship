@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc46c516d00d2beeb1cb1f?utm_campaign=1054&utm_source=git)** | Joplin, MO | On Site | Mar 08 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Mar 08 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Human Resources](https://jobright.ai/jobs/info/693b1958d4054a2bc0250b89?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 08 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e719d11852e62f00822363?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Mar 08 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e719d11852e62f00822363?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Mar 08 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 08 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfce37785856350fc35e?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Mar 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933d03e764507023d1b99df?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Mar 08 |
 | ↳ | **[Management Trainee Intern - Green Bay](https://jobright.ai/jobs/info/68ce445d24dd5209002f1272?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Mar 08 |
@@ -121,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 07 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/693ce08450bbaf7650500599?utm_campaign=1054&utm_source=git)** | Woodbridge, VA | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Mar 07 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9ddb9e3a822f5d23e1e3?utm_campaign=1054&utm_source=git)** | Temple Hills, MD | On Site | Mar 07 |
 | ↳ | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a67b95f5211cd2ce7e4a?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Mar 07 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9ddb9e3a822f5d23e1e3?utm_campaign=1054&utm_source=git)** | Temple Hills, MD | On Site | Mar 07 |
 | **[Crusoe](https://crusoe.ai)** | **[Talent Development Intern, Summer 2026](https://jobright.ai/jobs/info/699021410cc8ea15f1dac7c7?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Mar 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/699010c96ea51a7610f27c52?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 07 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69ac4dff142d5b4265fda359?utm_campaign=1054&utm_source=git)** | Lafayette, LA | On Site | Mar 07 |
