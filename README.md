@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Summer 2026 Internship Program - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/69b0642cdfaeda6ff59a271d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 10 |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b0631f7495006450968b29?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Mar 10 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Strategy & Data Undergraduate Intern](https://jobright.ai/jobs/info/69b061320b2db6275c0433b3?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Mar 10 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69b05baedfaeda6ff59a15b9?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Mar 10 |
 | **[ECCO](https://enter.ecco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993e1f7e0bddb6acac22919?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Mar 10 |
 | **[EPTA GROUP](https://www.epta-france.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69b059b40b2db6275c04198b?utm_campaign=1054&utm_source=git)** | Columbus, GA | Hybrid | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omega Technical Services](https://omegatechserv.com/)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/699cfd16e0bddb6acacc0f50?utm_campaign=1054&utm_source=git)** | Oak Ridge, TN | On Site | Mar 09 |
 | **[Briggs & Stratton](http://www.briggsandstratton.com/us/en)** | **[Intern - Human Resources Summer 2026](https://jobright.ai/jobs/info/69b027490b2db6275c03954a?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Mar 09 |
 | **[nVent](https://www.nvent.com/)** | **[People Analytics Intern](https://jobright.ai/jobs/info/69af32fedfaeda6ff5974be1?utm_campaign=1054&utm_source=git)** | St Louis Park, MN | On Site | Mar 09 |
-| **[Briggs & Stratton](http://www.briggsandstratton.com/us/en)** | **[Intern - Human Resources Summer 2026](https://jobright.ai/jobs/info/69af327f749500645093ae0c?utm_campaign=1054&utm_source=git)** | Wauwatosa, WI, US, 53222 | On Site | Mar 09 |
-| **[Marshall & Stevens](http://www.marshall-stevens.com)** | **[Intern](https://jobright.ai/jobs/info/69af3223dfaeda6ff59749fc?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | Mar 09 |
-| **[Zen Educate](http://www.zeneducate.com)** | **[Junior Educator Recruitment Associate (Internship) - Minneapolis](https://jobright.ai/jobs/info/69af31d16b21de023e605b1c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
