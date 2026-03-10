@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cdc925e4962051b5a0648?utm_campaign=1054&utm_source=git)** | Robbinsville, NJ | On Site | Mar 10 |
+| ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd84c1dfa954d1c46fc56?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 10 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b03a1bdfaeda6ff599b54f?utm_campaign=1054&utm_source=git)** | Yankton, SD | On Site | Mar 10 |
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd2e61dfa954d1c46ef64?utm_campaign=1054&utm_source=git)** | Edison, NJ | On Site | Mar 10 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd1ca1dfa954d1c46ed16?utm_campaign=1054&utm_source=git)** | Penns Grove, NJ | On Site | Mar 10 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/69af2808749500645093a144?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 09 |
 | **[Telix Pharmaceuticals Limited](http://www.telixpharma.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69af269adfaeda6ff5973a3f?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69af26976b21de023e604dbb?utm_campaign=1054&utm_source=git)** | US-PA-Canonsburg | On Site | Mar 09 |
-| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268a6b21de023e604d6a?utm_campaign=1054&utm_source=git)** | Burton, OH, US | On Site | Mar 09 |
-| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268adfaeda6ff59739ba?utm_campaign=1054&utm_source=git)** | US-OH-Burton | On Site | Mar 09 |
+| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268adfaeda6ff59739ba?utm_campaign=1054&utm_source=git)** | US-OH-Burton | On Site | Mar 09 |
+| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268a6b21de023e604d6a?utm_campaign=1054&utm_source=git)** | Burton, OH, US | On Site | Mar 09 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69af267b7495006450939f35?utm_campaign=1054&utm_source=git)** | Canonsburg, PA, US | On Site | Mar 09 |
 | **[The Partners Group](https://www.thepartnersgroup.com)** | **[Organizational Wellbeing Intern](https://jobright.ai/jobs/info/69af24aadfaeda6ff597373f?utm_campaign=1054&utm_source=git)** | Renton,WA,US | On Site | Mar 09 |
 | **[Network Connex](https://www.networkconnex.com/)** | **[Intern](https://jobright.ai/jobs/info/69af23396b21de023e604341?utm_campaign=1054&utm_source=git)** | Downers Grove, IL | On Site | Mar 09 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69af2227749500645093938f?utm_campaign=1054&utm_source=git)** | Simi Valley, CA | On Site | Mar 09 |
-| **[Calderys](https://www.calderys.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/69af1facdfaeda6ff597214c?utm_campaign=1054&utm_source=git)** | 2000 Park Lane Drive, Pittsburgh, PA, 15275, US | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
