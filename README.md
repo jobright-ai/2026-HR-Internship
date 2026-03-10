@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kysor Warren](http://www.kysorwarren.com/)** | **[HR intern](https://jobright.ai/jobs/info/69af5acd749500645093d753?utm_campaign=1054&utm_source=git)** | Columbus, GA | On Site | Mar 09 |
+| **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Bilingual HR Intern - Nespresso](https://jobright.ai/jobs/info/69a78e8d76bbe83d3afaefc4?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 09 |
 | **[Schneider Electric](https://www.se.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5893749500645093d677?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Mar 09 |
+| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Intern - People Data Analytics and Visualization](https://jobright.ai/jobs/info/69af67d5749500645093de0d?utm_campaign=1054&utm_source=git)** | Wilmington, MA | On Site | Mar 09 |
+| **[SpotHero](http://www.spothero.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69af65a0dfaeda6ff59779da?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
+| **[Geneva Trading](https://geneva-trading.com)** | **[HR Programs & Operations Intern](https://jobright.ai/jobs/info/69978b73e0bddb6acac63bc5?utm_campaign=1054&utm_source=git)** | Chicago Office | On Site | Mar 09 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af610e6b21de023e608874?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Mar 09 |
+| **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/69af5ea1dfaeda6ff59775b0?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Mar 09 |
+| **[Kysor Warren](http://www.kysorwarren.com/)** | **[HR intern](https://jobright.ai/jobs/info/69af5acd749500645093d753?utm_campaign=1054&utm_source=git)** | Columbus, GA | On Site | Mar 09 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Mar 09 |
 | **[Vancity](http://www.vancity.com)** | **[Total Rewards Intern (Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69af5601dfaeda6ff59771bc?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 09 |
 | **[Price Chopper Supermarkets-Market 32](http://www.pricechopper.com)** | **[HR Operations Policy Intern](https://jobright.ai/jobs/info/69af50dbdfaeda6ff5976e97?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Mar 09 |
@@ -97,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern - Washington, DC](https://jobright.ai/jobs/info/69af278adfaeda6ff5973dc1?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[Telix Pharmaceuticals Limited](http://www.telixpharma.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69af269adfaeda6ff5973a3f?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69af26976b21de023e604dbb?utm_campaign=1054&utm_source=git)** | US-PA-Canonsburg | On Site | Mar 09 |
-| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268a6b21de023e604d6a?utm_campaign=1054&utm_source=git)** | Burton, OH, US | On Site | Mar 09 |
-| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268adfaeda6ff59739ba?utm_campaign=1054&utm_source=git)** | US-OH-Burton | On Site | Mar 09 |
+| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268adfaeda6ff59739ba?utm_campaign=1054&utm_source=git)** | US-OH-Burton | On Site | Mar 09 |
+| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268a6b21de023e604d6a?utm_campaign=1054&utm_source=git)** | Burton, OH, US | On Site | Mar 09 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern - Washington, DC](https://jobright.ai/jobs/info/69af26856b21de023e604d49?utm_campaign=1054&utm_source=git)** | US-DC-Washington | On Site | Mar 09 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69af267b7495006450939f35?utm_campaign=1054&utm_source=git)** | Canonsburg, PA, US | On Site | Mar 09 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern - Washington, DC](https://jobright.ai/jobs/info/69af26637495006450939eca?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | Mar 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2026](https://jobright.ai/jobs/info/68ca499046caff4db51fc945?utm_campaign=1054&utm_source=git)** | DFW Metroplex | Hybrid | Mar 09 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Mar 09 |
-| **[Standard Communities](https://www.standard-communities.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69aec823bd1a716b431052ba?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 09 |
-| **[HarbisonWalker International](http://www.thinkHWI.com)** | **[HR Intern](https://jobright.ai/jobs/info/69aeda1e6b21de023e5fe4e5?utm_campaign=1054&utm_source=git)** | 1301 East 8th Street, White Cloud, MI, 49349, US | On Site | Mar 09 |
-| **[Calderys](https://www.calderys.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69aeda36dfaeda6ff596d229?utm_campaign=1054&utm_source=git)** | 1301 East 8th Street, White Cloud, MI, 49349, US | On Site | Mar 09 |
-| **[Multnomah County](https://multco.us)** | **[DCJ - Human Resources Support Internship](https://jobright.ai/jobs/info/69ae81a53de6821aaccdddbc?utm_campaign=1054&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
-| **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69ae7f917c309707d4afc9d1?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 09 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA Avenues Opportunities in Audit – Summer Internship – May 2027 – August 2027](https://jobright.ai/jobs/info/69ae7f8b7c309707d4afc9b8?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
