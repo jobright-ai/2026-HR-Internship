@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Human Resources Intern (Students Only)](https://jobright.ai/jobs/info/69afa7ee7495006450946f82?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Mar 09 |
+| **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Human Resources Intern, Learning and Development - REQ # 1453](https://jobright.ai/jobs/info/69afa4867495006450945daf?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Mar 09 |
+| **[PowerCo](https://www.powerco.de)** | **[People Analytics Co-op](https://jobright.ai/jobs/info/69af9ef1dfaeda6ff597f083?utm_campaign=1054&utm_source=git)** | St Thomas, Ontario, Canada | Hybrid | Mar 09 |
+| **[SpotHero](http://www.spothero.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69af9e92749500645094450f?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Retirement Intern](https://jobright.ai/jobs/info/69af8b7e7495006450940e98?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 09 |
 | **[Leidos](https://www.leidos.com)** | **[HR Services Intern](https://jobright.ai/jobs/info/69af82c46b21de023e60ba11?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 09 |
-| **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Human Resources Intern, Learning and Development - REQ # 1453](https://jobright.ai/jobs/info/69af81f17495006450940287?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Mar 09 |
 | **[Smiths Group plc](http://www.smiths.com/)** | **[Human Resources Learning and Development Intern](https://jobright.ai/jobs/info/69af80987495006450940092?utm_campaign=1054&utm_source=git)** | Edgewood, MD, USA | On Site | Mar 09 |
 | **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Human Resources Intern, Learning and Development - REQ # 1453](https://jobright.ai/jobs/info/69af7f9bdfaeda6ff597a65e?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Mar 09 |
 | **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[HRIS Intern](https://jobright.ai/jobs/info/69af7d81dfaeda6ff597a38a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 09 |
@@ -74,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Bilingual HR Intern - Nespresso](https://jobright.ai/jobs/info/69a78e8d76bbe83d3afaefc4?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 09 |
 | **[Schneider Electric](https://www.se.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5893749500645093d677?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Mar 09 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Intern - People Data Analytics and Visualization](https://jobright.ai/jobs/info/69af67d5749500645093de0d?utm_campaign=1054&utm_source=git)** | Wilmington, MA | On Site | Mar 09 |
-| **[SpotHero](http://www.spothero.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69af65a0dfaeda6ff59779da?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
 | **[Geneva Trading](https://geneva-trading.com)** | **[HR Programs & Operations Intern](https://jobright.ai/jobs/info/69978b73e0bddb6acac63bc5?utm_campaign=1054&utm_source=git)** | Chicago Office | On Site | Mar 09 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af610e6b21de023e608874?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Mar 09 |
 | **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/69af5ea1dfaeda6ff59775b0?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Mar 09 |
@@ -111,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Edmonton Office - CPA Opportunities in Private Enterprise - Intern/Co-op - Winter 2027](https://jobright.ai/jobs/info/69af2e49dfaeda6ff59742af?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Mar 09 |
 | **[The Partners Group](https://www.thepartnersgroup.com)** | **[Organizational Wellbeing Intern](https://jobright.ai/jobs/info/69af2e196b21de023e60557a?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | On Site | Mar 09 |
 | **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69955fbbce78e77b4fd9854c?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 09 |
+| **[Lean-Education Agile Foundry Laboratory](www.l-eaflab.org)** | **[People Operations / Talent Optimization Apprentice](https://jobright.ai/jobs/info/69af35766b21de023e6063df?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 09 |
 | **[EO](EOco.org)** | **[Intern – BVPS HR & Finance Department](https://jobright.ai/jobs/info/69af2ca16b21de023e6053e5?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 09 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) / Training / Education - Schaumburg, IL - Flexible Hybrid Schedule](https://jobright.ai/jobs/info/699924b0e0bddb6acac82acb?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 09 |
 | **[HarbisonWalker International](http://www.thinkHWI.com)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/69af2825749500645093a17e?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 09 |
@@ -118,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern - Washington, DC](https://jobright.ai/jobs/info/69af278adfaeda6ff5973dc1?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[Telix Pharmaceuticals Limited](http://www.telixpharma.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69af269adfaeda6ff5973a3f?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69af26976b21de023e604dbb?utm_campaign=1054&utm_source=git)** | US-PA-Canonsburg | On Site | Mar 09 |
-| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268adfaeda6ff59739ba?utm_campaign=1054&utm_source=git)** | US-OH-Burton | On Site | Mar 09 |
-| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268a6b21de023e604d6a?utm_campaign=1054&utm_source=git)** | Burton, OH, US | On Site | Mar 09 |
+| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268a6b21de023e604d6a?utm_campaign=1054&utm_source=git)** | Burton, OH, US | On Site | Mar 09 |
+| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268adfaeda6ff59739ba?utm_campaign=1054&utm_source=git)** | US-OH-Burton | On Site | Mar 09 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern - Washington, DC](https://jobright.ai/jobs/info/69af26856b21de023e604d49?utm_campaign=1054&utm_source=git)** | US-DC-Washington | On Site | Mar 09 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69af267b7495006450939f35?utm_campaign=1054&utm_source=git)** | Canonsburg, PA, US | On Site | Mar 09 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern - Washington, DC](https://jobright.ai/jobs/info/69af26637495006450939eca?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | Mar 09 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/6985602e8da7a612045fea32?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | **[HarbisonWalker International](http://www.thinkHWI.com)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/69af3029dfaeda6ff59746c2?utm_campaign=1054&utm_source=git)** | 2000 Park Lane Drive, Pittsburgh, PA, 15275, US | On Site | Mar 09 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[HR Partner Intern - Summer 2026](https://jobright.ai/jobs/info/69af103d6b21de023e60285d?utm_campaign=1054&utm_source=git)** | North Carolina, United States | On Site | Mar 09 |
-| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af331b749500645093ae80?utm_campaign=1054&utm_source=git)** | US-KY-LOUISVILLE | On Site | Mar 09 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af331adfaeda6ff5974bfe?utm_campaign=1054&utm_source=git)** | LOUISVILLE, KY, US | On Site | Mar 09 |
+| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af331adfaeda6ff5974bfe?utm_campaign=1054&utm_source=git)** | LOUISVILLE, KY, US | On Site | Mar 09 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af331b749500645093ae80?utm_campaign=1054&utm_source=git)** | US-KY-LOUISVILLE | On Site | Mar 09 |
 | **[Austin Industrial, Inc.](http://www.austinindustrial.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af0e007495006450937be1?utm_campaign=1054&utm_source=git)** | La Porte, TX | On Site | Mar 09 |
 | **[nVent](https://www.nvent.com/)** | **[People Analytics Intern](https://jobright.ai/jobs/info/69af0c9e6b21de023e6023e9?utm_campaign=1054&utm_source=git)** | St Louis Park, MN, US | Hybrid | Mar 09 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources (Learning & Development)](https://jobright.ai/jobs/info/69af0b526b21de023e602201?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Select Medical](http://www.selectmedical.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69aef8a9dfaeda6ff596ff9e?utm_campaign=1054&utm_source=git)** | Canonsburg, PA | On Site | Mar 09 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiter Internship](https://jobright.ai/jobs/info/69aef882dfaeda6ff596ff57?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69340347764507023d1bb62e?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Mar 09 |
-| **[CarDon & Associates](https://cardon.us/)** | **[Human Resources Intern - Indianapolis - CarDon Corp](https://jobright.ai/jobs/info/69aef5ed6b21de023e600b9d?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Mar 09 |
-| **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/69aef190dfaeda6ff596f749?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Mar 09 |
-| **[MAHLE](https://www.mahle.com)** | **[Human Resources Intern - Talent Management (May - December)](https://jobright.ai/jobs/info/6997a642ce78e77b4fdbfdf6?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
