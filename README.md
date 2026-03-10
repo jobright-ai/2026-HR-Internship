@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Development Intern (Remote)](https://jobright.ai/jobs/info/697819a488e2b47213bc18ba?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 10 |
+| **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/6977da13fdeb8243a27acaf2?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Mar 10 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/69052bfc122e8474c78d6ffa?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 10 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/69207e2a3f782d2f1afc8001?utm_campaign=1054&utm_source=git)** | CS-Bryan Area | On Site | Mar 10 |
 | **[Vancity](http://www.vancity.com)** | **[Reporting and People Analytics Intern (Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69afd2ff7495006450950ac1?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 10 |
 | **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69afd018f63f733065b3ca66?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 10 |
@@ -125,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern - Washington, DC](https://jobright.ai/jobs/info/69af278adfaeda6ff5973dc1?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[Telix Pharmaceuticals Limited](http://www.telixpharma.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69af269adfaeda6ff5973a3f?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69af26976b21de023e604dbb?utm_campaign=1054&utm_source=git)** | US-PA-Canonsburg | On Site | Mar 09 |
-| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268adfaeda6ff59739ba?utm_campaign=1054&utm_source=git)** | US-OH-Burton | On Site | Mar 09 |
-| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268a6b21de023e604d6a?utm_campaign=1054&utm_source=git)** | Burton, OH, US | On Site | Mar 09 |
+| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268a6b21de023e604d6a?utm_campaign=1054&utm_source=git)** | Burton, OH, US | On Site | Mar 09 |
+| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69af268adfaeda6ff59739ba?utm_campaign=1054&utm_source=git)** | US-OH-Burton | On Site | Mar 09 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern - Washington, DC](https://jobright.ai/jobs/info/69af26856b21de023e604d49?utm_campaign=1054&utm_source=git)** | US-DC-Washington | On Site | Mar 09 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69af267b7495006450939f35?utm_campaign=1054&utm_source=git)** | Canonsburg, PA, US | On Site | Mar 09 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern - Washington, DC](https://jobright.ai/jobs/info/69af26637495006450939eca?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | Mar 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Standard Communities](https://www.standard-communities.com)** | **[HR Intern](https://jobright.ai/jobs/info/69af0350dfaeda6ff59708a2?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | Mar 09 |
 | **[Palmetto](http://www.palmetto.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69af00de7495006450936eab?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 09 |
 | **[Prevea Health](https://www.prevea.com/)** | **[Human Resources Round Internship](https://jobright.ai/jobs/info/69aefd3ddfaeda6ff5970327?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Mar 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b519c61ade4306aa63fdf0?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Mar 09 |
-| **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/69aefc3bdfaeda6ff59701c4?utm_campaign=1054&utm_source=git)** | Clintonville, WI | On Site | Mar 09 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Year-Round - Talent Acquisition/Staffing, Remote](https://jobright.ai/jobs/info/6993aa2fe0bddb6acac1f133?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | Remote | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
