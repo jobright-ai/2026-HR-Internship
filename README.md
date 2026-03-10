@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kysor Warren](http://www.kysorwarren.com/)** | **[HR intern](https://jobright.ai/jobs/info/69af5acd749500645093d753?utm_campaign=1054&utm_source=git)** | Columbus, GA | On Site | Mar 09 |
 | **[Schneider Electric](https://www.se.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5893749500645093d677?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Mar 09 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Mar 09 |
 | **[Vancity](http://www.vancity.com)** | **[Total Rewards Intern (Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69af5601dfaeda6ff59771bc?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 09 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69aedebc6b21de023e5ff3e3?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Mar 09 |
 | **[Ibility LLC](http://ibility.io)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69aedc4bdfaeda6ff596d846?utm_campaign=1054&utm_source=git)** | Kansas City, MO | Hybrid | Mar 09 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Summer 2026](https://jobright.ai/jobs/info/69aedae17495006450933b8a?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 09 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69aedab37495006450933a50?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 09 |
 | **[HarbisonWalker International](http://www.thinkHWI.com)** | **[HR Intern](https://jobright.ai/jobs/info/69aed9a36b21de023e5fe3c9?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b5068b1ade4306aa63f19a?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Mar 09 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b07fe313563e782a9f6c3d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 09 |
