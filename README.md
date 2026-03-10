@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransAlta](https://transalta.com/)** | **[Human Resources Summer Student](https://jobright.ai/jobs/info/69afb9e9749500645094bb72?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 09 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Human Resources Intern (Students Only)](https://jobright.ai/jobs/info/69afa7ee7495006450946f82?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Mar 09 |
 | **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Human Resources Intern, Learning and Development - REQ # 1453](https://jobright.ai/jobs/info/69afa4867495006450945daf?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Mar 09 |
 | **[PowerCo](https://www.powerco.de)** | **[People Analytics Co-op](https://jobright.ai/jobs/info/69af9ef1dfaeda6ff597f083?utm_campaign=1054&utm_source=git)** | St Thomas, Ontario, Canada | Hybrid | Mar 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Select Medical](http://www.selectmedical.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69aef8a9dfaeda6ff596ff9e?utm_campaign=1054&utm_source=git)** | Canonsburg, PA | On Site | Mar 09 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiter Internship](https://jobright.ai/jobs/info/69aef882dfaeda6ff596ff57?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69340347764507023d1bb62e?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Mar 09 |
-| **[CarDon & Associates](https://cardon.us/)** | **[Human Resources Intern - Indianapolis - CarDon Corp](https://jobright.ai/jobs/info/69aef5ed6b21de023e600b9d?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
