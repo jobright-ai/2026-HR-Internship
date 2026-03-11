@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - HR Shared Services](https://jobright.ai/jobs/info/6977e5f588e2b47213bbe2b1?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 11 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Learning & Development, Human Resources](https://jobright.ai/jobs/info/69953d2dce78e77b4fd9593f?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Mar 11 |
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Intern, People Strategy (Hybrid Schedule)](https://jobright.ai/jobs/info/695dc631fbd62a0a65667d0b?utm_campaign=1054&utm_source=git)** | Chevy Chase, MD | Hybrid | Mar 11 |
+| **[Neolithic Materials](http://neolithicmaterials.com)** | **[Summer Internship (Paid / Onsite)](https://jobright.ai/jobs/info/69b14bfc548f140066e6fbe6?utm_campaign=1054&utm_source=git)** | Gardena, CA | On Site | Mar 11 |
 | **[Lehman College](http://www.lehman.edu)** | **[Industry Employment Specialist for Sociology](https://jobright.ai/jobs/info/69b12f0b74950064509893e7?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Mar 11 |
 | **[PBK](https://pbk.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a8ca532580d3183f00e111?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 11 |
 | **[Balchem Corporation](http://balchem.com)** | **[HR Generalist Intern/Co-Op](https://jobright.ai/jobs/info/697b98e80b88cc7d642255df?utm_campaign=1054&utm_source=git)** | Montvale, NJ | On Site | Mar 11 |
@@ -79,10 +81,10 @@ For a complete list, click the following sortable link below:
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026 - Human Resources Internship](https://jobright.ai/jobs/info/69b0e1f3dfaeda6ff59ba720?utm_campaign=1054&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
 | **[Village Plumbing, Air & Electric](https://villageplumbing.com/)** | **[Intern- Human Resources and Recruiting](https://jobright.ai/jobs/info/69b0faad74950064509830e4?utm_campaign=1054&utm_source=git)** | HOUSTON,TX,US | On Site | Mar 10 |
 | **[Crash Champions](https://crashchampions.com/)** | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b10490dfaeda6ff59bdffe?utm_campaign=1054&utm_source=git)** | Westmont, IL, US | On Site | Mar 10 |
-| ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b1055874950064509839d6?utm_campaign=1054&utm_source=git)** | 601 Oakmont Lane | On Site | Mar 10 |
 | ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b1048edfaeda6ff59bdfe2?utm_campaign=1054&utm_source=git)** | Westmont | On Site | Mar 10 |
-| ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b1055874950064509839da?utm_campaign=1054&utm_source=git)** | 60559 | On Site | Mar 10 |
 | ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b107010b2db6275c0602ff?utm_campaign=1054&utm_source=git)** | IL | On Site | Mar 10 |
+| ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b1055874950064509839d6?utm_campaign=1054&utm_source=git)** | 601 Oakmont Lane | On Site | Mar 10 |
+| ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b1055874950064509839da?utm_campaign=1054&utm_source=git)** | 60559 | On Site | Mar 10 |
 | **[Mountain Capital Partners](http://www.mcp.ski)** | **[People Team Intern](https://jobright.ai/jobs/info/69b0b06874950064509774e5?utm_campaign=1054&utm_source=git)** | Mountain Capital Partners - Durango, CO 81301 | On Site | Mar 10 |
 | **[KTGY](http://ktgy.com)** | **[Intern Associate, HR](https://jobright.ai/jobs/info/698a4c534db8972cecff8af3?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Mar 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Payroll (Summer 2026)](https://jobright.ai/jobs/info/69b0a9be749500645097620e?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Mar 10 |
@@ -100,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Vest Labs](https://www.vest.exchange)** | **[Paid Operations Intern & Talent Associate](https://jobright.ai/jobs/info/69b08fce0b2db6275c04bc29?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Mar 10 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Fort Wayne](https://jobright.ai/jobs/info/696efc139c3c52633455aeb0?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Mar 10 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69b08636749500645096f5a7?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 10 |
+| **[Trademark Metals Recycling - A Nucor Company](http://tmrecycling.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b14495d04c69566c73679f?utm_campaign=1054&utm_source=git)** | Norfolk, NE, US, 68701 | On Site | Mar 10 |
 | **[Dumarey Group](https://www.punchtorino.com)** | **[HR & Safety Intern](https://jobright.ai/jobs/info/69b0814edfaeda6ff59a7a18?utm_campaign=1054&utm_source=git)** | Detroit Metro | On Site | Mar 10 |
 | **[MacEwan University](http://www.MacEwan.ca)** | **[International Student Recruitment Specialist - Office of the University Registrar](https://jobright.ai/jobs/info/69b13634749500645098a3d8?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Mar 10 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Law & Policy](https://jobright.ai/jobs/info/69b08059749500645096dff6?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd2e61dfa954d1c46ef64?utm_campaign=1054&utm_source=git)** | Edison, NJ | On Site | Mar 10 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd1ca1dfa954d1c46ed16?utm_campaign=1054&utm_source=git)** | Penns Grove, NJ | On Site | Mar 10 |
 | ↳ | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cda471dfa954d1c47024d?utm_campaign=1054&utm_source=git)** | Somerset County, NJ | On Site | Mar 10 |
-| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Law & Policy](https://jobright.ai/jobs/info/69b07651dfaeda6ff59a52fb?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Mar 10 |
-| **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Total Rewards + Benefits](https://jobright.ai/jobs/info/69b07643dfaeda6ff59a529c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Mar 10 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69b02d15749500645095f165?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
