@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Payroll (Summer 2026)](https://jobright.ai/jobs/info/69b0a9be749500645097620e?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Mar 10 |
-| ↳ | **[Internship, Coordinator, People Content (Summer 2026)](https://jobright.ai/jobs/info/69b0a9b6dfaeda6ff59af3ec?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 10 |
+| **[KTGY](http://ktgy.com)** | **[Intern Associate, HR](https://jobright.ai/jobs/info/698a4c534db8972cecff8af3?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Mar 10 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Coordinator, People Content (Summer 2026)](https://jobright.ai/jobs/info/69b0ad76dfaeda6ff59afe46?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 10 |
+| ↳ | **[Internship, Payroll (Summer 2026)](https://jobright.ai/jobs/info/69b0a9be749500645097620e?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Mar 10 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69b0a9ac0b2db6275c05042a?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Mar 10 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69b0a9437495006450975faf?utm_campaign=1054&utm_source=git)** | Alton, TX | On Site | Mar 10 |
 | **[BWXT](http://www.bwxt.com/)** | **[Human Resources Co-op Student](https://jobright.ai/jobs/info/69b0a561749500645097584b?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | Hybrid | Mar 10 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Strategy & Data Undergraduate Intern](https://jobright.ai/jobs/info/69b061320b2db6275c0433b3?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Mar 10 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b085dc749500645096f3f2?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 10 |
 | **[Mid-West Forge Corporation](http://www.mid-westforge.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69b08545dfaeda6ff59a874f?utm_campaign=1054&utm_source=git)** | Cleveland,OH,US | On Site | Mar 10 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b08923dfaeda6ff59a8d8a?utm_campaign=1054&utm_source=git)** | US-VA-Reston | Hybrid | Mar 10 |
-| ↳ | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b084aa0b2db6275c049b3d?utm_campaign=1054&utm_source=git)** | Reston, VA, US | Hybrid | Mar 10 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b084aa0b2db6275c049b3d?utm_campaign=1054&utm_source=git)** | Reston, VA, US | Hybrid | Mar 10 |
+| ↳ | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b08923dfaeda6ff59a8d8a?utm_campaign=1054&utm_source=git)** | US-VA-Reston | Hybrid | Mar 10 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69b087bedfaeda6ff59a8c2c?utm_campaign=1054&utm_source=git)** | Fall River, Massachusetts | On Site | Mar 10 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69b05baedfaeda6ff59a15b9?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Mar 10 |
 | **[ECCO](https://enter.ecco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993e1f7e0bddb6acac22919?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Mar 10 |
@@ -110,7 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bcb8feeb0006c1a56f63?utm_campaign=1054&utm_source=git)** | Monroeville, PA | On Site | Mar 10 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Southern Region - Service of Process - Taunton location](https://jobright.ai/jobs/info/69b07f720b2db6275c0492b0?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Taunton-540 Myles Standish Blv | On Site | Mar 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/6978530f52f3c27ec644aa7f?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Mar 10 |
-| ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b51b501ade4306aa64012b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 10 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Child Support - Southern Region - Service of Process - Taunton location](https://jobright.ai/jobs/info/69b0ae7374950064509771ea?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Taunton-540 Myles Standish Blv | On Site | Mar 10 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b51b501ade4306aa64012b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/695c93af9a87b95a9397e7d4?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Mar 10 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993bc4ce0bddb6acac2051e?utm_campaign=1054&utm_source=git)** | Chatham, VA | On Site | Mar 10 |
 | **[Mobile Communications America](http://callmc.com)** | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/69782f9239f7f96cc6d0776f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[HR Services Intern](https://jobright.ai/jobs/info/69af82c46b21de023e60ba11?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Smiths Group plc](http://www.smiths.com/)** | **[Human Resources Learning and Development Intern](https://jobright.ai/jobs/info/69af80987495006450940092?utm_campaign=1054&utm_source=git)** | Edgewood, MD, USA | On Site | Mar 09 |
 | **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Human Resources Intern, Learning and Development - REQ # 1453](https://jobright.ai/jobs/info/69af7f9bdfaeda6ff597a65e?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Mar 09 |
-| **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[HRIS Intern](https://jobright.ai/jobs/info/69af7d81dfaeda6ff597a38a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 09 |
-| **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af7d5c6b21de023e60b388?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
