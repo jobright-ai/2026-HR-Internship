@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PBK](https://pbk.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a8ca532580d3183f00e111?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 11 |
+| **[Balchem Corporation](http://balchem.com)** | **[HR Generalist Intern/Co-Op](https://jobright.ai/jobs/info/697b98e80b88cc7d642255df?utm_campaign=1054&utm_source=git)** | Montvale, NJ | On Site | Mar 11 |
+| **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69b1224a7495006450987618?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 11 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Internship - Talent Acquisition](https://jobright.ai/jobs/info/69b10ceddfaeda6ff59bf7c2?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 10 |
 | **[California State University, Monterey Bay](https://www.csumb.edu)** | **[Admissions Processing Analyst - Internal Only Recruitment](https://jobright.ai/jobs/info/69b0e834dfaeda6ff59bb68a?utm_campaign=1054&utm_source=git)** | Monterey, CA | On Site | Mar 10 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Leadership Internship $17.50/HR](https://jobright.ai/jobs/info/69b0e7b37495006450980791?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Mar 10 |
@@ -73,10 +76,10 @@ For a complete list, click the following sortable link below:
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026 - Human Resources Internship](https://jobright.ai/jobs/info/69b0e1f3dfaeda6ff59ba720?utm_campaign=1054&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
 | **[Village Plumbing, Air & Electric](https://villageplumbing.com/)** | **[Intern- Human Resources and Recruiting](https://jobright.ai/jobs/info/69b0faad74950064509830e4?utm_campaign=1054&utm_source=git)** | HOUSTON,TX,US | On Site | Mar 10 |
 | **[Crash Champions](https://crashchampions.com/)** | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b10490dfaeda6ff59bdffe?utm_campaign=1054&utm_source=git)** | Westmont, IL, US | On Site | Mar 10 |
-| ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b107010b2db6275c0602ff?utm_campaign=1054&utm_source=git)** | IL | On Site | Mar 10 |
 | ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b1055874950064509839d6?utm_campaign=1054&utm_source=git)** | 601 Oakmont Lane | On Site | Mar 10 |
 | ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b1055874950064509839da?utm_campaign=1054&utm_source=git)** | 60559 | On Site | Mar 10 |
 | ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b1048edfaeda6ff59bdfe2?utm_campaign=1054&utm_source=git)** | Westmont | On Site | Mar 10 |
+| ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69b107010b2db6275c0602ff?utm_campaign=1054&utm_source=git)** | IL | On Site | Mar 10 |
 | **[Mountain Capital Partners](http://www.mcp.ski)** | **[People Team Intern](https://jobright.ai/jobs/info/69b0b06874950064509774e5?utm_campaign=1054&utm_source=git)** | Mountain Capital Partners - Durango, CO 81301 | On Site | Mar 10 |
 | **[KTGY](http://ktgy.com)** | **[Intern Associate, HR](https://jobright.ai/jobs/info/698a4c534db8972cecff8af3?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Mar 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Payroll (Summer 2026)](https://jobright.ai/jobs/info/69b0a9be749500645097620e?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Mar 10 |
@@ -117,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Strategy & Data Undergraduate Intern](https://jobright.ai/jobs/info/69b061320b2db6275c0433b3?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Mar 10 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b085dc749500645096f3f2?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 10 |
 | **[Mid-West Forge Corporation](http://www.mid-westforge.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69b08545dfaeda6ff59a874f?utm_campaign=1054&utm_source=git)** | Cleveland,OH,US | On Site | Mar 10 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b084aa0b2db6275c049b3d?utm_campaign=1054&utm_source=git)** | Reston, VA, US | Hybrid | Mar 10 |
-| ↳ | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b08923dfaeda6ff59a8d8a?utm_campaign=1054&utm_source=git)** | US-VA-Reston | Hybrid | Mar 10 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b08923dfaeda6ff59a8d8a?utm_campaign=1054&utm_source=git)** | US-VA-Reston | Hybrid | Mar 10 |
+| ↳ | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b084aa0b2db6275c049b3d?utm_campaign=1054&utm_source=git)** | Reston, VA, US | Hybrid | Mar 10 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69b087bedfaeda6ff59a8c2c?utm_campaign=1054&utm_source=git)** | Fall River, Massachusetts | On Site | Mar 10 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69b05baedfaeda6ff59a15b9?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Mar 10 |
 | **[ECCO](https://enter.ecco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993e1f7e0bddb6acac22919?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Mar 10 |
@@ -129,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[M-D Building Products](http://www.mdteam.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b04e330b2db6275c03f8cb?utm_campaign=1054&utm_source=git)** | Oklahoma, United States | On Site | Mar 10 |
 | **[Playground](https://www.tryplayground.com/)** | **[BizOps MBA Internship](https://jobright.ai/jobs/info/69b04e2e0b2db6275c03f8be?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6978b5be39f7f96cc6d1231e?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 10 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiter Internship](https://jobright.ai/jobs/info/69b04a59dfaeda6ff599e57e?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Mar 10 |
 | **[EST Companies LLC](https://www.estcos.com)** | **[HR Intern](https://jobright.ai/jobs/info/69a9e9959ca4e908ec652ecc?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Mar 10 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Recruiting Internship](https://jobright.ai/jobs/info/69b0499f0b2db6275c03ebb2?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bb2965768b6412b1ef6a?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b029e4dfaeda6ff5998aae?utm_campaign=1054&utm_source=git)** | Gillette, WY | On Site | Mar 10 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 10 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993bb8381476f6176ab594c?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
-| **[IDEMIA Public Security](https://www.idemia.com/business/idemia-public-security)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b0244f749500645095db77?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Mar 10 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6978365788e2b47213bc3d08?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
