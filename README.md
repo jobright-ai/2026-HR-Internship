@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[FlexGen](https://flexgen.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b0bd68dfaeda6ff59b1dc4?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Mar 10 |
 | **[Texas Instruments](http://www.ti.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b0bc9e74950064509796e1?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026 - Human Resources Internship](https://jobright.ai/jobs/info/69b0e1f3dfaeda6ff59ba720?utm_campaign=1054&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
+| **[Village Plumbing, Air & Electric](https://villageplumbing.com/)** | **[Intern- Human Resources and Recruiting](https://jobright.ai/jobs/info/69b0faad74950064509830e4?utm_campaign=1054&utm_source=git)** | HOUSTON,TX,US | On Site | Mar 10 |
 | **[Mountain Capital Partners](http://www.mcp.ski)** | **[People Team Intern](https://jobright.ai/jobs/info/69b0b06874950064509774e5?utm_campaign=1054&utm_source=git)** | Mountain Capital Partners - Durango, CO 81301 | On Site | Mar 10 |
 | **[KTGY](http://ktgy.com)** | **[Intern Associate, HR](https://jobright.ai/jobs/info/698a4c534db8972cecff8af3?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Mar 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Payroll (Summer 2026)](https://jobright.ai/jobs/info/69b0a9be749500645097620e?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Mar 10 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Strategy & Data Undergraduate Intern](https://jobright.ai/jobs/info/69b061320b2db6275c0433b3?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Mar 10 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b085dc749500645096f3f2?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 10 |
 | **[Mid-West Forge Corporation](http://www.mid-westforge.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69b08545dfaeda6ff59a874f?utm_campaign=1054&utm_source=git)** | Cleveland,OH,US | On Site | Mar 10 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b084aa0b2db6275c049b3d?utm_campaign=1054&utm_source=git)** | Reston, VA, US | Hybrid | Mar 10 |
-| ↳ | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b08923dfaeda6ff59a8d8a?utm_campaign=1054&utm_source=git)** | US-VA-Reston | Hybrid | Mar 10 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b08923dfaeda6ff59a8d8a?utm_campaign=1054&utm_source=git)** | US-VA-Reston | Hybrid | Mar 10 |
+| ↳ | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b084aa0b2db6275c049b3d?utm_campaign=1054&utm_source=git)** | Reston, VA, US | Hybrid | Mar 10 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69b087bedfaeda6ff59a8c2c?utm_campaign=1054&utm_source=git)** | Fall River, Massachusetts | On Site | Mar 10 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69b05baedfaeda6ff59a15b9?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Mar 10 |
 | **[ECCO](https://enter.ecco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6993e1f7e0bddb6acac22919?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LabConnect](https://www.labconnect.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6993859b81476f6176ab1c48?utm_campaign=1054&utm_source=git)** | Johnson City, TN | On Site | Mar 10 |
 | **[Vancity](http://www.vancity.com)** | **[Reporting and People Analytics Intern (Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69b0e7777495006450980721?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Organizational Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69b005a27495006450959419?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | Hybrid | Mar 10 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6993cd23ce78e77b4fd7a193?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
