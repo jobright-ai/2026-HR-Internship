@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grant Park Holdings](https://grantparkholdings.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b245e6ae2a534885e937d8?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Mar 11 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b23999a8ac8e70ff660ef1?utm_campaign=1054&utm_source=git)** | Westhampton Beach, NY | On Site | Mar 11 |
 | **[Russell Stover Chocolates](http://www.russellstover.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b2266a65de58104c719c6e?utm_campaign=1054&utm_source=git)** | KC Metro Area | On Site | Mar 11 |
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225a765de58104c719ac0?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b22588d04c69566c74d988?utm_campaign=1054&utm_source=git)** | Coppell, TX | Hybrid | Mar 11 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2255b65de58104c719a17?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | On Site | Mar 11 |
+| **[Klick](https://www.klick.com)** | **[Engagement Coordinator, Summer 2026](https://jobright.ai/jobs/info/69b2429ead360c0340a6fe52?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 11 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Retirement Solutions & Wealth Management](https://jobright.ai/jobs/info/69b2222c65de58104c71955c?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 11 |
 | ↳ | **[2026 Early Talent Internship: Retirement Solutions & Wealth Management](https://jobright.ai/jobs/info/69b2222b548f140066e85d9d?utm_campaign=1054&utm_source=git)** | Frisco, TX | On Site | Mar 11 |
 | **[Diligent](http://diligent.com)** | **[People Experience & HR Technology Intern](https://jobright.ai/jobs/info/69b21d6a548f140066e85af5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
@@ -71,12 +73,11 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2129bd04c69566c74b6d6?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b20fbdd04c69566c74b38b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 11 |
 | **[Schuette Metals](http://schuettemetals.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69b2263165de58104c719bb9?utm_campaign=1054&utm_source=git)** | Rothschild, WI, US | On Site | Mar 11 |
-| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
+| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Mar 11 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2262c65de58104c719ba1?utm_campaign=1054&utm_source=git)** | Hybrid CA Office, Costa Mesa, CA, US | Hybrid | Mar 11 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Human Resources Intern- Summer Internship](https://jobright.ai/jobs/info/69b227e565de58104c719e27?utm_campaign=1054&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
 | **[Garney Construction](http://garney.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/69b2074b548f140066e835f5?utm_campaign=1054&utm_source=git)** | North Kansas City, MO | On Site | Mar 11 |
-| **[Diligent](http://diligent.com)** | **[People Experience & HR Technology Intern](https://jobright.ai/jobs/info/69b2017fd04c69566c74a89c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2005b65de58104c717042?utm_campaign=1054&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b2004d548f140066e8314e?utm_campaign=1054&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
 | **[ITW Automotive](https://www.itwautomotive.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69b1fba9d04c69566c74a011?utm_campaign=1054&utm_source=git)** | Decatur, AL | On Site | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ce8da3846f0b04af67afae?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 11 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[HR Shared Service Intern](https://jobright.ai/jobs/info/69b1992d548f140066e76ae6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Mar 11 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/69b19868d04c69566c73e4b2?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Mar 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/695c95905e4962051b59b9c9?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
