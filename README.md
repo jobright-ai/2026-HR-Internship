@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[Summer 2026 - People Services Intern (Hybrid)](https://jobright.ai/jobs/info/69b26dbda8ac8e70ff664f5a?utm_campaign=1054&utm_source=git)** | Farmington, CT | Hybrid | Mar 12 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Talent Acquisition](https://jobright.ai/jobs/info/69b266e9a8ac8e70ff664ab8?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Mar 12 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Services for Older Refugees Intern (Unpaid)](https://jobright.ai/jobs/info/69a735c976bbe83d3afa9091?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Mar 12 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69b2680ca8ac8e70ff664ae0?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Mar 11 |
 | **[Grant Park Holdings](https://grantparkholdings.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b245e6ae2a534885e937d8?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Mar 11 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b23999a8ac8e70ff660ef1?utm_campaign=1054&utm_source=git)** | Westhampton Beach, NY | On Site | Mar 11 |
 | **[Russell Stover Chocolates](http://www.russellstover.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b2266a65de58104c719c6e?utm_campaign=1054&utm_source=git)** | KC Metro Area | On Site | Mar 11 |
@@ -73,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2129bd04c69566c74b6d6?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b20fbdd04c69566c74b38b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 11 |
 | **[Schuette Metals](http://schuettemetals.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69b2263165de58104c719bb9?utm_campaign=1054&utm_source=git)** | Rothschild, WI, US | On Site | Mar 11 |
-| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2262c65de58104c719ba1?utm_campaign=1054&utm_source=git)** | Hybrid CA Office, Costa Mesa, CA, US | Hybrid | Mar 11 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
+| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2262c65de58104c719ba1?utm_campaign=1054&utm_source=git)** | Hybrid CA Office, Costa Mesa, CA, US | Hybrid | Mar 11 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Human Resources Intern- Summer Internship](https://jobright.ai/jobs/info/69b227e565de58104c719e27?utm_campaign=1054&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
 | **[Garney Construction](http://garney.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/69b2074b548f140066e835f5?utm_campaign=1054&utm_source=git)** | North Kansas City, MO | On Site | Mar 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/69095a6d4a1b456627aff9e8?utm_campaign=1054&utm_source=git)** | Stroudsburg, PA | On Site | Mar 11 |
 | **[LG Energy Solution](https://www.lgensol.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69b19ac5548f140066e76d53?utm_campaign=1054&utm_source=git)** | Troy, MI, US | On Site | Mar 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship- Dayton](https://jobright.ai/jobs/info/69784a5888e2b47213bc5fed?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Mar 11 |
-| ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b5237abc187f64e1be5557?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 11 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ce8da3846f0b04af67afae?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 11 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[HR Shared Service Intern](https://jobright.ai/jobs/info/69b1992d548f140066e76ae6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Mar 11 |
-| **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/69b19868d04c69566c73e4b2?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
