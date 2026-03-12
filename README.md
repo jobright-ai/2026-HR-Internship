@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69b2a8a4ae2a534885e9cca1?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Mar 12 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/6996537de0bddb6acac4c20f?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 12 |
 | **[Worley](https://www.worley.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6996a94281476f6176ae9d29?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Mar 12 |
 | **[UES](https://www.teamues.com)** | **[Intern - HR](https://jobright.ai/jobs/info/697acace8dbbf73badc819d1?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Workforce Intelligence](https://jobright.ai/jobs/info/6996750681476f6176ae495e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 12 |
@@ -89,9 +91,9 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b20fbdd04c69566c74b38b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 11 |
 | **[Magic Springs Theme & Water Park](https://magicsprings.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b28dcca8ac8e70ff6685fb?utm_campaign=1054&utm_source=git)** | Hot Springs, AR | On Site | Mar 11 |
 | **[Schuette Metals](http://schuettemetals.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69b2263165de58104c719bb9?utm_campaign=1054&utm_source=git)** | Rothschild, WI, US | On Site | Mar 11 |
-| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
+| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Mar 11 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2262c65de58104c719ba1?utm_campaign=1054&utm_source=git)** | Hybrid CA Office, Costa Mesa, CA, US | Hybrid | Mar 11 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Mar 11 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Human Resources Intern- Summer Internship](https://jobright.ai/jobs/info/69b227e565de58104c719e27?utm_campaign=1054&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
 | **[Garney Construction](http://garney.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/69b2074b548f140066e835f5?utm_campaign=1054&utm_source=git)** | North Kansas City, MO | On Site | Mar 11 |
 | **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2005b65de58104c717042?utm_campaign=1054&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JLR North America](https://www.jaguarlandrover.com)** | **[People & Places Intern](https://jobright.ai/jobs/info/69b1af4bd04c69566c73f2a2?utm_campaign=1054&utm_source=git)** | Mahwah, NJ | Hybrid | Mar 11 |
 | **[Leons](https://www.leonsdigital.com)** | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/69b1cbad65de58104c70e165?utm_campaign=1054&utm_source=git)** | CA-ON-Toronto | On Site | Mar 11 |
 | **[CAPA-Columbus Association for the Performing Arts](https://www.capa.com/)** | **[Volunteer Office Intern](https://jobright.ai/jobs/info/69b1aaedd04c69566c73f13f?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 11 |
-| **[Northwest Youth Corps](https://www.nwyouthcorps.org )** | **[Internship Program Coordinator](https://jobright.ai/jobs/info/69b1c49b548f140066e78c68?utm_campaign=1054&utm_source=git)** | Eugene, OR | On Site | Mar 11 |
-| **[Epicor](https://www.epicor.com)** | **[Intern / HR Business Partner](https://jobright.ai/jobs/info/698e572df64d441a16508bb4?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
