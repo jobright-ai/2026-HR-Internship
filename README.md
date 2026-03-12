@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Discovery Land Company](http://discoverylandco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b23999a8ac8e70ff660ef1?utm_campaign=1054&utm_source=git)** | Westhampton Beach, NY | On Site | Mar 11 |
 | **[Russell Stover Chocolates](http://www.russellstover.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b2266a65de58104c719c6e?utm_campaign=1054&utm_source=git)** | KC Metro Area | On Site | Mar 11 |
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225a765de58104c719ac0?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b22588d04c69566c74d988?utm_campaign=1054&utm_source=git)** | Coppell, TX | Hybrid | Mar 11 |
@@ -70,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2129bd04c69566c74b6d6?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b20fbdd04c69566c74b38b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 11 |
 | **[Schuette Metals](http://schuettemetals.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69b2263165de58104c719bb9?utm_campaign=1054&utm_source=git)** | Rothschild, WI, US | On Site | Mar 11 |
-| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Mar 11 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
+| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2262c65de58104c719ba1?utm_campaign=1054&utm_source=git)** | Hybrid CA Office, Costa Mesa, CA, US | Hybrid | Mar 11 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Human Resources Intern- Summer Internship](https://jobright.ai/jobs/info/69b227e565de58104c719e27?utm_campaign=1054&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
 | **[Garney Construction](http://garney.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/69b2074b548f140066e835f5?utm_campaign=1054&utm_source=git)** | North Kansas City, MO | On Site | Mar 11 |
 | **[Diligent](http://diligent.com)** | **[People Experience & HR Technology Intern](https://jobright.ai/jobs/info/69b2017fd04c69566c74a89c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
@@ -127,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Ridgeline International, LLC](http://www.ridgelineintl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b1bf6665de58104c70bb7f?utm_campaign=1054&utm_source=git)** | Tysons Corner, VA | On Site | Mar 11 |
 | **[The Associated: Jewish Federation of Baltimore](https://associated.org)** | **[Human Resources Summer Intern 2026](https://jobright.ai/jobs/info/69b1ff8b548f140066e8305f?utm_campaign=1054&utm_source=git)** | 3506 Gwynnbrook Ave, Owings Mills, MD 21117, USA | Hybrid | Mar 11 |
 | **[ICSI - International Computer Science Institute](http://www.icsi.berkeley.edu/icsi)** | **[People Operations (HR) Intern](https://jobright.ai/jobs/info/69b2002865de58104c717009?utm_campaign=1054&utm_source=git)** | Berkeley, California, United States | On Site | Mar 11 |
+| **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b23ebcad360c0340a6f8b4?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 11 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Insurance Agent Recruiting Intern - Summer-Fall 2026](https://jobright.ai/jobs/info/69b1b908d04c69566c73f9cf?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Mar 11 |
 | **[Yes Energy](https://www.yesenergy.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69b1b8fe65de58104c70b854?utm_campaign=1054&utm_source=git)** | Boulder, Colorado | Hybrid | Mar 11 |
 | **[Red Bull](https://redbull.com)** | **[Internship Program, Human Resources (Talent)](https://jobright.ai/jobs/info/69b1ffc765de58104c716fe2?utm_campaign=1054&utm_source=git)** | Atlanta, GA, USA | On Site | Mar 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[HR Shared Service Intern](https://jobright.ai/jobs/info/69b1992d548f140066e76ae6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Mar 11 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/69b19868d04c69566c73e4b2?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Mar 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/695c95905e4962051b59b9c9?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 11 |
-| **[BioSpace](http://www.biospace.com/)** | **[Organizational Support Internship](https://jobright.ai/jobs/info/69b19224548f140066e76643?utm_campaign=1054&utm_source=git)** | West Lebanon, NH | On Site | Mar 11 |
-| **[Highgate](https://www.highgate.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b18fe565de58104c709a91?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
