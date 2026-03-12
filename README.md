@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[TA Specialist - Intern Program & University Relations](https://jobright.ai/jobs/info/69b21ac8548f140066e853eb?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 11 |
+| **[Aalberts integrated piping systems](https://aalberts-ips.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69b2167a65de58104c7181ee?utm_campaign=1054&utm_source=git)** | Myrtle Beach, South Carolina, United States | On Site | Mar 11 |
 | **[International Institute of New England](https://iine.org/)** | **[Employment Services Internship (IINE-Manchester)](https://jobright.ai/jobs/info/69b213ca65de58104c717fea?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Mar 11 |
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2129bd04c69566c74b6d6?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b20fbdd04c69566c74b38b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 11 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e5de3a112b402660d1fb0?utm_campaign=1054&utm_source=git)** | Henrico, VA | On Site | Mar 11 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6959b57ef1f8465b79f01092?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Mar 11 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/69b1af4b548f140066e778e7?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e600ea112b402660d20ec?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Mar 11 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/694d20f829655e4dd6573446?utm_campaign=1054&utm_source=git)** | Toughkenamon, PA | On Site | Mar 11 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/694d20f829655e4dd6573446?utm_campaign=1054&utm_source=git)** | Toughkenamon, PA | On Site | Mar 11 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/695e600ea112b402660d20ec?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Mar 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern RSW Fort Myers Airport](https://jobright.ai/jobs/info/69784b6088e2b47213bc645c?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | Mar 11 |
 | ↳ | **[Summer 2026 Management Trainee Intern / Northern Queens](https://jobright.ai/jobs/info/69784c2b52f3c27ec6449910?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Mar 11 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e5e1a08ab990f2829b42e?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Mar 11 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e62260badca5763aee1a3?utm_campaign=1054&utm_source=git)** | Manassas, VA | On Site | Mar 11 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e9e780badca5763af0ae7?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
