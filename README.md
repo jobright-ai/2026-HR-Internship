@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e68e50badca5763aee5cb?utm_campaign=1054&utm_source=git)** | Gainesville, VA | On Site | Mar 12 |
+| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69b2d992ad360c0340a7cccd?utm_campaign=1054&utm_source=git)** | Easton, PA - 1872 St Lukes Blvd | On Site | Mar 12 |
+| **[Talen Energy](https://www.talenenergy.com/)** | **[Talent Acquisition Analytics Intern -](https://jobright.ai/jobs/info/69b2d98dad360c0340a7ccb5?utm_campaign=1054&utm_source=git)** | Houston-Allen Pkwy Office | On Site | Mar 12 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/697aea6e1423772304eadca0?utm_campaign=1054&utm_source=git)** | Elkridge, MD | On Site | Mar 12 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Timonium MD](https://jobright.ai/jobs/info/69b2d58aae2a534885ea02c4?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Mar 12 |
+| **[Continental](https://www.continental.com)** | **[2026 Internship - Human Resources (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69b2cfb2ae2a534885e9fce2?utm_campaign=1054&utm_source=git)** | 2307 Pidco Dr, Plymouth, IN 46563, USA | On Site | Mar 12 |
+| **[Carilion Clinic](https://www.carilionclinic.org)** | **[HR Education and Organizational Development Intern](https://jobright.ai/jobs/info/69b2ced3ad360c0340a7c2f2?utm_campaign=1054&utm_source=git)** | Roanoke, Virginia | On Site | Mar 12 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e658b0badca5763aee3d0?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Mar 12 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6959e86daa05c26e7ab3875e?utm_campaign=1054&utm_source=git)** | Wilmington, DE | On Site | Mar 12 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/695e68e50badca5763aee5cb?utm_campaign=1054&utm_source=git)** | Gainesville, VA | On Site | Mar 12 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/695e5ab8a112b402660d1e65?utm_campaign=1054&utm_source=git)** | Forestville, MD | On Site | Mar 12 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/695e605e08ab990f2829b599?utm_campaign=1054&utm_source=git)** | Davidsonville, MD | On Site | Mar 12 |
 | **[Assemble](https://theassemble.com/)** | **[General Internship Opportunities](https://jobright.ai/jobs/info/69b2c0b3ae2a534885e9e567?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 12 |
@@ -67,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant - Human Resources](https://jobright.ai/jobs/info/69b2bc48ae2a534885e9e155?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Mar 12 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e5f7da112b402660d2098?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Mar 12 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/695d73cef5f3c43f38e24085?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Mar 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/69596f24f1f8465b79efe929?utm_campaign=1054&utm_source=git)** | Fredericksburg, VA | On Site | Mar 12 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/695e6d1e08ab990f2829bd8f?utm_campaign=1054&utm_source=git)** | Mableton, GA | On Site | Mar 12 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/69596f24f1f8465b79efe929?utm_campaign=1054&utm_source=git)** | Fredericksburg, VA | On Site | Mar 12 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern (Training and Special Projects)](https://jobright.ai/jobs/info/6996946c81476f6176ae77c5?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Mar 12 |
 | **[Simular](https://simular.ai)** | **[People & Operations Intern](https://jobright.ai/jobs/info/69b2b05ea8ac8e70ff66b765?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Mar 12 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern - CT](https://jobright.ai/jobs/info/69a67562d706a731db3863ad?utm_campaign=1054&utm_source=git)** | Shelton, CT | Hybrid | Mar 12 |
@@ -108,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b20fbdd04c69566c74b38b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 11 |
 | **[Magic Springs Theme & Water Park](https://magicsprings.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b28dcca8ac8e70ff6685fb?utm_campaign=1054&utm_source=git)** | Hot Springs, AR | On Site | Mar 11 |
 | **[Schuette Metals](http://schuettemetals.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69b2263165de58104c719bb9?utm_campaign=1054&utm_source=git)** | Rothschild, WI, US | On Site | Mar 11 |
-| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2262c65de58104c719ba1?utm_campaign=1054&utm_source=git)** | Hybrid CA Office, Costa Mesa, CA, US | Hybrid | Mar 11 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
+| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Mar 11 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2262c65de58104c719ba1?utm_campaign=1054&utm_source=git)** | Hybrid CA Office, Costa Mesa, CA, US | Hybrid | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Human Resources Intern- Summer Internship](https://jobright.ai/jobs/info/69b227e565de58104c719e27?utm_campaign=1054&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
 | **[Garney Construction](http://garney.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/69b2074b548f140066e835f5?utm_campaign=1054&utm_source=git)** | North Kansas City, MO | On Site | Mar 11 |
 | **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2005b65de58104c717042?utm_campaign=1054&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leons](https://www.leonsdigital.com)** | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/69b1c795d04c69566c7411b3?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | On Site | Mar 11 |
 | **[Garney Construction](http://garney.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/69b2008365de58104c717084?utm_campaign=1054&utm_source=git)** | MO-North Kansas City | On Site | Mar 11 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026 - People Services Intern (Hybrid)](https://jobright.ai/jobs/info/69b1c22a65de58104c70be60?utm_campaign=1054&utm_source=git)** | US-CT-FARMINGTON-0004 ~ 4 Farm Springs Rd ~ 4 FARM SPRINGS | Hybrid | Mar 11 |
-| **[ITW](http://www.itw.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69b1c22a65de58104c70be61?utm_campaign=1054&utm_source=git)** | Decatur - 35603 | On Site | Mar 11 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Walk-in Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c0f4548f140066e784f8?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
-| **[Bridgestone Americas](https://www.bridgestoneamericas.com)** | **[Human Resources Intern 2026](https://jobright.ai/jobs/info/69b1c0be548f140066e78463?utm_campaign=1054&utm_source=git)** | Wilson, NC | On Site | Mar 11 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Extended Case Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c0aad04c69566c73fe6d?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
-| **[Continental](https://www.continental.com)** | **[Intern - Recruiting / Talent Acquisition Coordinator, Year-Round](https://jobright.ai/jobs/info/69b1c0aad04c69566c73fe6e?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Mar 11 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Employment & Skill-Building Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c08365de58104c70bd71?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
-| **[TISSIUM](https://tissium.com/)** | **[Talent Acquisition & Training Coordinator Apprentice M/F/X](https://jobright.ai/jobs/info/69b1c06c548f140066e783fc?utm_campaign=1054&utm_source=git)** | Headquarters, KY | On Site | Mar 11 |
-| **[Bridgestone Americas](https://www.bridgestoneamericas.com)** | **[Human Resources Intern 2026](https://jobright.ai/jobs/info/69b1c06a548f140066e783f7?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
