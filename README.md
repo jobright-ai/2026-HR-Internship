@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worley](https://www.worley.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6996a94281476f6176ae9d29?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Mar 12 |
+| **[UES](https://www.teamues.com)** | **[Intern - HR](https://jobright.ai/jobs/info/697acace8dbbf73badc819d1?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
+| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Workforce Intelligence](https://jobright.ai/jobs/info/6996750681476f6176ae495e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 12 |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6924dce1c0cefa13343e2e17?utm_campaign=1054&utm_source=git)** | Orangeburg, NY | On Site | Mar 12 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6979394052f3c27ec645881a?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Mar 12 |
-| **[Numerica Credit Union](https://www.numericacu.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b285caae2a534885e9a3ea?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Mar 12 |
 | **[NovaCare Rehabilitation](http://www.novacare.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69b28245ae2a534885e9a018?utm_campaign=1054&utm_source=git)** | Canonsburg, PA | On Site | Mar 12 |
 | **[Frost & Sullivan](http://www.frost.com)** | **[Talent Acquisition Intern (Spanish Speaking)](https://jobright.ai/jobs/info/69b27fd2ae2a534885e99b19?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Insurance Internship](https://jobright.ai/jobs/info/69b27ae6ae2a534885e99697?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Mar 12 |
@@ -84,10 +87,11 @@ For a complete list, click the following sortable link below:
 | **[International Institute of New England](https://iine.org/)** | **[Employment Services Internship (IINE-Manchester)](https://jobright.ai/jobs/info/69b213ca65de58104c717fea?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Mar 11 |
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2129bd04c69566c74b6d6?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b20fbdd04c69566c74b38b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 11 |
+| **[Magic Springs Theme & Water Park](https://magicsprings.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b28dcca8ac8e70ff6685fb?utm_campaign=1054&utm_source=git)** | Hot Springs, AR | On Site | Mar 11 |
 | **[Schuette Metals](http://schuettemetals.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69b2263165de58104c719bb9?utm_campaign=1054&utm_source=git)** | Rothschild, WI, US | On Site | Mar 11 |
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Mar 11 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2262c65de58104c719ba1?utm_campaign=1054&utm_source=git)** | Hybrid CA Office, Costa Mesa, CA, US | Hybrid | Mar 11 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Human Resources Intern- Summer Internship](https://jobright.ai/jobs/info/69b227e565de58104c719e27?utm_campaign=1054&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
 | **[Garney Construction](http://garney.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/69b2074b548f140066e835f5?utm_campaign=1054&utm_source=git)** | North Kansas City, MO | On Site | Mar 11 |
 | **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2005b65de58104c717042?utm_campaign=1054&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAPA-Columbus Association for the Performing Arts](https://www.capa.com/)** | **[Volunteer Office Intern](https://jobright.ai/jobs/info/69b1aaedd04c69566c73f13f?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 11 |
 | **[Northwest Youth Corps](https://www.nwyouthcorps.org )** | **[Internship Program Coordinator](https://jobright.ai/jobs/info/69b1c49b548f140066e78c68?utm_campaign=1054&utm_source=git)** | Eugene, OR | On Site | Mar 11 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / HR Business Partner](https://jobright.ai/jobs/info/698e572df64d441a16508bb4?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Mar 11 |
-| **[Lil' Drug Store Products](http://lildrugstore.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b1a90a65de58104c70ae92?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 11 |
-| **[Pitcairn](https://www.pitcairn.com)** | **[Talent & Culture Intern](https://jobright.ai/jobs/info/69b1a84165de58104c70adb9?utm_campaign=1054&utm_source=git)** | Conshohocken, PA, US | On Site | Mar 11 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[HR Administrative Intern-3](https://jobright.ai/jobs/info/69b1a765548f140066e77487?utm_campaign=1054&utm_source=git)** | Main Campus, Columbus, OH | On Site | Mar 11 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Equal Employment Opportunity Intern](https://jobright.ai/jobs/info/69b1c2a9d04c69566c740275?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
