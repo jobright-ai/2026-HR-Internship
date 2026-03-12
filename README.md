@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fendi](http://www.fendi.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6979394052f3c27ec645881a?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Mar 12 |
+| **[Numerica Credit Union](https://www.numericacu.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b285caae2a534885e9a3ea?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Mar 12 |
+| **[NovaCare Rehabilitation](http://www.novacare.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69b28245ae2a534885e9a018?utm_campaign=1054&utm_source=git)** | Canonsburg, PA | On Site | Mar 12 |
+| **[Frost & Sullivan](http://www.frost.com)** | **[Talent Acquisition Intern (Spanish Speaking)](https://jobright.ai/jobs/info/69b27fd2ae2a534885e99b19?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 12 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Insurance Internship](https://jobright.ai/jobs/info/69b27ae6ae2a534885e99697?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Mar 12 |
+| **[1Milk2Sugars Inc.](https://1milk2sugars.com/)** | **[Talent Intern - Summer 2026 Term](https://jobright.ai/jobs/info/69b27724ad360c0340a754f5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 12 |
+| **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69b27666a8ac8e70ff667074?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 12 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026 - People Services Intern (Hybrid)](https://jobright.ai/jobs/info/69b26dbda8ac8e70ff664f5a?utm_campaign=1054&utm_source=git)** | Farmington, CT | Hybrid | Mar 12 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Talent Acquisition](https://jobright.ai/jobs/info/69b266e9a8ac8e70ff664ab8?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Mar 12 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Services for Older Refugees Intern (Unpaid)](https://jobright.ai/jobs/info/69a735c976bbe83d3afa9091?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Mar 12 |
+| **[Magic Springs Theme & Water Park](https://magicsprings.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b27781ad360c0340a75544?utm_campaign=1054&utm_source=git)** | Hot Springs, AR | On Site | Mar 11 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/69b2680ca8ac8e70ff664ae0?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Mar 11 |
 | **[Grant Park Holdings](https://grantparkholdings.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b245e6ae2a534885e937d8?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Mar 11 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b23999a8ac8e70ff660ef1?utm_campaign=1054&utm_source=git)** | Westhampton Beach, NY | On Site | Mar 11 |
@@ -77,9 +85,9 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2129bd04c69566c74b6d6?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b20fbdd04c69566c74b38b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 11 |
 | **[Schuette Metals](http://schuettemetals.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69b2263165de58104c719bb9?utm_campaign=1054&utm_source=git)** | Rothschild, WI, US | On Site | Mar 11 |
-| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2262c65de58104c719ba1?utm_campaign=1054&utm_source=git)** | Hybrid CA Office, Costa Mesa, CA, US | Hybrid | Mar 11 |
+| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Mar 11 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225c7d04c69566c74da02?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Mar 11 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2262c65de58104c719ba1?utm_campaign=1054&utm_source=git)** | Hybrid CA Office, Costa Mesa, CA, US | Hybrid | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Human Resources Intern- Summer Internship](https://jobright.ai/jobs/info/69b227e565de58104c719e27?utm_campaign=1054&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
 | **[Garney Construction](http://garney.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/69b2074b548f140066e835f5?utm_campaign=1054&utm_source=git)** | North Kansas City, MO | On Site | Mar 11 |
 | **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b2005b65de58104c717042?utm_campaign=1054&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pitcairn](https://www.pitcairn.com)** | **[Talent & Culture Intern](https://jobright.ai/jobs/info/69b1a84165de58104c70adb9?utm_campaign=1054&utm_source=git)** | Conshohocken, PA, US | On Site | Mar 11 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[HR Administrative Intern-3](https://jobright.ai/jobs/info/69b1a765548f140066e77487?utm_campaign=1054&utm_source=git)** | Main Campus, Columbus, OH | On Site | Mar 11 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Equal Employment Opportunity Intern](https://jobright.ai/jobs/info/69b1c2a9d04c69566c740275?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Mar 11 |
-| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69955343e0bddb6acac3e315?utm_campaign=1054&utm_source=git)** | Ridgefield, CT | Hybrid | Mar 11 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant - Human Resources](https://jobright.ai/jobs/info/6994d7d981476f6176acaae3?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Mar 11 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/6995398881476f6176ad1aa5?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933e4ada0dde7020e2f2c6a?utm_campaign=1054&utm_source=git)** | Rochester, NY | On Site | Mar 11 |
-| ↳ | **[Summer 2026 Management Trainee Intern Denver](https://jobright.ai/jobs/info/6933cc1ef131d96e484672be?utm_campaign=1054&utm_source=git)** | Aurora, CO | On Site | Mar 11 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/69095a6d4a1b456627aff9e8?utm_campaign=1054&utm_source=git)** | Stroudsburg, PA | On Site | Mar 11 |
-| **[LG Energy Solution](https://www.lgensol.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69b19ac5548f140066e76d53?utm_campaign=1054&utm_source=git)** | Troy, MI, US | On Site | Mar 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship- Dayton](https://jobright.ai/jobs/info/69784a5888e2b47213bc5fed?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
