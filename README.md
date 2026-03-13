@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Logitech](https://www.logitech.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69b38521a8ac8e70ff67c8e3?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Mar 12 |
+| **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b381e3a8ac8e70ff67c7e4?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Mar 12 |
+| **[Worldly](http://www.worldly.io)** | **[People & Talent Intern (Summer 2026)](https://jobright.ai/jobs/info/69b376b5a8ac8e70ff67bc49?utm_campaign=1054&utm_source=git)** | Concord, CA | Remote | Mar 12 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Supportive Services Casework Intern (Unpaid)](https://jobright.ai/jobs/info/69a775702672cb0acb4bec67?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Mar 12 |
+| **[Power Home Remodeling](http://www.powerhrg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b373a2ad360c0340a89a9b?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ | On Site | Mar 12 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b37389a8ac8e70ff67b9dc?utm_campaign=1054&utm_source=git)** | Newark, DE | On Site | Mar 12 |
 | **[UniUni](https://www.uniuni.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69b36e29ae2a534885eadd22?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 12 |
 | **[Bethany Christian Services](https://bethany.org/)** | **[Internship and College Relations Coordinator](https://jobright.ai/jobs/info/69b36d59a8ac8e70ff67b351?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Mar 12 |
 | **[EmployIndy](https://employindy.org/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69b36c09a8ac8e70ff67b094?utm_campaign=1054&utm_source=git)** | Indianapolis,IN,US | On Site | Mar 12 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b36570ad360c0340a87d3a?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Mar 12 |
-| **[Power Home Remodeling](http://www.powerhrg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b35fe8a8ac8e70ff679428?utm_campaign=1054&utm_source=git)** | Aston, PA | On Site | Mar 12 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b35fe8a8ac8e70ff679429?utm_campaign=1054&utm_source=git)** | Middletown, DE | On Site | Mar 12 |
+| **[Power Home Remodeling](http://www.powerhrg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b35fe8a8ac8e70ff679429?utm_campaign=1054&utm_source=git)** | Middletown, DE | On Site | Mar 12 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b35fe8a8ac8e70ff679428?utm_campaign=1054&utm_source=git)** | Aston, PA | On Site | Mar 12 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b35fd6a8ac8e70ff6793f8?utm_campaign=1054&utm_source=git)** | Wilmington, DE | On Site | Mar 12 |
 | **[Sloomoo Institute](https://sloomooinstitute.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b35aafad360c0340a878b0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69b355e2ae2a534885eab828?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 12 |
@@ -80,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[ODW Logistics](http://odwlogistics.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/69b32c52ae2a534885ea8f3b?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 12 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/698ea0ff0f6f7e7a2ceabe23?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Human Resources Internship Summer 2026](https://jobright.ai/jobs/info/69b327aead360c0340a84a4c?utm_campaign=1054&utm_source=git)** | Chicago | Hybrid | Mar 12 |
-| **[MacEwan University](http://www.MacEwan.ca)** | **[International Student Recruitment Specialist - Office of the University Registrar](https://jobright.ai/jobs/info/69b13634749500645098a3d8?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Mar 12 |
 | **[Cape Resorts](http://caperesorts.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b3662bad360c0340a87eff?utm_campaign=1054&utm_source=git)** | Cape Resorts Management, Cape May, NJ, US | On Site | Mar 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern -Summer 2026](https://jobright.ai/jobs/info/69b31d64a8ac8e70ff6744f5?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Mar 12 |
 | **[Power Home Remodeling](http://www.powerhrg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b31ae5ae2a534885ea6996?utm_campaign=1054&utm_source=git)** | Runnemede, NJ | On Site | Mar 12 |
@@ -89,12 +94,12 @@ For a complete list, click the following sortable link below:
 | **[Power Home Remodeling](http://www.powerhrg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b319f3ad360c0340a82d03?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | On Site | Mar 12 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b319f3a8ac8e70ff673894?utm_campaign=1054&utm_source=git)** | Swedesboro, NJ | On Site | Mar 12 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b319f3ad360c0340a82d08?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Mar 12 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b319e8ad360c0340a82cc1?utm_campaign=1054&utm_source=git)** | New Castle, DE | On Site | Mar 12 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b319e8a8ac8e70ff673825?utm_campaign=1054&utm_source=git)** | West Chester, PA | On Site | Mar 12 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b319e8ad360c0340a82cc1?utm_campaign=1054&utm_source=git)** | New Castle, DE | On Site | Mar 12 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b319daad360c0340a82c3d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b319d1a8ac8e70ff67379a?utm_campaign=1054&utm_source=git)** | Chester, PA | On Site | Mar 12 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b319cbad360c0340a82af4?utm_campaign=1054&utm_source=git)** | Upper Darby, PA | On Site | Mar 12 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b319cbad360c0340a82af2?utm_campaign=1054&utm_source=git)** | Jenkintown, PA | On Site | Mar 12 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b319cbad360c0340a82af4?utm_campaign=1054&utm_source=git)** | Upper Darby, PA | On Site | Mar 12 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Long Island](https://jobright.ai/jobs/info/69b3198ca8ac8e70ff6736db?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b318ffa8ac8e70ff6735a1?utm_campaign=1054&utm_source=git)** | Royal Oak, MI | On Site | Mar 12 |
 | **[Amcor](http://www.amcor.com/)** | **[Intern](https://jobright.ai/jobs/info/69b339f1ae2a534885eaa565?utm_campaign=1054&utm_source=git)** | Princeton, IN | On Site | Mar 12 |
@@ -124,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b2f9e1a8ac8e70ff671cc9?utm_campaign=1054&utm_source=git)** | Coral Gables, Florida | On Site | Mar 12 |
 | **[Essex Solutions](https://essexfurukawa.com)** | **[HR Intern](https://jobright.ai/jobs/info/69792faf88e2b47213bd4f54?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b2f6f8ad360c0340a8068b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Mar 12 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Thornton](https://jobright.ai/jobs/info/693b008db309e3780086aecf?utm_campaign=1054&utm_source=git)** | Boulder, CO | On Site | Mar 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/69095c13d046ab6061cd48cb?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Mar 12 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Thornton](https://jobright.ai/jobs/info/693b008db309e3780086aecf?utm_campaign=1054&utm_source=git)** | Boulder, CO | On Site | Mar 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Scranton](https://jobright.ai/jobs/info/69095e94bcccf20de59da75b?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Mar 12 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[2026 AWS Sourcing Recruiter Intern](https://jobright.ai/jobs/info/695e29a23c6a895ac5eefffa?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 12 |
 | **[Tate](http://tateinc.com)** | **[Human Resources Department Intern](https://jobright.ai/jobs/info/69aea1c6bd1a716b43104012?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Mar 12 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Boulder](https://jobright.ai/jobs/info/6937a1e01c1c2161c13f6716?utm_campaign=1054&utm_source=git)** | Boulder, CO | On Site | Mar 12 |
 | **[CommScope](http://www.commscope.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/697a6cc48dbbf73badc79077?utm_campaign=1054&utm_source=git)** | Claremont, NC | On Site | Mar 12 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/69572c069f1b381eb2704356?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e62e60badca5763aee21e?utm_campaign=1054&utm_source=git)** | Gainesville, VA | On Site | Mar 12 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6942187814ee092a69003e6c?utm_campaign=1054&utm_source=git)** | St Augustine, FL | On Site | Mar 12 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/695e62e60badca5763aee21e?utm_campaign=1054&utm_source=git)** | Gainesville, VA | On Site | Mar 12 |
 | **[UFG Insurance](https://www.ufginsurance.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/695d7198fbd62a0a656608d2?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | Hybrid | Mar 12 |
 | **[Bradesco Bank](https://bradescobank.com )** | **[People, Culture & Performance 1-Year Internship](https://jobright.ai/jobs/info/69b2e676ae2a534885ea31ba?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Mar 12 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship - qual](https://jobright.ai/jobs/info/69b2e63bae2a534885ea3125?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Mar 12 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e65be08ab990f2829b908?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6986db780f6f7e7a2ce2157f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Mar 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695baa0cf1f8465b79f1aecb?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Mar 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695e5c10a112b402660d1ebc?utm_campaign=1054&utm_source=git)** | Centre Hall, PA | On Site | Mar 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/695ba9beaa05c26e7ab4f71d?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
