@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solidigm](https://www.solidigmtechnology.com)** | **[Talent Acquisition Data Engineering & Analytics Intern](https://jobright.ai/jobs/info/69b50fee06c1ba00c546c157?utm_campaign=1054&utm_source=git)** | Rancho Cordova, CA, USA | Hybrid | Mar 14 |
+| **[Mizkan America](http://mizkan.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69b50cea3b74eb1e2c829c5b?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 14 |
 | **[Security Finance](https://www.securityfinance.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69b4eed856973837413a0030?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Mar 13 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[Human Resources 2026 Summer Intern](https://jobright.ai/jobs/info/69b4ebee06c1ba00c5468afc?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Mar 13 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Multiple Divisions and Locations)](https://jobright.ai/jobs/info/69b2391aa8ac8e70ff660e6b?utm_campaign=1054&utm_source=git)** | Gloucester, NJ | On Site | Mar 13 |
 | **[Highgate](https://www.highgate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b4d3f506c1ba00c54653a8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Compensation & Analytics Intern](https://jobright.ai/jobs/info/69b4d2c3569738374139c6ff?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 | **[Robinhood](https://www.robinhood.com)** | **[PeopleX Partner Intern](https://jobright.ai/jobs/info/69b4d20c569738374139c663?utm_campaign=1054&utm_source=git)** | Menlo Park, CA | On Site | Mar 13 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Guerbet](http://www.guerbet.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b46cef06c1ba00c545db54?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Mar 13 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69b46cee06c1ba00c545db4b?utm_campaign=1054&utm_source=git)** | Prior Lake, MN | On Site | Mar 13 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Organizational and Leadership Development Graduate Intern](https://jobright.ai/jobs/info/69b46c7d06c1ba00c545d9d2?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Mar 13 |
-| **[Stoel Rives LLP](http://www.stoel.com)** | **[Part-Time Legal Recruiting & Events Intern](https://jobright.ai/jobs/info/69b46c425697383741393b30?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69b4688e3b74eb1e2c819f2d?utm_campaign=1054&utm_source=git)** | Prior Lake, Minnesota, United States | On Site | Mar 13 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[TA Inclusion Intern](https://jobright.ai/jobs/info/69b468343b74eb1e2c819e40?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Mar 13 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Summer Student Assistant - Human Resources](https://jobright.ai/jobs/info/69b467e33b74eb1e2c819d52?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Mar 13 |
@@ -117,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69b47bc156973837413957b7?utm_campaign=1054&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Mar 13 |
 | **[Envision Unlimited](https://www.envisionunlimited.org/)** | **[HR File Compliance Internship](https://jobright.ai/jobs/info/69b47f8406c1ba00c545fab0?utm_campaign=1054&utm_source=git)** | Chicago,IL,US | On Site | Mar 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69291d8ef0beb07232631ec3?utm_campaign=1054&utm_source=git)** | Sydney, Nova Scotia, Canada | On Site | Mar 13 |
-| **[Framatome](http://www.framatome.com)** | **[HR Support Intern](https://jobright.ai/jobs/info/69b4713f3b74eb1e2c81c189?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | Hybrid | Mar 13 |
-| ↳ | **[HR Support Intern](https://jobright.ai/jobs/info/69b46e1906c1ba00c545dcf4?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | Hybrid | Mar 13 |
+| **[Framatome](http://www.framatome.com)** | **[HR Support Intern](https://jobright.ai/jobs/info/69b46e1906c1ba00c545dcf4?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | Hybrid | Mar 13 |
+| ↳ | **[HR Support Intern](https://jobright.ai/jobs/info/69b4713f3b74eb1e2c81c189?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | Hybrid | Mar 13 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b44fc23b74eb1e2c8187be?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Mar 13 |
 | **[Cox Machine, Inc.](http://coxmachine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b44b5306c1ba00c5458cda?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Mar 13 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b44b0006c1ba00c5458b39?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Price Industries](https://www.priceindustries.com)** | **[Intern - Human Resources Generalist - Summer 2026](https://jobright.ai/jobs/info/69a3e865359fe034b1ced2a7?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Mar 13 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69434a2794730b7398765963?utm_campaign=1054&utm_source=git)** | La Porte, IN | On Site | Mar 13 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, HR Enablement](https://jobright.ai/jobs/info/6997d7e381476f6176b00de8?utm_campaign=1054&utm_source=git)** | Pawtucket, RI | On Site | Mar 13 |
-| **[ChampionX](https://www.championx.com)** | **[Summer 2026 HR Internship](https://jobright.ai/jobs/info/69ae79563de6821aaccdd1a9?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Mar 13 |
 | **[INNIO Group](https://www.innio.com/en/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/6997dd61ce78e77b4fdc5237?utm_campaign=1054&utm_source=git)** | Welland, Ontario, Canada | On Site | Mar 13 |
 | **[Framatome North America](www.framatome.com/en)** | **[HR Support Intern](https://jobright.ai/jobs/info/69b41f403b74eb1e2c812e2a?utm_campaign=1054&utm_source=git)** | Lynchburg, VA | On Site | Mar 13 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6997bfa4e0bddb6acac6824a?utm_campaign=1054&utm_source=git)** | Bronx, NY | Hybrid | Mar 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/693d0c9650bbaf7650503588?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Mar 13 |
+| **[Cemex US](http://www.cemex.com/)** | **[INTERNSHIP DEVELOPMENT PROFESSIONAL HR](https://jobright.ai/jobs/info/691accc845fb6f5ead8ade42?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
