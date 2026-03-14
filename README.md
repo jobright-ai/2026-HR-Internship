@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trench Group](https://trench-group.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69b4c2e8569738374139b190?utm_campaign=1054&utm_source=git)** | Pickering, Ontario, Canada | On Site | Mar 13 |
+| **[PCL Construction](http://www.pcl.com)** | **[Human Resources Summer 2026 Intern](https://jobright.ai/jobs/info/69b4be125697383741399e0e?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Mar 13 |
+| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[TA Inclusion Intern](https://jobright.ai/jobs/info/69b4bdde3b74eb1e2c8211e4?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Mar 13 |
+| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Corporate HR Intern](https://jobright.ai/jobs/info/69b4bb5f569738374139925e?utm_campaign=1054&utm_source=git)** | Greensboro, North Carolina, United States | On Site | Mar 13 |
+| **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Peer Resume Reviewer](https://jobright.ai/jobs/info/69b4bae13b74eb1e2c820994?utm_campaign=1054&utm_source=git)** | Newport, KY | Hybrid | Mar 13 |
+| **[Robinhood](https://www.robinhood.com)** | **[PeopleX Partner Intern](https://jobright.ai/jobs/info/69b4ba6f569738374139908e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 13 |
+| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - HR Education and Organizational Development](https://jobright.ai/jobs/info/69b4b70d06c1ba00c54628e2?utm_campaign=1054&utm_source=git)** | Roanoke, VA | On Site | Mar 13 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Summer 2026)](https://jobright.ai/jobs/info/69b4b6e83b74eb1e2c8208be?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Mar 13 |
+| **[University of California, San Francisco](http://www.ucsf.edu)** | **[People Analytics Intern](https://jobright.ai/jobs/info/69b4b65a3b74eb1e2c82078e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 13 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 People + Culture Intern / Support Center](https://jobright.ai/jobs/info/69a32a790da45516f16c7364?utm_campaign=1054&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Mar 13 |
 | **[Girl Scouts Heart of New Jersey](https://www.gshnj.org)** | **[Member Recruitment Intern](https://jobright.ai/jobs/info/69b4abf33b74eb1e2c820360?utm_campaign=1054&utm_source=git)** | Westfield Service Center - Westfield, NJ 07090 | On Site | Mar 13 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Membership & Industry Relations (Atlanta Chapter)](https://jobright.ai/jobs/info/69b497125697383741397cac?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 13 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/699c5c1ae0bddb6acacb659c?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Mar 13 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Human Resources)](https://jobright.ai/jobs/info/69972f8981476f6176af49ab?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Mar 13 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/6960c0e3a112b402660f6291?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
-| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Campus Recruiting Sophomore Summer Internship](https://jobright.ai/jobs/info/6997721281476f6176af8ff2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 13 |
-| **[Palmetto](http://www.palmetto.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69af00de7495006450936eab?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources (Learning & Development)](https://jobright.ai/jobs/info/6998085081476f6176b0754f?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 13 |
-| **[Ameren](http://ameren.com)** | **[Leadership and Organizational Effectiveness Intern](https://jobright.ai/jobs/info/6997bc6581476f6176afe251?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Mar 13 |
-| **[Aloha Pacific Federal Credit Union](https://www.alohapacific.com/)** | **[Summer Intern (Human Resources)](https://jobright.ai/jobs/info/69b3e0eb06c1ba00c54508d1?utm_campaign=1054&utm_source=git)** | Kaimuki Plaza, Honolulu, HI, US | On Site | Mar 13 |
-| **[Palmetto Citizens Federal Credit Union](https://www.palmettocitizens.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b3d3daae2a534885eb4bea?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Mar 13 |
-| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/69b3d398ad360c0340a90ca8?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 13 |
-| **[The Bellevue Hotel](https://www.thebellevuehotel.com )** | **[HR Intern](https://jobright.ai/jobs/info/69b3f27d06c1ba00c54516f1?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 13 |
-| **[Seattle Seahawks](http://www.seahawks.com)** | **[Diversity, Equity & Inclusion Intern](https://jobright.ai/jobs/info/69b3cf57ae2a534885eb4292?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
