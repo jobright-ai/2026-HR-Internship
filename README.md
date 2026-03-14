@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 People + Culture Intern / Support Center](https://jobright.ai/jobs/info/69a32a790da45516f16c7364?utm_campaign=1054&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Mar 13 |
+| **[Girl Scouts Heart of New Jersey](https://www.gshnj.org)** | **[Member Recruitment Intern](https://jobright.ai/jobs/info/69b4abf33b74eb1e2c820360?utm_campaign=1054&utm_source=git)** | Westfield Service Center - Westfield, NJ 07090 | On Site | Mar 13 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Membership & Industry Relations (Atlanta Chapter)](https://jobright.ai/jobs/info/69b497125697383741397cac?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 13 |
 | **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496303b74eb1e2c81f551?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Mar 13 |
 | ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496283b74eb1e2c81f52c?utm_campaign=1054&utm_source=git)** | Lakewood, CO | Hybrid | Mar 13 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69b47bc156973837413957b7?utm_campaign=1054&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Mar 13 |
 | **[Envision Unlimited](https://www.envisionunlimited.org/)** | **[HR File Compliance Internship](https://jobright.ai/jobs/info/69b47f8406c1ba00c545fab0?utm_campaign=1054&utm_source=git)** | Chicago,IL,US | On Site | Mar 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69291d8ef0beb07232631ec3?utm_campaign=1054&utm_source=git)** | Sydney, Nova Scotia, Canada | On Site | Mar 13 |
-| **[Framatome](http://www.framatome.com)** | **[HR Support Intern](https://jobright.ai/jobs/info/69b46e1906c1ba00c545dcf4?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | Hybrid | Mar 13 |
-| ↳ | **[HR Support Intern](https://jobright.ai/jobs/info/69b4713f3b74eb1e2c81c189?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | Hybrid | Mar 13 |
+| **[Framatome](http://www.framatome.com)** | **[HR Support Intern](https://jobright.ai/jobs/info/69b4713f3b74eb1e2c81c189?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | Hybrid | Mar 13 |
+| ↳ | **[HR Support Intern](https://jobright.ai/jobs/info/69b46e1906c1ba00c545dcf4?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | Hybrid | Mar 13 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b44fc23b74eb1e2c8187be?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Mar 13 |
 | **[Cox Machine, Inc.](http://coxmachine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b44b5306c1ba00c5458cda?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Mar 13 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b44b0006c1ba00c5458b39?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/69b3d398ad360c0340a90ca8?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 13 |
 | **[The Bellevue Hotel](https://www.thebellevuehotel.com )** | **[HR Intern](https://jobright.ai/jobs/info/69b3f27d06c1ba00c54516f1?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 13 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Diversity, Equity & Inclusion Intern](https://jobright.ai/jobs/info/69b3cf57ae2a534885eb4292?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Mar 13 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern (Unpaid)](https://jobright.ai/jobs/info/69a791452672cb0acb4c05ea?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Mar 13 |
-| **[Seagate Technology](http://www.seagate.com)** | **[HR AI Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/69a8ab7879f3f4037f42f754?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
