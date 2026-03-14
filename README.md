@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Membership & Industry Relations (Atlanta Chapter)](https://jobright.ai/jobs/info/69b497125697383741397cac?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 13 |
+| **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496303b74eb1e2c81f551?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Mar 13 |
+| ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496283b74eb1e2c81f52c?utm_campaign=1054&utm_source=git)** | Lakewood, CO | Hybrid | Mar 13 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Compensation & Analytics Intern](https://jobright.ai/jobs/info/69b4962406c1ba00c54615a2?utm_campaign=1054&utm_source=git)** | New York, New York | Hybrid | Mar 13 |
+| **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b4961b3b74eb1e2c81f4fa?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Mar 13 |
+| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Membership & Industry Relations (Atlanta Chapter)](https://jobright.ai/jobs/info/69b4961706c1ba00c546155f?utm_campaign=1054&utm_source=git)** | United States | On Site | Mar 13 |
+| **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69a61543359fe034b1d0e661?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 13 |
+| **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/69b48e7006c1ba00c5460e34?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Mar 13 |
 | **[Matriosh](Matriosh.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69b48a7c5697383741397004?utm_campaign=1054&utm_source=git)** | Berkeley, CA | Remote | Mar 13 |
 | **[Medbio, LLC](https://medbiollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b489203b74eb1e2c81e68b?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Mar 13 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Office of Workforce Development Intern - Hourly - Batavia](https://jobright.ai/jobs/info/69b486bf3b74eb1e2c81e575?utm_campaign=1054&utm_source=git)** | Batavia, NY | On Site | Mar 13 |
@@ -91,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69b47bc156973837413957b7?utm_campaign=1054&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Mar 13 |
 | **[Envision Unlimited](https://www.envisionunlimited.org/)** | **[HR File Compliance Internship](https://jobright.ai/jobs/info/69b47f8406c1ba00c545fab0?utm_campaign=1054&utm_source=git)** | Chicago,IL,US | On Site | Mar 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69291d8ef0beb07232631ec3?utm_campaign=1054&utm_source=git)** | Sydney, Nova Scotia, Canada | On Site | Mar 13 |
-| **[Framatome](http://www.framatome.com)** | **[HR Support Intern](https://jobright.ai/jobs/info/69b4713f3b74eb1e2c81c189?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | Hybrid | Mar 13 |
-| ↳ | **[HR Support Intern](https://jobright.ai/jobs/info/69b46e1906c1ba00c545dcf4?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | Hybrid | Mar 13 |
+| **[Framatome](http://www.framatome.com)** | **[HR Support Intern](https://jobright.ai/jobs/info/69b46e1906c1ba00c545dcf4?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | Hybrid | Mar 13 |
+| ↳ | **[HR Support Intern](https://jobright.ai/jobs/info/69b4713f3b74eb1e2c81c189?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | Hybrid | Mar 13 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b44fc23b74eb1e2c8187be?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Mar 13 |
 | **[Cox Machine, Inc.](http://coxmachine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b44b5306c1ba00c5458cda?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Mar 13 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b44b0006c1ba00c5458b39?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
@@ -104,11 +112,11 @@ For a complete list, click the following sortable link below:
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69b4430a569738374138e6d9?utm_campaign=1054&utm_source=git)** | Westfield Center, OH | Hybrid | Mar 13 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b442fc569738374138e6ba?utm_campaign=1054&utm_source=git)** | Yankton, SD | On Site | Mar 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6998471bce78e77b4fdcf9d7?utm_campaign=1054&utm_source=git)** | Melbourne, FL | On Site | Mar 13 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2dff?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Mar 13 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69341845a0dde7020e2f4357?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Mar 13 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2dff?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Mar 13 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69b43f8706c1ba00c54574b7?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/697c8bdf137a051025658c24?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 13 |
-| ↳ | **[Summer 2026 Management Trainee Intern- Newburgh, NY](https://jobright.ai/jobs/info/697c3dfd1423772304ecb52f?utm_campaign=1054&utm_source=git)** | Newburgh, NY | On Site | Mar 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Newburgh, NY](https://jobright.ai/jobs/info/697c3dfd1423772304ecb52f?utm_campaign=1054&utm_source=git)** | Newburgh, NY | On Site | Mar 13 |
+| ↳ | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/697c8bdf137a051025658c24?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 13 |
 | ↳ | **[Management Trainee Summer Internship - Salt Lake City](https://jobright.ai/jobs/info/69608694a112b402660f3b59?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Mar 13 |
 | ↳ | **[Summer 2026 Management Trainee Intern Nashville](https://jobright.ai/jobs/info/690ab44f4a1b456627b0a6bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Mar 13 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ef2df131d96e48468549?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Mar 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Diversity, Equity & Inclusion Intern](https://jobright.ai/jobs/info/69b3cf57ae2a534885eb4292?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Mar 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern (Unpaid)](https://jobright.ai/jobs/info/69a791452672cb0acb4c05ea?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Mar 13 |
 | **[Seagate Technology](http://www.seagate.com)** | **[HR AI Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/69a8ab7879f3f4037f42f754?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 13 |
-| **[United Airlines](https://www.united.com)** | **[Intern - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69b3e9633b74eb1e2c80f6ba?utm_campaign=1054&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Mar 13 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Victoria Office – CPA Opportunities in Private Enterprise Audit – Summer Internship – Summer 2027 Start](https://jobright.ai/jobs/info/69b3c621ad360c0340a8e595?utm_campaign=1054&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Mar 13 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Vocational Rehabilitation Counselor (Fall)](https://jobright.ai/jobs/info/69b3b66dae2a534885eb2447?utm_campaign=1054&utm_source=git)** | South Dakota, United States | On Site | Mar 13 |
-| **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 12 |
-| **[International Institute of New England](https://iine.org/)** | **[Employment Services Internship (IINE-Lowell)Employment Services Internship OverviewKey Responsibilities:Qualifications:Learning Objectives:](https://jobright.ai/jobs/info/69b3fd103b74eb1e2c810b06?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Mar 12 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Tennis](https://jobright.ai/jobs/info/69b3a37aad360c0340a8cec7?utm_campaign=1054&utm_source=git)** | FL-Coral Gables | On Site | Mar 12 |
-| **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/698c5e3af64d441a164e500c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - West Bend](https://jobright.ai/jobs/info/69b391c2ad360c0340a8b654?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
