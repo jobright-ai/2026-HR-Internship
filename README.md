@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Multiple Divisions and Locations)](https://jobright.ai/jobs/info/69b2391aa8ac8e70ff660e6b?utm_campaign=1054&utm_source=git)** | Gloucester, NJ | On Site | Mar 13 |
+| **[Highgate](https://www.highgate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b4d3f506c1ba00c54653a8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 13 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Compensation & Analytics Intern](https://jobright.ai/jobs/info/69b4d2c3569738374139c6ff?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
+| **[Robinhood](https://www.robinhood.com)** | **[PeopleX Partner Intern](https://jobright.ai/jobs/info/69b4d20c569738374139c663?utm_campaign=1054&utm_source=git)** | Menlo Park, CA | On Site | Mar 13 |
 | **[Trench Group](https://trench-group.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69b4c2e8569738374139b190?utm_campaign=1054&utm_source=git)** | Pickering, Ontario, Canada | On Site | Mar 13 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Front Desk Student Associate - Office of Human Resources](https://jobright.ai/jobs/info/69b4e067569738374139e5f2?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Mar 13 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Summer 2026 Intern](https://jobright.ai/jobs/info/69b4be125697383741399e0e?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Mar 13 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[TA Inclusion Intern](https://jobright.ai/jobs/info/69b4bdde3b74eb1e2c8211e4?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Mar 13 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Corporate HR Intern](https://jobright.ai/jobs/info/69b4bb5f569738374139925e?utm_campaign=1054&utm_source=git)** | Greensboro, North Carolina, United States | On Site | Mar 13 |
@@ -110,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69b47bc156973837413957b7?utm_campaign=1054&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Mar 13 |
 | **[Envision Unlimited](https://www.envisionunlimited.org/)** | **[HR File Compliance Internship](https://jobright.ai/jobs/info/69b47f8406c1ba00c545fab0?utm_campaign=1054&utm_source=git)** | Chicago,IL,US | On Site | Mar 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69291d8ef0beb07232631ec3?utm_campaign=1054&utm_source=git)** | Sydney, Nova Scotia, Canada | On Site | Mar 13 |
-| **[Framatome](http://www.framatome.com)** | **[HR Support Intern](https://jobright.ai/jobs/info/69b4713f3b74eb1e2c81c189?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | Hybrid | Mar 13 |
-| ↳ | **[HR Support Intern](https://jobright.ai/jobs/info/69b46e1906c1ba00c545dcf4?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | Hybrid | Mar 13 |
+| **[Framatome](http://www.framatome.com)** | **[HR Support Intern](https://jobright.ai/jobs/info/69b46e1906c1ba00c545dcf4?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | Hybrid | Mar 13 |
+| ↳ | **[HR Support Intern](https://jobright.ai/jobs/info/69b4713f3b74eb1e2c81c189?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | Hybrid | Mar 13 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b44fc23b74eb1e2c8187be?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Mar 13 |
 | **[Cox Machine, Inc.](http://coxmachine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b44b5306c1ba00c5458cda?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Mar 13 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b44b0006c1ba00c5458b39?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
@@ -123,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69b4430a569738374138e6d9?utm_campaign=1054&utm_source=git)** | Westfield Center, OH | Hybrid | Mar 13 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b442fc569738374138e6ba?utm_campaign=1054&utm_source=git)** | Yankton, SD | On Site | Mar 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6998471bce78e77b4fdcf9d7?utm_campaign=1054&utm_source=git)** | Melbourne, FL | On Site | Mar 13 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69341845a0dde7020e2f4357?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Mar 13 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2dff?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Mar 13 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69341845a0dde7020e2f4357?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Mar 13 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69b43f8706c1ba00c54574b7?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Newburgh, NY](https://jobright.ai/jobs/info/697c3dfd1423772304ecb52f?utm_campaign=1054&utm_source=git)** | Newburgh, NY | On Site | Mar 13 |
 | ↳ | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/697c8bdf137a051025658c24?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/693d0c9650bbaf7650503588?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Mar 13 |
 | **[Cemex US](http://www.cemex.com/)** | **[INTERNSHIP DEVELOPMENT PROFESSIONAL HR](https://jobright.ai/jobs/info/691accc845fb6f5ead8ade42?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 13 |
 | **[Western Midstream](http://www.westernmidstream.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b43e7d569738374138e02d?utm_campaign=1054&utm_source=git)** | The Woodlands, TX, US, 77380 | Hybrid | Mar 13 |
-| **[rand* construction corporation](http://randcc.com)** | **[HR Intern - Alexandria, VA](https://jobright.ai/jobs/info/690bca90221b890c277f848a?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Mar 13 |
-| **[Zimmer Biomet](https://www.zimmerbiomet.com/en)** | **[2026 Summer Intern, HR Business Partnering (Operations)](https://jobright.ai/jobs/info/6997c8bbe0bddb6acac68d82?utm_campaign=1054&utm_source=git)** | Warsaw, IN | On Site | Mar 13 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/699c5c1ae0bddb6acacb659c?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Mar 13 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Human Resources)](https://jobright.ai/jobs/info/69972f8981476f6176af49ab?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Mar 13 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/6960c0e3a112b402660f6291?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
