@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[MHSS Employment Assistant](https://jobright.ai/jobs/info/69b88b7d56973837413ded4b?utm_campaign=1054&utm_source=git)** | Chesterfield, VA | On Site | Mar 16 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Reporting Analyst, Human Resources, People and Culture](https://jobright.ai/jobs/info/69b886f53b74eb1e2c866062?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 16 |
+| **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496283b74eb1e2c81f52c?utm_campaign=1054&utm_source=git)** | Lakewood, CO | Hybrid | Mar 16 |
+| ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496303b74eb1e2c81f551?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Mar 16 |
+| ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b4961b3b74eb1e2c81f4fa?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Mar 16 |
+| **[Intrinsic Development](https://www.id.com)** | **[Talent Acquisition & Recruiting Intern](https://jobright.ai/jobs/info/69b882fa56973837413de7b3?utm_campaign=1054&utm_source=git)** | Lee's Summit, Missouri | On Site | Mar 16 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Internship experience & HRBP (Summer 2026)](https://jobright.ai/jobs/info/69b8828956973837413de711?utm_campaign=1054&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 16 |
+| **[BWXT](http://www.bwxt.com/)** | **[Human Resources Co-op Student](https://jobright.ai/jobs/info/69b0a561749500645097584b?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | Hybrid | Mar 16 |
+| **[Cox Science Center and Aquarium](www.coxsciencecenter.org)** | **[Volunteer and Internship Coordinator](https://jobright.ai/jobs/info/69b87f7306c1ba00c54a7b42?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL, US | On Site | Mar 16 |
+| **[Framatome North America](www.framatome.com/en)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/69b87f5056973837413de1c7?utm_campaign=1054&utm_source=git)** | Lynchburg, VA | On Site | Mar 16 |
 | **[Four Inc.](https://www.fourinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8795206c1ba00c54a71e2?utm_campaign=1054&utm_source=git)** | Herndon, Virginia, United States | Hybrid | Mar 16 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Temporary Clerical Pool- Spring Term 2026](https://jobright.ai/jobs/info/69b8778456973837413dd34b?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Mar 16 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Corporate Benefits Intern](https://jobright.ai/jobs/info/69b875f306c1ba00c54a6a72?utm_campaign=1054&utm_source=git)** | Royal Oak, MI | On Site | Mar 16 |
@@ -90,14 +100,14 @@ For a complete list, click the following sortable link below:
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3b3b74eb1e2c85eae5?utm_campaign=1054&utm_source=git)** | Madison, Wisconsin | Remote | Mar 16 |
 | ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3b3b74eb1e2c85eaeb?utm_campaign=1054&utm_source=git)** | PA Philadelphia | Remote | Mar 16 |
 | ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3756973837413d7586?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts | Remote | Mar 16 |
-| ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3706c1ba00c54a0e84?utm_campaign=1054&utm_source=git)** | Ann Arbor, Michigan | Remote | Mar 16 |
 | ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3706c1ba00c54a0e86?utm_campaign=1054&utm_source=git)** | PA Philadelphia | Remote | Mar 16 |
+| ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3706c1ba00c54a0e84?utm_campaign=1054&utm_source=git)** | Ann Arbor, Michigan | Remote | Mar 16 |
 | ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3656973837413d7574?utm_campaign=1054&utm_source=git)** | Madison, Wisconsin | Remote | Mar 16 |
 | **[LiftHER Career](https://lifthercareer.com/)** | **[Analyst (Entry-Level) – Fellowship Program](https://jobright.ai/jobs/info/69b84cfe3b74eb1e2c85ea53?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Mar 16 |
 | ↳ | **[Analyst (Entry-Level) – Fellowship Program](https://jobright.ai/jobs/info/69b84a9a56973837413d7086?utm_campaign=1054&utm_source=git)** | Orange County, CA | Remote | Mar 16 |
 | **[Acenda Integrated Health](https://acendahealth.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8741256973837413dcbdc?utm_campaign=1054&utm_source=git)** | US NJ Glassboro 42 Delsea Drive South - Building A | On Site | Mar 16 |
-| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/69b8691c06c1ba00c54a595c?utm_campaign=1054&utm_source=git)** | Onsite | On Site | Mar 16 |
-| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/69b8685d3b74eb1e2c8633a2?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | Mar 16 |
+| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/69b8685d3b74eb1e2c8633a2?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | Mar 16 |
+| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/69b8691c06c1ba00c54a595c?utm_campaign=1054&utm_source=git)** | Onsite | On Site | Mar 16 |
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Human Resources Intern - Seasonal (Caesars Atlantic City/CES)](https://jobright.ai/jobs/info/69b8415206c1ba00c54a03ea?utm_campaign=1054&utm_source=git)** | Atlantic City, NJ, United States | On Site | Mar 16 |
 | **[Freudenberg Group](http://www.freudenberg.com)** | **[Human Resources Intern (on-site, year-round, part-time) (f/m/d)](https://jobright.ai/jobs/info/69b8407b3b74eb1e2c85dfac?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Mar 16 |
 | **[Sino Biological, Inc.](http://www.sinobiological.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69b83be63b74eb1e2c85da62?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 16 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/6933ba44f131d96e484665be?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Mar 15 |
 | **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f14489f462172a5a7d5721?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 15 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Member Services Summer Intern](https://jobright.ai/jobs/info/697f0d1ece48107c05432c39?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 15 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 15 |
-| **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/69a3d77f359fe034b1cec4b9?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Mar 15 |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Administrative Internships](https://jobright.ai/jobs/info/69b607813b74eb1e2c83adb6?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Administrative Internships](https://jobright.ai/jobs/info/69b5e2913b74eb1e2c83a71a?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
-| ↳ | **[Human Resources Internships](https://jobright.ai/jobs/info/69b5e24a56973837413b3b0e?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
-| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[TA Inclusion Intern](https://jobright.ai/jobs/info/69b5dfc33b74eb1e2c83a6dc?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Mar 14 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69b5d49156973837413b3178?utm_campaign=1054&utm_source=git)** | Newnan, GA | On Site | Mar 14 |
-| **[REVOLVE](https://www.revolve.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b5cb8c56973837413b2cd2?utm_campaign=1054&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 14 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b5c38656973837413b2b50?utm_campaign=1054&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
