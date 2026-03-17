@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/69b8c78a3b74eb1e2c86d135?utm_campaign=1054&utm_source=git)** | Any city, TX, US, 99999 | Hybrid | Mar 16 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Employee Experience](https://jobright.ai/jobs/info/69b8c47106c1ba00c54af0d5?utm_campaign=1054&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | Mar 16 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[MHRS Intern](https://jobright.ai/jobs/info/69b8bdbe56973837413e5df4?utm_campaign=1054&utm_source=git)** | Columbus, OH 43203, USA | Hybrid | Mar 16 |
+| **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 People + Culture Intern / Support Center](https://jobright.ai/jobs/info/69a32a790da45516f16c7364?utm_campaign=1054&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Mar 16 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69b8bcdf3b74eb1e2c86cb2a?utm_campaign=1054&utm_source=git)** | Anaheim, CA, US | Hybrid | Mar 16 |
 | **[Sound Physicians](http://www.soundphysicians.com)** | **[Payroll Intern](https://jobright.ai/jobs/info/69b8c39a06c1ba00c54af052?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
 | ↳ | **[People Support Intern](https://jobright.ai/jobs/info/69b8c38e56973837413e6128?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Superior](http://superiorgroup.net)** | **[Talent Acquisition Internship, Fall 2026](https://jobright.ai/jobs/info/69b4650b3b74eb1e2c819ba0?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 16 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Reporting Analyst, Human Resources, People and Culture](https://jobright.ai/jobs/info/69b886f53b74eb1e2c866062?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 16 |
 | **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496283b74eb1e2c81f52c?utm_campaign=1054&utm_source=git)** | Lakewood, CO | Hybrid | Mar 16 |
-| ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b4961b3b74eb1e2c81f4fa?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Mar 16 |
 | ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496303b74eb1e2c81f551?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Mar 16 |
+| ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b4961b3b74eb1e2c81f4fa?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Mar 16 |
 | **[Intrinsic Development](https://www.id.com)** | **[Talent Acquisition & Recruiting Intern](https://jobright.ai/jobs/info/69b882fa56973837413de7b3?utm_campaign=1054&utm_source=git)** | Lee's Summit, Missouri | On Site | Mar 16 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Internship experience & HRBP (Summer 2026)](https://jobright.ai/jobs/info/69b8828956973837413de711?utm_campaign=1054&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 16 |
 | **[BWXT](http://www.bwxt.com/)** | **[Human Resources Co-op Student](https://jobright.ai/jobs/info/69b0a561749500645097584b?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | Hybrid | Mar 16 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b8711b56973837413dc85c?utm_campaign=1054&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Mar 16 |
 | ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b870e156973837413dc803?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | Hybrid | Mar 16 |
 | ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b8707506c1ba00c54a6283?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 16 |
-| ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b8703206c1ba00c54a6240?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 16 |
 | ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b8703206c1ba00c54a623f?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 16 |
+| ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b8703206c1ba00c54a6240?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 16 |
 | ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b86e423b74eb1e2c863b7c?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Mar 16 |
 | ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b86e413b74eb1e2c863b7b?utm_campaign=1054&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 16 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Payroll Director](https://jobright.ai/jobs/info/69b869b43b74eb1e2c863755?utm_campaign=1054&utm_source=git)** | Triangle Area | On Site | Mar 16 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69b84f7a56973837413d7803?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Mar 16 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3b3b74eb1e2c85eae5?utm_campaign=1054&utm_source=git)** | Madison, Wisconsin | Remote | Mar 16 |
 | ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3b3b74eb1e2c85eaeb?utm_campaign=1054&utm_source=git)** | PA Philadelphia | Remote | Mar 16 |
+| ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3706c1ba00c54a0e82?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts | Remote | Mar 16 |
 | ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3706c1ba00c54a0e86?utm_campaign=1054&utm_source=git)** | PA Philadelphia | Remote | Mar 16 |
-| ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3756973837413d7586?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts | Remote | Mar 16 |
 | ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3706c1ba00c54a0e84?utm_campaign=1054&utm_source=git)** | Ann Arbor, Michigan | Remote | Mar 16 |
 | ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3656973837413d7574?utm_campaign=1054&utm_source=git)** | Madison, Wisconsin | Remote | Mar 16 |
 | **[LiftHER Career](https://lifthercareer.com/)** | **[Analyst (Entry-Level) – Fellowship Program](https://jobright.ai/jobs/info/69b84cfe3b74eb1e2c85ea53?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People Intelligence Intern](https://jobright.ai/jobs/info/69b756f156973837413c6f71?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Mar 15 |
 | **[GameChanger](https://gc.com/)** | **[People Analytics & Rewards Summer Intern](https://jobright.ai/jobs/info/69b81fbe56973837413d4c77?utm_campaign=1054&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
 | **[Indianapolis Private Industry Council, Inc.](http://www.ipic.org)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69b70f6f3b74eb1e2c84bdc0?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 15 |
-| **[Quirch Foods](http://www.quirchfoods.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b7dcb43b74eb1e2c857e94?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
