@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Ohio](https://development.ohio.gov/)** | **[Vocational Rehabilitation Caseload Assistant Intern](https://jobright.ai/jobs/info/69b8e86506c1ba00c54b0155?utm_campaign=1054&utm_source=git)** | Lima Office BSVI/BVR2190 Allentown Road | On Site | Mar 16 |
+| ↳ | **[Vocational Rehabilitation Caseload Assistant Intern](https://jobright.ai/jobs/info/69b8e8303b74eb1e2c86de49?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Lucas County-Toledo | On Site | Mar 16 |
+| ↳ | **[Vocational Rehabilitation Caseload Assistant Intern](https://jobright.ai/jobs/info/69b8e7df56973837413e711b?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Allen County-Lima | On Site | Mar 16 |
 | **[Keshet Disabilities & Inclusion](https://keshet.org/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69b8dfa256973837413e6f6b?utm_campaign=1054&utm_source=git)** | Business Office - Northbrook, IL 60062 | On Site | Mar 16 |
-| **[State of Ohio](https://development.ohio.gov/)** | **[Vocational Rehabilitation Caseload Assistant Intern](https://jobright.ai/jobs/info/69b8df7f3b74eb1e2c86dc7e?utm_campaign=1054&utm_source=git)** | Lima Office BSVI/BVR2190 Allentown Road | On Site | Mar 16 |
-| ↳ | **[Vocational Rehabilitation Caseload Assistant Intern](https://jobright.ai/jobs/info/69b8df7a56973837413e6f63?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Lucas County | On Site | Mar 16 |
+| **[State of Ohio](https://development.ohio.gov/)** | **[Vocational Rehabilitation Caseload Assistant Intern](https://jobright.ai/jobs/info/69b8df7a56973837413e6f63?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Lucas County | On Site | Mar 16 |
 | ↳ | **[Vocational Rehabilitation Caseload Assistant Intern](https://jobright.ai/jobs/info/69b8deb806c1ba00c54aff49?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Allen County | On Site | Mar 16 |
 | **[The Walters Art Museum](http://thewalters.org)** | **[Community Engagment & Evaluation Intern (37619)](https://jobright.ai/jobs/info/69b8d76956973837413e6b70?utm_campaign=1054&utm_source=git)** | Walters Art Museum - Baltimore, MD 21201 | On Site | Mar 16 |
 | **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern, Employee Experience](https://jobright.ai/jobs/info/69b8cd0c56973837413e65b2?utm_campaign=1054&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | Mar 16 |
@@ -69,12 +71,13 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69b8bcdf3b74eb1e2c86cb2a?utm_campaign=1054&utm_source=git)** | Anaheim, CA, US | Hybrid | Mar 16 |
 | **[Sound Physicians](http://www.soundphysicians.com)** | **[People Support Intern](https://jobright.ai/jobs/info/69b8c38e56973837413e6128?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
 | ↳ | **[Payroll Intern](https://jobright.ai/jobs/info/69b8c39a06c1ba00c54af052?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
-| **[PepperPointe Partnerships](https://pepperpointe.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bc723b74eb1e2c86c9c5?utm_campaign=1054&utm_source=git)** | US-KY-Lexington | On Site | Mar 16 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bca206c1ba00c54aec05?utm_campaign=1054&utm_source=git)** | Lexington, KY, US | On Site | Mar 16 |
+| **[PepperPointe Partnerships](https://pepperpointe.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bca206c1ba00c54aec05?utm_campaign=1054&utm_source=git)** | Lexington, KY, US | On Site | Mar 16 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bc723b74eb1e2c86c9c5?utm_campaign=1054&utm_source=git)** | US-KY-Lexington | On Site | Mar 16 |
+| **[Superior](http://superiorgroup.net)** | **[Talent Acquisition Internship, Fall 2026](https://jobright.ai/jobs/info/69b4650b3b74eb1e2c819ba0?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 16 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Reporting Analyst, Human Resources, People and Culture](https://jobright.ai/jobs/info/69b886f53b74eb1e2c866062?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 16 |
 | **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496283b74eb1e2c81f52c?utm_campaign=1054&utm_source=git)** | Lakewood, CO | Hybrid | Mar 16 |
-| ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b4961b3b74eb1e2c81f4fa?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Mar 16 |
 | ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496303b74eb1e2c81f551?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Mar 16 |
+| ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b4961b3b74eb1e2c81f4fa?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Mar 16 |
 | **[Intrinsic Development](https://www.id.com)** | **[Talent Acquisition & Recruiting Intern](https://jobright.ai/jobs/info/69b882fa56973837413de7b3?utm_campaign=1054&utm_source=git)** | Lee's Summit, Missouri | On Site | Mar 16 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Internship experience & HRBP (Summer 2026)](https://jobright.ai/jobs/info/69b8828956973837413de711?utm_campaign=1054&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 16 |
 | **[BWXT](http://www.bwxt.com/)** | **[Human Resources Co-op Student](https://jobright.ai/jobs/info/69b0a561749500645097584b?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | Hybrid | Mar 16 |
@@ -113,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69b84f7a56973837413d7803?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Mar 16 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3b3b74eb1e2c85eaeb?utm_campaign=1054&utm_source=git)** | PA Philadelphia | Remote | Mar 16 |
 | ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3b3b74eb1e2c85eae5?utm_campaign=1054&utm_source=git)** | Madison, Wisconsin | Remote | Mar 16 |
-| ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3706c1ba00c54a0e82?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts | Remote | Mar 16 |
-| ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3706c1ba00c54a0e86?utm_campaign=1054&utm_source=git)** | PA Philadelphia | Remote | Mar 16 |
 | ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3706c1ba00c54a0e84?utm_campaign=1054&utm_source=git)** | Ann Arbor, Michigan | Remote | Mar 16 |
+| ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3706c1ba00c54a0e86?utm_campaign=1054&utm_source=git)** | PA Philadelphia | Remote | Mar 16 |
+| ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3706c1ba00c54a0e82?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts | Remote | Mar 16 |
 | ↳ | **[Workforce Analytics & Insights Intern](https://jobright.ai/jobs/info/69b84d3656973837413d7574?utm_campaign=1054&utm_source=git)** | Madison, Wisconsin | Remote | Mar 16 |
 | **[LiftHER Career](https://lifthercareer.com/)** | **[Analyst (Entry-Level) – Fellowship Program](https://jobright.ai/jobs/info/69b84cfe3b74eb1e2c85ea53?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Mar 16 |
 | ↳ | **[Analyst (Entry-Level) – Fellowship Program](https://jobright.ai/jobs/info/69b84a9a56973837413d7086?utm_campaign=1054&utm_source=git)** | Orange County, CA | Remote | Mar 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GameChanger](https://gc.com/)** | **[People Analytics & Rewards Summer Intern](https://jobright.ai/jobs/info/69b81fbe56973837413d4c77?utm_campaign=1054&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
 | **[Indianapolis Private Industry Council, Inc.](http://www.ipic.org)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69b70f6f3b74eb1e2c84bdc0?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 15 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[HR Intern](https://jobright.ai/jobs/info/69b7dcb43b74eb1e2c857e94?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Mar 15 |
-| **[Solidigm](https://www.solidigmtechnology.com)** | **[Talent Acquisition Data Engineering & Analytics Graduate Intern](https://jobright.ai/jobs/info/69b708743b74eb1e2c84baef?utm_campaign=1054&utm_source=git)** | Rancho Cordova, CA | Hybrid | Mar 15 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Mar 15 |
-| ↳ | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/6933cd31a0dde7020e2f1ea3?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
