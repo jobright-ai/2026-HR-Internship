@@ -86,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Star Security](https://bluestarsecurityllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b98ec106c1ba00c54b95ea?utm_campaign=1054&utm_source=git)** | Norwalk, CT, US | On Site | Mar 17 |
 | **[Avnet](https://www.avnet.com)** | **[Talent, Learning, & Inclusion COE Intern](https://jobright.ai/jobs/info/69b98da156973837413f03d0?utm_campaign=1054&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 17 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 Benefits Administration Internship](https://jobright.ai/jobs/info/69b98d553b74eb1e2c877269?utm_campaign=1054&utm_source=git)** | USA PA Clarks Summit | On Site | Mar 17 |
+| **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Member Retention and Engagement Intern](https://jobright.ai/jobs/info/699f1d5c94ef206f184e44dd?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Mar 17 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience & Events Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b4806c1ba00c54b8be0?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
 | ↳ | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b463b74eb1e2c876a38?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
 | ↳ | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3b06c1ba00c54b8bbd?utm_campaign=1054&utm_source=git)** | United States - Remote | Remote | Mar 17 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69b8bcdf3b74eb1e2c86cb2a?utm_campaign=1054&utm_source=git)** | Anaheim, CA, US | Hybrid | Mar 16 |
 | **[Sound Physicians](http://www.soundphysicians.com)** | **[Payroll Intern](https://jobright.ai/jobs/info/69b8c39a06c1ba00c54af052?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
 | ↳ | **[People Support Intern](https://jobright.ai/jobs/info/69b8c38e56973837413e6128?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
-| **[PepperPointe Partnerships](https://pepperpointe.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bca206c1ba00c54aec05?utm_campaign=1054&utm_source=git)** | Lexington, KY, US | On Site | Mar 16 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bc723b74eb1e2c86c9c5?utm_campaign=1054&utm_source=git)** | US-KY-Lexington | On Site | Mar 16 |
+| **[PepperPointe Partnerships](https://pepperpointe.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bc723b74eb1e2c86c9c5?utm_campaign=1054&utm_source=git)** | US-KY-Lexington | On Site | Mar 16 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bca206c1ba00c54aec05?utm_campaign=1054&utm_source=git)** | Lexington, KY, US | On Site | Mar 16 |
 | **[Superior](http://superiorgroup.net)** | **[Talent Acquisition Internship, Fall 2026](https://jobright.ai/jobs/info/69b4650b3b74eb1e2c819ba0?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 16 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Reporting Analyst, Human Resources, People and Culture](https://jobright.ai/jobs/info/69b886f53b74eb1e2c866062?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 16 |
 | **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496283b74eb1e2c81f52c?utm_campaign=1054&utm_source=git)** | Lakewood, CO | Hybrid | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Human Resources](https://jobright.ai/jobs/info/69b857c406c1ba00c54a2c21?utm_campaign=1054&utm_source=git)** | Rosemont, IL | On Site | Mar 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69aa2cf92ebd316bece1e678?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Mar 16 |
 | **[Interlakes Community Action Partnership](https://www.interlakescap.com)** | **[Human Resources and Marketing Internship](https://jobright.ai/jobs/info/69ba117506c1ba00c54c315d?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD, USA | On Site | Mar 16 |
-| **[Repligen Corporation](http://www.repligen.com)** | **[HR Communications Intern](https://jobright.ai/jobs/info/69b8524c3b74eb1e2c85ef59?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
