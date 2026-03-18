@@ -144,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b8711b56973837413dc85c?utm_campaign=1054&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Mar 16 |
 | ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b870e156973837413dc803?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | Hybrid | Mar 16 |
 | ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b8707506c1ba00c54a6283?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 16 |
-| ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b8703206c1ba00c54a623f?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 16 |
 | ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b8703206c1ba00c54a6240?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 16 |
+| ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b8703206c1ba00c54a623f?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 16 |
 | ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b86e423b74eb1e2c863b7c?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Mar 16 |
 | ↳ | **[Senior Talent Sourcer](https://jobright.ai/jobs/info/69b86e413b74eb1e2c863b7b?utm_campaign=1054&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 16 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Payroll Director](https://jobright.ai/jobs/info/69b869b43b74eb1e2c863755?utm_campaign=1054&utm_source=git)** | Triangle Area | On Site | Mar 16 |
