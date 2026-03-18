@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Madison Energy Infrastructure](https://www.madisonei.com)** | **[People Team Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2e2c06c1ba00c54c4587?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 17 |
+| **[Simular](https://simular.ai)** | **[People & Operations Intern](https://jobright.ai/jobs/info/69b2b05ea8ac8e70ff66b765?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Mar 17 |
 | **[First American](http://www.firstam.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/69b9e9e356973837413f70bf?utm_campaign=1054&utm_source=git)** | USA, California, Santa Ana | Remote | Mar 17 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b9d6ce06c1ba00c54bf602?utm_campaign=1054&utm_source=git)** | Allentown, PA - 1110 American Parkway | On Site | Mar 17 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Seattle)](https://jobright.ai/jobs/info/69b9f20b3b74eb1e2c87e9ca?utm_campaign=1054&utm_source=git)** | Seattle, WA, US | Hybrid | Mar 17 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Avnet](https://www.avnet.com)** | **[Talent, Learning, & Inclusion COE Intern](https://jobright.ai/jobs/info/69b98da156973837413f03d0?utm_campaign=1054&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 17 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 Benefits Administration Internship](https://jobright.ai/jobs/info/69b98d553b74eb1e2c877269?utm_campaign=1054&utm_source=git)** | USA PA Clarks Summit | On Site | Mar 17 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Member Retention and Engagement Intern](https://jobright.ai/jobs/info/699f1d5c94ef206f184e44dd?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Mar 17 |
+| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69b4df47569738374139dfe8?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Mar 17 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience & Events Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b4806c1ba00c54b8be0?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
 | ↳ | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b463b74eb1e2c876a38?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
 | ↳ | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3b06c1ba00c54b8bbd?utm_campaign=1054&utm_source=git)** | United States - Remote | Remote | Mar 17 |
@@ -99,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Operations Professional Intern](https://jobright.ai/jobs/info/698167d949964d25b5e45dbb?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 17 |
 | **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699d1505e0bddb6acacc32de?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 17 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Human Resources Intern (Students Only)](https://jobright.ai/jobs/info/69b9409006c1ba00c54b53be?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Mar 17 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HR - Total Rewards - Corporate](https://jobright.ai/jobs/info/699cd134e0bddb6acacbdc4c?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 17 |
 | **[Dollarama](https://www.dollarama.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/699c7a7781476f6176b5066f?utm_campaign=1054&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Mar 17 |
 | **[Progress Residential®](http://rentprogress.com)** | **[People Operations/Human Resource Intern](https://jobright.ai/jobs/info/698103ca49964d25b5e3d12f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Mar 17 |
 | **[Dollarama](https://www.dollarama.com)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/699cfbf8ce78e77b4fe1bd6e?utm_campaign=1054&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Mar 17 |
@@ -118,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Equitas Health](https://www.equitashealth.com)** | **[MHRS Intern](https://jobright.ai/jobs/info/69b8bdbe56973837413e5df4?utm_campaign=1054&utm_source=git)** | Columbus, OH 43203, USA | Hybrid | Mar 16 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 People + Culture Intern / Support Center](https://jobright.ai/jobs/info/69a32a790da45516f16c7364?utm_campaign=1054&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Mar 16 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69b8bcdf3b74eb1e2c86cb2a?utm_campaign=1054&utm_source=git)** | Anaheim, CA, US | Hybrid | Mar 16 |
-| **[Sound Physicians](http://www.soundphysicians.com)** | **[People Support Intern](https://jobright.ai/jobs/info/69b8c38e56973837413e6128?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
-| ↳ | **[Payroll Intern](https://jobright.ai/jobs/info/69b8c39a06c1ba00c54af052?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
+| **[Sound Physicians](http://www.soundphysicians.com)** | **[Payroll Intern](https://jobright.ai/jobs/info/69b8c39a06c1ba00c54af052?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
+| ↳ | **[People Support Intern](https://jobright.ai/jobs/info/69b8c38e56973837413e6128?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
 | **[PepperPointe Partnerships](https://pepperpointe.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bca206c1ba00c54aec05?utm_campaign=1054&utm_source=git)** | Lexington, KY, US | On Site | Mar 16 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bc723b74eb1e2c86c9c5?utm_campaign=1054&utm_source=git)** | US-KY-Lexington | On Site | Mar 16 |
 | **[Superior](http://superiorgroup.net)** | **[Talent Acquisition Internship, Fall 2026](https://jobright.ai/jobs/info/69b4650b3b74eb1e2c819ba0?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69b85d0306c1ba00c54a3721?utm_campaign=1054&utm_source=git)** | Lincolnshire, IL | On Site | Mar 16 |
 | **[GameChanger](https://gc.com/)** | **[People Analytics & Rewards Summer Intern](https://jobright.ai/jobs/info/69b85b2e06c1ba00c54a33dd?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Mar 16 |
 | **[Freudenberg Home and Cleaning Solutions](http://www.vileda.com/au/)** | **[Human Resources Intern (on-site, year-round, part-time) (f/m/d)](https://jobright.ai/jobs/info/69b85afe3b74eb1e2c860e8d?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Mar 16 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69b8587806c1ba00c54a2d26?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Mar 16 |
-| **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Human Resources](https://jobright.ai/jobs/info/69b857c406c1ba00c54a2c21?utm_campaign=1054&utm_source=git)** | Rosemont, IL | On Site | Mar 16 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69aa2cf92ebd316bece1e678?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
