@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Madison Energy Infrastructure](https://www.madisonei.com)** | **[People Team Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2e2c06c1ba00c54c4587?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 17 |
 | **[First American](http://www.firstam.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/69b9e9e356973837413f70bf?utm_campaign=1054&utm_source=git)** | USA, California, Santa Ana | Remote | Mar 17 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b9d6ce06c1ba00c54bf602?utm_campaign=1054&utm_source=git)** | Allentown, PA - 1110 American Parkway | On Site | Mar 17 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Seattle)](https://jobright.ai/jobs/info/69b9f20b3b74eb1e2c87e9ca?utm_campaign=1054&utm_source=git)** | Seattle, WA, US | Hybrid | Mar 17 |
@@ -115,15 +116,15 @@ For a complete list, click the following sortable link below:
 | **[Equitas Health](https://www.equitashealth.com)** | **[MHRS Intern](https://jobright.ai/jobs/info/69b8bdbe56973837413e5df4?utm_campaign=1054&utm_source=git)** | Columbus, OH 43203, USA | Hybrid | Mar 16 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 People + Culture Intern / Support Center](https://jobright.ai/jobs/info/69a32a790da45516f16c7364?utm_campaign=1054&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Mar 16 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69b8bcdf3b74eb1e2c86cb2a?utm_campaign=1054&utm_source=git)** | Anaheim, CA, US | Hybrid | Mar 16 |
-| **[Sound Physicians](http://www.soundphysicians.com)** | **[People Support Intern](https://jobright.ai/jobs/info/69b8c38e56973837413e6128?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
-| ↳ | **[Payroll Intern](https://jobright.ai/jobs/info/69b8c39a06c1ba00c54af052?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
+| **[Sound Physicians](http://www.soundphysicians.com)** | **[Payroll Intern](https://jobright.ai/jobs/info/69b8c39a06c1ba00c54af052?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
+| ↳ | **[People Support Intern](https://jobright.ai/jobs/info/69b8c38e56973837413e6128?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 16 |
 | **[PepperPointe Partnerships](https://pepperpointe.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bca206c1ba00c54aec05?utm_campaign=1054&utm_source=git)** | Lexington, KY, US | On Site | Mar 16 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69b8bc723b74eb1e2c86c9c5?utm_campaign=1054&utm_source=git)** | US-KY-Lexington | On Site | Mar 16 |
 | **[Superior](http://superiorgroup.net)** | **[Talent Acquisition Internship, Fall 2026](https://jobright.ai/jobs/info/69b4650b3b74eb1e2c819ba0?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 16 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Reporting Analyst, Human Resources, People and Culture](https://jobright.ai/jobs/info/69b886f53b74eb1e2c866062?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 16 |
 | **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496283b74eb1e2c81f52c?utm_campaign=1054&utm_source=git)** | Lakewood, CO | Hybrid | Mar 16 |
-| ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b4961b3b74eb1e2c81f4fa?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Mar 16 |
 | ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b496303b74eb1e2c81f551?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Mar 16 |
+| ↳ | **[2026 People Team Intern](https://jobright.ai/jobs/info/69b4961b3b74eb1e2c81f4fa?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Mar 16 |
 | **[Intrinsic Development](https://www.id.com)** | **[Talent Acquisition & Recruiting Intern](https://jobright.ai/jobs/info/69b882fa56973837413de7b3?utm_campaign=1054&utm_source=git)** | Lee's Summit, Missouri | On Site | Mar 16 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Internship experience & HRBP (Summer 2026)](https://jobright.ai/jobs/info/69b8828956973837413de711?utm_campaign=1054&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 16 |
 | **[BWXT](http://www.bwxt.com/)** | **[Human Resources Co-op Student](https://jobright.ai/jobs/info/69b0a561749500645097584b?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | Hybrid | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69aa2cf92ebd316bece1e678?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Mar 16 |
 | **[Interlakes Community Action Partnership](https://www.interlakescap.com)** | **[Human Resources and Marketing Internship](https://jobright.ai/jobs/info/69ba117506c1ba00c54c315d?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD, USA | On Site | Mar 16 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[HR Communications Intern](https://jobright.ai/jobs/info/69b8524c3b74eb1e2c85ef59?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Mar 16 |
-| **[FreedomPay](https://corporate.freedompay.com/)** | **[Summer Intern 2026 - Human Resources](https://jobright.ai/jobs/info/69b8509a3b74eb1e2c85ee35?utm_campaign=1054&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
