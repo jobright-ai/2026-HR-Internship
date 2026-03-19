@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Columbia](http://columbiacc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb8cbc569738374141a61e?utm_campaign=1054&utm_source=git)** | North Reading,MA,US | On Site | Mar 18 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote - HR Intern](https://jobright.ai/jobs/info/69bb7cb73b74eb1e2c89eba6?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 18 |
 | **[WorkCompCentral](https://www.workcompcentral.com/)** | **[Workers' Compensation Examiner I/II](https://jobright.ai/jobs/info/69bb7b0606c1ba00c54df52c?utm_campaign=1054&utm_source=git)** | Roseville, CA | Hybrid | Mar 18 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69bb70765697383741417373?utm_campaign=1054&utm_source=git)** | Omni Service Center, 4001 Maple Ave, Dallas, Texas, United States of America | On Site | Mar 18 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Chainlink Labs](https://chainlinklabs.com/)** | **[People Intelligence Intern](https://jobright.ai/jobs/info/69bb194306c1ba00c54d8d49?utm_campaign=1054&utm_source=git)** | Vancouver, BC | Remote | Mar 18 |
 | **[Sony](https://www.sony.com)** | **[CSR & Social Impact Intern](https://jobright.ai/jobs/info/69aa945d2ebd316bece2573c?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Mar 18 |
 | **[CN](http://www.cn.ca)** | **[Intern, HR - Indigenous- EN](https://jobright.ai/jobs/info/6994197cce78e77b4fd80ea0?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Mar 18 |
-| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Human Resources "SharePoint" Intern Fall 2026](https://jobright.ai/jobs/info/6966bcf2a112b4026614b643?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Mar 18 |
-| ↳ | **[Human Resources "SharePoint" Intern Summer 2026](https://jobright.ai/jobs/info/6966c117a112b4026614bb4b?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Mar 18 |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Human Resources "SharePoint" Intern Summer 2026](https://jobright.ai/jobs/info/6966c117a112b4026614bb4b?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Mar 18 |
+| ↳ | **[Human Resources "SharePoint" Intern Fall 2026](https://jobright.ai/jobs/info/6966bcf2a112b4026614b643?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Mar 18 |
 | **[Cantaloupe Inc](http://www.cantaloupe.com)** | **[HR Intern](https://jobright.ai/jobs/info/69bb16ef5697383741410daf?utm_campaign=1054&utm_source=git)** | Malvern, PA, US | Hybrid | Mar 18 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6985ee678ca8121a3a682440?utm_campaign=1054&utm_source=git)** | Coppell, TX | Hybrid | Mar 18 |
 | **[AVL in North America](https://www.avl.com/web/na/avl-north-america)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69baef783b74eb1e2c892d1a?utm_campaign=1054&utm_source=git)** | Plymouth, MI | Hybrid | Mar 18 |
@@ -139,10 +140,10 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Mar 18 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69bb0fc95697383741410202?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 18 |
 | **[New Brunswick Counseling & Burlington Counseling Center](http://www.nbcounselingcenter.org/)** | **[Case Management Intern (RSSI)](https://jobright.ai/jobs/info/69bb077a3b74eb1e2c89599f?utm_campaign=1054&utm_source=git)** | Mount Holly, New Jersey, United States | On Site | Mar 18 |
-| **[i2G Systems](https://www.i2gsystems.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb0739569738374140e091?utm_campaign=1054&utm_source=git)** | Plymouth, MI, US | Hybrid | Mar 18 |
+| **[i2G Systems](https://www.i2gsystems.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb0738569738374140e08d?utm_campaign=1054&utm_source=git)** | US-MI-Plymouth | Hybrid | Mar 18 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb079406c1ba00c54d6394?utm_campaign=1054&utm_source=git)** | US-VA-Sterling | Hybrid | Mar 18 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb0739569738374140e091?utm_campaign=1054&utm_source=git)** | Plymouth, MI, US | Hybrid | Mar 18 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb079406c1ba00c54d6395?utm_campaign=1054&utm_source=git)** | Sterling, VA, US | Hybrid | Mar 18 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb0738569738374140e08d?utm_campaign=1054&utm_source=git)** | US-MI-Plymouth | Hybrid | Mar 18 |
 | **[AVL ZalaZONE](https://avlzalazone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb06fd06c1ba00c54d621a?utm_campaign=1054&utm_source=git)** | Plymouth, MI, US | Hybrid | Mar 18 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Account Onboarding Specialist Intern](https://jobright.ai/jobs/info/69bae891569738374140bf45?utm_campaign=1054&utm_source=git)** | Any city, TX, US, 99999 | Hybrid | Mar 18 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[HR Intern (Spring Semester)](https://jobright.ai/jobs/info/69bb3ea906c1ba00c54dbaae?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Team Member Experience Intern](https://jobright.ai/jobs/info/699e3644ce78e77b4fe349ac?utm_campaign=1054&utm_source=git)** | Marlborough, MA | Hybrid | Mar 18 |
 | **[Bright Uro](https://brighturo.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69bad9c43b74eb1e2c8911ac?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Mar 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac8f967a69734cac5e0cc?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Mar 18 |
-| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acc933019f50a4fe5e202?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
