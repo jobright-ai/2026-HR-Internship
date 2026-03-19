@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bbe8cc45e08b3dc1f7af10?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Mar 19 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 19 |
+| **[Quiddity](https://quiddity.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bbe0434828227293fccecb?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Mar 19 |
+| **[Confluent](https://confluent.io)** | **[Early Talent Intern / Skillbridge](https://jobright.ai/jobs/info/69825600348f733a5c3524f0?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Mar 19 |
+| **[Winchester Ammunition](https://www.winchester.com)** | **[Winchester HR Talent Acquisition Intern - 2026](https://jobright.ai/jobs/info/6981d9f3a314e76369053d30?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Mar 19 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69bbd91d5b89c002acf09eea?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Mar 19 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Work Force Management Internship](https://jobright.ai/jobs/info/69bbd40545e08b3dc1f78144?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | Mar 19 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/69a3e8a6359fe034b1ced4c9?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 19 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship - Dallas - Summer 2026](https://jobright.ai/jobs/info/6988005a0f6f7e7a2ce334fb?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Mar 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Mar 18 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69bb0fc95697383741410202?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 18 |
 | **[New Brunswick Counseling & Burlington Counseling Center](http://www.nbcounselingcenter.org/)** | **[Case Management Intern (RSSI)](https://jobright.ai/jobs/info/69bb077a3b74eb1e2c89599f?utm_campaign=1054&utm_source=git)** | Mount Holly, New Jersey, United States | On Site | Mar 18 |
-| **[i2G Systems](https://www.i2gsystems.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb0739569738374140e091?utm_campaign=1054&utm_source=git)** | Plymouth, MI, US | Hybrid | Mar 18 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb0738569738374140e08d?utm_campaign=1054&utm_source=git)** | US-MI-Plymouth | Hybrid | Mar 18 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb079406c1ba00c54d6395?utm_campaign=1054&utm_source=git)** | Sterling, VA, US | Hybrid | Mar 18 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb079406c1ba00c54d6394?utm_campaign=1054&utm_source=git)** | US-VA-Sterling | Hybrid | Mar 18 |
-| **[AVL ZalaZONE](https://avlzalazone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bb06fd06c1ba00c54d621a?utm_campaign=1054&utm_source=git)** | Plymouth, MI, US | Hybrid | Mar 18 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Account Onboarding Specialist Intern](https://jobright.ai/jobs/info/69bae891569738374140bf45?utm_campaign=1054&utm_source=git)** | Any city, TX, US, 99999 | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
