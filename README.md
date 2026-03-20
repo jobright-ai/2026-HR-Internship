@@ -57,6 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransX Group of Companies](http://transx.com/)** | **[Intern](https://jobright.ai/jobs/info/69bda6d5b10602456282954a?utm_campaign=1054&utm_source=git)** | Guelph, ON, CA | On Site | Mar 20 |
+| **[Marcon](https://marcon.ca)** | **[Corporate Intern, People & Culture](https://jobright.ai/jobs/info/69bda6d1b10602456282953f?utm_campaign=1054&utm_source=git)** | Langley Township, BC, CA | On Site | Mar 20 |
+| **[First Financial Bank](http://www.bankatfirst.com)** | **[Servicing Intern, OSF](https://jobright.ai/jobs/info/69bda577b1060245628293e9?utm_campaign=1054&utm_source=git)** | Keystone, IN | On Site | Mar 20 |
+| **[Spurwink](http://www.spurwink.org)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69bda576b1060245628293de?utm_campaign=1054&utm_source=git)** | Westbrook, ME | Hybrid | Mar 20 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Grad Intern - Employee Success Global Operations Intern](https://jobright.ai/jobs/info/69bda5484828227293ffddbf?utm_campaign=1054&utm_source=git)** | Indiana - Indianapolis | On Site | Mar 20 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Intern Year-Round - Atlanta](https://jobright.ai/jobs/info/69bda5274828227293ffdcf5?utm_campaign=1054&utm_source=git)** | Atlanta Metro | On Site | Mar 20 |
+| **[Maximus](http://www.maximus.com/)** | **[HR Coordinator 2 On-site in Jeffersonville, IN](https://jobright.ai/jobs/info/69bd9f44b106024562828d94?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Mar 20 |
+| **[SECU Credit Union](https://www.secumd.org/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/69bd9f38b106024562828d72?utm_campaign=1054&utm_source=git)** | Linthicum, MD | On Site | Mar 20 |
+| **[Rakuten International](http://rakuten.us)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121e96b458d060735da62?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 20 |
+| **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[HR Intern](https://jobright.ai/jobs/info/69a0cf5b81476f6176bb19be?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Mar 20 |
+| **[Rakuten International](http://rakuten.us)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121125218a81676725a0b?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Mar 20 |
+| **[GAF](http://www.gaf.com/)** | **[HRS Intern](https://jobright.ai/jobs/info/69a3158e359fe034b1ce5fae?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Mar 20 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bd9172b1060245628283df?utm_campaign=1054&utm_source=git)** | 10706 Beaver Dam Road, Cockeysville, MD, 21030, US | On Site | Mar 20 |
+| **[Armada](https://www.armada.ai)** | **[G&A Intern](https://jobright.ai/jobs/info/69bd9131393a1008f742f027?utm_campaign=1054&utm_source=git)** | United States (Remote) | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
+| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bd90d64828227293ffce12?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bd90d54828227293ffce0d?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828182?utm_campaign=1054&utm_source=git)** | Texas, USA (Remote) | Remote | Mar 20 |
+| ↳ | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828185?utm_campaign=1054&utm_source=git)** | United States (Remote) | Remote | Mar 20 |
 | **[Family & Children's Center](https://www.fcconline.org/)** | **[Day Treatment - Internship](https://jobright.ai/jobs/info/69bd89f2b106024562827a18?utm_campaign=1054&utm_source=git)** | FSB Winona - Winona, MN 55987 | On Site | Mar 20 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Global Compensation](https://jobright.ai/jobs/info/6983b9d90f6f7e7a2cdd5608?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Mar 20 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Organizational Support Internship](https://jobright.ai/jobs/info/69bd860fb1060245628270e4?utm_campaign=1054&utm_source=git)** | West Lebanon, NH | On Site | Mar 20 |
@@ -138,23 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SoFi](https://www.sofi.com)** | **[Intern, Talent Operations](https://jobright.ai/jobs/info/69bca57845e08b3dc1f96b48?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Extended Case Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c0aad04c69566c73fe6d?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Mar 19 |
 | ↳ | **[Refugee Economic Empowerment Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c04865de58104c70bcef?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Mar 19 |
-| ↳ | **[Employment & Skill-Building Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c08365de58104c70bd71?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Mar 19 |
-| **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd2041b106024562820ff2?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 19 |
-| **[Leslie's](https://lesliespool.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc97405b89c002acf25be5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 19 |
-| **[Gildan](https://gildancorp.com)** | **[Intern, Global Organizational Development](https://jobright.ai/jobs/info/69bcb66de6a0d9792584b628?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Mar 19 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Compensation Systems Intelligence Intern](https://jobright.ai/jobs/info/69bc8a4645e08b3dc1f94637?utm_campaign=1054&utm_source=git)** | Bellevue, Washington | On Site | Mar 19 |
-| **[North Atlantic Industries](http://naii.com)** | **[Intern-HR Administrator](https://jobright.ai/jobs/info/69bc87715b89c002acf244c0?utm_campaign=1054&utm_source=git)** | Bohemia, NY | On Site | Mar 19 |
-| ↳ | **[Intern-HR Administrator](https://jobright.ai/jobs/info/69bc85575b89c002acf242e8?utm_campaign=1054&utm_source=git)** | Bohemia,NY,US | On Site | Mar 19 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment -- CHSS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/69bce4864828227293fef538?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Mar 19 |
-| **[Astera Labs](https://www.asteralabs.com)** | **[Talent Acquisition Intern (2026)](https://jobright.ai/jobs/info/69bc81fb5b89c002acf2407f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/69bc7d6145e08b3dc1f93ba7?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Mar 19 |
-| **[Egan Company](https://www.eganco.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69bc79875b89c002acf239bd?utm_campaign=1054&utm_source=git)** | Champlin, MN | On Site | Mar 19 |
-| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Intern – HRIT](https://jobright.ai/jobs/info/69bc774b45e08b3dc1f936a4?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Mar 19 |
-| **[Quva](http://www.quvapharma.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc767e45e08b3dc1f935c2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Mar 19 |
-| **[United Way Miami](http://www.unitedwaymiami.org)** | **[Human Resources Intern - College Credit Only](https://jobright.ai/jobs/info/69bd488c393a1008f742a740?utm_campaign=1054&utm_source=git)** | Miami,FL,US | On Site | Mar 19 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Data and Compensation Internship - Summer 2026 - Toronto](https://jobright.ai/jobs/info/69bc75b645e08b3dc1f934f6?utm_campaign=1054&utm_source=git)** | 130 King Street West, Toronto, TORONTO, M5X 1E3, CA | Hybrid | Mar 19 |
-| **[Aquarian Holdings](http://www.aquarianlp.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc755d5b89c002acf23589?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 19 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Payroll Time & Labor Specialist, VP Finance](https://jobright.ai/jobs/info/69bc75505b89c002acf2355f?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 19 |
-| **[Wayne County Michigan](http://www.waynecounty.com)** | **[Student Intern 2 (Admin)](https://jobright.ai/jobs/info/69bc73e745e08b3dc1f930b7?utm_campaign=1054&utm_source=git)** | Detroit,MI,US | On Site | Mar 19 |
-| **[Maverik, Inc.](https://maverik.com/)** | **[HR Compliance Intern (ADA & Labor Compliance)](https://jobright.ai/jobs/info/69bc73e545e08b3dc1f930a2?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
