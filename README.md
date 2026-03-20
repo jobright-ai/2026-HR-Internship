@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, People, Performance and Culture](https://jobright.ai/jobs/info/6983cf61348f733a5c37347a?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Mar 20 |
+| **[SOCOTEC USA](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 20 |
+| **[County of Renfrew](https://www.countyofrenfrew.on.ca)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd647ab106024562824a0c?utm_campaign=1054&utm_source=git)** | Pembroke, ON | On Site | Mar 20 |
 | **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Vocational Rehabilitation Caseload Assistant Intern](https://jobright.ai/jobs/info/69ba8b783b74eb1e2c8874f4?utm_campaign=1054&utm_source=git)** | Toledo, OH | On Site | Mar 20 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Employee Experience & Engagement Intern](https://jobright.ai/jobs/info/69a9b2782ebd316bece1415a?utm_campaign=1054&utm_source=git)** | Des Plaines, IL | On Site | Mar 20 |
 | **[Bayshore HealthCare](http://www.bayshore.ca)** | **[Administrator, HR Internship](https://jobright.ai/jobs/info/69bd6033393a1008f742ba63?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Mar 20 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Mar 20 |
 | **[Pitcairn](https://www.pitcairn.com)** | **[Talent & Culture Intern](https://jobright.ai/jobs/info/69bd4ed9b106024562823c09?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | Hybrid | Mar 20 |
 | **[JAM Industries](https://jamindustries.com/)** | **[Talent Acquisition & DEI - Intern](https://jobright.ai/jobs/info/69a1160d81476f6176bb6bea?utm_campaign=1054&utm_source=git)** | Baie-d’Urfé, QC | On Site | Mar 20 |
+| **[Guardian Jobs](https://jobs.theguardian.com/)** | **[HR Manager](https://jobright.ai/jobs/info/69bd648e393a1008f742bc52?utm_campaign=1054&utm_source=git)** | Halifax, NS | Hybrid | Mar 20 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0a8030836fe79d861a9d7?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 20 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983b173348f733a5c36e838?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Mar 20 |
 | ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/698e0c3b0f6f7e7a2cea1a2f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intrinsic Development](https://www.id.com)** | **[Talent Acquisition & Recruiting Intern](https://jobright.ai/jobs/info/69bc4fca4828227293fdf293?utm_campaign=1054&utm_source=git)** | Summit, MO | On Site | Mar 19 |
 | **[CN](http://www.cn.ca)** | **[Intern, Early Careers Analyst- EN](https://jobright.ai/jobs/info/69b0db90dfaeda6ff59b9092?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Mar 19 |
 | **[Edible Brands](http://ediblebrands.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69bc6c3f5b89c002acf21e4d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
-| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Human Resources Safety Intern Summer 2026](https://jobright.ai/jobs/info/6966b0e3a112b4026614a5d6?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Mar 19 |
-| **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Actuarial Analyst, Health & Benefits](https://jobright.ai/jobs/info/69bc696e5b89c002acf20eb6?utm_campaign=1054&utm_source=git)** | Vancouver, BC | Hybrid | Mar 19 |
-| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 Talent Intern](https://jobright.ai/jobs/info/69bc495b4828227293fdea7e?utm_campaign=1054&utm_source=git)** | Hybrid in Washington, DC. | Hybrid | Mar 19 |
-| **[McKinstry](http://www.mckinstry.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/694344da50bbaf76505529a2?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
