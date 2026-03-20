@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Mar 20 |
+| **[E.S. FOX LIMITED](https://esfox.com/)** | **[Human Resources Co-op Student](https://jobright.ai/jobs/info/69a0c99c5218a8167671f4dd?utm_campaign=1054&utm_source=git)** | Niagara Falls, ON | On Site | Mar 20 |
+| **[Magna International](http://www.magna.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bd31c0393a1008f742903f?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Mar 20 |
+| **[Tenneco](https://www.tenneco.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69a0b3d70836fe79d861b3a8?utm_campaign=1054&utm_source=git)** | Northville, MI | On Site | Mar 20 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Eugene, OR](https://jobright.ai/jobs/info/69bd2b4c393a1008f7428e54?utm_campaign=1054&utm_source=git)** | Springfield, OR | On Site | Mar 20 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0d98c5218a816767207c7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Knickerbocker](https://www.knickerbocker.nyc)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69bd1d6945e08b3dc1fa395c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69a89eeb79f3f4037f42bb82?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | Mar 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern, Dearborn](https://jobright.ai/jobs/info/69832c1b01214b4cdacadf75?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Mar 19 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/698c281fe4f6572f0e443cc5?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Mar 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/698242fb0f6f7e7a2cdb6c2a?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Mar 19 |
-| ↳ | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/6933c078764507023d1b8f6d?utm_campaign=1054&utm_source=git)** | Gatineau, QC | On Site | Mar 19 |
-| **[Stoneridge](http://www.stoneridge.com)** | **[Global Total Rewards Intern (Compensation & Benefits)](https://jobright.ai/jobs/info/69bc4e8f5b89c002acf1c59e?utm_campaign=1054&utm_source=git)** | Detroit Metro | Hybrid | Mar 19 |
-| **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - HR Reporting & Analytics](https://jobright.ai/jobs/info/69ab3c07142d5b4265fc84bc?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
-| **[Magna International](http://www.magna.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bc1ac545e08b3dc1f81af6?utm_campaign=1054&utm_source=git)** | Auburn Hills, Michigan, US | On Site | Mar 19 |
-| **[The Hills](https://www.linkedin.com/company/105052505)** | **[Human Resources Seasonal Intern (April to September)](https://jobright.ai/jobs/info/698abf524db8972cec003447?utm_campaign=1054&utm_source=git)** | East Quogue, NY | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
