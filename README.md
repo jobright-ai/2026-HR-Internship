@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/6983bd7c348f733a5c3708ad?utm_campaign=1054&utm_source=git)** | Kodiak, AK | On Site | Mar 20 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Mar 20 |
+| **[Pitcairn](https://www.pitcairn.com)** | **[Talent & Culture Intern](https://jobright.ai/jobs/info/69bd4ed9b106024562823c09?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | Hybrid | Mar 20 |
+| **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0a8030836fe79d861a9d7?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 20 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983b173348f733a5c36e838?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Mar 20 |
+| ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/698e0c3b0f6f7e7a2cea1a2f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69bd3dcf4828227293ff7861?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 20 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Mar 20 |
 | **[E.S. FOX LIMITED](https://esfox.com/)** | **[Human Resources Co-op Student](https://jobright.ai/jobs/info/69a0c99c5218a8167671f4dd?utm_campaign=1054&utm_source=git)** | Niagara Falls, ON | On Site | Mar 20 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bd31c0393a1008f742903f?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Mar 20 |
@@ -95,7 +102,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Refugee Economic Empowerment Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c04865de58104c70bcef?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Mar 19 |
 | ↳ | **[Employment & Skill-Building Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c08365de58104c70bd71?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Mar 19 |
 | **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd2041b106024562820ff2?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 19 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69bd1ccf45e08b3dc1fa375b?utm_campaign=1054&utm_source=git)** | Bowling Green, OH | On Site | Mar 19 |
 | **[Leslie's](https://lesliespool.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc97405b89c002acf25be5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 19 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Global Organizational Development](https://jobright.ai/jobs/info/69bcb66de6a0d9792584b628?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Mar 19 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Compensation Systems Intelligence Intern](https://jobright.ai/jobs/info/69bc8a4645e08b3dc1f94637?utm_campaign=1054&utm_source=git)** | Bellevue, Washington | On Site | Mar 19 |
@@ -107,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Egan Company](https://www.eganco.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69bc79875b89c002acf239bd?utm_campaign=1054&utm_source=git)** | Champlin, MN | On Site | Mar 19 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Intern – HRIT](https://jobright.ai/jobs/info/69bc774b45e08b3dc1f936a4?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Mar 19 |
 | **[Quva](http://www.quvapharma.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc767e45e08b3dc1f935c2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Mar 19 |
+| **[United Way Miami](http://www.unitedwaymiami.org)** | **[Human Resources Intern - College Credit Only](https://jobright.ai/jobs/info/69bd488c393a1008f742a740?utm_campaign=1054&utm_source=git)** | Miami,FL,US | On Site | Mar 19 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Data and Compensation Internship - Summer 2026 - Toronto](https://jobright.ai/jobs/info/69bc75b645e08b3dc1f934f6?utm_campaign=1054&utm_source=git)** | 130 King Street West, Toronto, TORONTO, M5X 1E3, CA | Hybrid | Mar 19 |
 | **[Aquarian Holdings](http://www.aquarianlp.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc755d5b89c002acf23589?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Payroll Time & Labor Specialist, VP Finance](https://jobright.ai/jobs/info/69bc75505b89c002acf2355f?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 19 |
@@ -136,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Early Careers Analyst- EN](https://jobright.ai/jobs/info/69b0db90dfaeda6ff59b9092?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Mar 19 |
 | **[Edible Brands](http://ediblebrands.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69bc6c3f5b89c002acf21e4d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Human Resources Safety Intern Summer 2026](https://jobright.ai/jobs/info/6966b0e3a112b4026614a5d6?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Mar 19 |
-| **[Egan Company](https://www.eganco.com/)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/69bc594d45e08b3dc1f8e3b8?utm_campaign=1054&utm_source=git)** | Champlin, MN | On Site | Mar 19 |
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Actuarial Analyst, Health & Benefits](https://jobright.ai/jobs/info/69bc696e5b89c002acf20eb6?utm_campaign=1054&utm_source=git)** | Vancouver, BC | Hybrid | Mar 19 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 Talent Intern](https://jobright.ai/jobs/info/69bc495b4828227293fdea7e?utm_campaign=1054&utm_source=git)** | Hybrid in Washington, DC. | Hybrid | Mar 19 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/694344da50bbaf76505529a2?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OTG Management](http://www.otgexp.com/)** | **[IAH Talent Acquisition Intern](https://jobright.ai/jobs/info/699f882cce78e77b4fe55475?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Mar 19 |
 | **[Mirakl](http://www.mirakl.com)** | **[Talent Acquisition Co-Op](https://jobright.ai/jobs/info/69bc37f35b89c002acf18c4b?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 19 |
 | **[Dilico Anishinabek Family Care](https://www.dilico.com)** | **[Indigenous HR Intern](https://jobright.ai/jobs/info/69bc37e84828227293fdc01c?utm_campaign=1054&utm_source=git)** | Thunder Bay, ON, CA | On Site | Mar 19 |
-| **[Ascentek](www.ascentek.com)** | **[People and Culture Intern (HR Intern)](https://jobright.ai/jobs/info/69bc37024828227293fdbca2?utm_campaign=1054&utm_source=git)** | Golden Valley, Minnesota, United States | Hybrid | Mar 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Chambersburg](https://jobright.ai/jobs/info/694b7ab05d731211347005ea?utm_campaign=1054&utm_source=git)** | Chambersburg, PA | On Site | Mar 19 |
-| **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/69bc2d4545e08b3dc1f87205?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Mar 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern, Dearborn](https://jobright.ai/jobs/info/69832c1b01214b4cdacadf75?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Mar 19 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/698c281fe4f6572f0e443cc5?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Mar 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/698242fb0f6f7e7a2cdb6c2a?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
