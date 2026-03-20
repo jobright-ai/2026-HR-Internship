@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/69bccd9ce6a0d9792584e750?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Mar 19 |
+| ↳ | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/69bccd4e45e08b3dc1f9a883?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 19 |
+| **[Hyland](https://www.hyland.com/)** | **[Intern, HR Operations](https://jobright.ai/jobs/info/69bcc51145e08b3dc1f99027?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 19 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Data and Compensation Internship - Summer 2026 - Toronto](https://jobright.ai/jobs/info/69bcb7bd4828227293fe9a21?utm_campaign=1054&utm_source=git)** | Toronto, ON | Hybrid | Mar 19 |
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Actuarial Analyst, Health & Benefits](https://jobright.ai/jobs/info/69bcb7334828227293fe9980?utm_campaign=1054&utm_source=git)** | Vancouver, BC | Hybrid | Mar 19 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Smith Haven Plaza Rack](https://jobright.ai/jobs/info/69bcb2634828227293fe97b8?utm_campaign=1054&utm_source=git)** | Lake Grove, NY | On Site | Mar 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (Spring 2026) - NYC](https://jobright.ai/jobs/info/69a5533b359fe034b1cfe1e2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[Vista Capital Partners](http://vistacp.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/698421670f6f7e7a2cde513f?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Mar 19 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fe75cce78e77b4fe5db16?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Mar 19 |
-| **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2026 Intern - Shared Services](https://jobright.ai/jobs/info/69bbf8955b89c002acf0ddca?utm_campaign=1054&utm_source=git)** | Plano, Texas, United States | Remote | Mar 19 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Human Resources (Business Support)](https://jobright.ai/jobs/info/699f6cb9ce78e77b4fe53041?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Mar 19 |
-| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
