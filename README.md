@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Compensation Systems Intelligence Intern](https://jobright.ai/jobs/info/69bd0b994828227293ff4391?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Mar 20 |
+| **[Anchor Home](http://www.anchorhomeinc.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/69bd0b2d45e08b3dc1fa1ee0?utm_campaign=1054&utm_source=git)** | Mays Chapel, MD | On Site | Mar 20 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Hiring Day – Thursday March 26, 11am-5pm – Ross Park](https://jobright.ai/jobs/info/69bd055845e08b3dc1fa102b?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Walk-in Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c0f4548f140066e784f8?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Mar 20 |
 | **[FMC Corporation](http://www.fmc.com)** | **[HR Intern](https://jobright.ai/jobs/info/69bce8fe45e08b3dc1f9dd85?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 19 |
 | **[Dollarama](https://www.dollarama.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69bcdbb345e08b3dc1f9becb?utm_campaign=1054&utm_source=git)** | Mont-Royal, QC | On Site | Mar 19 |
@@ -67,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Hyland](https://www.hyland.com/)** | **[Intern, HR Operations](https://jobright.ai/jobs/info/69bcc51145e08b3dc1f99027?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 19 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Data and Compensation Internship - Summer 2026 - Toronto](https://jobright.ai/jobs/info/69bcb7bd4828227293fe9a21?utm_campaign=1054&utm_source=git)** | Toronto, ON | Hybrid | Mar 19 |
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Actuarial Analyst, Health & Benefits](https://jobright.ai/jobs/info/69bcb7334828227293fe9980?utm_campaign=1054&utm_source=git)** | Vancouver, BC | Hybrid | Mar 19 |
+| **[Crane Currency](http://www.cranecurrency.com/)** | **[HR Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd0bbf4828227293ff43ad?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Mar 19 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Smith Haven Plaza Rack](https://jobright.ai/jobs/info/69bcb2634828227293fe97b8?utm_campaign=1054&utm_source=git)** | Lake Grove, NY | On Site | Mar 19 |
 | ↳ | **[Nordstrom Rack Hiring Day – Thursday, March 26th, 11am- 5pm – Shelbyville Plaza Rack](https://jobright.ai/jobs/info/69bcb2604828227293fe97a5?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Mar 19 |
 | ↳ | **[Nordstrom Rack Hiring Day – Thursday, March 26th, 11am- 5pm – Macedonia Gateway Rack](https://jobright.ai/jobs/info/69bcb2544828227293fe979a?utm_campaign=1054&utm_source=git)** | Macedonia, OH | On Site | Mar 19 |
@@ -144,7 +148,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/6933c078764507023d1b8f6d?utm_campaign=1054&utm_source=git)** | Gatineau, QC | On Site | Mar 19 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Global Total Rewards Intern (Compensation & Benefits)](https://jobright.ai/jobs/info/69bc4e8f5b89c002acf1c59e?utm_campaign=1054&utm_source=git)** | Detroit Metro | Hybrid | Mar 19 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - HR Reporting & Analytics](https://jobright.ai/jobs/info/69ab3c07142d5b4265fc84bc?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/691719a0370fde633d07d4cf?utm_campaign=1054&utm_source=git)** | Greater Sudbury, ON | On Site | Mar 19 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bc1ac545e08b3dc1f81af6?utm_campaign=1054&utm_source=git)** | Auburn Hills, Michigan, US | On Site | Mar 19 |
 | **[The Hills](https://www.linkedin.com/company/105052505)** | **[Human Resources Seasonal Intern (April to September)](https://jobright.ai/jobs/info/698abf524db8972cec003447?utm_campaign=1054&utm_source=git)** | East Quogue, NY | On Site | Mar 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6982de48348f733a5c35ffdc?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | Mar 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SOCOTEC](http://www.socotec.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc037e4828227293fd1af5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Empower](https://www.empower.com)** | **[Retirement Plan Advisor](https://jobright.ai/jobs/info/69bc03765b89c002acf0ecfd?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | Hybrid | Mar 19 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69691bae1703f05405aaee4a?utm_campaign=1054&utm_source=git)** | South Dakota, United States | Remote | Mar 19 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6983c0ec0f6f7e7a2cdd6999?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Mar 19 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698396b501214b4cdacb4e21?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Port St Lucie](https://jobright.ai/jobs/info/6982d8fe8232105a2d0b56e8?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
