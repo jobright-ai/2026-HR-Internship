@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leslie's](https://lesliespool.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc97405b89c002acf25be5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 19 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Compensation Systems Intelligence Intern](https://jobright.ai/jobs/info/69bc8a4645e08b3dc1f94637?utm_campaign=1054&utm_source=git)** | Bellevue, Washington | On Site | Mar 19 |
 | **[North Atlantic Industries](http://naii.com)** | **[Intern-HR Administrator](https://jobright.ai/jobs/info/69bc87715b89c002acf244c0?utm_campaign=1054&utm_source=git)** | Bohemia, NY | On Site | Mar 19 |
 | ↳ | **[Intern-HR Administrator](https://jobright.ai/jobs/info/69bc85575b89c002acf242e8?utm_campaign=1054&utm_source=git)** | Bohemia,NY,US | On Site | Mar 19 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Talent Acquisition Intern (2026)](https://jobright.ai/jobs/info/69bc81fb5b89c002acf2407f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
@@ -81,6 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Double Good](https://www.doublegood.com/)** | **[People & Culture Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc62af45e08b3dc1f9007e?utm_campaign=1054&utm_source=git)** | Elmhurst | On Site | Mar 19 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - HR Generalist](https://jobright.ai/jobs/info/69bc60d745e08b3dc1f8fcd5?utm_campaign=1054&utm_source=git)** | Metairie, LA | On Site | Mar 19 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Payroll Technician (Payroll Technician II), Human Resources Division](https://jobright.ai/jobs/info/69bc606545e08b3dc1f8fb54?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Mar 19 |
+| **[AutoNation](http://autonation.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69bc8fe95b89c002acf255cd?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 19 |
+| **[Monte Christo Communities](https://www.montechristocommunities.com)** | **[Human Resources Summer Intern (Part-Time)](https://jobright.ai/jobs/info/69bc8cdd5b89c002acf24ea8?utm_campaign=1054&utm_source=git)** | Carmichael, CA | On Site | Mar 19 |
 | **[Resultant](https://resultant.com/)** | **[Human Resources Intern (Hybrid in Indianapolis IN, Summer 2026)](https://jobright.ai/jobs/info/69bc5ae25b89c002acf1ed6a?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, USA | Hybrid | Mar 19 |
 | **[Monte Christo Communities](https://www.montechristocommunities.com)** | **[Human Resources Summer Intern (Part-Time)](https://jobright.ai/jobs/info/69bc5a2645e08b3dc1f8e6f8?utm_campaign=1054&utm_source=git)** | Carmichael,CA,US | On Site | Mar 19 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Labor Relations](https://jobright.ai/jobs/info/69bc5a0c4828227293fe143b?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 19 |
@@ -121,8 +125,10 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6982de48348f733a5c35ffdc?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | Mar 19 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics and Systems](https://jobright.ai/jobs/info/69bc0ee45b89c002acf10780?utm_campaign=1054&utm_source=git)** | Columbia, MO | Hybrid | Mar 19 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/69bc07c35b89c002acf0f203?utm_campaign=1054&utm_source=git)** | Westin Cleveland - Cleveland, OH | On Site | Mar 19 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Industrial Services - Summer 2026 Internship](https://jobright.ai/jobs/info/6982519a0f6f7e7a2cdb781f?utm_campaign=1054&utm_source=git)** | Deer Park, TX | On Site | Mar 19 |
 | **[SOCOTEC](http://www.socotec.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc037e4828227293fd1af5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Empower](https://www.empower.com)** | **[Retirement Plan Advisor](https://jobright.ai/jobs/info/69bc03765b89c002acf0ecfd?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | Hybrid | Mar 19 |
+| **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69691bae1703f05405aaee4a?utm_campaign=1054&utm_source=git)** | South Dakota, United States | Remote | Mar 19 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6983c0ec0f6f7e7a2cdd6999?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Mar 19 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698396b501214b4cdacb4e21?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Port St Lucie](https://jobright.ai/jobs/info/6982d8fe8232105a2d0b56e8?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Mar 19 |
@@ -139,22 +145,16 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Human Resources (Business Support)](https://jobright.ai/jobs/info/699f6cb9ce78e77b4fe53041?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Mar 19 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 19 |
 | **[American Red Cross](http://redcross.org)** | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbf0d75b89c002acf0d365?utm_campaign=1054&utm_source=git)** | Vermont, United States | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbf0d75b89c002acf0d363?utm_campaign=1054&utm_source=git)** | Alabama, United States | Remote | Mar 19 |
 | ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbf0d15b89c002acf0d354?utm_campaign=1054&utm_source=git)** | West Virginia, United States | Remote | Mar 19 |
 | ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbf0d15b89c002acf0d353?utm_campaign=1054&utm_source=git)** | Albany, NY | Remote | Mar 19 |
 | ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee9145e08b3dc1f7c0e1?utm_campaign=1054&utm_source=git)** | Duluth, MN | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee9145e08b3dc1f7c0e2?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Mar 19 |
 | ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee9145e08b3dc1f7c0d9?utm_campaign=1054&utm_source=git)** | North Dakota, United States | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0ad?utm_campaign=1054&utm_source=git)** | Alaska, United States | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0b8?utm_campaign=1054&utm_source=git)** | Oregon, United States | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0a5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0af?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0a9?utm_campaign=1054&utm_source=git)** | Providence County, RI | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0b4?utm_campaign=1054&utm_source=git)** | Maryland, United States | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0b3?utm_campaign=1054&utm_source=git)** | Washington, United States | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0b0?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0b6?utm_campaign=1054&utm_source=git)** | Maine, United States | Remote | Mar 19 |
+| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee9145e08b3dc1f7c0e2?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Mar 19 |
 | ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0a6?utm_campaign=1054&utm_source=git)** | New Mexico, United States | Remote | Mar 19 |
-| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0b5?utm_campaign=1054&utm_source=git)** | Ohio, United States | Remote | Mar 19 |
+| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0af?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Mar 19 |
+| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0ad?utm_campaign=1054&utm_source=git)** | Alaska, United States | Remote | Mar 19 |
+| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0a5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 19 |
 | ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0a7?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | Remote | Mar 19 |
+| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0b0?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Mar 19 |
+| ↳ | **[Training Operations Intern Healthcare](https://jobright.ai/jobs/info/69bbee8945e08b3dc1f7c0b5?utm_campaign=1054&utm_source=git)** | Ohio, United States | Remote | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
