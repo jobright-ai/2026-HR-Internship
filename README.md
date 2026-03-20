@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Walk-in Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c0f4548f140066e784f8?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Mar 20 |
+| **[FMC Corporation](http://www.fmc.com)** | **[HR Intern](https://jobright.ai/jobs/info/69bce8fe45e08b3dc1f9dd85?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 19 |
 | **[Dollarama](https://www.dollarama.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69bcdbb345e08b3dc1f9becb?utm_campaign=1054&utm_source=git)** | Mont-Royal, QC | On Site | Mar 19 |
 | **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 19 |
 | **[Arconic](https://www.arconic.com)** | **[HR Intern](https://jobright.ai/jobs/info/69bcd27445e08b3dc1f9ae94?utm_campaign=1054&utm_source=git)** | Visalia, CA | On Site | Mar 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6983c0ec0f6f7e7a2cdd6999?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Mar 19 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698396b501214b4cdacb4e21?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Port St Lucie](https://jobright.ai/jobs/info/6982d8fe8232105a2d0b56e8?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Mar 19 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/69bbff965b89c002acf0eb94?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
