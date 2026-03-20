@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dollarama](https://www.dollarama.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69bcdbb345e08b3dc1f9becb?utm_campaign=1054&utm_source=git)** | Mont-Royal, QC | On Site | Mar 19 |
+| **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 19 |
+| **[Arconic](https://www.arconic.com)** | **[HR Intern](https://jobright.ai/jobs/info/69bcd27445e08b3dc1f9ae94?utm_campaign=1054&utm_source=git)** | Visalia, CA | On Site | Mar 19 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/69bccd9ce6a0d9792584e750?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Mar 19 |
 | ↳ | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/69bccd4e45e08b3dc1f9a883?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Hyland](https://www.hyland.com/)** | **[Intern, HR Operations](https://jobright.ai/jobs/info/69bcc51145e08b3dc1f99027?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 19 |
@@ -67,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nordstrom Rack Hiring Day – Thursday, March 26th, 11am- 5pm – Macedonia Gateway Rack](https://jobright.ai/jobs/info/69bcb2544828227293fe979a?utm_campaign=1054&utm_source=git)** | Macedonia, OH | On Site | Mar 19 |
 | ↳ | **[Nordstrom Rack Hiring Day – Thursday, March 26th, 11am- 5pm – Brentwood Square Rack](https://jobright.ai/jobs/info/69bcb177e6a0d9792584b4a0?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Mar 19 |
 | **[Double Good](https://www.doublegood.com/)** | **[People & Culture Intern (Summer 2026)](https://jobright.ai/jobs/info/69bcafdd45e08b3dc1f972d4?utm_campaign=1054&utm_source=git)** | Elmhurst, IL | On Site | Mar 19 |
+| **[Spekit 🐙](https://www.spekit.com)** | **[Recruiting Internship](https://jobright.ai/jobs/info/69bcd27545e08b3dc1f9ae9a?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Mar 19 |
 | **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[HR Intern](https://jobright.ai/jobs/info/69bca7fc45e08b3dc1f96d5c?utm_campaign=1054&utm_source=git)** | San Diego | Hybrid | Mar 19 |
 | **[Howden](http://www.howdengroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/69bca7fb45e08b3dc1f96d5a?utm_campaign=1054&utm_source=git)** | San Diego | Hybrid | Mar 19 |
 | **[Crane Company](http://www.craneco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bca78ee6a0d9792584abc6?utm_campaign=1054&utm_source=git)** | Piqua, OH | On Site | Mar 19 |
@@ -79,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Compensation Systems Intelligence Intern](https://jobright.ai/jobs/info/69bc8a4645e08b3dc1f94637?utm_campaign=1054&utm_source=git)** | Bellevue, Washington | On Site | Mar 19 |
 | **[North Atlantic Industries](http://naii.com)** | **[Intern-HR Administrator](https://jobright.ai/jobs/info/69bc87715b89c002acf244c0?utm_campaign=1054&utm_source=git)** | Bohemia, NY | On Site | Mar 19 |
 | ↳ | **[Intern-HR Administrator](https://jobright.ai/jobs/info/69bc85575b89c002acf242e8?utm_campaign=1054&utm_source=git)** | Bohemia,NY,US | On Site | Mar 19 |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment -- CHSS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/69bce4864828227293fef538?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Mar 19 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Talent Acquisition Intern (2026)](https://jobright.ai/jobs/info/69bc81fb5b89c002acf2407f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/69bc7d6145e08b3dc1f93ba7?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Mar 19 |
 | **[Egan Company](https://www.eganco.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69bc79875b89c002acf239bd?utm_campaign=1054&utm_source=git)** | Champlin, MN | On Site | Mar 19 |
@@ -113,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Early Careers Analyst- EN](https://jobright.ai/jobs/info/69b0db90dfaeda6ff59b9092?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Mar 19 |
 | **[Edible Brands](http://ediblebrands.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69bc6c3f5b89c002acf21e4d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Human Resources Safety Intern Summer 2026](https://jobright.ai/jobs/info/6966b0e3a112b4026614a5d6?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Mar 19 |
+| **[Egan Company](https://www.eganco.com/)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/69bc594d45e08b3dc1f8e3b8?utm_campaign=1054&utm_source=git)** | Champlin, MN | On Site | Mar 19 |
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Actuarial Analyst, Health & Benefits](https://jobright.ai/jobs/info/69bc696e5b89c002acf20eb6?utm_campaign=1054&utm_source=git)** | Vancouver, BC | Hybrid | Mar 19 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 Talent Intern](https://jobright.ai/jobs/info/69bc495b4828227293fdea7e?utm_campaign=1054&utm_source=git)** | Hybrid in Washington, DC. | Hybrid | Mar 19 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/694344da50bbaf76505529a2?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
@@ -136,6 +142,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/6933c078764507023d1b8f6d?utm_campaign=1054&utm_source=git)** | Gatineau, QC | On Site | Mar 19 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Global Total Rewards Intern (Compensation & Benefits)](https://jobright.ai/jobs/info/69bc4e8f5b89c002acf1c59e?utm_campaign=1054&utm_source=git)** | Detroit Metro | Hybrid | Mar 19 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - HR Reporting & Analytics](https://jobright.ai/jobs/info/69ab3c07142d5b4265fc84bc?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/691719a0370fde633d07d4cf?utm_campaign=1054&utm_source=git)** | Greater Sudbury, ON | On Site | Mar 19 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bc1ac545e08b3dc1f81af6?utm_campaign=1054&utm_source=git)** | Auburn Hills, Michigan, US | On Site | Mar 19 |
 | **[The Hills](https://www.linkedin.com/company/105052505)** | **[Human Resources Seasonal Intern (April to September)](https://jobright.ai/jobs/info/698abf524db8972cec003447?utm_campaign=1054&utm_source=git)** | East Quogue, NY | On Site | Mar 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6982de48348f733a5c35ffdc?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | Mar 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Port St Lucie](https://jobright.ai/jobs/info/6982d8fe8232105a2d0b56e8?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Mar 19 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/69bbff965b89c002acf0eb94?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 19 |
-| ↳ | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1a6348f733a5c36e8df?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Mar 19 |
-| ↳ | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983b7cf0f6f7e7a2cdd501f?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Mar 19 |
-| **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2026 Intern - Shared Services](https://jobright.ai/jobs/info/69bbff245b89c002acf0ea8a?utm_campaign=1054&utm_source=git)** | Plano, TX | Remote | Mar 19 |
-| **[Dal-Tile LLC](http://dal-tile.com)** | **[MFG HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/699fff1181476f6176b9f72f?utm_campaign=1054&utm_source=git)** | Sunnyvale, TX | On Site | Mar 19 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (Spring 2026) - NYC](https://jobright.ai/jobs/info/69a5533b359fe034b1cfe1e2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
-| **[Vista Capital Partners](http://vistacp.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/698421670f6f7e7a2cde513f?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Mar 19 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699fe75cce78e77b4fe5db16?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
