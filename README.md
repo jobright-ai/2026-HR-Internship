@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reservoir Media Management, Inc.](https://www.reservoir-media.com/)** | **[2026 Summer Internship: People & Operations](https://jobright.ai/jobs/info/69be0d33b106024562836f6e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 20 |
+| **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern (Human Resources Process Improvement)](https://jobright.ai/jobs/info/69be0c97482822729300c066?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Compensation Systems Intelligence Intern](https://jobright.ai/jobs/info/69be0aff393a1008f743e220?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Mar 20 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/69be0050b10602456283659d?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Mar 20 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69bdfaa1393a1008f743d5c3?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
 | **[OneLocal](https://www.onelocal.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69bdfa1e482822729300b17e?utm_campaign=1054&utm_source=git)** | REMOTE-Canada | Remote | Mar 20 |
@@ -75,10 +78,9 @@ For a complete list, click the following sortable link below:
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Charlotte, NC](https://jobright.ai/jobs/info/69bdc709b10602456282f466?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
-| **[University of Rhode Island](http://www.uri.edu/)** | **[Compensation Analyst](https://jobright.ai/jobs/info/69bdc3f84828227293002cca?utm_campaign=1054&utm_source=git)** | Kingston, RI | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
-| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bde34948282272930094d0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Emerging Futures CIC](https://www.emergingfutures.org.uk/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69bdbc5b393a1008f7433c50?utm_campaign=1054&utm_source=git)** | National, MD | Remote | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Group Benefits Intern](https://jobright.ai/jobs/info/69bdb9d4b10602456282c5b2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
@@ -107,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[KidSuccess School-Based Case Manager - Internship](https://jobright.ai/jobs/info/69bdbd1d393a1008f7433e86?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Mar 20 |
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[HR Intern](https://jobright.ai/jobs/info/69a0cf5b81476f6176bb19be?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Mar 20 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121125218a81676725a0b?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Mar 20 |
+| **[Institute for Women's Leadership Marquette University](https://www.marquette.edu/womens-leadership/)** | **[Employer Relations and Administrative Coordinator](https://jobright.ai/jobs/info/69be0a79482822729300be48?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Mar 20 |
 | **[GAF](http://www.gaf.com/)** | **[HRS Intern](https://jobright.ai/jobs/info/69a3158e359fe034b1ce5fae?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Mar 20 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bd9172b1060245628283df?utm_campaign=1054&utm_source=git)** | 10706 Beaver Dam Road, Cockeysville, MD, 21030, US | On Site | Mar 20 |
 | **[Armada](https://www.armada.ai)** | **[G&A Intern](https://jobright.ai/jobs/info/69bd9131393a1008f742f027?utm_campaign=1054&utm_source=git)** | United States (Remote) | Remote | Mar 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/6983bd7c348f733a5c3708ad?utm_campaign=1054&utm_source=git)** | Kodiak, AK | On Site | Mar 20 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Mar 20 |
 | **[Pitcairn](https://www.pitcairn.com)** | **[Talent & Culture Intern](https://jobright.ai/jobs/info/69bd4ed9b106024562823c09?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | Hybrid | Mar 20 |
-| **[JAM Industries](https://jamindustries.com/)** | **[Talent Acquisition & DEI - Intern](https://jobright.ai/jobs/info/69a1160d81476f6176bb6bea?utm_campaign=1054&utm_source=git)** | Baie-d’Urfé, QC | On Site | Mar 20 |
-| **[Guardian Jobs](https://jobs.theguardian.com/)** | **[HR Manager](https://jobright.ai/jobs/info/69bd648e393a1008f742bc52?utm_campaign=1054&utm_source=git)** | Halifax, NS | Hybrid | Mar 20 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983b173348f733a5c36e838?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
