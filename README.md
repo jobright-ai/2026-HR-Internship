@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69be38c5482822729300f77c?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Mar 20 |
 | **[Think Together](https://thinktogether.org/)** | **[Intern - California Schools Talent Collaborative](https://jobright.ai/jobs/info/69be3148482822729300ed1b?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 20 |
 | **[Super.com](https://www.super.com)** | **[People & Culture Intern (8 months)](https://jobright.ai/jobs/info/69be270a482822729300e316?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 20 |
 | **[Young & Franklin Tactair](http://tactair.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69be24ad393a1008f74405d3?utm_campaign=1054&utm_source=git)** | Liverpool, NY | On Site | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69bd83f0b106024562826b1b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Bayshore HealthCare](http://www.bayshore.ca)** | **[Administrator, HR Internship](https://jobright.ai/jobs/info/69bd6033393a1008f742ba63?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Mar 20 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f8976f36db06ef04a343?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Mar 20 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f80165ec6dbe7073fd0372?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
