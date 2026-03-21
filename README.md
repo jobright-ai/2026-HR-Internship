@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Charlotte, NC](https://jobright.ai/jobs/info/69bdc709b10602456282f466?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
-| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bde34948282272930094d0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Emerging Futures CIC](https://www.emergingfutures.org.uk/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69bdbc5b393a1008f7433c50?utm_campaign=1054&utm_source=git)** | National, MD | Remote | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Group Benefits Intern](https://jobright.ai/jobs/info/69bdb9d4b10602456282c5b2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
@@ -125,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
 | ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bd90d64828227293ffce12?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bd90d54828227293ffce0d?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828182?utm_campaign=1054&utm_source=git)** | Texas, USA (Remote) | Remote | Mar 20 |
-| ↳ | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828185?utm_campaign=1054&utm_source=git)** | United States (Remote) | Remote | Mar 20 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828185?utm_campaign=1054&utm_source=git)** | United States (Remote) | Remote | Mar 20 |
+| ↳ | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828182?utm_campaign=1054&utm_source=git)** | Texas, USA (Remote) | Remote | Mar 20 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Talent Acquisition](https://jobright.ai/jobs/info/69bdab7b4828227293ffeb58?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 20 |
 | **[Family & Children's Center](https://www.fcconline.org/)** | **[Day Treatment - Internship](https://jobright.ai/jobs/info/69bd89f2b106024562827a18?utm_campaign=1054&utm_source=git)** | FSB Winona - Winona, MN 55987 | On Site | Mar 20 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Global Compensation](https://jobright.ai/jobs/info/6983b9d90f6f7e7a2cdd5608?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Mar 20 |
