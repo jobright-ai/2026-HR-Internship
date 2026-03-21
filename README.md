@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/69be0050b10602456283659d?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Mar 20 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69bdfaa1393a1008f743d5c3?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
+| **[OneLocal](https://www.onelocal.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69bdfa1e482822729300b17e?utm_campaign=1054&utm_source=git)** | REMOTE-Canada | Remote | Mar 20 |
+| **[DECIEM | THE ABNORMAL BEAUTY COMPANY](http://deciem.com)** | **[People Intern](https://jobright.ai/jobs/info/69bdf8beb106024562835a34?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Mar 20 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Grad Intern - Employee Success Global Operations Intern](https://jobright.ai/jobs/info/69bdefd8393a1008f743c0e4?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 20 |
 | **[OneLocal](https://www.onelocal.com)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69bdeb76b106024562834c77?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 20 |
 | **[Think Together](https://thinktogether.org/)** | **[Intern - California Schools Talent Collaborative](https://jobright.ai/jobs/info/69bddf82393a1008f743b63d?utm_campaign=1054&utm_source=git)** | Santa Ana, CA, US | Hybrid | Mar 20 |
@@ -73,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
 | **[University of Rhode Island](http://www.uri.edu/)** | **[Compensation Analyst](https://jobright.ai/jobs/info/69bdc3f84828227293002cca?utm_campaign=1054&utm_source=git)** | Kingston, RI | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
-| ↳ | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bde34948282272930094d0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Emerging Futures CIC](https://www.emergingfutures.org.uk/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69bdbc5b393a1008f7433c50?utm_campaign=1054&utm_source=git)** | National, MD | Remote | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Group Benefits Intern](https://jobright.ai/jobs/info/69bdb9d4b10602456282c5b2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
@@ -90,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69bdb269393a1008f743137e?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Mar 20 |
 | **[DFC Company](https://dfccompany.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd0b54828227293005d53?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Mar 20 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[KidSuccess School-Based Case Manager - Internship](https://jobright.ai/jobs/info/69bdaad0b10602456282a0f8?utm_campaign=1054&utm_source=git)** | Denver,CO,US | Hybrid | Mar 20 |
-| **[Dynacare](https://www.dynacare.ca/)** | **[Manager, Payroll](https://jobright.ai/jobs/info/69bda8c8b106024562829a47?utm_campaign=1054&utm_source=git)** | Brampton, ON | Hybrid | Mar 20 |
 | **[John Howard Society of Victoria](https://jhsvic.ca/)** | **[Program Manager, Employment Services](https://jobright.ai/jobs/info/69bdc76fb10602456282f6e5?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Mar 20 |
 | **[TransX Group of Companies](http://transx.com/)** | **[Intern](https://jobright.ai/jobs/info/69bda6d5b10602456282954a?utm_campaign=1054&utm_source=git)** | Guelph, ON, CA | On Site | Mar 20 |
 | **[Marcon](https://marcon.ca)** | **[Corporate Intern, People & Culture](https://jobright.ai/jobs/info/69bda6d1b10602456282953f?utm_campaign=1054&utm_source=git)** | Langley Township, BC, CA | On Site | Mar 20 |
@@ -135,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Battery Park City Authority](https://bpca.ny.gov/home/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd6f47393a1008f742c630?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Mar 20 |
 | **[City of Douglasville, GA](https://www.douglasvillega.gov/)** | **[INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/69bd6f46393a1008f742c62a?utm_campaign=1054&utm_source=git)** | Douglasville, GA, US | On Site | Mar 20 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69691bab1703f05405aaee48?utm_campaign=1054&utm_source=git)** | Alto, MI | On Site | Mar 20 |
-| **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/69bd8c52b106024562827ca2?utm_campaign=1054&utm_source=git)** | Toronto, ON | Hybrid | Mar 20 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, People, Performance and Culture](https://jobright.ai/jobs/info/6983cf61348f733a5c37347a?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Mar 20 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[County of Renfrew](https://www.countyofrenfrew.on.ca)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd647ab106024562824a0c?utm_campaign=1054&utm_source=git)** | Pembroke, ON | On Site | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JAM Industries](https://jamindustries.com/)** | **[Talent Acquisition & DEI - Intern](https://jobright.ai/jobs/info/69a1160d81476f6176bb6bea?utm_campaign=1054&utm_source=git)** | Baie-d’Urfé, QC | On Site | Mar 20 |
 | **[Guardian Jobs](https://jobs.theguardian.com/)** | **[HR Manager](https://jobright.ai/jobs/info/69bd648e393a1008f742bc52?utm_campaign=1054&utm_source=git)** | Halifax, NS | Hybrid | Mar 20 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983b173348f733a5c36e838?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Mar 20 |
-| ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/698e0c3b0f6f7e7a2cea1a2f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
-| **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bdc131393a1008f7434933?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
