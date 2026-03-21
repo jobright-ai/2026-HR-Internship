@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/69a251b70da45516f16b96be?utm_campaign=1054&utm_source=git)** | North Carolina, United States | On Site | Mar 21 |
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db077a6df7b8311bb158ea?utm_campaign=1054&utm_source=git)** | Folsom, NJ | Hybrid | Mar 21 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Leadership Development Office Internship - Hourly - Albany](https://jobright.ai/jobs/info/69bedc6cb106024562844770?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Mar 21 |
 | **[XPENG](https://www.xiaopeng.com)** | **[2026 Campus Recruiting General Intelligence Center Internship Position](https://jobright.ai/jobs/info/69bed5ec393a1008f744b489?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828182?utm_campaign=1054&utm_source=git)** | Texas, USA (Remote) | Remote | Mar 20 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Talent Acquisition](https://jobright.ai/jobs/info/69bdab7b4828227293ffeb58?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 20 |
 | **[Family & Children's Center](https://www.fcconline.org/)** | **[Day Treatment - Internship](https://jobright.ai/jobs/info/69bd89f2b106024562827a18?utm_campaign=1054&utm_source=git)** | FSB Winona - Winona, MN 55987 | On Site | Mar 20 |
-| **[Gildan](https://gildancorp.com)** | **[Intern, Global Compensation](https://jobright.ai/jobs/info/6983b9d90f6f7e7a2cdd5608?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
