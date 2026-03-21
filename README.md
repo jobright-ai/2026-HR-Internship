@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Think Together](https://thinktogether.org/)** | **[Intern - California Schools Talent Collaborative](https://jobright.ai/jobs/info/69be3148482822729300ed1b?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 20 |
+| **[Super.com](https://www.super.com)** | **[People & Culture Intern (8 months)](https://jobright.ai/jobs/info/69be270a482822729300e316?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 20 |
+| **[Young & Franklin Tactair](http://tactair.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69be24ad393a1008f74405d3?utm_campaign=1054&utm_source=git)** | Liverpool, NY | On Site | Mar 20 |
+| **[WestJet](http://www.westjet.com)** | **[Program Manager - People Services](https://jobright.ai/jobs/info/69be1d23482822729300d6f8?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 20 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day – Thursday, March 26th, 11am- 5pm – Bradley Fair Rack](https://jobright.ai/jobs/info/69be18e8393a1008f743f5fa?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Mar 20 |
+| **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69be159b393a1008f743efef?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Mar 20 |
 | **[Reservoir Media Management, Inc.](https://www.reservoir-media.com/)** | **[2026 Summer Internship: People & Operations](https://jobright.ai/jobs/info/69be0d33b106024562836f6e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern (Human Resources Process Improvement)](https://jobright.ai/jobs/info/69be0c97482822729300c066?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Compensation Systems Intelligence Intern](https://jobright.ai/jobs/info/69be0aff393a1008f743e220?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Mar 20 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/69be0050b10602456283659d?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Mar 20 |
+| **[Spring Health](https://www.springhealth.com)** | **[Senior Manager, Global Payroll](https://jobright.ai/jobs/info/69be1eec482822729300d952?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Mar 20 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69bdfaa1393a1008f743d5c3?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
 | **[OneLocal](https://www.onelocal.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69bdfa1e482822729300b17e?utm_campaign=1054&utm_source=git)** | REMOTE-Canada | Remote | Mar 20 |
 | **[DECIEM | THE ABNORMAL BEAUTY COMPANY](http://deciem.com)** | **[People Intern](https://jobright.ai/jobs/info/69bdf8beb106024562835a34?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Mar 20 |
@@ -79,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Charlotte, NC](https://jobright.ai/jobs/info/69bdc709b10602456282f466?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
-| ↳ | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bde34948282272930094d0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Emerging Futures CIC](https://www.emergingfutures.org.uk/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69bdbc5b393a1008f7433c50?utm_campaign=1054&utm_source=git)** | National, MD | Remote | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Group Benefits Intern](https://jobright.ai/jobs/info/69bdb9d4b10602456282c5b2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bayshore HealthCare](http://www.bayshore.ca)** | **[Administrator, HR Internship](https://jobright.ai/jobs/info/69bd6033393a1008f742ba63?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Mar 20 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f8976f36db06ef04a343?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f80165ec6dbe7073fd0372?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 20 |
-| **[Visteon Corporation](http://www.visteon.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd598fb1060245628244ff?utm_campaign=1054&utm_source=git)** | Van Buren, MI | On Site | Mar 20 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - St Augustine, FL](https://jobright.ai/jobs/info/6983d28401214b4cdacbe00c?utm_campaign=1054&utm_source=git)** | St Augustine, FL | On Site | Mar 20 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7fb59b0edcf159dc8d12a?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 20 |
-| **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship](https://jobright.ai/jobs/info/69baadbd5697383741408584?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Mar 20 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/6983bd7c348f733a5c3708ad?utm_campaign=1054&utm_source=git)** | Kodiak, AK | On Site | Mar 20 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Mar 20 |
-| **[Pitcairn](https://www.pitcairn.com)** | **[Talent & Culture Intern](https://jobright.ai/jobs/info/69bd4ed9b106024562823c09?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
