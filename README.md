@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dometic](https://www.dometic.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af16b2749500645093837e?utm_campaign=1054&utm_source=git)** | Katy, TX | Hybrid | Mar 21 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Talent acquisition, intern](https://jobright.ai/jobs/info/69a2c749b600907a96293648?utm_campaign=1054&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Mar 21 |
+| **[Marathon Cheese Corporation](https://www.mcheese.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/69a1e056b600907a96283644?utm_campaign=1054&utm_source=git)** | Marathon, WI | On Site | Mar 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d20e7f5bef51c96ead9a6?utm_campaign=1054&utm_source=git)** | Folsom, CA | On Site | Mar 21 |
+| ↳ | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/69ae65a73de6821aaccdb7fc?utm_campaign=1054&utm_source=git)** | Jackson, TN | On Site | Mar 21 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Strategy and Operations Intern](https://jobright.ai/jobs/info/69a40d7f359fe034b1cf0d59?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Mar 21 |
+| **[Valeo](http://www.valeo.com/en/)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698544350f6f7e7a2cdfe7ef?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Mar 21 |
+| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69a257da0da45516f16b9b90?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | Mar 21 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] People Science - PhD Intern](https://jobright.ai/jobs/info/69a23d5d359fe034b1cd7954?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Mar 21 |
 | **[KCI](http://www.kci.com/)** | **[HR Intern](https://jobright.ai/jobs/info/696ad23f5fc862418539f5a2?utm_campaign=1054&utm_source=git)** | Sparks, MD | On Site | Mar 21 |
 | **[Empower](https://www.empower.com)** | **[Retirement Plan Counselor - Bay Area](https://jobright.ai/jobs/info/69be963d482822729301550f?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 21 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/698c2722e4f6572f0e4435f2?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Mar 20 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/698424a20f6f7e7a2cde57a9?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Mar 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Eastpointe](https://jobright.ai/jobs/info/6933d05b764507023d1b9a5f?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Mar 20 |
-| **[TIMET](http://www.timet.com/)** | **[Fall HR Co-op](https://jobright.ai/jobs/info/69bd73e24828227293fface0?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Mar 20 |
-| **[Indra Group USA](http://www.us.selex-es.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/69bd6f534828227293ffa3ec?utm_campaign=1054&utm_source=git)** | Overland Park, KS, US | On Site | Mar 20 |
-| **[Battery Park City Authority](https://bpca.ny.gov/home/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd6f47393a1008f742c630?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Mar 20 |
-| **[City of Douglasville, GA](https://www.douglasvillega.gov/)** | **[INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/69bd6f46393a1008f742c62a?utm_campaign=1054&utm_source=git)** | Douglasville, GA, US | On Site | Mar 20 |
-| **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69691bab1703f05405aaee48?utm_campaign=1054&utm_source=git)** | Alto, MI | On Site | Mar 20 |
-| **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, People, Performance and Culture](https://jobright.ai/jobs/info/6983cf61348f733a5c37347a?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Mar 20 |
-| **[SOCOTEC USA](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 20 |
-| **[County of Renfrew](https://www.countyofrenfrew.on.ca)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd647ab106024562824a0c?utm_campaign=1054&utm_source=git)** | Pembroke, ON | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
