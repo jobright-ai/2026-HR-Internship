@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Grad Intern - Employee Success Global Operations Intern](https://jobright.ai/jobs/info/69bdefd8393a1008f743c0e4?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 20 |
+| **[OneLocal](https://www.onelocal.com)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69bdeb76b106024562834c77?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 20 |
+| **[Think Together](https://thinktogether.org/)** | **[Intern - California Schools Talent Collaborative](https://jobright.ai/jobs/info/69bddf82393a1008f743b63d?utm_campaign=1054&utm_source=git)** | Santa Ana, CA, US | Hybrid | Mar 20 |
+| ↳ | **[Intern - California Schools Talent Collaborative](https://jobright.ai/jobs/info/69bddf2db1060245628344e2?utm_campaign=1054&utm_source=git)** | US-CA-Santa Ana | Hybrid | Mar 20 |
+| **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate, Talent Acquisition)](https://jobright.ai/jobs/info/69bddbd3393a1008f743acce?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 20 |
+| **[Treasure Health Systems, Inc](https://www.mythsmd.org)** | **[Mental Health Intern](https://jobright.ai/jobs/info/69bddba14828227293008baf?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Mar 20 |
 | **[Sinacola](https://sinacolatx.com)** | **[Bilingual HR Intern](https://jobright.ai/jobs/info/69a202870da45516f16b4b70?utm_campaign=1054&utm_source=git)** | Frisco, TX | On Site | Mar 20 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern (Human Resources Process Improvement)](https://jobright.ai/jobs/info/69bdd8744828227293007d0b?utm_campaign=1054&utm_source=git)** | US IL Chicago E. Randolph | Hybrid | Mar 20 |
 | **[BMO](http://www.bmo.com)** | **[Compensation Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69bdd8604828227293007c91?utm_campaign=1054&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 20 |
@@ -67,6 +73,9 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
 | **[University of Rhode Island](http://www.uri.edu/)** | **[Compensation Analyst](https://jobright.ai/jobs/info/69bdc3f84828227293002cca?utm_campaign=1054&utm_source=git)** | Kingston, RI | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bde34948282272930094d0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Emerging Futures CIC](https://www.emergingfutures.org.uk/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69bdbc5b393a1008f7433c50?utm_campaign=1054&utm_source=git)** | National, MD | Remote | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Group Benefits Intern](https://jobright.ai/jobs/info/69bdb9d4b10602456282c5b2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
 | **[York County, Virginia](http://www.yorkcounty.gov)** | **[Administrative Assistant III (Human Resources)](https://jobright.ai/jobs/info/69bdd95d393a1008f743a2ba?utm_campaign=1054&utm_source=git)** | Yorktown, VA | On Site | Mar 20 |
@@ -101,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
 | ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bd90d64828227293ffce12?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bd90d54828227293ffce0d?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828185?utm_campaign=1054&utm_source=git)** | United States (Remote) | Remote | Mar 20 |
-| ↳ | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828182?utm_campaign=1054&utm_source=git)** | Texas, USA (Remote) | Remote | Mar 20 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828182?utm_campaign=1054&utm_source=git)** | Texas, USA (Remote) | Remote | Mar 20 |
+| ↳ | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828185?utm_campaign=1054&utm_source=git)** | United States (Remote) | Remote | Mar 20 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Talent Acquisition](https://jobright.ai/jobs/info/69bdab7b4828227293ffeb58?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 20 |
 | **[Family & Children's Center](https://www.fcconline.org/)** | **[Day Treatment - Internship](https://jobright.ai/jobs/info/69bd89f2b106024562827a18?utm_campaign=1054&utm_source=git)** | FSB Winona - Winona, MN 55987 | On Site | Mar 20 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Global Compensation](https://jobright.ai/jobs/info/6983b9d90f6f7e7a2cdd5608?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Mar 20 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6983b173348f733a5c36e838?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Mar 20 |
 | ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/698e0c3b0f6f7e7a2cea1a2f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bdc131393a1008f7434933?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 20 |
-| **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Talent and Development Internship](https://jobright.ai/jobs/info/69275f93d47de4798ecdbf91?utm_campaign=1054&utm_source=git)** | Sissonville, WV | On Site | Mar 20 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Mar 20 |
-| **[E.S. FOX LIMITED](https://esfox.com/)** | **[Human Resources Co-op Student](https://jobright.ai/jobs/info/69a0c99c5218a8167671f4dd?utm_campaign=1054&utm_source=git)** | Niagara Falls, ON | On Site | Mar 20 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Mar 20 |
-| **[Magna International](http://www.magna.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bd31c0393a1008f742903f?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Mar 20 |
-| **[Tenneco](https://www.tenneco.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69a0b3d70836fe79d861b3a8?utm_campaign=1054&utm_source=git)** | Northville, MI | On Site | Mar 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Eugene, OR](https://jobright.ai/jobs/info/69bd2b4c393a1008f7428e54?utm_campaign=1054&utm_source=git)** | Springfield, OR | On Site | Mar 20 |
-| **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0d98c5218a816767207c7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
-| **[Knickerbocker](https://www.knickerbocker.nyc)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69bd1d6945e08b3dc1fa395c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
