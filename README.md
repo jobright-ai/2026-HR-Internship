@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f5ffca2668b7f54528a5b?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Mar 21 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1767d4a7df7a067247bb?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Mar 21 |
+| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | Mar 21 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6986afc38da7a612046194ce?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Mar 21 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/69731c2f1790715e866c1b0a?utm_campaign=1054&utm_source=git)** | Live Oak, FL | On Site | Mar 21 |
+| **[Primo Brands](https://primowatercorp.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69bec720393a1008f744a6aa?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | Mar 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d199dd4a7df7a06724a5d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Mar 21 |
+| **[Siemens](https://www.siemens.com)** | **[People & Organization Internship](https://jobright.ai/jobs/info/69bec4b2393a1008f744a5a0?utm_campaign=1054&utm_source=git)** | Wendell, NC | On Site | Mar 21 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/699feb02ce78e77b4fe5e3c5?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Mar 21 |
 | ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ac1d1db26b618950e0783?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Mar 21 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69b786c256973837413cad47?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Mar 21 |
@@ -105,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Charlotte, NC](https://jobright.ai/jobs/info/69bdc709b10602456282f466?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
-| ↳ | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bde34948282272930094d0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Emerging Futures CIC](https://www.emergingfutures.org.uk/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69bdbc5b393a1008f7433c50?utm_campaign=1054&utm_source=git)** | National, MD | Remote | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Group Benefits Intern](https://jobright.ai/jobs/info/69bdb9d4b10602456282c5b2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
@@ -118,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bdb6274828227293fffff4?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Mar 20 |
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69bdb614b10602456282b450?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Marcon](https://marcon.ca)** | **[Corporate Intern, People & Culture](https://jobright.ai/jobs/info/69bdb5e04828227293fffde5?utm_campaign=1054&utm_source=git)** | Langley, BC | On Site | Mar 20 |
-| **[The Arc San Francisco](http://www.thearcsf.org/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69bdb5d7b10602456282b2fd?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69bdb269393a1008f743137e?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Mar 20 |
 | **[DFC Company](https://dfccompany.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd0b54828227293005d53?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Mar 20 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[KidSuccess School-Based Case Manager - Internship](https://jobright.ai/jobs/info/69bdaad0b10602456282a0f8?utm_campaign=1054&utm_source=git)** | Denver,CO,US | Hybrid | Mar 20 |
@@ -142,19 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
 | ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bd90d64828227293ffce12?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bd90d54828227293ffce0d?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828185?utm_campaign=1054&utm_source=git)** | United States (Remote) | Remote | Mar 20 |
-| ↳ | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828182?utm_campaign=1054&utm_source=git)** | Texas, USA (Remote) | Remote | Mar 20 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828182?utm_campaign=1054&utm_source=git)** | Texas, USA (Remote) | Remote | Mar 20 |
+| ↳ | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bd908cb106024562828185?utm_campaign=1054&utm_source=git)** | United States (Remote) | Remote | Mar 20 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Talent Acquisition](https://jobright.ai/jobs/info/69bdab7b4828227293ffeb58?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 20 |
 | **[Family & Children's Center](https://www.fcconline.org/)** | **[Day Treatment - Internship](https://jobright.ai/jobs/info/69bd89f2b106024562827a18?utm_campaign=1054&utm_source=git)** | FSB Winona - Winona, MN 55987 | On Site | Mar 20 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Global Compensation](https://jobright.ai/jobs/info/6983b9d90f6f7e7a2cdd5608?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Mar 20 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Organizational Support Internship](https://jobright.ai/jobs/info/69bd860fb1060245628270e4?utm_campaign=1054&utm_source=git)** | West Lebanon, NH | On Site | Mar 20 |
 | **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Procurement Internship - Arizona](https://jobright.ai/jobs/info/69bd84d74828227293ffbb60?utm_campaign=1054&utm_source=git)** | Office AZ Tempe | On Site | Mar 20 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Internship](https://jobright.ai/jobs/info/69bd845c393a1008f742dbb6?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | Mar 20 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: HR Intern](https://jobright.ai/jobs/info/69a51077359fe034b1cfa6e9?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
-| **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd7fb3b10602456282690a?utm_campaign=1054&utm_source=git)** | Gray Court, SC | On Site | Mar 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d2d5bf5bef51c96eadb98?utm_campaign=1054&utm_source=git)** | Elk Grove, CA | On Site | Mar 20 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c370836fe79d861a083?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Mar 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d136a29655e4dd6572569?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Mar 20 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d229529655e4dd6573479?utm_campaign=1054&utm_source=git)** | Yuba City, CA | On Site | Mar 20 |
-| **[SECU](https://www.ncsecu.org)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/69bd774b393a1008f742d230?utm_campaign=1054&utm_source=git)** | Linthicum, MD | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
