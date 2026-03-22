@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Empower](https://www.empower.com)** | **[Retirement Plan Advisor- Jacksonville](https://jobright.ai/jobs/info/69bfb68479e36d3a847c5650?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 22 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69bfa18479e36d3a847c4902?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Mar 22 |
 | **[Avista](https://myavista.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69bf70e979e36d3a847c0f93?utm_campaign=1054&utm_source=git)** | Spokane, WA | Hybrid | Mar 21 |
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/69bf4408482822729301d05a?utm_campaign=1054&utm_source=git)** | Spokane, Washington, United States | Hybrid | Mar 21 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Benefits Specialist / HR Analyst I (00437)](https://jobright.ai/jobs/info/69bfbbc32c312363dcd282a6?utm_campaign=1054&utm_source=git)** | Farmville, VA | On Site | Mar 21 |
+| ↳ | **[Administrative Lead - Office of Graduate Education Equity Programs](https://jobright.ai/jobs/info/69bfbbe77798f73e35e49876?utm_campaign=1054&utm_source=git)** | University Park, PA | On Site | Mar 21 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – People & Culture, UFC](https://jobright.ai/jobs/info/69bf06a2482822729301b586?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Mar 21 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Alumni Administrative Support Coordinator (Administrative Support Coordinator II)](https://jobright.ai/jobs/info/69bf063cb10602456284621f?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 21 |
 | **[Space Needle](http://spaceneedle.com/)** | **[Seasonal Human Resources (HR) Intern](https://jobright.ai/jobs/info/69bef265393a1008f744c7fa?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
@@ -125,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Charlotte, NC](https://jobright.ai/jobs/info/69bdc709b10602456282f466?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
-| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bde34948282272930094d0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Emerging Futures CIC](https://www.emergingfutures.org.uk/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69bdbc5b393a1008f7433c50?utm_campaign=1054&utm_source=git)** | National, MD | Remote | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Group Benefits Intern](https://jobright.ai/jobs/info/69bdb9d4b10602456282c5b2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[HR Intern](https://jobright.ai/jobs/info/69a0cf5b81476f6176bb19be?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Mar 20 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121125218a81676725a0b?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Mar 20 |
 | **[Institute for Women's Leadership Marquette University](https://www.marquette.edu/womens-leadership/)** | **[Employer Relations and Administrative Coordinator](https://jobright.ai/jobs/info/69be0a79482822729300be48?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Mar 20 |
-| **[GAF](http://www.gaf.com/)** | **[HRS Intern](https://jobright.ai/jobs/info/69a3158e359fe034b1ce5fae?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Mar 20 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bd9172b1060245628283df?utm_campaign=1054&utm_source=git)** | 10706 Beaver Dam Road, Cockeysville, MD, 21030, US | On Site | Mar 20 |
-| **[Armada](https://www.armada.ai)** | **[G&A Intern](https://jobright.ai/jobs/info/69bd9131393a1008f742f027?utm_campaign=1054&utm_source=git)** | United States (Remote) | Remote | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
