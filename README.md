@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SimpliFed](https://www.simplifed.com)** | **[Clinical Operations Summer Intern](https://jobright.ai/jobs/info/69c036a779e36d3a847ca01c?utm_campaign=1054&utm_source=git)** | Ithaca NY | Remote | Mar 22 |
+| **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Mar 22 |
+| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern - Summer '26](https://jobright.ai/jobs/info/69b105dddfaeda6ff59be288?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Mar 22 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/698638358ca8121a3a68672d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Mar 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bdb6274828227293fffff4?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Mar 20 |
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69bdb614b10602456282b450?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Marcon](https://marcon.ca)** | **[Corporate Intern, People & Culture](https://jobright.ai/jobs/info/69bdb5e04828227293fffde5?utm_campaign=1054&utm_source=git)** | Langley, BC | On Site | Mar 20 |
-| **[Moog Inc.](http://www.moog.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69bdb269393a1008f743137e?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Mar 20 |
-| **[DFC Company](https://dfccompany.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd0b54828227293005d53?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Mar 20 |
-| **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[KidSuccess School-Based Case Manager - Internship](https://jobright.ai/jobs/info/69bdaad0b10602456282a0f8?utm_campaign=1054&utm_source=git)** | Denver,CO,US | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
