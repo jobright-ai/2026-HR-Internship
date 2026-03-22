@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Mar 22 |
+| **[Syska Hennessy Group](http://www.syska.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/698638358ca8121a3a68672d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 22 |
+| **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Mar 22 |
+| **[Jabil](https://www.jabil.com)** | **[Workforce Program/Vendor Management Analyst](https://jobright.ai/jobs/info/69bff96179e36d3a847c82f2?utm_campaign=1054&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Mar 22 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69b2aff9a8ac8e70ff66b60d?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Mar 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69b7b3f406c1ba00c54976c4?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Workforce Development Intern- Summer 2026](https://jobright.ai/jobs/info/69a0146853d97f23ee65d087?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Mar 22 |
@@ -136,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Charlotte, NC](https://jobright.ai/jobs/info/69bdc709b10602456282f466?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
-| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bde34948282272930094d0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Emerging Futures CIC](https://www.emergingfutures.org.uk/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69bdbc5b393a1008f7433c50?utm_campaign=1054&utm_source=git)** | National, MD | Remote | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Group Benefits Intern](https://jobright.ai/jobs/info/69bdb9d4b10602456282c5b2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DFC Company](https://dfccompany.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd0b54828227293005d53?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Mar 20 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[KidSuccess School-Based Case Manager - Internship](https://jobright.ai/jobs/info/69bdaad0b10602456282a0f8?utm_campaign=1054&utm_source=git)** | Denver,CO,US | Hybrid | Mar 20 |
 | **[John Howard Society of Victoria](https://jhsvic.ca/)** | **[Program Manager, Employment Services](https://jobright.ai/jobs/info/69bdc76fb10602456282f6e5?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Mar 20 |
-| **[TransX Group of Companies](http://transx.com/)** | **[Intern](https://jobright.ai/jobs/info/69bda6d5b10602456282954a?utm_campaign=1054&utm_source=git)** | Guelph, ON, CA | On Site | Mar 20 |
-| **[Marcon](https://marcon.ca)** | **[Corporate Intern, People & Culture](https://jobright.ai/jobs/info/69bda6d1b10602456282953f?utm_campaign=1054&utm_source=git)** | Langley Township, BC, CA | On Site | Mar 20 |
-| **[First Financial Bank](http://www.bankatfirst.com)** | **[Servicing Intern, OSF](https://jobright.ai/jobs/info/69bda577b1060245628293e9?utm_campaign=1054&utm_source=git)** | Keystone, IN | On Site | Mar 20 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Intern Year-Round - Atlanta](https://jobright.ai/jobs/info/69bda5274828227293ffdcf5?utm_campaign=1054&utm_source=git)** | Atlanta Metro | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
