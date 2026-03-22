@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Marathon Cheese Corporation](https://www.mcheese.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/69a1e056b600907a96283644?utm_campaign=1054&utm_source=git)** | Marathon, WI | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d20e7f5bef51c96ead9a6?utm_campaign=1054&utm_source=git)** | Folsom, CA | On Site | Mar 21 |
 | ↳ | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/69ae65a73de6821aaccdb7fc?utm_campaign=1054&utm_source=git)** | Jackson, TN | On Site | Mar 21 |
+| **[The National Wild Turkey Federation](https://www.nwtf.org)** | **[Michigan Recruitment, Retention, and Reactivation Intern](https://jobright.ai/jobs/info/69bf89f879e36d3a847c2ac3?utm_campaign=1054&utm_source=git)** | Lansing, MI | Hybrid | Mar 21 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Strategy and Operations Intern](https://jobright.ai/jobs/info/69a40d7f359fe034b1cf0d59?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Mar 21 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69a257da0da45516f16b9b90?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | Mar 21 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] People Science - PhD Intern](https://jobright.ai/jobs/info/69a23d5d359fe034b1cd7954?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Mar 21 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Charlotte, NC](https://jobright.ai/jobs/info/69bdc709b10602456282f466?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
-| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bde34948282272930094d0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Emerging Futures CIC](https://www.emergingfutures.org.uk/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69bdbc5b393a1008f7433c50?utm_campaign=1054&utm_source=git)** | National, MD | Remote | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Group Benefits Intern](https://jobright.ai/jobs/info/69bdb9d4b10602456282c5b2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[TransX Group of Companies](http://transx.com/)** | **[Intern](https://jobright.ai/jobs/info/69bda6d5b10602456282954a?utm_campaign=1054&utm_source=git)** | Guelph, ON, CA | On Site | Mar 20 |
 | **[Marcon](https://marcon.ca)** | **[Corporate Intern, People & Culture](https://jobright.ai/jobs/info/69bda6d1b10602456282953f?utm_campaign=1054&utm_source=git)** | Langley Township, BC, CA | On Site | Mar 20 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Servicing Intern, OSF](https://jobright.ai/jobs/info/69bda577b1060245628293e9?utm_campaign=1054&utm_source=git)** | Keystone, IN | On Site | Mar 20 |
-| **[Spurwink](http://www.spurwink.org)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69bda576b1060245628293de?utm_campaign=1054&utm_source=git)** | Westbrook, ME | Hybrid | Mar 20 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Intern Year-Round - Atlanta](https://jobright.ai/jobs/info/69bda5274828227293ffdcf5?utm_campaign=1054&utm_source=git)** | Atlanta Metro | On Site | Mar 20 |
 | **[Maximus](http://www.maximus.com/)** | **[HR Coordinator 2 On-site in Jeffersonville, IN](https://jobright.ai/jobs/info/69bd9f44b106024562828d94?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Mar 20 |
 | **[SECU Credit Union](https://www.secumd.org/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/69bd9f38b106024562828d72?utm_campaign=1054&utm_source=git)** | Linthicum, MD | On Site | Mar 20 |
