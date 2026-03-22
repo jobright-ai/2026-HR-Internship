@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Noble Corporation](http://www.noblecorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ccc1cbd99309000e5a29a4?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Mar 22 |
 | **[Empower](https://www.empower.com)** | **[Retirement Plan Advisor- Jacksonville](https://jobright.ai/jobs/info/69bfb68479e36d3a847c5650?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 22 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69bfa18479e36d3a847c4902?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Mar 22 |
 | **[Avista](https://myavista.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69bf70e979e36d3a847c0f93?utm_campaign=1054&utm_source=git)** | Spokane, WA | Hybrid | Mar 21 |
@@ -90,13 +91,13 @@ For a complete list, click the following sortable link below:
 | **[Marathon Cheese Corporation](https://www.mcheese.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/69a1e056b600907a96283644?utm_campaign=1054&utm_source=git)** | Marathon, WI | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d20e7f5bef51c96ead9a6?utm_campaign=1054&utm_source=git)** | Folsom, CA | On Site | Mar 21 |
 | ↳ | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/69ae65a73de6821aaccdb7fc?utm_campaign=1054&utm_source=git)** | Jackson, TN | On Site | Mar 21 |
-| **[The National Wild Turkey Federation](https://www.nwtf.org)** | **[Michigan Recruitment, Retention, and Reactivation Intern](https://jobright.ai/jobs/info/69bf89f879e36d3a847c2ac3?utm_campaign=1054&utm_source=git)** | Lansing, MI | Hybrid | Mar 21 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Strategy and Operations Intern](https://jobright.ai/jobs/info/69a40d7f359fe034b1cf0d59?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Mar 21 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69a257da0da45516f16b9b90?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | Mar 21 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] People Science - PhD Intern](https://jobright.ai/jobs/info/69a23d5d359fe034b1cd7954?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Mar 21 |
 | **[KCI](http://www.kci.com/)** | **[HR Intern](https://jobright.ai/jobs/info/696ad23f5fc862418539f5a2?utm_campaign=1054&utm_source=git)** | Sparks, MD | On Site | Mar 21 |
 | **[Empower](https://www.empower.com)** | **[Retirement Plan Counselor - Bay Area](https://jobright.ai/jobs/info/69be963d482822729301550f?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 21 |
 | **[Extra Space Storage](http://www.extraspace.com)** | **[Recruiting Intern-Part Time](https://jobright.ai/jobs/info/69a25ed5359fe034b1cd98c1?utm_campaign=1054&utm_source=git)** | Midvale, UT | On Site | Mar 21 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bfd1e17798f73e35e4aa92?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Mar 21 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[People & Culture Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae58b5fc86241853a19f9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Think Together](https://thinktogether.org/)** | **[Intern - California Schools Talent Collaborative](https://jobright.ai/jobs/info/69be3148482822729300ed1b?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 20 |
 | **[Super.com](https://www.super.com)** | **[People & Culture Intern (8 months)](https://jobright.ai/jobs/info/69be270a482822729300e316?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[KidSuccess School-Based Case Manager - Internship](https://jobright.ai/jobs/info/69bdbd1d393a1008f7433e86?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Mar 20 |
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[HR Intern](https://jobright.ai/jobs/info/69a0cf5b81476f6176bb19be?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Mar 20 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121125218a81676725a0b?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Mar 20 |
-| **[Institute for Women's Leadership Marquette University](https://www.marquette.edu/womens-leadership/)** | **[Employer Relations and Administrative Coordinator](https://jobright.ai/jobs/info/69be0a79482822729300be48?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
