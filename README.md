@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avista](https://myavista.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69bf4408482822729301d05a?utm_campaign=1054&utm_source=git)** | Spokane, Washington, United States | Hybrid | Mar 21 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – People & Culture, UFC](https://jobright.ai/jobs/info/69bf06a2482822729301b586?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Mar 21 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Alumni Administrative Support Coordinator (Administrative Support Coordinator II)](https://jobright.ai/jobs/info/69bf063cb10602456284621f?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 21 |
 | **[Space Needle](http://spaceneedle.com/)** | **[Seasonal Human Resources (HR) Intern](https://jobright.ai/jobs/info/69bef265393a1008f744c7fa?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Leadership Development Office Internship - Hourly - Albany](https://jobright.ai/jobs/info/69bedc6cb106024562844770?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Mar 21 |
 | **[XPENG](https://www.xiaopeng.com)** | **[2026 Campus Recruiting General Intelligence Center Internship Position](https://jobright.ai/jobs/info/69bed5ec393a1008f744b489?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f5ffca2668b7f54528a5b?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Mar 21 |
-| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1767d4a7df7a067247bb?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Mar 21 |
+| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | Mar 21 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6986afc38da7a612046194ce?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Mar 21 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/69731c2f1790715e866c1b0a?utm_campaign=1054&utm_source=git)** | Live Oak, FL | On Site | Mar 21 |
 | **[Primo Brands](https://primowatercorp.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69bec720393a1008f744a6aa?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | Mar 21 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Empower](https://www.empower.com)** | **[Retirement Plan Counselor - Bay Area](https://jobright.ai/jobs/info/69be963d482822729301550f?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 21 |
 | **[Extra Space Storage](http://www.extraspace.com)** | **[Recruiting Intern-Part Time](https://jobright.ai/jobs/info/69a25ed5359fe034b1cd98c1?utm_campaign=1054&utm_source=git)** | Midvale, UT | On Site | Mar 21 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[People & Culture Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae58b5fc86241853a19f9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69be38c5482822729300f77c?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Mar 20 |
 | **[Think Together](https://thinktogether.org/)** | **[Intern - California Schools Talent Collaborative](https://jobright.ai/jobs/info/69be3148482822729300ed1b?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 20 |
 | **[Super.com](https://www.super.com)** | **[People & Culture Intern (8 months)](https://jobright.ai/jobs/info/69be270a482822729300e316?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 20 |
 | **[Young & Franklin Tactair](http://tactair.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69be24ad393a1008f74405d3?utm_campaign=1054&utm_source=git)** | Liverpool, NY | On Site | Mar 20 |
