@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69bfa18479e36d3a847c4902?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Mar 22 |
 | **[Avista](https://myavista.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69bf70e979e36d3a847c0f93?utm_campaign=1054&utm_source=git)** | Spokane, WA | Hybrid | Mar 21 |
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/69bf4408482822729301d05a?utm_campaign=1054&utm_source=git)** | Spokane, Washington, United States | Hybrid | Mar 21 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – People & Culture, UFC](https://jobright.ai/jobs/info/69bf06a2482822729301b586?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Mar 21 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/69731c2f1790715e866c1b0a?utm_campaign=1054&utm_source=git)** | Live Oak, FL | On Site | Mar 21 |
 | **[Primo Brands](https://primowatercorp.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69bec720393a1008f744a6aa?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d199dd4a7df7a06724a5d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Mar 21 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Mar 21 |
 | **[Siemens](https://www.siemens.com)** | **[People & Organization Internship](https://jobright.ai/jobs/info/69bec4b2393a1008f744a5a0?utm_campaign=1054&utm_source=git)** | Wendell, NC | On Site | Mar 21 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/699feb02ce78e77b4fe5e3c5?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Mar 21 |
 | ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ac1d1db26b618950e0783?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Mar 21 |
@@ -123,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Charlotte, NC](https://jobright.ai/jobs/info/69bdc709b10602456282f466?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
-| ↳ | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bde34948282272930094d0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Emerging Futures CIC](https://www.emergingfutures.org.uk/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69bdbc5b393a1008f7433c50?utm_campaign=1054&utm_source=git)** | National, MD | Remote | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Group Benefits Intern](https://jobright.ai/jobs/info/69bdb9d4b10602456282c5b2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GAF](http://www.gaf.com/)** | **[HRS Intern](https://jobright.ai/jobs/info/69a3158e359fe034b1ce5fae?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Mar 20 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bd9172b1060245628283df?utm_campaign=1054&utm_source=git)** | 10706 Beaver Dam Road, Cockeysville, MD, 21030, US | On Site | Mar 20 |
 | **[Armada](https://www.armada.ai)** | **[G&A Intern](https://jobright.ai/jobs/info/69bd9131393a1008f742f027?utm_campaign=1054&utm_source=git)** | United States (Remote) | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bd90d64828227293ffce12?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
