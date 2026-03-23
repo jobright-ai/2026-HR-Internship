@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resources Specialist (Employee Benefits)](https://jobright.ai/jobs/info/69c0f4bb2c312363dcd392c6?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 23 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Employee & Labor Relations](https://jobright.ai/jobs/info/69c109652c312363dcd3c487?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | On Site | Mar 23 |
+| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resource Specialist (Recruit and Placement)](https://jobright.ai/jobs/info/69c107297798f73e35e5d311?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Mar 23 |
+| ↳ | **[Human Resource Specialist (Recruit and Placement)](https://jobright.ai/jobs/info/69c107297798f73e35e5d312?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Mar 23 |
+| ↳ | **[Human Resources Specialist (Employee Benefits)](https://jobright.ai/jobs/info/69c0f4bb2c312363dcd392c6?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 23 |
 | ↳ | **[Management & Program Analyst (Workforce Management)](https://jobright.ai/jobs/info/69c0f4b779e36d3a847d723f?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 23 |
 | ↳ | **[Human Resource Specialist (Recruit and Placement)](https://jobright.ai/jobs/info/69c0f4aa2c312363dcd3926a?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 23 |
 | ↳ | **[Human Resource Specialist (Recruitment and Placement)](https://jobright.ai/jobs/info/69c0f47a7798f73e35e5a724?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Mar 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Talent Acquisition](https://jobright.ai/jobs/info/69bdcfab393a1008f7437b0e?utm_campaign=1054&utm_source=git)** | Toronto, ON | Hybrid | Mar 20 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Charlotte, NC](https://jobright.ai/jobs/info/69bdc709b10602456282f466?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
-| **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
