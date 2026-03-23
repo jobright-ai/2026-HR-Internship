@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Norcross + Judd](http://wnj.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c0e4df2c312363dcd36426?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Mar 22 |
+| **[Security Finance](https://www.securityfinance.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69c0ddce79e36d3a847d325e?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Mar 22 |
 | **[Havas CX Canada](https://ca.havas.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c0c12e7798f73e35e5453d?utm_campaign=1054&utm_source=git)** | Toronto, ON | Hybrid | Mar 22 |
 | **[Jabil](https://www.jabil.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bdb6274828227293fffff4?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Mar 22 |
 | **[Dependable Life Solutions](https://dependablelifesolutions.com/)** | **[Recruiter Intern](https://jobright.ai/jobs/info/69c0a03d79e36d3a847cdfbd?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Mar 22 |
@@ -81,8 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Empower](https://www.empower.com)** | **[Retirement Plan Advisor- Jacksonville](https://jobright.ai/jobs/info/69bfb68479e36d3a847c5650?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 22 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69bfa18479e36d3a847c4902?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Mar 22 |
 | **[Avista](https://myavista.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69bf70e979e36d3a847c0f93?utm_campaign=1054&utm_source=git)** | Spokane, WA | Hybrid | Mar 21 |
-| **[The National Wild Turkey Federation](https://www.nwtf.org)** | **[Michigan Recruitment, Retention, and Reactivation Intern](https://jobright.ai/jobs/info/69c0c41679e36d3a847d110e?utm_campaign=1054&utm_source=git)** | Lansing, MI | Hybrid | Mar 21 |
-| **[Avista](https://myavista.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69bf4408482822729301d05a?utm_campaign=1054&utm_source=git)** | Spokane, Washington, United States | Hybrid | Mar 21 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/69bf4408482822729301d05a?utm_campaign=1054&utm_source=git)** | Spokane, Washington, United States | Hybrid | Mar 21 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Benefits Specialist / HR Analyst I (00437)](https://jobright.ai/jobs/info/69bfbbc32c312363dcd282a6?utm_campaign=1054&utm_source=git)** | Farmville, VA | On Site | Mar 21 |
 | ↳ | **[Administrative Lead - Office of Graduate Education Equity Programs](https://jobright.ai/jobs/info/69bfbbe77798f73e35e49876?utm_campaign=1054&utm_source=git)** | University Park, PA | On Site | Mar 21 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – People & Culture, UFC](https://jobright.ai/jobs/info/69bf06a2482822729301b586?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Mar 21 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Charlotte, NC](https://jobright.ai/jobs/info/69bdc709b10602456282f466?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day - Thursday, March 26th, 11AM-5PM - Mercato Rack](https://jobright.ai/jobs/info/69bdc524393a1008f74351cd?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Engagement & Development Summer Intern](https://jobright.ai/jobs/info/69bdc365b10602456282e60c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
-| ↳ | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/69bde332393a1008f743b7b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
+| ↳ | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bde322393a1008f743b795?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69bde34948282272930094d0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Emerging Futures CIC](https://www.emergingfutures.org.uk/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69bdbc5b393a1008f7433c50?utm_campaign=1054&utm_source=git)** | National, MD | Remote | Mar 20 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Group Benefits Intern](https://jobright.ai/jobs/info/69bdb9d4b10602456282c5b2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
 | **[York County, Virginia](http://www.yorkcounty.gov)** | **[Administrative Assistant III (Human Resources)](https://jobright.ai/jobs/info/69bdd95d393a1008f743a2ba?utm_campaign=1054&utm_source=git)** | Yorktown, VA | On Site | Mar 20 |
-| **[Bay de Noc Community College](http://www.baycollege.edu/)** | **[Federal Work Study - Human Resources 2026-2027](https://jobright.ai/jobs/info/69bdb83e393a1008f74328ae?utm_campaign=1054&utm_source=git)** | Escanaba, MI | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
