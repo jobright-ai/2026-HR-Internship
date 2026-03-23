@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Employee & Labor Relations](https://jobright.ai/jobs/info/69c109652c312363dcd3c487?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | On Site | Mar 23 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Employee & Labor Relations](https://jobright.ai/jobs/info/69c12a0d79e36d3a847dc76d?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Mar 23 |
+| ↳ | **[College Intern - Employee & Labor Relations](https://jobright.ai/jobs/info/69c109652c312363dcd3c487?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | On Site | Mar 23 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resource Specialist (Recruit and Placement)](https://jobright.ai/jobs/info/69c107297798f73e35e5d311?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Mar 23 |
 | ↳ | **[Human Resource Specialist (Recruit and Placement)](https://jobright.ai/jobs/info/69c107297798f73e35e5d312?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Mar 23 |
 | ↳ | **[Human Resources Specialist (Employee Benefits)](https://jobright.ai/jobs/info/69c0f4bb2c312363dcd392c6?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 23 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Leadership Development Office Internship - Hourly - Albany](https://jobright.ai/jobs/info/69bedc6cb106024562844770?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Mar 21 |
 | **[XPENG](https://www.xiaopeng.com)** | **[2026 Campus Recruiting General Intelligence Center Internship Position](https://jobright.ai/jobs/info/69bed5ec393a1008f744b489?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f5ffca2668b7f54528a5b?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Mar 21 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1767d4a7df7a067247bb?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | Mar 21 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1767d4a7df7a067247bb?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Mar 21 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6986afc38da7a612046194ce?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Mar 21 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/69731c2f1790715e866c1b0a?utm_campaign=1054&utm_source=git)** | Live Oak, FL | On Site | Mar 21 |
 | **[Primo Brands](https://primowatercorp.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69bec720393a1008f744a6aa?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | Mar 21 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Super.com](https://www.super.com)** | **[People & Culture Intern (8 months)](https://jobright.ai/jobs/info/69be270a482822729300e316?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 20 |
 | **[Young & Franklin Tactair](http://tactair.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69be24ad393a1008f74405d3?utm_campaign=1054&utm_source=git)** | Liverpool, NY | On Site | Mar 20 |
 | **[WestJet](http://www.westjet.com)** | **[Program Manager - People Services](https://jobright.ai/jobs/info/69be1d23482822729300d6f8?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 20 |
-| **[University of Rhode Island](http://www.uri.edu/)** | **[Compensation Analyst](https://jobright.ai/jobs/info/69c0c9df7798f73e35e55b48?utm_campaign=1054&utm_source=git)** | Kingston, RI | On Site | Mar 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day – Thursday, March 26th, 11am- 5pm – Bradley Fair Rack](https://jobright.ai/jobs/info/69be18e8393a1008f743f5fa?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Mar 20 |
 | **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69be159b393a1008f743efef?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Mar 20 |
 | **[Reservoir Media Management, Inc.](https://www.reservoir-media.com/)** | **[2026 Summer Internship: People & Operations](https://jobright.ai/jobs/info/69be0d33b106024562836f6e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 20 |
