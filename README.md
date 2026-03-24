@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Member Services Summer Intern](https://jobright.ai/jobs/info/69c20b8375f7ff1cd810b461?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 23 |
 | **[Watson-Marlow - North America](https://www.wmftg.com/us-en/)** | **[HR Intern](https://jobright.ai/jobs/info/69c2005c2c312363dcd54d30?utm_campaign=1054&utm_source=git)** | Wilmington, MA | Hybrid | Mar 23 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (HR Leadership & Culture)](https://jobright.ai/jobs/info/69c1fc30c9ad035e829a636e?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 23 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e7fa79e36d3a847ef3eb?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 23 |
@@ -68,6 +69,12 @@ For a complete list, click the following sortable link below:
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Transportation HR Intern](https://jobright.ai/jobs/info/69c1ea9e79e36d3a847ef9d0?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 23 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/69c1e9ee75f7ff1cd810450d?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Mar 23 |
 | **[Stanislaus Food Products](https://stanislaus.com/)** | **[HRIS Intern](https://jobright.ai/jobs/info/69c1e8db75f7ff1cd8104294?utm_campaign=1054&utm_source=git)** | Modesto, California, United States | On Site | Mar 23 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/69c207212c312363dcd55abb?utm_campaign=1054&utm_source=git)** | Tampa, Florida, United States | On Site | Mar 23 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c20b8975f7ff1cd810b484?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Mar 23 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c20ba275f7ff1cd810b4f9?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Mar 23 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c207172c312363dcd55aa7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 23 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c20b6475f7ff1cd810b3ba?utm_campaign=1054&utm_source=git)** | Braselton, GA | On Site | Mar 23 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c20b6d75f7ff1cd810b3e6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | **[AngioDynamics](http://www.angiodynamics.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c1e58379e36d3a847ef337?utm_campaign=1054&utm_source=git)** | Latham, NY | On Site | Mar 23 |
 | **[Continental](https://www.continental.com)** | **[2026 Internship - Human Resources (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69b319f7ad360c0340a82d1a?utm_campaign=1054&utm_source=git)** | Plymouth, IN | On Site | Mar 23 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Talent Acquisition)](https://jobright.ai/jobs/info/69c1e0fb79e36d3a847ef0b0?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 23 |
@@ -135,26 +142,19 @@ For a complete list, click the following sortable link below:
 | **[JINGDONG Logistics](https://www.jdl.com)** | **[HRBP Intern JDY](https://jobright.ai/jobs/info/69c166cc75f7ff1cd80f5e20?utm_campaign=1054&utm_source=git)** | USA-California-Fontana | On Site | Mar 23 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Human Resources Student Internship (College) (9037)](https://jobright.ai/jobs/info/69c1616979e36d3a847e0ed7?utm_campaign=1054&utm_source=git)** | Brooksville, Florida, United States | On Site | Mar 23 |
 | **[Shentel](https://www.shentel.com/)** | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15de975f7ff1cd80f4861?utm_campaign=1054&utm_source=git)** | Waynesboro, VA 22980, USA | On Site | Mar 23 |
-| ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15de42c312363dcd42225?utm_campaign=1054&utm_source=git)** | Harrisonburg, VA, USA | On Site | Mar 23 |
+| ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15de42c312363dcd42227?utm_campaign=1054&utm_source=git)** | Edinburg, VA 22824, USA | On Site | Mar 23 |
 | ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15de42c312363dcd42224?utm_campaign=1054&utm_source=git)** | Winchester, VA 22601, USA | On Site | Mar 23 |
 | ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15de42c312363dcd42223?utm_campaign=1054&utm_source=git)** | Chillicothe, OH 45601, USA | On Site | Mar 23 |
-| ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15de42c312363dcd42227?utm_campaign=1054&utm_source=git)** | Edinburg, VA 22824, USA | On Site | Mar 23 |
-| ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15de275f7ff1cd80f4856?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, USA | On Site | Mar 23 |
+| ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15de42c312363dcd42225?utm_campaign=1054&utm_source=git)** | Harrisonburg, VA, USA | On Site | Mar 23 |
 | ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15de275f7ff1cd80f4858?utm_campaign=1054&utm_source=git)** | Front Royal, VA 22630, USA | On Site | Mar 23 |
+| ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15de275f7ff1cd80f4856?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, USA | On Site | Mar 23 |
 | ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15de275f7ff1cd80f485a?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, USA | On Site | Mar 23 |
-| ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15d8a79e36d3a847dfda4?utm_campaign=1054&utm_source=git)** | State College, PA, USA | On Site | Mar 23 |
-| ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15d8a79e36d3a847dfda5?utm_campaign=1054&utm_source=git)** | Morgantown, WV, USA | On Site | Mar 23 |
 | ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15d8a79e36d3a847dfda6?utm_campaign=1054&utm_source=git)** | Richmond, VA, USA | On Site | Mar 23 |
 | ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15d8a79e36d3a847dfda8?utm_campaign=1054&utm_source=git)** | Columbus, OH, USA | On Site | Mar 23 |
 | ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15d8a79e36d3a847dfda7?utm_campaign=1054&utm_source=git)** | Weston, WV 26452, USA | On Site | Mar 23 |
+| ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15d8a79e36d3a847dfda5?utm_campaign=1054&utm_source=git)** | Morgantown, WV, USA | On Site | Mar 23 |
+| ↳ | **[Intern, HR Organizational Development](https://jobright.ai/jobs/info/69c15d8a79e36d3a847dfda4?utm_campaign=1054&utm_source=git)** | State College, PA, USA | On Site | Mar 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f602ca2668b7f54528a69?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Mar 23 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Mar 23 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Mar 23 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Mar 23 |
-| **[South East Employers](https://www.seemp.co.uk)** | **[HR Adviser](https://jobright.ai/jobs/info/69c14a192c312363dcd40c70?utm_campaign=1054&utm_source=git)** | Andover, MN | Hybrid | Mar 23 |
-| **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[Human Resources Bachelor's Intern](https://jobright.ai/jobs/info/69a471c2359fe034b1cf3c53?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Mar 23 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Mar 23 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d76431e5763f188e4072?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 23 |
-| **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/696c65a1db26b618950fc505?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Mar 23 |
-| **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 23 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
