@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c3c18e33eecf310793a104?utm_campaign=1054&utm_source=git)** | Ventura, CA | On Site | Mar 25 |
+| **[Flex](https://getflex.com)** | **[Manager, Compensation and Rewards](https://jobright.ai/jobs/info/69c3c0656f4f855eeda5df46?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 25 |
+| ↳ | **[Manager, Compensation and Rewards](https://jobright.ai/jobs/info/69c3c00bd5a1016e98da8dd5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
+| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Talent Acquisition Coordinator Intern](https://jobright.ai/jobs/info/69a9347979f3f4037f43fce3?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a8a44479f3f4037f42d6a2?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Mar 25 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a92bae79f3f4037f43eabd?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Mar 25 |
+| ↳ | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c3ba4cd5a1016e98da8888?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Mar 25 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7fb85637232443f65507f?utm_campaign=1054&utm_source=git)** | Santa Maria, CA | On Site | Mar 25 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Inclusion & Engagement](https://jobright.ai/jobs/info/69b76e5856973837413c90b9?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 25 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c386877a7a0045db89590a?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 24 |
 | **[Keytronic](https://www.keytronic.com/)** | **[HR Intern (MN)](https://jobright.ai/jobs/info/69c39b64753c101b215781e6?utm_campaign=1054&utm_source=git)** | Oakdale MN - Oakdale, MN 55128 | On Site | Mar 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (HR Shared Services Center - Recognition, Events, and Wellness)](https://jobright.ai/jobs/info/69c36005753c101b21572254?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Mar 24 |
@@ -81,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[HRIS Intern](https://jobright.ai/jobs/info/69af7d81dfaeda6ff597a38a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 24 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Manager People and Workforce Insights](https://jobright.ai/jobs/info/69c3110d753c101b21568ef7?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Mar 24 |
 | **[UES](https://www.teamues.com)** | **[Intern](https://jobright.ai/jobs/info/69c30c4fec22f8310ab11a21?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 24 |
-| **[Que Technology Group](http://www.qtg-hq.com)** | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f84?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
-| ↳ | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f77?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
+| **[Que Technology Group](http://www.qtg-hq.com)** | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f77?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
+| ↳ | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f84?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (HR Shared Services Center - Recognition, Events, and Wellness)](https://jobright.ai/jobs/info/69c30943753c101b21567ad4?utm_campaign=1054&utm_source=git)** | 820 Follin Ln SE, Vienna, VA, 22180, US | On Site | Mar 24 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c3081e753c101b215678a7?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Mar 24 |
 | **[Skilled Trades Ontario / Métiers spécialisés Ontario](https://www.skilledtradesontario.ca)** | **[Payroll and Benefits Specialist](https://jobright.ai/jobs/info/69c3079a94007a2195df21e5?utm_campaign=1054&utm_source=git)** | Mississauga, ON | On Site | Mar 24 |
@@ -129,9 +138,9 @@ For a complete list, click the following sortable link below:
 | **[UMB Bank](https://www.umb.com/)** | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2ba0b753c101b21560474?utm_campaign=1054&utm_source=git)** | Madison WI | On Site | Mar 24 |
 | ↳ | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2b99b94007a2195dead2e?utm_campaign=1054&utm_source=git)** | Kansas City MO | On Site | Mar 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69c2b844753c101b21560181?utm_campaign=1054&utm_source=git)** | Wake Forest, NC | On Site | Mar 24 |
-| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Graduate Intern – Talent Programs](https://jobright.ai/jobs/info/69c2d3e494007a2195ded4bd?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Mar 24 |
+| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Graduate Intern – Talent Programs](https://jobright.ai/jobs/info/69c2d479753c101b21562cdc?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Mar 24 |
+| ↳ | **[Graduate Intern – Talent Programs](https://jobright.ai/jobs/info/69c2d3e494007a2195ded4bd?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Mar 24 |
 | ↳ | **[Graduate Intern – Talent Programs](https://jobright.ai/jobs/info/69c2d479753c101b21562cd3?utm_campaign=1054&utm_source=git)** | US-CT-West Hartford | On Site | Mar 24 |
-| ↳ | **[Graduate Intern – Talent Programs](https://jobright.ai/jobs/info/69c2d479753c101b21562cdc?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Mar 24 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Engagement & Connectivity Intern - Summer 2026](https://jobright.ai/jobs/info/69c2b67794007a2195dea9d2?utm_campaign=1054&utm_source=git)** | Watertown, SD | Hybrid | Mar 24 |
 | **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2d226ec22f8310ab0c061?utm_campaign=1054&utm_source=git)** | US-OH-Cincinnati | On Site | Mar 24 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2d466753c101b21562c0a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, US | On Site | Mar 24 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[G2](https://www.g2.com)** | **[Employee Success (People Operations) Intern](https://jobright.ai/jobs/info/69a693e3f707784310afe92f?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Mar 24 |
 | **[Ocean Network Express North America](https://us.one-line.com)** | **[Internship](https://jobright.ai/jobs/info/699de8ade0bddb6acacd493a?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Mar 24 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Total Rewards](https://jobright.ai/jobs/info/69a5e36e359fe034b1d09a4e?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 24 |
-| ↳ | **[Intern ,Talent Management](https://jobright.ai/jobs/info/69a5e97f359fe034b1d0a52a?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 24 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Ontario & Atlantic Offices – Opportunities in Technology Risk Services (TRS) – Co-op/Intern – Fall 2026, Winter 2027 and Summer 2027 Start](https://jobright.ai/jobs/info/69a6809de567421f4257856e?utm_campaign=1054&utm_source=git)** | Halifax, NS | On Site | Mar 24 |
-| ↳ | **[Ontario & Atlantic Offices – Opportunities in Technology Risk Services (TRS) – Co-op/Intern – Fall 2026, Winter 2027 and Summer 2027 Start](https://jobright.ai/jobs/info/69a6813be567421f42578703?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Mar 24 |
-| ↳ | **[Ontario & Atlantic Offices – Opportunities in Technology Risk Services (TRS) – Co-op/Intern – Fall 2026, Winter 2027 and Summer 2027 Start](https://jobright.ai/jobs/info/69a5f83bb600907a962bc9f4?utm_campaign=1054&utm_source=git)** | Ottawa, ON | On Site | Mar 24 |
-| ↳ | **[Ontario & Atlantic Offices – Opportunities in Technology Risk Services (TRS) – Co-op/Intern – Fall 2026, Winter 2027 and Summer 2027 Start](https://jobright.ai/jobs/info/69a5f6ee359fe034b1d0b9aa?utm_campaign=1054&utm_source=git)** | Fredericton, NB | On Site | Mar 24 |
-| ↳ | **[Ontario & Atlantic Offices – Opportunities in Technology Risk Services (TRS) – Co-op/Intern – Fall 2026, Winter 2027 and Summer 2027 Start](https://jobright.ai/jobs/info/69a5ff9d359fe034b1d0c639?utm_campaign=1054&utm_source=git)** | St John’s, NL | On Site | Mar 24 |
-| ↳ | **[Ontario & Atlantic Offices – Opportunities in Technology Risk Services (TRS) – Co-op/Intern – Fall 2026, Winter 2027 and Summer 2027 Start](https://jobright.ai/jobs/info/69a5f9720da45516f16ec8cf?utm_campaign=1054&utm_source=git)** | Hamilton, ON | On Site | Mar 24 |
-| **[ALO](https://www.aloyoga.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69a630760da45516f16f1141?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
