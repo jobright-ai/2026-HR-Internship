@@ -57,7 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Empyrean](http://www.goempyrean.com)** | **[Client Operations & Analytics Internship (Minneapolis)](https://jobright.ai/jobs/info/69704d85333b6343a14cbc2c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 25 |
+| ↳ | **[Client Operations & Analytics Internship (Houston)](https://jobright.ai/jobs/info/697005c982817106e9772326?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 25 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698a8d270f6f7e7a2ce5bf79?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Mar 25 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Braintree (48513)](https://jobright.ai/jobs/info/69b81b6156973837413d496e?utm_campaign=1054&utm_source=git)** | Braintree, MA | On Site | Mar 25 |
+| **[Zimmer Biomet](https://www.zimmerbiomet.com/en)** | **[2026 Summer HR Intern, Total Rewards](https://jobright.ai/jobs/info/69a6506fd706a731db38304e?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/69a6645bd706a731db385343?utm_campaign=1054&utm_source=git)** | Sterling, VA | On Site | Mar 25 |
+| **[Georgia Nut Company](http://georgianut.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c3ef8ed5a1016e98daf6cb?utm_campaign=1054&utm_source=git)** | Skokie, IL | On Site | Mar 25 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a7a11276bbe83d3afb030f?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Mar 25 |
+| **[Almo Corporation](http://www.almo.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69a74f4f2672cb0acb4bbfc3?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 25 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/698c07380f6f7e7a2ce79747?utm_campaign=1054&utm_source=git)** | Mineral Wells, TX | On Site | Mar 25 |
+| **[Precision Castparts](http://precast.com)** | **[2026 Fall Human Resources Co-op Program](https://jobright.ai/jobs/info/698a284d4db8972cecff6c51?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Mar 25 |
 | **[McClung-Logan Equipment Company](https://mcclung-logan.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2ef25753c101b21565d5d?utm_campaign=1054&utm_source=git)** | Halethorpe, MD | On Site | Mar 25 |
+| **[Southwest Airlines](http://www.southwest.com/)** | **[Summer 2026 People Learning & Development Internship](https://jobright.ai/jobs/info/69c3fc51d5a1016e98db0542?utm_campaign=1054&utm_source=git)** | TX-Dallas | On Site | Mar 25 |
 | **[Brooke Charter Schools](https://www.ebrooke.org/)** | **[Recruitment & Communications Specialist Intern (Undergraduate Student)](https://jobright.ai/jobs/info/69a61957b600907a962bfca8?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 25 |
 | **[Benchmark](http://www.bench.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698c560578b4502f12a2dc2b?utm_campaign=1054&utm_source=git)** | Winona, MN | On Site | Mar 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Healthcare and Benefits Intern (Unpaid)](https://jobright.ai/jobs/info/69c3d7b3d5a1016e98dac900?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
@@ -70,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69a754152672cb0acb4bc636?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | Hybrid | Mar 25 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern (Louisiana Region) 2025 - 2026](https://jobright.ai/jobs/info/69c3c89933eecf310793a5fd?utm_campaign=1054&utm_source=git)** | Jeanerette, LA | On Site | Mar 25 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c3c18e33eecf310793a104?utm_campaign=1054&utm_source=git)** | Ventura, CA | On Site | Mar 25 |
+| **[State of Minnesota](https://mn.gov)** | **[Staffing Specialist / Human Resources Specialist 1](https://jobright.ai/jobs/info/69c3e84bd5a1016e98dae28b?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Mar 25 |
 | **[Flex](https://getflex.com)** | **[Manager, Compensation and Rewards](https://jobright.ai/jobs/info/69c3c0656f4f855eeda5df46?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 25 |
 | ↳ | **[Manager, Compensation and Rewards](https://jobright.ai/jobs/info/69c3c00bd5a1016e98da8dd5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Talent Acquisition Coordinator Intern](https://jobright.ai/jobs/info/69a9347979f3f4037f43fce3?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
@@ -84,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Legrand, North America](http://www.legrand.us)** | **[Graduate Intern – Talent Programs](https://jobright.ai/jobs/info/69c35c35753c101b21571457?utm_campaign=1054&utm_source=git)** | West Hartford, CT | On Site | Mar 24 |
 | **[Community Mental Health Affiliates, Inc. (CMHA)](http://www.cmhacc.org)** | **[Human Resource Intern - part-time - 1st shift - Mon-Fri](https://jobright.ai/jobs/info/69ab65957e1fab39d382ec79?utm_campaign=1054&utm_source=git)** | New Britain, CT | On Site | Mar 24 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69c3339c753c101b2156da14?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
-| **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[FY26 HR Intern (Clerk III) Austin, Texas](https://jobright.ai/jobs/info/69c331abec22f8310ab16fdc?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 24 |
 | **[Kent School District](http://www.kent.k12.wa.us/Careers)** | **[HR Operations Assistant - Long Term Temporary (LTT)](https://jobright.ai/jobs/info/69c3317e753c101b2156d881?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Mar 24 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[People Business Partner Intern](https://jobright.ai/jobs/info/69c33126753c101b2156d7b1?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
 | **[Authentic Brands Group](https://authentic.com)** | **[People Operations Summer Intern](https://jobright.ai/jobs/info/69bb2a343b74eb1e2c8999ee?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Mar 24 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UMB Bank](https://www.umb.com/)** | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2e364753c101b21564742?utm_campaign=1054&utm_source=git)** | Dubuque, IA | On Site | Mar 24 |
 | ↳ | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2bd03ec22f8310ab0a110?utm_campaign=1054&utm_source=git)** | Dubuque IA | On Site | Mar 24 |
 | **[Framatome North America](www.framatome.com/en)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/69b87f5056973837413de1c7?utm_campaign=1054&utm_source=git)** | Lynchburg, VA | On Site | Mar 24 |
-| **[UMB Bank](https://www.umb.com/)** | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2ba0b753c101b21560474?utm_campaign=1054&utm_source=git)** | Madison WI | On Site | Mar 24 |
-| ↳ | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2b99b94007a2195dead2e?utm_campaign=1054&utm_source=git)** | Kansas City MO | On Site | Mar 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69c2b844753c101b21560181?utm_campaign=1054&utm_source=git)** | Wake Forest, NC | On Site | Mar 24 |
-| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Graduate Intern – Talent Programs](https://jobright.ai/jobs/info/69c2d479753c101b21562cdc?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Mar 24 |
-| ↳ | **[Graduate Intern – Talent Programs](https://jobright.ai/jobs/info/69c2d3e494007a2195ded4bd?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Mar 24 |
-| ↳ | **[Graduate Intern – Talent Programs](https://jobright.ai/jobs/info/69c2d479753c101b21562cd3?utm_campaign=1054&utm_source=git)** | US-CT-West Hartford | On Site | Mar 24 |
-| **[Wurth Elektronik](https://www.we-ics.com)** | **[Engagement & Connectivity Intern - Summer 2026](https://jobright.ai/jobs/info/69c2b67794007a2195dea9d2?utm_campaign=1054&utm_source=git)** | Watertown, SD | Hybrid | Mar 24 |
-| **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2d226ec22f8310ab0c061?utm_campaign=1054&utm_source=git)** | US-OH-Cincinnati | On Site | Mar 24 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2d466753c101b21562c0a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, US | On Site | Mar 24 |
-| **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69c2b37194007a2195dea4db?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 24 |
-| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/69c2aecaec22f8310ab08b3f?utm_campaign=1054&utm_source=git)** | Macon, Georgia, United States | On Site | Mar 24 |
-| **[Wurth Elektronik](https://www.we-ics.com)** | **[Engagement & Connectivity Intern - Summer 2026](https://jobright.ai/jobs/info/69c2ade2753c101b2155eed1?utm_campaign=1054&utm_source=git)** | Watertown, South Dakota, United States | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
