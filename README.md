@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skanska](http://skanska.com)** | **[HR Intern](https://jobright.ai/jobs/info/698bb6c40f6f7e7a2ce72fcb?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 25 |
+| **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern (Onsite)](https://jobright.ai/jobs/info/69c4287733eecf3107944619?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Mar 25 |
+| **[Hendrick Medical Center Brownwood](https://prevcare.se/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c428376f4f855eeda68528?utm_campaign=1054&utm_source=git)** | Brownwood, TX | On Site | Mar 25 |
+| **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697002583ed06875134b02a2?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | Mar 25 |
+| **[Waters Corporation](http://www.waters.com)** | **[Internal Communication Manager (IT & Transformation)](https://jobright.ai/jobs/info/69c425c1d5a1016e98db3241?utm_campaign=1054&utm_source=git)** | Milford, MA | Hybrid | Mar 25 |
+| **[SentinelOne](http://www.sentinelone.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c4206cd5a1016e98db29e4?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 25 |
+| ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/69c418866f4f855eeda675d8?utm_campaign=1054&utm_source=git)** | United States - Remote | Remote | Mar 25 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4016cd5a1016e98db0856?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Mar 25 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Credentialing & Compliance Intern](https://jobright.ai/jobs/info/69c3fef033eecf3107941841?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Mar 25 |
 | **[eClerx](https://eclerx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a9323979f3f4037f43f836?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Mar 25 |
@@ -74,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[McClung-Logan Equipment Company](https://mcclung-logan.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2ef25753c101b21565d5d?utm_campaign=1054&utm_source=git)** | Halethorpe, MD | On Site | Mar 25 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4049ad5a1016e98db09a0?utm_campaign=1054&utm_source=git)** | Lafayette, Indiana | On Site | Mar 25 |
 | **[Motion](https://www.motion.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a771bc2672cb0acb4be82b?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Mar 25 |
-| **[Southwest Airlines](http://www.southwest.com/)** | **[Summer 2026 People Learning & Development Internship](https://jobright.ai/jobs/info/69c3fc51d5a1016e98db0542?utm_campaign=1054&utm_source=git)** | TX-Dallas | On Site | Mar 25 |
 | **[Brooke Charter Schools](https://www.ebrooke.org/)** | **[Recruitment & Communications Specialist Intern (Undergraduate Student)](https://jobright.ai/jobs/info/69a61957b600907a962bfca8?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 25 |
 | **[Benchmark](http://www.bench.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698c560578b4502f12a2dc2b?utm_campaign=1054&utm_source=git)** | Winona, MN | On Site | Mar 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Healthcare and Benefits Intern (Unpaid)](https://jobright.ai/jobs/info/69c3d7b3d5a1016e98dac900?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pisces Healthcare Solutions](https://www.pisceshealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2cff0ec22f8310ab0bc4c?utm_campaign=1054&utm_source=git)** | Winchester,VA,US | On Site | Mar 24 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Compensation Systems Intelligence Intern](https://jobright.ai/jobs/info/69be0aff393a1008f743e220?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Mar 24 |
 | **[British Columbia Utilities Commission](https://www.bcuc.com/)** | **[Indigenous Internship](https://jobright.ai/jobs/info/69c2cc48753c101b21561a68?utm_campaign=1054&utm_source=git)** | Vancouver, BC | Hybrid | Mar 24 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Payroll Time & Labor Specialist, VP Finance](https://jobright.ai/jobs/info/69bc75505b89c002acf2355f?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 24 |
-| **[TW Metals LLC](http://www.twmetals.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69c2cbe4753c101b215619a2?utm_campaign=1054&utm_source=git)** | Exton, Pennsylvania, United States | On Site | Mar 24 |
-| **[AAAS](http://www.aaas.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2cbd0ec22f8310ab0b1ab?utm_campaign=1054&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 24 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[HR Partner, People and Culture](https://jobright.ai/jobs/info/69c2e871ec22f8310ab0e12d?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 24 |
-| **[HCM](http://hcm2.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2e85bec22f8310ab0e114?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Mar 24 |
-| **[CooperVision](http://coopervision.com)** | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69c2c5ac94007a2195debcae?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
