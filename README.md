@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allison Transmission](http://www.allisontransmission.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4016cd5a1016e98db0856?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Mar 25 |
+| **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Credentialing & Compliance Intern](https://jobright.ai/jobs/info/69c3fef033eecf3107941841?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Mar 25 |
+| **[eClerx](https://eclerx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a9323979f3f4037f43f836?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Mar 25 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Client Operations & Analytics Internship (Minneapolis)](https://jobright.ai/jobs/info/69704d85333b6343a14cbc2c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 25 |
 | ↳ | **[Client Operations & Analytics Internship (Houston)](https://jobright.ai/jobs/info/697005c982817106e9772326?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 25 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698a8d270f6f7e7a2ce5bf79?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Mar 25 |
@@ -69,6 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/698c07380f6f7e7a2ce79747?utm_campaign=1054&utm_source=git)** | Mineral Wells, TX | On Site | Mar 25 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Fall Human Resources Co-op Program](https://jobright.ai/jobs/info/698a284d4db8972cecff6c51?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Mar 25 |
 | **[McClung-Logan Equipment Company](https://mcclung-logan.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2ef25753c101b21565d5d?utm_campaign=1054&utm_source=git)** | Halethorpe, MD | On Site | Mar 25 |
+| **[Allison Transmission](http://www.allisontransmission.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4049ad5a1016e98db09a0?utm_campaign=1054&utm_source=git)** | Lafayette, Indiana | On Site | Mar 25 |
+| **[Motion](https://www.motion.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a771bc2672cb0acb4be82b?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Mar 25 |
 | **[Southwest Airlines](http://www.southwest.com/)** | **[Summer 2026 People Learning & Development Internship](https://jobright.ai/jobs/info/69c3fc51d5a1016e98db0542?utm_campaign=1054&utm_source=git)** | TX-Dallas | On Site | Mar 25 |
 | **[Brooke Charter Schools](https://www.ebrooke.org/)** | **[Recruitment & Communications Specialist Intern (Undergraduate Student)](https://jobright.ai/jobs/info/69a61957b600907a962bfca8?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 25 |
 | **[Benchmark](http://www.bench.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698c560578b4502f12a2dc2b?utm_campaign=1054&utm_source=git)** | Winona, MN | On Site | Mar 25 |
@@ -113,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[HRIS Intern](https://jobright.ai/jobs/info/69af7d81dfaeda6ff597a38a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 24 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Manager People and Workforce Insights](https://jobright.ai/jobs/info/69c3110d753c101b21568ef7?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Mar 24 |
 | **[UES](https://www.teamues.com)** | **[Intern](https://jobright.ai/jobs/info/69c30c4fec22f8310ab11a21?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 24 |
-| **[Que Technology Group](http://www.qtg-hq.com)** | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f77?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
-| ↳ | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f84?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
+| **[Que Technology Group](http://www.qtg-hq.com)** | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f84?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
+| ↳ | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f77?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (HR Shared Services Center - Recognition, Events, and Wellness)](https://jobright.ai/jobs/info/69c30943753c101b21567ad4?utm_campaign=1054&utm_source=git)** | 820 Follin Ln SE, Vienna, VA, 22180, US | On Site | Mar 24 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c3081e753c101b215678a7?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Mar 24 |
 | **[Skilled Trades Ontario / Métiers spécialisés Ontario](https://www.skilledtradesontario.ca)** | **[Payroll and Benefits Specialist](https://jobright.ai/jobs/info/69c3079a94007a2195df21e5?utm_campaign=1054&utm_source=git)** | Mississauga, ON | On Site | Mar 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Calgary](http://www.ucalgary.ca)** | **[HR Partner, People and Culture](https://jobright.ai/jobs/info/69c2e871ec22f8310ab0e12d?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 24 |
 | **[HCM](http://hcm2.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2e85bec22f8310ab0e114?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Mar 24 |
 | **[CooperVision](http://coopervision.com)** | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69c2c5ac94007a2195debcae?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Mar 24 |
-| **[Wonderful Orchards](http://wonderfulorchards.com)** | **[HR Intern - Benefits and Wellness](https://jobright.ai/jobs/info/69a632beb600907a962c11c5?utm_campaign=1054&utm_source=git)** | Shafter, CA | On Site | Mar 24 |
-| **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69a60869359fe034b1d0d2fe?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Mar 24 |
-| **[UMB Bank](https://www.umb.com/)** | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2e364753c101b21564742?utm_campaign=1054&utm_source=git)** | Dubuque, IA | On Site | Mar 24 |
-| ↳ | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2bd03ec22f8310ab0a110?utm_campaign=1054&utm_source=git)** | Dubuque IA | On Site | Mar 24 |
-| **[Framatome North America](www.framatome.com/en)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/69b87f5056973837413de1c7?utm_campaign=1054&utm_source=git)** | Lynchburg, VA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
