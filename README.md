@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse & Registered Nurse Internship Opportunities - Warren Campus, NJ (Full Time)](https://jobright.ai/jobs/info/69c489f433eecf310794e301?utm_campaign=1054&utm_source=git)** | Phillipsburg, NJ | On Site | Mar 25 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/69c4850733eecf310794dfcf?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Mar 25 |
 | **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 25 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse and Registered Nurse Operating Room Internship (Opportunities at Multiple Campuses)](https://jobright.ai/jobs/info/69c47c0ed5a1016e98dbbb61?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA | On Site | Mar 25 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c475b76f4f855eeda700c6?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 25 |
+| **[Kate Farms](https://www.katefarms.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69c496276f4f855eeda7316e?utm_campaign=1054&utm_source=git)** | Goleta, CA | Hybrid | Mar 25 |
+| ↳ | **[Talent Acquisition / P&C Intern](https://jobright.ai/jobs/info/69c496ca33eecf310794f9be?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Mar 25 |
+| **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c496146f4f855eeda73132?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Mar 25 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46ed76f4f855eeda6fbd7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Mar 25 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician- Human Resources-Bryan District](https://jobright.ai/jobs/info/69c48a696f4f855eeda71d37?utm_campaign=1054&utm_source=git)** | Bryan, NC | On Site | Mar 25 |
 | **[PROJXON](www.projxon.com)** | **[Human Resources Program Lead (Intern)](https://jobright.ai/jobs/info/69c46a3833eecf310794bc6e?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 25 |
 | **[Cortland](https://www.cortland.com/)** | **[Talent Solutions Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/69c45e756f4f855eeda6e4d8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/69c45e2533eecf310794aa8b?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 25 |
@@ -79,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Athena](https://athenapsych.com)** | **[Talent Acquisition Intern (Unpaid)](https://jobright.ai/jobs/info/69c448fdd5a1016e98db6845?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Mast-Jägermeister US, Inc.](http://mastjagermeisterus.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c446d233eecf3107947738?utm_campaign=1054&utm_source=git)** | White Plains, NY | Hybrid | Mar 25 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69c4441a33eecf3107947339?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Mar 25 |
-| **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46da86f4f855eeda6faac?utm_campaign=1054&utm_source=git)** | Merrimack, NH, US | On Site | Mar 25 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46bfbd5a1016e98dba58c?utm_campaign=1054&utm_source=git)** | US-NH-Merrimack | On Site | Mar 25 |
+| **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46bfbd5a1016e98dba58c?utm_campaign=1054&utm_source=git)** | US-NH-Merrimack | On Site | Mar 25 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46da86f4f855eeda6faac?utm_campaign=1054&utm_source=git)** | Merrimack, NH, US | On Site | Mar 25 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[People & Culture Internship - Summer 2026](https://jobright.ai/jobs/info/69c4708e6f4f855eeda6fc79?utm_campaign=1054&utm_source=git)** | Farmington, PA | On Site | Mar 25 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4406d6f4f855eeda6abe0?utm_campaign=1054&utm_source=git)** | Trumbull, CT | On Site | Mar 25 |
 | **[Electrolux Group](https://www.electroluxappliances.com)** | **[Internship Talent Management (L&D & Talent & Performance) – HQ Stockholm, Sweden](https://jobright.ai/jobs/info/69c43e7133eecf3107946e23?utm_campaign=1054&utm_source=git)** | Stockholm, NY | Hybrid | Mar 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lumentum](https://www.lumentum.com/en)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69c3339c753c101b2156da14?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
 | **[Kent School District](http://www.kent.k12.wa.us/Careers)** | **[HR Operations Assistant - Long Term Temporary (LTT)](https://jobright.ai/jobs/info/69c3317e753c101b2156d881?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Mar 24 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[People Business Partner Intern](https://jobright.ai/jobs/info/69c33126753c101b2156d7b1?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
-| **[Authentic Brands Group](https://authentic.com)** | **[People Operations Summer Intern](https://jobright.ai/jobs/info/69bb2a343b74eb1e2c8999ee?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Mar 24 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Mentorship Specialist, Alumni Counseling and Development Center](https://jobright.ai/jobs/info/69c3a6b57a7a0045db898263?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Mar 24 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69c328ff94007a2195df717d?utm_campaign=1054&utm_source=git)** | USA - CA - San Jose (Ridder) | On Site | Mar 24 |
-| **[Agape Child & Family Services](https://agapemeanslove.org/)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/69c3261394007a2195df6da7?utm_campaign=1054&utm_source=git)** | Agape - Central Office - Memphis, TN 38131 | On Site | Mar 24 |
-| **[CGI](https://www.cgi.com)** | **[Recruitment Coordinator Co-op Student](https://jobright.ai/jobs/info/69c3255794007a2195df6c74?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
