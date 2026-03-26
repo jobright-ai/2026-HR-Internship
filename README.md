@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RBC](https://www.rbc.com)** | **[Leadership Development Intern](https://jobright.ai/jobs/info/69c52e8be565c26a7000c001?utm_campaign=1054&utm_source=git)** | Selkirk, MB | On Site | Mar 26 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Human Resources Rotational Analyst – Graduate](https://jobright.ai/jobs/info/69a904242580d3183f0134ad?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Mar 26 |
+| **[HeliosX Group](https://www.heliosx.com/)** | **[Talent Advisor (Canada)](https://jobright.ai/jobs/info/698b46460f6f7e7a2ce696ed?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 26 |
+| **[Mohawk Valley Community College](https://www.mvcc.edu)** | **[Associate Director of Human Resources for Employment and Compensation](https://jobright.ai/jobs/info/69a5e99ab600907a962bb3e2?utm_campaign=1054&utm_source=git)** | Utica-Rome Area | On Site | Mar 26 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698d14320f6f7e7a2ce8c9e6?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 26 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources (Learning & Development)](https://jobright.ai/jobs/info/69717dd651f726477183da3f?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 26 |
 | **[Extrity Services](https://extrityservices.com)** | **[People Operations Intern (Remote)](https://jobright.ai/jobs/info/69c51800fcdc9c7a8f68d6ba?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 26 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resource Specialist (Project Management)](https://jobright.ai/jobs/info/69c5173449316e7df502088d?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Human Resources - Summer Co-Op Student](https://jobright.ai/jobs/info/69a871df7ac93962b7083ed8?utm_campaign=1054&utm_source=git)** | North Bay, ON | On Site | Mar 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698cd8f90f6f7e7a2ce88d27?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c511d149316e7df5020637?utm_campaign=1054&utm_source=git)** | Merrimack, NH | On Site | Mar 26 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources (Learning & Development)](https://jobright.ai/jobs/info/697173a4333b6343a14e10d4?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 26 |
 | **[Challenge Manufacturing](http://challenge-mfg.com)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/69a950577f9271426f882bc0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Mar 26 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[VSC HR Intern](https://jobright.ai/jobs/info/69a957717f9271426f8841ef?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Mar 26 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Corporate)](https://jobright.ai/jobs/info/695da554fbd62a0a656658ac?utm_campaign=1054&utm_source=git)** | Moonachie, NJ | Hybrid | Mar 26 |
@@ -96,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Human Resources/Training Internship](https://jobright.ai/jobs/info/69c4fa1d33eecf31079575ed?utm_campaign=1054&utm_source=git)** | Farmington, PA | On Site | Mar 25 |
 | **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 25 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse and Registered Nurse Operating Room Internship (Opportunities at Multiple Campuses)](https://jobright.ai/jobs/info/69c47c0ed5a1016e98dbbb61?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA | On Site | Mar 25 |
-| **[Kate Farms](https://www.katefarms.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69c4ae8f6f4f855eeda754ee?utm_campaign=1054&utm_source=git)** | Goleta, California, United States | Hybrid | Mar 25 |
-| ↳ | **[Talent Acquisition / P&C Intern](https://jobright.ai/jobs/info/69c507ddfcdc9c7a8f68d1c3?utm_campaign=1054&utm_source=git)** | Waltham, Massachusetts, United States | Remote | Mar 25 |
+| **[Kate Farms](https://www.katefarms.com)** | **[Talent Acquisition / P&C Intern](https://jobright.ai/jobs/info/69c507ddfcdc9c7a8f68d1c3?utm_campaign=1054&utm_source=git)** | Waltham, Massachusetts, United States | Remote | Mar 25 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/69c4ae8f6f4f855eeda754ee?utm_campaign=1054&utm_source=git)** | Goleta, California, United States | Hybrid | Mar 25 |
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49e1933eecf310795034b?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Mar 25 |
 | ↳ | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c4a0926f4f855eeda74165?utm_campaign=1054&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Mar 25 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c475b76f4f855eeda700c6?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empyrean](http://www.goempyrean.com)** | **[Client Operations & Analytics Internship (Minneapolis)](https://jobright.ai/jobs/info/69704d85333b6343a14cbc2c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 25 |
 | ↳ | **[Client Operations & Analytics Internship (Houston)](https://jobright.ai/jobs/info/697005c982817106e9772326?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 25 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698a8d270f6f7e7a2ce5bf79?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Mar 25 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Braintree (48513)](https://jobright.ai/jobs/info/69b81b6156973837413d496e?utm_campaign=1054&utm_source=git)** | Braintree, MA | On Site | Mar 25 |
-| **[Zimmer Biomet](https://www.zimmerbiomet.com/en)** | **[2026 Summer HR Intern, Total Rewards](https://jobright.ai/jobs/info/69a6506fd706a731db38304e?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/69a6645bd706a731db385343?utm_campaign=1054&utm_source=git)** | Sterling, VA | On Site | Mar 25 |
-| **[Georgia Nut Company](http://georgianut.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c3ef8ed5a1016e98daf6cb?utm_campaign=1054&utm_source=git)** | Skokie, IL | On Site | Mar 25 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a7a11276bbe83d3afb030f?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
