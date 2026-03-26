@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cortland](https://www.cortland.com/)** | **[Talent Solutions Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/69c45e756f4f855eeda6e4d8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
+| **[Parkland Corporation](https://www.parkland.ca/)** | **[Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/69c45e2c6f4f855eeda6e479?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 25 |
+| **[Denison Mines Corp.](http://www.denisonmines.com/s/Home.asp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c45bc8d5a1016e98db91ed?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Mar 25 |
+| **[BrandSafway](https://www.brandsafway.com/)** | **[HR Intern - USA - GA - Atlanta - Global Support Center - R26-03078](https://jobright.ai/jobs/info/69c4587733eecf310794a0c1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
+| **[Columbia Residential](https://www.columbiares.com/)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69c452cad5a1016e98db759e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
 | **[The Health Management Academy](http://www.hmacademy.com/)** | **[Summer Internship - Leadership Development](https://jobright.ai/jobs/info/69c44eea6f4f855eeda6c17b?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Mar 25 |
 | **[Schimenti Construction Company](http://schimenti.com)** | **[Internship - Summer 2026](https://jobright.ai/jobs/info/69c44b8833eecf31079483c4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[University of Southern California](http://www.usc.edu)** | **[Sr Payroll Specialist](https://jobright.ai/jobs/info/69c44b666f4f855eeda6be95?utm_campaign=1054&utm_source=git)** | Marina del Rey, CA | On Site | Mar 25 |
@@ -76,10 +81,12 @@ For a complete list, click the following sortable link below:
 | **[YMCA of Greater Seattle](http://www.seattleymca.org/)** | **[Social Services Intern - WAGES Program](https://jobright.ai/jobs/info/69c42fd46f4f855eeda69389?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/69c42fb96f4f855eeda6934a?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Mar 25 |
 | **[Skanska](http://skanska.com)** | **[HR Intern](https://jobright.ai/jobs/info/698bb6c40f6f7e7a2ce72fcb?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 25 |
+| **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c4507d6f4f855eeda6c32e?utm_campaign=1054&utm_source=git)** | West Bend, Wisconsin, United States | On Site | Mar 25 |
 | **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern (Onsite)](https://jobright.ai/jobs/info/69c4287733eecf3107944619?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Mar 25 |
 | **[Hendrick Medical Center Brownwood](https://prevcare.se/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c428376f4f855eeda68528?utm_campaign=1054&utm_source=git)** | Brownwood, TX | On Site | Mar 25 |
 | **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697002583ed06875134b02a2?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | Mar 25 |
 | **[Waters Corporation](http://www.waters.com)** | **[Internal Communication Manager (IT & Transformation)](https://jobright.ai/jobs/info/69c425c1d5a1016e98db3241?utm_campaign=1054&utm_source=git)** | Milford, MA | Hybrid | Mar 25 |
+| **[Nemacolin](http://www.nemacolin.com)** | **[People & Culture Internship - Summer 2026](https://jobright.ai/jobs/info/69c450746f4f855eeda6c2ff?utm_campaign=1054&utm_source=git)** | Farmington, Pennsylvania, United States | On Site | Mar 25 |
 | **[Extrity Services](https://extrityservices.com)** | **[People Operations Intern - Unpaid (Remote)](https://jobright.ai/jobs/info/69c4461ad5a1016e98db5ff2?utm_campaign=1054&utm_source=git)** | Remote (United States) | Remote | Mar 25 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c4206cd5a1016e98db29e4?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 25 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69c4385ad5a1016e98db4e91?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 25 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[HRIS Intern](https://jobright.ai/jobs/info/69af7d81dfaeda6ff597a38a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 24 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Manager People and Workforce Insights](https://jobright.ai/jobs/info/69c3110d753c101b21568ef7?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Mar 24 |
 | **[UES](https://www.teamues.com)** | **[Intern](https://jobright.ai/jobs/info/69c30c4fec22f8310ab11a21?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 24 |
-| **[Que Technology Group](http://www.qtg-hq.com)** | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f77?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
-| ↳ | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f84?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
+| **[Que Technology Group](http://www.qtg-hq.com)** | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f84?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
+| ↳ | **[REMOTE - HR Assistant - Internship Administrative Coordinator](https://jobright.ai/jobs/info/69c3278894007a2195df6f77?utm_campaign=1054&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (HR Shared Services Center - Recognition, Events, and Wellness)](https://jobright.ai/jobs/info/69c30943753c101b21567ad4?utm_campaign=1054&utm_source=git)** | 820 Follin Ln SE, Vienna, VA, 22180, US | On Site | Mar 24 |
-| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c3081e753c101b215678a7?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Mar 24 |
-| **[Skilled Trades Ontario / Métiers spécialisés Ontario](https://www.skilledtradesontario.ca)** | **[Payroll and Benefits Specialist](https://jobright.ai/jobs/info/69c3079a94007a2195df21e5?utm_campaign=1054&utm_source=git)** | Mississauga, ON | On Site | Mar 24 |
-| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Recruiting Operations](https://jobright.ai/jobs/info/69c30362ec22f8310ab109cc?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Mar 24 |
-| **[Spheros](www.spheros.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c32192ec22f8310ab147c4?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Mar 24 |
-| **[MANITOU Group](http://www.manitou-group.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c301a6ec22f8310ab10870?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 24 |
-| **[Palmetto Citizens Federal Credit Union](https://www.palmettocitizens.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2fe6aec22f8310ab10646?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Mar 24 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[SSG ISO HR Intern](https://jobright.ai/jobs/info/69c2fa9294007a2195df1a08?utm_campaign=1054&utm_source=git)** | North Carolina, United States | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
