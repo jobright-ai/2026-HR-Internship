@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources (Learning & Development)](https://jobright.ai/jobs/info/697173a4333b6343a14e10d4?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 26 |
+| **[Challenge Manufacturing](http://challenge-mfg.com)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/69a950577f9271426f882bc0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Mar 26 |
+| **[Nucor Corporation](http://www.nucor.com)** | **[VSC HR Intern](https://jobright.ai/jobs/info/69a957717f9271426f8841ef?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Mar 26 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Corporate)](https://jobright.ai/jobs/info/695da554fbd62a0a656658ac?utm_campaign=1054&utm_source=git)** | Moonachie, NJ | Hybrid | Mar 26 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/69a970947f9271426f884c90?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Mar 26 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Senior Creative Recruiter (eCommerce)](https://jobright.ai/jobs/info/6986e2680f6f7e7a2ce21bf8?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 26 |
@@ -88,9 +91,10 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Human Resources/Training Internship](https://jobright.ai/jobs/info/69c4fa1d33eecf31079575ed?utm_campaign=1054&utm_source=git)** | Farmington, PA | On Site | Mar 25 |
 | **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 25 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse and Registered Nurse Operating Room Internship (Opportunities at Multiple Campuses)](https://jobright.ai/jobs/info/69c47c0ed5a1016e98dbbb61?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA | On Site | Mar 25 |
-| **[Kate Farms](https://www.katefarms.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69c4ae8f6f4f855eeda754ee?utm_campaign=1054&utm_source=git)** | Goleta, California, United States | Hybrid | Mar 25 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c4a0926f4f855eeda74165?utm_campaign=1054&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Mar 25 |
-| ↳ | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49e1933eecf310795034b?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Mar 25 |
+| **[Kate Farms](https://www.katefarms.com)** | **[Talent Acquisition / P&C Intern](https://jobright.ai/jobs/info/69c507ddfcdc9c7a8f68d1c3?utm_campaign=1054&utm_source=git)** | Waltham, Massachusetts, United States | Remote | Mar 25 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/69c4ae8f6f4f855eeda754ee?utm_campaign=1054&utm_source=git)** | Goleta, California, United States | Hybrid | Mar 25 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49e1933eecf310795034b?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Mar 25 |
+| ↳ | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c4a0926f4f855eeda74165?utm_campaign=1054&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Mar 25 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c475b76f4f855eeda700c6?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 25 |
 | **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c496146f4f855eeda73132?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Mar 25 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46ed76f4f855eeda6fbd7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Mar 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[2026 Fall Human Resources Co-op Program](https://jobright.ai/jobs/info/698a284d4db8972cecff6c51?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Mar 25 |
 | **[McClung-Logan Equipment Company](https://mcclung-logan.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2ef25753c101b21565d5d?utm_campaign=1054&utm_source=git)** | Halethorpe, MD | On Site | Mar 25 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4049ad5a1016e98db09a0?utm_campaign=1054&utm_source=git)** | Lafayette, Indiana | On Site | Mar 25 |
-| **[Motion](https://www.motion.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a771bc2672cb0acb4be82b?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Mar 25 |
-| **[Brooke Charter Schools](https://www.ebrooke.org/)** | **[Recruitment & Communications Specialist Intern (Undergraduate Student)](https://jobright.ai/jobs/info/69a61957b600907a962bfca8?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 25 |
-| **[Benchmark](http://www.bench.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/698c560578b4502f12a2dc2b?utm_campaign=1054&utm_source=git)** | Winona, MN | On Site | Mar 25 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Healthcare and Benefits Intern (Unpaid)](https://jobright.ai/jobs/info/69c3d7b3d5a1016e98dac900?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
