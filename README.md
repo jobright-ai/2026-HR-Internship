@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (GMPT) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c4d47ed5a1016e98dc3134?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69c4d05d33eecf3107954065?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Mar 25 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/69c4c92dd5a1016e98dc20fd?utm_campaign=1054&utm_source=git)** | Tampa, Florida, United States | On Site | Mar 25 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c4c9116f4f855eeda7712a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 25 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse and Registered Nurse Operating Room Internship (Opportunities at Multiple Campuses)](https://jobright.ai/jobs/info/69c47c0ed5a1016e98dbbb61?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA | On Site | Mar 25 |
 | **[Kate Farms](https://www.katefarms.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69c4ae8f6f4f855eeda754ee?utm_campaign=1054&utm_source=git)** | Goleta, California, United States | Hybrid | Mar 25 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c4a0926f4f855eeda74165?utm_campaign=1054&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Mar 25 |
-| ↳ | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49e1933eecf310795034b?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Mar 25 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49e1933eecf310795034b?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Mar 25 |
+| ↳ | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c4a0926f4f855eeda74165?utm_campaign=1054&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Mar 25 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c475b76f4f855eeda700c6?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 25 |
 | **[Kate Farms](https://www.katefarms.com)** | **[Talent Acquisition / P&C Intern](https://jobright.ai/jobs/info/69c496ca33eecf310794f9be?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Mar 25 |
 | **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c496146f4f855eeda73132?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Mar 25 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician- Human Resources-Bryan District](https://jobright.ai/jobs/info/69c48a696f4f855eeda71d37?utm_campaign=1054&utm_source=git)** | Bryan, NC | On Site | Mar 25 |
 | **[PROJXON](www.projxon.com)** | **[Human Resources Program Lead (Intern)](https://jobright.ai/jobs/info/69c46a3833eecf310794bc6e?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 25 |
 | **[Cortland](https://www.cortland.com/)** | **[Talent Solutions Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/69c45e756f4f855eeda6e4d8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
+| **[Denison Mines Corp.](http://www.denisonmines.com/s/Home.asp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4d95fd5a1016e98dc3b1f?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 25 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[HR Intern - USA - GA - Atlanta - Global Support Center - R26-03078](https://jobright.ai/jobs/info/69c4587733eecf310794a0c1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
 | **[Columbia Residential](https://www.columbiares.com/)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69c452cad5a1016e98db759e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
 | **[The Health Management Academy](http://www.hmacademy.com/)** | **[Summer Internship - Leadership Development](https://jobright.ai/jobs/info/69c44eea6f4f855eeda6c17b?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Mar 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Talent Acquisition Coordinator Intern](https://jobright.ai/jobs/info/69a9347979f3f4037f43fce3?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a8a44479f3f4037f42d6a2?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Mar 25 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a92bae79f3f4037f43eabd?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Mar 25 |
-| ↳ | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c3ba4cd5a1016e98da8888?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Mar 25 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69a7fb85637232443f65507f?utm_campaign=1054&utm_source=git)** | Santa Maria, CA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
