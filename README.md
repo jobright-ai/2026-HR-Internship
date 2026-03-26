@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern(Volunteer)](https://jobright.ai/jobs/info/69c49b98d5a1016e98dbe94f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 25 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49a48d5a1016e98dbe889?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Mar 25 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse & Registered Nurse Internship Opportunities - Warren Campus, NJ (Full Time)](https://jobright.ai/jobs/info/69c489f433eecf310794e301?utm_campaign=1054&utm_source=git)** | Phillipsburg, NJ | On Site | Mar 25 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/69c4850733eecf310794dfcf?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Mar 25 |
 | **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 25 |
+| **[Parkland Corporation](https://www.parkland.ca/)** | **[Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/69c49b7b6f4f855eeda739a6?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 25 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse and Registered Nurse Operating Room Internship (Opportunities at Multiple Campuses)](https://jobright.ai/jobs/info/69c47c0ed5a1016e98dbbb61?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA | On Site | Mar 25 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49e1933eecf310795034b?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Mar 25 |
+| ↳ | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c4a0926f4f855eeda74165?utm_campaign=1054&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Mar 25 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c475b76f4f855eeda700c6?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 25 |
-| **[Kate Farms](https://www.katefarms.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69c496276f4f855eeda7316e?utm_campaign=1054&utm_source=git)** | Goleta, CA | Hybrid | Mar 25 |
-| ↳ | **[Talent Acquisition / P&C Intern](https://jobright.ai/jobs/info/69c496ca33eecf310794f9be?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Mar 25 |
+| **[Kate Farms](https://www.katefarms.com)** | **[Talent Acquisition / P&C Intern](https://jobright.ai/jobs/info/69c496ca33eecf310794f9be?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Mar 25 |
 | **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c496146f4f855eeda73132?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Mar 25 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46ed76f4f855eeda6fbd7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Mar 25 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician- Human Resources-Bryan District](https://jobright.ai/jobs/info/69c48a696f4f855eeda71d37?utm_campaign=1054&utm_source=git)** | Bryan, NC | On Site | Mar 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Keytronic](https://www.keytronic.com/)** | **[HR Intern (MN)](https://jobright.ai/jobs/info/69c39b64753c101b215781e6?utm_campaign=1054&utm_source=git)** | Oakdale MN - Oakdale, MN 55128 | On Site | Mar 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (HR Shared Services Center - Recognition, Events, and Wellness)](https://jobright.ai/jobs/info/69c36005753c101b21572254?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Mar 24 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Graduate Intern – Talent Programs](https://jobright.ai/jobs/info/69c35c35753c101b21571457?utm_campaign=1054&utm_source=git)** | West Hartford, CT | On Site | Mar 24 |
-| **[Community Mental Health Affiliates, Inc. (CMHA)](http://www.cmhacc.org)** | **[Human Resource Intern - part-time - 1st shift - Mon-Fri](https://jobright.ai/jobs/info/69ab65957e1fab39d382ec79?utm_campaign=1054&utm_source=git)** | New Britain, CT | On Site | Mar 24 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69c3339c753c101b2156da14?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
-| **[Kent School District](http://www.kent.k12.wa.us/Careers)** | **[HR Operations Assistant - Long Term Temporary (LTT)](https://jobright.ai/jobs/info/69c3317e753c101b2156d881?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Mar 24 |
-| **[Medidata Solutions](https://www.medidata.com)** | **[People Business Partner Intern](https://jobright.ai/jobs/info/69c33126753c101b2156d7b1?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
