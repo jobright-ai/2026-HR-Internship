@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Protos Security](http://protossecurity.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69baa8893b74eb1e2c88dfa8?utm_campaign=1054&utm_source=git)** | Norwalk, CT | On Site | Mar 26 |
+| **[Securitas Technology](https://www.securitastechnology.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c5087cf7bed33dee482671?utm_campaign=1054&utm_source=git)** | Uniontown, OH | On Site | Mar 26 |
 | **[RBC](https://www.rbc.com)** | **[Leadership Development Intern](https://jobright.ai/jobs/info/69c52e8be565c26a7000c001?utm_campaign=1054&utm_source=git)** | Selkirk, MB | On Site | Mar 26 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Human Resources Rotational Analyst – Graduate](https://jobright.ai/jobs/info/69a904242580d3183f0134ad?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Mar 26 |
 | **[HeliosX Group](https://www.heliosx.com/)** | **[Talent Advisor (Canada)](https://jobright.ai/jobs/info/698b46460f6f7e7a2ce696ed?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 26 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources (Learning & Development)](https://jobright.ai/jobs/info/69717dd651f726477183da3f?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 26 |
 | **[Extrity Services](https://extrityservices.com)** | **[People Operations Intern (Remote)](https://jobright.ai/jobs/info/69c51800fcdc9c7a8f68d6ba?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 26 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resource Specialist (Project Management)](https://jobright.ai/jobs/info/69c5173449316e7df502088d?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 26 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Human Resources Classification and Compensation Analyst](https://jobright.ai/jobs/info/69a98695f6c22f2e368674fa?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Mar 26 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Human Resources - Summer Co-Op Student](https://jobright.ai/jobs/info/69a871df7ac93962b7083ed8?utm_campaign=1054&utm_source=git)** | North Bay, ON | On Site | Mar 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698cd8f90f6f7e7a2ce88d27?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c511d149316e7df5020637?utm_campaign=1054&utm_source=git)** | Merrimack, NH | On Site | Mar 26 |
@@ -103,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse and Registered Nurse Operating Room Internship (Opportunities at Multiple Campuses)](https://jobright.ai/jobs/info/69c47c0ed5a1016e98dbbb61?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA | On Site | Mar 25 |
 | **[Kate Farms](https://www.katefarms.com)** | **[Talent Acquisition / P&C Intern](https://jobright.ai/jobs/info/69c507ddfcdc9c7a8f68d1c3?utm_campaign=1054&utm_source=git)** | Waltham, Massachusetts, United States | Remote | Mar 25 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/69c4ae8f6f4f855eeda754ee?utm_campaign=1054&utm_source=git)** | Goleta, California, United States | Hybrid | Mar 25 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49e1933eecf310795034b?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Mar 25 |
-| ↳ | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c4a0926f4f855eeda74165?utm_campaign=1054&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Mar 25 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c4a0926f4f855eeda74165?utm_campaign=1054&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Mar 25 |
+| ↳ | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49e1933eecf310795034b?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Mar 25 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c475b76f4f855eeda700c6?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 25 |
 | **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c496146f4f855eeda73132?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Mar 25 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46ed76f4f855eeda6fbd7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Mar 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4016cd5a1016e98db0856?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Mar 25 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Credentialing & Compliance Intern](https://jobright.ai/jobs/info/69c3fef033eecf3107941841?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Mar 25 |
 | **[eClerx](https://eclerx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a9323979f3f4037f43f836?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Mar 25 |
-| **[Empyrean](http://www.goempyrean.com)** | **[Client Operations & Analytics Internship (Minneapolis)](https://jobright.ai/jobs/info/69704d85333b6343a14cbc2c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 25 |
-| ↳ | **[Client Operations & Analytics Internship (Houston)](https://jobright.ai/jobs/info/697005c982817106e9772326?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 25 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698a8d270f6f7e7a2ce5bf79?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
