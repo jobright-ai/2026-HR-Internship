@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Extrity Services](https://extrityservices.com)** | **[People Operations Intern (Remote)](https://jobright.ai/jobs/info/69c51800fcdc9c7a8f68d6ba?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 26 |
+| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resource Specialist (Project Management)](https://jobright.ai/jobs/info/69c5173449316e7df502088d?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 26 |
+| **[Magnera Corporation](https://magnera.com/)** | **[Human Resources - Summer Co-Op Student](https://jobright.ai/jobs/info/69a871df7ac93962b7083ed8?utm_campaign=1054&utm_source=git)** | North Bay, ON | On Site | Mar 26 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698cd8f90f6f7e7a2ce88d27?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c511d149316e7df5020637?utm_campaign=1054&utm_source=git)** | Merrimack, NH | On Site | Mar 26 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Human Resources (Learning & Development)](https://jobright.ai/jobs/info/697173a4333b6343a14e10d4?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 26 |
 | **[Challenge Manufacturing](http://challenge-mfg.com)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/69a950577f9271426f882bc0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Mar 26 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[VSC HR Intern](https://jobright.ai/jobs/info/69a957717f9271426f8841ef?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Mar 26 |
@@ -91,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Human Resources/Training Internship](https://jobright.ai/jobs/info/69c4fa1d33eecf31079575ed?utm_campaign=1054&utm_source=git)** | Farmington, PA | On Site | Mar 25 |
 | **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Mar 25 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse and Registered Nurse Operating Room Internship (Opportunities at Multiple Campuses)](https://jobright.ai/jobs/info/69c47c0ed5a1016e98dbbb61?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA | On Site | Mar 25 |
-| **[Kate Farms](https://www.katefarms.com)** | **[Talent Acquisition / P&C Intern](https://jobright.ai/jobs/info/69c507ddfcdc9c7a8f68d1c3?utm_campaign=1054&utm_source=git)** | Waltham, Massachusetts, United States | Remote | Mar 25 |
-| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/69c4ae8f6f4f855eeda754ee?utm_campaign=1054&utm_source=git)** | Goleta, California, United States | Hybrid | Mar 25 |
+| **[Kate Farms](https://www.katefarms.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69c4ae8f6f4f855eeda754ee?utm_campaign=1054&utm_source=git)** | Goleta, California, United States | Hybrid | Mar 25 |
+| ↳ | **[Talent Acquisition / P&C Intern](https://jobright.ai/jobs/info/69c507ddfcdc9c7a8f68d1c3?utm_campaign=1054&utm_source=git)** | Waltham, Massachusetts, United States | Remote | Mar 25 |
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49e1933eecf310795034b?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Mar 25 |
 | ↳ | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c4a0926f4f855eeda74165?utm_campaign=1054&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Mar 25 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c475b76f4f855eeda700c6?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 25 |
@@ -115,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Athena](https://athenapsych.com)** | **[Talent Acquisition Intern (Unpaid)](https://jobright.ai/jobs/info/69c448fdd5a1016e98db6845?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Mast-Jägermeister US, Inc.](http://mastjagermeisterus.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4e66e6f4f855eeda7a7b2?utm_campaign=1054&utm_source=git)** | White Plains, New York, United States | Hybrid | Mar 25 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69c4441a33eecf3107947339?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Mar 25 |
-| **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46da86f4f855eeda6faac?utm_campaign=1054&utm_source=git)** | Merrimack, NH, US | On Site | Mar 25 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46bfbd5a1016e98dba58c?utm_campaign=1054&utm_source=git)** | US-NH-Merrimack | On Site | Mar 25 |
+| **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46bfbd5a1016e98dba58c?utm_campaign=1054&utm_source=git)** | US-NH-Merrimack | On Site | Mar 25 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46da86f4f855eeda6faac?utm_campaign=1054&utm_source=git)** | Merrimack, NH, US | On Site | Mar 25 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[People & Culture Internship - Summer 2026](https://jobright.ai/jobs/info/69c4708e6f4f855eeda6fc79?utm_campaign=1054&utm_source=git)** | Farmington, PA | On Site | Mar 25 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4406d6f4f855eeda6abe0?utm_campaign=1054&utm_source=git)** | Trumbull, CT | On Site | Mar 25 |
 | **[Electrolux Group](https://www.electroluxappliances.com)** | **[Internship Talent Management (L&D & Talent & Performance) – HQ Stockholm, Sweden](https://jobright.ai/jobs/info/69c43e7133eecf3107946e23?utm_campaign=1054&utm_source=git)** | Stockholm, NY | Hybrid | Mar 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/69a6645bd706a731db385343?utm_campaign=1054&utm_source=git)** | Sterling, VA | On Site | Mar 25 |
 | **[Georgia Nut Company](http://georgianut.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c3ef8ed5a1016e98daf6cb?utm_campaign=1054&utm_source=git)** | Skokie, IL | On Site | Mar 25 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a7a11276bbe83d3afb030f?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Mar 25 |
-| **[Almo Corporation](http://www.almo.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69a74f4f2672cb0acb4bbfc3?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 25 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/698c07380f6f7e7a2ce79747?utm_campaign=1054&utm_source=git)** | Mineral Wells, TX | On Site | Mar 25 |
-| **[Precision Castparts](http://precast.com)** | **[2026 Fall Human Resources Co-op Program](https://jobright.ai/jobs/info/698a284d4db8972cecff6c51?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Mar 25 |
-| **[McClung-Logan Equipment Company](https://mcclung-logan.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2ef25753c101b21565d5d?utm_campaign=1054&utm_source=git)** | Halethorpe, MD | On Site | Mar 25 |
-| **[Allison Transmission](http://www.allisontransmission.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4049ad5a1016e98db09a0?utm_campaign=1054&utm_source=git)** | Lafayette, Indiana | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
