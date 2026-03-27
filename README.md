@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oklahoma State University Foundation](http://OSUgiving.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0fe475218a816767237d1?utm_campaign=1054&utm_source=git)** | Stillwater, OK | On Site | Mar 27 |
+| **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225a765de58104c719ac0?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a3908ac80bb5492bcbe72?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Mar 27 |
 | ↳ | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a418eac80bb5492bcc3de?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 27 |
 | ↳ | **[Future Opportunities: Retirement Advocate](https://jobright.ai/jobs/info/693a45ddac80bb5492bcc639?utm_campaign=1054&utm_source=git)** | LV Metro Area | Hybrid | Mar 27 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ccd71818a24cd84bb468?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ce5383ea553769fd037a?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab4de565c26a700138bd?utm_campaign=1054&utm_source=git)** | Tampa, Florida, United States | On Site | Mar 26 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab211b5ad02887377c5e?utm_campaign=1054&utm_source=git)** | Monticello, NY | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab211b5ad02887377c5f?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Mar 26 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab211b5ad02887377c5e?utm_campaign=1054&utm_source=git)** | Monticello, NY | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab1d1818a24cd84b9530?utm_campaign=1054&utm_source=git)** | Braselton, GA | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5aadbaa9a29199e808a4f?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Mar 26 |
 | **[JENNMAR](https://www.jennmar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c5aa10aa3c2c1995e02c36?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | Mar 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ND Paper](https://us.ndpaper.com)** | **[HR Intern](https://jobright.ai/jobs/info/69a9892df6c22f2e36867e07?utm_campaign=1054&utm_source=git)** | Rumford, ME | On Site | Mar 26 |
 | **[Haynes and Boone, LLP](http://www.haynesboone.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69a9084b79f3f4037f43b662?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 26 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Safety)](https://jobright.ai/jobs/info/698da9a3f64d441a164fd1d2?utm_campaign=1054&utm_source=git)** | Missouri, United States | On Site | Mar 26 |
-| **[Banc of California](http://www.bancofcal.com)** | **[Temporary Employee in our Summer Internship Program](https://jobright.ai/jobs/info/69a971667f9271426f8850db?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 26 |
-| **[Yokohama Tire Corporation](http://www.yokohamatire.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c54929aa3c2c1995dfd36d?utm_campaign=1054&utm_source=git)** | Santa Ana, CA, US | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
