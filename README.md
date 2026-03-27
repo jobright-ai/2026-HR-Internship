@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Concept Plus, LLC](http://www.conceptplus.com)** | **[Summer HR & Recruiting Intern](https://jobright.ai/jobs/info/69c6ea95b773006330b741cd?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Mar 27 |
+| **[Frontier Scientific Solutions](https://www.fs2.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6e6bf83ea553769fde9e2?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Mar 27 |
+| **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Human Resources (Fall 2026)](https://jobright.ai/jobs/info/69c6e6b3aa3c2c1995e133a3?utm_campaign=1054&utm_source=git)** | Macungie, PA | On Site | Mar 27 |
 | **[Knutson Construction Services](http://knutsonconstruction.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69c6e487b773006330b73b34?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[HR Student Assistant - School of Business](https://jobright.ai/jobs/info/69c6e2321818a24cd84c955d?utm_campaign=1054&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 27 |
 | **[Fehr Graham Engineering & Environmental](https://www.fehrgraham.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c6dc74b773006330b7390d?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | Mar 27 |
@@ -87,13 +90,13 @@ For a complete list, click the following sortable link below:
 | **[PROJXON](www.projxon.com)** | **[Culture/Engagement Specialist (Intern)](https://jobright.ai/jobs/info/69c6bfd2aa3c2c1995e11c8d?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69c6dc01b773006330b738b2?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Mar 27 |
 | **[Mertz Integration](http://www.mertzok.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6bb7483ea553769fdd17c?utm_campaign=1054&utm_source=git)** | Ponca City, OK 74601 | On Site | Mar 27 |
-| **[Concept Plus, LLC](http://www.conceptplus.com)** | **[Summer HR & Recruiting Intern](https://jobright.ai/jobs/info/69c6bab2e565c26a700220e9?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Mar 27 |
 | **[BCA Architects & Engineers](https://www.thebcgroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6ba5c83ea553769fdccb1?utm_campaign=1054&utm_source=git)** | Watertown, NY, US | On Site | Mar 27 |
 | **[Infinite Electronics, Inc.](https://www.infiniteelectronics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6b91db773006330b7221f?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Mar 27 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69aa31af1f59c56275e30b2f?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
 | **[Marex](http://marexspectron.com)** | **[Onboarding Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/69c6b575b773006330b72154?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/69aa571d9ca4e908ec65b01a?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Mar 27 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Mar 27 |
+| **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69aa31d09ca4e908ec658574?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 27 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Recruiting](https://jobright.ai/jobs/info/69c6af841818a24cd84c7a6d?utm_campaign=1054&utm_source=git)** | Clinton, TN | On Site | Mar 27 |
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[Human Resources Benefit Programs Specialist (Temporary)](https://jobright.ai/jobs/info/6924e1afc0cefa13343e351a?utm_campaign=1054&utm_source=git)** | Hayward, CA | Hybrid | Mar 27 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate, Talent Acquisition)](https://jobright.ai/jobs/info/69bddbd3393a1008f743acce?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - MEDICAL BILLING AND CODING - TRAINING PROGRAM (CREDENTIALING AND ENROLLMENT INTERNSHIP)](https://jobright.ai/jobs/info/69c5de211b5ad0288737a6ab?utm_campaign=1054&utm_source=git)** | Remote N/A | Remote | Mar 26 |
 | ↳ | **[HCAI - MEDICAL BILLING AND CODING - TRAINING PROGRAM (CREDENTIALING AND ENROLLMENT INTERNSHIP)](https://jobright.ai/jobs/info/69c5ddccaa9a29199e80b4eb?utm_campaign=1054&utm_source=git)** | Fully Remote | Remote | Mar 26 |
 | **[Capital Power](http://www.capitalpower.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/69c5ddc41818a24cd84bbe6b?utm_campaign=1054&utm_source=git)** | Edmonton, AB | Hybrid | Mar 26 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69c3339c753c101b2156da14?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
-| **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse, Acute Care (Med Surg) Internship, Opportunities at Multiple Campuses (Full Time)](https://jobright.ai/jobs/info/69c5db53e565c26a700160b7?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA | On Site | Mar 26 |
-| **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Data & Analytics](https://jobright.ai/jobs/info/69c5d80c83ea553769fd0bad?utm_campaign=1054&utm_source=git)** | Cincinnati Metro | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
