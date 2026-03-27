@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Human Resources Intern / 2026 Treasury Summer Internship Program](https://jobright.ai/jobs/info/69c5c4c5aa3c2c1995e041d8?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Mar 26 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Human Resources Intern / 2026 Treasury Summer Internship Program](https://jobright.ai/jobs/info/69c5c4aae565c26a70014b88?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Mar 26 |
+| **[Greenberg Traurig Amsterdam](https://www.gtlaw.com/en/locations/amsterdam)** | **[Attorney Talent Acquisition Intern](https://jobright.ai/jobs/info/69c5c48baa3c2c1995e03fa3?utm_campaign=1054&utm_source=git)** | Los Angeles | On Site | Mar 26 |
 | **[Delta Computer Consulting](http://www.deltacci.com/)** | **[IT Talent Acquisition / Recruiting Intern (Paid)](https://jobright.ai/jobs/info/69c5b411e565c26a70013cd8?utm_campaign=1054&utm_source=git)** | Torrance, CA | On Site | Mar 26 |
 | **[Gann Academy](https://www.gannacademy.org/)** | **[Gann Alumni Intern -Summer 2026](https://jobright.ai/jobs/info/69c5aff783ea553769fce519?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Mar 26 |
 | **[Lead For America](https://www.leadforamerica.org/)** | **[American Connection Corps Member - Talent Pool (Cohort 2027)](https://jobright.ai/jobs/info/69c5afcbe565c26a70013a58?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 26 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab4de565c26a700138bd?utm_campaign=1054&utm_source=git)** | Tampa, Florida, United States | On Site | Mar 26 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab211b5ad02887377c5e?utm_campaign=1054&utm_source=git)** | Monticello, NY | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab211b5ad02887377c5f?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Mar 26 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab211b5ad02887377c5e?utm_campaign=1054&utm_source=git)** | Monticello, NY | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab1d1818a24cd84b9530?utm_campaign=1054&utm_source=git)** | Braselton, GA | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5aadbaa9a29199e808a4f?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Mar 26 |
-| **[JENNMAR](https://www.jennmar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c5aa10aa3c2c1995e02c36?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | Mar 26 |
+| **[JENNMAR](https://www.jennmar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c5aa1083ea553769fce13f?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | Mar 26 |
 | **[Paybox Corp](http://gopaybox.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c5aa00aa9a29199e80881f?utm_campaign=1054&utm_source=git)** | Carol Stream, IL, US | On Site | Mar 26 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Analytics & Finance Intern](https://jobright.ai/jobs/info/69c5a9f3e565c26a7001363a?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 26 |
 | **[Sonaca North America](http://www.sonaca.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c5a95daa3c2c1995e02a64?utm_campaign=1054&utm_source=git)** | Auburn, WA | On Site | Mar 26 |
@@ -78,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c59bf0aa9a29199e807988?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate, Talent Acquisition)](https://jobright.ai/jobs/info/69c59bd51818a24cd84b8409?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 26 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/69c599f0aa9a29199e8078d8?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | Mar 26 |
+| **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c5c628e565c26a70014ca2?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Mar 26 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Summer Compensation Internship-Summer 2026](https://jobright.ai/jobs/info/69c598211b5ad02887376973?utm_campaign=1054&utm_source=git)** | Stamford, CT | Remote | Mar 26 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Employee Health and Benefits - Service Intern](https://jobright.ai/jobs/info/69c591dbaa9a29199e8075ab?utm_campaign=1054&utm_source=git)** | Aliso Viejo, CA | On Site | Mar 26 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Human Resources, Learning & Development](https://jobright.ai/jobs/info/69c58f89aa3c2c1995e0169c?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Mar 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Mar 26 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dae0d5a1016e98dc3e90?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Mar 26 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (GMPT) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c4d47ed5a1016e98dc3134?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern(Volunteer)](https://jobright.ai/jobs/info/69c49b98d5a1016e98dbe94f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 25 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49a48d5a1016e98dbe889?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Mar 25 |
-| **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse & Registered Nurse Internship Opportunities - Warren Campus, NJ (Full Time)](https://jobright.ai/jobs/info/69c489f433eecf310794e301?utm_campaign=1054&utm_source=git)** | Phillipsburg, NJ | On Site | Mar 25 |
-| **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/69c4850733eecf310794dfcf?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
