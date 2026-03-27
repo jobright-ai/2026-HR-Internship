@@ -63,12 +63,14 @@ For a complete list, click the following sortable link below:
 | **[Delta Computer Consulting](http://www.deltacci.com/)** | **[IT Talent Acquisition / Recruiting Intern (Paid)](https://jobright.ai/jobs/info/69c5b411e565c26a70013cd8?utm_campaign=1054&utm_source=git)** | Torrance, CA | On Site | Mar 26 |
 | **[Gann Academy](https://www.gannacademy.org/)** | **[Gann Alumni Intern -Summer 2026](https://jobright.ai/jobs/info/69c5aff783ea553769fce519?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Mar 26 |
 | **[Lead For America](https://www.leadforamerica.org/)** | **[American Connection Corps Member - Talent Pool (Cohort 2027)](https://jobright.ai/jobs/info/69c5afcbe565c26a70013a58?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 26 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab4de565c26a700138bd?utm_campaign=1054&utm_source=git)** | Tampa, Florida, United States | On Site | Mar 26 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab211b5ad02887377c5f?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Mar 26 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ccd71818a24cd84bb468?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 26 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ce5383ea553769fd037a?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 26 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab4de565c26a700138bd?utm_campaign=1054&utm_source=git)** | Tampa, Florida, United States | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab211b5ad02887377c5e?utm_campaign=1054&utm_source=git)** | Monticello, NY | On Site | Mar 26 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab211b5ad02887377c5f?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab1d1818a24cd84b9530?utm_campaign=1054&utm_source=git)** | Braselton, GA | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5aadbaa9a29199e808a4f?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Mar 26 |
-| **[JENNMAR](https://www.jennmar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c5aa1083ea553769fce13f?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | Mar 26 |
+| **[JENNMAR](https://www.jennmar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c5aa10aa3c2c1995e02c36?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | Mar 26 |
 | **[Paybox Corp](http://gopaybox.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c5aa00aa9a29199e80881f?utm_campaign=1054&utm_source=git)** | Carol Stream, IL, US | On Site | Mar 26 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Analytics & Finance Intern](https://jobright.ai/jobs/info/69c5a9f3e565c26a7001363a?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 26 |
 | **[Sonaca North America](http://www.sonaca.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c5a95daa3c2c1995e02a64?utm_campaign=1054&utm_source=git)** | Auburn, WA | On Site | Mar 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dc2c33eecf3107955057?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Mar 26 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4db216f4f855eeda78e6a?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Mar 26 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Mar 26 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dae0d5a1016e98dc3e90?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Mar 26 |
-| **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (GMPT) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c4d47ed5a1016e98dc3134?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
