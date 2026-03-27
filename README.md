@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Denver Regional Council of Governments](https://drcog.org)** | **[AAA Internships](https://jobright.ai/jobs/info/69c6380e1818a24cd84c1a3b?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Mar 27 |
+| **[ODW Logistics](http://odwlogistics.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/69b4392d3b74eb1e2c815b45?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
 | **[Franklin County Sheriff's Office](https://sheriff.franklincountyohio.gov/)** | **[Intern RDEI](https://jobright.ai/jobs/info/69c6380b1818a24cd84c1a35?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Human Resources Trainee(Target Class: Human Resources Associate)](https://jobright.ai/jobs/info/69c6328faa3c2c1995e0b194?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse and Registered Nurse Operating Room Internship (Opportunities at All Campuses)](https://jobright.ai/jobs/info/69c62c7e1b5ad0288737f69f?utm_campaign=1054&utm_source=git)** | West Easton, PA | On Site | Mar 27 |
 | ↳ | **[Graduate Nurse, Acute Care (Med Surg) Internship, Opportunities at All Campuses (Full Time)](https://jobright.ai/jobs/info/69c62c681b5ad0288737f675?utm_campaign=1054&utm_source=git)** | West Easton, PA | On Site | Mar 27 |
 | **[City of Rock Island](http://rigov.org)** | **[Administrative Records Management Intern](https://jobright.ai/jobs/info/69c62b38aa9a29199e81012a?utm_campaign=1054&utm_source=git)** | Rock Island, IL | On Site | Mar 27 |
 | **[Atlantic Cape Community College](http://www.atlantic.edu/)** | **[(PT) HR Internship](https://jobright.ai/jobs/info/69c62b38aa9a29199e810121?utm_campaign=1054&utm_source=git)** | Mays Landing, NJ | On Site | Mar 27 |
+| **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c64295aa3c2c1995e0bc12?utm_campaign=1054&utm_source=git)** | Altamonte Springs, FL | On Site | Mar 26 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/69c61cebaa3c2c1995e08cce?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 26 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resources Specialist (Employee Benefits)](https://jobright.ai/jobs/info/69c60e861818a24cd84bdb8e?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Talent Strategy & Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c60e2283ea553769fd2621?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Mar 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Supersoda](https://www.supersoda.com.br/)** | **[Corporate Office Admin Internship](https://jobright.ai/jobs/info/69c53f8b1818a24cd84b2dfe?utm_campaign=1054&utm_source=git)** | 22 Westedge Charleston, SC 29403 | Hybrid | Mar 26 |
 | **[Rockstar Games](https://www.rockstargames.com/)** | **[Intern: Workplace Services (Summer 2026)](https://jobright.ai/jobs/info/69c53f8b1818a24cd84b2dff?utm_campaign=1054&utm_source=git)** | Carlsbad, California | On Site | Mar 26 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - HR Team](https://jobright.ai/jobs/info/698d07820f6f7e7a2ce8b744?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Mar 26 |
-| **[Agiliti](https://www.agilitihealth.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/69c53c21aa9a29199e8020cc?utm_campaign=1054&utm_source=git)** | Michigan - Home based | Remote | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
