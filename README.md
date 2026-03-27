@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Data and Compensation Internship - Summer 2026 - Toronto](https://jobright.ai/jobs/info/69c5f542aa9a29199e80c171?utm_campaign=1054&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
+| **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[Chief Human Resource Officer 2026-2027 School Year (4947)](https://jobright.ai/jobs/info/69c5f3dcaa9a29199e80c134?utm_campaign=1054&utm_source=git)** | Queen Creek, AZ | On Site | Mar 26 |
+| **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - MEDICAL BILLING AND CODING - TRAINING PROGRAM (CREDENTIALING AND ENROLLMENT INTERNSHIP)](https://jobright.ai/jobs/info/69c5ec6eaa3c2c1995e05e3f?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Mar 26 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69c5ebb4aa9a29199e80bb2a?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Mar 26 |
+| **[Solenis](http://solenis.com/)** | **[Intern - HR](https://jobright.ai/jobs/info/69c5e730e565c26a700164cd?utm_campaign=1054&utm_source=git)** | Wilmington, DE | On Site | Mar 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - St. Cloud, MN](https://jobright.ai/jobs/info/69c5e49eaa3c2c1995e05a86?utm_campaign=1054&utm_source=git)** | St Cloud, MN | On Site | Mar 26 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/69c5e498aa3c2c1995e05a7f?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Mar 26 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/69c5e44d1818a24cd84bc173?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Mar 26 |
+| **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[HR Intern - Talent Acquisition](https://jobright.ai/jobs/info/69c5e1ce83ea553769fd0ec3?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 26 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - MEDICAL BILLING AND CODING - TRAINING PROGRAM (CREDENTIALING AND ENROLLMENT INTERNSHIP)](https://jobright.ai/jobs/info/69c5de211b5ad0288737a6ab?utm_campaign=1054&utm_source=git)** | Remote N/A | Remote | Mar 26 |
 | ↳ | **[HCAI - MEDICAL BILLING AND CODING - TRAINING PROGRAM (CREDENTIALING AND ENROLLMENT INTERNSHIP)](https://jobright.ai/jobs/info/69c5ddccaa9a29199e80b4eb?utm_campaign=1054&utm_source=git)** | Fully Remote | Remote | Mar 26 |
 | **[Capital Power](http://www.capitalpower.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/69c5ddc41818a24cd84bbe6b?utm_campaign=1054&utm_source=git)** | Edmonton, AB | Hybrid | Mar 26 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Extrity Services](https://extrityservices.com)** | **[People Operations Intern (Remote)](https://jobright.ai/jobs/info/69c51800fcdc9c7a8f68d6ba?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 26 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resource Specialist (Project Management)](https://jobright.ai/jobs/info/69c5173449316e7df502088d?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Human Resources Classification and Compensation Analyst](https://jobright.ai/jobs/info/69a98695f6c22f2e368674fa?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Mar 26 |
-| **[Magnera Corporation](https://magnera.com/)** | **[Human Resources - Summer Co-Op Student](https://jobright.ai/jobs/info/69a871df7ac93962b7083ed8?utm_campaign=1054&utm_source=git)** | North Bay, ON | On Site | Mar 26 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698cd8f90f6f7e7a2ce88d27?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 26 |
-| **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c511d149316e7df5020637?utm_campaign=1054&utm_source=git)** | Merrimack, NH | On Site | Mar 26 |
-| **[Nucor Corporation](http://www.nucor.com)** | **[VSC HR Intern](https://jobright.ai/jobs/info/69a957717f9271426f8841ef?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Mar 26 |
-| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Corporate)](https://jobright.ai/jobs/info/695da554fbd62a0a656658ac?utm_campaign=1054&utm_source=git)** | Moonachie, NJ | Hybrid | Mar 26 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/69a970947f9271426f884c90?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Mar 26 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Senior Creative Recruiter (eCommerce)](https://jobright.ai/jobs/info/6986e2680f6f7e7a2ce21bf8?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/69c4f0936f4f855eeda7b297?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Mar 26 |
-| **[Flagger Force](http://flaggerforce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4eca86f4f855eeda7af7d?utm_campaign=1054&utm_source=git)** | Hummelstown, PA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
