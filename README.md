@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Denver Regional Council of Governments](https://drcog.org)** | **[AAA Internships](https://jobright.ai/jobs/info/69c6380e1818a24cd84c1a3b?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Mar 27 |
+| **[Franklin County Sheriff's Office](https://sheriff.franklincountyohio.gov/)** | **[Intern RDEI](https://jobright.ai/jobs/info/69c6380b1818a24cd84c1a35?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Human Resources Trainee(Target Class: Human Resources Associate)](https://jobright.ai/jobs/info/69c6328faa3c2c1995e0b194?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse and Registered Nurse Operating Room Internship (Opportunities at All Campuses)](https://jobright.ai/jobs/info/69c62c7e1b5ad0288737f69f?utm_campaign=1054&utm_source=git)** | West Easton, PA | On Site | Mar 27 |
 | ↳ | **[Graduate Nurse, Acute Care (Med Surg) Internship, Opportunities at All Campuses (Full Time)](https://jobright.ai/jobs/info/69c62c681b5ad0288737f675?utm_campaign=1054&utm_source=git)** | West Easton, PA | On Site | Mar 27 |
 | **[City of Rock Island](http://rigov.org)** | **[Administrative Records Management Intern](https://jobright.ai/jobs/info/69c62b38aa9a29199e81012a?utm_campaign=1054&utm_source=git)** | Rock Island, IL | On Site | Mar 27 |
@@ -129,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Workforce Development Intern, HC Referral & Scheduling](https://jobright.ai/jobs/info/69c566951818a24cd84b4c3c?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 26 |
 | ↳ | **[Intern (Case Management)](https://jobright.ai/jobs/info/69c566431b5ad028873733c8?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 26 |
 | ↳ | **[Intern - Case Management](https://jobright.ai/jobs/info/69c56588e565c26a7000f314?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 26 |
-| ↳ | **[Intern (Talent Acquisition)](https://jobright.ai/jobs/info/69c1e0fb79e36d3a847ef0b0?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 26 |
 | ↳ | **[Intern (HR Leadership & Culture)](https://jobright.ai/jobs/info/69c1fc30c9ad035e829a636e?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 26 |
+| ↳ | **[Intern (Talent Acquisition)](https://jobright.ai/jobs/info/69c1e0fb79e36d3a847ef0b0?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 26 |
 | **[Plimpton & Hills Corporation](http://plimptonhills.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c56492aa3c2c1995dfe58c?utm_campaign=1054&utm_source=git)** | Meriden,CT,US | On Site | Mar 26 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698396b501214b4cdacb4e21?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/69c56154e565c26a7000ed2d?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rockstar Games](https://www.rockstargames.com/)** | **[Intern: Workplace Services (Summer 2026)](https://jobright.ai/jobs/info/69c53f8b1818a24cd84b2dff?utm_campaign=1054&utm_source=git)** | Carlsbad, California | On Site | Mar 26 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - HR Team](https://jobright.ai/jobs/info/698d07820f6f7e7a2ce8b744?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Mar 26 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/69c53c21aa9a29199e8020cc?utm_campaign=1054&utm_source=git)** | Michigan - Home based | Remote | Mar 26 |
-| **[Protos Security](http://protossecurity.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69baa8893b74eb1e2c88dfa8?utm_campaign=1054&utm_source=git)** | Norwalk, CT | On Site | Mar 26 |
-| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Assistant Director of Career & Life Design, UNLV Career and Life Design, Office of Career Services and Workforce Development [R0150928]](https://jobright.ai/jobs/info/69c55a9983ea553769fc8ec3?utm_campaign=1054&utm_source=git)** | LV Metro Area | On Site | Mar 26 |
-| **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69c57297aa3c2c1995dff14b?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
