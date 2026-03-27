@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Computer Consulting](http://www.deltacci.com/)** | **[IT Talent Acquisition / Recruiting Intern (Paid)](https://jobright.ai/jobs/info/69c5b411e565c26a70013cd8?utm_campaign=1054&utm_source=git)** | Torrance, CA | On Site | Mar 26 |
+| **[Gann Academy](https://www.gannacademy.org/)** | **[Gann Alumni Intern -Summer 2026](https://jobright.ai/jobs/info/69c5aff783ea553769fce519?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Mar 26 |
+| **[Lead For America](https://www.leadforamerica.org/)** | **[American Connection Corps Member - Talent Pool (Cohort 2027)](https://jobright.ai/jobs/info/69c5afcbe565c26a70013a58?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 26 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab4de565c26a700138bd?utm_campaign=1054&utm_source=git)** | Tampa, Florida, United States | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab211b5ad02887377c5e?utm_campaign=1054&utm_source=git)** | Monticello, NY | On Site | Mar 26 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/69c5ab211b5ad02887377c5f?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Mar 26 |
@@ -135,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Magnera Corporation](https://magnera.com/)** | **[Human Resources - Summer Co-Op Student](https://jobright.ai/jobs/info/69a871df7ac93962b7083ed8?utm_campaign=1054&utm_source=git)** | North Bay, ON | On Site | Mar 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698cd8f90f6f7e7a2ce88d27?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c511d149316e7df5020637?utm_campaign=1054&utm_source=git)** | Merrimack, NH | On Site | Mar 26 |
-| **[Challenge Manufacturing](http://challenge-mfg.com)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/69a950577f9271426f882bc0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Mar 26 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[VSC HR Intern](https://jobright.ai/jobs/info/69a957717f9271426f8841ef?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Mar 26 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Corporate)](https://jobright.ai/jobs/info/695da554fbd62a0a656658ac?utm_campaign=1054&utm_source=git)** | Moonachie, NJ | Hybrid | Mar 26 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/69a970947f9271426f884c90?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Mar 26 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Mar 26 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dae0d5a1016e98dc3e90?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Mar 26 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (GMPT) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c4d47ed5a1016e98dc3134?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/69c4c8eb33eecf310795324d?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Mar 25 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern(Volunteer)](https://jobright.ai/jobs/info/69c49b98d5a1016e98dbe94f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 25 |
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49a48d5a1016e98dbe889?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Mar 25 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse & Registered Nurse Internship Opportunities - Warren Campus, NJ (Full Time)](https://jobright.ai/jobs/info/69c489f433eecf310794e301?utm_campaign=1054&utm_source=git)** | Phillipsburg, NJ | On Site | Mar 25 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/69c4850733eecf310794dfcf?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Mar 25 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Human Resources/Training Internship](https://jobright.ai/jobs/info/69c4fa1d33eecf31079575ed?utm_campaign=1054&utm_source=git)** | Farmington, PA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
