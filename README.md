@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jordan Valley Health](https://jordanvalley.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6f941e565c26a700249bc?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 27 |
+| **[Baldwin Supply Company](http://baldwinsupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c6f879b773006330b74ad8?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Mar 27 |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c6f3d4e565c26a7002482e?utm_campaign=1054&utm_source=git)** | Akron, OH, United States | On Site | Mar 27 |
+| **[LINK Unlimited Scholars](https://linkunlimited.org/)** | **[Scholar Engagement and Marketing Intern](https://jobright.ai/jobs/info/69c6f383b773006330b748e0?utm_campaign=1054&utm_source=git)** | LINK Unlimited Scholars | Hybrid | Mar 27 |
+| **[Octave](https://www.octave.com/)** | **[Global Enablement Team Intern](https://jobright.ai/jobs/info/69c6f308e565c26a700243f3?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 27 |
+| **[CLEAResult](http://www.clearesult.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69c6f2b9aa3c2c1995e1381e?utm_campaign=1054&utm_source=git)** | Remote - Missouri | Remote | Mar 27 |
 | **[Concept Plus, LLC](http://www.conceptplus.com)** | **[Summer HR & Recruiting Intern](https://jobright.ai/jobs/info/69c6ea95b773006330b741cd?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Mar 27 |
 | **[Frontier Scientific Solutions](https://www.fs2.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6e6bf83ea553769fde9e2?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Mar 27 |
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Human Resources (Fall 2026)](https://jobright.ai/jobs/info/69c6e6b3aa3c2c1995e133a3?utm_campaign=1054&utm_source=git)** | Macungie, PA | On Site | Mar 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Solenis](http://solenis.com/)** | **[Intern - HR](https://jobright.ai/jobs/info/69c5e730e565c26a700164cd?utm_campaign=1054&utm_source=git)** | Wilmington, DE | On Site | Mar 26 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Human Resources Coordinator I](https://jobright.ai/jobs/info/69c6039c1b5ad0288737bd3c?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Mar 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - St. Cloud, MN](https://jobright.ai/jobs/info/69c5e49eaa3c2c1995e05a86?utm_campaign=1054&utm_source=git)** | St Cloud, MN | On Site | Mar 26 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/69c5e498aa3c2c1995e05a7f?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Mar 26 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Exam Development Unit, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69c6027eaa3c2c1995e06e11?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Mar 26 |
-| **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[HR Intern - Talent Acquisition](https://jobright.ai/jobs/info/69c5e1ce83ea553769fd0ec3?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 26 |
-| **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - MEDICAL BILLING AND CODING - TRAINING PROGRAM (CREDENTIALING AND ENROLLMENT INTERNSHIP)](https://jobright.ai/jobs/info/69c5de211b5ad0288737a6ab?utm_campaign=1054&utm_source=git)** | Remote N/A | Remote | Mar 26 |
-| ↳ | **[HCAI - MEDICAL BILLING AND CODING - TRAINING PROGRAM (CREDENTIALING AND ENROLLMENT INTERNSHIP)](https://jobright.ai/jobs/info/69c5ddccaa9a29199e80b4eb?utm_campaign=1054&utm_source=git)** | Fully Remote | Remote | Mar 26 |
-| **[Capital Power](http://www.capitalpower.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/69c5ddc41818a24cd84bbe6b?utm_campaign=1054&utm_source=git)** | Edmonton, AB | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
