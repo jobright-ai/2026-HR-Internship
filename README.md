@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/69af97496b21de023e60e4b8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
+| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a527348a8ce22990e631e?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Mar 28 |
+| ↳ | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a3795ac80bb5492bcbdad?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 28 |
+| ↳ | **[Future Opportunities: Retirement Advocate](https://jobright.ai/jobs/info/693a3a69ac80bb5492bcbf2e?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Mar 28 |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69c7abd81818a24cd84d075c?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 28 |
+| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a3dffac80bb5492bcc187?utm_campaign=1054&utm_source=git)** | LV Metro Area | Hybrid | Mar 28 |
+| ↳ | **[Future Opportunities: Retirement Advocate](https://jobright.ai/jobs/info/693a411048a8ce22990e3f98?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Mar 28 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/6973099f694e99351d1455d7?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c7739faa3c2c1995e182e3?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Mar 27 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Human Resources Summer Intern](https://jobright.ai/jobs/info/69c751ed1818a24cd84cd6db?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c74d39e565c26a700279b3?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marex](http://marexspectron.com)** | **[Onboarding Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/69c6b575b773006330b72154?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/69aa571d9ca4e908ec65b01a?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Mar 27 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Mar 27 |
-| **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69aa31d09ca4e908ec658574?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 27 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern- Recruiting](https://jobright.ai/jobs/info/69c6af841818a24cd84c7a6d?utm_campaign=1054&utm_source=git)** | Clinton, TN | On Site | Mar 27 |
-| **[California State University - East Bay](https://www.csueastbay.edu)** | **[Human Resources Benefit Programs Specialist (Temporary)](https://jobright.ai/jobs/info/6924e1afc0cefa13343e351a?utm_campaign=1054&utm_source=git)** | Hayward, CA | Hybrid | Mar 27 |
-| **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate, Talent Acquisition)](https://jobright.ai/jobs/info/69bddbd3393a1008f743acce?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 27 |
-| **[Ferrovial](http://www.ferrovial.com/en)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c6ac40e565c26a70021c7d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| **[Photronics](http://www.photronics.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c6ac3f83ea553769fdc88f?utm_campaign=1054&utm_source=git)** | Brookfield, CT, US | On Site | Mar 27 |
-| **[Beusa Energy](https://www.beusaenergy.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6ca1bb773006330b72e93?utm_campaign=1054&utm_source=git)** | Mertz 1701 N Waverly - Ponca City, OK 74601 | On Site | Mar 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cce0b377add66568abb242?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
