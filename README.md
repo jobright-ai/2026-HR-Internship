@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
+| **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Development)](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830159?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Atlantic Region (Charlotte, NC)](https://jobright.ai/jobs/info/693ce5d6aa598a08c3eda9fc?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
+| **[Schaeffler](https://www.schaeffler.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fd2f50cc8ea15f1da6d34?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Mar 28 |
+| **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/69728d854ccbf64f8df28005?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 28 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: HR-Preboarding](https://jobright.ai/jobs/info/69ab41537e1fab39d382db7d?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Mar 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69b76e3356973837413c8fc2?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 28 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698ef21178b4502f12a5c476?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 28 |
@@ -95,8 +100,13 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer 2026 Field Internship - Auburn Village Mall](https://jobright.ai/jobs/info/69c7277daa3c2c1995e15b96?utm_campaign=1054&utm_source=git)** | Store 1530-Colonial University Villag-ANN-Auburn, AL 36830 | On Site | Mar 27 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c7248c1b5ad0288738a772?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Mar 27 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Payroll Coordinator](https://jobright.ai/jobs/info/69c7dede1818a24cd84d2259?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
+| ↳ | **[Human Resources Specialist for Recruiting & Talent Acquisition](https://jobright.ai/jobs/info/69c7ded1aa3c2c1995e1bd45?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
+| ↳ | **[Payroll Manager](https://jobright.ai/jobs/info/69c7deb983ea553769fe73bd?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
+| ↳ | **[Human Resources Generalist](https://jobright.ai/jobs/info/69c7dec183ea553769fe73dd?utm_campaign=1054&utm_source=git)** | New Britain, CT | On Site | Mar 27 |
 | **[Central Bedfordshire College](http://www.centralbeds.ac.uk)** | **[Talent Acquisition and Vetting Manager](https://jobright.ai/jobs/info/69c71cda83ea553769fe0d31?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
 | ↳ | **[Talent Acquisition and Vetting Specialist](https://jobright.ai/jobs/info/69c71ca8e565c26a70026295?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
+| **[Leland](https://www.joinleland.com)** | **[Growth & Ops Intern: Coach Recruiting](https://jobright.ai/jobs/info/69c7e35c83ea553769fe7535?utm_campaign=1054&utm_source=git)** | Lehi, UT | Hybrid | Mar 27 |
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Administrator, Human Resources (Talent Acquisition)](https://jobright.ai/jobs/info/69c7194c1b5ad0288738a040?utm_campaign=1054&utm_source=git)** | Ottawa, ON | On Site | Mar 27 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c71936e565c26a70025d0d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 27 |
 | **[Parkland School Division](https://www.psd.ca/)** | **[Deputy Superintendent, Human Resources & Operations (1.0 FTE)](https://jobright.ai/jobs/info/69c715ff83ea553769fe079e?utm_campaign=1054&utm_source=git)** | Stony Plain, AB | On Site | Mar 27 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SpyCloud](https://spycloud.com)** | **[People Operations Intern (Summer)](https://jobright.ai/jobs/info/69c6d047aa3c2c1995e124c9?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e96d178b4502f12a57052?utm_campaign=1054&utm_source=git)** | Vicksburg, MS | On Site | Mar 27 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Human Resources Bureau](https://jobright.ai/jobs/info/69c6c9e3aa3c2c1995e1225c?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 27 |
-| **[IRP Medical](http://www.irpi.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c6c989aa3c2c1995e120ae?utm_campaign=1054&utm_source=git)** | Kamatics Corporation, Bloomfield, CT, US | On Site | Mar 27 |
-| **[ABBA Roller](https://abbaroller.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c6c98983ea553769fdd6d8?utm_campaign=1054&utm_source=git)** | Kamatics Corporation, Bloomfield, CT, US | On Site | Mar 27 |
-| **[TouchPoint Software](http://www.touchpointsoftware.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69c6c9511b5ad02887386e07?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Mar 27 |
-| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern - Immigration](https://jobright.ai/jobs/info/69c6e4aaaa3c2c1995e12f7b?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Mar 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6933db02a0dde7020e2f27ff?utm_campaign=1054&utm_source=git)** | London, ON | On Site | Mar 27 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69c7029de565c26a700250c8?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
-| **[ABC Fitness](http://www.abcfinancial.com)** | **[Culture Team Intern](https://jobright.ai/jobs/info/69a9d4099ca4e908ec650212?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Mar 27 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e77d978b4502f12a54a74?utm_campaign=1054&utm_source=git)** | Port Arthur, TX | On Site | Mar 27 |
-| **[University of Oregon](http://www.cirl.uoregon.edu/)** | **[Admissions Counselor Intern](https://jobright.ai/jobs/info/69c6c2ab1b5ad02887386b8b?utm_campaign=1054&utm_source=git)** | Eugene, OR | On Site | Mar 27 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e83710f6f7e7a2ceaa23d?utm_campaign=1054&utm_source=git)** | Homer City, PA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
