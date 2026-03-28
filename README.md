@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AlphaZeta Interactive](http://www.alphazeta.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c75adb1818a24cd84cd8aa?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 27 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Human Resources Summer Intern](https://jobright.ai/jobs/info/69c751ed1818a24cd84cd6db?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Compensation Analyst](https://jobright.ai/jobs/info/69c76539e565c26a700286e6?utm_campaign=1054&utm_source=git)** | Saskatoon, SK | On Site | Mar 27 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c74d39e565c26a700279b3?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c749061818a24cd84cd1f0?utm_campaign=1054&utm_source=git)** | Mission, TX | On Site | Mar 27 |
 | **[TIC - The Industrial Company](https://www.ticus.com)** | **[Field HR Intern (Summer 2026) - TIC Power](https://jobright.ai/jobs/info/69c74236b773006330b77368?utm_campaign=1054&utm_source=git)** | Port Arthur, TX | On Site | Mar 27 |
