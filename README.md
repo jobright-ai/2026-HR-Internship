@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6972d0d20488fd59f7d5c816?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Mar 28 |
+| **[Mission Lane](https://www.missionlane.com/)** | **[Director, Compensation & Total Rewards](https://jobright.ai/jobs/info/69ab94fe142d5b4265fcb2ac?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 28 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Talent Strategy & Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c7c5f0aa3c2c1995e1b1e8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 28 |
+| **[Cerrowire](http://cerrowire.com)** | **[HR Intern](https://jobright.ai/jobs/info/698f7bf40f6f7e7a2cebb5cd?utm_campaign=1054&utm_source=git)** | Hartselle, AL | On Site | Mar 28 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/69af97496b21de023e60e4b8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
 | **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a527348a8ce22990e631e?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Mar 28 |
 | ↳ | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a3795ac80bb5492bcbdad?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mertz Integration](http://www.mertzok.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6bb7483ea553769fdd17c?utm_campaign=1054&utm_source=git)** | Ponca City, OK 74601 | On Site | Mar 27 |
 | **[BCA Architects & Engineers](https://www.thebcgroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6ba5c83ea553769fdccb1?utm_campaign=1054&utm_source=git)** | Watertown, NY, US | On Site | Mar 27 |
 | **[Infinite Electronics, Inc.](https://www.infiniteelectronics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6b91db773006330b7221f?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Mar 27 |
-| **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69aa31af1f59c56275e30b2f?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
-| **[Marex](http://marexspectron.com)** | **[Onboarding Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/69c6b575b773006330b72154?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/69aa571d9ca4e908ec65b01a?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Mar 27 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
