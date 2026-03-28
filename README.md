@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[Human Resources Bachelor's Intern](https://jobright.ai/jobs/info/69a471c2359fe034b1cf3c53?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Mar 28 |
+| **[LOFT](https://www.loft.com/)** | **[Summer 2026 Field Internship - Auburn Village Mall](https://jobright.ai/jobs/info/69c7f4a083ea553769fe7bf7?utm_campaign=1054&utm_source=git)** | Auburn, AL | On Site | Mar 28 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69c7f325e565c26a7002cfad?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Mar 28 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Development)](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830159?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Atlantic Region (Charlotte, NC)](https://jobright.ai/jobs/info/693ce5d6aa598a08c3eda9fc?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
@@ -100,9 +103,9 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer 2026 Field Internship - Auburn Village Mall](https://jobright.ai/jobs/info/69c7277daa3c2c1995e15b96?utm_campaign=1054&utm_source=git)** | Store 1530-Colonial University Villag-ANN-Auburn, AL 36830 | On Site | Mar 27 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c7248c1b5ad0288738a772?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Mar 27 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Payroll Coordinator](https://jobright.ai/jobs/info/69c7dede1818a24cd84d2259?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Payroll Manager](https://jobright.ai/jobs/info/69c7deb983ea553769fe73bd?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
 | ↳ | **[Human Resources Specialist for Recruiting & Talent Acquisition](https://jobright.ai/jobs/info/69c7ded1aa3c2c1995e1bd45?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
-| ↳ | **[Payroll Manager](https://jobright.ai/jobs/info/69c7deb983ea553769fe73bd?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
+| ↳ | **[Assistant Payroll Coordinator](https://jobright.ai/jobs/info/69c7dede1818a24cd84d2259?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
 | ↳ | **[Human Resources Generalist](https://jobright.ai/jobs/info/69c7dec183ea553769fe73dd?utm_campaign=1054&utm_source=git)** | New Britain, CT | On Site | Mar 27 |
 | **[Central Bedfordshire College](http://www.centralbeds.ac.uk)** | **[Talent Acquisition and Vetting Manager](https://jobright.ai/jobs/info/69c71cda83ea553769fe0d31?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
 | ↳ | **[Talent Acquisition and Vetting Specialist](https://jobright.ai/jobs/info/69c71ca8e565c26a70026295?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
@@ -137,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[CLEAResult](http://www.clearesult.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69c6f2b9aa3c2c1995e1381e?utm_campaign=1054&utm_source=git)** | Remote - Missouri | Remote | Mar 27 |
 | **[Durham County Government](http://www.dconc.gov)** | **[PAYROLL MANAGER - 40004975](https://jobright.ai/jobs/info/69c709531b5ad028873896cd?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Mar 27 |
 | **[Las Vegas Sands Corp.](http://sands.com)** | **[HR Intern - Las Vegas Sands Corp.](https://jobright.ai/jobs/info/69c709461b5ad028873896c9?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Mar 27 |
+| **[Northwell Health](https://feinstein.northwell.edu/)** | **[HR Rotational Internship](https://jobright.ai/jobs/info/69c7f7431818a24cd84d2a8d?utm_campaign=1054&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | Hybrid | Mar 27 |
 | **[Concept Plus, LLC](http://www.conceptplus.com)** | **[Summer HR & Recruiting Intern](https://jobright.ai/jobs/info/69c6ea95b773006330b741cd?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Mar 27 |
 | **[Frontier Scientific Solutions](https://www.fs2.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6e6bf83ea553769fde9e2?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Mar 27 |
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Human Resources (Fall 2026)](https://jobright.ai/jobs/info/69c6e6b3aa3c2c1995e133a3?utm_campaign=1054&utm_source=git)** | Macungie, PA | On Site | Mar 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ovivo](https://www.ovivowater.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69a9f4299ca4e908ec653df6?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 27 |
 | **[Reveleer](https://www.reveleer.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c6d6d31b5ad02887387512?utm_campaign=1054&utm_source=git)** | Glendale, US | On Site | Mar 27 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Human Resources, Compensation](https://jobright.ai/jobs/info/69c6d6c883ea553769fddd4f?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Mar 27 |
-| **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Summer Intern - Human Resources (On-Site)](https://jobright.ai/jobs/info/69c6d30a1818a24cd84c8c88?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | On Site | Mar 27 |
-| **[SpyCloud](https://spycloud.com)** | **[People Operations Intern (Summer)](https://jobright.ai/jobs/info/69c6d047aa3c2c1995e124c9?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e96d178b4502f12a57052?utm_campaign=1054&utm_source=git)** | Vicksburg, MS | On Site | Mar 27 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Human Resources Bureau](https://jobright.ai/jobs/info/69c6c9e3aa3c2c1995e1225c?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
