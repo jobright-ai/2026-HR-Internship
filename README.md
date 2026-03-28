@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TIC - The Industrial Company](https://www.ticus.com)** | **[Field HR Intern (Summer 2026) - TIC Power](https://jobright.ai/jobs/info/69c74236b773006330b77368?utm_campaign=1054&utm_source=git)** | Port Arthur, TX | On Site | Mar 27 |
+| **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026) - KPC](https://jobright.ai/jobs/info/69c742251818a24cd84ccd8d?utm_campaign=1054&utm_source=git)** | Homer City, PA | On Site | Mar 27 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[HR Partner, People and Culture](https://jobright.ai/jobs/info/69c2e871ec22f8310ab0e12d?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 27 |
+| **[MEDITECH](https://ehr.meditech.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69c7371aaa3c2c1995e166fa?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Hybrid | Mar 27 |
 | **[Planet](http://www.planet.com)** | **[Talent Acquisition Partner, Space Systems](https://jobright.ai/jobs/info/69c7336483ea553769fe1a03?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 27 |
 | ↳ | **[Senior Manager, Talent Operations](https://jobright.ai/jobs/info/69c7331d1818a24cd84cc972?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Mar 27 |
 | ↳ | **[Senior Manager, Talent Acquisition](https://jobright.ai/jobs/info/69c733171818a24cd84cc953?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 27 |
@@ -81,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[SpyCloud](https://spycloud.com)** | **[People Operations Internship (Summer)](https://jobright.ai/jobs/info/69c7067183ea553769fdfd74?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Mar 27 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69c703751818a24cd84cac99?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | Mar 27 |
-| **[Northwell Health](https://feinstein.northwell.edu/)** | **[HR Rotational Internship](https://jobright.ai/jobs/info/69c702e41818a24cd84ca973?utm_campaign=1054&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | Hybrid | Mar 27 |
 | **[Hendrick Medical Center Brownwood](https://prevcare.se/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c428376f4f855eeda68528?utm_campaign=1054&utm_source=git)** | Brownwood, TX | On Site | Mar 27 |
 | **[Octave](https://www.octave.com/)** | **[Global Enablement Team Intern](https://jobright.ai/jobs/info/69c702a01818a24cd84ca884?utm_campaign=1054&utm_source=git)** | Madison, AL | Hybrid | Mar 27 |
 | ↳ | **[Global Enablement Team Intern](https://jobright.ai/jobs/info/69c70284e565c26a700250ae?utm_campaign=1054&utm_source=git)** | Greater Houston | Hybrid | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[INNIO Group](https://www.innio.com/en/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c6a635b773006330b71cde?utm_campaign=1054&utm_source=git)** | Waukesha, Wisconsin | Hybrid | Mar 27 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Human Resources Bureau](https://jobright.ai/jobs/info/69c6a61fe565c26a70021aa2?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 27 |
 | **[MEDITECH](https://ehr.meditech.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69c6a5ef83ea553769fdc67b?utm_campaign=1054&utm_source=git)** | Foxboro,MA,US | Hybrid | Mar 27 |
-| **[Photronics](http://www.photronics.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c6a5bc1b5ad02887385e30?utm_campaign=1054&utm_source=git)** | Brookfield, CT | On Site | Mar 27 |
-| **[Waukesha Gas Engines](https://www.waukeshaengine.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c6c4a883ea553769fdd4b2?utm_campaign=1054&utm_source=git)** | Waukesha, WI | Hybrid | Mar 27 |
-| **[Leslie's](https://lesliespool.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6a3d8e565c26a700218cd?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
