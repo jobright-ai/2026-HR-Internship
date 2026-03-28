@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Yes Energy](https://www.yesenergy.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69b1d66f548f140066e7bf75?utm_campaign=1054&utm_source=git)** | Boulder, CO | Hybrid | Mar 27 |
 | **[SMUD](https://www.smud.org/en)** | **[Benefits Intern: Year-Round](https://jobright.ai/jobs/info/69c6d7cf1818a24cd84c91e3?utm_campaign=1054&utm_source=git)** | Sacramento, CA, US, 95817-1899 | On Site | Mar 27 |
 | **[Rivers Casino Philadelphia](http://www.riverscasino.com/philadelphia)** | **[Intern Human Resources](https://jobright.ai/jobs/info/69c6d7cd1818a24cd84c91de?utm_campaign=1054&utm_source=git)** | Schenectady, NY 12305, USA | On Site | Mar 27 |
-| **[Deltek](http://www.deltek.com)** | **[HR, Legal and Operations Intern](https://jobright.ai/jobs/info/69c6d7be1818a24cd84c918d?utm_campaign=1054&utm_source=git)** | US-Herndon-VA | On Site | Mar 27 |
 | **[Ovivo](https://www.ovivowater.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69a9f4299ca4e908ec653df6?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 27 |
 | **[Reveleer](https://www.reveleer.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c6d6d31b5ad02887387512?utm_campaign=1054&utm_source=git)** | Glendale, US | On Site | Mar 27 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Human Resources, Compensation](https://jobright.ai/jobs/info/69c6d6c883ea553769fddd4f?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Mar 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c6ac40e565c26a70021c7d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[Photronics](http://www.photronics.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c6ac3f83ea553769fdc88f?utm_campaign=1054&utm_source=git)** | Brookfield, CT, US | On Site | Mar 27 |
 | **[Beusa Energy](https://www.beusaenergy.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6ca1bb773006330b72e93?utm_campaign=1054&utm_source=git)** | Mertz 1701 N Waverly - Ponca City, OK 74601 | On Site | Mar 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cce0b377add66568abb242?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
