@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c74d39e565c26a700279b3?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
+| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c749061818a24cd84cd1f0?utm_campaign=1054&utm_source=git)** | Mission, TX | On Site | Mar 27 |
 | **[TIC - The Industrial Company](https://www.ticus.com)** | **[Field HR Intern (Summer 2026) - TIC Power](https://jobright.ai/jobs/info/69c74236b773006330b77368?utm_campaign=1054&utm_source=git)** | Port Arthur, TX | On Site | Mar 27 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026) - KPC](https://jobright.ai/jobs/info/69c742251818a24cd84ccd8d?utm_campaign=1054&utm_source=git)** | Homer City, PA | On Site | Mar 27 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[HR Partner, People and Culture](https://jobright.ai/jobs/info/69c2e871ec22f8310ab0e12d?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 27 |
@@ -66,6 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Manager, Talent Acquisition](https://jobright.ai/jobs/info/69c733171818a24cd84cc953?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Bend, OR](https://jobright.ai/jobs/info/69c732dbaa3c2c1995e164e2?utm_campaign=1054&utm_source=git)** | Bend, OR | On Site | Mar 27 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c732b6aa3c2c1995e163e8?utm_campaign=1054&utm_source=git)** | Remote (US) | Remote | Mar 27 |
+| **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c74f5fe565c26a70027a18?utm_campaign=1054&utm_source=git)** | Columbus, OH | Remote | Mar 27 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c74f5fe565c26a70027a17?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Mar 27 |
 | **[Peabody Energy](http://www.peabodyenergy.com)** | **[HSE Intern](https://jobright.ai/jobs/info/69c730151818a24cd84cc6fe?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Mar 27 |
 | **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | **[City and County of Broomfield](https://www.broomfield.org/)** | **[MSW Internship](https://jobright.ai/jobs/info/69c727b11818a24cd84cc1a7?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Mar 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Beusa Energy](https://www.beusaenergy.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6ca1bb773006330b72e93?utm_campaign=1054&utm_source=git)** | Mertz 1701 N Waverly - Ponca City, OK 74601 | On Site | Mar 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cce0b377add66568abb242?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Mar 27 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69216a01a49a885af9a45ab2?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Mar 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d412c7481340785ed58d5?utm_campaign=1054&utm_source=git)** | Cambridge, ON | On Site | Mar 27 |
-| **[INNIO Group](https://www.innio.com/en/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c6a635b773006330b71cde?utm_campaign=1054&utm_source=git)** | Waukesha, Wisconsin | Hybrid | Mar 27 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Human Resources Bureau](https://jobright.ai/jobs/info/69c6a61fe565c26a70021aa2?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 27 |
-| **[MEDITECH](https://ehr.meditech.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69c6a5ef83ea553769fdc67b?utm_campaign=1054&utm_source=git)** | Foxboro,MA,US | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
