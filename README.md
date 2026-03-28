@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parkland School Division](https://www.psd.ca/)** | **[Deputy Superintendent, Human Resources & Operations (1.0 FTE)](https://jobright.ai/jobs/info/69c715ff83ea553769fe079e?utm_campaign=1054&utm_source=git)** | Stony Plain, AB | On Site | Mar 27 |
+| **[Saga Education](http://www.sagaeducation.org)** | **[HR Coordinator](https://jobright.ai/jobs/info/69c71450b773006330b75d18?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
+| **[KRAFZEN](krafzeninc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c7137daa3c2c1995e1521d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 27 |
+| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c71178e565c26a70025a21?utm_campaign=1054&utm_source=git)** | Royal Oak, MI | On Site | Mar 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69c71139e565c26a700259fa?utm_campaign=1054&utm_source=git)** | Mississauga, ON | On Site | Mar 27 |
 | **[Egan Company](https://www.eganco.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69bc594d45e08b3dc1f8e3b8?utm_campaign=1054&utm_source=git)** | Champlin, MN | On Site | Mar 27 |
 | **[Riverside Healthcare](https://www.riversidehealthcare.org)** | **[HR INTERN](https://jobright.ai/jobs/info/69c707c91b5ad0288738962f?utm_campaign=1054&utm_source=git)** | Kankakee, IL | On Site | Mar 27 |
 | **[SpyCloud](https://spycloud.com)** | **[People Operations Internship (Summer)](https://jobright.ai/jobs/info/69c7067183ea553769fdfd74?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a418eac80bb5492bcc3de?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 27 |
 | ↳ | **[Future Opportunities: Retirement Advocate](https://jobright.ai/jobs/info/693a45ddac80bb5492bcc639?utm_campaign=1054&utm_source=git)** | LV Metro Area | Hybrid | Mar 27 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/69a9d7a39ca4e908ec6508e7?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Mar 27 |
-| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a4c4148a8ce22990e4814?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Mar 27 |
-| ↳ | **[Future Opportunities: Retirement Advocate](https://jobright.ai/jobs/info/693a4a8f56b68f3dc4e7a256?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 27 |
-| **[Sevita](https://sevitahealth.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69c1cb7175f7ff1cd81020e6?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
-| **[ODW Logistics](http://odwlogistics.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/69b4392d3b74eb1e2c815b45?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
-| **[Franklin County Sheriff's Office](https://sheriff.franklincountyohio.gov/)** | **[Intern RDEI](https://jobright.ai/jobs/info/69c6380b1818a24cd84c1a35?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
