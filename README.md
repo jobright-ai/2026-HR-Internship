@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
+| **[City and County of Broomfield](https://www.broomfield.org/)** | **[MSW Internship](https://jobright.ai/jobs/info/69c727b11818a24cd84cc1a7?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Mar 27 |
+| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer 2026 Field Internship - Auburn Village Mall](https://jobright.ai/jobs/info/69c7277daa3c2c1995e15b96?utm_campaign=1054&utm_source=git)** | Store 1530-Colonial University Villag-ANN-Auburn, AL 36830 | On Site | Mar 27 |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c7248c1b5ad0288738a772?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Mar 27 |
+| **[Central Bedfordshire College](http://www.centralbeds.ac.uk)** | **[Talent Acquisition and Vetting Manager](https://jobright.ai/jobs/info/69c71cda83ea553769fe0d31?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
+| ↳ | **[Talent Acquisition and Vetting Specialist](https://jobright.ai/jobs/info/69c71ca8e565c26a70026295?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
+| **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Administrator, Human Resources (Talent Acquisition)](https://jobright.ai/jobs/info/69c7194c1b5ad0288738a040?utm_campaign=1054&utm_source=git)** | Ottawa, ON | On Site | Mar 27 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c71936e565c26a70025d0d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 27 |
 | **[Parkland School Division](https://www.psd.ca/)** | **[Deputy Superintendent, Human Resources & Operations (1.0 FTE)](https://jobright.ai/jobs/info/69c715ff83ea553769fe079e?utm_campaign=1054&utm_source=git)** | Stony Plain, AB | On Site | Mar 27 |
 | **[Saga Education](http://www.sagaeducation.org)** | **[HR Coordinator](https://jobright.ai/jobs/info/69c71450b773006330b75d18?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
 | **[KRAFZEN](krafzeninc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c7137daa3c2c1995e1521d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Mar 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Post Holdings](http://postholdings.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69aa11e29ca4e908ec655e7c?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Mar 27 |
 | **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition - San Francisco （Intern / Contract）](https://jobright.ai/jobs/info/69aa4de72ebd316bece21104?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 27 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/69c67e2fb773006330b70b30?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
-| **[Stonebridge](http://www.sbcos.com)** | **[HR Analyst Intern](https://jobright.ai/jobs/info/69c67ce6b773006330b70b16?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Mar 27 |
-| **[Richemont](https://www.richemont.com/)** | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69aa17311f59c56275e2e731?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 27 |
-| **[Oklahoma State University Foundation](http://OSUgiving.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0fe475218a816767237d1?utm_campaign=1054&utm_source=git)** | Stillwater, OK | On Site | Mar 27 |
-| **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225a765de58104c719ac0?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
-| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a3908ac80bb5492bcbe72?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Mar 27 |
-| ↳ | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a418eac80bb5492bcc3de?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 27 |
-| ↳ | **[Future Opportunities: Retirement Advocate](https://jobright.ai/jobs/info/693a45ddac80bb5492bcc639?utm_campaign=1054&utm_source=git)** | LV Metro Area | Hybrid | Mar 27 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/69a9d7a39ca4e908ec6508e7?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
