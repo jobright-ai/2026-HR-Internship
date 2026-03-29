@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69b7dfcc3b74eb1e2c857fd4?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 29 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6975dffd206da320f49fe7d2?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Mar 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69bc45474828227293fde2af?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Mar 29 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69c967ffb773006330b854b0?utm_campaign=1054&utm_source=git)** | Moses Lake, WA | On Site | Mar 29 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69c8e8fee565c26a700325b8?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Mar 29 |
 | **[Cass Information Systems](http://www.cassinfo.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69c837501818a24cd84d3cf9?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Mar 28 |
 | **[e2E Rail](http://etoerail.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c85550b773006330b7ec8f?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Mar 28 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer 2026 Field Internship - Auburn Village Mall](https://jobright.ai/jobs/info/69c7277daa3c2c1995e15b96?utm_campaign=1054&utm_source=git)** | Store 1530-Colonial University Villag-ANN-Auburn, AL 36830 | On Site | Mar 27 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c7248c1b5ad0288738a772?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Mar 27 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Human Resources Specialist for Recruiting & Talent Acquisition](https://jobright.ai/jobs/info/69c7ded1aa3c2c1995e1bd45?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
-| ↳ | **[Assistant Payroll Coordinator](https://jobright.ai/jobs/info/69c7dede1818a24cd84d2259?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
 | ↳ | **[Payroll Manager](https://jobright.ai/jobs/info/69c7deb983ea553769fe73bd?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
+| ↳ | **[Assistant Payroll Coordinator](https://jobright.ai/jobs/info/69c7dede1818a24cd84d2259?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
 | ↳ | **[Human Resources Generalist](https://jobright.ai/jobs/info/69c7dec183ea553769fe73dd?utm_campaign=1054&utm_source=git)** | New Britain, CT | On Site | Mar 27 |
 | **[Central Bedfordshire College](http://www.centralbeds.ac.uk)** | **[Talent Acquisition and Vetting Manager](https://jobright.ai/jobs/info/69c71cda83ea553769fe0d31?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
 | ↳ | **[Talent Acquisition and Vetting Specialist](https://jobright.ai/jobs/info/69c71ca8e565c26a70026295?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Mar 27 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69c703751818a24cd84cac99?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | Mar 27 |
 | **[Hendrick Medical Center Brownwood](https://prevcare.se/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c428376f4f855eeda68528?utm_campaign=1054&utm_source=git)** | Brownwood, TX | On Site | Mar 27 |
-| **[Octave](https://www.octave.com/)** | **[Global Enablement Team Intern](https://jobright.ai/jobs/info/69c702a01818a24cd84ca884?utm_campaign=1054&utm_source=git)** | Madison, AL | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
