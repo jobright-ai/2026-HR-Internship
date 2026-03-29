@@ -97,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/6973099f694e99351d1455d7?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c7739faa3c2c1995e182e3?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Mar 27 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Human Resources Summer Intern](https://jobright.ai/jobs/info/69c751ed1818a24cd84cd6db?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
+| **[AlphaZeta Interactive](http://www.alphazeta.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c8c36b1818a24cd84d6b67?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 27 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c74d39e565c26a700279b3?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c749061818a24cd84cd1f0?utm_campaign=1054&utm_source=git)** | Mission, TX | On Site | Mar 27 |
 | **[TIC - The Industrial Company](https://www.ticus.com)** | **[Field HR Intern (Summer 2026) - TIC Power](https://jobright.ai/jobs/info/69c74236b773006330b77368?utm_campaign=1054&utm_source=git)** | Port Arthur, TX | On Site | Mar 27 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer 2026 Field Internship - Auburn Village Mall](https://jobright.ai/jobs/info/69c7277daa3c2c1995e15b96?utm_campaign=1054&utm_source=git)** | Store 1530-Colonial University Villag-ANN-Auburn, AL 36830 | On Site | Mar 27 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c7248c1b5ad0288738a772?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Mar 27 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Human Resources Specialist for Recruiting & Talent Acquisition](https://jobright.ai/jobs/info/69c7ded1aa3c2c1995e1bd45?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
-| ↳ | **[Assistant Payroll Coordinator](https://jobright.ai/jobs/info/69c7dede1818a24cd84d2259?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Payroll Coordinator](https://jobright.ai/jobs/info/69c7dede1818a24cd84d2259?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
+| ↳ | **[Human Resources Specialist for Recruiting & Talent Acquisition](https://jobright.ai/jobs/info/69c7ded1aa3c2c1995e1bd45?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
 | ↳ | **[Payroll Manager](https://jobright.ai/jobs/info/69c7deb983ea553769fe73bd?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
 | ↳ | **[Human Resources Generalist](https://jobright.ai/jobs/info/69c7dec183ea553769fe73dd?utm_campaign=1054&utm_source=git)** | New Britain, CT | On Site | Mar 27 |
 | **[Central Bedfordshire College](http://www.centralbeds.ac.uk)** | **[Talent Acquisition and Vetting Manager](https://jobright.ai/jobs/info/69c71cda83ea553769fe0d31?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Frontier Scientific Solutions](https://www.fs2.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6e6bf83ea553769fde9e2?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Mar 27 |
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Human Resources (Fall 2026)](https://jobright.ai/jobs/info/69c6e6b3aa3c2c1995e133a3?utm_campaign=1054&utm_source=git)** | Macungie, PA | On Site | Mar 27 |
 | **[Knutson Construction Services](http://knutsonconstruction.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/69c6e487b773006330b73b34?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[HR Student Assistant - School of Business](https://jobright.ai/jobs/info/69c6e2321818a24cd84c955d?utm_campaign=1054&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
