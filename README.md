@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Authentic Brands Group](https://authentic.com)** | **[People Operations Summer Intern](https://jobright.ai/jobs/info/69bb2a343b74eb1e2c8999ee?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Mar 29 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 29 |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69c96cf91b5ad028873994fa?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 29 |
+| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 29 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a2ea8e0da45516f16c481b?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Oak Lawn, IL](https://jobright.ai/jobs/info/6974a38737785856350eb98f?utm_campaign=1054&utm_source=git)** | Oak Lawn, IL | On Site | Mar 29 |
 | ↳ | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 29 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69b7dfcc3b74eb1e2c857fd4?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 29 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6975dffd206da320f49fe7d2?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Mar 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69bc45474828227293fde2af?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Mar 29 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69c967ffb773006330b854b0?utm_campaign=1054&utm_source=git)** | Moses Lake, WA | On Site | Mar 29 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69c8e8fee565c26a700325b8?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Mar 29 |
 | **[Cass Information Systems](http://www.cassinfo.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69c837501818a24cd84d3cf9?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Mar 28 |
 | **[e2E Rail](http://etoerail.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c85550b773006330b7ec8f?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Mar 28 |
@@ -120,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Opportunities: Retirement Advocate](https://jobright.ai/jobs/info/693a411048a8ce22990e3f98?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Mar 28 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/6973099f694e99351d1455d7?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[YMCA of Greater Seattle](http://www.seattleymca.org/)** | **[Social Services Intern - WAGES Program](https://jobright.ai/jobs/info/69c42fd46f4f855eeda69389?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 28 |
-| **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[Chief Human Resource Officer 2026-2027 School Year (4947)](https://jobright.ai/jobs/info/69c8dd2db773006330b826ee?utm_campaign=1054&utm_source=git)** | Queen Creek, AZ | On Site | Mar 28 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c7739faa3c2c1995e182e3?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Mar 27 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Human Resources Summer Intern](https://jobright.ai/jobs/info/69c751ed1818a24cd84cd6db?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c74d39e565c26a700279b3?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
@@ -140,9 +142,9 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer 2026 Field Internship - Auburn Village Mall](https://jobright.ai/jobs/info/69c7277daa3c2c1995e15b96?utm_campaign=1054&utm_source=git)** | Store 1530-Colonial University Villag-ANN-Auburn, AL 36830 | On Site | Mar 27 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c7248c1b5ad0288738a772?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Mar 27 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Human Resources Specialist for Recruiting & Talent Acquisition](https://jobright.ai/jobs/info/69c7ded1aa3c2c1995e1bd45?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Payroll Coordinator](https://jobright.ai/jobs/info/69c7dede1818a24cd84d2259?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
 | ↳ | **[Payroll Manager](https://jobright.ai/jobs/info/69c7deb983ea553769fe73bd?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
-| ↳ | **[Assistant Payroll Coordinator](https://jobright.ai/jobs/info/69c7dede1818a24cd84d2259?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
+| ↳ | **[Human Resources Specialist for Recruiting & Talent Acquisition](https://jobright.ai/jobs/info/69c7ded1aa3c2c1995e1bd45?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
 | ↳ | **[Human Resources Generalist](https://jobright.ai/jobs/info/69c7dec183ea553769fe73dd?utm_campaign=1054&utm_source=git)** | New Britain, CT | On Site | Mar 27 |
 | **[Central Bedfordshire College](http://www.centralbeds.ac.uk)** | **[Talent Acquisition and Vetting Manager](https://jobright.ai/jobs/info/69c71cda83ea553769fe0d31?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
 | ↳ | **[Talent Acquisition and Vetting Specialist](https://jobright.ai/jobs/info/69c71ca8e565c26a70026295?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Riverside Healthcare](https://www.riversidehealthcare.org)** | **[HR INTERN](https://jobright.ai/jobs/info/69c707c91b5ad0288738962f?utm_campaign=1054&utm_source=git)** | Kankakee, IL | On Site | Mar 27 |
 | **[SpyCloud](https://spycloud.com)** | **[People Operations Internship (Summer)](https://jobright.ai/jobs/info/69c7067183ea553769fdfd74?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Mar 27 |
-| **[Trilon Group](https://www.trilongroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69c703751818a24cd84cac99?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | Mar 27 |
-| **[Hendrick Medical Center Brownwood](https://prevcare.se/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c428376f4f855eeda68528?utm_campaign=1054&utm_source=git)** | Brownwood, TX | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
