@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ca9275466f1e133aac4a9c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 30 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfae37785856350fc356?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 30 |
+| ↳ | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b07fe313563e782a9f6c3d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 30 |
+| **[GKN Automotive](https://www.gknautomotive.com/)** | **[Human Resource - Summer Intern](https://jobright.ai/jobs/info/69ca8468a8c1822476e1d5e9?utm_campaign=1054&utm_source=git)** | Newton, NC | On Site | Mar 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933d03e764507023d1b99df?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Mar 30 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfce37785856350fc35e?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Mar 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 30 |
+| **[GKN Automotive](https://www.gknautomotive.com/)** | **[Human Resource - Summer Intern](https://jobright.ai/jobs/info/69ca80d6466f1e133aac438b?utm_campaign=1054&utm_source=git)** | 1848 GKN Way, Newton, North Carolina, 28658, US | On Site | Mar 30 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Mar 30 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA Avenues Opportunities – Summer Internship – May 2027 – August 2027](https://jobright.ai/jobs/info/69ae7f8b7c309707d4afc9b8?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 30 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69a67dead706a731db386c39?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 30 |
@@ -64,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/69ae28ba142d5b4265fee6f5?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 30 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA and CIA Opportunities in Governance, Risk, & Compliance Services (GRCS) – Summer Internship - May 2027 – August 2027](https://jobright.ai/jobs/info/69ae806c3de6821aaccddd5a?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 30 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/693cdce750bbaf76505004d7?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 30 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ca6fc3a8c1822476e1cc1b?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Mar 30 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69c3339c753c101b2156da14?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 29 |
 | **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225a765de58104c719ac0?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Twin Disc](http://www.twindisc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ca3b14b773006330b8c39e?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Mar 29 |
@@ -98,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69c8e8fee565c26a700325b8?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Mar 29 |
 | **[Cass Information Systems](http://www.cassinfo.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69c837501818a24cd84d3cf9?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Mar 28 |
 | **[e2E Rail](http://etoerail.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c85550b773006330b7ec8f?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Mar 28 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Greater Tampa Bay, FL](https://jobright.ai/jobs/info/69c82313aa3c2c1995e1d385?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Mar 28 |
 | **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/69634cd02cbf4e44756d0436?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e8ae778b4502f12a56291?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69c835331b5ad0288739264f?utm_campaign=1054&utm_source=git)** | Canada | Remote | Mar 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Bend, OR](https://jobright.ai/jobs/info/69c732dbaa3c2c1995e164e2?utm_campaign=1054&utm_source=git)** | Bend, OR | On Site | Mar 27 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c732b6aa3c2c1995e163e8?utm_campaign=1054&utm_source=git)** | Remote (US) | Remote | Mar 27 |
 | **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c74f5fe565c26a70027a18?utm_campaign=1054&utm_source=git)** | Columbus, OH | Remote | Mar 27 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c74f5fe565c26a70027a17?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Mar 27 |
-| **[Peabody Energy](http://www.peabodyenergy.com)** | **[HSE Intern](https://jobright.ai/jobs/info/69c730151818a24cd84cc6fe?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Mar 27 |
-| **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
-| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer 2026 Field Internship - Auburn Village Mall](https://jobright.ai/jobs/info/69c7277daa3c2c1995e15b96?utm_campaign=1054&utm_source=git)** | Store 1530-Colonial University Villag-ANN-Auburn, AL 36830 | On Site | Mar 27 |
-| **[Valmark Financial Group](http://valmarkfg.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c7248c1b5ad0288738a772?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Mar 27 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Payroll Manager](https://jobright.ai/jobs/info/69c7deb983ea553769fe73bd?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
-| ↳ | **[Human Resources Specialist for Recruiting & Talent Acquisition](https://jobright.ai/jobs/info/69c7ded1aa3c2c1995e1bd45?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
