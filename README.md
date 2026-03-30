@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69c99c86e565c26a70037d5d?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 29 |
 | **[LINK Unlimited Scholars](https://linkunlimited.org/)** | **[Scholar Engagement and Marketing Intern](https://jobright.ai/jobs/info/69c9847eb773006330b85b19?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 29 |
 | **[Authentic Brands Group](https://authentic.com)** | **[People Operations Summer Intern](https://jobright.ai/jobs/info/69bb2a343b74eb1e2c8999ee?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Mar 29 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Egan Company](https://www.eganco.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69bc594d45e08b3dc1f8e3b8?utm_campaign=1054&utm_source=git)** | Champlin, MN | On Site | Mar 27 |
 | **[Riverside Healthcare](https://www.riversidehealthcare.org)** | **[HR INTERN](https://jobright.ai/jobs/info/69c707c91b5ad0288738962f?utm_campaign=1054&utm_source=git)** | Kankakee, IL | On Site | Mar 27 |
 | **[SpyCloud](https://spycloud.com)** | **[People Operations Internship (Summer)](https://jobright.ai/jobs/info/69c7067183ea553769fdfd74?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
-| **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
