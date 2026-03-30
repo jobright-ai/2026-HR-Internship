@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Computer Consulting](http://www.deltacci.com/)** | **[IT Talent Acquisition / Recruiting Intern (Paid)](https://jobright.ai/jobs/info/69c5b411e565c26a70013cd8?utm_campaign=1054&utm_source=git)** | Torrance, CA | On Site | Mar 30 |
+| **[AFM Agency](https://afmagency.net/)** | **[Mandarin Human Resources Intern](https://jobright.ai/jobs/info/69cad23de565c26a70041282?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 30 |
+| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)](https://jobright.ai/jobs/info/69c566431b5ad028873733c8?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 30 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Summer Enrichment Program Intern - Temporary - ACHE Only](https://jobright.ai/jobs/info/69cacb83a8c1822476e20591?utm_campaign=1054&utm_source=git)** | Seattle, WA, US | On Site | Mar 30 |
 | ↳ | **[Summer Enrichment Program Intern - Temporary - ACHE Only](https://jobright.ai/jobs/info/69cacaf7aa3c2c1995e30496?utm_campaign=1054&utm_source=git)** | US-WA-Seattle | On Site | Mar 30 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern - Case Management](https://jobright.ai/jobs/info/69c56588e565c26a7000f314?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Atlantic Region (Charlotte, NC)](https://jobright.ai/jobs/info/693ce5d6aa598a08c3eda9fc?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/698fd2f50cc8ea15f1da6d34?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Mar 28 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[HR Intern](https://jobright.ai/jobs/info/69728d854ccbf64f8df28005?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 28 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: HR-Preboarding](https://jobright.ai/jobs/info/69ab41537e1fab39d382db7d?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Mar 28 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69b76e3356973837413c8fc2?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 28 |
-| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698ef21178b4502f12a5c476?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
