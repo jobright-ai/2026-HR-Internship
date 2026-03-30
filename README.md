@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Mar 30 |
+| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA Avenues Opportunities – Summer Internship – May 2027 – August 2027](https://jobright.ai/jobs/info/69ae7f8b7c309707d4afc9b8?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 30 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69a67dead706a731db386c39?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 30 |
 | **[Waters Corporation](http://www.waters.com)** | **[Internal Communication Manager (IT & Transformation)](https://jobright.ai/jobs/info/69c425c1d5a1016e98db3241?utm_campaign=1054&utm_source=git)** | Milford, MA | On Site | Mar 30 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/69ae28ba142d5b4265fee6f5?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 30 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA and CIA Opportunities in Governance, Risk, & Compliance Services (GRCS) – Summer Internship - May 2027 – August 2027](https://jobright.ai/jobs/info/69ae806c3de6821aaccddd5a?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 30 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/693cdce750bbaf76505004d7?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 30 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ca6fc3a8c1822476e1cc1b?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Mar 30 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69c3339c753c101b2156da14?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 29 |
 | **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225a765de58104c719ac0?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Twin Disc](http://www.twindisc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ca3b14b773006330b8c39e?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Mar 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69c7248c1b5ad0288738a772?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Mar 27 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Payroll Manager](https://jobright.ai/jobs/info/69c7deb983ea553769fe73bd?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
 | ↳ | **[Human Resources Specialist for Recruiting & Talent Acquisition](https://jobright.ai/jobs/info/69c7ded1aa3c2c1995e1bd45?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
-| ↳ | **[Assistant Payroll Coordinator](https://jobright.ai/jobs/info/69c7dede1818a24cd84d2259?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Mar 27 |
-| ↳ | **[Human Resources Generalist](https://jobright.ai/jobs/info/69c7dec183ea553769fe73dd?utm_campaign=1054&utm_source=git)** | New Britain, CT | On Site | Mar 27 |
-| **[Central Bedfordshire College](http://www.centralbeds.ac.uk)** | **[Talent Acquisition and Vetting Manager](https://jobright.ai/jobs/info/69c71cda83ea553769fe0d31?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
-| ↳ | **[Talent Acquisition and Vetting Specialist](https://jobright.ai/jobs/info/69c71ca8e565c26a70026295?utm_campaign=1054&utm_source=git)** | Bedford, IN | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
