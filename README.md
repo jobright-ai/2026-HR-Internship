@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225a765de58104c719ac0?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 29 |
 | **[arrivia](https://www.arrivia.com/)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/69c9c09baa3c2c1995e279b1?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Mar 29 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69c99c86e565c26a70037d5d?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 29 |
 | **[LINK Unlimited Scholars](https://linkunlimited.org/)** | **[Scholar Engagement and Marketing Intern](https://jobright.ai/jobs/info/69c9847eb773006330b85b19?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69c71139e565c26a700259fa?utm_campaign=1054&utm_source=git)** | Mississauga, ON | On Site | Mar 27 |
 | **[Egan Company](https://www.eganco.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69bc594d45e08b3dc1f8e3b8?utm_campaign=1054&utm_source=git)** | Champlin, MN | On Site | Mar 27 |
 | **[Riverside Healthcare](https://www.riversidehealthcare.org)** | **[HR INTERN](https://jobright.ai/jobs/info/69c707c91b5ad0288738962f?utm_campaign=1054&utm_source=git)** | Kankakee, IL | On Site | Mar 27 |
-| **[SpyCloud](https://spycloud.com)** | **[People Operations Internship (Summer)](https://jobright.ai/jobs/info/69c7067183ea553769fdfd74?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
