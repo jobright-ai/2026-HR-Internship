@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[HR Data Analyst - Operations Analyst Program: August 2026 Start](https://jobright.ai/jobs/info/69af7b4e749500645093fb47?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | Mar 31 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[HR Trainee (3-Month Fixed-Term)](https://jobright.ai/jobs/info/69c32497753c101b2156be6d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 31 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[HR LEARNING & DEVELOPMENT STUDENT INTERN](https://jobright.ai/jobs/info/69cb78c3e565c26a70048304?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 31 |
 | **[H&K Group, Inc.](http://hkgroup.com)** | **[Risk/Safety Internship](https://jobright.ai/jobs/info/69cb754e466f1e133aace1c6?utm_campaign=1054&utm_source=git)** | Skippack, PA | On Site | Mar 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waters Corporation](http://www.waters.com)** | **[Internal Communication Manager (IT & Transformation)](https://jobright.ai/jobs/info/69c425c1d5a1016e98db3241?utm_campaign=1054&utm_source=git)** | Milford, MA | On Site | Mar 30 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/69ae28ba142d5b4265fee6f5?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 30 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA and CIA Opportunities in Governance, Risk, & Compliance Services (GRCS) – Summer Internship - May 2027 – August 2027](https://jobright.ai/jobs/info/69ae806c3de6821aaccddd5a?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 30 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/693cdce750bbaf76505004d7?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
