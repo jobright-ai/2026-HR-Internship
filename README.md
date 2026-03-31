@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rockdale County](https://www.rockdalecountyga.gov)** | **[ACCG Intern -Succession Planning & Leadership Development](https://jobright.ai/jobs/info/69cb402a1b5ad028873aa084?utm_campaign=1054&utm_source=git)** | 06 Human Resources, Conyers, GA, US | On Site | Mar 30 |
+| **[Thrivent](https://www.thrivent.com)** | **[Field Internship Program Lead](https://jobright.ai/jobs/info/69cb3f62aa3c2c1995e3568e?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 30 |
 | **[NTA Talent Agency](https://ntatalent.com)** | **[Talent Agency Student Internship](https://jobright.ai/jobs/info/69cb2e3c8fc6090c5d4558b2?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Mar 30 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69cb2e23e565c26a70045733?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Mar 30 |
+| **[RSM Canada](https://rsmcanada.com/)** | **[Workplace Experience Internship](https://jobright.ai/jobs/info/69cb4229e565c26a700462c9?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Mar 30 |
 | **[MANCON, LLC](http://manconinc.com)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/69cb1f03e565c26a70044f6a?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Mar 30 |
 | **[arrivia](https://www.arrivia.com/)** | **[People Data Intern](https://jobright.ai/jobs/info/69cb1995e565c26a7004499b?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Mar 30 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/69cb1747466f1e133aacac9f?utm_campaign=1054&utm_source=git)** | Menlo Park, CA | On Site | Mar 30 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/69ae28ba142d5b4265fee6f5?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 30 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA and CIA Opportunities in Governance, Risk, & Compliance Services (GRCS) – Summer Internship - May 2027 – August 2027](https://jobright.ai/jobs/info/69ae806c3de6821aaccddd5a?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 30 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/693cdce750bbaf76505004d7?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 30 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69cb454ca8c1822476e2576f?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Mar 30 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69c3339c753c101b2156da14?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 29 |
 | **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225a765de58104c719ac0?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Twin Disc](http://www.twindisc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ca3b14b773006330b8c39e?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Mar 29 |
 | **[arrivia](https://www.arrivia.com/)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/69c9c09baa3c2c1995e279b1?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Mar 29 |
 | **[True Link](https://www.truelinkfinancial.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69cafcd7aa3c2c1995e32bd1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Mar 29 |
-| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69c99c86e565c26a70037d5d?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 29 |
-| **[LINK Unlimited Scholars](https://linkunlimited.org/)** | **[Scholar Engagement and Marketing Intern](https://jobright.ai/jobs/info/69c9847eb773006330b85b19?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 29 |
-| **[Authentic Brands Group](https://authentic.com)** | **[People Operations Summer Intern](https://jobright.ai/jobs/info/69bb2a343b74eb1e2c8999ee?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Mar 29 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
