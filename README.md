@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/69cb07288fc6090c5d45419e?utm_campaign=1054&utm_source=git)** | US-CA-San Francisco | On Site | Mar 30 |
 | **[Johnsonville](http://www.johnsonville.com/)** | **[Human Resources (HR) Internship](https://jobright.ai/jobs/info/69cb071d8fc6090c5d454157?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI, US, 53085 | On Site | Mar 30 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Payroll Intern (Year-Round)](https://jobright.ai/jobs/info/69cb062da8c1822476e22e30?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Mar 30 |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cb239b8fc6090c5d455363?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 30 |
 | **[Johnsonville](http://www.johnsonville.com/)** | **[Human Resources (HR) Internship](https://jobright.ai/jobs/info/69cb034e1b5ad028873a79ad?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI | On Site | Mar 30 |
 | **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/69cb032fa8c1822476e22d98?utm_campaign=1054&utm_source=git)** | El Segundo, CA | On Site | Mar 30 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Summer Enrichment Program Intern - Temporary - ACHE Only](https://jobright.ai/jobs/info/69cb0046e565c26a7004369f?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 29 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a2ea8e0da45516f16c481b?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Oak Lawn, IL](https://jobright.ai/jobs/info/6974a38737785856350eb98f?utm_campaign=1054&utm_source=git)** | Oak Lawn, IL | On Site | Mar 29 |
-| ↳ | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
