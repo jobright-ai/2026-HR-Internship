@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jordan Valley Health](https://jordanvalley.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6f941e565c26a700249bc?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 31 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cc9883891d7b11cfcb08c4?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 31 |
 | **[ID Logistics US](https://www.id-logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc985bcfdc6132f941063d?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Mar 31 |
 | **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[Human Resources Bachelor's Intern](https://jobright.ai/jobs/info/69a471c2359fe034b1cf3c53?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Mar 31 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[HR Intern-NRG Stadium-Food Service - NRG Stadium Human Res](https://jobright.ai/jobs/info/69cc7202891d7b11cfcac5ba?utm_campaign=1054&utm_source=git)** | Houston, TX, US, 77054 | On Site | Mar 31 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cca272cfdc6132f941147e?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Mar 31 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69cc8c94e1921223acc79490?utm_campaign=1054&utm_source=git)** | Southlake, TX | Hybrid | Mar 31 |
+| **[Gearbox Technologies LLC](https://gearboxtechnologies.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ccb692cdb525785fb81a5f?utm_campaign=1054&utm_source=git)** | Auburn, AL | On Site | Mar 31 |
 | **[Planet](http://www.planet.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69cc5dede1921223acc7593c?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 31 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[College Intern - Talent Acquisition - Summer 2026](https://jobright.ai/jobs/info/69cc81bd8130af1ac8339f2c?utm_campaign=1054&utm_source=git)** | Clearwater, FL | Hybrid | Mar 31 |
 | **[FASHIONPHILE](http://www.fashionphile.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69cc91c9e1921223acc79957?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Mar 31 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Woven by Toyota](https://woven.toyota/en)** | **[HR Trainee (3-Month Fixed-Term)](https://jobright.ai/jobs/info/69c32497753c101b2156be6d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 31 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[HR LEARNING & DEVELOPMENT STUDENT INTERN](https://jobright.ai/jobs/info/69cb78c3e565c26a70048304?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 31 |
 | **[H&K Group, Inc.](http://hkgroup.com)** | **[Risk/Safety Internship](https://jobright.ai/jobs/info/69cb754e466f1e133aace1c6?utm_campaign=1054&utm_source=git)** | Skippack, PA | On Site | Mar 31 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ccbcb654f00230c6ce938e?utm_campaign=1054&utm_source=git)** | Arlington, OR | On Site | Mar 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, People Team (Human Resources)](https://jobright.ai/jobs/info/69cb7bec1b5ad028873ac7af?utm_campaign=1054&utm_source=git)** | San Rafael, CA | Remote | Mar 30 |
 | **[JEA](https://www.jea.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69cb5847e565c26a70046f02?utm_campaign=1054&utm_source=git)** | 225 N Pearl Street225 N Pearl Street | On Site | Mar 30 |
 | **[Rockdale County](https://www.rockdalecountyga.gov)** | **[ACCG Intern -Succession Planning & Leadership Development](https://jobright.ai/jobs/info/69cb402a1b5ad028873aa084?utm_campaign=1054&utm_source=git)** | 06 Human Resources, Conyers, GA, US | On Site | Mar 30 |
-| **[Thrivent](https://www.thrivent.com)** | **[Field Internship Program Lead](https://jobright.ai/jobs/info/69cb3f62aa3c2c1995e3568e?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 30 |
-| **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Recruiting Intern (Part Time) (Clayton, MO)](https://jobright.ai/jobs/info/69cb5a57aa3c2c1995e364c1?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Mar 30 |
-| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69cb2e23e565c26a70045733?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
