@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cd3052398fb071abf72ea6?utm_campaign=1054&utm_source=git)** | MIDDLETOWN,RI,US | On Site | Apr 01 |
+| **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[HR Analytics & Org Design Intern](https://jobright.ai/jobs/info/69cd2fa5cfdc6132f941624f?utm_campaign=1054&utm_source=git)** | Boca Raton, Florida, United States | On Site | Apr 01 |
+| **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd84c1dfa954d1c46fc56?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 01 |
+| **[Tech Economy](https://techeconomy.net/)** | **[Senior Analyst, Global People Analytics and Workforce Planning](https://jobright.ai/jobs/info/69cd2d96398fb071abf729ca?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
 | **[Sloan](https://www.sloan.com)** | **[HR Intern](https://jobright.ai/jobs/info/6979344d39f7f96cc6d19b38?utm_campaign=1054&utm_source=git)** | Franklin Park, IL | On Site | Apr 01 |
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cda471dfa954d1c47024d?utm_campaign=1054&utm_source=git)** | Somerset County, NJ | On Site | Apr 01 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[HR, Marketing & Operations Intern](https://jobright.ai/jobs/info/6994fa32ce78e77b4fd90d3c?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Apr 01 |
@@ -107,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Jefferson County Public Schools](http://www.jefferson.kyschools.us/)** | **[Executive Officer Talent (2026-2027)](https://jobright.ai/jobs/info/69cc7240cfdc6132f940c467?utm_campaign=1054&utm_source=git)** | Louisville Metro | On Site | Mar 31 |
 | **[Holy Innocents'​ Episcopal School](https://www.hies.org)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69cc2874891d7b11cfcaac01?utm_campaign=1054&utm_source=git)** | Sandy Springs, GA | On Site | Mar 31 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[4 Year Undergrad Intern I](https://jobright.ai/jobs/info/69cc5506366bb95ba54eeeee?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 31 |
-| **[DWC CPAs and Advisors](https://dwcadvisors.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc238a8130af1ac8336ab2?utm_campaign=1054&utm_source=git)** | Grand Junction,CO,US | On Site | Mar 31 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - Employee Health & Benefits](https://jobright.ai/jobs/info/69cc5ecfcdb525785fb7b2ac?utm_campaign=1054&utm_source=git)** | Aliso Viejo, CA | On Site | Mar 31 |
 | **[Safran](http://www.safran-group.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc7f8ecdb525785fb7c3ad?utm_campaign=1054&utm_source=git)** | Wall Township, NJ | On Site | Mar 31 |
 | **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HR Intern](https://jobright.ai/jobs/info/69cc518bcdb525785fb7add1?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts, United States | On Site | Mar 31 |
@@ -131,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Signode](http://signode.com)** | **[HR Customer Service Intern - Tampa, FL](https://jobright.ai/jobs/info/69cc1ca68130af1ac8336993?utm_campaign=1054&utm_source=git)** | Temple Terrace, FL | On Site | Mar 31 |
 | **[Toast](https://pos.toasttab.com)** | **[PeopleHub Intern](https://jobright.ai/jobs/info/69cbf650e1921223acc7354e?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 31 |
 | **[FTAI Aviation](http://www.ftaiaviation.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc886ee1921223acc78d47?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Mar 31 |
-| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Senior Outreach](https://jobright.ai/jobs/info/69cc54bf366bb95ba54eeeda?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 31 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[HR Assistant, Internships](https://jobright.ai/jobs/info/69af43376b21de023e607602?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 31 |
 | **[Milliman](http://www.milliman.com)** | **[Talent Acquisition Intern / Campus Recruiting](https://jobright.ai/jobs/info/69cbebbf891d7b11cfca996f?utm_campaign=1054&utm_source=git)** | Brookfield, Wisconsin, United States | Hybrid | Mar 31 |
 | **[Amcor](http://www.amcor.com/)** | **[HR Intern - Part-Time](https://jobright.ai/jobs/info/69cbeafacfdc6132f94097cc?utm_campaign=1054&utm_source=git)** | RPSNA Madisonville KY | On Site | Mar 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69340347764507023d1bb62e?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Mar 31 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46ed76f4f855eeda6fbd7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Mar 31 |
 | **[OneLocal](https://www.onelocal.com)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69cc277de1921223acc743ff?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 31 |
-| **[Hanover Foods Corporation](http://hanoverfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cbc77b891d7b11cfca927a?utm_campaign=1054&utm_source=git)** | Hanover, PA 17331 | On Site | Mar 31 |
-| **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/69aefc3bdfaeda6ff59701c4?utm_campaign=1054&utm_source=git)** | Clintonville, WI | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
