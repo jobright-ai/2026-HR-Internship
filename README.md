@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syensqo](https://www.syensqo.com)** | **[HR Intern](https://jobright.ai/jobs/info/69cd736e54f00230c6cef8d8?utm_campaign=1054&utm_source=git)** | Greenville, TX | On Site | Apr 01 |
+| **[LB Foster](http://www.lbfoster.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/69cd731c54f00230c6cef714?utm_campaign=1054&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Remote | Apr 01 |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Human Resources & Talent Acquisition Intern, Summer 2026](https://jobright.ai/jobs/info/69cd6a5c891d7b11cfcb8b1c?utm_campaign=1054&utm_source=git)** | Remote - United States | Remote | Apr 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/695c93af9a87b95a9397e7d4?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Apr 01 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6978b5be39f7f96cc6d1231e?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 01 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/69cd54e4cfdc6132f9417ac9?utm_campaign=1054&utm_source=git)** | Brecksville, OH, United States | On Site | Apr 01 |
@@ -82,11 +85,11 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Austin)](https://jobright.ai/jobs/info/696116e2e7ed9a5731b9cfa1?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 01 |
 | **[Mobile Communications America](http://callmc.com)** | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/69782f9239f7f96cc6d0776f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Apr 01 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/694b7df01a572a617ddde1d8?utm_campaign=1054&utm_source=git)** | Lilburn, GA | On Site | Apr 01 |
-| **[EPTA GROUP](https://www.epta-france.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69b059b40b2db6275c04198b?utm_campaign=1054&utm_source=git)** | Columbus, GA | Hybrid | Apr 01 |
 | **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[HR Analytics & Org Design Intern](https://jobright.ai/jobs/info/69cd325a891d7b11cfcb6adb?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Apr 01 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001A Staff Intern - Human Resources](https://jobright.ai/jobs/info/69cd308e54f00230c6ced326?utm_campaign=1054&utm_source=git)** | Bethpage, NY, US | Hybrid | Apr 01 |
 | **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cd3052398fb071abf72ea6?utm_campaign=1054&utm_source=git)** | MIDDLETOWN,RI,US | On Site | Apr 01 |
 | **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[HR Analytics & Org Design Intern](https://jobright.ai/jobs/info/69cd2fa5cfdc6132f941624f?utm_campaign=1054&utm_source=git)** | Boca Raton, Florida, United States | On Site | Apr 01 |
+| **[EPTA GROUP](https://www.epta-france.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69b059b40b2db6275c04198b?utm_campaign=1054&utm_source=git)** | Columbus, GA | Hybrid | Apr 01 |
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd84c1dfa954d1c46fc56?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | **[Tech Economy](https://techeconomy.net/)** | **[Senior Analyst, Global People Analytics and Workforce Planning](https://jobright.ai/jobs/info/69cd2d96398fb071abf729ca?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director, International Admissions](https://jobright.ai/jobs/info/69cd4995366bb95ba54fa056?utm_campaign=1054&utm_source=git)** | Elkins Park, PA | On Site | Apr 01 |
@@ -100,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Human Resources](https://jobright.ai/jobs/info/69b0a105dfaeda6ff59ad9d5?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Apr 01 |
 | **[arrivia](https://www.arrivia.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cd57b9cfdc6132f9417d13?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 01 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cd612554f00230c6ceeb73?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 01 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Talent & Diversity, Equity & Inclusion Program Intern - Summer 2026](https://jobright.ai/jobs/info/69b0d488dfaeda6ff59b6e21?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
 | **[IDEMIA Public Security](https://www.idemia.com/business/idemia-public-security)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b0244f749500645095db77?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Apr 01 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[HR/Labor Relations Intern - 2026](https://jobright.ai/jobs/info/69b0cb1edfaeda6ff59b51bf?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | Apr 01 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Total Rewards + Benefits](https://jobright.ai/jobs/info/69b076cd0b2db6275c046f94?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 01 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Safran](http://www.safran-group.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc7f8ecdb525785fb7c3ad?utm_campaign=1054&utm_source=git)** | Wall Township, NJ | On Site | Mar 31 |
 | **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HR Intern](https://jobright.ai/jobs/info/69cc518bcdb525785fb7add1?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts, United States | On Site | Mar 31 |
 | **[Infinite Electronics, Inc.](https://www.infiniteelectronics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc1c52891d7b11cfcaa7b6?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Mar 31 |
-| **[Toast](https://pos.toasttab.com)** | **[PeopleHub Intern](https://jobright.ai/jobs/info/69cc1c1e366bb95ba54ed9aa?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 31 |
 | **[Varda Space Industries](http://varda.com)** | **[Human Resources/ Recruiting Internship - Summer 2026](https://jobright.ai/jobs/info/693bbe6649a7695fbd02a91f?utm_campaign=1054&utm_source=git)** | El Segundo, CA | On Site | Mar 31 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[People Operations/Human Resources Intern (59495)](https://jobright.ai/jobs/info/69cc1905366bb95ba54ed8b6?utm_campaign=1054&utm_source=git)** | Parks Management Company - Winston  Salem, NC 27101 | On Site | Mar 31 |
 | **[DWC CPAs and Advisors](https://dwcadvisors.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cd35c5398fb071abf72ff4?utm_campaign=1054&utm_source=git)** | Grand Junction,CO,US | On Site | Mar 31 |
-| **[CUPSHE](https://www.cupshe.com/)** | **[HR and Admin Intern](https://jobright.ai/jobs/info/69cc53aae1921223acc754e6?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Mar 31 |
-| **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69cc12c5e1921223acc73d39?utm_campaign=1054&utm_source=git)** | Toronto, Ontario | Remote | Mar 31 |
-| **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Deputy Chief Safety Officer (7371)](https://jobright.ai/jobs/info/69c2f243753c101b21566265?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
