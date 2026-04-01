@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Enterprise Institute](http://www.aei.org)** | **[HR Assistant, Internships](https://jobright.ai/jobs/info/69af43376b21de023e607602?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Mar 31 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/69b260c2a8ac8e70ff664372?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Mar 31 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Kokomo](https://jobright.ai/jobs/info/69af9c38dfaeda6ff597e630?utm_campaign=1054&utm_source=git)** | Kokomo, IN | On Site | Mar 31 |
+| **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Mar 31 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69afe6e3dfaeda6ff598ec3d?utm_campaign=1054&utm_source=git)** | Simi Valley, CA | On Site | Mar 31 |
+| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46ed76f4f855eeda6fbd7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Mar 31 |
+| **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/69aefc3bdfaeda6ff59701c4?utm_campaign=1054&utm_source=git)** | Clintonville, WI | On Site | Mar 31 |
+| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69af2e606b21de023e6055b0?utm_campaign=1054&utm_source=git)** | Burton, OH | On Site | Mar 31 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[HR Data Analyst - Operations Analyst Program: August 2026 Start](https://jobright.ai/jobs/info/69af7b4e749500645093fb47?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | Mar 31 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[HR Trainee (3-Month Fixed-Term)](https://jobright.ai/jobs/info/69c32497753c101b2156be6d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 31 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[HR LEARNING & DEVELOPMENT STUDENT INTERN](https://jobright.ai/jobs/info/69cb78c3e565c26a70048304?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 31 |
@@ -66,8 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Rockdale County](https://www.rockdalecountyga.gov)** | **[ACCG Intern -Succession Planning & Leadership Development](https://jobright.ai/jobs/info/69cb402a1b5ad028873aa084?utm_campaign=1054&utm_source=git)** | 06 Human Resources, Conyers, GA, US | On Site | Mar 30 |
 | **[Thrivent](https://www.thrivent.com)** | **[Field Internship Program Lead](https://jobright.ai/jobs/info/69cb3f62aa3c2c1995e3568e?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Recruiting Intern (Part Time) (Clayton, MO)](https://jobright.ai/jobs/info/69cb5a57aa3c2c1995e364c1?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Mar 30 |
-| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cb5a6fa8c1822476e26391?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 30 |
-| **[NTA Talent Agency](https://ntatalent.com)** | **[Talent Agency Student Internship](https://jobright.ai/jobs/info/69cb2e3c8fc6090c5d4558b2?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Mar 30 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69cb2e23e565c26a70045733?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Mar 30 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[Workplace Experience Internship](https://jobright.ai/jobs/info/69cb4229e565c26a700462c9?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Mar 30 |
 | **[MANCON, LLC](http://manconinc.com)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/69cb1f03e565c26a70044f6a?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Mar 30 |
@@ -84,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/69cb07288fc6090c5d45419e?utm_campaign=1054&utm_source=git)** | US-CA-San Francisco | On Site | Mar 30 |
 | **[Johnsonville](http://www.johnsonville.com/)** | **[Human Resources (HR) Internship](https://jobright.ai/jobs/info/69cb071d8fc6090c5d454157?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI, US, 53085 | On Site | Mar 30 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Payroll Intern (Year-Round)](https://jobright.ai/jobs/info/69cb062da8c1822476e22e30?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Mar 30 |
-| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cb239b8fc6090c5d455363?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 30 |
 | **[Johnsonville](http://www.johnsonville.com/)** | **[Human Resources (HR) Internship](https://jobright.ai/jobs/info/69cb034e1b5ad028873a79ad?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI | On Site | Mar 30 |
 | **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/69cb032fa8c1822476e22d98?utm_campaign=1054&utm_source=git)** | El Segundo, CA | On Site | Mar 30 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Summer Enrichment Program Intern - Temporary - ACHE Only](https://jobright.ai/jobs/info/69cb0046e565c26a7004369f?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Mar 30 |
@@ -108,9 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/69cadd41aa3c2c1995e31199?utm_campaign=1054&utm_source=git)** | El Segundo, California, United States | On Site | Mar 30 |
 | **[H&K Group, Inc.](http://hkgroup.com)** | **[Environmental Health & Safety Intern Summer 2026](https://jobright.ai/jobs/info/69cad96ba8c1822476e20e87?utm_campaign=1054&utm_source=git)** | US-PA-Skippack | On Site | Mar 30 |
 | ↳ | **[Environmental Health & Safety Intern Summer 2026](https://jobright.ai/jobs/info/69cad95b1b5ad028873a5aa3?utm_campaign=1054&utm_source=git)** | Skippack, PA, US | On Site | Mar 30 |
-| **[Delta Computer Consulting](http://www.deltacci.com/)** | **[IT Talent Acquisition / Recruiting Intern (Paid)](https://jobright.ai/jobs/info/69c5b411e565c26a70013cd8?utm_campaign=1054&utm_source=git)** | Torrance, CA | On Site | Mar 30 |
 | **[AFM Agency](https://afmagency.net/)** | **[Mandarin Human Resources Intern](https://jobright.ai/jobs/info/69cad23de565c26a70041282?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 30 |
-| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)](https://jobright.ai/jobs/info/69c566431b5ad028873733c8?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 30 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Summer Enrichment Program Intern - Temporary - ACHE Only](https://jobright.ai/jobs/info/69cacb83a8c1822476e20591?utm_campaign=1054&utm_source=git)** | Seattle, WA, US | On Site | Mar 30 |
 | ↳ | **[Summer Enrichment Program Intern - Temporary - ACHE Only](https://jobright.ai/jobs/info/69cacaf7aa3c2c1995e30496?utm_campaign=1054&utm_source=git)** | US-WA-Seattle | On Site | Mar 30 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern - Case Management](https://jobright.ai/jobs/info/69c56588e565c26a7000f314?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Mar 30 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA Avenues Opportunities – Summer Internship – May 2027 – August 2027](https://jobright.ai/jobs/info/69ae7f8b7c309707d4afc9b8?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 30 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69a67dead706a731db386c39?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Mar 30 |
-| **[Waters Corporation](http://www.waters.com)** | **[Internal Communication Manager (IT & Transformation)](https://jobright.ai/jobs/info/69c425c1d5a1016e98db3241?utm_campaign=1054&utm_source=git)** | Milford, MA | On Site | Mar 30 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/69ae28ba142d5b4265fee6f5?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Mar 30 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Calgary Office – CPA and CIA Opportunities in Governance, Risk, & Compliance Services (GRCS) – Summer Internship - May 2027 – August 2027](https://jobright.ai/jobs/info/69ae806c3de6821aaccddd5a?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
