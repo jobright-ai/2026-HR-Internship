@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEMIA Public Security](https://www.idemia.com/business/idemia-public-security)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b0244f749500645095db77?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Apr 01 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[HR/Labor Relations Intern - 2026](https://jobright.ai/jobs/info/69b0cb1edfaeda6ff59b51bf?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | Apr 01 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Global Benefits & Accommodations Intern](https://jobright.ai/jobs/info/69cc7869366bb95ba54ef9db?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Apr 01 |
 | **[Saleseraian](https://salesera.net/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ccd574cfdc6132f9413f73?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 01 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/69ccef9ecfdc6132f9414eed?utm_campaign=1054&utm_source=git)** | Rutland, Vermont | On Site | Mar 31 |
 | **[Jordan Valley Health](https://jordanvalley.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6f941e565c26a700249bc?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 31 |
 | **[Authentic Brands Group](https://authentic.com)** | **[People Operations Summer Intern](https://jobright.ai/jobs/info/69bb2a343b74eb1e2c8999ee?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Mar 31 |
-| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cc9883891d7b11cfcb08c4?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 31 |
 | **[ID Logistics US](https://www.id-logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc985bcfdc6132f941063d?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Mar 31 |
 | **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[Human Resources Bachelor's Intern](https://jobright.ai/jobs/info/69a471c2359fe034b1cf3c53?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Mar 31 |
 | **[arrivia](https://www.arrivia.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc88b1cdb525785fb7e484?utm_campaign=1054&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Mar 31 |
@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[People & Culture Intern, NA](https://jobright.ai/jobs/info/69cc7fcacfdc6132f940d524?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Mar 31 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Talent Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69cc7ce1891d7b11cfcaca8b?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 31 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[HR Intern-NRG Stadium-Food Service - NRG Stadium Human Res](https://jobright.ai/jobs/info/69cc7202891d7b11cfcac5ba?utm_campaign=1054&utm_source=git)** | Houston, TX, US, 77054 | On Site | Mar 31 |
-| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cca272cfdc6132f941147e?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Mar 31 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69cc8c94e1921223acc79490?utm_campaign=1054&utm_source=git)** | Southlake, TX | Hybrid | Mar 31 |
 | **[Gearbox Technologies LLC](https://gearboxtechnologies.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ccb692cdb525785fb81a5f?utm_campaign=1054&utm_source=git)** | Auburn, AL | On Site | Mar 31 |
 | **[Planet](http://www.planet.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69cc5dede1921223acc7593c?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[People & Places Intern](https://jobright.ai/jobs/info/69cbd561cfdc6132f940934a?utm_campaign=1054&utm_source=git)** | Mahwah, NJ | Hybrid | Mar 31 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/69052bfc122e8474c78d6ffa?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 31 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[HR Data Analyst - Operations Analyst Program: August 2026 Start](https://jobright.ai/jobs/info/69af7b4e749500645093fb47?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | Mar 31 |
+| **[Stantec](http://www.stantec.com)** | **[Functional Analyst, HRMS](https://jobright.ai/jobs/info/69cc252e891d7b11cfcaaad5?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
