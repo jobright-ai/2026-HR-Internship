@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Global Benefits & Accommodations Intern](https://jobright.ai/jobs/info/69cc7869366bb95ba54ef9db?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Apr 01 |
 | **[Saleseraian](https://salesera.net/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ccd574cfdc6132f9413f73?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Human Resources Generalist 2](https://jobright.ai/jobs/info/69ccd4c2cdb525785fb8332f?utm_campaign=1054&utm_source=git)** | Newington, CT | Hybrid | Apr 01 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Long Island](https://jobright.ai/jobs/info/69b3198ca8ac8e70ff6736db?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 01 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/69cce4dd398fb071abf71559?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Apr 01 |
 | **[Jordan Valley Health](https://jordanvalley.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6f941e565c26a700249bc?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 31 |
 | **[Authentic Brands Group](https://authentic.com)** | **[People Operations Summer Intern](https://jobright.ai/jobs/info/69bb2a343b74eb1e2c8999ee?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Mar 31 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cc9883891d7b11cfcb08c4?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Functional Analyst, HRMS](https://jobright.ai/jobs/info/69cc252e891d7b11cfcaaad5?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Mar 31 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[HR Trainee (3-Month Fixed-Term)](https://jobright.ai/jobs/info/69c32497753c101b2156be6d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 31 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[HR LEARNING & DEVELOPMENT STUDENT INTERN](https://jobright.ai/jobs/info/69cb78c3e565c26a70048304?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 31 |
-| **[H&K Group, Inc.](http://hkgroup.com)** | **[Risk/Safety Internship](https://jobright.ai/jobs/info/69cb754e466f1e133aace1c6?utm_campaign=1054&utm_source=git)** | Skippack, PA | On Site | Mar 31 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69cccb3d891d7b11cfcb3a71?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
