@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Syensqo](https://www.syensqo.com)** | **[HR Intern](https://jobright.ai/jobs/info/69cd736e54f00230c6cef8d8?utm_campaign=1054&utm_source=git)** | Greenville, TX | On Site | Apr 01 |
+| **[Hyatt](http://www.hyatt.com/)** | **[Intern, Recognition & Culture](https://jobright.ai/jobs/info/69cd804a54f00230c6cf0490?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69cd79a7cdb525785fb88400?utm_campaign=1054&utm_source=git)** | Saint John, NB | On Site | Apr 01 |
+| **[The Will Group](https://thewillgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a732f176bbe83d3afa8e4b?utm_campaign=1054&utm_source=git)** | Wheaton, IL | On Site | Apr 01 |
 | **[LB Foster](http://www.lbfoster.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/69cd731c54f00230c6cef714?utm_campaign=1054&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Remote | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Human Resources & Talent Acquisition Intern, Summer 2026](https://jobright.ai/jobs/info/69cd6a5c891d7b11cfcb8b1c?utm_campaign=1054&utm_source=git)** | Remote - United States | Remote | Apr 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/695c93af9a87b95a9397e7d4?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Apr 01 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6978b5be39f7f96cc6d1231e?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 01 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/69cd54e4cfdc6132f9417ac9?utm_campaign=1054&utm_source=git)** | Brecksville, OH, United States | On Site | Apr 01 |
 | **[Energy Access Innovations](https://www.linkedin.com/company/106032652)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cd54de366bb95ba54fad4c?utm_campaign=1054&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
+| **[SaskTel](http://www.sasktel.com)** | **[Junior Recruiter](https://jobright.ai/jobs/info/69cd7519891d7b11cfcb9094?utm_campaign=1054&utm_source=git)** | Saskatchewan, Canada | On Site | Apr 01 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Talent Acquisition Sourcing Specialist - Executive Search](https://jobright.ai/jobs/info/6927ad7ad47de4798ecdf867?utm_campaign=1054&utm_source=git)** | Northbrook, IL | Hybrid | Apr 01 |
+| **[Clozd](https://www.clozd.com)** | **[Associate](https://jobright.ai/jobs/info/69cd751e366bb95ba54fc183?utm_campaign=1054&utm_source=git)** | Lehi, UT | On Site | Apr 01 |
 | **[CarDon & Associates](https://cardon.us/)** | **[Human Resources Intern - South Region - CarDon Corp](https://jobright.ai/jobs/info/69cd508c366bb95ba54fabb1?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
 | **[Signode](http://signode.com)** | **[HR Customer Service Intern - Tampa, FL](https://jobright.ai/jobs/info/69cd4fc6cdb525785fb86d24?utm_campaign=1054&utm_source=git)** | Temple Terrace, FL | On Site | Apr 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/695c97f35e4962051b59c145?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 01 |
@@ -96,6 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Dallas)](https://jobright.ai/jobs/info/698c282a0f6f7e7a2ce7c83a?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 01 |
 | **[Sloan](https://www.sloan.com)** | **[HR Intern](https://jobright.ai/jobs/info/6979344d39f7f96cc6d19b38?utm_campaign=1054&utm_source=git)** | Franklin Park, IL | On Site | Apr 01 |
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cda471dfa954d1c47024d?utm_campaign=1054&utm_source=git)** | Somerset County, NJ | On Site | Apr 01 |
+| **[Mobile Communications America](http://callmc.com)** | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/6978334a39f7f96cc6d07c0f?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | Hybrid | Apr 01 |
+| **[BPA](http://bpa.ca)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69b0725a0b2db6275c045fbd?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 01 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[HR, Marketing & Operations Intern](https://jobright.ai/jobs/info/6994fa32ce78e77b4fd90d3c?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Apr 01 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Senior Director of Strategic International Recruitment](https://jobright.ai/jobs/info/69cd642b366bb95ba54fb28f?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 01 |
 | **[Accertify, Inc.](http://www.accertify.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b07b790b2db6275c048419?utm_campaign=1054&utm_source=git)** | Itasca, IL | On Site | Apr 01 |
@@ -103,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Human Resources](https://jobright.ai/jobs/info/69b0a105dfaeda6ff59ad9d5?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Apr 01 |
 | **[arrivia](https://www.arrivia.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cd57b9cfdc6132f9417d13?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 01 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cd612554f00230c6ceeb73?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 01 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Talent & Diversity, Equity & Inclusion Program Intern - Summer 2026](https://jobright.ai/jobs/info/69b0d488dfaeda6ff59b6e21?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
 | **[IDEMIA Public Security](https://www.idemia.com/business/idemia-public-security)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b0244f749500645095db77?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Apr 01 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[HR/Labor Relations Intern - 2026](https://jobright.ai/jobs/info/69b0cb1edfaeda6ff59b51bf?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | Apr 01 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Total Rewards + Benefits](https://jobright.ai/jobs/info/69b076cd0b2db6275c046f94?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 01 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Resonetics](http://www.resonetics.com)** | **[Talent Development & Total Rewards Internship](https://jobright.ai/jobs/info/69cc32e8366bb95ba54ee162?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Mar 31 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/69cc805bcfdc6132f940d799?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Mar 31 |
 | **[Jefferson County Public Schools](http://www.jefferson.kyschools.us/)** | **[Executive Officer Talent (2026-2027)](https://jobright.ai/jobs/info/69cc7240cfdc6132f940c467?utm_campaign=1054&utm_source=git)** | Louisville Metro | On Site | Mar 31 |
+| **[Archinect](https://archinect.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69cd7fb1cfdc6132f94194de?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Holy Innocents'​ Episcopal School](https://www.hies.org)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69cc2874891d7b11cfcaac01?utm_campaign=1054&utm_source=git)** | Sandy Springs, GA | On Site | Mar 31 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[4 Year Undergrad Intern I](https://jobright.ai/jobs/info/69cc5506366bb95ba54eeeee?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 31 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - Employee Health & Benefits](https://jobright.ai/jobs/info/69cc5ecfcdb525785fb7b2ac?utm_campaign=1054&utm_source=git)** | Aliso Viejo, CA | On Site | Mar 31 |
-| **[Safran](http://www.safran-group.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc7f8ecdb525785fb7c3ad?utm_campaign=1054&utm_source=git)** | Wall Township, NJ | On Site | Mar 31 |
-| **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HR Intern](https://jobright.ai/jobs/info/69cc518bcdb525785fb7add1?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts, United States | On Site | Mar 31 |
-| **[Infinite Electronics, Inc.](https://www.infiniteelectronics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc1c52891d7b11cfcaa7b6?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Mar 31 |
-| **[Varda Space Industries](http://varda.com)** | **[Human Resources/ Recruiting Internship - Summer 2026](https://jobright.ai/jobs/info/693bbe6649a7695fbd02a91f?utm_campaign=1054&utm_source=git)** | El Segundo, CA | On Site | Mar 31 |
-| **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[People Operations/Human Resources Intern (59495)](https://jobright.ai/jobs/info/69cc1905366bb95ba54ed8b6?utm_campaign=1054&utm_source=git)** | Parks Management Company - Winston  Salem, NC 27101 | On Site | Mar 31 |
-| **[DWC CPAs and Advisors](https://dwcadvisors.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cd35c5398fb071abf72ff4?utm_campaign=1054&utm_source=git)** | Grand Junction,CO,US | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
