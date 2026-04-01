@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Austin)](https://jobright.ai/jobs/info/696116e2e7ed9a5731b9cfa1?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 01 |
+| **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[HR Analytics & Org Design Intern](https://jobright.ai/jobs/info/69cd325a891d7b11cfcb6adb?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Apr 01 |
+| **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001A Staff Intern - Human Resources](https://jobright.ai/jobs/info/69cd308e54f00230c6ced326?utm_campaign=1054&utm_source=git)** | Bethpage, NY, US | Hybrid | Apr 01 |
 | **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cd3052398fb071abf72ea6?utm_campaign=1054&utm_source=git)** | MIDDLETOWN,RI,US | On Site | Apr 01 |
 | **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[HR Analytics & Org Design Intern](https://jobright.ai/jobs/info/69cd2fa5cfdc6132f941624f?utm_campaign=1054&utm_source=git)** | Boca Raton, Florida, United States | On Site | Apr 01 |
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd84c1dfa954d1c46fc56?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 01 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cda471dfa954d1c47024d?utm_campaign=1054&utm_source=git)** | Somerset County, NJ | On Site | Apr 01 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[HR, Marketing & Operations Intern](https://jobright.ai/jobs/info/6994fa32ce78e77b4fd90d3c?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Apr 01 |
 | **[Accertify, Inc.](http://www.accertify.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b07b790b2db6275c048419?utm_campaign=1054&utm_source=git)** | Itasca, IL | On Site | Apr 01 |
+| **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Human Resources](https://jobright.ai/jobs/info/69b0a105dfaeda6ff59ad9d5?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Apr 01 |
 | **[IDEMIA Public Security](https://www.idemia.com/business/idemia-public-security)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b0244f749500645095db77?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Apr 01 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[HR/Labor Relations Intern - 2026](https://jobright.ai/jobs/info/69b0cb1edfaeda6ff59b51bf?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | Apr 01 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Total Rewards + Benefits](https://jobright.ai/jobs/info/69b076cd0b2db6275c046f94?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 01 |
@@ -118,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Toast](https://pos.toasttab.com)** | **[PeopleHub Intern](https://jobright.ai/jobs/info/69cc1c1e366bb95ba54ed9aa?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 31 |
 | **[Varda Space Industries](http://varda.com)** | **[Human Resources/ Recruiting Internship - Summer 2026](https://jobright.ai/jobs/info/693bbe6649a7695fbd02a91f?utm_campaign=1054&utm_source=git)** | El Segundo, CA | On Site | Mar 31 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[People Operations/Human Resources Intern (59495)](https://jobright.ai/jobs/info/69cc1905366bb95ba54ed8b6?utm_campaign=1054&utm_source=git)** | Parks Management Company - Winston  Salem, NC 27101 | On Site | Mar 31 |
+| **[DWC CPAs and Advisors](https://dwcadvisors.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cd35c5398fb071abf72ff4?utm_campaign=1054&utm_source=git)** | Grand Junction,CO,US | On Site | Mar 31 |
 | **[CUPSHE](https://www.cupshe.com/)** | **[HR and Admin Intern](https://jobright.ai/jobs/info/69cc53aae1921223acc754e6?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Mar 31 |
 | **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69cc12c5e1921223acc73d39?utm_campaign=1054&utm_source=git)** | Toronto, Ontario | Remote | Mar 31 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Deputy Chief Safety Officer (7371)](https://jobright.ai/jobs/info/69c2f243753c101b21566265?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6978365788e2b47213bc3d08?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 31 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Mar 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ba13a0dde7020e2f13eb?utm_campaign=1054&utm_source=git)** | Derby, KS | On Site | Mar 31 |
-| **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993c71fce78e77b4fd79c21?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Mar 31 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69afe6e3dfaeda6ff598ec3d?utm_campaign=1054&utm_source=git)** | Simi Valley, CA | On Site | Mar 31 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69340347764507023d1bb62e?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Mar 31 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46ed76f4f855eeda6fbd7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Mar 31 |
-| **[OneLocal](https://www.onelocal.com)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69cc277de1921223acc743ff?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
