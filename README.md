@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saleseraian](https://salesera.net/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ccd574cfdc6132f9413f73?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 01 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Human Resources Generalist 2](https://jobright.ai/jobs/info/69ccd4c2cdb525785fb8332f?utm_campaign=1054&utm_source=git)** | Newington, CT | Hybrid | Apr 01 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Long Island](https://jobright.ai/jobs/info/69b3198ca8ac8e70ff6736db?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 01 |
 | **[Jordan Valley Health](https://jordanvalley.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6f941e565c26a700249bc?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 31 |
+| **[Authentic Brands Group](https://authentic.com)** | **[People Operations Summer Intern](https://jobright.ai/jobs/info/69bb2a343b74eb1e2c8999ee?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Mar 31 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cc9883891d7b11cfcb08c4?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 31 |
 | **[ID Logistics US](https://www.id-logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc985bcfdc6132f941063d?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Mar 31 |
 | **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[Human Resources Bachelor's Intern](https://jobright.ai/jobs/info/69a471c2359fe034b1cf3c53?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Mar 31 |
@@ -94,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Jefferson County Public Schools](http://www.jefferson.kyschools.us/)** | **[Executive Officer Talent (2026-2027)](https://jobright.ai/jobs/info/69cc7240cfdc6132f940c467?utm_campaign=1054&utm_source=git)** | Louisville Metro | On Site | Mar 31 |
 | **[Holy Innocents'​ Episcopal School](https://www.hies.org)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69cc2874891d7b11cfcaac01?utm_campaign=1054&utm_source=git)** | Sandy Springs, GA | On Site | Mar 31 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[4 Year Undergrad Intern I](https://jobright.ai/jobs/info/69cc5506366bb95ba54eeeee?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 31 |
-| **[Arista Networks](http://www.arista.com)** | **[HR Intern](https://jobright.ai/jobs/info/69cc980d366bb95ba54f366a?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Mar 31 |
 | **[DWC CPAs and Advisors](https://dwcadvisors.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc238a8130af1ac8336ab2?utm_campaign=1054&utm_source=git)** | Grand Junction,CO,US | On Site | Mar 31 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - Employee Health & Benefits](https://jobright.ai/jobs/info/69cc5ecfcdb525785fb7b2ac?utm_campaign=1054&utm_source=git)** | Aliso Viejo, CA | On Site | Mar 31 |
 | **[Safran](http://www.safran-group.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc7f8ecdb525785fb7c3ad?utm_campaign=1054&utm_source=git)** | Wall Township, NJ | On Site | Mar 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of California Office of the President](https://www.ucop.edu)** | **[HR LEARNING & DEVELOPMENT STUDENT INTERN](https://jobright.ai/jobs/info/69cb78c3e565c26a70048304?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 31 |
 | **[H&K Group, Inc.](http://hkgroup.com)** | **[Risk/Safety Internship](https://jobright.ai/jobs/info/69cb754e466f1e133aace1c6?utm_campaign=1054&utm_source=git)** | Skippack, PA | On Site | Mar 31 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69cccb3d891d7b11cfcb3a71?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Mar 30 |
-| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ccbcb654f00230c6ce938e?utm_campaign=1054&utm_source=git)** | Arlington, OR | On Site | Mar 30 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, People Team (Human Resources)](https://jobright.ai/jobs/info/69cb7bec1b5ad028873ac7af?utm_campaign=1054&utm_source=git)** | San Rafael, CA | Remote | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
