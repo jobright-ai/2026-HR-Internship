@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sloan](https://www.sloan.com)** | **[HR Intern](https://jobright.ai/jobs/info/6979344d39f7f96cc6d19b38?utm_campaign=1054&utm_source=git)** | Franklin Park, IL | On Site | Apr 01 |
+| **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cda471dfa954d1c47024d?utm_campaign=1054&utm_source=git)** | Somerset County, NJ | On Site | Apr 01 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[HR, Marketing & Operations Intern](https://jobright.ai/jobs/info/6994fa32ce78e77b4fd90d3c?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Apr 01 |
+| **[Accertify, Inc.](http://www.accertify.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b07b790b2db6275c048419?utm_campaign=1054&utm_source=git)** | Itasca, IL | On Site | Apr 01 |
 | **[IDEMIA Public Security](https://www.idemia.com/business/idemia-public-security)** | **[Compensation and Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/69b0244f749500645095db77?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Apr 01 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[HR/Labor Relations Intern - 2026](https://jobright.ai/jobs/info/69b0cb1edfaeda6ff59b51bf?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | Apr 01 |
+| **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Total Rewards + Benefits](https://jobright.ai/jobs/info/69b076cd0b2db6275c046f94?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 01 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Global Benefits & Accommodations Intern](https://jobright.ai/jobs/info/69cc7869366bb95ba54ef9db?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Apr 01 |
 | **[Saleseraian](https://salesera.net/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ccd574cfdc6132f9413f73?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Human Resources Generalist 2](https://jobright.ai/jobs/info/69ccd4c2cdb525785fb8332f?utm_campaign=1054&utm_source=git)** | Newington, CT | Hybrid | Apr 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OneLocal](https://www.onelocal.com)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69cc277de1921223acc743ff?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 31 |
 | **[Hanover Foods Corporation](http://hanoverfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cbc77b891d7b11cfca927a?utm_campaign=1054&utm_source=git)** | Hanover, PA 17331 | On Site | Mar 31 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/69aefc3bdfaeda6ff59701c4?utm_campaign=1054&utm_source=git)** | Clintonville, WI | On Site | Mar 31 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/69af610e6b21de023e608874?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Mar 31 |
-| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69af2e606b21de023e6055b0?utm_campaign=1054&utm_source=git)** | Burton, OH | On Site | Mar 31 |
-| **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[People & Places Intern](https://jobright.ai/jobs/info/69cbd561cfdc6132f940934a?utm_campaign=1054&utm_source=git)** | Mahwah, NJ | Hybrid | Mar 31 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/69052bfc122e8474c78d6ffa?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 31 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[HR Data Analyst - Operations Analyst Program: August 2026 Start](https://jobright.ai/jobs/info/69af7b4e749500645093fb47?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
