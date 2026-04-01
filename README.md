@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stantec](http://www.stantec.com)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cd8e9dcdb525785fb8c56b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Apr 01 |
+| **[Applied Medical Technology, Inc. (AMT)](http://www.appliedmedical.net)** | **[HR Intern](https://jobright.ai/jobs/info/69cd8cf9891d7b11cfcbd034?utm_campaign=1054&utm_source=git)** | Brecksville,OH,US | On Site | Apr 01 |
+| **[OPTrust](http://www.optrust.com)** | **[Human Resources Intern Student](https://jobright.ai/jobs/info/69cd8c87891d7b11cfcbcda3?utm_campaign=1054&utm_source=git)** | Toronto, ON | Hybrid | Apr 01 |
+| **[Byrne, Inc.](https://www.byrnedairy.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69cd8c27cdb525785fb8bfaf?utm_campaign=1054&utm_source=git)** | East Syracuse, New York, United States | On Site | Apr 01 |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Talent Acquisition and Strategy, Insights & Planning (Onsite: NY)  ](https://jobright.ai/jobs/info/69cd8c23366bb95ba54fff7a?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Apr 01 |
+| **[Nextech Systems](http://www.nextech.com)** | **[People and Culture Intern (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69cd8918366bb95ba54ffaf0?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 01 |
+| **[Stantec](http://www.stantec.com)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cd873d398fb071abf790cb?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
+| **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69cd85f1cdb525785fb8a8af?utm_campaign=1054&utm_source=git)** | San Antonio, TX, USA | On Site | Apr 01 |
+| **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, CPA Program (8-months)](https://jobright.ai/jobs/info/69cd84a9398fb071abf77d84?utm_campaign=1054&utm_source=git)** | Toronto | On Site | Apr 01 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Intern, Recognition & Culture](https://jobright.ai/jobs/info/69cd804a54f00230c6cf0490?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69cd79a7cdb525785fb88400?utm_campaign=1054&utm_source=git)** | Saint John, NB | On Site | Apr 01 |
 | **[The Will Group](https://thewillgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a732f176bbe83d3afa8e4b?utm_campaign=1054&utm_source=git)** | Wheaton, IL | On Site | Apr 01 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[People & Culture Intern, NA](https://jobright.ai/jobs/info/69cc3c21cdb525785fb7a486?utm_campaign=1054&utm_source=git)** | Denver, Colorado | On Site | Mar 31 |
 | **[FASHIONPHILE](http://www.fashionphile.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69cc3b8b8130af1ac83374b0?utm_campaign=1054&utm_source=git)** | Carlsbad, California | On Site | Mar 31 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Digital HR and Associate Experience](https://jobright.ai/jobs/info/69cc3789e1921223acc74a67?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Mar 31 |
-| **[Zurich Cover-More](https://www.zurich.com/products-and-services/zurich-cover-more)** | **[Human Resources - Summer Internship](https://jobright.ai/jobs/info/69cc5555366bb95ba54eef11?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 31 |
-| **[Planet](http://www.planet.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69cc347fe1921223acc7497a?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Mar 31 |
-| **[Resonetics](http://www.resonetics.com)** | **[Talent Development & Total Rewards Internship](https://jobright.ai/jobs/info/69cc32e8366bb95ba54ee162?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Mar 31 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/69cc805bcfdc6132f940d799?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Mar 31 |
-| **[Jefferson County Public Schools](http://www.jefferson.kyschools.us/)** | **[Executive Officer Talent (2026-2027)](https://jobright.ai/jobs/info/69cc7240cfdc6132f940c467?utm_campaign=1054&utm_source=git)** | Louisville Metro | On Site | Mar 31 |
-| **[Archinect](https://archinect.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69cd7fb1cfdc6132f94194de?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 31 |
-| **[Holy Innocents'​ Episcopal School](https://www.hies.org)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69cc2874891d7b11cfcaac01?utm_campaign=1054&utm_source=git)** | Sandy Springs, GA | On Site | Mar 31 |
-| **[City of Charlotte](https://charlottenc.gov/)** | **[4 Year Undergrad Intern I](https://jobright.ai/jobs/info/69cc5506366bb95ba54eeeee?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Mar 31 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - Employee Health & Benefits](https://jobright.ai/jobs/info/69cc5ecfcdb525785fb7b2ac?utm_campaign=1054&utm_source=git)** | Aliso Viejo, CA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
