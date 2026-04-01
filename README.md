@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Long Island](https://jobright.ai/jobs/info/69b3198ca8ac8e70ff6736db?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 01 |
 | **[Jordan Valley Health](https://jordanvalley.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c6f941e565c26a700249bc?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Mar 31 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cc9883891d7b11cfcb08c4?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Mar 31 |
 | **[ID Logistics US](https://www.id-logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cc985bcfdc6132f941063d?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Mar 31 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Woven by Toyota](https://woven.toyota/en)** | **[HR Trainee (3-Month Fixed-Term)](https://jobright.ai/jobs/info/69c32497753c101b2156be6d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 31 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[HR LEARNING & DEVELOPMENT STUDENT INTERN](https://jobright.ai/jobs/info/69cb78c3e565c26a70048304?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 31 |
 | **[H&K Group, Inc.](http://hkgroup.com)** | **[Risk/Safety Internship](https://jobright.ai/jobs/info/69cb754e466f1e133aace1c6?utm_campaign=1054&utm_source=git)** | Skippack, PA | On Site | Mar 31 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ccbcb654f00230c6ce938e?utm_campaign=1054&utm_source=git)** | Arlington, OR | On Site | Mar 30 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69cccb3d891d7b11cfcb3a71?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Mar 30 |
+| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ccbcb654f00230c6ce938e?utm_campaign=1054&utm_source=git)** | Arlington, OR | On Site | Mar 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, People Team (Human Resources)](https://jobright.ai/jobs/info/69cb7bec1b5ad028873ac7af?utm_campaign=1054&utm_source=git)** | San Rafael, CA | Remote | Mar 30 |
-| **[JEA](https://www.jea.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69cb5847e565c26a70046f02?utm_campaign=1054&utm_source=git)** | 225 N Pearl Street225 N Pearl Street | On Site | Mar 30 |
-| **[Rockdale County](https://www.rockdalecountyga.gov)** | **[ACCG Intern -Succession Planning & Leadership Development](https://jobright.ai/jobs/info/69cb402a1b5ad028873aa084?utm_campaign=1054&utm_source=git)** | 06 Human Resources, Conyers, GA, US | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
