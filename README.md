@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Musicians Co-operative](https://www.canadianmusicians.coop)** | **[Professional Development Team - Canada Wide 2026](https://jobright.ai/jobs/info/69cec4f5366bb95ba550f53e?utm_campaign=1054&utm_source=git)** | Barrie, ON | Hybrid | Apr 02 |
+| **[Canvas Credit Union](https://www.canvas.org/)** | **[Intern- Learning & Development](https://jobright.ai/jobs/info/69cec48e891d7b11cfccc6df?utm_campaign=1054&utm_source=git)** | Lone Tree, CO | On Site | Apr 02 |
+| **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69cec3a554f00230c6d02e90?utm_campaign=1054&utm_source=git)** | US | Remote | Apr 02 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69cec373398fb071abf88d6f?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Apr 02 |
+| **[California FAIR Plan Association](https://www.cfpnet.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/69cec35d398fb071abf88d17?utm_campaign=1054&utm_source=git)** | REMOTE-United States | Remote | Apr 02 |
+| **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12 - Month - Human Resources Internship](https://jobright.ai/jobs/info/69cec323cdb525785fb9b14d?utm_campaign=1054&utm_source=git)** | Atlanta,Georgia,United States | On Site | Apr 02 |
+| **[Amcor](http://www.amcor.com/)** | **[HR Intern - Part-Time](https://jobright.ai/jobs/info/69cc807c8130af1ac8339926?utm_campaign=1054&utm_source=git)** | Madisonville, KY | On Site | Apr 02 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Human Resources Technology)](https://jobright.ai/jobs/info/69cec23654f00230c6d02c0a?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Apr 02 |
+| **[Spur Logistics LLC](https://www.spurlogistics.com)** | **[Summer Hiring and Recruiting Paid Internship](https://jobright.ai/jobs/info/69cebf9acdb525785fb9af6b?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Apr 02 |
+| **[Canvas Credit Union](https://www.canvas.org/)** | **[Intern- Talent (Recruiting)](https://jobright.ai/jobs/info/69cebd3c891d7b11cfccc175?utm_campaign=1054&utm_source=git)** | Lone Tree, CO | On Site | Apr 02 |
+| **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - TALENT ACQUISITION](https://jobright.ai/jobs/info/69ceba5a398fb071abf88459?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 02 |
+| **[CORE Electric Cooperative](https://core.coop)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69ceba58cfdc6132f942b8e4?utm_campaign=1054&utm_source=git)** | Sedalia, CO | On Site | Apr 02 |
 | **[SurveyMonkey](https://www.momentive.ai)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69ceb5b4cfdc6132f942b0c3?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Apr 02 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Human Resources](https://jobright.ai/jobs/info/69ceada8366bb95ba550df97?utm_campaign=1054&utm_source=git)** | Del Rey, CA, USA | On Site | Apr 02 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Insurance Agent Recruiting Intern - Summer-Fall 2026](https://jobright.ai/jobs/info/69cead99cdb525785fb99fcf?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Apr 02 |
@@ -74,6 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933e4ada0dde7020e2f2c6a?utm_campaign=1054&utm_source=git)** | Rochester, NY | On Site | Apr 02 |
 | **[Amcor](http://www.amcor.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69cea321891d7b11cfccacf9?utm_campaign=1054&utm_source=git)** | Odon, IN | On Site | Apr 02 |
 | ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69cea1facdb525785fb99a1b?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Apr 02 |
+| **[WestJet](http://www.westjet.com)** | **[Senior Advisor - Talent Programs](https://jobright.ai/jobs/info/69cec3a6cdb525785fb9b34f?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Apr 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/6996f1e181476f6176aef133?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 02 |
 | ↳ | **[Summer 2026 Management Trainee Intern Denver](https://jobright.ai/jobs/info/6933cc1ef131d96e484672be?utm_campaign=1054&utm_source=git)** | Aurora, CO | On Site | Apr 02 |
 | **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b22588d04c69566c74d988?utm_campaign=1054&utm_source=git)** | Coppell, TX | Hybrid | Apr 02 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Human Resources & Talent Acquisition Intern, Summer 2026](https://jobright.ai/jobs/info/69cdb5c5366bb95ba5501f2f?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Emergence Health Network](https://emergencehealthnetwork.org/)** | **[Human Resources Specialist I](https://jobright.ai/jobs/info/69cdb57b398fb071abf7b7db?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Apr 01 |
-| **[Origence](https://origence.com/)** | **[Recruiting and Learning & Development Intern](https://jobright.ai/jobs/info/69cdb0c4398fb071abf7b533?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
-| ↳ | **[HRIS Intern](https://jobright.ai/jobs/info/69cdb0a0cdb525785fb8dc95?utm_campaign=1054&utm_source=git)** | Ontario, CA | On Site | Apr 01 |
-| **[Canvas Credit Union](https://www.canvas.org/)** | **[Intern- Talent (Recruiting)](https://jobright.ai/jobs/info/69cdac6354f00230c6cf52aa?utm_campaign=1054&utm_source=git)** | Lone Tree, Colorado, United States | On Site | Apr 01 |
-| ↳ | **[Intern- Learning & Development](https://jobright.ai/jobs/info/69cdac5a366bb95ba55016da?utm_campaign=1054&utm_source=git)** | Lone Tree, Colorado, United States | On Site | Apr 01 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/69cdac50398fb071abf7afdc?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Apr 01 |
-| ↳ | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/69cdac44cfdc6132f941e402?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Apr 01 |
-| **[The Alcohol and Gaming Commission of Ontario](http://www.agco.ca/)** | **[Analyst, Payroll and Benefits Administration](https://jobright.ai/jobs/info/69cde65dcfdc6132f9420fc6?utm_campaign=1054&utm_source=git)** | North York, ON | On Site | Apr 01 |
-| **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate, Human Resources)](https://jobright.ai/jobs/info/69cdf023cdb525785fb91aa9?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 01 |
-| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Human Resources Assistant](https://jobright.ai/jobs/info/69ce1b0ecdb525785fb941b4?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Apr 01 |
-| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - HR, Talent Intern](https://jobright.ai/jobs/info/69cda58acfdc6132f941e279?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 01 |
-| **[LB Foster](http://www.lbfoster.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/69cda587366bb95ba55014f6?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Apr 01 |
-| **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (HR)](https://jobright.ai/jobs/info/69cde24f366bb95ba55040dd?utm_campaign=1054&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 01 |
-| **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Human Resources Intern - Cranberry Township, PA](https://jobright.ai/jobs/info/69cda30fcfdc6132f941e16a?utm_campaign=1054&utm_source=git)** | Cranberry Township - Cranberry Twp, PA 16066 | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
