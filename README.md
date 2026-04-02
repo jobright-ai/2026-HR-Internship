@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cuddles Learning](https://www.cuddleskidz.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce982b398fb071abf86733?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/6996f1e181476f6176aef133?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 02 |
+| ↳ | **[Summer 2026 Management Trainee Intern Denver](https://jobright.ai/jobs/info/6933cc1ef131d96e484672be?utm_campaign=1054&utm_source=git)** | Aurora, CO | On Site | Apr 02 |
+| **[ACR (AmerCareRoyal)](https://amercareroyal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69acf7be7e1fab39d3846d6e?utm_campaign=1054&utm_source=git)** | Exton, PA | Hybrid | Apr 02 |
+| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69955343e0bddb6acac3e315?utm_campaign=1054&utm_source=git)** | Ridgefield, CT | Hybrid | Apr 02 |
 | **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b22588d04c69566c74d988?utm_campaign=1054&utm_source=git)** | Coppell, TX | Hybrid | Apr 02 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Talent Acquisition Sourcing Specialist - Executive Search](https://jobright.ai/jobs/info/6927a9bad47de4798ecdf659?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
 | **[RTX](http://www.raytheon.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce8e2a398fb071abf86342?utm_campaign=1054&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG | On Site | Apr 02 |
@@ -74,6 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6942e2f594730b739875e631?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 02 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/695e5f7da112b402660d2098?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Apr 02 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer People Operations Intern](https://jobright.ai/jobs/info/6979a5120791bc1d7230778b?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Apr 02 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e68e50badca5763aee5cb?utm_campaign=1054&utm_source=git)** | Gainesville, VA | On Site | Apr 02 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Insurance Internship](https://jobright.ai/jobs/info/69b279dbad360c0340a756ee?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Apr 02 |
 | **[Emerson Health](https://www.emersonhospital.org/)** | **[Human Resources Onboarding Intern](https://jobright.ai/jobs/info/69ce7b27366bb95ba550b9f6?utm_campaign=1054&utm_source=git)** | Concord, MA | On Site | Apr 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/697995a4ca92cf0d6a82cb1a?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Apr 02 |
@@ -90,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/69ce6141891d7b11cfcc81c7?utm_campaign=1054&utm_source=git)** | Pryor, OK | On Site | Apr 02 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e62260badca5763aee1a3?utm_campaign=1054&utm_source=git)** | Manassas, VA | On Site | Apr 02 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer People Operations Intern](https://jobright.ai/jobs/info/6979f1aeb4589b4ee87c3799?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Apr 02 |
-| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69ce82a5cfdc6132f94291f8?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 02 |
 | **[Diligent](http://diligent.com)** | **[People Experience & HR Technology Intern](https://jobright.ai/jobs/info/69b21d6a548f140066e85af5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695a767faa05c26e7ab4139a?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Apr 02 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[HR Shared Service Intern](https://jobright.ai/jobs/info/69b1992d548f140066e76ae6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cd8e9dcdb525785fb8c56b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Apr 01 |
 | **[Applied Medical Technology, Inc. (AMT)](http://www.appliedmedical.net)** | **[HR Intern](https://jobright.ai/jobs/info/69cd8cf9891d7b11cfcbd034?utm_campaign=1054&utm_source=git)** | Brecksville,OH,US | On Site | Apr 01 |
 | **[SPX Technologies](https://www.spx.com)** | **[HR Intern](https://jobright.ai/jobs/info/69cdb98dcfdc6132f941ed50?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 01 |
-| **[Byrne, Inc.](https://www.byrnedairy.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69cd8c27cdb525785fb8bfaf?utm_campaign=1054&utm_source=git)** | East Syracuse, New York, United States | On Site | Apr 01 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Talent Acquisition and Strategy, Insights & Planning (Onsite: NY)  ](https://jobright.ai/jobs/info/69cd8c23366bb95ba54fff7a?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Apr 01 |
-| **[Applied Medical Technology, Inc. (AMT)](http://www.appliedmedical.net)** | **[HR Intern](https://jobright.ai/jobs/info/69cddb39cfdc6132f9420820?utm_campaign=1054&utm_source=git)** | Brecksville, OH | On Site | Apr 01 |
-| **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cdcb3c366bb95ba5502972?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, USA, 55404 | On Site | Apr 01 |
-| **[Nextech Systems](http://www.nextech.com)** | **[People and Culture Intern (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69cd8918366bb95ba54ffaf0?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
