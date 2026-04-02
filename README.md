@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/69cdac44cfdc6132f941e402?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Apr 01 |
 | **[The Alcohol and Gaming Commission of Ontario](http://www.agco.ca/)** | **[Analyst, Payroll and Benefits Administration](https://jobright.ai/jobs/info/69cde65dcfdc6132f9420fc6?utm_campaign=1054&utm_source=git)** | North York, ON | On Site | Apr 01 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate, Human Resources)](https://jobright.ai/jobs/info/69cdf023cdb525785fb91aa9?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 01 |
+| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Human Resources Assistant](https://jobright.ai/jobs/info/69ce1b0ecdb525785fb941b4?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Apr 01 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - HR, Talent Intern](https://jobright.ai/jobs/info/69cda58acfdc6132f941e279?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[LB Foster](http://www.lbfoster.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/69cda587366bb95ba55014f6?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Apr 01 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (HR)](https://jobright.ai/jobs/info/69cde24f366bb95ba55040dd?utm_campaign=1054&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cd4d11cdb525785fb86a61?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Apr 01 |
 | **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Human Resources & Office Operations Intern](https://jobright.ai/jobs/info/69cd4cc554f00230c6cee1ee?utm_campaign=1054&utm_source=git)** | Chicago,IL,US | Hybrid | Apr 01 |
 | ↳ | **[Volunteer Program Intern](https://jobright.ai/jobs/info/69cd4cbb891d7b11cfcb78d3?utm_campaign=1054&utm_source=git)** | Chicago,IL,US | Hybrid | Apr 01 |
-| **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[Human Resources Intern (12 Months)](https://jobright.ai/jobs/info/69cd4bfe366bb95ba54fa2fc?utm_campaign=1054&utm_source=git)** | Atlanta,Georgia,United States | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
