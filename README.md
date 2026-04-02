@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/69cdeeed891d7b11cfcc2f94?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Apr 01 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/69cdf5df398fb071abf7fba9?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Apr 01 |
+| ↳ | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/69cdeeed891d7b11cfcc2f94?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Apr 01 |
 | **[Origence](https://origence.com/)** | **[HRIS Intern](https://jobright.ai/jobs/info/69cded32cdb525785fb90923?utm_campaign=1054&utm_source=git)** | Ontario, CA | On Site | Apr 01 |
 | ↳ | **[Recruiting and Learning & Development Intern](https://jobright.ai/jobs/info/69cded19398fb071abf7e2d8?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[Canvas Credit Union](https://www.canvas.org/)** | **[Intern- Talent (Recruiting)](https://jobright.ai/jobs/info/69cdeaff891d7b11cfcc1850?utm_campaign=1054&utm_source=git)** | Lone Tree, CO | On Site | Apr 01 |
@@ -65,7 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Skilled Trades Ontario / Métiers spécialisés Ontario](https://www.skilledtradesontario.ca)** | **[Payroll and Benefits Specialist](https://jobright.ai/jobs/info/69cde2bfcdb525785fb901a8?utm_campaign=1054&utm_source=git)** | Mississauga, ON | On Site | Apr 01 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - People Science Team](https://jobright.ai/jobs/info/69cde14a398fb071abf7d7ec?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Apr 01 |
 | **[Waterton](https://www.waterton.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cdd753891d7b11cfcc074a?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | Apr 01 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Internship](https://jobright.ai/jobs/info/69cdfa95cdb525785fb92804?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 01 |
 | **[Contemporary Amperex Technology Kentucky LLC](http://www.catl.com)** | **[Human Resources Intern -CATK](https://jobright.ai/jobs/info/69cdeafd398fb071abf7decc?utm_campaign=1054&utm_source=git)** | Marshall, MI | On Site | Apr 01 |
+| **[Vineyard Cincinnati Church](http://www.vineyardcincinnati.com)** | **[HR & Finance Summer Internship](https://jobright.ai/jobs/info/69ce014fcfdc6132f942378c?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 01 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Intern: Year-Round (Austin District)](https://jobright.ai/jobs/info/69cdeef7cfdc6132f9422780?utm_campaign=1054&utm_source=git)** | Austin, ND | On Site | Apr 01 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Talent Acquisition and Strategy, Insights & Planning (Onsite: NY)  ](https://jobright.ai/jobs/info/69cdc0c254f00230c6cf62e6?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Eagle River Water and Sanitation District](https://www.erwsd.org/)** | **[People Team Intern](https://jobright.ai/jobs/info/69cdbe41891d7b11cfcbf8a9?utm_campaign=1054&utm_source=git)** | Vail Administration Building - Vail, CO 81657 | On Site | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69c75081e565c26a70027d00?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Apr 01 |
 | **[Advantage Capital](http://www.advantagecap.com/)** | **[Human Resources/ Talent Intern](https://jobright.ai/jobs/info/69bb8ce2569738374141a6f7?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | Apr 01 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Talent Acquisition Sourcing Specialist - Executive Search](https://jobright.ai/jobs/info/6961dfffe7ed9a5731baa650?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Apr 01 |
-| **[Arcarithm](https://arcarithm.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69cd4063cdb525785fb85f83?utm_campaign=1054&utm_source=git)** | Huntsville, AL, US | Hybrid | Apr 01 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[Talent Acquisition Sourcing Specialist - Executive Search](https://jobright.ai/jobs/info/6961b788e7ed9a5731ba8b8e?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | Hybrid | Apr 01 |
-| **[Amazon](https://amazon.com)** | **[Rising Leader - PXT Intern 2026](https://jobright.ai/jobs/info/695cd2e61dfa954d1c46ef64?utm_campaign=1054&utm_source=git)** | Edison, NJ | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
