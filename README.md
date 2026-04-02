@@ -57,10 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer](https://jobright.ai/jobs/info/69ce81cbcfdc6132f9429185?utm_campaign=1054&utm_source=git)** | Waltham | On Site | Apr 02 |
+| **[Outlyr](http://eigermarketing.com/)** | **[Volunteer Intern - Dow Championship](https://jobright.ai/jobs/info/69ce812854f00230c6cffa52?utm_campaign=1054&utm_source=git)** | Midland, MI | On Site | Apr 02 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695ea1d90badca5763af0cac?utm_campaign=1054&utm_source=git)** | St Augustine, FL | On Site | Apr 02 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6942e2f594730b739875e631?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 02 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/695e5f7da112b402660d2098?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Apr 02 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer People Operations Intern](https://jobright.ai/jobs/info/6979a5120791bc1d7230778b?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Apr 02 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Insurance Internship](https://jobright.ai/jobs/info/69b279dbad360c0340a756ee?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Apr 02 |
+| **[Emerson Health](https://www.emersonhospital.org/)** | **[Human Resources Onboarding Intern](https://jobright.ai/jobs/info/69ce7b27366bb95ba550b9f6?utm_campaign=1054&utm_source=git)** | Concord, MA | On Site | Apr 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/697995a4ca92cf0d6a82cb1a?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Apr 02 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern - CT](https://jobright.ai/jobs/info/69a67562d706a731db3863ad?utm_campaign=1054&utm_source=git)** | Shelton, CT | Hybrid | Apr 02 |
+| **[Amcor](http://www.amcor.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69ce7783cdb525785fb978ce?utm_campaign=1054&utm_source=git)** | ACD Odon IN | On Site | Apr 02 |
+| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69ce73e0891d7b11cfcc8ba9?utm_campaign=1054&utm_source=git)** | ACD Bloomington IN | On Site | Apr 02 |
 | **[RTX](http://www.raytheon.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce72f4398fb071abf85249?utm_campaign=1054&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG | On Site | Apr 02 |
 | **[EDSA, Inc.](http://www.edsaplan.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/69a9c2121f59c56275e27978?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 02 |
 | **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Recruiting Intern – Bay Area](https://jobright.ai/jobs/info/69968372e0bddb6acac4fec4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
 | **[Amentum](https://www.amentum.com/)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69ce72e5891d7b11cfcc8ab6?utm_campaign=1054&utm_source=git)** | US-FL-Kennedy Space Center | Hybrid | Apr 02 |
+| **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c496146f4f855eeda73132?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/699be70cce78e77b4fe08218?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 02 |
 | **[INNIO Group](https://www.innio.com/en/)** | **[HR Intern - Recruitment Focus](https://jobright.ai/jobs/info/69959029ce78e77b4fd9b6d1?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/69a8935e79f3f4037f42839a?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Apr 02 |
@@ -116,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (HR)](https://jobright.ai/jobs/info/69cde24f366bb95ba55040dd?utm_campaign=1054&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 01 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Human Resources Intern - Cranberry Township, PA](https://jobright.ai/jobs/info/69cda30fcfdc6132f941e16a?utm_campaign=1054&utm_source=git)** | Cranberry Township - Cranberry Twp, PA 16066 | Hybrid | Apr 01 |
 | **[Nextech Systems](http://www.nextech.com)** | **[Talent Acquisition Intern (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69cded2454f00230c6cf85a7?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 01 |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Compensation Program Manager - Pay Equity](https://jobright.ai/jobs/info/69ce7ccccfdc6132f94289d3?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 01 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - People Science Team](https://jobright.ai/jobs/info/69cda22354f00230c6cf4a24?utm_campaign=1054&utm_source=git)** | Office - USA - CA - Headquarters | On Site | Apr 01 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Internship](https://jobright.ai/jobs/info/69cda221cfdc6132f941db65?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT USA | On Site | Apr 01 |
 | ↳ | **[Extended Case Management Internship](https://jobright.ai/jobs/info/69cda220891d7b11cfcbe0d6?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT USA | On Site | Apr 01 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cdd5a2398fb071abf7cc87?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Apr 01 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/69cdcf1e366bb95ba5502d0c?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Apr 01 |
 | **[Consolidated Precision Products Corp](http://www.cppcorp.com)** | **[HR Intern (CPP - Euclid)](https://jobright.ai/jobs/info/69cddb34891d7b11cfcc0e1a?utm_campaign=1054&utm_source=git)** | Euclid, OH | On Site | Apr 01 |
-| **[Hyatt](http://www.hyatt.com/)** | **[Intern, Recognition & Culture](https://jobright.ai/jobs/info/69cd804a54f00230c6cf0490?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
-| **[Stantec](http://www.stantec.com)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cdcebecdb525785fb8eb56?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 01 |
-| ↳ | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cddb32cdb525785fb8fb64?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 01 |
-| ↳ | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cdb703366bb95ba5501f63?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Apr 01 |
-| **[ST Engineering MRAS](https://www.mras-usa.com/)** | **[MRAS Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69cddaf4398fb071abf7d509?utm_campaign=1054&utm_source=git)** | Middle River, MD | On Site | Apr 01 |
-| **[Stantec](http://www.stantec.com)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cdc5ab366bb95ba550287a?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Apr 01 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/69ce0c63cfdc6132f9423e16?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69cd79a7cdb525785fb88400?utm_campaign=1054&utm_source=git)** | Saint John, NB | On Site | Apr 01 |
-| **[The Will Group](https://thewillgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a732f176bbe83d3afa8e4b?utm_campaign=1054&utm_source=git)** | Wheaton, IL | On Site | Apr 01 |
-| **[The Seagate Hotel, Golf & Beach Club, Autograph Collection](http://www.seagatedelray.com)** | **[Hospitality Intern- The Seagate](https://jobright.ai/jobs/info/69cdd5a6398fb071abf7cca2?utm_campaign=1054&utm_source=git)** | Miami-FTL Area | On Site | Apr 01 |
-| **[Stantec](http://www.stantec.com)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69ce0a0dcfdc6132f9423cb7?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Apr 01 |
-| **[LB Foster](http://www.lbfoster.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/69cd731c54f00230c6cef714?utm_campaign=1054&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Remote | Apr 01 |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Human Resources & Talent Acquisition Intern, Summer 2026](https://jobright.ai/jobs/info/69cd6a5c891d7b11cfcb8b1c?utm_campaign=1054&utm_source=git)** | Remote - United States | Remote | Apr 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6978b5be39f7f96cc6d1231e?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
