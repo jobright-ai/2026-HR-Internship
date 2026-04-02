@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b22588d04c69566c74d988?utm_campaign=1054&utm_source=git)** | Coppell, TX | Hybrid | Apr 02 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[Talent Acquisition Sourcing Specialist - Executive Search](https://jobright.ai/jobs/info/6927a9bad47de4798ecdf659?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
+| **[RTX](http://www.raytheon.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce8e2a398fb071abf86342?utm_campaign=1054&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG | On Site | Apr 02 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[Talent Acquisition Sourcing Specialist - Executive Search](https://jobright.ai/jobs/info/6961df4da112b402661062d8?utm_campaign=1054&utm_source=git)** | Knoxville, TN | Hybrid | Apr 02 |
+| **[Flex](https://getflex.com)** | **[Director of Talent Development and Performance](https://jobright.ai/jobs/info/697af1171423772304eae8f9?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Human Resources Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d43acf1f8465b79f37129?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH | Hybrid | Apr 02 |
+| **[CELSIUS](http://celsius.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69ce8846891d7b11cfcc99d1?utm_campaign=1054&utm_source=git)** | Boca Raton, Florida, United States | On Site | Apr 02 |
+| **[Welch Fluorocarbon Inc.](http://www.welchfluorocarbon.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69ce8840cfdc6132f9429461?utm_campaign=1054&utm_source=git)** | Newburyport, MA, US | On Site | Apr 02 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/69ce8816cfdc6132f942938e?utm_campaign=1054&utm_source=git)** | Atlanta GA | Hybrid | Apr 02 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e9bf60badca5763af0799?utm_campaign=1054&utm_source=git)** | Centre Hall, PA | On Site | Apr 02 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[Talent Acquisition Sourcing Specialist - Executive Search](https://jobright.ai/jobs/info/696c6c50db26b618950fc667?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer](https://jobright.ai/jobs/info/69ce81cbcfdc6132f9429185?utm_campaign=1054&utm_source=git)** | Waltham | On Site | Apr 02 |
 | **[Outlyr](http://eigermarketing.com/)** | **[Volunteer Intern - Dow Championship](https://jobright.ai/jobs/info/69ce812854f00230c6cffa52?utm_campaign=1054&utm_source=git)** | Midland, MI | On Site | Apr 02 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695ea1d90badca5763af0cac?utm_campaign=1054&utm_source=git)** | St Augustine, FL | On Site | Apr 02 |
@@ -69,10 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern - CT](https://jobright.ai/jobs/info/69a67562d706a731db3863ad?utm_campaign=1054&utm_source=git)** | Shelton, CT | Hybrid | Apr 02 |
 | **[Amcor](http://www.amcor.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69ce7783cdb525785fb978ce?utm_campaign=1054&utm_source=git)** | ACD Odon IN | On Site | Apr 02 |
 | ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69ce73e0891d7b11cfcc8ba9?utm_campaign=1054&utm_source=git)** | ACD Bloomington IN | On Site | Apr 02 |
-| **[RTX](http://www.raytheon.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce72f4398fb071abf85249?utm_campaign=1054&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG | On Site | Apr 02 |
 | **[EDSA, Inc.](http://www.edsaplan.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/69a9c2121f59c56275e27978?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 02 |
 | **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Recruiting Intern – Bay Area](https://jobright.ai/jobs/info/69968372e0bddb6acac4fec4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
-| **[Amentum](https://www.amentum.com/)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69ce72e5891d7b11cfcc8ab6?utm_campaign=1054&utm_source=git)** | US-FL-Kennedy Space Center | Hybrid | Apr 02 |
 | **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c496146f4f855eeda73132?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/699be70cce78e77b4fe08218?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 02 |
 | **[INNIO Group](https://www.innio.com/en/)** | **[HR Intern - Recruitment Focus](https://jobright.ai/jobs/info/69959029ce78e77b4fd9b6d1?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 02 |
@@ -81,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/69ce6141891d7b11cfcc81c7?utm_campaign=1054&utm_source=git)** | Pryor, OK | On Site | Apr 02 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e62260badca5763aee1a3?utm_campaign=1054&utm_source=git)** | Manassas, VA | On Site | Apr 02 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer People Operations Intern](https://jobright.ai/jobs/info/6979f1aeb4589b4ee87c3799?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Apr 02 |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69ce82a5cfdc6132f94291f8?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 02 |
 | **[Diligent](http://diligent.com)** | **[People Experience & HR Technology Intern](https://jobright.ai/jobs/info/69b21d6a548f140066e85af5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695a767faa05c26e7ab4139a?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Apr 02 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[HR Shared Service Intern](https://jobright.ai/jobs/info/69b1992d548f140066e76ae6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Applied Medical Technology, Inc. (AMT)](http://www.appliedmedical.net)** | **[HR Intern](https://jobright.ai/jobs/info/69cddb39cfdc6132f9420820?utm_campaign=1054&utm_source=git)** | Brecksville, OH | On Site | Apr 01 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cdcb3c366bb95ba5502972?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, USA, 55404 | On Site | Apr 01 |
 | **[Nextech Systems](http://www.nextech.com)** | **[People and Culture Intern (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69cd8918366bb95ba54ffaf0?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Stantec](http://www.stantec.com)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cd873d398fb071abf790cb?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Employee Relations Intern](https://jobright.ai/jobs/info/69cdece1cdb525785fb908a9?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Apr 01 |
-| **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69cd85f1cdb525785fb8a8af?utm_campaign=1054&utm_source=git)** | San Antonio, TX, USA | On Site | Apr 01 |
-| **[Republic Airways](http://www.rjet.com)** | **[Learning & Development Intern - Fall 2026](https://jobright.ai/jobs/info/69cda589366bb95ba5501505?utm_campaign=1054&utm_source=git)** | Carmel, IN | Hybrid | Apr 01 |
-| **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, CPA Program (8-months)](https://jobright.ai/jobs/info/69cd84a9398fb071abf77d84?utm_campaign=1054&utm_source=git)** | Toronto | On Site | Apr 01 |
-| **[Stantec](http://www.stantec.com)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cdc0af54f00230c6cf62d0?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 01 |
-| ↳ | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cde086891d7b11cfcc10ef?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Apr 01 |
-| ↳ | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69cdd5a2398fb071abf7cc87?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Apr 01 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/69cdcf1e366bb95ba5502d0c?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Apr 01 |
-| **[Consolidated Precision Products Corp](http://www.cppcorp.com)** | **[HR Intern (CPP - Euclid)](https://jobright.ai/jobs/info/69cddb34891d7b11cfcc0e1a?utm_campaign=1054&utm_source=git)** | Euclid, OH | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
