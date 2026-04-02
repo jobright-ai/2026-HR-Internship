@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Volunteer Program Intern](https://jobright.ai/jobs/info/69ce2a49398fb071abf8205e?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
-| **[AirClean Systems](https://www.aircleansystems.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69ce272fcdb525785fb946e8?utm_campaign=1054&utm_source=git)** | Brecksville, OH | On Site | Apr 02 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[HR Shared Service Intern](https://jobright.ai/jobs/info/69b1992d548f140066e76ae6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
+| **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2129bd04c69566c74b6d6?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Apr 02 |
+| **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Intern, People Strategy (Hybrid Schedule)](https://jobright.ai/jobs/info/695dc631fbd62a0a65667d0b?utm_campaign=1054&utm_source=git)** | Chevy Chase, MD | Hybrid | Apr 02 |
 | **[Ferrovial Construction](https://www.ferrovial.com/en/f-agroman/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69ce248b366bb95ba550827a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce0a2a891d7b11cfcc452c?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Apr 01 |
+| **[Waterton](https://www.waterton.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce34c6398fb071abf828f6?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 01 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce3610cdb525785fb95080?utm_campaign=1054&utm_source=git)** | North Liberty, Iowa | On Site | Apr 01 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/69cdf5df398fb071abf7fba9?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Apr 01 |
 | ↳ | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/69cdeeed891d7b11cfcc2f94?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Apr 01 |
 | **[Origence](https://origence.com/)** | **[HRIS Intern](https://jobright.ai/jobs/info/69cded32cdb525785fb90923?utm_campaign=1054&utm_source=git)** | Ontario, CA | On Site | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CarDon & Associates](https://cardon.us/)** | **[Human Resources Intern - South Region - CarDon Corp](https://jobright.ai/jobs/info/69cd508c366bb95ba54fabb1?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Vancouver](https://jobright.ai/jobs/info/69784cd839f7f96cc6d0b402?utm_campaign=1054&utm_source=git)** | Vancouver, WA | On Site | Apr 01 |
 | **[Community Initiatives](https://communityin.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cdd5e2366bb95ba5503176?utm_campaign=1054&utm_source=git)** | Oakland, CA | Hybrid | Apr 01 |
-| **[Signode](http://signode.com)** | **[HR Customer Service Intern - Tampa, FL](https://jobright.ai/jobs/info/69cd4fc6cdb525785fb86d24?utm_campaign=1054&utm_source=git)** | Temple Terrace, FL | On Site | Apr 01 |
-| **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/69cdd5f754f00230c6cf6e94?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Apr 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/695c97f35e4962051b59c145?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
