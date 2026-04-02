@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/69ce6141891d7b11cfcc81c7?utm_campaign=1054&utm_source=git)** | Pryor, OK | On Site | Apr 02 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e62260badca5763aee1a3?utm_campaign=1054&utm_source=git)** | Manassas, VA | On Site | Apr 02 |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer People Operations Intern](https://jobright.ai/jobs/info/6979f1aeb4589b4ee87c3799?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Apr 02 |
 | **[Diligent](http://diligent.com)** | **[People Experience & HR Technology Intern](https://jobright.ai/jobs/info/69b21d6a548f140066e85af5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695a767faa05c26e7ab4139a?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Apr 02 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[HR Shared Service Intern](https://jobright.ai/jobs/info/69b1992d548f140066e76ae6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/69cd54e4cfdc6132f9417ac9?utm_campaign=1054&utm_source=git)** | Brecksville, OH, United States | On Site | Apr 01 |
 | **[Energy Access Innovations](https://www.linkedin.com/company/106032652)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cd54de366bb95ba54fad4c?utm_campaign=1054&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
 | **[SaskTel](http://www.sasktel.com)** | **[Junior Recruiter](https://jobright.ai/jobs/info/69cd7519891d7b11cfcb9094?utm_campaign=1054&utm_source=git)** | Saskatchewan, Canada | On Site | Apr 01 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[Talent Acquisition Sourcing Specialist - Executive Search](https://jobright.ai/jobs/info/6927ad7ad47de4798ecdf867?utm_campaign=1054&utm_source=git)** | Northbrook, IL | Hybrid | Apr 01 |
-| **[Clozd](https://www.clozd.com)** | **[Associate](https://jobright.ai/jobs/info/69cd751e366bb95ba54fc183?utm_campaign=1054&utm_source=git)** | Lehi, UT | On Site | Apr 01 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[HR Special Projects Intern](https://jobright.ai/jobs/info/69cddb65891d7b11cfcc0e53?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
