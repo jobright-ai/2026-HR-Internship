@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695a767faa05c26e7ab4139a?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Apr 02 |
+| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Volunteer Program Intern](https://jobright.ai/jobs/info/69ce4168398fb071abf833d3?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
+| **[AirClean Systems](https://www.aircleansystems.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69ce406fcdb525785fb95a44?utm_campaign=1054&utm_source=git)** | Brecksville, OH | On Site | Apr 02 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[HR Shared Service Intern](https://jobright.ai/jobs/info/69b1992d548f140066e76ae6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2129bd04c69566c74b6d6?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Apr 02 |
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Intern, People Strategy (Hybrid Schedule)](https://jobright.ai/jobs/info/695dc631fbd62a0a65667d0b?utm_campaign=1054&utm_source=git)** | Chevy Chase, MD | Hybrid | Apr 02 |
 | **[Ferrovial Construction](https://www.ferrovial.com/en/f-agroman/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69ce248b366bb95ba550827a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
+| **[Teifi Digital](https://teifi.ca)** | **[HR and Operations Coordinator Co-op](https://jobright.ai/jobs/info/69ce406acdb525785fb95a13?utm_campaign=1054&utm_source=git)** | Vancouver, BC | Hybrid | Apr 02 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce0a2a891d7b11cfcc452c?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Apr 01 |
 | **[Waterton](https://www.waterton.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce34c6398fb071abf828f6?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 01 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce3610cdb525785fb95080?utm_campaign=1054&utm_source=git)** | North Liberty, Iowa | On Site | Apr 01 |
@@ -142,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69ce0a0dcfdc6132f9423cb7?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Apr 01 |
 | **[LB Foster](http://www.lbfoster.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/69cd731c54f00230c6cef714?utm_campaign=1054&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Remote | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Human Resources & Talent Acquisition Intern, Summer 2026](https://jobright.ai/jobs/info/69cd6a5c891d7b11cfcb8b1c?utm_campaign=1054&utm_source=git)** | Remote - United States | Remote | Apr 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/695c93af9a87b95a9397e7d4?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Apr 01 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6978b5be39f7f96cc6d1231e?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6978b5be39f7f96cc6d1231e?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 01 |
+| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/695c93af9a87b95a9397e7d4?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Apr 01 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001A Staff Intern - Human Resources](https://jobright.ai/jobs/info/69cd9b0a366bb95ba5500ca6?utm_campaign=1054&utm_source=git)** | Bethpage, NY | Hybrid | Apr 01 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/6995398881476f6176ad1aa5?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Apr 01 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69cdb0c1cdb525785fb8dcd1?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Talent Acquisition Sourcing Specialist - Executive Search](https://jobright.ai/jobs/info/6927ad7ad47de4798ecdf867?utm_campaign=1054&utm_source=git)** | Northbrook, IL | Hybrid | Apr 01 |
 | **[Clozd](https://www.clozd.com)** | **[Associate](https://jobright.ai/jobs/info/69cd751e366bb95ba54fc183?utm_campaign=1054&utm_source=git)** | Lehi, UT | On Site | Apr 01 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[HR Special Projects Intern](https://jobright.ai/jobs/info/69cddb65891d7b11cfcc0e53?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Apr 01 |
-| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6998ab37ce78e77b4fdd4659?utm_campaign=1054&utm_source=git)** | Paramus, NJ | On Site | Apr 01 |
-| **[CarDon & Associates](https://cardon.us/)** | **[Human Resources Intern - South Region - CarDon Corp](https://jobright.ai/jobs/info/69cd508c366bb95ba54fabb1?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Vancouver](https://jobright.ai/jobs/info/69784cd839f7f96cc6d0b402?utm_campaign=1054&utm_source=git)** | Vancouver, WA | On Site | Apr 01 |
-| **[Community Initiatives](https://communityin.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cdd5e2366bb95ba5503176?utm_campaign=1054&utm_source=git)** | Oakland, CA | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
