@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Littler](http://www.littler.com)** | **[Talent Acquisition Attorney Recruiter - Multiple Offices (Remote)](https://jobright.ai/jobs/info/69ceee9dcfdc6132f942e022?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 02 |
+| **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[HR Benefits Specialist](https://jobright.ai/jobs/info/69ceecbacfdc6132f942df9b?utm_campaign=1054&utm_source=git)** | Breckenridge, CO | On Site | Apr 02 |
+| **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69ceec7acdb525785fb9d178?utm_campaign=1054&utm_source=git)** | Dublin, VA | On Site | Apr 02 |
+| **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ceeacb891d7b11cfcce49b?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 02 |
+| **[RePublic Schools](https://republiccharterschools.org)** | **[Talent and HR Assistant (Summer)](https://jobright.ai/jobs/info/69cee757366bb95ba5510f59?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | Apr 02 |
+| **[Travis County](https://www.traviscountytx.gov)** | **[Administrative and HR Internship](https://jobright.ai/jobs/info/69cee718398fb071abf8a954?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 02 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69ba97a43b74eb1e2c88ab09?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 02 |
 | **[BCM One](http://www.bcmone.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69cee15e54f00230c6d044de?utm_campaign=1054&utm_source=git)** | Blue Bell, Pennsylvania, United States | Hybrid | Apr 02 |
 | **[The Vomela Companies](https://www.vomela.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cedee8891d7b11cfccd9d9?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Apr 02 |
 | **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Retirement Advocate](https://jobright.ai/jobs/info/69cedeac366bb95ba55105c2?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 02 |
@@ -82,8 +89,10 @@ For a complete list, click the following sortable link below:
 | **[POM Wonderful](http://www.pomwonderful.com)** | **[Wonderful Scholar Summer Internship, Human Resources](https://jobright.ai/jobs/info/69cedb2c54f00230c6d03fe2?utm_campaign=1054&utm_source=git)** | Del Rey, CA | On Site | Apr 02 |
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - TALENT ACQUISITION](https://jobright.ai/jobs/info/69ceba5a398fb071abf88459?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[CORE Electric Cooperative](https://core.coop)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69ceba58cfdc6132f942b8e4?utm_campaign=1054&utm_source=git)** | Sedalia, CO | On Site | Apr 02 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Mason, OH)](https://jobright.ai/jobs/info/69cee6f0891d7b11cfcce269?utm_campaign=1054&utm_source=git)** | Mason, OH | On Site | Apr 02 |
 | **[SurveyMonkey](https://www.momentive.ai)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69ceb5b4cfdc6132f942b0c3?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Apr 02 |
 | **[ESCO Automation](http://theescogroup.com)** | **[HR Associate (Intern)](https://jobright.ai/jobs/info/69ced274cdb525785fb9bafe?utm_campaign=1054&utm_source=git)** | Marion, IA | On Site | Apr 02 |
+| **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ceee85398fb071abf8ac2e?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 02 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Human Resources](https://jobright.ai/jobs/info/69ceada8366bb95ba550df97?utm_campaign=1054&utm_source=git)** | Del Rey, CA, USA | On Site | Apr 02 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Insurance Agent Recruiting Intern - Summer-Fall 2026](https://jobright.ai/jobs/info/69cead99cdb525785fb99fcf?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Apr 02 |
 | **[General Atomics](http://www.ga.com)** | **[Senior TA Specialist - Intern Program & University Relations](https://jobright.ai/jobs/info/69c90b2b1b5ad02887397bff?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Intern, People Strategy (Hybrid Schedule)](https://jobright.ai/jobs/info/695dc631fbd62a0a65667d0b?utm_campaign=1054&utm_source=git)** | Chevy Chase, MD | Hybrid | Apr 02 |
 | **[Ferrovial Construction](https://www.ferrovial.com/en/f-agroman/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69ce248b366bb95ba550827a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[Teifi Digital](https://teifi.ca)** | **[HR and Operations Coordinator Co-op](https://jobright.ai/jobs/info/69ce406acdb525785fb95a13?utm_campaign=1054&utm_source=git)** | Vancouver, BC | Hybrid | Apr 02 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce0a2a891d7b11cfcc452c?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Apr 01 |
-| **[Waterton](https://www.waterton.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce34c6398fb071abf828f6?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 01 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ce3610cdb525785fb95080?utm_campaign=1054&utm_source=git)** | North Liberty, Iowa | On Site | Apr 01 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/69cdf5df398fb071abf7fba9?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Apr 01 |
-| ↳ | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/69cdeeed891d7b11cfcc2f94?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Apr 01 |
-| **[Origence](https://origence.com/)** | **[HRIS Intern](https://jobright.ai/jobs/info/69cded32cdb525785fb90923?utm_campaign=1054&utm_source=git)** | Ontario, CA | On Site | Apr 01 |
-| ↳ | **[Recruiting and Learning & Development Intern](https://jobright.ai/jobs/info/69cded19398fb071abf7e2d8?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
-| **[Canvas Credit Union](https://www.canvas.org/)** | **[Intern- Talent (Recruiting)](https://jobright.ai/jobs/info/69cdeaff891d7b11cfcc1850?utm_campaign=1054&utm_source=git)** | Lone Tree, CO | On Site | Apr 01 |
-| ↳ | **[Intern- Learning & Development](https://jobright.ai/jobs/info/69cdeafacfdc6132f94211de?utm_campaign=1054&utm_source=git)** | Lone Tree, CO | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
