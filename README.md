@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d04208891d7b11cfcda0d2?utm_campaign=1054&utm_source=git)** | Springfield, MA | Hybrid | Apr 03 |
+| **[Newegg](https://www.newegg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d04034cdb525785fba8dc2?utm_campaign=1054&utm_source=git)** | Diamond Bar, CA | On Site | Apr 03 |
+| **[University of Central Florida](https://www.ucf.edu)** | **[Human Resources Coordinator I](https://jobright.ai/jobs/info/69d040130b098b7a67077dce?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
+| **[Merit Medical Systems, Inc.](http://www.merit.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d03da9cdb525785fba8ce7?utm_campaign=1054&utm_source=git)** | South Jordan, UT | On Site | Apr 03 |
+| **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! HR Intern (Clerk III) Austin, Texas](https://jobright.ai/jobs/info/69ce653554f00230c6cfeccd?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 03 |
 | **[Airrosti](http://www.airrosti.com/)** | **[Credentialing and Compliance Summer Intern](https://jobright.ai/jobs/info/69d03278366bb95ba551c939?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 03 |
 | **[Maverick](https://www.maverickbuilders.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d03174891d7b11cfcd9a86?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL, US | On Site | Apr 03 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | Apr 03 |
@@ -66,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, HR Employee Resource Group](https://jobright.ai/jobs/info/69d02170cdb525785fba7918?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Apr 03 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Join Our Intern Talent Network](https://jobright.ai/jobs/info/69d0215dcdb525785fba78c2?utm_campaign=1054&utm_source=git)** | Windsor Mill, MD | On Site | Apr 03 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d01985891d7b11cfcd88f3?utm_campaign=1054&utm_source=git)** | Scottsdale | On Site | Apr 03 |
+| **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d03784cfdc6132f9439926?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Apr 03 |
+| **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d0377acfdc6132f9439913?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 03 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Adult Protective Services Program](https://jobright.ai/jobs/info/6997c31581476f6176afeea2?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[Merit Sensor Systems, Inc.](https://meritsensor.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d00bfe0b098b7a67075b5d?utm_campaign=1054&utm_source=git)** | South Jordan, UT | On Site | Apr 03 |
 | **[Bethany Christian Services](https://bethany.org/)** | **[Internship and College Relations Coordinator](https://jobright.ai/jobs/info/69b79ec63b74eb1e2c853772?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Apr 03 |
@@ -83,7 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/69cfefb854f00230c6d0d770?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Apr 03 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Director Talent Development](https://jobright.ai/jobs/info/69b32ff5a8ac8e70ff67718a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Apr 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern South Denver](https://jobright.ai/jobs/info/699befd581476f6176b45b3f?utm_campaign=1054&utm_source=git)** | Littleton, CO | On Site | Apr 03 |
-| ↳ | **[Management Trainee Intern - West Bend](https://jobright.ai/jobs/info/69b391c2ad360c0340a8b654?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 03 |
+| **[California State University, Fullerton](https://linktr.ee/csufofficial)** | **[Employer Relations Associate (Student Services Professional II)](https://jobright.ai/jobs/info/69a9eaec1f59c56275e2b4ac?utm_campaign=1054&utm_source=git)** | Fullerton, CA | On Site | Apr 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - West Bend](https://jobright.ai/jobs/info/69b391c2ad360c0340a8b654?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 03 |
 | **[WM](https://www.wm.com/)** | **[Learning/HR Intern](https://jobright.ai/jobs/info/69cfeb09891d7b11cfcd6b99?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933f7a7764507023d1baf1e?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Apr 03 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, HR Systems](https://jobright.ai/jobs/info/69cfe87f54f00230c6d0d379?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ITW Automotive](https://www.itwautomotive.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf04f6cfdc6132f942ee4b?utm_campaign=1054&utm_source=git)** | Zeeland, MI | On Site | Apr 02 |
 | **[SurveyMonkey](https://www.momentive.ai)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69cf04ec891d7b11cfccf505?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Apr 02 |
 | **[Genesis Molecular AI](https://genesis.ml/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf04ec891d7b11cfccf4fd?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
-| **[University of Southern California](http://www.usc.edu)** | **[Research Coordinator I](https://jobright.ai/jobs/info/69cf03cf54f00230c6d05c9d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[HR Business Partner](https://jobright.ai/jobs/info/69cf03bacfdc6132f942ee0e?utm_campaign=1054&utm_source=git)** | Urbana, IL | Hybrid | Apr 02 |
-| **[CHC](http://chcaddiction.org)** | **[Internship Opportunities](https://jobright.ai/jobs/info/69d0211e891d7b11cfcd8c48?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Apr 02 |
-| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Retirement Advocate](https://jobright.ai/jobs/info/69cf033dcdb525785fb9e079?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Apr 02 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[CLTI Recruiting Intern](https://jobright.ai/jobs/info/69cf209c54f00230c6d06983?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 02 |
-| **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[HR Intern](https://jobright.ai/jobs/info/69cefafd366bb95ba5511be3?utm_campaign=1054&utm_source=git)** | Tucson, AZ, US | On Site | Apr 02 |
-| **[First Command Financial Services, Inc.](http://www.firstcommand.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/69cef566cdb525785fb9d9c4?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 02 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cef52354f00230c6d055ad?utm_campaign=1054&utm_source=git)** | US-AL-Birmingham | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
