@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HKS, Inc.](http://www.hksinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf2bc754f00230c6d072c8?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69cf27ff891d7b11cfcd0560?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 02 |
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Human Resources](https://jobright.ai/jobs/info/69cf27e6cfdc6132f942ff07?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Apr 02 |
 | **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[HR Intern](https://jobright.ai/jobs/info/69cf226c398fb071abf8c771?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CELSIUS](http://celsius.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69ce8846891d7b11cfcc99d1?utm_campaign=1054&utm_source=git)** | Boca Raton, Florida, United States | On Site | Apr 02 |
 | **[Welch Fluorocarbon Inc.](http://www.welchfluorocarbon.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69ce8840cfdc6132f9429461?utm_campaign=1054&utm_source=git)** | Newburyport, MA, US | On Site | Apr 02 |
 | **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Recruiting Intern – East Coast](https://jobright.ai/jobs/info/699697fe81476f6176ae7e46?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 02 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e9bf60badca5763af0799?utm_campaign=1054&utm_source=git)** | Centre Hall, PA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
