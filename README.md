@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (Sep to Apr) – Prevention Case Management](https://jobright.ai/jobs/info/69cf7c82398fb071abf907a5?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 03 |
 | **[The Health Management Academy](http://www.hmacademy.com/)** | **[Summer Internship - Leadership Development](https://jobright.ai/jobs/info/69c44eea6f4f855eeda6c17b?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 02 |
 | **[Urban Science](http://urbanscience.com/)** | **[HR Intern - Long Beach, CA](https://jobright.ai/jobs/info/69cf5ddd398fb071abf8f293?utm_campaign=1054&utm_source=git)** | Long Beach, CA | Hybrid | Apr 02 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Diversity, Equity, & Inclusion Learning Intern](https://jobright.ai/jobs/info/69cf533d54f00230c6d091ee?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cee31dcdb525785fb9caf0?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 02 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Certified Recovery Support Specialist](https://jobright.ai/jobs/info/69cf101fcfdc6132f942f638?utm_campaign=1054&utm_source=git)** | Chicago, IL 60626, USA | Hybrid | Apr 02 |
 | ↳ | **[Internship - Certified Recovery Support Specialist](https://jobright.ai/jobs/info/69cf0f79398fb071abf8c21a?utm_campaign=1054&utm_source=git)** | Chicago, IL 60619, USA | Hybrid | Apr 02 |
-| **[Flex](https://getflex.com)** | **[Director of Talent Development and Performance](https://jobright.ai/jobs/info/697af1171423772304eae8f9?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
