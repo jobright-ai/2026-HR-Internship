@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNSF Railway](http://www.bnsf.com/)** | **[Director Talent Development](https://jobright.ai/jobs/info/69b32ff5a8ac8e70ff67718a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Apr 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - West Bend](https://jobright.ai/jobs/info/69b391c2ad360c0340a8b654?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 03 |
+| **[WM](https://www.wm.com/)** | **[Learning/HR Intern](https://jobright.ai/jobs/info/69cfeb09891d7b11cfcd6b99?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933f7a7764507023d1baf1e?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Apr 03 |
+| **[Allegiant](https://www.allegiantair.com/)** | **[Intern, HR Systems](https://jobright.ai/jobs/info/69cfe87f54f00230c6d0d379?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 03 |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cfe87954f00230c6d0d353?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 03 |
+| **[Mercantile Bank](https://www.mercbank.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cfe447366bb95ba55195cb?utm_campaign=1054&utm_source=git)** | Grand Rapids,MI,US | On Site | Apr 03 |
 | **[Impiricus](https://impiricus.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69cfdfb4891d7b11cfcd68ac?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/6996373ee0bddb6acac498e1?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Apr 03 |
 | **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cfdcd30b098b7a670745aa?utm_campaign=1054&utm_source=git)** | Mississauga, ON | On Site | Apr 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McCoy Rockford](http://mccoy-rockford.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cec9e454f00230c6d03360?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Apr 02 |
 | **[Rightworks](https://www.rightworks.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cec937891d7b11cfcccb06?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Apr 02 |
 | **[Energy Access Innovations](https://www.linkedin.com/company/106032652)** | **[Talent Acquisition - Intern](https://jobright.ai/jobs/info/69cef6c0cdb525785fb9da57?utm_campaign=1054&utm_source=git)** | Sulphur Springs, TX | On Site | Apr 02 |
-| **[Compass](http://www.prudentialcal.com/)** | **[Human Resources - Summer Internship](https://jobright.ai/jobs/info/69cf0f4654f00230c6d06408?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 02 |
-| **[Canadian Musicians Co-operative](https://www.canadianmusicians.coop)** | **[Professional Development Team - Canada Wide 2026](https://jobright.ai/jobs/info/69cec4f5366bb95ba550f53e?utm_campaign=1054&utm_source=git)** | Barrie, ON | Hybrid | Apr 02 |
-| **[Canvas Credit Union](https://www.canvas.org/)** | **[Intern- Learning & Development](https://jobright.ai/jobs/info/69cec48e891d7b11cfccc6df?utm_campaign=1054&utm_source=git)** | Lone Tree, CO | On Site | Apr 02 |
-| **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69cec3a554f00230c6d02e90?utm_campaign=1054&utm_source=git)** | US | Remote | Apr 02 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69cec373398fb071abf88d6f?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Apr 02 |
-| **[California FAIR Plan Association](https://www.cfpnet.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/69cec35d398fb071abf88d17?utm_campaign=1054&utm_source=git)** | REMOTE-United States | Remote | Apr 02 |
-| **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12 - Month - Human Resources Internship](https://jobright.ai/jobs/info/69cec323cdb525785fb9b14d?utm_campaign=1054&utm_source=git)** | Atlanta,Georgia,United States | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
