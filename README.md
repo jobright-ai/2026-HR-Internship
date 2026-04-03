@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airrosti](http://www.airrosti.com/)** | **[Credentialing and Compliance Summer Intern](https://jobright.ai/jobs/info/69d03278366bb95ba551c939?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 03 |
+| **[Maverick](https://www.maverickbuilders.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d03174891d7b11cfcd9a86?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL, US | On Site | Apr 03 |
+| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | Apr 03 |
+| **[Levata](https://www.levata.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69d029d6cfdc6132f9438c84?utm_campaign=1054&utm_source=git)** | Bas-Saint-Laurent, QC | Hybrid | Apr 03 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[HR Intern – CI Talent & Internship Program Support Summer 2026](https://jobright.ai/jobs/info/69d029a9cdb525785fba7c72?utm_campaign=1054&utm_source=git)** | Cullman, AL | On Site | Apr 03 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Credentialing Auditor](https://jobright.ai/jobs/info/69d0232754f00230c6d0f645?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 03 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, HR Employee Resource Group](https://jobright.ai/jobs/info/69d02170cdb525785fba7918?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Apr 03 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Join Our Intern Talent Network](https://jobright.ai/jobs/info/69d0215dcdb525785fba78c2?utm_campaign=1054&utm_source=git)** | Windsor Mill, MD | On Site | Apr 03 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d01985891d7b11cfcd88f3?utm_campaign=1054&utm_source=git)** | Scottsdale | On Site | Apr 03 |
-| **[Maverick](https://www.maverickbuilders.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d0197854f00230c6d0f1c2?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL, US | On Site | Apr 03 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Adult Protective Services Program](https://jobright.ai/jobs/info/6997c31581476f6176afeea2?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[Merit Sensor Systems, Inc.](https://meritsensor.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d00bfe0b098b7a67075b5d?utm_campaign=1054&utm_source=git)** | South Jordan, UT | On Site | Apr 03 |
 | **[Bethany Christian Services](https://bethany.org/)** | **[Internship and College Relations Coordinator](https://jobright.ai/jobs/info/69b79ec63b74eb1e2c853772?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Apr 03 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[HR Business Partner](https://jobright.ai/jobs/info/69cf03bacfdc6132f942ee0e?utm_campaign=1054&utm_source=git)** | Urbana, IL | Hybrid | Apr 02 |
 | **[CHC](http://chcaddiction.org)** | **[Internship Opportunities](https://jobright.ai/jobs/info/69d0211e891d7b11cfcd8c48?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Apr 02 |
 | **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Retirement Advocate](https://jobright.ai/jobs/info/69cf033dcdb525785fb9e079?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Apr 02 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69cf20d0366bb95ba5512cc9?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 02 |
-| ↳ | **[CLTI Recruiting Intern](https://jobright.ai/jobs/info/69cf209c54f00230c6d06983?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 02 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[CLTI Recruiting Intern](https://jobright.ai/jobs/info/69cf209c54f00230c6d06983?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 02 |
 | **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[HR Intern](https://jobright.ai/jobs/info/69cefafd366bb95ba5511be3?utm_campaign=1054&utm_source=git)** | Tucson, AZ, US | On Site | Apr 02 |
 | **[First Command Financial Services, Inc.](http://www.firstcommand.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/69cef566cdb525785fb9d9c4?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 02 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cef52354f00230c6d055ad?utm_campaign=1054&utm_source=git)** | US-AL-Birmingham | On Site | Apr 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/69cef4ad366bb95ba551197e?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Apr 02 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cef3b2398fb071abf8b2b7?utm_campaign=1054&utm_source=git)** | Birmingham, AL, US | On Site | Apr 02 |
-| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer](https://jobright.ai/jobs/info/69cef320cfdc6132f942e372?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
