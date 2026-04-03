@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d01985891d7b11cfcd88f3?utm_campaign=1054&utm_source=git)** | Scottsdale | On Site | Apr 03 |
+| **[Maverick](https://www.maverickbuilders.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d0197854f00230c6d0f1c2?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL, US | On Site | Apr 03 |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Adult Protective Services Program](https://jobright.ai/jobs/info/6997c31581476f6176afeea2?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
+| **[Merit Sensor Systems, Inc.](https://meritsensor.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d00bfe0b098b7a67075b5d?utm_campaign=1054&utm_source=git)** | South Jordan, UT | On Site | Apr 03 |
 | **[Bethany Christian Services](https://bethany.org/)** | **[Internship and College Relations Coordinator](https://jobright.ai/jobs/info/69b79ec63b74eb1e2c853772?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Apr 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69292507f0beb07232631f57?utm_campaign=1054&utm_source=git)** | St John’s, NL | On Site | Apr 03 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6925351df0beb0723261befd?utm_campaign=1054&utm_source=git)** | Hamilton, ON | On Site | Apr 03 |
@@ -70,7 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69355354a0dde7020e2f86f2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Apr 03 |
 | **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/69cfefb854f00230c6d0d770?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Apr 03 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Director Talent Development](https://jobright.ai/jobs/info/69b32ff5a8ac8e70ff67718a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Apr 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - West Bend](https://jobright.ai/jobs/info/69b391c2ad360c0340a8b654?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern South Denver](https://jobright.ai/jobs/info/699befd581476f6176b45b3f?utm_campaign=1054&utm_source=git)** | Littleton, CO | On Site | Apr 03 |
+| ↳ | **[Management Trainee Intern - West Bend](https://jobright.ai/jobs/info/69b391c2ad360c0340a8b654?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 03 |
 | **[WM](https://www.wm.com/)** | **[Learning/HR Intern](https://jobright.ai/jobs/info/69cfeb09891d7b11cfcd6b99?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933f7a7764507023d1baf1e?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Apr 03 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, HR Systems](https://jobright.ai/jobs/info/69cfe87f54f00230c6d0d379?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[HR Benefits Specialist](https://jobright.ai/jobs/info/69ceecbacfdc6132f942df9b?utm_campaign=1054&utm_source=git)** | Breckenridge, CO | On Site | Apr 02 |
 | **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69ceec7acdb525785fb9d178?utm_campaign=1054&utm_source=git)** | Dublin, VA | On Site | Apr 02 |
 | **[TW Metals LLC](http://www.twmetals.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69c2d085ec22f8310ab0bdd7?utm_campaign=1054&utm_source=git)** | Exton, PA | On Site | Apr 02 |
-| **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ceeacb891d7b11cfcce49b?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 02 |
-| **[RePublic Schools](https://republiccharterschools.org)** | **[Talent and HR Assistant (Summer)](https://jobright.ai/jobs/info/69cee757366bb95ba5510f59?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | Apr 02 |
-| **[Travis County](https://www.traviscountytx.gov)** | **[Administrative and HR Internship](https://jobright.ai/jobs/info/69cee718398fb071abf8a954?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 02 |
-| **[Financial Health Network](https://finhealthnetwork.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf068fcfdc6132f942eede?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
-| **[BCM One](http://www.bcmone.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69cee15e54f00230c6d044de?utm_campaign=1054&utm_source=git)** | Blue Bell, Pennsylvania, United States | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
