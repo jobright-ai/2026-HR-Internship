@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Access Services](https://www.accessservices.org)** | **[Access Foster Care and Adoption Internship- Fall 2026](https://jobright.ai/jobs/info/69d04d4acfdc6132f943a634?utm_campaign=1054&utm_source=git)** | Bethlehem, PA | Hybrid | Apr 03 |
+| **[SMUD](https://www.smud.org/en)** | **[Human Resources Intern: Year Round](https://jobright.ai/jobs/info/69d0471a0b098b7a67078572?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Apr 03 |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d04664cfdc6132f943a06f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 03 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d04619366bb95ba551cf73?utm_campaign=1054&utm_source=git)** | Northbrook, IL, United States | On Site | Apr 03 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Compensation](https://jobright.ai/jobs/info/69d04610891d7b11cfcda1ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d04208891d7b11cfcda0d2?utm_campaign=1054&utm_source=git)** | Springfield, MA | Hybrid | Apr 03 |
 | **[Newegg](https://www.newegg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d04034cdb525785fba8dc2?utm_campaign=1054&utm_source=git)** | Diamond Bar, CA | On Site | Apr 03 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Human Resources Coordinator I](https://jobright.ai/jobs/info/69d040130b098b7a67077dce?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
@@ -67,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | Apr 03 |
 | **[Levata](https://www.levata.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69d029d6cfdc6132f9438c84?utm_campaign=1054&utm_source=git)** | Bas-Saint-Laurent, QC | Hybrid | Apr 03 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[HR Intern – CI Talent & Internship Program Support Summer 2026](https://jobright.ai/jobs/info/69d029a9cdb525785fba7c72?utm_campaign=1054&utm_source=git)** | Cullman, AL | On Site | Apr 03 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[HR Service Center Specialist](https://jobright.ai/jobs/info/69d046210b098b7a67077fb7?utm_campaign=1054&utm_source=git)** | Triangle Area | On Site | Apr 03 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Credentialing Auditor](https://jobright.ai/jobs/info/69d0232754f00230c6d0f645?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 03 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, HR Employee Resource Group](https://jobright.ai/jobs/info/69d02170cdb525785fba7918?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Apr 03 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Join Our Intern Talent Network](https://jobright.ai/jobs/info/69d0215dcdb525785fba78c2?utm_campaign=1054&utm_source=git)** | Windsor Mill, MD | On Site | Apr 03 |
@@ -90,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/69cfefb854f00230c6d0d770?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Apr 03 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Director Talent Development](https://jobright.ai/jobs/info/69b32ff5a8ac8e70ff67718a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Apr 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern South Denver](https://jobright.ai/jobs/info/699befd581476f6176b45b3f?utm_campaign=1054&utm_source=git)** | Littleton, CO | On Site | Apr 03 |
+| ↳ | **[Management Trainee Summer Internship - Salt Lake City](https://jobright.ai/jobs/info/69608694a112b402660f3b59?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | **[California State University, Fullerton](https://linktr.ee/csufofficial)** | **[Employer Relations Associate (Student Services Professional II)](https://jobright.ai/jobs/info/69a9eaec1f59c56275e2b4ac?utm_campaign=1054&utm_source=git)** | Fullerton, CA | On Site | Apr 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - West Bend](https://jobright.ai/jobs/info/69b391c2ad360c0340a8b654?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 03 |
 | **[WM](https://www.wm.com/)** | **[Learning/HR Intern](https://jobright.ai/jobs/info/69cfeb09891d7b11cfcd6b99?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 03 |
@@ -117,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Keystone Education Group](https://www.keg.com)** | **[Praktikum im Bereich Kundenakquise & Vertrieb (m/w/d)](https://jobright.ai/jobs/info/69b2eea6ae2a534885ea3ab4?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69cfc397cfdc6132f9435980?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 03 |
 | **[Flex](https://getflex.com)** | **[Director, Strategic People Partner](https://jobright.ai/jobs/info/697aefcd1423772304eae723?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/69b79e113b74eb1e2c853398?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 03 |
 | **[Turabify Co.](https://www.turabify.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cfe011366bb95ba5519572?utm_campaign=1054&utm_source=git)** | Franklin, OH | On Site | Apr 03 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern (Training and Special Projects)](https://jobright.ai/jobs/info/6996946c81476f6176ae77c5?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Apr 03 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69cfb4dccdb525785fba43e4?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Archdiocese of Halifax-Yarmouth](http://halifaxyarmouth.org)** | **[HR Assistant (Summer Work Term)](https://jobright.ai/jobs/info/69cf15a5cfdc6132f942f7df?utm_campaign=1054&utm_source=git)** | Halifax, NS | On Site | Apr 02 |
 | **[DIVERSEcity Community Resources Society](https://www.dcrs.ca/)** | **[Payroll & Benefits Specialist (Pending Classification Review)](https://jobright.ai/jobs/info/69cf12cacfdc6132f942f6ca?utm_campaign=1054&utm_source=git)** | Surrey, BC | Hybrid | Apr 02 |
 | **[Siemens Energy](https://www.siemens-energy.com/)** | **[Stagiaire support aux opérations / Operations Support Internship](https://jobright.ai/jobs/info/69cf126354f00230c6d06534?utm_campaign=1054&utm_source=git)** | Greater Trois-Rivieres Metropolitan Area | On Site | Apr 02 |
-| **[Urban Science](http://urbanscience.com/)** | **[HR Intern - Long Beach, CA](https://jobright.ai/jobs/info/69cf0f61891d7b11cfccfcb9?utm_campaign=1054&utm_source=git)** | US-CA-Long Beach | Hybrid | Apr 02 |
-| ↳ | **[HR Intern - Long Beach, CA](https://jobright.ai/jobs/info/69cf0f54cdb525785fb9e82b?utm_campaign=1054&utm_source=git)** | Long Beach, CA, US | Hybrid | Apr 02 |
-| **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Diversity, Equity, & Inclusion Learning Intern](https://jobright.ai/jobs/info/69cf0e90cdb525785fb9e342?utm_campaign=1054&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
-| **[ITW Automotive](https://www.itwautomotive.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf04f6cfdc6132f942ee4b?utm_campaign=1054&utm_source=git)** | Zeeland, MI | On Site | Apr 02 |
-| **[SurveyMonkey](https://www.momentive.ai)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69cf04ec891d7b11cfccf505?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Apr 02 |
-| **[Genesis Molecular AI](https://genesis.ml/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf04ec891d7b11cfccf4fd?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
