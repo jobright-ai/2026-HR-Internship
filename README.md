@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Electric](http://baker-electric.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d071d454f00230c6d12182?utm_campaign=1054&utm_source=git)** | Escondido, CA | On Site | Apr 03 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/69d071c354f00230c6d12168?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Apr 03 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d06ab9366bb95ba551e2bf?utm_campaign=1054&utm_source=git)** | Northbrook, IL | On Site | Apr 03 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[HR Intern – CI Talent & Internship Program Support Summer 2026](https://jobright.ai/jobs/info/69d06226cfdc6132f943ac96?utm_campaign=1054&utm_source=git)** | Cullman, AL | On Site | Apr 03 |
 | **[Patten Seed Company/Super-Sod](https://www.supersod.com/)** | **[Corporate Office Admin Internship](https://jobright.ai/jobs/info/69c53f8b1818a24cd84b2dfe?utm_campaign=1054&utm_source=git)** | 22 Westedge Charleston, SC 29403 | Hybrid | Apr 03 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Newegg](https://www.newegg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d04034cdb525785fba8dc2?utm_campaign=1054&utm_source=git)** | Diamond Bar, CA | On Site | Apr 03 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Human Resources Coordinator I](https://jobright.ai/jobs/info/69d040130b098b7a67077dce?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
 | **[Merit Medical Systems, Inc.](http://www.merit.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d03da9cdb525785fba8ce7?utm_campaign=1054&utm_source=git)** | South Jordan, UT | On Site | Apr 03 |
-| **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! HR Intern (Clerk III) Austin, Texas](https://jobright.ai/jobs/info/69ce653554f00230c6cfeccd?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 03 |
 | **[Airrosti](http://www.airrosti.com/)** | **[Credentialing and Compliance Summer Intern](https://jobright.ai/jobs/info/69d03278366bb95ba551c939?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 03 |
 | **[Maverick](https://www.maverickbuilders.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d03174891d7b11cfcd9a86?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL, US | On Site | Apr 03 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | Apr 03 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Adult Protective Services Program](https://jobright.ai/jobs/info/6997c31581476f6176afeea2?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[Merit Sensor Systems, Inc.](https://meritsensor.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d00bfe0b098b7a67075b5d?utm_campaign=1054&utm_source=git)** | South Jordan, UT | On Site | Apr 03 |
 | **[Bethany Christian Services](https://bethany.org/)** | **[Internship and College Relations Coordinator](https://jobright.ai/jobs/info/69b79ec63b74eb1e2c853772?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Apr 03 |
-| **[Metropolitan Utilities District](https://mudomaha.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69cde650366bb95ba55042df?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Apr 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69292507f0beb07232631f57?utm_campaign=1054&utm_source=git)** | St John’s, NL | On Site | Apr 03 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6925351df0beb0723261befd?utm_campaign=1054&utm_source=git)** | Hamilton, ON | On Site | Apr 03 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Part-Time Internship - New York - 2026](https://jobright.ai/jobs/info/69d001f80b098b7a67075963?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 03 |
@@ -144,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Victoria Office – CPA Opportunities in Private Enterprise Audit – Summer Internship – Summer 2027 Start](https://jobright.ai/jobs/info/69b3c621ad360c0340a8e595?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 03 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Campus Recruiting Sophomore Summer Internship](https://jobright.ai/jobs/info/6997721281476f6176af8ff2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/698ea0ff0f6f7e7a2ceabe23?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/69b623b73b74eb1e2c83dde4?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 03 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Workforce Intelligence](https://jobright.ai/jobs/info/6996750681476f6176ae495e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b36570ad360c0340a87d3a?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Apr 03 |
 | **[Logitech](https://www.logitech.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69b38521a8ac8e70ff67c8e3?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[City and County of Broomfield](https://www.broomfield.org/)** | **[MSW Internship](https://jobright.ai/jobs/info/69cf5dc6891d7b11cfcd2c26?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 02 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf2bc754f00230c6d072c8?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69cf27ff891d7b11cfcd0560?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 02 |
+| **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Human Resources](https://jobright.ai/jobs/info/69cf27e6cfdc6132f942ff07?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
