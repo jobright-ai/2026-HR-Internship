@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Benefits](https://jobright.ai/jobs/info/69d07fb054f00230c6d12ac7?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Baker Electric](http://baker-electric.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d071d454f00230c6d12182?utm_campaign=1054&utm_source=git)** | Escondido, CA | On Site | Apr 03 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/69d071c354f00230c6d12168?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Apr 03 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d06ab9366bb95ba551e2bf?utm_campaign=1054&utm_source=git)** | Northbrook, IL | On Site | Apr 03 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d04619891d7b11cfcda1ea?utm_campaign=1054&utm_source=git)** | Northbrook, IL, United States | On Site | Apr 03 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - Compensation](https://jobright.ai/jobs/info/69d04610891d7b11cfcda1ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d04208891d7b11cfcda0d2?utm_campaign=1054&utm_source=git)** | Springfield, MA | Hybrid | Apr 03 |
-| **[Newegg](https://www.newegg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d04034cdb525785fba8dc2?utm_campaign=1054&utm_source=git)** | Diamond Bar, CA | On Site | Apr 03 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Human Resources Coordinator I](https://jobright.ai/jobs/info/69d040130b098b7a67077dce?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
 | **[Merit Medical Systems, Inc.](http://www.merit.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d03da9cdb525785fba8ce7?utm_campaign=1054&utm_source=git)** | South Jordan, UT | On Site | Apr 03 |
 | **[Airrosti](http://www.airrosti.com/)** | **[Credentialing and Compliance Summer Intern](https://jobright.ai/jobs/info/69d03278366bb95ba551c939?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 03 |
@@ -106,6 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship - Salt Lake City](https://jobright.ai/jobs/info/69608694a112b402660f3b59?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | **[California State University, Fullerton](https://linktr.ee/csufofficial)** | **[Employer Relations Associate (Student Services Professional II)](https://jobright.ai/jobs/info/69a9eaec1f59c56275e2b4ac?utm_campaign=1054&utm_source=git)** | Fullerton, CA | On Site | Apr 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - West Bend](https://jobright.ai/jobs/info/69b391c2ad360c0340a8b654?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 03 |
+| **[Soqquadro Italiano](http://www.soqquadroitaliano.it)** | **[Student Assistant Intern – Human Resources](https://jobright.ai/jobs/info/69d07fe4366bb95ba551f131?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Apr 03 |
 | **[WM](https://www.wm.com/)** | **[Learning/HR Intern](https://jobright.ai/jobs/info/69cfeb09891d7b11cfcd6b99?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933f7a7764507023d1baf1e?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Apr 03 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, HR Systems](https://jobright.ai/jobs/info/69cfe87f54f00230c6d0d379?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City and County of Broomfield](https://www.broomfield.org/)** | **[MSW Internship](https://jobright.ai/jobs/info/69cf5dc6891d7b11cfcd2c26?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 02 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf2bc754f00230c6d072c8?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69cf27ff891d7b11cfcd0560?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 02 |
-| **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Human Resources](https://jobright.ai/jobs/info/69cf27e6cfdc6132f942ff07?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
