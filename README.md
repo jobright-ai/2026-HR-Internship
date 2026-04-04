@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Patten Seed Company/Super-Sod](https://www.supersod.com/)** | **[Corporate Office Admin Internship](https://jobright.ai/jobs/info/69c53f8b1818a24cd84b2dfe?utm_campaign=1054&utm_source=git)** | 22 Westedge Charleston, SC 29403 | Hybrid | Apr 03 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[HR Organization Development Intern - Summer 2026](https://jobright.ai/jobs/info/69d059cd891d7b11cfcdab92?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Hybrid | Apr 03 |
+| ↳ | **[HR Organization Development Intern - Summer 2026 (REMOTE)](https://jobright.ai/jobs/info/69d059c5cfdc6132f943a8ee?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Remote | Apr 03 |
+| **[Mid-Willamette Valley Community Action Agency](http://www.mycommunityaction.org)** | **[HR Student Intern (Temporary)](https://jobright.ai/jobs/info/69d055fa891d7b11cfcdaa55?utm_campaign=1054&utm_source=git)** | Salem,OR,US | On Site | Apr 03 |
 | **[Access Services](https://www.accessservices.org)** | **[Access Foster Care and Adoption Internship- Fall 2026](https://jobright.ai/jobs/info/69d04d4acfdc6132f943a634?utm_campaign=1054&utm_source=git)** | Bethlehem, PA | Hybrid | Apr 03 |
 | **[SMUD](https://www.smud.org/en)** | **[Human Resources Intern: Year Round](https://jobright.ai/jobs/info/69d0471a0b098b7a67078572?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Apr 03 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d04664cfdc6132f943a06f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 03 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d04619366bb95ba551cf73?utm_campaign=1054&utm_source=git)** | Northbrook, IL, United States | On Site | Apr 03 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d04619891d7b11cfcda1ea?utm_campaign=1054&utm_source=git)** | Northbrook, IL, United States | On Site | Apr 03 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - Compensation](https://jobright.ai/jobs/info/69d04610891d7b11cfcda1ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d04208891d7b11cfcda0d2?utm_campaign=1054&utm_source=git)** | Springfield, MA | Hybrid | Apr 03 |
 | **[Newegg](https://www.newegg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d04034cdb525785fba8dc2?utm_campaign=1054&utm_source=git)** | Diamond Bar, CA | On Site | Apr 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Human Resources](https://jobright.ai/jobs/info/69cf27e6cfdc6132f942ff07?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Apr 02 |
 | **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[HR Intern](https://jobright.ai/jobs/info/69cf226c398fb071abf8c771?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Apr 02 |
 | **[POM Wonderful](http://www.pomwonderful.com)** | **[Wonderful Scholar Summer Internship, Human Resources](https://jobright.ai/jobs/info/69cf20f6398fb071abf8c701?utm_campaign=1054&utm_source=git)** | Del Rey, CA | On Site | Apr 02 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Digital HR and Associate Experience](https://jobright.ai/jobs/info/69cf183c891d7b11cfccff26?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 02 |
-| **[Archdiocese of Halifax-Yarmouth](http://halifaxyarmouth.org)** | **[HR Assistant (Summer Work Term)](https://jobright.ai/jobs/info/69cf15a5cfdc6132f942f7df?utm_campaign=1054&utm_source=git)** | Halifax, NS | On Site | Apr 02 |
-| **[DIVERSEcity Community Resources Society](https://www.dcrs.ca/)** | **[Payroll & Benefits Specialist (Pending Classification Review)](https://jobright.ai/jobs/info/69cf12cacfdc6132f942f6ca?utm_campaign=1054&utm_source=git)** | Surrey, BC | Hybrid | Apr 02 |
-| **[Siemens Energy](https://www.siemens-energy.com/)** | **[Stagiaire support aux opérations / Operations Support Internship](https://jobright.ai/jobs/info/69cf126354f00230c6d06534?utm_campaign=1054&utm_source=git)** | Greater Trois-Rivieres Metropolitan Area | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
