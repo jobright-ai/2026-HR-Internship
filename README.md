@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HR - Total Rewards - Corporate](https://jobright.ai/jobs/info/69d0c99ecfdc6132f943fb7a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 04 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Logistics Associate - Supply Chain Management - SEOP (Summer Internship)](https://jobright.ai/jobs/info/69d09a5654f00230c6d13db8?utm_campaign=1054&utm_source=git)** | Rochester, MN | On Site | Apr 03 |
 | **[Mizkan America](http://mizkan.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69b50cea3b74eb1e2c829c5b?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 03 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Benefits](https://jobright.ai/jobs/info/69d07fb054f00230c6d12ac7?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
@@ -72,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d064e9cdb525785fbaa0af?utm_campaign=1054&utm_source=git)** | Delaware, United States | Remote | Apr 03 |
 | **[SMUD](https://www.smud.org/en)** | **[Human Resources Intern: Year Round](https://jobright.ai/jobs/info/69d0471a0b098b7a67078572?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Apr 03 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d04664cfdc6132f943a06f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 03 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d04619891d7b11cfcda1ea?utm_campaign=1054&utm_source=git)** | Northbrook, IL, United States | On Site | Apr 03 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d04619366bb95ba551cf73?utm_campaign=1054&utm_source=git)** | Northbrook, IL, United States | On Site | Apr 03 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - Compensation](https://jobright.ai/jobs/info/69d04610891d7b11cfcda1ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d04208891d7b11cfcda0d2?utm_campaign=1054&utm_source=git)** | Springfield, MA | Hybrid | Apr 03 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Human Resources Coordinator I](https://jobright.ai/jobs/info/69d040130b098b7a67077dce?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Diversity, Equity, & Inclusion Learning Intern](https://jobright.ai/jobs/info/69cf533d54f00230c6d091ee?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Insurance Internship](https://jobright.ai/jobs/info/69d0a9fd891d7b11cfcddb17?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Apr 02 |
 | **[City and County of Broomfield](https://www.broomfield.org/)** | **[MSW Internship](https://jobright.ai/jobs/info/69cf5dc6891d7b11cfcd2c26?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 02 |
-| **[HKS, Inc.](http://www.hksinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf2bc754f00230c6d072c8?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
