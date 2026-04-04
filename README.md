@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Rock Island](http://rigov.org)** | **[Administrative Records Management Intern](https://jobright.ai/jobs/info/69d0e7cd891d7b11cfce07dc?utm_campaign=1054&utm_source=git)** | Rock Island, IL | On Site | Apr 04 |
+| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69c886ea1b5ad02887393cd8?utm_campaign=1054&utm_source=git)** | London, CA | On Site | Apr 04 |
+| **[Robinhood](https://www.robinhood.com)** | **[PeopleX Partner Intern](https://jobright.ai/jobs/info/69b4d20c569738374139c663?utm_campaign=1054&utm_source=git)** | Menlo Park, CA | Hybrid | Apr 04 |
+| **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/69b48e7006c1ba00c5460e34?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 04 |
+| **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (HR Total Rewards) Hybrid Schedule](https://jobright.ai/jobs/info/6998da6ece78e77b4fdd6aac?utm_campaign=1054&utm_source=git)** | Glen Allen, VA | Hybrid | Apr 04 |
+| ↳ | **[Corporate Intern (Teammate Experience) Hybrid Schedule](https://jobright.ai/jobs/info/6998c910ce78e77b4fdd5ac1?utm_campaign=1054&utm_source=git)** | Glen Allen, VA | Hybrid | Apr 04 |
 | **[Culligan International](http://www.culligan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69607e0b7ebc25398eb66f1b?utm_campaign=1054&utm_source=git)** | Libertyville, IL | Hybrid | Apr 04 |
 | **[Essex Solutions](https://essexfurukawa.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d0d96e891d7b11cfce0239?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 04 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR - Total Rewards - Corporate](https://jobright.ai/jobs/info/69d0c99ecfdc6132f943fb7a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 04 |
@@ -75,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d064e9cdb525785fbaa0af?utm_campaign=1054&utm_source=git)** | Delaware, United States | Remote | Apr 03 |
 | **[SMUD](https://www.smud.org/en)** | **[Human Resources Intern: Year Round](https://jobright.ai/jobs/info/69d0471a0b098b7a67078572?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Apr 03 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d04664cfdc6132f943a06f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 03 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d04619891d7b11cfcda1ea?utm_campaign=1054&utm_source=git)** | Northbrook, IL, United States | On Site | Apr 03 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d04619366bb95ba551cf73?utm_campaign=1054&utm_source=git)** | Northbrook, IL, United States | On Site | Apr 03 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - Compensation](https://jobright.ai/jobs/info/69d04610891d7b11cfcda1ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d04208891d7b11cfcda0d2?utm_campaign=1054&utm_source=git)** | Springfield, MA | Hybrid | Apr 03 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Human Resources Coordinator I](https://jobright.ai/jobs/info/69d040130b098b7a67077dce?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/698ea0ff0f6f7e7a2ceabe23?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Workforce Intelligence](https://jobright.ai/jobs/info/6996750681476f6176ae495e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b36570ad360c0340a87d3a?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Apr 03 |
-| **[Logitech](https://www.logitech.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69b38521a8ac8e70ff67c8e3?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 03 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Intern - Service Operations](https://jobright.ai/jobs/info/69cf8772398fb071abf90f65?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Apr 03 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Payroll Manager](https://jobright.ai/jobs/info/69cfb41b0b098b7a6707334d?utm_campaign=1054&utm_source=git)** | Sacramento, CA | Hybrid | Apr 03 |
-| **[The Health Management Academy](http://www.hmacademy.com/)** | **[Summer Internship - Leadership Development](https://jobright.ai/jobs/info/69c44eea6f4f855eeda6c17b?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 02 |
-| **[Urban Science](http://urbanscience.com/)** | **[HR Intern - Long Beach, CA](https://jobright.ai/jobs/info/69cf5ddd398fb071abf8f293?utm_campaign=1054&utm_source=git)** | Long Beach, CA | Hybrid | Apr 02 |
-| **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Diversity, Equity, & Inclusion Learning Intern](https://jobright.ai/jobs/info/69cf533d54f00230c6d091ee?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
