@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d06ab9366bb95ba551e2bf?utm_campaign=1054&utm_source=git)** | Northbrook, IL | On Site | Apr 03 |
+| **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[HR Intern – CI Talent & Internship Program Support Summer 2026](https://jobright.ai/jobs/info/69d06226cfdc6132f943ac96?utm_campaign=1054&utm_source=git)** | Cullman, AL | On Site | Apr 03 |
 | **[Patten Seed Company/Super-Sod](https://www.supersod.com/)** | **[Corporate Office Admin Internship](https://jobright.ai/jobs/info/69c53f8b1818a24cd84b2dfe?utm_campaign=1054&utm_source=git)** | 22 Westedge Charleston, SC 29403 | Hybrid | Apr 03 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[HR Organization Development Intern - Summer 2026](https://jobright.ai/jobs/info/69d059cd891d7b11cfcdab92?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Hybrid | Apr 03 |
 | ↳ | **[HR Organization Development Intern - Summer 2026 (REMOTE)](https://jobright.ai/jobs/info/69d059c5cfdc6132f943a8ee?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Remote | Apr 03 |
 | **[Mid-Willamette Valley Community Action Agency](http://www.mycommunityaction.org)** | **[HR Student Intern (Temporary)](https://jobright.ai/jobs/info/69d055fa891d7b11cfcdaa55?utm_campaign=1054&utm_source=git)** | Salem,OR,US | On Site | Apr 03 |
 | **[Access Services](https://www.accessservices.org)** | **[Access Foster Care and Adoption Internship- Fall 2026](https://jobright.ai/jobs/info/69d04d4acfdc6132f943a634?utm_campaign=1054&utm_source=git)** | Bethlehem, PA | Hybrid | Apr 03 |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d064e9cdb525785fbaa0af?utm_campaign=1054&utm_source=git)** | Delaware, United States | Remote | Apr 03 |
 | **[SMUD](https://www.smud.org/en)** | **[Human Resources Intern: Year Round](https://jobright.ai/jobs/info/69d0471a0b098b7a67078572?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Apr 03 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d04664cfdc6132f943a06f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 03 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d04619891d7b11cfcda1ea?utm_campaign=1054&utm_source=git)** | Northbrook, IL, United States | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City and County of Broomfield](https://www.broomfield.org/)** | **[MSW Internship](https://jobright.ai/jobs/info/69cf5dc6891d7b11cfcd2c26?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 02 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf2bc754f00230c6d072c8?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69cf27ff891d7b11cfcd0560?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 02 |
-| **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Human Resources](https://jobright.ai/jobs/info/69cf27e6cfdc6132f942ff07?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Apr 02 |
-| **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[HR Intern](https://jobright.ai/jobs/info/69cf226c398fb071abf8c771?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Apr 02 |
-| **[POM Wonderful](http://www.pomwonderful.com)** | **[Wonderful Scholar Summer Internship, Human Resources](https://jobright.ai/jobs/info/69cf20f6398fb071abf8c701?utm_campaign=1054&utm_source=git)** | Del Rey, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
