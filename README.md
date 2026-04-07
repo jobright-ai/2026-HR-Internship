@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 06 |
+| **[World Relief](https://worldrelief.org/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69d485afcdb525785fbca42c?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Apr 06 |
+| **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Benefit Intern](https://jobright.ai/jobs/info/69d4858f366bb95ba553e7b9?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Apr 06 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d48316e63cea7a8b65a840?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 06 |
+| ↳ | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d482e6891d7b11cfcfb185?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
+| ↳ | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d482d754f00230c6d31f04?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 06 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d47fcecfdc6132f945b5ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Apr 06 |
+| **[Rollins, Inc.](http://www.rollins.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d47f82cdb525785fbc9ef5?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Apr 06 |
+| **[Balance Now](https://www.balance.ca)** | **[HR Engagement Team Member](https://jobright.ai/jobs/info/69d47f8254f00230c6d31b6f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
 | **[City of Rock Island](http://rigov.org)** | **[Administrative Records Management Intern](https://jobright.ai/jobs/info/69d47c23cdb525785fbc9e7f?utm_campaign=1054&utm_source=git)** | Rock Island, IL | On Site | Apr 06 |
 | **[Veeam Software](http://www.veeam.com)** | **[Talent Growth & Inclusion Intern - Summer 2026](https://jobright.ai/jobs/info/69d46b5c54f00230c6d30c34?utm_campaign=1054&utm_source=git)** | Georgia, United States | Remote | Apr 06 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69d460cc366bb95ba553cffd?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 06 |
@@ -75,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[RailPros](http://railpros.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69d4408f366bb95ba553c0bd?utm_campaign=1054&utm_source=git)** | Irving, TX 75038 | On Site | Apr 06 |
 | **[Enercon Services, Inc.](http://www.enercon.com)** | **[Recruiter - Early Talent & Intern Program](https://jobright.ai/jobs/info/69d4407ae63cea7a8b6582eb?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 06 |
 | **[RailPros](http://railpros.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69d44077cdb525785fbc7d0a?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 06 |
-| **[National Association of Home Builders](https://www.nahb.org)** | **[Federation Member Services Intern](https://jobright.ai/jobs/info/69d44059891d7b11cfcf8c98?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | Apr 06 |
 | **[Enercon Services, Inc.](http://www.enercon.com)** | **[Recruiter - Early Talent & Intern Program](https://jobright.ai/jobs/info/69d4405854f00230c6d2f90e?utm_campaign=1054&utm_source=git)** | Naperville, IL | Hybrid | Apr 06 |
 | **[Amcor](http://www.amcor.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69cea321891d7b11cfccacf9?utm_campaign=1054&utm_source=git)** | Odon, IN | On Site | Apr 06 |
 | ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69cea1facdb525785fb99a1b?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
@@ -142,19 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/69d3c8b9e63cea7a8b652d19?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
 | ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/69d3c8b4cfdc6132f9453c11?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | Apr 06 |
 | ↳ | **[Intern - HR/Recruiting](https://jobright.ai/jobs/info/69d3c811891d7b11cfcf3799?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
-| ↳ | **[Intern - HR/Recruiting](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ec?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | Apr 06 |
 | ↳ | **[Intern - Talent Development](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ee?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
+| ↳ | **[Intern - HR/Recruiting](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ec?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | Apr 06 |
 | **[Avtron Power Solutions](https://avtronpower.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69d3c75f366bb95ba5536534?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Apr 06 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | On Site | Apr 06 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f0d8ece48107c05432c9c?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 06 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resources Assistant (Staffing/Applicant Care)](https://jobright.ai/jobs/info/69d37d270b098b7a6708f898?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 06 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Benefits and Human Resources Specialist](https://jobright.ai/jobs/info/69d3921b54f00230c6d28bf7?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Apr 06 |
-| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resources Assistant (Staffing/Applicant Care)](https://jobright.ai/jobs/info/69d36ae70b098b7a6708f0b2?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Apr 06 |
-| **[The HEINEKEN Company](http://www.theHEINEKENcompany.com)** | **[People Intern](https://jobright.ai/jobs/info/69d34f4ecfdc6132f944fbf5?utm_campaign=1054&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Apr 05 |
-| **[Taulia](http://www.taulia.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d308b7cdb525785fbbc90c?utm_campaign=1054&utm_source=git)** | San Francisco, CA, US, 94103 | Hybrid | Apr 05 |
-| **[NEWITY](https://newitymarket.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69d30464cdb525785fbbc85f?utm_campaign=1054&utm_source=git)** | Chicago,IL,US | On Site | Apr 05 |
-| **[MFS Supply](http://mfssupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d41c72891d7b11cfcf77fe?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 05 |
-| **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 05 |
-| **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026 - HR and Communications Intern](https://jobright.ai/jobs/info/69d41355366bb95ba553a37f?utm_campaign=1054&utm_source=git)** | Vaughan, ON | On Site | Apr 05 |
-| ↳ | **[Summer Internship Program 2026 - Trade Services Intern](https://jobright.ai/jobs/info/69d4142054f00230c6d2dd91?utm_campaign=1054&utm_source=git)** | Vaughan, ON | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
