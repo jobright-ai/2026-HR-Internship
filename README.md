@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d55667706f771673ba2487?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 07 |
+| **[BHC Alhambra Hospital, Inc.](https://www.bhcalhambra.com/)** | **[HUMAN RESOURCES FILE CLERK](https://jobright.ai/jobs/info/69d55440e63cea7a8b66062a?utm_campaign=1054&utm_source=git)** | Rosemead, CA | On Site | Apr 07 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69d5533e366bb95ba55440fc?utm_campaign=1054&utm_source=git)** | California - San Francisco | On Site | Apr 07 |
+| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Human Resources Intern (unpaid)](https://jobright.ai/jobs/info/69d551c0891d7b11cfd00e82?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | Apr 07 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/69bb874a56973837414189ed?utm_campaign=1054&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Apr 07 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d54ac1891d7b11cfd00bbd?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[Online Gamera](onlinegamera.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d54979891d7b11cfd00a01?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 07 |
@@ -133,8 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Enercon Services, Inc.](http://www.enercon.com)** | **[Recruiter - Early Talent & Intern Program](https://jobright.ai/jobs/info/69d4407ae63cea7a8b6582eb?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 06 |
 | **[RailPros](http://railpros.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69d44077cdb525785fbc7d0a?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 06 |
 | **[Enercon Services, Inc.](http://www.enercon.com)** | **[Recruiter - Early Talent & Intern Program](https://jobright.ai/jobs/info/69d4405854f00230c6d2f90e?utm_campaign=1054&utm_source=git)** | Naperville, IL | Hybrid | Apr 06 |
-| **[Amcor](http://www.amcor.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69cea321891d7b11cfccacf9?utm_campaign=1054&utm_source=git)** | Odon, IN | On Site | Apr 06 |
-| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/69cea1facdb525785fb99a1b?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
+| **[Amcor](http://www.amcor.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69cea1facdb525785fb99a1b?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
 | **[Medica](https://www.medica.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69d43c82cfdc6132f9459158?utm_campaign=1054&utm_source=git)** | Hopkins, MN | Hybrid | Apr 06 |
 | **[Mastermind.com](https://mastermind.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d45a3ecfdc6132f945a04c?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | Apr 06 |
 | **[Enercon Services, Inc.](http://www.enercon.com)** | **[Recruiter - Early Talent & Intern Program](https://jobright.ai/jobs/info/69d43a86cdb525785fbc7ad5?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Apr 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d42491891d7b11cfcf7c07?utm_campaign=1054&utm_source=git)** | 141 Security Dr, Winchester, VA, 22602, US | On Site | Apr 06 |
 | **[Medica](https://www.medica.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69d42486891d7b11cfcf7bbe?utm_campaign=1054&utm_source=git)** | Minnetonka, Minnesota, United States | Hybrid | Apr 06 |
 | **[HUB International](https://www.hubinternational.com)** | **[Operations Intern, Employee Benefits](https://jobright.ai/jobs/info/69d441d854f00230c6d2fabb?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 06 |
-| **[Emerest](https://www.emerest.com )** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d421fb891d7b11cfcf7a88?utm_campaign=1054&utm_source=git)** | Greater St. Louis | On Site | Apr 06 |
-| **[CNU's Center For American Studies](http://cnu.edu/cas/)** | **[*Internal Only* Human Resources Coordinator 00721](https://jobright.ai/jobs/info/69d41f7ecdb525785fbc68b4?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Apr 06 |
-| **[Fox Pest Control](https://fox-pest.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d41c70891d7b11cfcf77ed?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
