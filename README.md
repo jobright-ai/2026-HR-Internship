@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Data & Analytics](https://jobright.ai/jobs/info/69d53245cdb525785fbcee00?utm_campaign=1054&utm_source=git)** | Cincinnati Metro | Hybrid | Apr 07 |
+| **[Clarivate](http://clarivate.com)** | **[Futures Business Intern](https://jobright.ai/jobs/info/69d53241706f771673ba131d?utm_campaign=1054&utm_source=git)** | R186- Ann Arbor | Hybrid | Apr 07 |
+| **[Planet](http://www.planet.com)** | **[Intern, People Team Strategic Projects](https://jobright.ai/jobs/info/69d53208891d7b11cfcfff6e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 07 |
+| **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Analytics Intern - HR & Finance](https://jobright.ai/jobs/info/69d531f0cfdc6132f946051c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
+| **[Boyer & Ritter LLC](http://cpabr.com)** | **[2027 Spring or Summer Internship Opportunity](https://jobright.ai/jobs/info/69ce5e1ecfdc6132f9427991?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Apr 07 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/699cf551e0bddb6acacbff69?utm_campaign=1054&utm_source=git)** | Astoria, OR | On Site | Apr 07 |
+| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Canine Companions®](http://www.cci.org/)** | **[Human Resources Student Intern](https://jobright.ai/jobs/info/69d5264f366bb95ba5542d52?utm_campaign=1054&utm_source=git)** | Northern CA - Santa Rosa, CA 95407 | On Site | Apr 07 |
 | **[Middle East Broadcasting Networks](https://www.alhurra.com/)** | **[Intern Coordinator (Temporary – Summer Program)](https://jobright.ai/jobs/info/69d52645706f771673ba0d94?utm_campaign=1054&utm_source=git)** | Springfield, VA | On Site | Apr 07 |
 | **[OTC Markets Group](http://www.otcmarkets.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69d5260b366bb95ba5542c0a?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
@@ -69,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[Intern - Human Resources Talent Acquisition](https://jobright.ai/jobs/info/69d3f430cdb525785fbc4cae?utm_campaign=1054&utm_source=git)** | Bethpage, NY | Hybrid | Apr 07 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69bb882806c1ba00c54e003d?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Apr 07 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Lenox - HR Intern (NYC)](https://jobright.ai/jobs/info/698186a249964d25b5e48437?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
+| **[Trinity Church NYC](https://trinitywallstreet.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d53260706f771673ba13d9?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 07 |
 | **[Service Electric Company](http://serviceelectricco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d50a63366bb95ba5542371?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Apr 07 |
 | **[Freudenberg Home and Cleaning Solutions](http://www.vileda.com/au/)** | **[Human Resources Intern (on-site, year-round, part-time) (f/m/d)](https://jobright.ai/jobs/info/69b85afe3b74eb1e2c860e8d?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Apr 07 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (San Diego)](https://jobright.ai/jobs/info/69ba7c9456973837413fea73?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Apr 07 |
@@ -103,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Dunmore](http://www.dunmore.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d4572ce63cea7a8b658f16?utm_campaign=1054&utm_source=git)** | Albuquerque, New Mexico, United States | Remote | Apr 06 |
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Specialist - Journey](https://jobright.ai/jobs/info/69d51bd3cfdc6132f945fbc3?utm_campaign=1054&utm_source=git)** | Chapel Hill, NC | On Site | Apr 06 |
 | **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
+| **[Youth Action Project](http://youthactionproject.org)** | **[Case Manager Intern](https://jobright.ai/jobs/info/69d531b3366bb95ba554313d?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Apr 06 |
 | **[JTM Products Inc](https://www.jtmproductsinc.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d44b0f54f00230c6d2fd7f?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 06 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Intern Conversion Only: Early Careers: Pension Outsourcing Analyst - Toronto - 2027](https://jobright.ai/jobs/info/69d46773891d7b11cfcf9e53?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[CAMP Recruiter](https://jobright.ai/jobs/info/69d44206e63cea7a8b658393?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 06 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veeam Software](http://www.veeam.com)** | **[Talent Growth & Inclusion Intern - Summer 2026](https://jobright.ai/jobs/info/69d3fd05891d7b11cfcf61cf?utm_campaign=1054&utm_source=git)** | Remote, Georgia, USA | Remote | Apr 06 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Intern Conversion Only: Early Careers: Pension Outsourcing Analyst - Montreal - 2026](https://jobright.ai/jobs/info/69d3f979366bb95ba55393b2?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 06 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/69d3dc07e63cea7a8b654185?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 06 |
-| **[PROJXON](www.projxon.com)** | **[Senior Recruiter Intern](https://jobright.ai/jobs/info/69d3f3d9366bb95ba5539056?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 06 |
-| **[Carcoustics](http://www.carcoustics.com)** | **[People and Culture Internship 1](https://jobright.ai/jobs/info/69d3f3bd54f00230c6d2ca9a?utm_campaign=1054&utm_source=git)** | Howell, MI | On Site | Apr 06 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Intern Conversion Only: Early Careers: Pension Outsourcing Analyst - Montreal - 2026](https://jobright.ai/jobs/info/69d3eba6cdb525785fbc47d5?utm_campaign=1054&utm_source=git)** | 1800, avenue McGill College, Montréal, QUEBEC, H3A 3J6, CA | On Site | Apr 06 |
-| **[University of Mississippi Medical Center](http://www.umc.edu/)** | **[Student Intern-Human Resources-Service Center](https://jobright.ai/jobs/info/69d3eb60e63cea7a8b654cd6?utm_campaign=1054&utm_source=git)** | Jackson, MS - Main Campus | On Site | Apr 06 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Morehouse College](https://jobright.ai/jobs/info/69d3eb5854f00230c6d2c5b9?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Apr 06 |
-| **[PSEG Long Island LLC](https://www.psegliny.com)** | **[Intern - Human Resources Talent Acquisition](https://jobright.ai/jobs/info/69d3e66254f00230c6d2c2b0?utm_campaign=1054&utm_source=git)** | Bethpage, NY, US | Hybrid | Apr 06 |
-| **[Fox Pest Control](https://fox-pest.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d3e4b1cfdc6132f9455868?utm_campaign=1054&utm_source=git)** | US-UT-Logan | On Site | Apr 06 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/69d3e448891d7b11cfcf54d6?utm_campaign=1054&utm_source=git)** | Logan, UT, US | On Site | Apr 06 |
-| **[MFS Investment Management](https://www.mfs.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d3e423891d7b11cfcf5435?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
