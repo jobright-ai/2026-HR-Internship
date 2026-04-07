@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lehman College](http://www.lehman.edu)** | **[HR Coordinator](https://jobright.ai/jobs/info/69d4bdf0e63cea7a8b65ce00?utm_campaign=1054&utm_source=git)** | Bronx, NY | Hybrid | Apr 07 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d4952ccfdc6132f945c615?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69d48faee63cea7a8b65b3d7?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 06 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Rollins, Inc.](http://www.rollins.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d47f82cdb525785fbc9ef5?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Apr 06 |
 | **[City of Rock Island](http://rigov.org)** | **[Administrative Records Management Intern](https://jobright.ai/jobs/info/69d47c23cdb525785fbc9e7f?utm_campaign=1054&utm_source=git)** | Rock Island, IL | On Site | Apr 06 |
 | **[Veeam Software](http://www.veeam.com)** | **[Talent Growth & Inclusion Intern - Summer 2026](https://jobright.ai/jobs/info/69d46b5c54f00230c6d30c34?utm_campaign=1054&utm_source=git)** | Georgia, United States | Remote | Apr 06 |
-| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69d460cc366bb95ba553cffd?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 06 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d45dc2e63cea7a8b6591c4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[Aflac](http://www.aflac.com)** | **[Provider Network Recruiter](https://jobright.ai/jobs/info/69d47c3f891d7b11cfcfadae?utm_campaign=1054&utm_source=git)** | Florida, United States | Hybrid | Apr 06 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45bdbcfdc6132f945a087?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Apr 06 |
