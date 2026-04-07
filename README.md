@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Progress Residential®](http://rentprogress.com)** | **[People Operations/Human Resource Intern](https://jobright.ai/jobs/info/698103ca49964d25b5e3d12f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 07 |
+| **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69b84f7a56973837413d7803?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Apr 07 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[HR Intern - Sherman TX](https://jobright.ai/jobs/info/697e16dace48107c05425c21?utm_campaign=1054&utm_source=git)** | Sherman, TX | On Site | Apr 07 |
 | **[Lehman College](http://www.lehman.edu)** | **[HR Coordinator](https://jobright.ai/jobs/info/69d4bdf0e63cea7a8b65ce00?utm_campaign=1054&utm_source=git)** | Bronx, NY | Hybrid | Apr 07 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d4952ccfdc6132f945c615?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 06 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/69d3c8b9e63cea7a8b652d19?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
 | ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/69d3c8b4cfdc6132f9453c11?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | Apr 06 |
 | ↳ | **[Intern - HR/Recruiting](https://jobright.ai/jobs/info/69d3c811891d7b11cfcf3799?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
-| ↳ | **[Intern - Talent Development](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ee?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
 | ↳ | **[Intern - HR/Recruiting](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ec?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | Apr 06 |
+| ↳ | **[Intern - Talent Development](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ee?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
 | **[Avtron Power Solutions](https://avtronpower.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69d3c75f366bb95ba5536534?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Apr 06 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | On Site | Apr 06 |
-| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f0d8ece48107c05432c9c?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 06 |
-| **[Heritage](https://www.heritageinncharlottesville.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69d48faecdb525785fbcada3?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
