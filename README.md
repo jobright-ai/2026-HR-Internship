@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Service Electric Company](http://serviceelectricco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d50a63366bb95ba5542371?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Apr 07 |
+| **[Freudenberg Home and Cleaning Solutions](http://www.vileda.com/au/)** | **[Human Resources Intern (on-site, year-round, part-time) (f/m/d)](https://jobright.ai/jobs/info/69b85afe3b74eb1e2c860e8d?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Apr 07 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (San Diego)](https://jobright.ai/jobs/info/69ba7c9456973837413fea73?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Apr 07 |
+| ↳ | **[Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/69d50a29e63cea7a8b65e607?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Apr 07 |
+| **[KEMBA Financial Credit Union](http://www.kemba.org)** | **[Intern - HR Content Management](https://jobright.ai/jobs/info/69d50706366bb95ba55422fd?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Apr 07 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69bb882c06c1ba00c54e004a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 07 |
+| **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/69d4fdc5706f771673b9ffaa?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Apr 07 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69bc96684828227293fe7a7c?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 07 |
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Administrator, Human Resources (Talent Acquisition)](https://jobright.ai/jobs/info/69c7194c1b5ad0288738a040?utm_campaign=1054&utm_source=git)** | Ottawa, ON | On Site | Apr 07 |
 | **[LOFT](https://www.loft.com/)** | **[Summer Field Internship](https://jobright.ai/jobs/info/69d4f6b6cfdc6132f945eee4?utm_campaign=1054&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 07 |
 | **[Progress Residential®](http://rentprogress.com)** | **[People Operations/Human Resource Intern](https://jobright.ai/jobs/info/698103ca49964d25b5e3d12f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MFS Investment Management](https://www.mfs.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d3d61554f00230c6d2b60a?utm_campaign=1054&utm_source=git)** | Boston | Hybrid | Apr 06 |
 | **[The Trust Company of Tennessee](https://www.thetrust.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d3cefb366bb95ba5537803?utm_campaign=1054&utm_source=git)** | Knoxville, Tennessee, United States | On Site | Apr 06 |
 | **[Chainlink Labs](https://chainlinklabs.com/)** | **[People Intelligence Intern](https://jobright.ai/jobs/info/69b75df856973837413c847a?utm_campaign=1054&utm_source=git)** | Toronto, ON | Remote | Apr 06 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Recruitment Intern - Corporate](https://jobright.ai/jobs/info/699c19e8ce78e77b4fe0a67b?utm_campaign=1054&utm_source=git)** | Tippecanoe County, IN | On Site | Apr 06 |
-| **[Cantex](https://www.cantexcc.com)** | **[Human Resources (HR) internship (22080)](https://jobright.ai/jobs/info/69d3c8e854f00230c6d2a4ca?utm_campaign=1054&utm_source=git)** | Cantex Corporate - Carrollton, TX 75006 | On Site | Apr 06 |
-| **[MarketSource Inc.](http://www.marketsource.com/)** | **[Intern - Talent Development](https://jobright.ai/jobs/info/69d3c8e3366bb95ba5536aa6?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | Apr 06 |
-| ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/69d3c8b9e63cea7a8b652d19?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
-| ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/69d3c8b4cfdc6132f9453c11?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | Apr 06 |
-| ↳ | **[Intern - HR/Recruiting](https://jobright.ai/jobs/info/69d3c811891d7b11cfcf3799?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
-| ↳ | **[Intern - Talent Development](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ee?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
-| ↳ | **[Intern - HR/Recruiting](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ec?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
