@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
+| **[JTM Products Inc](https://www.jtmproductsinc.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d44b0f54f00230c6d2fd7f?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 06 |
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[CAMP Recruiter](https://jobright.ai/jobs/info/69d44206e63cea7a8b658393?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 06 |
 | **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - HR Communications and Engagement](https://jobright.ai/jobs/info/69d441e754f00230c6d2fad7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 06 |
 | **[RailPros](http://railpros.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69d4408f366bb95ba553c0bd?utm_campaign=1054&utm_source=git)** | Irving, TX 75038 | On Site | Apr 06 |
@@ -138,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[NEWITY](https://newitymarket.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69d30464cdb525785fbbc85f?utm_campaign=1054&utm_source=git)** | Chicago,IL,US | On Site | Apr 05 |
 | **[MFS Supply](http://mfssupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d41c72891d7b11cfcf77fe?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 05 |
 | **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 05 |
-| **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026 - HR and Communications Intern](https://jobright.ai/jobs/info/69d41355366bb95ba553a37f?utm_campaign=1054&utm_source=git)** | Vaughan, ON | On Site | Apr 05 |
-| ↳ | **[Summer Internship Program 2026 - Trade Services Intern](https://jobright.ai/jobs/info/69d4142054f00230c6d2dd91?utm_campaign=1054&utm_source=git)** | Vaughan, ON | On Site | Apr 05 |
+| **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026 - Trade Services Intern](https://jobright.ai/jobs/info/69d4142054f00230c6d2dd91?utm_campaign=1054&utm_source=git)** | Vaughan, ON | On Site | Apr 05 |
+| ↳ | **[Summer Internship Program 2026 - HR and Communications Intern](https://jobright.ai/jobs/info/69d41355366bb95ba553a37f?utm_campaign=1054&utm_source=git)** | Vaughan, ON | On Site | Apr 05 |
 | **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 05 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 05 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[OPS Research Coordinator](https://jobright.ai/jobs/info/69d29d3bcdb525785fbba619?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b587083b74eb1e2c834f75?utm_campaign=1054&utm_source=git)** | Prince George, BC | On Site | Apr 05 |
 | **[Planet](http://www.planet.com)** | **[Head of Global Total Rewards](https://jobright.ai/jobs/info/69992bd981476f6176b1b4aa?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 05 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b5871b56973837413ad7a3?utm_campaign=1054&utm_source=git)** | Regina, SK | On Site | Apr 05 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Apr 05 |
-| **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
