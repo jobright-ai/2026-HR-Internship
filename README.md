@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Rock Island](http://rigov.org)** | **[Administrative Records Management Intern](https://jobright.ai/jobs/info/69d47c23cdb525785fbc9e7f?utm_campaign=1054&utm_source=git)** | Rock Island, IL | On Site | Apr 06 |
 | **[Veeam Software](http://www.veeam.com)** | **[Talent Growth & Inclusion Intern - Summer 2026](https://jobright.ai/jobs/info/69d46b5c54f00230c6d30c34?utm_campaign=1054&utm_source=git)** | Georgia, United States | Remote | Apr 06 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69d460cc366bb95ba553cffd?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 06 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d45dc2e63cea7a8b6591c4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
+| **[Aflac](http://www.aflac.com)** | **[Provider Network Recruiter](https://jobright.ai/jobs/info/69d47c3f891d7b11cfcfadae?utm_campaign=1054&utm_source=git)** | Florida, United States | Hybrid | Apr 06 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45bdbcfdc6132f945a087?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Apr 06 |
 | ↳ | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45bcb366bb95ba553cf03?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Apr 06 |
-| ↳ | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45a5ecdb525785fbc8a2a?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Apr 06 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Healthcare and Benefits Intern (Unpaid)](https://jobright.ai/jobs/info/69c3d7b3d5a1016e98dac900?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Apr 06 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45a5ecdb525785fbc8a2a?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Apr 06 |
 | **[Dunmore](http://www.dunmore.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d4572ce63cea7a8b658f16?utm_campaign=1054&utm_source=git)** | Albuquerque, New Mexico, United States | Remote | Apr 06 |
 | **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
 | **[JTM Products Inc](https://www.jtmproductsinc.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d44b0f54f00230c6d2fd7f?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 06 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[NEWITY](https://newitymarket.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69d30464cdb525785fbbc85f?utm_campaign=1054&utm_source=git)** | Chicago,IL,US | On Site | Apr 05 |
 | **[MFS Supply](http://mfssupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d41c72891d7b11cfcf77fe?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 05 |
 | **[Multiquip Inc.](http://multiquip.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6998cada81476f6176b13538?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 05 |
-| **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026 - Trade Services Intern](https://jobright.ai/jobs/info/69d4142054f00230c6d2dd91?utm_campaign=1054&utm_source=git)** | Vaughan, ON | On Site | Apr 05 |
-| ↳ | **[Summer Internship Program 2026 - HR and Communications Intern](https://jobright.ai/jobs/info/69d41355366bb95ba553a37f?utm_campaign=1054&utm_source=git)** | Vaughan, ON | On Site | Apr 05 |
-| **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 05 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 05 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[OPS Research Coordinator](https://jobright.ai/jobs/info/69d29d3bcdb525785fbba619?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Apr 05 |
+| **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026 - HR and Communications Intern](https://jobright.ai/jobs/info/69d41355366bb95ba553a37f?utm_campaign=1054&utm_source=git)** | Vaughan, ON | On Site | Apr 05 |
+| ↳ | **[Summer Internship Program 2026 - Trade Services Intern](https://jobright.ai/jobs/info/69d4142054f00230c6d2dd91?utm_campaign=1054&utm_source=git)** | Vaughan, ON | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
