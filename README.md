@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canine Companions®](http://www.cci.org/)** | **[Human Resources Student Intern](https://jobright.ai/jobs/info/69d5264f366bb95ba5542d52?utm_campaign=1054&utm_source=git)** | Northern CA - Santa Rosa, CA 95407 | On Site | Apr 07 |
+| **[Middle East Broadcasting Networks](https://www.alhurra.com/)** | **[Intern Coordinator (Temporary – Summer Program)](https://jobright.ai/jobs/info/69d52645706f771673ba0d94?utm_campaign=1054&utm_source=git)** | Springfield, VA | On Site | Apr 07 |
+| **[OTC Markets Group](http://www.otcmarkets.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69d5260b366bb95ba5542c0a?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
+| **[Charger Logistics Inc.](https://www.chargerlogistics.com)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/69d52132706f771673ba0b4b?utm_campaign=1054&utm_source=git)** | Brampton, ON | On Site | Apr 07 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69d520bf366bb95ba5542a49?utm_campaign=1054&utm_source=git)** | Yocumtown, PA | On Site | Apr 07 |
+| **[Center for Internet Security](http://cisecurity.org/)** | **[Human Resources Intern - Remote](https://jobright.ai/jobs/info/69d51c0acfdc6132f945fc0c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 07 |
+| ↳ | **[Human Resources Intern - Remote](https://jobright.ai/jobs/info/69d51a1ecfdc6132f945fa7f?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Year Round Intern-Support Operations Branch](https://jobright.ai/jobs/info/69d517c0e63cea7a8b65e9f9?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship - Junior Recruiter](https://jobright.ai/jobs/info/69d51602706f771673ba079d?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 07 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[Intern - Human Resources Talent Acquisition](https://jobright.ai/jobs/info/69d3f430cdb525785fbc4cae?utm_campaign=1054&utm_source=git)** | Bethpage, NY | Hybrid | Apr 07 |
@@ -94,6 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45bcb366bb95ba553cf03?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Apr 06 |
 | ↳ | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45a5ecdb525785fbc8a2a?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Apr 06 |
 | **[Dunmore](http://www.dunmore.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d4572ce63cea7a8b658f16?utm_campaign=1054&utm_source=git)** | Albuquerque, New Mexico, United States | Remote | Apr 06 |
+| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Specialist - Journey](https://jobright.ai/jobs/info/69d51bd3cfdc6132f945fbc3?utm_campaign=1054&utm_source=git)** | Chapel Hill, NC | On Site | Apr 06 |
 | **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
 | **[JTM Products Inc](https://www.jtmproductsinc.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d44b0f54f00230c6d2fd7f?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 06 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Intern Conversion Only: Early Careers: Pension Outsourcing Analyst - Toronto - 2027](https://jobright.ai/jobs/info/69d46773891d7b11cfcf9e53?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
@@ -130,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Fox Pest Control](https://fox-pest.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d41c70891d7b11cfcf77ed?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Apr 06 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / Admissions Intern (Summer)](https://jobright.ai/jobs/info/69d41c64cdb525785fbc65f1?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Apr 06 |
 | **[Mid-Willamette Valley Community Action Agency](http://www.mycommunityaction.org)** | **[HR Student Intern (Temporary)](https://jobright.ai/jobs/info/69d41c49366bb95ba553aa78?utm_campaign=1054&utm_source=git)** | Salem, OR | On Site | Apr 06 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Intern Conversion Only: Early Careers: Pension Outsourcing Analyst - Toronto - 2027](https://jobright.ai/jobs/info/69d41bd0891d7b11cfcf73b0?utm_campaign=1054&utm_source=git)** | 130 King Street West, Toronto, TORONTO, M5X 1E3, CA | On Site | Apr 06 |
 | **[Challenge Manufacturing](http://challenge-mfg.com)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/69d418e1891d7b11cfcf7251?utm_campaign=1054&utm_source=git)** | 3079 Three Mile Road, Walker, MI 49534 | On Site | Apr 06 |
 | **[Javits Center](http://javitscenter.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69d416c3cfdc6132f945760f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d4155acfdc6132f945757a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Pest Control](https://fox-pest.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d3e4b1cfdc6132f9455868?utm_campaign=1054&utm_source=git)** | US-UT-Logan | On Site | Apr 06 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/69d3e448891d7b11cfcf54d6?utm_campaign=1054&utm_source=git)** | Logan, UT, US | On Site | Apr 06 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d3e423891d7b11cfcf5435?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 06 |
-| **[Cantex](https://www.cantexcc.com)** | **[Human Resources (HR) internship (22080)](https://jobright.ai/jobs/info/69d3e37ae63cea7a8b654343?utm_campaign=1054&utm_source=git)** | Carrollton, TX | On Site | Apr 06 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d3e33bcdb525785fbc3e12?utm_campaign=1054&utm_source=git)** | Overland Park, Kansas | On Site | Apr 06 |
-| ↳ | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d3e337366bb95ba55381d8?utm_campaign=1054&utm_source=git)** | Bellevue, Washington | On Site | Apr 06 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Intern - Service Operations](https://jobright.ai/jobs/info/69d3da7fe63cea7a8b65401d?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Apr 06 |
-| **[Hays County](http://hayscountytx.com)** | **[Veteran Services - Work Study Intern](https://jobright.ai/jobs/info/69d3d638cfdc6132f9454d7e?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Apr 06 |
-| **[TransX Group of Companies](http://transx.com/)** | **[Intern](https://jobright.ai/jobs/info/69d3d624e63cea7a8b653ddb?utm_campaign=1054&utm_source=git)** | Winnipeg, MB, CA | On Site | Apr 06 |
-| **[MFS Investment Management](https://www.mfs.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d3d61554f00230c6d2b60a?utm_campaign=1054&utm_source=git)** | Boston | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
