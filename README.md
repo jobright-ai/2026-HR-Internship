@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry-Level Recruitment](https://jobright.ai/jobs/info/69bb874a56973837414189ed?utm_campaign=1054&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Apr 07 |
+| **[Ground Up International](https://www.groundupintl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d54ac1891d7b11cfd00bbd?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 07 |
+| **[Online Gamera](onlinegamera.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d54979891d7b11cfd00a01?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 07 |
+| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Apr 07 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / Admissions Intern (Summer)](https://jobright.ai/jobs/info/69d540d1706f771673ba1a15?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Apr 07 |
 | **[Simon Group Holdings](http://simongroupholdings.com/)** | **[HR Intern](https://jobright.ai/jobs/info/699dd2eace78e77b4fe2e8ba?utm_campaign=1054&utm_source=git)** | Detroit Metro | On Site | Apr 07 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Temporary / Admissions Intern (Summer)](https://jobright.ai/jobs/info/69d53df3cfdc6132f9460a8e?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Apr 07 |
@@ -116,8 +120,10 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45bdbcfdc6132f945a087?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Apr 06 |
 | ↳ | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45bcb366bb95ba553cf03?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Apr 06 |
 | ↳ | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45a5ecdb525785fbc8a2a?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Apr 06 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Healthcare and Benefits Intern (Unpaid)](https://jobright.ai/jobs/info/69d54e43cdb525785fbcfb6f?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Apr 06 |
 | **[Dunmore](http://www.dunmore.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d4572ce63cea7a8b658f16?utm_campaign=1054&utm_source=git)** | Albuquerque, New Mexico, United States | Remote | Apr 06 |
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Specialist - Journey](https://jobright.ai/jobs/info/69d51bd3cfdc6132f945fbc3?utm_campaign=1054&utm_source=git)** | Chapel Hill, NC | On Site | Apr 06 |
+| **[Edmonds School District](http://www.edmonds.wednet.edu/)** | **[Payroll and Benefits Manager](https://jobright.ai/jobs/info/69d545c7366bb95ba5543a5c?utm_campaign=1054&utm_source=git)** | Lynnwood, WA | On Site | Apr 06 |
 | **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
 | **[Youth Action Project](http://youthactionproject.org)** | **[Case Manager Intern](https://jobright.ai/jobs/info/69d531b3366bb95ba554313d?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Apr 06 |
 | **[JTM Products Inc](https://www.jtmproductsinc.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d44b0f54f00230c6d2fd7f?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emerest](https://www.emerest.com )** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d421fb891d7b11cfcf7a88?utm_campaign=1054&utm_source=git)** | Greater St. Louis | On Site | Apr 06 |
 | **[CNU's Center For American Studies](http://cnu.edu/cas/)** | **[*Internal Only* Human Resources Coordinator 00721](https://jobright.ai/jobs/info/69d41f7ecdb525785fbc68b4?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Apr 06 |
 | **[Fox Pest Control](https://fox-pest.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d41c70891d7b11cfcf77ed?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Apr 06 |
-| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / Admissions Intern (Summer)](https://jobright.ai/jobs/info/69d41c64cdb525785fbc65f1?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Apr 06 |
-| **[Mid-Willamette Valley Community Action Agency](http://www.mycommunityaction.org)** | **[HR Student Intern (Temporary)](https://jobright.ai/jobs/info/69d41c49366bb95ba553aa78?utm_campaign=1054&utm_source=git)** | Salem, OR | On Site | Apr 06 |
-| **[Challenge Manufacturing](http://challenge-mfg.com)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/69d418e1891d7b11cfcf7251?utm_campaign=1054&utm_source=git)** | 3079 Three Mile Road, Walker, MI 49534 | On Site | Apr 06 |
-| **[Javits Center](http://javitscenter.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69d416c3cfdc6132f945760f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 06 |
-| **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d4155acfdc6132f945757a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d40d27cdb525785fbc5cc8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
