@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d4952ccfdc6132f945c615?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 06 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69d48faee63cea7a8b65b3d7?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 06 |
 | **[World Relief](https://worldrelief.org/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69d485afcdb525785fbca42c?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Apr 06 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Benefit Intern](https://jobright.ai/jobs/info/69d4858f366bb95ba553e7b9?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Apr 06 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/69d3c8b9e63cea7a8b652d19?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
 | ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/69d3c8b4cfdc6132f9453c11?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | Apr 06 |
 | ↳ | **[Intern - HR/Recruiting](https://jobright.ai/jobs/info/69d3c811891d7b11cfcf3799?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
-| ↳ | **[Intern - Talent Development](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ee?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
 | ↳ | **[Intern - HR/Recruiting](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ec?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | Apr 06 |
+| ↳ | **[Intern - Talent Development](https://jobright.ai/jobs/info/69d3c7f9cdb525785fbc26ee?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | Apr 06 |
 | **[Avtron Power Solutions](https://avtronpower.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69d3c75f366bb95ba5536534?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Apr 06 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | On Site | Apr 06 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f0d8ece48107c05432c9c?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 06 |
-| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resources Assistant (Staffing/Applicant Care)](https://jobright.ai/jobs/info/69d37d270b098b7a6708f898?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 06 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Benefits and Human Resources Specialist](https://jobright.ai/jobs/info/69d3921b54f00230c6d28bf7?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
