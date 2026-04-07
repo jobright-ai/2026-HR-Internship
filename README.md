@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[HR Intern - Sherman TX](https://jobright.ai/jobs/info/697e16dace48107c05425c21?utm_campaign=1054&utm_source=git)** | Sherman, TX | On Site | Apr 07 |
 | **[Lehman College](http://www.lehman.edu)** | **[HR Coordinator](https://jobright.ai/jobs/info/69d4bdf0e63cea7a8b65ce00?utm_campaign=1054&utm_source=git)** | Bronx, NY | Hybrid | Apr 07 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d4952ccfdc6132f945c615?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69d48faee63cea7a8b65b3d7?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | On Site | Apr 06 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f0d8ece48107c05432c9c?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 06 |
 | **[Heritage](https://www.heritageinncharlottesville.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69d48faecdb525785fbcada3?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
-| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resources Assistant (Staffing/Applicant Care)](https://jobright.ai/jobs/info/69d37d270b098b7a6708f898?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
