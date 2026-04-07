@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Social Media Intern (NFWS)](https://jobright.ai/jobs/info/69d5781e366bb95ba55454dc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Apr 07 |
+| **[Blue Highway Records](http://www.bigmachinelabelgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d574f4cfdc6132f94627f8?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Apr 07 |
+| **[Krause Group](https://www.krausegroup.com)** | **[Grow People (HR) Intern](https://jobright.ai/jobs/info/69d5734d706f771673ba347e?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d57218cfdc6132f9462624?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
+| **[Sono Bello](http://sonobello.com)** | **[Intern – People Operations](https://jobright.ai/jobs/info/69d57217e63cea7a8b661665?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 07 |
+| **[Bayshore HealthCare](http://www.bayshore.ca)** | **[Administrator, HR Internship](https://jobright.ai/jobs/info/69d57204366bb95ba5545265?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Apr 07 |
+| **[Kum & Go](https://www.kumandgo.com/)** | **[Grow People (HR) Intern](https://jobright.ai/jobs/info/69d570f1cfdc6132f94625ef?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d570d9891d7b11cfd02070?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
+| **[Florida Virtual School](https://flvs.net/)** | **[Human Resource Student Intern](https://jobright.ai/jobs/info/69d57068891d7b11cfd01e4f?utm_campaign=1054&utm_source=git)** | FL - Home Office | Remote | Apr 07 |
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Intern, Organizational Effectiveness](https://jobright.ai/jobs/info/69d56c88706f771673ba3119?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Apr 07 |
 | **[Purpose Financial](https://havepurpose.com/)** | **[HR Operations Inern](https://jobright.ai/jobs/info/69d56c6e706f771673ba30e8?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Apr 07 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Akron, OH] (Unpaid, Summer 2026)](https://jobright.ai/jobs/info/69d56c6d706f771673ba30e3?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Apr 07 |
@@ -64,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d56928706f771673ba2ee4?utm_campaign=1054&utm_source=git)** | WA - Seattle | Hybrid | Apr 07 |
 | **[Jabil](https://www.jabil.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d56742706f771673ba2e27?utm_campaign=1054&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 07 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d565ae891d7b11cfd019a7?utm_campaign=1054&utm_source=git)** | Ocoee, FL | On Site | Apr 07 |
-| **[Spurwink](http://www.spurwink.org)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69d5643b891d7b11cfd01935?utm_campaign=1054&utm_source=git)** | Westbrook, ME | Hybrid | Apr 07 |
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Intern, Organizational Effectiveness](https://jobright.ai/jobs/info/69d56052e63cea7a8b660b76?utm_campaign=1054&utm_source=git)** | La Crosse, Wisconsin | On Site | Apr 07 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d55667706f771673ba2487?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 07 |
 | **[BHC Alhambra Hospital, Inc.](https://www.bhcalhambra.com/)** | **[HUMAN RESOURCES FILE CLERK](https://jobright.ai/jobs/info/69d55440e63cea7a8b66062a?utm_campaign=1054&utm_source=git)** | Rosemead, CA | On Site | Apr 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mastermind.com](https://mastermind.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d45a3ecfdc6132f945a04c?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | Apr 06 |
 | **[Enercon Services, Inc.](http://www.enercon.com)** | **[Recruiter - Early Talent & Intern Program](https://jobright.ai/jobs/info/69d43a86cdb525785fbc7ad5?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Apr 06 |
 | ↳ | **[Recruiter - Early Talent & Intern Program](https://jobright.ai/jobs/info/69d43923e63cea7a8b657a8b?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | Hybrid | Apr 06 |
-| **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d4391d891d7b11cfcf89c8?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
-| **[Enercon Services, Inc.](http://www.enercon.com)** | **[Recruiter - Early Talent & Intern Program](https://jobright.ai/jobs/info/69d438c1cfdc6132f9458cc3?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | Hybrid | Apr 06 |
-| ↳ | **[Recruiter - Early Talent & Intern Program](https://jobright.ai/jobs/info/69d438bd54f00230c6d2f50b?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 06 |
-| **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! HR Intern (Clerk III) Austin, Texas](https://jobright.ai/jobs/info/69d46e8454f00230c6d30e2a?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 06 |
-| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69d433cbe63cea7a8b65785c?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69d4325ce63cea7a8b6577ca?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 06 |
-| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d4304454f00230c6d2eeef?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Apr 06 |
-| **[City of North Richland Hills, Texas](http://www.nrhtx.com)** | **[INTERN 1 - HUMAN RESOURCES](https://jobright.ai/jobs/info/69d4304454f00230c6d2eee5?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
