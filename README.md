@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sono Bello](http://sonobello.com)** | **[Intern – People Operations](https://jobright.ai/jobs/info/69d59560cfdc6132f9463730?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 07 |
+| **[Sellmark Corporation](https://sellmark.com)** | **[Human Resources Intern - Generalist](https://jobright.ai/jobs/info/69d59173891d7b11cfd02f71?utm_campaign=1054&utm_source=git)** | Mansfield, TX | On Site | Apr 07 |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer](https://jobright.ai/jobs/info/69d58df2706f771673ba421e?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 07 |
+| **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Summer Internship - HR Organizational Development](https://jobright.ai/jobs/info/69d58ded706f771673ba4217?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Apr 07 |
+| **[Planet](http://www.planet.com)** | **[Talent Operations Partner](https://jobright.ai/jobs/info/69d58de2891d7b11cfd02ec3?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 07 |
+| **[UnityPoint Health](http://www.unitypoint.org/)** | **[FD 2026 Summer Intern- Closed Applicant Pool](https://jobright.ai/jobs/info/69d58dcc891d7b11cfd02e84?utm_campaign=1054&utm_source=git)** | Fort Dodge, IA | On Site | Apr 07 |
+| **[Cavender's](https://www.cavenders.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d58c2c366bb95ba554602f?utm_campaign=1054&utm_source=git)** | Tyler, TX 75703, USA | Hybrid | Apr 07 |
+| **[Future Now](futurenow.org)** | **[Summer Internship](https://jobright.ai/jobs/info/69d58c00e63cea7a8b6622f7?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 07 |
+| **[CNIB](http://www.cnib.ca/)** | **[Intern, Vision Mate & Peer Support Programs](https://jobright.ai/jobs/info/69d58bc5e63cea7a8b6621fc?utm_campaign=1054&utm_source=git)** | Thunder Bay, ON, CA | On Site | Apr 07 |
 | **[G&A Partners](https://www.gnapartners.com/)** | **[Onboarding Payroll Analyst](https://jobright.ai/jobs/info/69d5861fe63cea7a8b661f3f?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 07 |
 | **[CNIB](http://www.cnib.ca/)** | **[Intern, Vision Mate & Peer Support Programs](https://jobright.ai/jobs/info/69d58338e63cea7a8b661e65?utm_campaign=1054&utm_source=git)** | Thunder Bay, ON | On Site | Apr 07 |
 | **[Northmarq](http://www.northmarq.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69d57d33cdb525785fbd15ff?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 07 |
@@ -67,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Highway Records](http://www.bigmachinelabelgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d574f4cfdc6132f94627f8?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Apr 07 |
 | **[Krause Group](https://www.krausegroup.com)** | **[Grow People (HR) Intern](https://jobright.ai/jobs/info/69d5734d706f771673ba347e?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d57218cfdc6132f9462624?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
-| **[Sono Bello](http://sonobello.com)** | **[Intern – People Operations](https://jobright.ai/jobs/info/69d57217e63cea7a8b661665?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 07 |
 | **[Bayshore HealthCare](http://www.bayshore.ca)** | **[Administrator, HR Internship](https://jobright.ai/jobs/info/69d57204366bb95ba5545265?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Apr 07 |
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Grow People (HR) Intern](https://jobright.ai/jobs/info/69d570f1cfdc6132f94625ef?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d570d9891d7b11cfd02070?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
@@ -80,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d56742706f771673ba2e27?utm_campaign=1054&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 07 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d565ae891d7b11cfd019a7?utm_campaign=1054&utm_source=git)** | Ocoee, FL | On Site | Apr 07 |
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Intern, Organizational Effectiveness](https://jobright.ai/jobs/info/69d56052e63cea7a8b660b76?utm_campaign=1054&utm_source=git)** | La Crosse, Wisconsin | On Site | Apr 07 |
-| **[Professional Contractor Supply](https://www.fastenerslv.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d57d86891d7b11cfd027b6?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 07 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d55667706f771673ba2487?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 07 |
 | **[BHC Alhambra Hospital, Inc.](https://www.bhcalhambra.com/)** | **[HUMAN RESOURCES FILE CLERK](https://jobright.ai/jobs/info/69d55440e63cea7a8b66062a?utm_campaign=1054&utm_source=git)** | Rosemead, CA | On Site | Apr 07 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69d5533e366bb95ba55440fc?utm_campaign=1054&utm_source=git)** | California - San Francisco | On Site | Apr 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Specialist - Journey](https://jobright.ai/jobs/info/69d51bd3cfdc6132f945fbc3?utm_campaign=1054&utm_source=git)** | Chapel Hill, NC | On Site | Apr 06 |
 | **[Edmonds School District](http://www.edmonds.wednet.edu/)** | **[Payroll and Benefits Manager](https://jobright.ai/jobs/info/69d545c7366bb95ba5543a5c?utm_campaign=1054&utm_source=git)** | Lynnwood, WA | On Site | Apr 06 |
 | **[Social Factor](https://socialfactor.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d57be9cfdc6132f9462aea?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 06 |
-| **[ALO](https://www.aloyoga.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6993a26de0bddb6acac1e96a?utm_campaign=1054&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
-| **[Youth Action Project](http://youthactionproject.org)** | **[Case Manager Intern](https://jobright.ai/jobs/info/69d531b3366bb95ba554313d?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Apr 06 |
-| **[JTM Products Inc](https://www.jtmproductsinc.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d44b0f54f00230c6d2fd7f?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 06 |
-| **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[CAMP Recruiter](https://jobright.ai/jobs/info/69d44206e63cea7a8b658393?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 06 |
-| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - HR Communications and Engagement](https://jobright.ai/jobs/info/69d441e754f00230c6d2fad7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 06 |
-| **[RailPros](http://railpros.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69d4408f366bb95ba553c0bd?utm_campaign=1054&utm_source=git)** | Irving, TX 75038 | On Site | Apr 06 |
-| **[Enercon Services, Inc.](http://www.enercon.com)** | **[Recruiter - Early Talent & Intern Program](https://jobright.ai/jobs/info/69d4407ae63cea7a8b6582eb?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
