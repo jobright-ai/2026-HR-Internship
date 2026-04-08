@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Weight Room Specialist Program Manager - Student Hourly](https://jobright.ai/jobs/info/69d5ff64706f771673ba8f7d?utm_campaign=1054&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 08 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Inclusion & Engagement](https://jobright.ai/jobs/info/69d5f854891d7b11cfd073f7?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 07 |
+| **[Jobs](https://beconfidential.info)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d5f306e63cea7a8b66658c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69d5d63b4a12eb12c5e13d5e?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Apr 07 |
 | **[Sunrise Community Health](https://www.sunrisecommunityhealth.org/)** | **[Volunteer & Intern Coordinator](https://jobright.ai/jobs/info/69d5cb7acdb525785fbd4760?utm_campaign=1054&utm_source=git)** | Monfort Family Clinic, Evans, CO, US | On Site | Apr 07 |
 | **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d5cb48706f771673ba6d37?utm_campaign=1054&utm_source=git)** | Pico Rivera, CA | On Site | Apr 07 |
@@ -64,10 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Travis County](https://www.traviscountytx.gov)** | **[Administrative and HR Internship](https://jobright.ai/jobs/info/69d3323f0b098b7a6708c9d9?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Talent Development Intern / Multiple Locations](https://jobright.ai/jobs/info/69d5d71bcfdc6132f946665a?utm_campaign=1054&utm_source=git)** | Springfield, MO | Hybrid | Apr 07 |
 | ↳ | **[Talent Development Intern / Multiple Locations](https://jobright.ai/jobs/info/69d5aa4ecfdc6132f9463e00?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Apr 07 |
-| ↳ | **[Assurance Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa27e63cea7a8b662de6?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | ↳ | **[Assurance Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa27e63cea7a8b662de2?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
-| ↳ | **[Assurance Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa27e63cea7a8b662dd9?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 07 |
-| ↳ | **[Assurance Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa24e63cea7a8b662dd8?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Apr 07 |
+| ↳ | **[Assurance Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa27e63cea7a8b662de6?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[HR GENERALIST 2 - 04072026-76675](https://jobright.ai/jobs/info/69d59e2d891d7b11cfd033f7?utm_campaign=1054&utm_source=git)** | Davidson County, TN | On Site | Apr 07 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69d59b3ccfdc6132f9463895?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 07 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern – People Operations](https://jobright.ai/jobs/info/69d59560cfdc6132f9463730?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 07 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69b84f7a56973837413d7803?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Apr 07 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[HR Intern - Sherman TX](https://jobright.ai/jobs/info/697e16dace48107c05425c21?utm_campaign=1054&utm_source=git)** | Sherman, TX | On Site | Apr 07 |
 | **[Lehman College](http://www.lehman.edu)** | **[HR Coordinator](https://jobright.ai/jobs/info/69d4bdf0e63cea7a8b65ce00?utm_campaign=1054&utm_source=git)** | Bronx, NY | Hybrid | Apr 07 |
+| **[University of Mississippi Medical Center](http://www.umc.edu/)** | **[Student Intern-Human Resources-Service Center](https://jobright.ai/jobs/info/69d5ff1e4a12eb12c5e158ff?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | Apr 06 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/69d5f9d9706f771673ba8766?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 06 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d4952ccfdc6132f945c615?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69d48faee63cea7a8b65b3d7?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Benefit Intern](https://jobright.ai/jobs/info/69d4858f366bb95ba553e7b9?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Apr 06 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d48316e63cea7a8b65a840?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 06 |
 | ↳ | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d482e6891d7b11cfcfb185?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
-| ↳ | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d482d754f00230c6d31f04?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 06 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d47fcecfdc6132f945b5ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Apr 06 |
-| **[Rollins, Inc.](http://www.rollins.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d47f82cdb525785fbc9ef5?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
