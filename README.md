@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simular](https://simular.ai)** | **[People & Operations Intern](https://jobright.ai/jobs/info/69b2b05ea8ac8e70ff66b765?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Apr 08 |
+| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Talent Resources](https://jobright.ai/jobs/info/69ba8bc006c1ba00c54c9a91?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Apr 08 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Member Services Professional Intern](https://jobright.ai/jobs/info/698164b949964d25b5e45a04?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 08 |
+| **[Mizkan America](http://mizkan.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d63963cfdc6132f9469221?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 08 |
 | **[Clarivate](http://clarivate.com)** | **[Futures Business Intern](https://jobright.ai/jobs/info/69d631a252a5bf5800127d4c?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 08 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/69bb8b9106c1ba00c54e11ea?utm_campaign=1054&utm_source=git)** | Northville, MI | On Site | Apr 08 |
 | **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Resource Management Intern](https://jobright.ai/jobs/info/698145d649964d25b5e42996?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ | On Site | Apr 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LOFT](https://www.loft.com/)** | **[Summer Field Internship](https://jobright.ai/jobs/info/69d4f6b6cfdc6132f945eee4?utm_campaign=1054&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 07 |
 | **[Progress Residential®](http://rentprogress.com)** | **[People Operations/Human Resource Intern](https://jobright.ai/jobs/info/698103ca49964d25b5e3d12f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 07 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69b84f7a56973837413d7803?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Apr 07 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[HR Intern - Sherman TX](https://jobright.ai/jobs/info/697e16dace48107c05425c21?utm_campaign=1054&utm_source=git)** | Sherman, TX | On Site | Apr 07 |
-| **[Lehman College](http://www.lehman.edu)** | **[HR Coordinator](https://jobright.ai/jobs/info/69d4bdf0e63cea7a8b65ce00?utm_campaign=1054&utm_source=git)** | Bronx, NY | Hybrid | Apr 07 |
-| **[North Marin Water District](https://nmwd.com)** | **[Human Resources/Accounting Intern](https://jobright.ai/jobs/info/69d60daf891d7b11cfd07fa7?utm_campaign=1054&utm_source=git)** | Novato, CA | On Site | Apr 07 |
-| **[University of Mississippi Medical Center](http://www.umc.edu/)** | **[Student Intern-Human Resources-Service Center](https://jobright.ai/jobs/info/69d5ff1e4a12eb12c5e158ff?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
