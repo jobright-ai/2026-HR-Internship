@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Air Combat Command](https://www.acc.af.mil/)** | **[HUMAN RESOURCES ASSISTANT.](https://jobright.ai/jobs/info/69d64e9248f0c8161d2f7486?utm_campaign=1054&utm_source=git)** | Patrick AFB, FL | On Site | Apr 08 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69d64e79cfdc6132f94695a7?utm_campaign=1054&utm_source=git)** | Torrance, CA | On Site | Apr 08 |
+| **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Compensation Analyst or Sr. Compensation Analyst](https://jobright.ai/jobs/info/69d648f248f0c8161d2f72f3?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 08 |
+| **[Unique Vacations, Inc.](https://www.linkedin.com/company/79788490)** | **[Human Resources Intern](https://jobright.ai/jobs/info/699cd66fe0bddb6acacbdff4?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 08 |
+| **[ConnectiveRx](http://www.connectiverx.com/)** | **[Intern - Compensation and Benefits](https://jobright.ai/jobs/info/699c9d8fe0bddb6acacbb1f3?utm_campaign=1054&utm_source=git)** | Whippany, NJ | On Site | Apr 08 |
 | **[Simular](https://simular.ai)** | **[People & Operations Intern](https://jobright.ai/jobs/info/69b2b05ea8ac8e70ff66b765?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Apr 08 |
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Talent Resources](https://jobright.ai/jobs/info/69ba8bc006c1ba00c54c9a91?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Apr 08 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Member Services Professional Intern](https://jobright.ai/jobs/info/698164b949964d25b5e45a04?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 08 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[McConway & Torley, LLC](https://www.mcconway.com)** | **[Human Resources and Talent Acquisition Internship](https://jobright.ai/jobs/info/69d5cadbcfdc6132f9465e8a?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | Apr 07 |
 | **[Travis County](https://www.traviscountytx.gov)** | **[Administrative and HR Internship](https://jobright.ai/jobs/info/69d3323f0b098b7a6708c9d9?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Talent Development Intern / Multiple Locations](https://jobright.ai/jobs/info/69d5d71bcfdc6132f946665a?utm_campaign=1054&utm_source=git)** | Springfield, MO | Hybrid | Apr 07 |
-| ↳ | **[Talent Development Intern / Multiple Locations](https://jobright.ai/jobs/info/69d5aa4ecfdc6132f9463e00?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Apr 07 |
 | ↳ | **[Assurance Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa27e63cea7a8b662de2?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
 | ↳ | **[Assurance Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa27e63cea7a8b662de6?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[HR GENERALIST 2 - 04072026-76675](https://jobright.ai/jobs/info/69d59e2d891d7b11cfd033f7?utm_campaign=1054&utm_source=git)** | Davidson County, TN | On Site | Apr 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69bb882c06c1ba00c54e004a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 07 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/69d4fdc5706f771673b9ffaa?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Apr 07 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69bc96684828227293fe7a7c?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 07 |
-| **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Administrator, Human Resources (Talent Acquisition)](https://jobright.ai/jobs/info/69c7194c1b5ad0288738a040?utm_campaign=1054&utm_source=git)** | Ottawa, ON | On Site | Apr 07 |
-| **[LOFT](https://www.loft.com/)** | **[Summer Field Internship](https://jobright.ai/jobs/info/69d4f6b6cfdc6132f945eee4?utm_campaign=1054&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 07 |
-| **[Progress Residential®](http://rentprogress.com)** | **[People Operations/Human Resource Intern](https://jobright.ai/jobs/info/698103ca49964d25b5e3d12f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 07 |
-| **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69b84f7a56973837413d7803?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
