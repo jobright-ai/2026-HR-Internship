@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Talent Development Intern / Multiple Locations](https://jobright.ai/jobs/info/69d5aa4ecfdc6132f9463e00?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Apr 07 |
+| ↳ | **[Assurance Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa27e63cea7a8b662de2?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
+| ↳ | **[Assurance Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa27e63cea7a8b662dd9?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 07 |
+| ↳ | **[Assurance Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa27e63cea7a8b662de6?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
+| ↳ | **[Assurance Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa24e63cea7a8b662dd8?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Apr 07 |
 | **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Compensation Analyst or Sr. Compensation Analyst](https://jobright.ai/jobs/info/69d59e36cfdc6132f9463913?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[HR GENERALIST 2 - 04072026-76675](https://jobright.ai/jobs/info/69d59e2d891d7b11cfd033f7?utm_campaign=1054&utm_source=git)** | Davidson County, TN | On Site | Apr 07 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69d59b3ccfdc6132f9463895?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[Provider Network Recruiter](https://jobright.ai/jobs/info/69d47c3f891d7b11cfcfadae?utm_campaign=1054&utm_source=git)** | Florida, United States | Hybrid | Apr 06 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45bdbcfdc6132f945a087?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Apr 06 |
 | ↳ | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45bcb366bb95ba553cf03?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Apr 06 |
-| ↳ | **[Intern - Year Round (Employee Relations)](https://jobright.ai/jobs/info/69d45a5ecdb525785fbc8a2a?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Apr 06 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Healthcare and Benefits Intern (Unpaid)](https://jobright.ai/jobs/info/69d54e43cdb525785fbcfb6f?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Apr 06 |
-| **[Dunmore](http://www.dunmore.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d4572ce63cea7a8b658f16?utm_campaign=1054&utm_source=git)** | Albuquerque, New Mexico, United States | Remote | Apr 06 |
-| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Specialist - Journey](https://jobright.ai/jobs/info/69d51bd3cfdc6132f945fbc3?utm_campaign=1054&utm_source=git)** | Chapel Hill, NC | On Site | Apr 06 |
-| **[Edmonds School District](http://www.edmonds.wednet.edu/)** | **[Payroll and Benefits Manager](https://jobright.ai/jobs/info/69d545c7366bb95ba5543a5c?utm_campaign=1054&utm_source=git)** | Lynnwood, WA | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
