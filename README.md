@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Weight Room Specialist Program Manager - Student Hourly](https://jobright.ai/jobs/info/69d5ff64706f771673ba8f7d?utm_campaign=1054&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 08 |
+| **[Logitech](https://www.logitech.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d5dc874a12eb12c5e14072?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 08 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Inclusion & Engagement](https://jobright.ai/jobs/info/69d5f854891d7b11cfd073f7?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 07 |
 | **[Jobs](https://beconfidential.info)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d5f306e63cea7a8b66658c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69d5d63b4a12eb12c5e13d5e?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Apr 07 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Center for Internet Security](http://cisecurity.org/)** | **[Human Resources Intern - Remote](https://jobright.ai/jobs/info/69d51c0acfdc6132f945fc0c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 07 |
 | ↳ | **[Human Resources Intern - Remote](https://jobright.ai/jobs/info/69d51a1ecfdc6132f945fa7f?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Year Round Intern-Support Operations Branch](https://jobright.ai/jobs/info/69d517c0e63cea7a8b65e9f9?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 07 |
-| **[PSEG Long Island LLC](https://www.psegliny.com)** | **[Intern - Human Resources Talent Acquisition](https://jobright.ai/jobs/info/69d3f430cdb525785fbc4cae?utm_campaign=1054&utm_source=git)** | Bethpage, NY | Hybrid | Apr 07 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69bb882806c1ba00c54e003d?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Apr 07 |
 | **[Trinity Church NYC](https://trinitywallstreet.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d53260706f771673ba13d9?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 07 |
 | **[Service Electric Company](http://serviceelectricco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d50a63366bb95ba5542371?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Apr 07 |
@@ -149,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69b84f7a56973837413d7803?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Apr 07 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[HR Intern - Sherman TX](https://jobright.ai/jobs/info/697e16dace48107c05425c21?utm_campaign=1054&utm_source=git)** | Sherman, TX | On Site | Apr 07 |
 | **[Lehman College](http://www.lehman.edu)** | **[HR Coordinator](https://jobright.ai/jobs/info/69d4bdf0e63cea7a8b65ce00?utm_campaign=1054&utm_source=git)** | Bronx, NY | Hybrid | Apr 07 |
+| **[North Marin Water District](https://nmwd.com)** | **[Human Resources/Accounting Intern](https://jobright.ai/jobs/info/69d60daf891d7b11cfd07fa7?utm_campaign=1054&utm_source=git)** | Novato, CA | On Site | Apr 07 |
 | **[University of Mississippi Medical Center](http://www.umc.edu/)** | **[Student Intern-Human Resources-Service Center](https://jobright.ai/jobs/info/69d5ff1e4a12eb12c5e158ff?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | Apr 06 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/69d5f9d9706f771673ba8766?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 06 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d4952ccfdc6132f945c615?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd9108b106024562828303?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Benefit Intern](https://jobright.ai/jobs/info/69d4858f366bb95ba553e7b9?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Apr 06 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d48316e63cea7a8b65a840?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 06 |
-| ↳ | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d482e6891d7b11cfcfb185?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
