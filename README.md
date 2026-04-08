@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Safety Intern 2025-2026](https://jobright.ai/jobs/info/69d69f8052a5bf5800129da3?utm_campaign=1054&utm_source=git)** | Joliet, IL | On Site | Apr 08 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Human Resources](https://jobright.ai/jobs/info/69bb8acc5697383741419849?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Apr 08 |
+| **[CommScope](http://www.commscope.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d69b6ecfdc6132f946ae16?utm_campaign=1054&utm_source=git)** | Claremont, NC | On Site | Apr 08 |
 | **[Oglebay](https://oglebay.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d6937fe63cea7a8b669c26?utm_campaign=1054&utm_source=git)** | Wheeling, WV, US | On Site | Apr 08 |
 | **[Generac](https://www.generac.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/69d69337cfdc6132f946ab60?utm_campaign=1054&utm_source=git)** | Waukesha, WI - USA | On Site | Apr 08 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Servicing Intern, OSF](https://jobright.ai/jobs/info/69d68e7548f0c8161d2f8905?utm_campaign=1054&utm_source=git)** | Keystone, IN | On Site | Apr 08 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[UpSourced HR](https://www.upsourcedhr.com/)** | **[HR Administrator - Student](https://jobright.ai/jobs/info/69d67371e63cea7a8b668f5b?utm_campaign=1054&utm_source=git)** | Lethbridge, AB | On Site | Apr 08 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Weight Room Specialist Program Manager - Student Hourly](https://jobright.ai/jobs/info/69d5ff64706f771673ba8f7d?utm_campaign=1054&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 08 |
 | **[Logitech](https://www.logitech.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d5dc874a12eb12c5e14072?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 08 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Inclusion & Engagement](https://jobright.ai/jobs/info/69d5f854891d7b11cfd073f7?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 07 |
 | **[Jobs](https://beconfidential.info)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d5f306e63cea7a8b66658c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69d5d63b4a12eb12c5e13d5e?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Apr 07 |
 | **[Sunrise Community Health](https://www.sunrisecommunityhealth.org/)** | **[Volunteer & Intern Coordinator](https://jobright.ai/jobs/info/69d5cb7acdb525785fbd4760?utm_campaign=1054&utm_source=git)** | Monfort Family Clinic, Evans, CO, US | On Site | Apr 07 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Florida Virtual School](https://flvs.net/)** | **[Human Resource Student Intern](https://jobright.ai/jobs/info/69d57068891d7b11cfd01e4f?utm_campaign=1054&utm_source=git)** | FL - Home Office | Remote | Apr 07 |
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Intern, Organizational Effectiveness](https://jobright.ai/jobs/info/69d56c88706f771673ba3119?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Apr 07 |
 | **[Purpose Financial](https://havepurpose.com/)** | **[HR Operations Inern](https://jobright.ai/jobs/info/69d56c6e706f771673ba30e8?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Apr 07 |
-| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Akron, OH] (Unpaid, Summer 2026)](https://jobright.ai/jobs/info/69d56c6d706f771673ba30e3?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Apr 07 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician for Human Resources - Fort Worth](https://jobright.ai/jobs/info/69d56ac7cfdc6132f9462228?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Apr 07 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d56928706f771673ba2ee4?utm_campaign=1054&utm_source=git)** | WA - Seattle | Hybrid | Apr 07 |
 | **[Jabil](https://www.jabil.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d56742706f771673ba2e27?utm_campaign=1054&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Intern, Organizational Effectiveness](https://jobright.ai/jobs/info/69d56052e63cea7a8b660b76?utm_campaign=1054&utm_source=git)** | La Crosse, Wisconsin | On Site | Apr 07 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d55667706f771673ba2487?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 07 |
 | **[BHC Alhambra Hospital, Inc.](https://www.bhcalhambra.com/)** | **[HUMAN RESOURCES FILE CLERK](https://jobright.ai/jobs/info/69d55440e63cea7a8b66062a?utm_campaign=1054&utm_source=git)** | Rosemead, CA | On Site | Apr 07 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69d5533e366bb95ba55440fc?utm_campaign=1054&utm_source=git)** | California - San Francisco | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
