@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Compensation Analyst or Sr. Compensation Analyst](https://jobright.ai/jobs/info/69d59e36cfdc6132f9463913?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 07 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[HR GENERALIST 2 - 04072026-76675](https://jobright.ai/jobs/info/69d59e2d891d7b11cfd033f7?utm_campaign=1054&utm_source=git)** | Davidson County, TN | On Site | Apr 07 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69d59b3ccfdc6132f9463895?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 07 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern – People Operations](https://jobright.ai/jobs/info/69d59560cfdc6132f9463730?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 07 |
 | **[Sellmark Corporation](https://sellmark.com)** | **[Human Resources Intern - Generalist](https://jobright.ai/jobs/info/69d59173891d7b11cfd02f71?utm_campaign=1054&utm_source=git)** | Mansfield, TX | On Site | Apr 07 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer](https://jobright.ai/jobs/info/69d58df2706f771673ba421e?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 07 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69d5533e366bb95ba55440fc?utm_campaign=1054&utm_source=git)** | California - San Francisco | On Site | Apr 07 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Human Resources Intern (unpaid)](https://jobright.ai/jobs/info/69d551c0891d7b11cfd00e82?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | Apr 07 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d54ac1891d7b11cfd00bbd?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 07 |
-| **[Online Gamera](onlinegamera.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d54979891d7b11cfd00a01?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 07 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Apr 07 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / Admissions Intern (Summer)](https://jobright.ai/jobs/info/69d540d1706f771673ba1a15?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Apr 07 |
 | **[Simon Group Holdings](http://simongroupholdings.com/)** | **[HR Intern](https://jobright.ai/jobs/info/699dd2eace78e77b4fe2e8ba?utm_campaign=1054&utm_source=git)** | Detroit Metro | On Site | Apr 07 |
@@ -121,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Year Round Intern-Support Operations Branch](https://jobright.ai/jobs/info/69d517c0e63cea7a8b65e9f9?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[Intern - Human Resources Talent Acquisition](https://jobright.ai/jobs/info/69d3f430cdb525785fbc4cae?utm_campaign=1054&utm_source=git)** | Bethpage, NY | Hybrid | Apr 07 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69bb882806c1ba00c54e003d?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Apr 07 |
-| **[Lenox Advisors](http://lenoxadvisors.com)** | **[Lenox - HR Intern (NYC)](https://jobright.ai/jobs/info/698186a249964d25b5e48437?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[Trinity Church NYC](https://trinitywallstreet.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d53260706f771673ba13d9?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 07 |
 | **[Service Electric Company](http://serviceelectricco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d50a63366bb95ba5542371?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Apr 07 |
 | **[Freudenberg Home and Cleaning Solutions](http://www.vileda.com/au/)** | **[Human Resources Intern (on-site, year-round, part-time) (f/m/d)](https://jobright.ai/jobs/info/69b85afe3b74eb1e2c860e8d?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Apr 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dunmore](http://www.dunmore.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d4572ce63cea7a8b658f16?utm_campaign=1054&utm_source=git)** | Albuquerque, New Mexico, United States | Remote | Apr 06 |
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Specialist - Journey](https://jobright.ai/jobs/info/69d51bd3cfdc6132f945fbc3?utm_campaign=1054&utm_source=git)** | Chapel Hill, NC | On Site | Apr 06 |
 | **[Edmonds School District](http://www.edmonds.wednet.edu/)** | **[Payroll and Benefits Manager](https://jobright.ai/jobs/info/69d545c7366bb95ba5543a5c?utm_campaign=1054&utm_source=git)** | Lynnwood, WA | On Site | Apr 06 |
-| **[Social Factor](https://socialfactor.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d57be9cfdc6132f9462aea?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
