@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Match Retail](https://www.matchretail.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/69d6e52e48f0c8161d2fbd64?utm_campaign=1054&utm_source=git)** | Mississauga, ON | Hybrid | Apr 08 |
+| **[Selene Finance LP](https://seleneadvantage.com)** | **[Internship - People Ops](https://jobright.ai/jobs/info/69d6e3becfdc6132f946df53?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Apr 08 |
+| **[Schneider Electric](https://www.se.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d6e3be52a5bf580012cc4e?utm_campaign=1054&utm_source=git)** | Mount Juliet, TN | On Site | Apr 08 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6e3bdcfdc6132f946df51?utm_campaign=1054&utm_source=git)** | Twin Cities Area | Hybrid | Apr 08 |
+| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/69d6e3a4e63cea7a8b66cead?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 08 |
+| **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Recruitment Coordinator Intern (Remote - Bilingual Mandarin)](https://jobright.ai/jobs/info/69d6e297366bb95ba55508e8?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | Remote | Apr 08 |
+| **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69d6e296cfdc6132f946de8d?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Apr 08 |
+| **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[HR Intern](https://jobright.ai/jobs/info/69d6e26ae63cea7a8b66cda3?utm_campaign=1054&utm_source=git)** | Tempe, AZ, United States | On Site | Apr 08 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Employee Experience Intern Summer 2026](https://jobright.ai/jobs/info/69d6e26ae63cea7a8b66cda1?utm_campaign=1054&utm_source=git)** | US - Remote (Any Location) | Remote | Apr 08 |
+| **[Natural Factors](https://naturalfactors.com/)** | **[HR Intern - 1 year contract](https://jobright.ai/jobs/info/69d6dc8752a5bf580012c959?utm_campaign=1054&utm_source=git)** | Kelowna Main Facility, 8955 Jim Bailey Crescent, Kelowna, British Columbia, Canada | On Site | Apr 08 |
+| **[PowerSecure, Inc.](http://www.powersecure.com)** | **[Intern - HR](https://jobright.ai/jobs/info/69d6dc7ecfdc6132f946dbfc?utm_campaign=1054&utm_source=git)** | Durham, North Carolina, United States | Hybrid | Apr 08 |
+| **[Pretium Packaging](http://www.pretiumpkg.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d6dc6c366bb95ba5550618?utm_campaign=1054&utm_source=git)** | Aurora, Illinois, United States | On Site | Apr 08 |
+| **[ParsonsKellogg](https://parsonskellogg.com)** | **[Employee Experience Intern Summer 2026](https://jobright.ai/jobs/info/69d6dc6ccfdc6132f946db8b?utm_campaign=1054&utm_source=git)** | US - Remote (Any Location) | Remote | Apr 08 |
+| **[Nautilus International Holding Corporation](https://www.nautilusintl.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/69d6db7e706f771673bae765?utm_campaign=1054&utm_source=git)** | Long Beach, CA 90808, USA | On Site | Apr 08 |
+| ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/69d6db7448f0c8161d2fb8c3?utm_campaign=1054&utm_source=git)** | Houston, TX 77032, USA | On Site | Apr 08 |
+| **[LogRhythm](https://www.logrhythm.com)** | **[Enablement Internship](https://jobright.ai/jobs/info/69d6db6ae63cea7a8b66c9c9?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Director, Human Resources](https://jobright.ai/jobs/info/69d6d59acfdc6132f946d8de?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Apr 08 |
 | **[Natural Factors](https://naturalfactors.com/)** | **[HR Intern - 1 year contract](https://jobright.ai/jobs/info/69d6d43bcfdc6132f946d893?utm_campaign=1054&utm_source=git)** | Kelowna, BC | On Site | Apr 08 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69d6d30848f0c8161d2fb668?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 08 |
@@ -91,18 +107,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58c706f771673bad31c?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58c706f771673bad31b?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58948f0c8161d2fa51a?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58948f0c8161d2fa51c?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58948f0c8161d2fa51d?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
+| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58948f0c8161d2fa51c?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b57d366bb95ba554f1ef?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b57d366bb95ba554f1f0?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b57d366bb95ba554f1f1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b576e63cea7a8b66b6ac?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 08 |
+| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b576e63cea7a8b66b6a8?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b576e63cea7a8b66b6a5?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b576e63cea7a8b66b6ad?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b576e63cea7a8b66b6a8?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Apr 08 |
+| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b576e63cea7a8b66b6ac?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b207cfdc6132f946c6d3?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b207cfdc6132f946c6d4?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b207cfdc6132f946c6d6?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Apr 08 |
+| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b207cfdc6132f946c6d4?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b20652a5bf580012b3d6?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b20652a5bf580012b3d7?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b20552a5bf580012b3d3?utm_campaign=1054&utm_source=git)** | Short Hills, NJ | Hybrid | Apr 08 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: HR Shared Services](https://jobright.ai/jobs/info/69d67d8752a5bf5800129003?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Apr 08 |
 | **[Ordre des CPA du Québec](http://cpaquebec.ca/en/)** | **[Stagiaire/Étudiant(e) - Agent(e), administration et gestion documentaire - été 2026](https://jobright.ai/jobs/info/69d677e6366bb95ba554cc82?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 08 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[HR AI Analytics Intern](https://jobright.ai/jobs/info/69d6732348f0c8161d2f7d5f?utm_campaign=1054&utm_source=git)** | USA - CA - San Jose (Ridder) | On Site | Apr 08 |
-| **[SUMMITHOUSE](summithousehq.com)** | **[Influencer Talent Manager Intern](https://jobright.ai/jobs/info/69d66e6fcfdc6132f9469dce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 08 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Operations Support Associate, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69825b730f6f7e7a2cdb8430?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Apr 08 |
-| **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HR Internship Program Specialist Per Diem](https://jobright.ai/jobs/info/69d66b24e63cea7a8b668c76?utm_campaign=1054&utm_source=git)** | Roslindale, MA | On Site | Apr 08 |
-| ↳ | **[HR Internship Program Specialist Per Diem](https://jobright.ai/jobs/info/69d66af7cfdc6132f9469c37?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Apr 08 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6981122e49964d25b5e3e07d?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Apr 08 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: HR Shared Services](https://jobright.ai/jobs/info/69d666b352a5bf580012879e?utm_campaign=1054&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Apr 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - Provo](https://jobright.ai/jobs/info/69818b15abff4c399aa0ad21?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | Apr 08 |
-| **[Lenox Advisors](http://lenoxadvisors.com)** | **[Corporate Executive Benefits Intern](https://jobright.ai/jobs/info/698181afabff4c399aa08b96?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| **[Toast](https://pos.toasttab.com)** | **[Talent Development & Manager Excellence Intern](https://jobright.ai/jobs/info/69d662bf48f0c8161d2f785c?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 08 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8bfd3b74eb1e2c8a0780?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
-| **[IACMI – The Composites Institute](https://www.iacmi.org)** | **[Intern Coordinator](https://jobright.ai/jobs/info/69d661abcfdc6132f94699d2?utm_campaign=1054&utm_source=git)** | United States | On Site | Apr 08 |
-| **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Higher Promise HR Intern](https://jobright.ai/jobs/info/69d65c2de63cea7a8b66887a?utm_campaign=1054&utm_source=git)** | Bronson Healthcare Group | On Site | Apr 08 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience & Events Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8d8206c1ba00c54e1f65?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
-| **[Skilled Trades Ontario / Métiers spécialisés Ontario](https://www.skilledtradesontario.ca)** | **[Payroll and Benefits Specialist](https://jobright.ai/jobs/info/69d65497706f771673baa47c?utm_campaign=1054&utm_source=git)** | Mississauga, ON | On Site | Apr 08 |
-| **[Cartier](http://www.cartier.com)** | **[Intern, Corporate HR](https://jobright.ai/jobs/info/699d93ba81476f6176b6709c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| **[Air Combat Command](https://www.acc.af.mil/)** | **[HUMAN RESOURCES ASSISTANT.](https://jobright.ai/jobs/info/69d64e9248f0c8161d2f7486?utm_campaign=1054&utm_source=git)** | Patrick AFB, FL | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
