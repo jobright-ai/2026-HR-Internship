@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waterloo Catholic District School Board](https://www.wcdsb.ca/)** | **[PASS – Temporary Payroll Supervisor](https://jobright.ai/jobs/info/69d80fb7b67cec4f9b09a6e6?utm_campaign=1054&utm_source=git)** | Kitchener, ON | On Site | Apr 09 |
+| **[Brant Haldimand Norfolk Catholic District School Board](http://www.bhncdsb.ca)** | **[Senior Payroll and Benefits Administrator - Temporary FT - Catholic Education Centre, Brantford (1.0 FTE)](https://jobright.ai/jobs/info/69d80f5db861c42857c486f9?utm_campaign=1054&utm_source=git)** | Brantford, ON | On Site | Apr 09 |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d80f38738f2f099e89a64a?utm_campaign=1054&utm_source=git)** | Menlo Park, CA | Remote | Apr 09 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/69d80f03f4ea471a51fe38ea?utm_campaign=1054&utm_source=git)** | Bethel, Connecticut | Hybrid | Apr 09 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69d80e6cb67cec4f9b09a46e?utm_campaign=1054&utm_source=git)** | Brea, CA | Hybrid | Apr 09 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[HR/Security Analyst Intern](https://jobright.ai/jobs/info/69d80a66b67cec4f9b09a207?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Apr 09 |
 | **[Schellman](http://schellman.com)** | **[People and Talent Internship](https://jobright.ai/jobs/info/69d80a12869c7e25d859336c?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Apr 09 |
 | **[Charlotte County Board of County Commissioners](http://www.CharlotteCountyFL.gov)** | **[Student Intern](https://jobright.ai/jobs/info/69d80a12f4ea471a51fe35b2?utm_campaign=1054&utm_source=git)** | Port Charlotte, FL | On Site | Apr 09 |
-| **[Paradigm Max Q LLC](https://paradigmmaxq.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d80a02f4ea471a51fe3573?utm_campaign=1054&utm_source=git)** | Stafford, VA | On Site | Apr 09 |
 | **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Analytics Intern - HR & Finance](https://jobright.ai/jobs/info/69d809d5738f2f099e89a2b4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 09 |
 | **[Gerber Plumbing Fixtures](http://gerberonline.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d809c0b67cec4f9b099ff5?utm_campaign=1054&utm_source=git)** | Woodridge, IL | Hybrid | Apr 09 |
 | **[Gravity Diagnostics](https://gravitydiagnostics.com/)** | **[Human Resources -Intern](https://jobright.ai/jobs/info/69d80903f4ea471a51fe308b?utm_campaign=1054&utm_source=git)** | Covington, KY | On Site | Apr 09 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship: Talent Acquisition Programs](https://jobright.ai/jobs/info/69d7ebdbb67cec4f9b0991e8?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Apr 09 |
 | ↳ | **[Summer 2026 Internship: Talent Acquisition Programs](https://jobright.ai/jobs/info/69d7ebd9869c7e25d85922a1?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 09 |
 | **[PROJXON](www.projxon.com)** | **[Culture/Engagement Specialist Intern](https://jobright.ai/jobs/info/69d809859f97a42dc9c19c3a?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 09 |
-| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Human Resources "SharePoint" Intern Summer 2026](https://jobright.ai/jobs/info/6966c117a112b4026614bb4b?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Apr 09 |
 | **[OTG Management](http://www.otgexp.com/)** | **[IAH Talent Acquisition Intern](https://jobright.ai/jobs/info/699f882cce78e77b4fe55475?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Apr 09 |
 | **[Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates](http://www.skadden.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69bb000e569738374140d310?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 | **[Hays County](http://hayscountytx.com)** | **[Veteran Services - Work Study Intern](https://jobright.ai/jobs/info/69d80a11b67cec4f9b09a0c9?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[YES Prep Public Schools](http://www.yesprep.org/)** | **[Payroll Manager](https://jobright.ai/jobs/info/69d7057048f0c8161d2fc5b7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | **[Maverick Power](https://maverickpwr.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d70524706f771673baf3bc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Apr 08 |
 | **[Byrne, Inc.](https://www.byrnedairy.com/)** | **[HR Employment Branding Intern](https://jobright.ai/jobs/info/69d80a1bb67cec4f9b09a0ee?utm_campaign=1054&utm_source=git)** | LaFayette, NY | On Site | Apr 08 |
-| **[Prince Contracting, LLC](http://www.princecontracting.com)** | **[Intern - HR](https://jobright.ai/jobs/info/69d7f163738f2f099e8995bb?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
