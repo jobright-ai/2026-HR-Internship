@@ -57,14 +57,34 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neapco](http://neapco.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d7ba7fb67cec4f9b096f4d?utm_campaign=1054&utm_source=git)** | Belleville, MI | On Site | Apr 09 |
+| **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Recruitment Coordinator Intern (Remote - Bilingual Mandarin)](https://jobright.ai/jobs/info/69d7ba2ab861c42857c45089?utm_campaign=1054&utm_source=git)** | Houston, TX | Remote | Apr 09 |
+| **[Dal-Tile LLC](http://dal-tile.com)** | **[MFG HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/699fff1181476f6176b9f72f?utm_campaign=1054&utm_source=git)** | Sunnyvale, TX | On Site | Apr 09 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Human Resources (International Student)](https://jobright.ai/jobs/info/69d7b9a2f4ea471a51fe0379?utm_campaign=1054&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 09 |
+| ↳ | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/69d7b998b861c42857c44f94?utm_campaign=1054&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 09 |
+| **[Byrne, Inc.](https://www.byrnedairy.com/)** | **[HR Employment Branding Intern](https://jobright.ai/jobs/info/69d7b98bb861c42857c44f68?utm_campaign=1054&utm_source=git)** | Lafayette, New York, United States | On Site | Apr 09 |
+| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b718dd64ebf28d8212508?utm_campaign=1054&utm_source=git)** | Wakefield, MA | On Site | Apr 09 |
+| **[Northeast Alternatives](https://www.nealternatives.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d7b70a869c7e25d858ff4c?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Apr 09 |
+| **[Velociti Services](https://velocitiservices.com)** | **[Unpaid Internship (For Academic Credit Only)](https://jobright.ai/jobs/info/69d7b453f4ea471a51fdff25?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 09 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983b7cf0f6f7e7a2cdd501f?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Apr 09 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bbe8cc45e08b3dc1f7af10?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Apr 09 |
 | **[Cartier](http://www.cartier.com)** | **[Intern, Commercial HR](https://jobright.ai/jobs/info/699d9913e0bddb6acaccf27c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Lifetouch](http://lifetouch.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/699e7741e0bddb6acace13e1?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | Remote | Apr 09 |
 | **[Neapco](http://neapco.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d7a9eeb67cec4f9b095592?utm_campaign=1054&utm_source=git)** | Belleville, Belleville, MI, US | On Site | Apr 09 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Recruiter-Summer 2026](https://jobright.ai/jobs/info/69d7a9eb738f2f099e8955a0?utm_campaign=1054&utm_source=git)** | WI - Brillion | On Site | Apr 09 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Labor Relations Intern - Anaheim, Fall 2026](https://jobright.ai/jobs/info/69d7b3bb9f97a42dc9c16796?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Apr 09 |
+| ↳ | **[Labor Relations Intern - Orlando, Fall 2026](https://jobright.ai/jobs/info/69d7b460f4ea471a51fdff48?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Labor Relations Intern - Orlando, Fall 2026](https://jobright.ai/jobs/info/69d7b4e3738f2f099e896af8?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 09 |
+| ↳ | **[Labor Relations Intern - Anaheim, Fall 2026](https://jobright.ai/jobs/info/69d7b45ff4ea471a51fdff41?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Apr 09 |
 | **[G2](https://www.g2.com)** | **[People Analytics & Systems Intern](https://jobright.ai/jobs/info/699e3967ce78e77b4fe34dc4?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 09 |
 | **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[Chief Human Resource Officer 2026-2027 School Year (4947)](https://jobright.ai/jobs/info/69d7ac37f4ea471a51fdee23?utm_campaign=1054&utm_source=git)** | Queen Creek, AZ | On Site | Apr 09 |
 | **[Atlantia Clinical Trials](http://www.atlantiaclinicaltrials.com)** | **[Participant Recruitment Intern (Clinical Trials)](https://jobright.ai/jobs/info/69d77d84e63cea7a8b6721d0?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d47fcecfdc6132f945b5ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Apr 09 |
+| **[Generac](https://www.generac.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/69d7b37db861c42857c44a0f?utm_campaign=1054&utm_source=git)** | Waukesha, WI | On Site | Apr 09 |
+| **[Pretium Packaging](http://www.pretiumpkg.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d7b3ab9f97a42dc9c1676e?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Apr 09 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/69ceec0254f00230c6d04d53?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Apr 09 |
+| **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d7b45e738f2f099e8969f9?utm_campaign=1054&utm_source=git)** | Pico Rivera, CA | On Site | Apr 09 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69d7b958869c7e25d85900b1?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 09 |
 | **[Coast Mountain College](https://www.coastmountaincollege.ca/)** | **[Director of Human Resources & Payroll](https://jobright.ai/jobs/info/69d75983e63cea7a8b670fcf?utm_campaign=1054&utm_source=git)** | Terrace, BC | On Site | Apr 09 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Inclusion & Engagement](https://jobright.ai/jobs/info/69d74c7f706f771673bb23e3?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 08 |
 | **[NextLabs](http://www.nextlabs.com)** | **[Recruitment & Business Operations Coordinator (Intern)](https://jobright.ai/jobs/info/69d74789706f771673bb2317?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Apr 08 |
@@ -126,35 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/69d6b71e52a5bf580012b4f6?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b36570ad360c0340a87d3a?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Apr 08 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58c706f771673bad319?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58c706f771673bad31c?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58c706f771673bad31b?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58948f0c8161d2fa51d?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
+| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58c706f771673bad31c?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58948f0c8161d2fa51a?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58948f0c8161d2fa51c?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
+| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b58948f0c8161d2fa51d?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b57d366bb95ba554f1f0?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b57d366bb95ba554f1ef?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b57d366bb95ba554f1f1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b576e63cea7a8b66b6a5?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Apr 08 |
+| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b57d366bb95ba554f1ef?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b576e63cea7a8b66b6ad?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b576e63cea7a8b66b6a8?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Apr 08 |
 | ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b576e63cea7a8b66b6ac?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b207cfdc6132f946c6d4?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b207cfdc6132f946c6d3?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b207cfdc6132f946c6d6?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b20652a5bf580012b3d6?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b20652a5bf580012b3d7?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 08 |
-| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b20552a5bf580012b3d3?utm_campaign=1054&utm_source=git)** | Short Hills, NJ | Hybrid | Apr 08 |
-| **[General Atomics](http://www.ga.com)** | **[Senior TA Specialist - Intern Program & University Relations](https://jobright.ai/jobs/info/69d6a9e8706f771673bacf81?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 08 |
-| **[VISION TRANSPORTATION, INC](www.visionmidwest.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69d6a8d6cfdc6132f946c28a?utm_campaign=1054&utm_source=git)** | Twin Cities Area | On Site | Apr 08 |
-| **[Five Guys](http://Www.fiveguys.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/69d6a8bd366bb95ba554edd0?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Apr 08 |
-| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/69d6a500706f771673babf88?utm_campaign=1054&utm_source=git)** | US | Remote | Apr 08 |
-| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/69d6a4fce63cea7a8b66a2e4?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Apr 08 |
-| **[Framatome](http://www.framatome.com)** | **[HR Support Intern](https://jobright.ai/jobs/info/69d6a4f7e63cea7a8b66a2bc?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | Hybrid | Apr 08 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/69d6a4f652a5bf580012a042?utm_campaign=1054&utm_source=git)** | Queens, NY, US | On Site | Apr 08 |
-| ↳ | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/69d6a4f2cfdc6132f946b31d?utm_campaign=1054&utm_source=git)** | US-NY-Queens | On Site | Apr 08 |
-| **[Framatome](http://www.framatome.com)** | **[HR Support Intern](https://jobright.ai/jobs/info/69d6a4f0cfdc6132f946b31c?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | Hybrid | Apr 08 |
-| **[Reinhart Boerner Van Deuren s.c.](http://www.reinhartlaw.com)** | **[Learning and Talent Development Intern](https://jobright.ai/jobs/info/69d6a4b248f0c8161d2f911e?utm_campaign=1054&utm_source=git)** | Milwaukee | On Site | Apr 08 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/69d6a3c348f0c8161d2f8fe4?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 08 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Human Resources.](https://jobright.ai/jobs/info/69d707c7cfdc6132f946e80f?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Apr 08 |
-| ↳ | **[2027 – Summer Analyst Internship - Corporate Functions, Human Resources](https://jobright.ai/jobs/info/69d7057948f0c8161d2fc5b8?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Apr 08 |
+| ↳ | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69d6b576e63cea7a8b66b6a8?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
