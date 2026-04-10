@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69bbd91d5b89c002acf09eea?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Apr 10 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69a89eeb79f3f4037f42bb82?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | Apr 10 |
+| **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d8d16a9f97a42dc9c1e7e7?utm_campaign=1054&utm_source=git)** | Pico Rivera, CA | On Site | Apr 10 |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/69a3e8a6359fe034b1ced4c9?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Apr 10 |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Employee Relations Intern (Remote)](https://jobright.ai/jobs/info/699fcec253d97f23ee655388?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 10 |
+| **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6982567c0a9e07331f8d5556?utm_campaign=1054&utm_source=git)** | Santa Clarita, California, United States | On Site | Apr 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69d8c4eb738f2f099e89e9ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69d8b353f748bc5d08a45420?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 10 |
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8b1f3b861c42857c4c543?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Apr 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neapco](http://neapco.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d7ba7fb67cec4f9b096f4d?utm_campaign=1054&utm_source=git)** | Belleville, MI | On Site | Apr 09 |
 | **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Recruitment Coordinator Intern (Remote - Bilingual Mandarin)](https://jobright.ai/jobs/info/69d7ba2ab861c42857c45089?utm_campaign=1054&utm_source=git)** | Houston, TX | Remote | Apr 09 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[MFG HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/699fff1181476f6176b9f72f?utm_campaign=1054&utm_source=git)** | Sunnyvale, TX | On Site | Apr 09 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Human Resources (International Student)](https://jobright.ai/jobs/info/69d7b9a2f4ea471a51fe0379?utm_campaign=1054&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 09 |
-| ↳ | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/69d7b998b861c42857c44f94?utm_campaign=1054&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 09 |
-| **[Byrne, Inc.](https://www.byrnedairy.com/)** | **[HR Employment Branding Intern](https://jobright.ai/jobs/info/69d7b98bb861c42857c44f68?utm_campaign=1054&utm_source=git)** | Lafayette, New York, United States | On Site | Apr 09 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Industrial Services - Summer 2026 Internship](https://jobright.ai/jobs/info/6982519a0f6f7e7a2cdb781f?utm_campaign=1054&utm_source=git)** | Deer Park, TX | On Site | Apr 09 |
-| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b718dd64ebf28d8212508?utm_campaign=1054&utm_source=git)** | Wakefield, MA | On Site | Apr 09 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/69d876fcb67cec4f9b09c986?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
