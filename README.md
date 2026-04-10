@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Human Resources (July Start)](https://jobright.ai/jobs/info/69d943715356a60f40fd89fe?utm_campaign=1054&utm_source=git)** | Omni Boston Hotel at the Seaport, 450 Summer Street, Boston, Massachusetts, United States of America | On Site | Apr 10 |
+| **[KaarTech](https://www.kaartech.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d93fe4b67cec4f9b0a0be8?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 10 |
+| **[ARCH](http://www.archglobalprecision.com/)** | **[HR Intern 1](https://jobright.ai/jobs/info/69d93ce1f748bc5d08a49f20?utm_campaign=1054&utm_source=git)** | Bloomfield Hills, MI | Hybrid | Apr 10 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Rhinelander](https://jobright.ai/jobs/info/69d93c99869c7e25d8599881?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | Apr 10 |
+| **[KOMPAN Inc Americas](https://www.kompan.com/en/us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d93c675356a60f40fd850a?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 10 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: HR Intern](https://jobright.ai/jobs/info/69a51077359fe034b1cfa6e9?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Adult Protective Services Program](https://jobright.ai/jobs/info/6997c31581476f6176afeea2?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69d93425738f2f099e8a05b4?utm_campaign=1054&utm_source=git)** | West Columbia, SC | On Site | Apr 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Eugene, OR](https://jobright.ai/jobs/info/69bd2b4c393a1008f7428e54?utm_campaign=1054&utm_source=git)** | Springfield, OR | On Site | Apr 10 |
 | **[Mastermind.com](https://mastermind.com)** | **[HR Internship](https://jobright.ai/jobs/info/69d92d8d738f2f099e8a02d0?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 10 |
@@ -72,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69c52cfdf4b6c932e4439bb1?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 10 |
 | **[AeroSpec, Inc.](http://aerospecinc.com)** | **[HR-People Operations Intern (Manufacturing/Engineering)](https://jobright.ai/jobs/info/69d91d339f97a42dc9c1f932?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Apr 10 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Talent Management Intern](https://jobright.ai/jobs/info/69d916db9f97a42dc9c1f715?utm_campaign=1054&utm_source=git)** | Overland Park, Kansas | On Site | Apr 10 |
+| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69682ecd1703f05405a9d5e2?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Apr 10 |
 | **[Crane Currency](http://www.cranecurrency.com/)** | **[HR Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd0bbf4828227293ff43ad?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Apr 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Apr 10 |
 | **[QTC Management, Inc.](http://www.qtcm.com)** | **[DoW SkillBridge Internship – Strategic Sourcing Specialist (Active Duty Military Only)](https://jobright.ai/jobs/info/69d90f899f97a42dc9c1f44b?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69d8047ab67cec4f9b09997a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH (USA) | On Site | Apr 09 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[HR AI Innovation Intern](https://jobright.ai/jobs/info/69d7fcf3b861c42857c479d6?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | Apr 09 |
 | **[AMBA](https://amba.info)** | **[AMBA Internship Opportunities](https://jobright.ai/jobs/info/69d7fc81b861c42857c47912?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern, Dearborn](https://jobright.ai/jobs/info/69832c1b01214b4cdacadf75?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Apr 09 |
-| **[Village Plumbing, Air & Electric](https://villageplumbing.com/)** | **[Intern- Human Resources and Recruiting](https://jobright.ai/jobs/info/69d7f91d869c7e25d85929a3?utm_campaign=1054&utm_source=git)** | HOUSTON,TX,US | On Site | Apr 09 |
-| **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- HRIS Implementation](https://jobright.ai/jobs/info/69d7f8c5f4ea471a51fe2af1?utm_campaign=1054&utm_source=git)** | 411 West 8th Street, Odessa, TX, United States | On Site | Apr 09 |
-| **[VB Spine](https://vbspineco.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d7f18ab861c42857c476f0?utm_campaign=1054&utm_source=git)** | Leesburg, VA | On Site | Apr 09 |
-| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69d7f116b861c42857c47660?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Apr 09 |
-| **[YMCA of Greater Seattle](http://www.seattleymca.org/)** | **[Social Services Intern - WAGES Program](https://jobright.ai/jobs/info/69d7f0c9f4ea471a51fe2911?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
-| **[5WPR](http://www.5wpr.com)** | **[People Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69d7efff738f2f099e899539?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Apr 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern / Greater New York](https://jobright.ai/jobs/info/69d7ef24b861c42857c475be?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
