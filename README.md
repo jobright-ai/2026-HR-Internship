@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sono Bello](http://sonobello.com)** | **[Intern – People Operations](https://jobright.ai/jobs/info/69d97c05738f2f099e8a2256?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
+| ↳ | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69d97a095356a60f40fd9fc9?utm_campaign=1054&utm_source=git)** | Norwell, MA | Hybrid | Apr 10 |
+| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69d979ff5356a60f40fd9fb9?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Apr 10 |
+| **[Utah SHRM](https://utahshrm.org)** | **[Intern, Labor Economics](https://jobright.ai/jobs/info/69d979ef738f2f099e8a20df?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Apr 10 |
+| **[Appalachian State University](http://www.appstate.edu/)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69d978ffb67cec4f9b0a23e4?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Apr 10 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Talent Management Intern](https://jobright.ai/jobs/info/69d976d19f97a42dc9c21b32?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 10 |
+| **[AeroSpec, Inc.](http://aerospecinc.com)** | **[HR-People Operations Intern (Manufacturing/Engineering)](https://jobright.ai/jobs/info/69d976a49f97a42dc9c21a9e?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Apr 10 |
+| **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/69d9761bf748bc5d08a4b541?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d96e46738f2f099e8a1b25?utm_campaign=1054&utm_source=git)** | USA, New Jersey, Elizabeth, 07207 | On Site | Apr 10 |
 | **[GA Telesis](http://www.gatelesis.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d96d105356a60f40fd9aca?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 10 |
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69d96c129f97a42dc9c2179e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 10 |
@@ -67,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Volunteer Outreach Internship](https://jobright.ai/jobs/info/69d966135356a60f40fd9737?utm_campaign=1054&utm_source=git)** | Manhattan | On Site | Apr 10 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Student Worker - Demographic Discovery Intern](https://jobright.ai/jobs/info/69d965d0738f2f099e8a19a2?utm_campaign=1054&utm_source=git)** | Delaware, OH, US | On Site | Apr 10 |
 | **[ITS Logistics](http://its4logistics.com)** | **[Recruiting Associate (Internship) - Fort Worth](https://jobright.ai/jobs/info/69d95f9d738f2f099e8a18b6?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
-| **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/69d95f9df748bc5d08a4afd9?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d95f94f748bc5d08a4af97?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 10 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[HR Intern - Kutztown University](https://jobright.ai/jobs/info/69d95f84f748bc5d08a4af34?utm_campaign=1054&utm_source=git)** | Kutztown, PA, US, 19530 | On Site | Apr 10 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Recruiting Intern (Fall 2026)](https://jobright.ai/jobs/info/69d95e7f738f2f099e8a165f?utm_campaign=1054&utm_source=git)** | Hershey, PA 17033, USA | On Site | Apr 10 |
@@ -100,10 +108,12 @@ For a complete list, click the following sortable link below:
 | **[AeroSpec, Inc.](http://aerospecinc.com)** | **[HR-People Operations Intern (Manufacturing/Engineering)](https://jobright.ai/jobs/info/69d91d339f97a42dc9c1f932?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Apr 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69d964a5b67cec4f9b0a1c9b?utm_campaign=1054&utm_source=git)** | South Dakota, United States | Remote | Apr 10 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Talent Management Intern](https://jobright.ai/jobs/info/69d916db9f97a42dc9c1f715?utm_campaign=1054&utm_source=git)** | Overland Park, Kansas | On Site | Apr 10 |
-| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69682ecd1703f05405a9d5e2?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Apr 10 |
+| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69680bc7f25a380066966019?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Apr 10 |
+| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69682ecd1703f05405a9d5e2?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Apr 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Apr 10 |
 | **[QTC Management, Inc.](http://www.qtcm.com)** | **[DoW SkillBridge Internship – Strategic Sourcing Specialist (Active Duty Military Only)](https://jobright.ai/jobs/info/69d90f899f97a42dc9c1f44b?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f8976f36db06ef04a343?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Apr 10 |
+| **[Crane Currency](http://www.cranecurrency.com/)** | **[HR Intern - Talent Acquisition](https://jobright.ai/jobs/info/69bd0bbf4828227293ff43ad?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Apr 10 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Human Resources (Business Support)](https://jobright.ai/jobs/info/699f6cb9ce78e77b4fe53041?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Apr 10 |
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d906d7869c7e25d8598777?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Apr 10 |
 | **[Quva](http://www.quvapharma.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc767e45e08b3dc1f935c2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Apr 10 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allient](http://www.alliedmotion.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d8376d738f2f099e89b76e?utm_campaign=1054&utm_source=git)** | Oshkosh, WI | On Site | Apr 09 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d83767869c7e25d8594756?utm_campaign=1054&utm_source=git)** | Newport, KY | On Site | Apr 09 |
 | **[Benco Dental](https://www.benco.com/)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/69d8374eb861c42857c49768?utm_campaign=1054&utm_source=git)** | Pittston, PA | On Site | Apr 09 |
-| **[Allient](http://www.alliedmotion.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d833739f97a42dc9c1b07f?utm_campaign=1054&utm_source=git)** | OSHKOSH, WI, US | On Site | Apr 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Sheboygan](https://jobright.ai/jobs/info/69d830bfb67cec4f9b09b35c?utm_campaign=1054&utm_source=git)** | Sheboygan, WI | On Site | Apr 09 |
-| **[University of Central Florida](https://www.ucf.edu)** | **[Human Resources Coordinator I](https://jobright.ai/jobs/info/69d82802b67cec4f9b09b068?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Apr 09 |
-| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d825969f97a42dc9c1aae0?utm_campaign=1054&utm_source=git)** | Raleigh, NC, US | On Site | Apr 09 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d82594b67cec4f9b09af73?utm_campaign=1054&utm_source=git)** | US-NC-Raleigh | On Site | Apr 09 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Talent Acquisition Programs](https://jobright.ai/jobs/info/69d8251ef4ea471a51fe414b?utm_campaign=1054&utm_source=git)** | Duluth, GA | On Site | Apr 09 |
-| **[Heritage Holding](http://heritage-holding.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d82518738f2f099e89ae3b?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 09 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Talent Acquisition Programs](https://jobright.ai/jobs/info/69d8247fb861c42857c48efa?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 09 |
-| ↳ | **[Summer 2026 Internship: Talent Acquisition Programs](https://jobright.ai/jobs/info/69d8247bb67cec4f9b09ae7a?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Apr 09 |
-| **[Northland Area Federal Credit Union](https://www.northlandcu.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d82464b67cec4f9b09ae05?utm_campaign=1054&utm_source=git)** | Alpena, MI | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
