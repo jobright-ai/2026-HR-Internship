@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69d93425738f2f099e8a05b4?utm_campaign=1054&utm_source=git)** | West Columbia, SC | On Site | Apr 10 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Eugene, OR](https://jobright.ai/jobs/info/69bd2b4c393a1008f7428e54?utm_campaign=1054&utm_source=git)** | Springfield, OR | On Site | Apr 10 |
+| **[Mastermind.com](https://mastermind.com)** | **[HR Internship](https://jobright.ai/jobs/info/69d92d8d738f2f099e8a02d0?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 10 |
+| **[Emerest](https://www.emerest.com )** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d421fb891d7b11cfcf7a88?utm_campaign=1054&utm_source=git)** | Greater St. Louis | On Site | Apr 10 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 10 |
-| **[KaarTech](https://www.kaartech.com)** | **[HR Intern - OPT](https://jobright.ai/jobs/info/69d9281d9f97a42dc9c1fe14?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 10 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d927425356a60f40fd7f2b?utm_campaign=1054&utm_source=git)** | Durham, North Carolina | On Site | Apr 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/69bc7d6145e08b3dc1f93ba7?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Apr 10 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69d92559869c7e25d85992bb?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Apr 10 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6982567c0a9e07331f8d5556?utm_campaign=1054&utm_source=git)** | Santa Clarita, California, United States | On Site | Apr 10 |
 | **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[Employee/Team Relations Internship (Multifamily Housing Industry) (Summer 2026)](https://jobright.ai/jobs/info/69d8eb2e869c7e25d859810d?utm_campaign=1054&utm_source=git)** | Franktown, CO | On Site | Apr 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69d8c4eb738f2f099e89e9ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 10 |
-| **[PNC](http://www.pnc.com)** | **[Recruiting Advisor-- Mortgage](https://jobright.ai/jobs/info/69d8ec91f748bc5d08a46a27?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 10 |
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69d8b353f748bc5d08a45420?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 10 |
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8b1f3b861c42857c4c543?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Apr 10 |
 | **[Madison Metropolitan School District](https://www.madison.k12.wi.us/)** | **[25-26 - Doyle - Payroll Supervisor - 1.0 FTE](https://jobright.ai/jobs/info/69d8987cb67cec4f9b09db24?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[YMCA of Greater Seattle](http://www.seattleymca.org/)** | **[Social Services Intern - WAGES Program](https://jobright.ai/jobs/info/69d7f0c9f4ea471a51fe2911?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
 | **[5WPR](http://www.5wpr.com)** | **[People Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69d7efff738f2f099e899539?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Apr 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern / Greater New York](https://jobright.ai/jobs/info/69d7ef24b861c42857c475be?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Apr 09 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69d7ec919f97a42dc9c18ecb?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 09 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Talent Acquisition Operations and Projects](https://jobright.ai/jobs/info/69d7ebde9f97a42dc9c18d1d?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
