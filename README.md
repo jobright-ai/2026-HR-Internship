@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Biotechnology Center (NCBiotech)](http://www.ncbiotech.org/)** | **[Talent and Culture Development (HR) Intern](https://jobright.ai/jobs/info/69d94962738f2f099e8a0dd6?utm_campaign=1054&utm_source=git)** | Research Triangle Park, NC, US | Hybrid | Apr 10 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Human Resources (July Start)](https://jobright.ai/jobs/info/69d943715356a60f40fd89fe?utm_campaign=1054&utm_source=git)** | Omni Boston Hotel at the Seaport, 450 Summer Street, Boston, Massachusetts, United States of America | On Site | Apr 10 |
 | **[KaarTech](https://www.kaartech.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d93fe4b67cec4f9b0a0be8?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 10 |
 | **[ARCH](http://www.archglobalprecision.com/)** | **[HR Intern 1](https://jobright.ai/jobs/info/69d93ce1f748bc5d08a49f20?utm_campaign=1054&utm_source=git)** | Bloomfield Hills, MI | Hybrid | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schellman](http://schellman.com)** | **[People and Talent Internship](https://jobright.ai/jobs/info/69d8047cb67cec4f9b099984?utm_campaign=1054&utm_source=git)** | Remote - Nationwide | Remote | Apr 09 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69d8047ab67cec4f9b09997a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH (USA) | On Site | Apr 09 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[HR AI Innovation Intern](https://jobright.ai/jobs/info/69d7fcf3b861c42857c479d6?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | Apr 09 |
-| **[AMBA](https://amba.info)** | **[AMBA Internship Opportunities](https://jobright.ai/jobs/info/69d7fc81b861c42857c47912?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
