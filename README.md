@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexthink](http://www.nexthink.com)** | **[People Analytics & AI Intern](https://jobright.ai/jobs/info/69d8dddcb67cec4f9b09f093?utm_campaign=1054&utm_source=git)** | Boston, MA, USA | Hybrid | Apr 10 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69bbd91d5b89c002acf09eea?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Apr 10 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69a89eeb79f3f4037f42bb82?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | Apr 10 |
 | **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d8d16a9f97a42dc9c1e7e7?utm_campaign=1054&utm_source=git)** | Pico Rivera, CA | On Site | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California State University, Fresno](https://csufresno.edu)** | **[Assistant Director of Recruiting](https://jobright.ai/jobs/info/699f936523374b3b6e6b60b8?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
 | **[Neapco](http://neapco.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d7ba7fb67cec4f9b096f4d?utm_campaign=1054&utm_source=git)** | Belleville, MI | On Site | Apr 09 |
 | **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Recruitment Coordinator Intern (Remote - Bilingual Mandarin)](https://jobright.ai/jobs/info/69d7ba2ab861c42857c45089?utm_campaign=1054&utm_source=git)** | Houston, TX | Remote | Apr 09 |
-| **[Dal-Tile LLC](http://dal-tile.com)** | **[MFG HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/699fff1181476f6176b9f72f?utm_campaign=1054&utm_source=git)** | Sunnyvale, TX | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
