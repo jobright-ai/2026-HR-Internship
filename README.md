@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[HR Admin Intern - Fall 2026 - Athletics Food & Beverage](https://jobright.ai/jobs/info/69d86dedf4ea471a51fe5b0e?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Apr 09 |
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8615db861c42857c4a268?utm_campaign=1054&utm_source=git)** | Long Beach, California, United States | On Site | Apr 09 |
 | **[Vidoori Inc.](https://www.vidoori.com/)** | **[People & Culture Summer Intern](https://jobright.ai/jobs/info/69d8535cb67cec4f9b09bd1e?utm_campaign=1054&utm_source=git)** | Hyattsville, MD | Hybrid | Apr 09 |
 | **[St. Tammany Health System](https://www.sttammany.health)** | **[HR Intern](https://jobright.ai/jobs/info/69d8535bb67cec4f9b09bd1d?utm_campaign=1054&utm_source=git)** | Covington, LA | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cartier](http://www.cartier.com)** | **[Intern, Commercial HR](https://jobright.ai/jobs/info/699d9913e0bddb6acaccf27c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Neapco](http://neapco.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d7a9eeb67cec4f9b095592?utm_campaign=1054&utm_source=git)** | Belleville, Belleville, MI, US | On Site | Apr 09 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Recruiter-Summer 2026](https://jobright.ai/jobs/info/69d7a9eb738f2f099e8955a0?utm_campaign=1054&utm_source=git)** | WI - Brillion | On Site | Apr 09 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Labor Relations Intern - Anaheim, Fall 2026](https://jobright.ai/jobs/info/69d7b3bb9f97a42dc9c16796?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
