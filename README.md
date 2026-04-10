@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Madison Metropolitan School District](https://www.madison.k12.wi.us/)** | **[25-26 - Doyle - Payroll Supervisor - 1.0 FTE](https://jobright.ai/jobs/info/69d8987cb67cec4f9b09db24?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 09 |
 | **[Make-A-Wish Alaska and Washington](http://wish.org/akwa)** | **[Volunteer Department Internship](https://jobright.ai/jobs/info/69d87efb738f2f099e89d108?utm_campaign=1054&utm_source=git)** | REMOTE-United States | Remote | Apr 09 |
 | **[Stantec](http://www.stantec.com)** | **[Functional Analyst, HRMS](https://jobright.ai/jobs/info/69d877d6869c7e25d8595e15?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
 | **[Hays County](http://hayscountytx.com)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/69d877c6738f2f099e89cdd9?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Apr 09 |
@@ -107,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Savvas Learning Company](https://www.savvas.com)** | **[HR AI Innovation Intern](https://jobright.ai/jobs/info/69d7fcf3b861c42857c479d6?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | Apr 09 |
 | **[AMBA](https://amba.info)** | **[AMBA Internship Opportunities](https://jobright.ai/jobs/info/69d7fc81b861c42857c47912?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern, Dearborn](https://jobright.ai/jobs/info/69832c1b01214b4cdacadf75?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Apr 09 |
+| **[CN](http://www.cn.ca)** | **[Intern, HR - Indigenous- EN](https://jobright.ai/jobs/info/69d8960bf748bc5d08a44082?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 09 |
 | **[Village Plumbing, Air & Electric](https://villageplumbing.com/)** | **[Intern- Human Resources and Recruiting](https://jobright.ai/jobs/info/69d7f91d869c7e25d85929a3?utm_campaign=1054&utm_source=git)** | HOUSTON,TX,US | On Site | Apr 09 |
 | **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- HRIS Implementation](https://jobright.ai/jobs/info/69d7f8c5f4ea471a51fe2af1?utm_campaign=1054&utm_source=git)** | 411 West 8th Street, Odessa, TX, United States | On Site | Apr 09 |
 | **[VB Spine](https://vbspineco.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d7f18ab861c42857c476f0?utm_campaign=1054&utm_source=git)** | Leesburg, VA | On Site | Apr 09 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[PROJXON](www.projxon.com)** | **[Culture/Engagement Specialist Intern](https://jobright.ai/jobs/info/69d809859f97a42dc9c19c3a?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 09 |
 | **[OTG Management](http://www.otgexp.com/)** | **[IAH Talent Acquisition Intern](https://jobright.ai/jobs/info/699f882cce78e77b4fe55475?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Apr 09 |
 | **[Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates](http://www.skadden.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69bb000e569738374140d310?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
-| **[Hays County](http://hayscountytx.com)** | **[Veteran Services - Work Study Intern](https://jobright.ai/jobs/info/69d80a11b67cec4f9b09a0c9?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Apr 09 |
 | **[Hood Packaging Corporation](http://hoodpkg.com)** | **[Three month contract - Human Ressources Intern](https://jobright.ai/jobs/info/69d7e4be9f97a42dc9c18b79?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 09 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[HR Intern Distribution Centre](https://jobright.ai/jobs/info/69d75fe3e63cea7a8b6711a1?utm_campaign=1054&utm_source=git)** | Etobicoke, ON | On Site | Apr 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/698242fb0f6f7e7a2cdb6c2a?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-op - Employee Engagement](https://jobright.ai/jobs/info/6966f7bba135876680843d8c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | Hybrid | Apr 09 |
 | **[Velociti Services](https://velocitiservices.com)** | **[Unpaid Internship (For Academic Credit Only)](https://jobright.ai/jobs/info/69d7b453f4ea471a51fdff25?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 09 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983b7cf0f6f7e7a2cdd501f?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Apr 09 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bbe8cc45e08b3dc1f7af10?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
