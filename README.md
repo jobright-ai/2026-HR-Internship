@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Human Resources (Business Support)](https://jobright.ai/jobs/info/699f6cb9ce78e77b4fe53041?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Apr 10 |
+| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d906d7869c7e25d8598777?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Apr 10 |
+| **[Quva](http://www.quvapharma.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc767e45e08b3dc1f935c2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Apr 10 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Apr 10 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 10 |
 | **[Double Good](https://www.doublegood.com/)** | **[People & Culture Intern (Summer 2026)](https://jobright.ai/jobs/info/69bcafdd45e08b3dc1f972d4?utm_campaign=1054&utm_source=git)** | Elmhurst, IL | On Site | Apr 10 |
-| **[Quva](http://www.quvapharma.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc75984828227293fe56b6?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Apr 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1a6348f733a5c36e8df?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Apr 10 |
 | **[Nexthink](http://www.nexthink.com)** | **[People Analytics & AI Intern](https://jobright.ai/jobs/info/69d8eb365356a60f40fd6cca?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 10 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Pension Administration - Internship](https://jobright.ai/jobs/info/69d8e9e7f748bc5d08a46919?utm_campaign=1054&utm_source=git)** | Dublin - Charlotte | Hybrid | Apr 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Savvas Learning Company](https://www.savvas.com)** | **[HR  AI Innovation Intern](https://jobright.ai/jobs/info/69d7d71db861c42857c46c43?utm_campaign=1054&utm_source=git)** | Chandler, AZ, USA | Hybrid | Apr 09 |
 | **[Prairie Band Construction](https://prairiebandllc.com/Companies/PrairieBandConstruction.aspx)** | **[IT Staffing Intern](https://jobright.ai/jobs/info/69d7d71c869c7e25d8591da2?utm_campaign=1054&utm_source=git)** | Mayetta,KS,US | On Site | Apr 09 |
 | **[Prince Contracting, LLC](http://www.princecontracting.com)** | **[Intern - HR](https://jobright.ai/jobs/info/69d7d7029f97a42dc9c1871a?utm_campaign=1054&utm_source=git)** | Tampa, Florida, United States | On Site | Apr 09 |
-| **[Galaxy](https://www.galaxy.com)** | **[2026 Onboarding Internship - NYC](https://jobright.ai/jobs/info/69bb0d7d569738374140ff5e?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac8f967a69734cac5e0cc?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Apr 09 |
-| ↳ | **[Summer 2026 Management Trainee Intern Port St Lucie](https://jobright.ai/jobs/info/6982d8fe8232105a2d0b56e8?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Apr 09 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69d7d0cdb67cec4f9b09806e?utm_campaign=1054&utm_source=git)** | Nashville Area | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
