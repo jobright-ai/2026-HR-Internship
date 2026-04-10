@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69d844969f97a42dc9c1b5c1?utm_campaign=1054&utm_source=git)** | Brea, CA | Hybrid | Apr 09 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69d84425b861c42857c49a18?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
+| **[Make-A-Wish Alaska and Washington](http://wish.org/akwa)** | **[Volunteer Department Intern - Seattle or Spokane, WA](https://jobright.ai/jobs/info/69d83be5f4ea471a51fe4c0e?utm_campaign=1054&utm_source=git)** | Spokane, WA | Hybrid | Apr 09 |
 | **[Allient](http://www.alliedmotion.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d8376d738f2f099e89b76e?utm_campaign=1054&utm_source=git)** | Oshkosh, WI | On Site | Apr 09 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d83767869c7e25d8594756?utm_campaign=1054&utm_source=git)** | Newport, KY | On Site | Apr 09 |
 | **[Benco Dental](https://www.benco.com/)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/69d8374eb861c42857c49768?utm_campaign=1054&utm_source=git)** | Pittston, PA | On Site | Apr 09 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[American Century Investments](https://www.americancentury.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d81edfb67cec4f9b09aa85?utm_campaign=1054&utm_source=git)** | Kansas City, Missouri | On Site | Apr 09 |
 | **[Waterloo Catholic District School Board](https://www.wcdsb.ca/)** | **[PASS – Temporary Payroll Supervisor](https://jobright.ai/jobs/info/69d80fb7b67cec4f9b09a6e6?utm_campaign=1054&utm_source=git)** | Kitchener, ON | On Site | Apr 09 |
 | **[Brant Haldimand Norfolk Catholic District School Board](http://www.bhncdsb.ca)** | **[Senior Payroll and Benefits Administrator - Temporary FT - Catholic Education Centre, Brantford (1.0 FTE)](https://jobright.ai/jobs/info/69d80f5db861c42857c486f9?utm_campaign=1054&utm_source=git)** | Brantford, ON | On Site | Apr 09 |
-| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d80f38738f2f099e89a64a?utm_campaign=1054&utm_source=git)** | Menlo Park, CA | Remote | Apr 09 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/69d80f03f4ea471a51fe38ea?utm_campaign=1054&utm_source=git)** | Bethel, Connecticut | Hybrid | Apr 09 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69d80e6cb67cec4f9b09a46e?utm_campaign=1054&utm_source=git)** | Brea, CA | Hybrid | Apr 09 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[HR/Security Analyst Intern](https://jobright.ai/jobs/info/69d80a66b67cec4f9b09a207?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Apr 09 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Cartier](http://www.cartier.com)** | **[Intern, Commercial HR](https://jobright.ai/jobs/info/699d9913e0bddb6acaccf27c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Neapco](http://neapco.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d7a9eeb67cec4f9b095592?utm_campaign=1054&utm_source=git)** | Belleville, Belleville, MI, US | On Site | Apr 09 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Recruiter-Summer 2026](https://jobright.ai/jobs/info/69d7a9eb738f2f099e8955a0?utm_campaign=1054&utm_source=git)** | WI - Brillion | On Site | Apr 09 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Labor Relations Intern - Orlando, Fall 2026](https://jobright.ai/jobs/info/69d7b460f4ea471a51fdff48?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 09 |
-| ↳ | **[Labor Relations Intern - Anaheim, Fall 2026](https://jobright.ai/jobs/info/69d7b3bb9f97a42dc9c16796?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Apr 09 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Labor Relations Intern - Anaheim, Fall 2026](https://jobright.ai/jobs/info/69d7b3bb9f97a42dc9c16796?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Apr 09 |
+| ↳ | **[Labor Relations Intern - Orlando, Fall 2026](https://jobright.ai/jobs/info/69d7b460f4ea471a51fdff48?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Labor Relations Intern - Orlando, Fall 2026](https://jobright.ai/jobs/info/69d7b4e3738f2f099e896af8?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 09 |
 | ↳ | **[Labor Relations Intern - Anaheim, Fall 2026](https://jobright.ai/jobs/info/69d7b45ff4ea471a51fdff41?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Apr 09 |
 | **[G2](https://www.g2.com)** | **[People Analytics & Systems Intern](https://jobright.ai/jobs/info/699e3967ce78e77b4fe34dc4?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlantia Clinical Trials](http://www.atlantiaclinicaltrials.com)** | **[Participant Recruitment Intern (Clinical Trials)](https://jobright.ai/jobs/info/69d77d84e63cea7a8b6721d0?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategic Workforce Planning & Analytics Intern](https://jobright.ai/jobs/info/69d47fcecfdc6132f945b5ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Apr 09 |
 | **[Generac](https://www.generac.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/69d7b37db861c42857c44a0f?utm_campaign=1054&utm_source=git)** | Waukesha, WI | On Site | Apr 09 |
-| **[Pretium Packaging](http://www.pretiumpkg.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d7b3ab9f97a42dc9c1676e?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Apr 09 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/69ceec0254f00230c6d04d53?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
