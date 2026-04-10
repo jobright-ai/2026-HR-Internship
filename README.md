@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69d8c4eb738f2f099e89e9ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69d8b353f748bc5d08a45420?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 10 |
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8b1f3b861c42857c4c543?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Apr 10 |
 | **[Madison Metropolitan School District](https://www.madison.k12.wi.us/)** | **[25-26 - Doyle - Payroll Supervisor - 1.0 FTE](https://jobright.ai/jobs/info/69d8987cb67cec4f9b09db24?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 09 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Functional Analyst, HRMS](https://jobright.ai/jobs/info/69d877d6869c7e25d8595e15?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
 | **[Hays County](http://hayscountytx.com)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/69d877c6738f2f099e89cdd9?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Apr 09 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[HR Admin Intern - Fall 2026 - Athletics Food & Beverage](https://jobright.ai/jobs/info/69d86dedf4ea471a51fe5b0e?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Apr 09 |
+| **[EFCO Forming & Shoring Solutions](http://www.efcoforms.com/index.html)** | **[Human Resources - File Management Intern](https://jobright.ai/jobs/info/69d8c1bdb67cec4f9b09ebcd?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 09 |
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8615db861c42857c4a268?utm_campaign=1054&utm_source=git)** | Long Beach, California, United States | On Site | Apr 09 |
 | **[Vidoori Inc.](https://www.vidoori.com/)** | **[People & Culture Summer Intern](https://jobright.ai/jobs/info/69d8535cb67cec4f9b09bd1e?utm_campaign=1054&utm_source=git)** | Hyattsville, MD | Hybrid | Apr 09 |
 | **[St. Tammany Health System](https://www.sttammany.health)** | **[HR Intern](https://jobright.ai/jobs/info/69d8535bb67cec4f9b09bd1d?utm_campaign=1054&utm_source=git)** | Covington, LA | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Industrial Services - Summer 2026 Internship](https://jobright.ai/jobs/info/6982519a0f6f7e7a2cdb781f?utm_campaign=1054&utm_source=git)** | Deer Park, TX | On Site | Apr 09 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b718dd64ebf28d8212508?utm_campaign=1054&utm_source=git)** | Wakefield, MA | On Site | Apr 09 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/69d876fcb67cec4f9b09c986?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Apr 09 |
-| **[Northeast Alternatives](https://www.nealternatives.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d7b70a869c7e25d858ff4c?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Apr 09 |
-| **[Schaeffler](https://www.schaeffler.us)** | **[Co-op - Employee Engagement](https://jobright.ai/jobs/info/6966f7bba135876680843d8c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
