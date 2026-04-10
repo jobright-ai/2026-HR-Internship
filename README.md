@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69d8b353f748bc5d08a45420?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 10 |
+| **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8b1f3b861c42857c4c543?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Apr 10 |
 | **[Madison Metropolitan School District](https://www.madison.k12.wi.us/)** | **[25-26 - Doyle - Payroll Supervisor - 1.0 FTE](https://jobright.ai/jobs/info/69d8987cb67cec4f9b09db24?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 09 |
 | **[Make-A-Wish Alaska and Washington](http://wish.org/akwa)** | **[Volunteer Department Internship](https://jobright.ai/jobs/info/69d87efb738f2f099e89d108?utm_campaign=1054&utm_source=git)** | REMOTE-United States | Remote | Apr 09 |
 | **[Stantec](http://www.stantec.com)** | **[Functional Analyst, HRMS](https://jobright.ai/jobs/info/69d877d6869c7e25d8595e15?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/69d876fcb67cec4f9b09c986?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Apr 09 |
 | **[Northeast Alternatives](https://www.nealternatives.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d7b70a869c7e25d858ff4c?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Apr 09 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-op - Employee Engagement](https://jobright.ai/jobs/info/6966f7bba135876680843d8c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | Hybrid | Apr 09 |
-| **[Velociti Services](https://velocitiservices.com)** | **[Unpaid Internship (For Academic Credit Only)](https://jobright.ai/jobs/info/69d7b453f4ea471a51fdff25?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 09 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983b7cf0f6f7e7a2cdd501f?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
