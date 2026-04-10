@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allient](http://www.alliedmotion.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d8376d738f2f099e89b76e?utm_campaign=1054&utm_source=git)** | Oshkosh, WI | On Site | Apr 09 |
+| **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d83767869c7e25d8594756?utm_campaign=1054&utm_source=git)** | Newport, KY | On Site | Apr 09 |
+| **[Benco Dental](https://www.benco.com/)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/69d8374eb861c42857c49768?utm_campaign=1054&utm_source=git)** | Pittston, PA | On Site | Apr 09 |
+| **[Allient](http://www.alliedmotion.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d833739f97a42dc9c1b07f?utm_campaign=1054&utm_source=git)** | OSHKOSH, WI, US | On Site | Apr 09 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Sheboygan](https://jobright.ai/jobs/info/69d830bfb67cec4f9b09b35c?utm_campaign=1054&utm_source=git)** | Sheboygan, WI | On Site | Apr 09 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Human Resources Coordinator I](https://jobright.ai/jobs/info/69d82802b67cec4f9b09b068?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Apr 09 |
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d825969f97a42dc9c1aae0?utm_campaign=1054&utm_source=git)** | Raleigh, NC, US | On Site | Apr 09 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d82594b67cec4f9b09af73?utm_campaign=1054&utm_source=git)** | US-NC-Raleigh | On Site | Apr 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Generac](https://www.generac.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/69d7b37db861c42857c44a0f?utm_campaign=1054&utm_source=git)** | Waukesha, WI | On Site | Apr 09 |
 | **[Pretium Packaging](http://www.pretiumpkg.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d7b3ab9f97a42dc9c1676e?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Apr 09 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/69ceec0254f00230c6d04d53?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Apr 09 |
-| **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d7b45e738f2f099e8969f9?utm_campaign=1054&utm_source=git)** | Pico Rivera, CA | On Site | Apr 09 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69d7b958869c7e25d85900b1?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 09 |
-| **[Coast Mountain College](https://www.coastmountaincollege.ca/)** | **[Director of Human Resources & Payroll](https://jobright.ai/jobs/info/69d75983e63cea7a8b670fcf?utm_campaign=1054&utm_source=git)** | Terrace, BC | On Site | Apr 09 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Inclusion & Engagement](https://jobright.ai/jobs/info/69d74c7f706f771673bb23e3?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 08 |
-| **[NextLabs](http://www.nextlabs.com)** | **[Recruitment & Business Operations Coordinator (Intern)](https://jobright.ai/jobs/info/69d74789706f771673bb2317?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
