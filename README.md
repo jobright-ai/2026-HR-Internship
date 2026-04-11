@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69b786c256973837413cad47?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 11 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d20e7f5bef51c96ead9a6?utm_campaign=1054&utm_source=git)** | Folsom, CA | On Site | Apr 11 |
+| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69a257da0da45516f16b9b90?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | Apr 11 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Talent acquisition, intern](https://jobright.ai/jobs/info/69c4cf526f4f855eeda77cf3?utm_campaign=1054&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Apr 11 |
 | **[Spring Health](https://www.springhealth.com)** | **[Senior Manager, Global Payroll](https://jobright.ai/jobs/info/69be1eec482822729300d952?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Apr 11 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[People & Culture Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae58b5fc86241853a19f9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 11 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d9c03c9f97a42dc9c240dc?utm_campaign=1054&utm_source=git)** | Pico Rivera, CA | On Site | Apr 10 |
 | **[JTEKT Automotive Mexico](https://jtekt-na.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d9b32b5356a60f40fdbbd5?utm_campaign=1054&utm_source=git)** | Koyo Bearings, 1006 Northpoint Blvd, Blythewood, South Carolina, United States of America | On Site | Apr 10 |
 | **[Getinge](https://www.getinge.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d9b096b67cec4f9b0a4020?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Apr 10 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[College Admissions Recruiter - Hybrid Opportunity in Mesa, AZ](https://jobright.ai/jobs/info/69d9b044f748bc5d08a4d565?utm_campaign=1054&utm_source=git)** | Mesa, AZ | Hybrid | Apr 10 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/69d9aef9738f2f099e8a3c43?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Apr 10 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[High School Health & Safety Internship](https://jobright.ai/jobs/info/69d9ae4d738f2f099e8a3a9d?utm_campaign=1054&utm_source=git)** | New Haven, IN | On Site | Apr 10 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[College Admissions Recruiter - Hybrid Opportunity in Glendale, AZ](https://jobright.ai/jobs/info/69d9ae45b67cec4f9b0a3cc0?utm_campaign=1054&utm_source=git)** | Glendale, AZ | Hybrid | Apr 10 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Organizational Empowerment Intern](https://jobright.ai/jobs/info/69d9a3af9f97a42dc9c230b3?utm_campaign=1054&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Apr 10 |
 | **[Purolator Inc.](http://www.purolator.com)** | **[Human Resources Coordinator - Summer Hiring](https://jobright.ai/jobs/info/69d9bfae869c7e25d859d523?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
-| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d993ae5356a60f40fda711?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 10 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Assistant Director of Admissions Operations and Systems](https://jobright.ai/jobs/info/69d99374b67cec4f9b0a2b0c?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Apr 10 |
 | **[CB&I](http://www.cbi.com)** | **[HR- Intern](https://jobright.ai/jobs/info/69d990d4869c7e25d859b8d2?utm_campaign=1054&utm_source=git)** | Plainfield, IL | On Site | Apr 10 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd73?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Double Good](https://www.doublegood.com/)** | **[People & Culture Intern (Summer 2026)](https://jobright.ai/jobs/info/69bcafdd45e08b3dc1f972d4?utm_campaign=1054&utm_source=git)** | Elmhurst, IL | On Site | Apr 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1a6348f733a5c36e8df?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Apr 10 |
 | **[Nexthink](http://www.nexthink.com)** | **[People Analytics & AI Intern](https://jobright.ai/jobs/info/69d8eb365356a60f40fd6cca?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 10 |
-| **[Mercer Company](https://mercer-company.com/)** | **[Pension Administration - Internship](https://jobright.ai/jobs/info/69d8e9e7f748bc5d08a46919?utm_campaign=1054&utm_source=git)** | Dublin - Charlotte | Hybrid | Apr 10 |
-| **[Tenneco](https://www.tenneco.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69a0b3d70836fe79d861b3a8?utm_campaign=1054&utm_source=git)** | Northville, MI | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
