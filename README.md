@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rakuten International](http://rakuten.us)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121e96b458d060735da62?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 11 |
+| ↳ | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121125218a81676725a0b?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d199dd4a7df7a06724a5d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Apr 11 |
 | ↳ | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/69ae65a73de6821aaccdb7fc?utm_campaign=1054&utm_source=git)** | Jackson, TN | On Site | Apr 11 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d229529655e4dd6573479?utm_campaign=1054&utm_source=git)** | Yuba City, CA | On Site | Apr 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69d9236c5356a60f40fd7d3a?utm_campaign=1054&utm_source=git)** | West Columbia, SC, US | On Site | Apr 10 |
 | ↳ | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69d922f39f97a42dc9c1fad5?utm_campaign=1054&utm_source=git)** | US-SC-West Columbia | On Site | Apr 10 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69c52cfdf4b6c932e4439bb1?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 10 |
-| **[AeroSpec, Inc.](http://aerospecinc.com)** | **[HR-People Operations Intern (Manufacturing/Engineering)](https://jobright.ai/jobs/info/69d91d339f97a42dc9c1f932?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Apr 10 |
-| **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69d964a5b67cec4f9b0a1c9b?utm_campaign=1054&utm_source=git)** | South Dakota, United States | Remote | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
