@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simons Foundation](https://www.simonsfoundation.org)** | **[People & Culture Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae58b5fc86241853a19f9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0d98c5218a816767207c7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69da1eac9f97a42dc9c27884?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69da1e31738f2f099e8a7d19?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tenneco](https://www.tenneco.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69a0b3d70836fe79d861b3a8?utm_campaign=1054&utm_source=git)** | Northville, MI | On Site | Apr 10 |
 | **[Nexthink](http://www.nexthink.com)** | **[People Analytics & AI Intern](https://jobright.ai/jobs/info/69d8dddcb67cec4f9b09f093?utm_campaign=1054&utm_source=git)** | Boston, MA, USA | Hybrid | Apr 10 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69bbd91d5b89c002acf09eea?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Apr 10 |
-| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69a89eeb79f3f4037f42bb82?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
