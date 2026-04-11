@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Denver Regional Council of Governments](https://drcog.org)** | **[AAA Internships](https://jobright.ai/jobs/info/69dabd4a869c7e25d85a4e8f?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 11 |
+| **[DART Aerospace](https://www.dartaerospace.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dac82d9f97a42dc9c2bfc9?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 11 |
+| **[Hays County](http://hayscountytx.com)** | **[Veteran Services - Work Study Intern](https://jobright.ai/jobs/info/69dac6ad5356a60f40fe3e19?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Apr 11 |
 | **[Clique Hospitality](https://cliquehospitality.com/)** | **[People & Culture (HR) Intern - Clique Hospitality](https://jobright.ai/jobs/info/69dabd06f748bc5d08a5571e?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Payroll and Business Administration Specialist](https://jobright.ai/jobs/info/69daab0bf748bc5d08a55542?utm_campaign=1054&utm_source=git)** | Beaver Falls, PA | On Site | Apr 11 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121e96b458d060735da62?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d959fef748bc5d08a4a977?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Remote | Apr 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/69bc7d6145e08b3dc1f93ba7?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Apr 10 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69d92559869c7e25d85992bb?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Apr 10 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69d9236c5356a60f40fd7d3a?utm_campaign=1054&utm_source=git)** | West Columbia, SC, US | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
