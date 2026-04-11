@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/69d9dd7d869c7e25d859e792?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 10 |
 | **[RainCity Housing and Support Society](https://www.raincityhousing.org/)** | **[HR - Health & Safety Manager (Mon-Fri Days)](https://jobright.ai/jobs/info/69d9cac25356a60f40fdc6df?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 10 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Culture & DEI](https://jobright.ai/jobs/info/69d9cab3f748bc5d08a4e100?utm_campaign=1054&utm_source=git)** | El Segundo, CA | Hybrid | Apr 10 |
 | **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d9c03c9f97a42dc9c240dc?utm_campaign=1054&utm_source=git)** | Pico Rivera, CA | On Site | Apr 10 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Employee Relations Intern (Remote)](https://jobright.ai/jobs/info/699fcec253d97f23ee655388?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 10 |
 | **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6982567c0a9e07331f8d5556?utm_campaign=1054&utm_source=git)** | Santa Clarita, California, United States | On Site | Apr 10 |
 | **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[Employee/Team Relations Internship (Multifamily Housing Industry) (Summer 2026)](https://jobright.ai/jobs/info/69d8eb2e869c7e25d859810d?utm_campaign=1054&utm_source=git)** | Franktown, CO | On Site | Apr 10 |
+| **[PNC](http://www.pnc.com)** | **[Recruiting Advisor-- Mortgage](https://jobright.ai/jobs/info/69d9d578f748bc5d08a4e819?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69d8c4eb738f2f099e89e9ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 10 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Compensation Program Manager - Pay Equity](https://jobright.ai/jobs/info/69d9ca675356a60f40fdc5b8?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 10 |
-| **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69d8b353f748bc5d08a45420?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
