@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d9c03c9f97a42dc9c240dc?utm_campaign=1054&utm_source=git)** | Pico Rivera, CA | On Site | Apr 10 |
+| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69d9c0369f97a42dc9c240d2?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 10 |
 | **[JTEKT Automotive Mexico](https://jtekt-na.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d9b32b5356a60f40fdbbd5?utm_campaign=1054&utm_source=git)** | Koyo Bearings, 1006 Northpoint Blvd, Blythewood, South Carolina, United States of America | On Site | Apr 10 |
 | **[Getinge](https://www.getinge.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d9b096b67cec4f9b0a4020?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Apr 10 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[College Admissions Recruiter - Hybrid Opportunity in Mesa, AZ](https://jobright.ai/jobs/info/69d9b044f748bc5d08a4d565?utm_campaign=1054&utm_source=git)** | Mesa, AZ | Hybrid | Apr 10 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[The Timken Company](http://www.timken.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/69d9a482b67cec4f9b0a3966?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Apr 10 |
 | **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Organizational Empowerment Intern](https://jobright.ai/jobs/info/69d9a3af9f97a42dc9c230b3?utm_campaign=1054&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Apr 10 |
+| **[Purolator Inc.](http://www.purolator.com)** | **[Human Resources Coordinator - Summer Hiring](https://jobright.ai/jobs/info/69d9bfae869c7e25d859d523?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
 | **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d993ae5356a60f40fda711?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 10 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Assistant Director of Admissions Operations and Systems](https://jobright.ai/jobs/info/69d99374b67cec4f9b0a2b0c?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Apr 10 |
 | **[CB&I](http://www.cbi.com)** | **[HR- Intern](https://jobright.ai/jobs/info/69d990d4869c7e25d859b8d2?utm_campaign=1054&utm_source=git)** | Plainfield, IL | On Site | Apr 10 |
@@ -110,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69d93425738f2f099e8a05b4?utm_campaign=1054&utm_source=git)** | West Columbia, SC | On Site | Apr 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Eugene, OR](https://jobright.ai/jobs/info/69bd2b4c393a1008f7428e54?utm_campaign=1054&utm_source=git)** | Springfield, OR | On Site | Apr 10 |
 | **[Mastermind.com](https://mastermind.com)** | **[HR Internship](https://jobright.ai/jobs/info/69d92d8d738f2f099e8a02d0?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 10 |
-| **[Emerest](https://www.emerest.com )** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d421fb891d7b11cfcf7a88?utm_campaign=1054&utm_source=git)** | Greater St. Louis | On Site | Apr 10 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d927425356a60f40fd7f2b?utm_campaign=1054&utm_source=git)** | Durham, North Carolina | On Site | Apr 10 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d959fef748bc5d08a4a977?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Remote | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8b1f3b861c42857c4c543?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Apr 10 |
 | **[Madison Metropolitan School District](https://www.madison.k12.wi.us/)** | **[25-26 - Doyle - Payroll Supervisor - 1.0 FTE](https://jobright.ai/jobs/info/69d8987cb67cec4f9b09db24?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 09 |
 | **[Make-A-Wish Alaska and Washington](http://wish.org/akwa)** | **[Volunteer Department Internship](https://jobright.ai/jobs/info/69d87efb738f2f099e89d108?utm_campaign=1054&utm_source=git)** | REMOTE-United States | Remote | Apr 09 |
-| **[Stantec](http://www.stantec.com)** | **[Functional Analyst, HRMS](https://jobright.ai/jobs/info/69d877d6869c7e25d8595e15?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
-| **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[HR Admin Intern - Fall 2026 - Athletics Food & Beverage](https://jobright.ai/jobs/info/69d86dedf4ea471a51fe5b0e?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
