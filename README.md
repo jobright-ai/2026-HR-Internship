@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[APM Terminals](https://www.apmterminals.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d988c15356a60f40fda356?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Apr 10 |
+| **[Getinge](https://www.getinge.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d987bf869c7e25d859b515?utm_campaign=1054&utm_source=git)** | Wayne, NJ, US | On Site | Apr 10 |
+| **[Farmer Focus](https://www.farmerfocus.com)** | **[Internship: Human Resources](https://jobright.ai/jobs/info/69d98775b67cec4f9b0a2689?utm_campaign=1054&utm_source=git)** | Harrisonburg, VA | On Site | Apr 10 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern – People Operations](https://jobright.ai/jobs/info/69d97c05738f2f099e8a2256?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
 | ↳ | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69d97a095356a60f40fd9fc9?utm_campaign=1054&utm_source=git)** | Norwell, MA | Hybrid | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69d844969f97a42dc9c1b5c1?utm_campaign=1054&utm_source=git)** | Brea, CA | Hybrid | Apr 09 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69d84425b861c42857c49a18?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | **[Make-A-Wish Alaska and Washington](http://wish.org/akwa)** | **[Volunteer Department Intern - Seattle or Spokane, WA](https://jobright.ai/jobs/info/69d83be5f4ea471a51fe4c0e?utm_campaign=1054&utm_source=git)** | Spokane, WA | Hybrid | Apr 09 |
-| **[Allient](http://www.alliedmotion.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d8376d738f2f099e89b76e?utm_campaign=1054&utm_source=git)** | Oshkosh, WI | On Site | Apr 09 |
-| **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d83767869c7e25d8594756?utm_campaign=1054&utm_source=git)** | Newport, KY | On Site | Apr 09 |
-| **[Benco Dental](https://www.benco.com/)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/69d8374eb861c42857c49768?utm_campaign=1054&utm_source=git)** | Pittston, PA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
