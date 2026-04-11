@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Portage Learning](https://portagelearning.edu)** | **[Payroll and Business Administration Specialist](https://jobright.ai/jobs/info/69daab0bf748bc5d08a55542?utm_campaign=1054&utm_source=git)** | Beaver Falls, PA | On Site | Apr 11 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121e96b458d060735da62?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 11 |
 | ↳ | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121125218a81676725a0b?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d199dd4a7df7a06724a5d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69d92559869c7e25d85992bb?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Apr 10 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69d9236c5356a60f40fd7d3a?utm_campaign=1054&utm_source=git)** | West Columbia, SC, US | On Site | Apr 10 |
 | ↳ | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69d922f39f97a42dc9c1fad5?utm_campaign=1054&utm_source=git)** | US-SC-West Columbia | On Site | Apr 10 |
-| **[Magna International](http://www.magna.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69c52cfdf4b6c932e4439bb1?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
