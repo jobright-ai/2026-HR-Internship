@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d229529655e4dd6573479?utm_campaign=1054&utm_source=git)** | Yuba City, CA | On Site | Apr 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d199dd4a7df7a06724a5d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Apr 11 |
+| ↳ | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/69ae65a73de6821aaccdb7fc?utm_campaign=1054&utm_source=git)** | Jackson, TN | On Site | Apr 11 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d229529655e4dd6573479?utm_campaign=1054&utm_source=git)** | Yuba City, CA | On Site | Apr 11 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c370836fe79d861a083?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d136a29655e4dd6572569?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Apr 11 |
 | **[Hays County](http://hayscountytx.com)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/69da7612738f2f099e8a96ce?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Apr 11 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ac1d1db26b618950e0783?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 11 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a1ff10b600907a96284cb4?utm_campaign=1054&utm_source=git)** | Shelton, CT | On Site | Apr 11 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Employee Experience & Engagement Intern](https://jobright.ai/jobs/info/69a9b2782ebd316bece1415a?utm_campaign=1054&utm_source=git)** | Des Plaines, IL | On Site | Apr 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d2d5bf5bef51c96eadb98?utm_campaign=1054&utm_source=git)** | Elk Grove, CA | On Site | Apr 11 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7fb59b0edcf159dc8d12a?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 11 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69b786c256973837413cad47?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 11 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69c52cfdf4b6c932e4439bb1?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 10 |
 | **[AeroSpec, Inc.](http://aerospecinc.com)** | **[HR-People Operations Intern (Manufacturing/Engineering)](https://jobright.ai/jobs/info/69d91d339f97a42dc9c1f932?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Apr 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69d964a5b67cec4f9b0a1c9b?utm_campaign=1054&utm_source=git)** | South Dakota, United States | Remote | Apr 10 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Talent Management Intern](https://jobright.ai/jobs/info/69d916db9f97a42dc9c1f715?utm_campaign=1054&utm_source=git)** | Overland Park, Kansas | On Site | Apr 10 |
-| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69680bc7f25a380066966019?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Apr 10 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69682ecd1703f05405a9d5e2?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
