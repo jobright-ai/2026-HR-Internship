@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0d98c5218a816767207c7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69da1eac9f97a42dc9c27884?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
+| **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69da1e31738f2f099e8a7d19?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 11 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bfd1e17798f73e35e4aa92?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Apr 11 |
+| **[Visteon Corporation](http://www.visteon.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd598fb1060245628244ff?utm_campaign=1054&utm_source=git)** | Van Buren, MI | On Site | Apr 11 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Human Resources Classification and Compensation Analyst](https://jobright.ai/jobs/info/69da046e738f2f099e8a7764?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | ↳ | **[Regional Internship Coordinator - Long Island](https://jobright.ai/jobs/info/69da02d45356a60f40fdf33a?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 11 |
+| ↳ | **[Senior Director of Strategic International Recruitment](https://jobright.ai/jobs/info/69da1dc75356a60f40fdfa7c?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
+| ↳ | **[Integrated Workplace Management System (AiM) Intern](https://jobright.ai/jobs/info/69da1e129f97a42dc9c277a3?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/69d9dd7d869c7e25d859e792?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 10 |
 | **[Spectrum Society for Community Living](https://www.spectrumsociety.org)** | **[26-17 – Temporary Human Resources Assistant](https://jobright.ai/jobs/info/69da03835356a60f40fdf644?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 10 |
 | **[RainCity Housing and Support Society](https://www.raincityhousing.org/)** | **[HR - Health & Safety Manager (Mon-Fri Days)](https://jobright.ai/jobs/info/69d9cac25356a60f40fdc6df?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexthink](http://www.nexthink.com)** | **[People Analytics & AI Intern](https://jobright.ai/jobs/info/69d8dddcb67cec4f9b09f093?utm_campaign=1054&utm_source=git)** | Boston, MA, USA | Hybrid | Apr 10 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69bbd91d5b89c002acf09eea?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Apr 10 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69a89eeb79f3f4037f42bb82?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | Apr 10 |
-| **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d8d16a9f97a42dc9c1e7e7?utm_campaign=1054&utm_source=git)** | Pico Rivera, CA | On Site | Apr 10 |
-| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/69a3e8a6359fe034b1ced4c9?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Apr 10 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Employee Relations Intern (Remote)](https://jobright.ai/jobs/info/699fcec253d97f23ee655388?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 10 |
-| **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6982567c0a9e07331f8d5556?utm_campaign=1054&utm_source=git)** | Santa Clarita, California, United States | On Site | Apr 10 |
-| **[PNC](http://www.pnc.com)** | **[Recruiting Advisor-- Mortgage](https://jobright.ai/jobs/info/69d9d578f748bc5d08a4e819?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 10 |
-| **[GE Vernova](https://www.gevernova.com)** | **[Global Culture & Inclusion Team Intern](https://jobright.ai/jobs/info/69d8c4eb738f2f099e89e9ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 10 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Compensation Program Manager - Pay Equity](https://jobright.ai/jobs/info/69d9ca675356a60f40fdc5b8?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
