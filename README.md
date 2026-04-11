@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d993ae5356a60f40fda711?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 10 |
+| **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Assistant Director of Admissions Operations and Systems](https://jobright.ai/jobs/info/69d99374b67cec4f9b0a2b0c?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Apr 10 |
+| **[CB&I](http://www.cbi.com)** | **[HR- Intern](https://jobright.ai/jobs/info/69d990d4869c7e25d859b8d2?utm_campaign=1054&utm_source=git)** | Plainfield, IL | On Site | Apr 10 |
+| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd73?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
 | **[APM Terminals](https://www.apmterminals.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d988c15356a60f40fda356?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Apr 10 |
 | **[Getinge](https://www.getinge.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d987bf869c7e25d859b515?utm_campaign=1054&utm_source=git)** | Wayne, NJ, US | On Site | Apr 10 |
 | **[Farmer Focus](https://www.farmerfocus.com)** | **[Internship: Human Resources](https://jobright.ai/jobs/info/69d98775b67cec4f9b0a2689?utm_campaign=1054&utm_source=git)** | Harrisonburg, VA | On Site | Apr 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69d85011b67cec4f9b09bcab?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
 | **[American Century Investments](https://www.americancentury.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d84ea3869c7e25d8594cd1?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Apr 09 |
 | **[EMBREY](https://www.embreydc.com/)** | **[Internship Program Class of 2026 - People Services](https://jobright.ai/jobs/info/69d84e699f97a42dc9c1b7b2?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 09 |
-| **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/69d8487cf4ea471a51fe4f20?utm_campaign=1054&utm_source=git)** | Bethel, CT | Hybrid | Apr 09 |
-| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69d844969f97a42dc9c1b5c1?utm_campaign=1054&utm_source=git)** | Brea, CA | Hybrid | Apr 09 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69d84425b861c42857c49a18?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
-| **[Make-A-Wish Alaska and Washington](http://wish.org/akwa)** | **[Volunteer Department Intern - Seattle or Spokane, WA](https://jobright.ai/jobs/info/69d83be5f4ea471a51fe4c0e?utm_campaign=1054&utm_source=git)** | Spokane, WA | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
