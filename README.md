@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JTEKT Automotive Mexico](https://jtekt-na.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d9b32b5356a60f40fdbbd5?utm_campaign=1054&utm_source=git)** | Koyo Bearings, 1006 Northpoint Blvd, Blythewood, South Carolina, United States of America | On Site | Apr 10 |
+| **[Getinge](https://www.getinge.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d9b096b67cec4f9b0a4020?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Apr 10 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[College Admissions Recruiter - Hybrid Opportunity in Mesa, AZ](https://jobright.ai/jobs/info/69d9b044f748bc5d08a4d565?utm_campaign=1054&utm_source=git)** | Mesa, AZ | Hybrid | Apr 10 |
+| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/69d9aef9738f2f099e8a3c43?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Apr 10 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[High School Health & Safety Internship](https://jobright.ai/jobs/info/69d9ae4d738f2f099e8a3a9d?utm_campaign=1054&utm_source=git)** | New Haven, IN | On Site | Apr 10 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[College Admissions Recruiter - Hybrid Opportunity in Glendale, AZ](https://jobright.ai/jobs/info/69d9ae45b67cec4f9b0a3cc0?utm_campaign=1054&utm_source=git)** | Glendale, AZ | Hybrid | Apr 10 |
 | **[The Timken Company](http://www.timken.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/69d9a482b67cec4f9b0a3966?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Apr 10 |
 | **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Organizational Empowerment Intern](https://jobright.ai/jobs/info/69d9a3af9f97a42dc9c230b3?utm_campaign=1054&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Apr 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Make-A-Wish Alaska and Washington](http://wish.org/akwa)** | **[Volunteer Department Internship](https://jobright.ai/jobs/info/69d87efb738f2f099e89d108?utm_campaign=1054&utm_source=git)** | REMOTE-United States | Remote | Apr 09 |
 | **[Stantec](http://www.stantec.com)** | **[Functional Analyst, HRMS](https://jobright.ai/jobs/info/69d877d6869c7e25d8595e15?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[HR Admin Intern - Fall 2026 - Athletics Food & Beverage](https://jobright.ai/jobs/info/69d86dedf4ea471a51fe5b0e?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Apr 09 |
-| **[EFCO Forming & Shoring Solutions](http://www.efcoforms.com/index.html)** | **[Human Resources - File Management Intern](https://jobright.ai/jobs/info/69d8c1bdb67cec4f9b09ebcd?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 09 |
-| **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8615db861c42857c4a268?utm_campaign=1054&utm_source=git)** | Long Beach, California, United States | On Site | Apr 09 |
-| **[Vidoori Inc.](https://www.vidoori.com/)** | **[People & Culture Summer Intern](https://jobright.ai/jobs/info/69d8535cb67cec4f9b09bd1e?utm_campaign=1054&utm_source=git)** | Hyattsville, MD | Hybrid | Apr 09 |
-| **[St. Tammany Health System](https://www.sttammany.health)** | **[HR Intern](https://jobright.ai/jobs/info/69d8535bb67cec4f9b09bd1d?utm_campaign=1054&utm_source=git)** | Covington, LA | On Site | Apr 09 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69d852e09f97a42dc9c1b8a3?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Apr 09 |
-| **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69d85011b67cec4f9b09bcab?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
