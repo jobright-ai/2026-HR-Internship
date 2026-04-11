@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Timken Company](http://www.timken.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/69d9a482b67cec4f9b0a3966?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Apr 10 |
+| **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
+| **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Organizational Empowerment Intern](https://jobright.ai/jobs/info/69d9a3af9f97a42dc9c230b3?utm_campaign=1054&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Apr 10 |
 | **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d993ae5356a60f40fda711?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 10 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Assistant Director of Admissions Operations and Systems](https://jobright.ai/jobs/info/69d99374b67cec4f9b0a2b0c?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Apr 10 |
 | **[CB&I](http://www.cbi.com)** | **[HR- Intern](https://jobright.ai/jobs/info/69d990d4869c7e25d859b8d2?utm_campaign=1054&utm_source=git)** | Plainfield, IL | On Site | Apr 10 |
@@ -127,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Apr 10 |
 | **[JAM Industries](https://jamindustries.com/)** | **[Talent Acquisition & DEI - Intern](https://jobright.ai/jobs/info/69a1160d81476f6176bb6bea?utm_campaign=1054&utm_source=git)** | Baie-d’Urfé, QC | On Site | Apr 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 10 |
-| **[Quva](http://www.quvapharma.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d923f55356a60f40fd7d7d?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Apr 10 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics and Systems](https://jobright.ai/jobs/info/69bc0ee45b89c002acf10780?utm_campaign=1054&utm_source=git)** | Columbia, MO | Hybrid | Apr 10 |
 | **[Double Good](https://www.doublegood.com/)** | **[People & Culture Intern (Summer 2026)](https://jobright.ai/jobs/info/69bcafdd45e08b3dc1f972d4?utm_campaign=1054&utm_source=git)** | Elmhurst, IL | On Site | Apr 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1a6348f733a5c36e8df?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[St. Tammany Health System](https://www.sttammany.health)** | **[HR Intern](https://jobright.ai/jobs/info/69d8535bb67cec4f9b09bd1d?utm_campaign=1054&utm_source=git)** | Covington, LA | On Site | Apr 09 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69d852e09f97a42dc9c1b8a3?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Apr 09 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69d85011b67cec4f9b09bcab?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
-| **[American Century Investments](https://www.americancentury.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d84ea3869c7e25d8594cd1?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Apr 09 |
-| **[EMBREY](https://www.embreydc.com/)** | **[Internship Program Class of 2026 - People Services](https://jobright.ai/jobs/info/69d84e699f97a42dc9c1b7b2?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
