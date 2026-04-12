@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 12 |
+| **[TONY, LLC](https://www.linkedin.com/company/107227751)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69db9b695356a60f40fe6d6f?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 12 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern (Atlantic Region) - Future Opportunity](https://jobright.ai/jobs/info/68de53a4a125e75c422b3b6a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69db1b27869c7e25d85a620a?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
 | **[DART Aerospace](https://www.dartaerospace.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dac82d9f97a42dc9c2bfc9?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 11 |
 | **[Hays County](http://hayscountytx.com)** | **[Veteran Services - Work Study Intern](https://jobright.ai/jobs/info/69dac6ad5356a60f40fe3e19?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Apr 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Eugene, OR](https://jobright.ai/jobs/info/69bd2b4c393a1008f7428e54?utm_campaign=1054&utm_source=git)** | Springfield, OR | On Site | Apr 10 |
 | **[Mastermind.com](https://mastermind.com)** | **[HR Internship](https://jobright.ai/jobs/info/69d92d8d738f2f099e8a02d0?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 10 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 10 |
-| **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d927425356a60f40fd7f2b?utm_campaign=1054&utm_source=git)** | Durham, North Carolina | On Site | Apr 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/69bc7d6145e08b3dc1f93ba7?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Apr 10 |
-| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69d92559869c7e25d85992bb?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
