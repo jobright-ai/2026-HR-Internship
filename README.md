@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69db1b27869c7e25d85a620a?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
 | **[DART Aerospace](https://www.dartaerospace.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dac82d9f97a42dc9c2bfc9?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 11 |
 | **[Hays County](http://hayscountytx.com)** | **[Veteran Services - Work Study Intern](https://jobright.ai/jobs/info/69dac6ad5356a60f40fe3e19?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Apr 11 |
 | **[Clique Hospitality](https://cliquehospitality.com/)** | **[People & Culture (HR) Intern - Clique Hospitality](https://jobright.ai/jobs/info/69dabd06f748bc5d08a5571e?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
@@ -104,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Getinge](https://www.getinge.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d9b096b67cec4f9b0a4020?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Apr 10 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/69d9aef9738f2f099e8a3c43?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Apr 10 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[High School Health & Safety Internship](https://jobright.ai/jobs/info/69d9ae4d738f2f099e8a3a9d?utm_campaign=1054&utm_source=git)** | New Haven, IN | On Site | Apr 10 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Compensation Program Manager - Pay Equity](https://jobright.ai/jobs/info/69db01fc5356a60f40fe46ff?utm_campaign=1054&utm_source=git)** | Sacramento, CA | Hybrid | Apr 10 |
 | **[The Timken Company](http://www.timken.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/69d9a482b67cec4f9b0a3966?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Apr 10 |
 | **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Organizational Empowerment Intern](https://jobright.ai/jobs/info/69d9a3af9f97a42dc9c230b3?utm_campaign=1054&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Apr 10 |
