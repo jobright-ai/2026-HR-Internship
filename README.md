@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69dbae53738f2f099e8af35d?utm_campaign=1054&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Strategy and Operations Intern](https://jobright.ai/jobs/info/69a40d7f359fe034b1cf0d59?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 12 |
-| **[TONY, LLC](https://www.linkedin.com/company/107227751)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69db9b695356a60f40fe6d6f?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 12 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern (Atlantic Region) - Future Opportunity](https://jobright.ai/jobs/info/68de53a4a125e75c422b3b6a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69db1b27869c7e25d85a620a?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
 | **[DART Aerospace](https://www.dartaerospace.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dac82d9f97a42dc9c2bfc9?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 11 |
@@ -107,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Spectrum Society for Community Living](https://www.spectrumsociety.org)** | **[26-17 – Temporary Human Resources Assistant](https://jobright.ai/jobs/info/69da03835356a60f40fdf644?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 10 |
 | **[RainCity Housing and Support Society](https://www.raincityhousing.org/)** | **[HR - Health & Safety Manager (Mon-Fri Days)](https://jobright.ai/jobs/info/69d9cac25356a60f40fdc6df?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 10 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Culture & DEI](https://jobright.ai/jobs/info/69d9cab3f748bc5d08a4e100?utm_campaign=1054&utm_source=git)** | El Segundo, CA | Hybrid | Apr 10 |
-| **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d9c03c9f97a42dc9c240dc?utm_campaign=1054&utm_source=git)** | Pico Rivera, CA | On Site | Apr 10 |
 | **[JTEKT Automotive Mexico](https://jtekt-na.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d9b32b5356a60f40fdbbd5?utm_campaign=1054&utm_source=git)** | Koyo Bearings, 1006 Northpoint Blvd, Blythewood, South Carolina, United States of America | On Site | Apr 10 |
 | **[Getinge](https://www.getinge.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d9b096b67cec4f9b0a4020?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Apr 10 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/69d9aef9738f2f099e8a3c43?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Apr 10 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: HR Intern](https://jobright.ai/jobs/info/69a51077359fe034b1cfa6e9?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Adult Protective Services Program](https://jobright.ai/jobs/info/6997c31581476f6176afeea2?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69d93425738f2f099e8a05b4?utm_campaign=1054&utm_source=git)** | West Columbia, SC | On Site | Apr 10 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Eugene, OR](https://jobright.ai/jobs/info/69bd2b4c393a1008f7428e54?utm_campaign=1054&utm_source=git)** | Springfield, OR | On Site | Apr 10 |
+| **[Mastermind.com](https://mastermind.com)** | **[HR Internship](https://jobright.ai/jobs/info/69d92d8d738f2f099e8a02d0?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
