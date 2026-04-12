@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dc0ae9b67cec4f9b0affcd?utm_campaign=1054&utm_source=git)** | Pico Rivera, CA | On Site | Apr 12 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69dc0ae19f97a42dc9c2fbc4?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dbfce15356a60f40fe7781?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | Apr 12 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1767d4a7df7a067247bb?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Apr 12 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Strategy and Operations Intern](https://jobright.ai/jobs/info/69a40d7f359fe034b1cf0d59?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 12 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern (Atlantic Region) - Future Opportunity](https://jobright.ai/jobs/info/68de53a4a125e75c422b3b6a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 12 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69db1b27869c7e25d85a620a?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
 | **[DART Aerospace](https://www.dartaerospace.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dac82d9f97a42dc9c2bfc9?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 11 |
 | **[Hays County](http://hayscountytx.com)** | **[Veteran Services - Work Study Intern](https://jobright.ai/jobs/info/69dac6ad5356a60f40fe3e19?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Apr 11 |
 | **[Clique Hospitality](https://cliquehospitality.com/)** | **[People & Culture (HR) Intern - Clique Hospitality](https://jobright.ai/jobs/info/69dabd06f748bc5d08a5571e?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ARCH](http://www.archglobalprecision.com/)** | **[HR Intern 1](https://jobright.ai/jobs/info/69d93ce1f748bc5d08a49f20?utm_campaign=1054&utm_source=git)** | Bloomfield Hills, MI | Hybrid | Apr 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Rhinelander](https://jobright.ai/jobs/info/69d93c99869c7e25d8599881?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | Apr 10 |
 | **[KOMPAN Inc Americas](https://www.kompan.com/en/us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d93c675356a60f40fd850a?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 10 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: HR Intern](https://jobright.ai/jobs/info/69a51077359fe034b1cfa6e9?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
