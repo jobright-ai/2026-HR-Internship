@@ -97,6 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Director of Strategic International Recruitment](https://jobright.ai/jobs/info/69da1dc75356a60f40fdfa7c?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | ↳ | **[Integrated Workplace Management System (AiM) Intern](https://jobright.ai/jobs/info/69da1e129f97a42dc9c277a3?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/69d9dd7d869c7e25d859e792?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 10 |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Compensation Program Manager - Pay Equity](https://jobright.ai/jobs/info/69db40305356a60f40fe5f28?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 10 |
+| ↳ | **[Compensation Program Manager - Pay Equity](https://jobright.ai/jobs/info/69db3e9d9f97a42dc9c2e1a5?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Apr 10 |
 | **[Spectrum Society for Community Living](https://www.spectrumsociety.org)** | **[26-17 – Temporary Human Resources Assistant](https://jobright.ai/jobs/info/69da03835356a60f40fdf644?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 10 |
 | **[RainCity Housing and Support Society](https://www.raincityhousing.org/)** | **[HR - Health & Safety Manager (Mon-Fri Days)](https://jobright.ai/jobs/info/69d9cac25356a60f40fdc6df?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 10 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Culture & DEI](https://jobright.ai/jobs/info/69d9cab3f748bc5d08a4e100?utm_campaign=1054&utm_source=git)** | El Segundo, CA | Hybrid | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d927425356a60f40fd7f2b?utm_campaign=1054&utm_source=git)** | Durham, North Carolina | On Site | Apr 10 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d959fef748bc5d08a4a977?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Remote | Apr 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/69bc7d6145e08b3dc1f93ba7?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Apr 10 |
-| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69d92559869c7e25d85992bb?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
