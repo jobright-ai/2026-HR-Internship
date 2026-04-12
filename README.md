@@ -96,6 +96,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Regional Internship Coordinator - Long Island](https://jobright.ai/jobs/info/69da02d45356a60f40fdf33a?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 11 |
 | ↳ | **[Senior Director of Strategic International Recruitment](https://jobright.ai/jobs/info/69da1dc75356a60f40fdfa7c?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | ↳ | **[Integrated Workplace Management System (AiM) Intern](https://jobright.ai/jobs/info/69da1e129f97a42dc9c277a3?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Employee Experience Intern Summer 2026](https://jobright.ai/jobs/info/69d6ee44cfdc6132f946e1ee?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Apr 10 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/69d9dd7d869c7e25d859e792?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 10 |
 | **[Spectrum Society for Community Living](https://www.spectrumsociety.org)** | **[26-17 – Temporary Human Resources Assistant](https://jobright.ai/jobs/info/69da03835356a60f40fdf644?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 10 |
 | **[RainCity Housing and Support Society](https://www.raincityhousing.org/)** | **[HR - Health & Safety Manager (Mon-Fri Days)](https://jobright.ai/jobs/info/69d9cac25356a60f40fdc6df?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d927425356a60f40fd7f2b?utm_campaign=1054&utm_source=git)** | Durham, North Carolina | On Site | Apr 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/69bc7d6145e08b3dc1f93ba7?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Apr 10 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69d92559869c7e25d85992bb?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Apr 10 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69d9236c5356a60f40fd7d3a?utm_campaign=1054&utm_source=git)** | West Columbia, SC, US | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
