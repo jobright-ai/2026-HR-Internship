@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Marin Water District](https://nmwd.com)** | **[Human Resources/Accounting Intern](https://jobright.ai/jobs/info/69dc5bdd869c7e25d85a97c1?utm_campaign=1054&utm_source=git)** | Novato, CA | On Site | Apr 12 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[HR Trainee (3-Month Fixed-Term)](https://jobright.ai/jobs/info/69c32497753c101b2156be6d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/69dc35da5356a60f40fe7c94?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69dc35c1738f2f099e8b01d2?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d95acb869c7e25d859a46a?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Apr 10 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Digital HR and Associate Experience](https://jobright.ai/jobs/info/69d95a09738f2f099e8a13cd?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 10 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Internship](https://jobright.ai/jobs/info/69cdfa95cdb525785fb92804?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
-| ↳ | **[Extended Case Management Internship](https://jobright.ai/jobs/info/69ce23b9398fb071abf81c51?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
