@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Woven by Toyota](https://woven.toyota/en)** | **[HR Trainee (3-Month Fixed-Term)](https://jobright.ai/jobs/info/69c32497753c101b2156be6d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/69dc35da5356a60f40fe7c94?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69dc35c1738f2f099e8b01d2?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
+| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/69dc507c9f97a42dc9c3030b?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Apr 12 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69dc0ae19f97a42dc9c2fbc4?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dbfce15356a60f40fe7781?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Digital HR and Associate Experience](https://jobright.ai/jobs/info/69d95a09738f2f099e8a13cd?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 10 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Internship](https://jobright.ai/jobs/info/69cdfa95cdb525785fb92804?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
 | ↳ | **[Extended Case Management Internship](https://jobright.ai/jobs/info/69ce23b9398fb071abf81c51?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
-| **[North Carolina Biotechnology Center (NCBiotech)](http://www.ncbiotech.org/)** | **[Talent and Culture Development (HR) Intern](https://jobright.ai/jobs/info/69d94962738f2f099e8a0dd6?utm_campaign=1054&utm_source=git)** | Research Triangle Park, NC, US | Hybrid | Apr 10 |
-| **[KaarTech](https://www.kaartech.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d93fe4b67cec4f9b0a0be8?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
