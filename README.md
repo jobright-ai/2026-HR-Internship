@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd6fd5f748bc5d08a5fe00?utm_campaign=1054&utm_source=git)** | Welch, MN 55089, USA | On Site | Apr 13 |
+| **[One to One Health](https://onetoonehealth.com)** | **[HR Intern](https://jobright.ai/jobs/info/69dd6fc6f748bc5d08a5fdc0?utm_campaign=1054&utm_source=git)** | 487 - Chattanooga, TN 37402 | On Site | Apr 13 |
+| **[SouthernCarlson](http://www.southerncarlson.com)** | **[HR Admin Intern](https://jobright.ai/jobs/info/69dd6fa8f748bc5d08a5fd9a?utm_campaign=1054&utm_source=git)** | 10840 Harney St, Omaha, NE 68154, USA | On Site | Apr 13 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Distribution and Workforce Planning](https://jobright.ai/jobs/info/69dd6f9df748bc5d08a5fd73?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Apr 13 |
+| **[Highgate](https://www.highgate.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69dd6d03738f2f099e8b636e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 13 |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/69dd6b28738f2f099e8b6207?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Human Resources Learning and Development Intern](https://jobright.ai/jobs/info/69dd6204738f2f099e8b6039?utm_campaign=1054&utm_source=git)** | East Taunton, MA | On Site | Apr 13 |
 | **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd5fbd738f2f099e8b5f77?utm_campaign=1054&utm_source=git)** | Huntersville, NC, US | On Site | Apr 13 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69dd5fa0bc6f6622c9911e6e?utm_campaign=1054&utm_source=git)** | Banner Health Corp Phoenix (2901 N Central Ave) | Hybrid | Apr 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, People, Performance and Culture](https://jobright.ai/jobs/info/6983cf61348f733a5c37347a?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 11 |
 | **[Spring Health](https://www.springhealth.com)** | **[Senior Manager, Global Payroll](https://jobright.ai/jobs/info/69be1eec482822729300d952?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Apr 11 |
 | **[Guardian Jobs](https://jobs.theguardian.com/)** | **[HR Manager](https://jobright.ai/jobs/info/69bd648e393a1008f742bc52?utm_campaign=1054&utm_source=git)** | Halifax, NS | Hybrid | Apr 11 |
-| **[Simons Foundation](https://www.simonsfoundation.org)** | **[People & Culture Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae58b5fc86241853a19f9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 11 |
-| **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0d98c5218a816767207c7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69da1eac9f97a42dc9c27884?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
-| **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69da1e31738f2f099e8a7d19?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 11 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bfd1e17798f73e35e4aa92?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Apr 11 |
-| **[Visteon Corporation](http://www.visteon.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd598fb1060245628244ff?utm_campaign=1054&utm_source=git)** | Van Buren, MI | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
