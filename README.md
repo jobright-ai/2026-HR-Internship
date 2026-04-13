@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dd0ddef748bc5d08a5dc88?utm_campaign=1054&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Apr 13 |
+| **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Apr 13 |
 | **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[Adams / 8hr Administrative Assistant - School Year / 2026-2027 School Year](https://jobright.ai/jobs/info/69dcfd3461f6ed54321fa4a7?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Apr 13 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dcfc2e5356a60f40feba75?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 13 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69dcf98bbc6f6622c990f7b2?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina/South Carolina](https://jobright.ai/jobs/info/69d96944f748bc5d08a4b34b?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Apr 10 |
 | **[The Timken Company](http://www.timken.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/69d968d0738f2f099e8a1a5d?utm_campaign=1054&utm_source=git)** | North Canton, Ohio, United States, 44720 | On Site | Apr 10 |
 | **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern - Employee Health (On-site)](https://jobright.ai/jobs/info/69d968959f97a42dc9c21532?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
-| **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d96647b67cec4f9b0a1db7?utm_campaign=1054&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 10 |
-| **[Manhattan Star Academy](www.yai.org/msa)** | **[Volunteer Outreach Internship](https://jobright.ai/jobs/info/69d966135356a60f40fd9737?utm_campaign=1054&utm_source=git)** | Manhattan | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
