@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Balance Now](https://www.balance.ca)** | **[HR Recruiter Team Member](https://jobright.ai/jobs/info/69dd2614f748bc5d08a5e5c2?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69dd2037bc6f6622c99109f5?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
+| **[Landis+Gyr](https://www.landisgyr.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69dd1fa7f748bc5d08a5e4b0?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Apr 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Apr 13 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Talent Acquisition Coordinator & Special Projects Intern](https://jobright.ai/jobs/info/69dd1a85738f2f099e8b493a?utm_campaign=1054&utm_source=git)** | Daytona Beach, FL | On Site | Apr 13 |
 | **[esVolta, LP](https://www.esvolta.com)** | **[Intern ? People Analytics & AI (HR Data Systems)](https://jobright.ai/jobs/info/69dd19db738f2f099e8b47c0?utm_campaign=1054&utm_source=git)** | Newport Beach, CA | Hybrid | Apr 13 |
 | **[XtalPi Inc.](http://www.xtalpi.com/)** | **[HR Intern (Talent Acquisition Focus)](https://jobright.ai/jobs/info/69dd18aa5356a60f40fec6c8?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69d97a095356a60f40fd9fc9?utm_campaign=1054&utm_source=git)** | Norwell, MA | Hybrid | Apr 10 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69d979ff5356a60f40fd9fb9?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Apr 10 |
 | **[Utah SHRM](https://utahshrm.org)** | **[Intern, Labor Economics](https://jobright.ai/jobs/info/69d979ef738f2f099e8a20df?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Apr 10 |
-| **[Appalachian State University](http://www.appstate.edu/)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69d978ffb67cec4f9b0a23e4?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Apr 10 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Talent Management Intern](https://jobright.ai/jobs/info/69d976d19f97a42dc9c21b32?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 10 |
-| **[AeroSpec, Inc.](http://aerospecinc.com)** | **[HR-People Operations Intern (Manufacturing/Engineering)](https://jobright.ai/jobs/info/69d976a49f97a42dc9c21a9e?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Apr 10 |
-| **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/69d9761bf748bc5d08a4b541?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
