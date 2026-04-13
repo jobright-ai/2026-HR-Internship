@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[Adams / 8hr Administrative Assistant - School Year / 2026-2027 School Year](https://jobright.ai/jobs/info/69dcfd3461f6ed54321fa4a7?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Apr 13 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dcfc2e5356a60f40feba75?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 13 |
+| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69dcf98bbc6f6622c990f7b2?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 13 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dceef5bfa7f40fd6f78b66?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Apr 13 |
 | **[Cavender's](https://www.cavenders.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dce0399f97a42dc9c333cc?utm_campaign=1054&utm_source=git)** | Tyler, TX | On Site | Apr 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69b7b3f406c1ba00c54976c4?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 13 |
@@ -106,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Talent acquisition, intern](https://jobright.ai/jobs/info/69c4cf526f4f855eeda77cf3?utm_campaign=1054&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Apr 11 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, People, Performance and Culture](https://jobright.ai/jobs/info/6983cf61348f733a5c37347a?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 11 |
 | **[Spring Health](https://www.springhealth.com)** | **[Senior Manager, Global Payroll](https://jobright.ai/jobs/info/69be1eec482822729300d952?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Apr 11 |
+| **[Guardian Jobs](https://jobs.theguardian.com/)** | **[HR Manager](https://jobright.ai/jobs/info/69bd648e393a1008f742bc52?utm_campaign=1054&utm_source=git)** | Halifax, NS | Hybrid | Apr 11 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[People & Culture Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae58b5fc86241853a19f9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a0d98c5218a816767207c7?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69da1eac9f97a42dc9c27884?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern - Employee Health (On-site)](https://jobright.ai/jobs/info/69d968959f97a42dc9c21532?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d96647b67cec4f9b0a1db7?utm_campaign=1054&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 10 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Volunteer Outreach Internship](https://jobright.ai/jobs/info/69d966135356a60f40fd9737?utm_campaign=1054&utm_source=git)** | Manhattan | On Site | Apr 10 |
-| **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Student Worker - Demographic Discovery Intern](https://jobright.ai/jobs/info/69d965d0738f2f099e8a19a2?utm_campaign=1054&utm_source=git)** | Delaware, OH, US | On Site | Apr 10 |
-| **[ITS Logistics](http://its4logistics.com)** | **[Recruiting Associate (Internship) - Fort Worth](https://jobright.ai/jobs/info/69d95f9d738f2f099e8a18b6?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
-| **[Trilon Group](https://www.trilongroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d95f94f748bc5d08a4af97?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 10 |
-| **[Aramark Destinations](https://thenationsvacation.com/)** | **[HR Intern - Kutztown University](https://jobright.ai/jobs/info/69d95f84f748bc5d08a4af34?utm_campaign=1054&utm_source=git)** | Kutztown, PA, US, 19530 | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
