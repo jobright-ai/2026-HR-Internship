@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Contemporary Amperex Technology Kentucky LLC](http://www.catl.com)** | **[Human Resources Intern -CATK](https://jobright.ai/jobs/info/69cdeafd398fb071abf7decc?utm_campaign=1054&utm_source=git)** | Marshall, MI | On Site | Apr 13 |
+| **[LandMark Implement, Inc](http://www.landmarkimp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd5403bc6f6622c9911a22?utm_campaign=1054&utm_source=git)** | Kearney Support Center - Kearney, NE 68847 | On Site | Apr 13 |
+| **[House-Hasson Hardware Company](http://househasson.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd5401bc6f6622c9911a02?utm_campaign=1054&utm_source=git)** | Knoxville - KNOXVILLE, TN 37914 | On Site | Apr 13 |
+| **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69dd5313bc6f6622c99119a6?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 13 |
+| **[Farmer Companies](https://farmercompanies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd526361f6ed54321fc77f?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Apr 13 |
+| **[John Howard Society of Victoria](https://jhsvic.ca/)** | **[Program Manager, Employment Services](https://jobright.ai/jobs/info/69dd4e8abc6f6622c991163d?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 13 |
+| **[CRH](http://crh.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69dd4e5c9f97a42dc9c3561d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
+| **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Apr 13 |
 | **[H Mart Manhattan](https://www.hmartny.com/)** | **[Bilingual HR & Business Administration Intern (English/Korean)](https://jobright.ai/jobs/info/69dd45805356a60f40fed4e2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[AMG Financial Services](https://www.amgfinancialservices.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69dd453f738f2f099e8b565d?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Remote | Apr 13 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dd451161f6ed54321fc39b?utm_campaign=1054&utm_source=git)** | Manhattan | On Site | Apr 13 |
-| **[CRH](http://crh.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69dd3ccdbc6f6622c99112d2?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
+| **[Mizkan America](http://mizkan.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d63963cfdc6132f9469221?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 13 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[2026 Human Resources Summer Internship](https://jobright.ai/jobs/info/69dd39435356a60f40fed232?utm_campaign=1054&utm_source=git)** | Jackson, NJ | On Site | Apr 13 |
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69dd37cd9f97a42dc9c350a2?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 13 |
 | **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dd37b3bc6f6622c9910fce?utm_campaign=1054&utm_source=git)** | Corporate_Cove | On Site | Apr 13 |
@@ -69,6 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Network Partners Group](https://www.oneNPG.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69dd34bb9f97a42dc9c34f93?utm_campaign=1054&utm_source=git)** | Blue Bell, PA | On Site | Apr 13 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d565ae891d7b11cfd019a7?utm_campaign=1054&utm_source=git)** | Ocoee, FL | On Site | Apr 13 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern - Summer '26](https://jobright.ai/jobs/info/69ce2c07cdb525785fb947cc?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Apr 13 |
+| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dd4e7f9f97a42dc9c3569a?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 13 |
+| **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69dd52e361f6ed54321fc835?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Apr 13 |
 | **[Balance Now](https://www.balance.ca)** | **[HR Recruiter Team Member](https://jobright.ai/jobs/info/69dd2614f748bc5d08a5e5c2?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69dd2037bc6f6622c99109f5?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69dd1fa7f748bc5d08a5e4b0?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Apr 13 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Director of Strategic International Recruitment](https://jobright.ai/jobs/info/69da1dc75356a60f40fdfa7c?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | ↳ | **[Integrated Workplace Management System (AiM) Intern](https://jobright.ai/jobs/info/69da1e129f97a42dc9c277a3?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Employee Experience Intern Summer 2026](https://jobright.ai/jobs/info/69d6ee44cfdc6132f946e1ee?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Apr 10 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/69d9dd7d869c7e25d859e792?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 10 |
-| **[Spectrum Society for Community Living](https://www.spectrumsociety.org)** | **[26-17 – Temporary Human Resources Assistant](https://jobright.ai/jobs/info/69da03835356a60f40fdf644?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 10 |
-| **[PNC](http://www.pnc.com)** | **[Recruiting Advisor-- Mortgage](https://jobright.ai/jobs/info/69dc8cecf748bc5d08a5b304?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 10 |
-| **[RainCity Housing and Support Society](https://www.raincityhousing.org/)** | **[HR - Health & Safety Manager (Mon-Fri Days)](https://jobright.ai/jobs/info/69d9cac25356a60f40fdc6df?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 10 |
-| **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Culture & DEI](https://jobright.ai/jobs/info/69d9cab3f748bc5d08a4e100?utm_campaign=1054&utm_source=git)** | El Segundo, CA | Hybrid | Apr 10 |
-| **[JTEKT Automotive Mexico](https://jtekt-na.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d9b32b5356a60f40fdbbd5?utm_campaign=1054&utm_source=git)** | Koyo Bearings, 1006 Northpoint Blvd, Blythewood, South Carolina, United States of America | On Site | Apr 10 |
-| **[Getinge](https://www.getinge.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d9b096b67cec4f9b0a4020?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Apr 10 |
-| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/69d9aef9738f2f099e8a3c43?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Apr 10 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[High School Health & Safety Internship](https://jobright.ai/jobs/info/69d9ae4d738f2f099e8a3a9d?utm_campaign=1054&utm_source=git)** | New Haven, IN | On Site | Apr 10 |
-| **[The Timken Company](http://www.timken.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/69d9a482b67cec4f9b0a3966?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
