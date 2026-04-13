@@ -112,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Regional Internship Coordinator - Long Island](https://jobright.ai/jobs/info/69da02d45356a60f40fdf33a?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 11 |
 | ↳ | **[Senior Director of Strategic International Recruitment](https://jobright.ai/jobs/info/69da1dc75356a60f40fdfa7c?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | ↳ | **[Integrated Workplace Management System (AiM) Intern](https://jobright.ai/jobs/info/69da1e129f97a42dc9c277a3?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Compensation Program Manager - Pay Equity](https://jobright.ai/jobs/info/69dca7ef9f97a42dc9c3273c?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Apr 10 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Employee Experience Intern Summer 2026](https://jobright.ai/jobs/info/69d6ee44cfdc6132f946e1ee?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Apr 10 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/69d9dd7d869c7e25d859e792?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 10 |
 | **[Spectrum Society for Community Living](https://www.spectrumsociety.org)** | **[26-17 – Temporary Human Resources Assistant](https://jobright.ai/jobs/info/69da03835356a60f40fdf644?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Recruiting Intern (Fall 2026)](https://jobright.ai/jobs/info/69d95e7f738f2f099e8a165f?utm_campaign=1054&utm_source=git)** | Hershey, PA 17033, USA | On Site | Apr 10 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d95e519f97a42dc9c21125?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Apr 10 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d95acb869c7e25d859a46a?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Apr 10 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Digital HR and Associate Experience](https://jobright.ai/jobs/info/69d95a09738f2f099e8a13cd?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
