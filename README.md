@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Talent Acquisition Coordinator & Special Projects Intern](https://jobright.ai/jobs/info/69dd1a85738f2f099e8b493a?utm_campaign=1054&utm_source=git)** | Daytona Beach, FL | On Site | Apr 13 |
+| **[esVolta, LP](https://www.esvolta.com)** | **[Intern ? People Analytics & AI (HR Data Systems)](https://jobright.ai/jobs/info/69dd19db738f2f099e8b47c0?utm_campaign=1054&utm_source=git)** | Newport Beach, CA | Hybrid | Apr 13 |
+| **[XtalPi Inc.](http://www.xtalpi.com/)** | **[HR Intern (Talent Acquisition Focus)](https://jobright.ai/jobs/info/69dd18aa5356a60f40fec6c8?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 13 |
+| **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 13 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - People Strategy & Innovation](https://jobright.ai/jobs/info/69dd172a9f97a42dc9c342bb?utm_campaign=1054&utm_source=git)** | Miami FL (Waterford) | On Site | Apr 13 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dd0ddef748bc5d08a5dc88?utm_campaign=1054&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Apr 13 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Apr 13 |
 | **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[Adams / 8hr Administrative Assistant - School Year / 2026-2027 School Year](https://jobright.ai/jobs/info/69dcfd3461f6ed54321fa4a7?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Apr 13 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dcfc2e5356a60f40feba75?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 13 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69dcf98bbc6f6622c990f7b2?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 13 |
+| **[N & M Transfer Co., Inc.](www.nmtransfer.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd17b361f6ed54321fad1f?utm_campaign=1054&utm_source=git)** | Neenah, WI 54956, USA | On Site | Apr 13 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dceef5bfa7f40fd6f78b66?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Apr 13 |
 | **[Cavender's](https://www.cavenders.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dce0399f97a42dc9c333cc?utm_campaign=1054&utm_source=git)** | Tyler, TX | On Site | Apr 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69b7b3f406c1ba00c54976c4?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Talent Management Intern](https://jobright.ai/jobs/info/69d976d19f97a42dc9c21b32?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 10 |
 | **[AeroSpec, Inc.](http://aerospecinc.com)** | **[HR-People Operations Intern (Manufacturing/Engineering)](https://jobright.ai/jobs/info/69d976a49f97a42dc9c21a9e?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Apr 10 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/69d9761bf748bc5d08a4b541?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d96e46738f2f099e8a1b25?utm_campaign=1054&utm_source=git)** | USA, New Jersey, Elizabeth, 07207 | On Site | Apr 10 |
-| **[GA Telesis](http://www.gatelesis.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d96d105356a60f40fd9aca?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 10 |
-| **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69d96c129f97a42dc9c2179e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 10 |
-| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina/South Carolina](https://jobright.ai/jobs/info/69d96944f748bc5d08a4b34b?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Apr 10 |
-| **[The Timken Company](http://www.timken.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/69d968d0738f2f099e8a1a5d?utm_campaign=1054&utm_source=git)** | North Canton, Ohio, United States, 44720 | On Site | Apr 10 |
-| **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern - Employee Health (On-site)](https://jobright.ai/jobs/info/69d968959f97a42dc9c21532?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
