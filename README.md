@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jordan's Furniture](http://www.jordans.com/)** | **[Human Resources Learning and Development Intern](https://jobright.ai/jobs/info/69dd6204738f2f099e8b6039?utm_campaign=1054&utm_source=git)** | East Taunton, MA | On Site | Apr 13 |
+| **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd5fbd738f2f099e8b5f77?utm_campaign=1054&utm_source=git)** | Huntersville, NC, US | On Site | Apr 13 |
+| **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69dd5fa0bc6f6622c9911e6e?utm_campaign=1054&utm_source=git)** | Banner Health Corp Phoenix (2901 N Central Ave) | Hybrid | Apr 13 |
+| **[Waterloo Catholic District School Board](https://www.wcdsb.ca/)** | **[PASS ? Temporary Payroll Supervisor](https://jobright.ai/jobs/info/69dd5a835356a60f40feddf6?utm_campaign=1054&utm_source=git)** | Kitchener, ON | On Site | Apr 13 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Human Resource Grad Intern](https://jobright.ai/jobs/info/69dd5a3261f6ed54321fcf47?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Apr 13 |
 | **[Contemporary Amperex Technology Kentucky LLC](http://www.catl.com)** | **[Human Resources Intern -CATK](https://jobright.ai/jobs/info/69cdeafd398fb071abf7decc?utm_campaign=1054&utm_source=git)** | Marshall, MI | On Site | Apr 13 |
 | **[LandMark Implement, Inc](http://www.landmarkimp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd5403bc6f6622c9911a22?utm_campaign=1054&utm_source=git)** | Kearney Support Center - Kearney, NE 68847 | On Site | Apr 13 |
 | **[House-Hasson Hardware Company](http://househasson.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd5401bc6f6622c9911a02?utm_campaign=1054&utm_source=git)** | Knoxville - KNOXVILLE, TN 37914 | On Site | Apr 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69da1e31738f2f099e8a7d19?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bfd1e17798f73e35e4aa92?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Apr 11 |
 | **[Visteon Corporation](http://www.visteon.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd598fb1060245628244ff?utm_campaign=1054&utm_source=git)** | Van Buren, MI | On Site | Apr 11 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Human Resources Classification and Compensation Analyst](https://jobright.ai/jobs/info/69da046e738f2f099e8a7764?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
-| ↳ | **[Regional Internship Coordinator - Long Island](https://jobright.ai/jobs/info/69da02d45356a60f40fdf33a?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 11 |
-| ↳ | **[Senior Director of Strategic International Recruitment](https://jobright.ai/jobs/info/69da1dc75356a60f40fdfa7c?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
-| ↳ | **[Integrated Workplace Management System (AiM) Intern](https://jobright.ai/jobs/info/69da1e129f97a42dc9c277a3?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 11 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Employee Experience Intern Summer 2026](https://jobright.ai/jobs/info/69d6ee44cfdc6132f946e1ee?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
