@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cavender's](https://www.cavenders.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dce0399f97a42dc9c333cc?utm_campaign=1054&utm_source=git)** | Tyler, TX | On Site | Apr 13 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69b7b3f406c1ba00c54976c4?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 | **[City and County of Broomfield](https://www.broomfield.org/)** | **[MSW Internship](https://jobright.ai/jobs/info/69dcc156f748bc5d08a5c5b1?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 13 |
 | **[Lake Washington School District](https://www.lwsd.org/)** | **[Executive Director of Human Resources](https://jobright.ai/jobs/info/69dcc20fbc6f6622c990e8cc?utm_campaign=1054&utm_source=git)** | Redmond, WA | On Site | Apr 13 |
 | **[North Marin Water District](https://nmwd.com)** | **[Human Resources/Accounting Intern](https://jobright.ai/jobs/info/69dc5bdd869c7e25d85a97c1?utm_campaign=1054&utm_source=git)** | Novato, CA | On Site | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ITS Logistics](http://its4logistics.com)** | **[Recruiting Associate (Internship) - Fort Worth](https://jobright.ai/jobs/info/69d95f9d738f2f099e8a18b6?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d95f94f748bc5d08a4af97?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 10 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[HR Intern - Kutztown University](https://jobright.ai/jobs/info/69d95f84f748bc5d08a4af34?utm_campaign=1054&utm_source=git)** | Kutztown, PA, US, 19530 | On Site | Apr 10 |
-| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Recruiting Intern (Fall 2026)](https://jobright.ai/jobs/info/69d95e7f738f2f099e8a165f?utm_campaign=1054&utm_source=git)** | Hershey, PA 17033, USA | On Site | Apr 10 |
-| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d95e519f97a42dc9c21125?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
