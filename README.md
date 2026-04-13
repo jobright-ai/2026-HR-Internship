@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69dd37cd9f97a42dc9c350a2?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 13 |
+| **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dd37b3bc6f6622c9910fce?utm_campaign=1054&utm_source=git)** | Corporate_Cove | On Site | Apr 13 |
+| **[Farmer Companies](https://farmercompanies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd3797f748bc5d08a5eb5f?utm_campaign=1054&utm_source=git)** | FHC Management - Jefferson City, MO 65101 | On Site | Apr 13 |
+| **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Learning & Development Internship](https://jobright.ai/jobs/info/69dd37585356a60f40fed163?utm_campaign=1054&utm_source=git)** | Corporate_Cove | On Site | Apr 13 |
+| **[Network Partners Group](https://www.oneNPG.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69dd34bb9f97a42dc9c34f93?utm_campaign=1054&utm_source=git)** | Blue Bell, PA | On Site | Apr 13 |
+| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d565ae891d7b11cfd019a7?utm_campaign=1054&utm_source=git)** | Ocoee, FL | On Site | Apr 13 |
+| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern - Summer '26](https://jobright.ai/jobs/info/69ce2c07cdb525785fb947cc?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Apr 13 |
 | **[Balance Now](https://www.balance.ca)** | **[HR Recruiter Team Member](https://jobright.ai/jobs/info/69dd2614f748bc5d08a5e5c2?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69dd2037bc6f6622c99109f5?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69dd1fa7f748bc5d08a5e4b0?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Apr 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CB&I](http://www.cbi.com)** | **[HR- Intern](https://jobright.ai/jobs/info/69d990d4869c7e25d859b8d2?utm_campaign=1054&utm_source=git)** | Plainfield, IL | On Site | Apr 10 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd73?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
 | **[APM Terminals](https://www.apmterminals.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d988c15356a60f40fda356?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Apr 10 |
-| **[Getinge](https://www.getinge.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d987bf869c7e25d859b515?utm_campaign=1054&utm_source=git)** | Wayne, NJ, US | On Site | Apr 10 |
-| **[Farmer Focus](https://www.farmerfocus.com)** | **[Internship: Human Resources](https://jobright.ai/jobs/info/69d98775b67cec4f9b0a2689?utm_campaign=1054&utm_source=git)** | Harrisonburg, VA | On Site | Apr 10 |
-| **[Sono Bello](http://sonobello.com)** | **[Intern – People Operations](https://jobright.ai/jobs/info/69d97c05738f2f099e8a2256?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
-| ↳ | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69d97a095356a60f40fd9fc9?utm_campaign=1054&utm_source=git)** | Norwell, MA | Hybrid | Apr 10 |
-| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69d979ff5356a60f40fd9fb9?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Apr 10 |
-| **[Utah SHRM](https://utahshrm.org)** | **[Intern, Labor Economics](https://jobright.ai/jobs/info/69d979ef738f2f099e8a20df?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
