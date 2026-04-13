@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H Mart Manhattan](https://www.hmartny.com/)** | **[Bilingual HR & Business Administration Intern (English/Korean)](https://jobright.ai/jobs/info/69dd45805356a60f40fed4e2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 13 |
+| **[AMG Financial Services](https://www.amgfinancialservices.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69dd453f738f2f099e8b565d?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Remote | Apr 13 |
+| **[Manhattan Star Academy](www.yai.org/msa)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dd451161f6ed54321fc39b?utm_campaign=1054&utm_source=git)** | Manhattan | On Site | Apr 13 |
+| **[CRH](http://crh.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69dd3ccdbc6f6622c99112d2?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[2026 Human Resources Summer Internship](https://jobright.ai/jobs/info/69dd39435356a60f40fed232?utm_campaign=1054&utm_source=git)** | Jackson, NJ | On Site | Apr 13 |
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69dd37cd9f97a42dc9c350a2?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 13 |
 | **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dd37b3bc6f6622c9910fce?utm_campaign=1054&utm_source=git)** | Corporate_Cove | On Site | Apr 13 |
 | **[Farmer Companies](https://farmercompanies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd3797f748bc5d08a5eb5f?utm_campaign=1054&utm_source=git)** | FHC Management - Jefferson City, MO 65101 | On Site | Apr 13 |
@@ -73,7 +78,9 @@ For a complete list, click the following sortable link below:
 | **[XtalPi Inc.](http://www.xtalpi.com/)** | **[HR Intern (Talent Acquisition Focus)](https://jobright.ai/jobs/info/69dd18aa5356a60f40fec6c8?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 13 |
 | **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 13 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - People Strategy & Innovation](https://jobright.ai/jobs/info/69dd172a9f97a42dc9c342bb?utm_campaign=1054&utm_source=git)** | Miami FL (Waterford) | On Site | Apr 13 |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd397261f6ed54321fbd56?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dd0ddef748bc5d08a5dc88?utm_campaign=1054&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Apr 13 |
+| **[American Arbitration Association](https://www.adr.org)** | **[Human Resources Generalist](https://jobright.ai/jobs/info/69dd394c61f6ed54321fbcb7?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 13 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Apr 13 |
 | **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[Adams / 8hr Administrative Assistant - School Year / 2026-2027 School Year](https://jobright.ai/jobs/info/69dcfd3461f6ed54321fa4a7?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Apr 13 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dcfc2e5356a60f40feba75?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/69d9aef9738f2f099e8a3c43?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Apr 10 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[High School Health & Safety Internship](https://jobright.ai/jobs/info/69d9ae4d738f2f099e8a3a9d?utm_campaign=1054&utm_source=git)** | New Haven, IN | On Site | Apr 10 |
 | **[The Timken Company](http://www.timken.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/69d9a482b67cec4f9b0a3966?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Apr 10 |
-| **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
-| **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Organizational Empowerment Intern](https://jobright.ai/jobs/info/69d9a3af9f97a42dc9c230b3?utm_campaign=1054&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Apr 10 |
-| **[Purolator Inc.](http://www.purolator.com)** | **[Human Resources Coordinator - Summer Hiring](https://jobright.ai/jobs/info/69d9bfae869c7e25d859d523?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
-| **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Assistant Director of Admissions Operations and Systems](https://jobright.ai/jobs/info/69d99374b67cec4f9b0a2b0c?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Apr 10 |
-| **[CB&I](http://www.cbi.com)** | **[HR- Intern](https://jobright.ai/jobs/info/69d990d4869c7e25d859b8d2?utm_campaign=1054&utm_source=git)** | Plainfield, IL | On Site | Apr 10 |
-| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd73?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
-| **[APM Terminals](https://www.apmterminals.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d988c15356a60f40fda356?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
