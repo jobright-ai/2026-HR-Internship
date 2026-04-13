@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dceef5bfa7f40fd6f78b66?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Apr 13 |
 | **[Cavender's](https://www.cavenders.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dce0399f97a42dc9c333cc?utm_campaign=1054&utm_source=git)** | Tyler, TX | On Site | Apr 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69b7b3f406c1ba00c54976c4?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 | **[City and County of Broomfield](https://www.broomfield.org/)** | **[MSW Internship](https://jobright.ai/jobs/info/69dcc156f748bc5d08a5c5b1?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 13 |
 | **[Lake Washington School District](https://www.lwsd.org/)** | **[Executive Director of Human Resources](https://jobright.ai/jobs/info/69dcc20fbc6f6622c990e8cc?utm_campaign=1054&utm_source=git)** | Redmond, WA | On Site | Apr 13 |
-| **[North Marin Water District](https://nmwd.com)** | **[Human Resources/Accounting Intern](https://jobright.ai/jobs/info/69dc5bdd869c7e25d85a97c1?utm_campaign=1054&utm_source=git)** | Novato, CA | On Site | Apr 12 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[HR Trainee (3-Month Fixed-Term)](https://jobright.ai/jobs/info/69c32497753c101b2156be6d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/69dc35da5356a60f40fe7c94?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69dc35c1738f2f099e8b01d2?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
