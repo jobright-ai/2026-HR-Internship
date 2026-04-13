@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[arrivia](https://www.arrivia.com/)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/69dc35da5356a60f40fe7c94?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69dc35c1738f2f099e8b01d2?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69dc0ae19f97a42dc9c2fbc4?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dbfce15356a60f40fe7781?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | Apr 12 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1767d4a7df7a067247bb?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/699feb02ce78e77b4fe5e3c5?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Apr 12 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Apr 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/69dbae645356a60f40fe6e8f?utm_campaign=1054&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69dbae53738f2f099e8af35d?utm_campaign=1054&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Strategy and Operations Intern](https://jobright.ai/jobs/info/69a40d7f359fe034b1cf0d59?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Apr 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extended Case Management Internship](https://jobright.ai/jobs/info/69ce23b9398fb071abf81c51?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
 | **[North Carolina Biotechnology Center (NCBiotech)](http://www.ncbiotech.org/)** | **[Talent and Culture Development (HR) Intern](https://jobright.ai/jobs/info/69d94962738f2f099e8a0dd6?utm_campaign=1054&utm_source=git)** | Research Triangle Park, NC, US | Hybrid | Apr 10 |
 | **[KaarTech](https://www.kaartech.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d93fe4b67cec4f9b0a0be8?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 10 |
-| **[ARCH](http://www.archglobalprecision.com/)** | **[HR Intern 1](https://jobright.ai/jobs/info/69d93ce1f748bc5d08a49f20?utm_campaign=1054&utm_source=git)** | Bloomfield Hills, MI | Hybrid | Apr 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Rhinelander](https://jobright.ai/jobs/info/69d93c99869c7e25d8599881?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | Apr 10 |
-| **[KOMPAN Inc Americas](https://www.kompan.com/en/us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d93c675356a60f40fd850a?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
