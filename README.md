@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[HR / People Operations Intern](https://jobright.ai/jobs/info/69de1b925913ad339813bfd2?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Apr 14 |
+| **[Social Security Administration](http://www.ssa.gov)** | **[Human Resources (Pathways Intern)](https://jobright.ai/jobs/info/69de164618cf504166e2badb?utm_campaign=1054&utm_source=git)** | Richmond, CA | On Site | Apr 14 |
+| **[Quanex](http://www.quanex.com/)** | **[HR Intern - Total Rewards](https://jobright.ai/jobs/info/69c182c975f7ff1cd80f9623?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 14 |
+| **[Davies Molding](http://www.daviesmolding.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69c1b14e75f7ff1cd80ffdf8?utm_campaign=1054&utm_source=git)** | Carol Stream, IL | On Site | Apr 14 |
 | **[Asplundh Tree Expert, LLC](http://www.asplundh.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de07845913ad339813be06?utm_campaign=1054&utm_source=git)** | Willow Grove, PA | Hybrid | Apr 14 |
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69de03cbe34484770f1a08e1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69de03cbe34484770f1a08e2?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dd0ddef748bc5d08a5dc88?utm_campaign=1054&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Apr 13 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Human Resources Generalist](https://jobright.ai/jobs/info/69dd394c61f6ed54321fbcb7?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 13 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Apr 13 |
-| **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[Adams / 8hr Administrative Assistant - School Year / 2026-2027 School Year](https://jobright.ai/jobs/info/69dcfd3461f6ed54321fa4a7?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Apr 13 |
-| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dcfc2e5356a60f40feba75?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 13 |
-| **[N & M Transfer Co., Inc.](www.nmtransfer.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd17b361f6ed54321fad1f?utm_campaign=1054&utm_source=git)** | Neenah, WI 54956, USA | On Site | Apr 13 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dceef5bfa7f40fd6f78b66?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
