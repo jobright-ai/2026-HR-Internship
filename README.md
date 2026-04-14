@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[National Cart Company](https://nationalcart.com/)** | **[HR Intern (unpaid)](https://jobright.ai/jobs/info/69dea6c1433ac8430e0db925?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | Apr 14 |
+| **[Continental](https://www.continental.com)** | **[Intern - Recruiting / Talent Acquisition Coordinator, Year-Round](https://jobright.ai/jobs/info/69deb5ea5913ad339813f149?utm_campaign=1054&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Apr 14 |
+| **[PTI Technologies](http://ptitechnologies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69deb595aba61f14173174cb?utm_campaign=1054&utm_source=git)** | Oxnard,CA,US | On Site | Apr 14 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69deb2c318cf504166e2f5e7?utm_campaign=1054&utm_source=git)** | Oxnard, CA | On Site | Apr 14 |
+| **[MacEwan University](http://www.MacEwan.ca)** | **[Assistant, Employee Services - Employee Services, Human Resources](https://jobright.ai/jobs/info/69deb2a518cf504166e2f594?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Apr 14 |
+| **[Product Care Recycling](https://www.productcare.org)** | **[Ontario Recycling Program Intern](https://jobright.ai/jobs/info/69deb2965913ad339813f005?utm_campaign=1054&utm_source=git)** | Toronto, ON | Hybrid | Apr 14 |
+| **[Hercules Industries](http://herculesindustries.com)** | **[HR/Learning & Development Intern](https://jobright.ai/jobs/info/69deb2885913ad339813efd3?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 14 |
+| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/69deb210433ac8430e0dbe5e?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 14 |
+| **[Hercules Industries](http://herculesindustries.com)** | **[HR/Learning & Development Intern](https://jobright.ai/jobs/info/69deb1ab18cf504166e2f3cb?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Apr 14 |
+| **[Piping Technology & Products, Inc.](http://www.pipingtech.com)** | **[HR Intern](https://jobright.ai/jobs/info/69deb191e34484770f1a42e7?utm_campaign=1054&utm_source=git)** | Houston,TX,US | On Site | Apr 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/69dea66c433ac8430e0db8b2?utm_campaign=1054&utm_source=git)** | Greeley, CO | On Site | Apr 14 |
 | **[MedVanta](https://medvanta.com/)** | **[Central Office Intern - HR](https://jobright.ai/jobs/info/69dea5dfe34484770f1a3e35?utm_campaign=1054&utm_source=git)** | Bethesda, Maryland, United States | On Site | Apr 14 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dea5cbe34484770f1a3dc0?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Apr 14 |
@@ -110,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Lumentum](https://www.lumentum.com/en)** | **[HR AI Analytics Intern](https://jobright.ai/jobs/info/69d68822cfdc6132f946a690?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69de2025e34484770f1a0c49?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
 | **[TMX Group](http://www.tmx.com)** | **[Student Intern - Talent Acquisition - Fall Term](https://jobright.ai/jobs/info/69c1ef7279e36d3a847f089c?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 14 |
-| **[Chesterfield County](https://www.chesterfield.gov)** | **[Human Resources Technician](https://jobright.ai/jobs/info/69de3f795913ad339813c629?utm_campaign=1054&utm_source=git)** | Chesterfield, VA | On Site | Apr 14 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[HR / People Operations Intern](https://jobright.ai/jobs/info/69de1b925913ad339813bfd2?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Apr 14 |
 | **[Social Security Administration](http://www.ssa.gov)** | **[Human Resources (Pathways Intern)](https://jobright.ai/jobs/info/69de164618cf504166e2badb?utm_campaign=1054&utm_source=git)** | Richmond, CA | On Site | Apr 14 |
 | **[Davies Molding](http://www.daviesmolding.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69c1b14e75f7ff1cd80ffdf8?utm_campaign=1054&utm_source=git)** | Carol Stream, IL | On Site | Apr 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pure Fishing](https://www.purefishing.com)** | **[HR Intern](https://jobright.ai/jobs/info/69dda2934d3bec4144b4ce1c?utm_campaign=1054&utm_source=git)** | Sandwich, IL | On Site | Apr 13 |
 | **[Talpa Supermercados](https://supermercadostalpa.com/)** | **[Summer Internship – Human Resources & Recruiting (Bilingual English/Spanish Required)](https://jobright.ai/jobs/info/69dda1e18182b27d34740251?utm_campaign=1054&utm_source=git)** | Stone Mountain, GA | Hybrid | Apr 13 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Global Talent Management (GTM) Strategy & Operations Intern](https://jobright.ai/jobs/info/69dd9a7435a2b346b20b1b67?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 13 |
-| **[Grunley Construction Company, Inc.](http://grunley.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69dd9a5e7107be09f5bbc297?utm_campaign=1054&utm_source=git)** | Rockville, MD | On Site | Apr 13 |
-| **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69dd9a5c7107be09f5bbc290?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 13 |
-| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd9a4200040935c01459d1?utm_campaign=1054&utm_source=git)** | Rutherglen, ON | On Site | Apr 13 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dd8a6661f6ed54321fdc95?utm_campaign=1054&utm_source=git)** | Jackson, NJ | On Site | Apr 13 |
-| **[Methanex Corporation](http://www.methanex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd8a5f61f6ed54321fdc88?utm_campaign=1054&utm_source=git)** | Medicine Hat, AB | On Site | Apr 13 |
-| **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69de65bc36823d1b42580c72?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 13 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Distribution and Workforce Planning](https://jobright.ai/jobs/info/69dd87cbf748bc5d08a6032d?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
