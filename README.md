@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69c1c53b2c312363dcd4f57e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Operations Professional Intern](https://jobright.ai/jobs/info/69c27addec22f8310ab0499a?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 14 |
+| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c1de9c2c312363dcd5162d?utm_campaign=1054&utm_source=git)** | Plantation, FL | Hybrid | Apr 14 |
+| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69d08b76cfdc6132f943c731?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Intern - Summer 2026 (Cleveland)](https://jobright.ai/jobs/info/69c1c52c2c312363dcd4f565?utm_campaign=1054&utm_source=git)** | Cleveland, OH | Hybrid | Apr 14 |
+| **[SPX Technologies](https://www.spx.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c18bfb75f7ff1cd80fb0d0?utm_campaign=1054&utm_source=git)** | Brentwood, MO | Hybrid | Apr 14 |
+| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69c1c72379e36d3a847ed3e1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[HR AI Analytics Intern](https://jobright.ai/jobs/info/69d68822cfdc6132f946a690?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69de2025e34484770f1a0c49?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
 | **[TMX Group](http://www.tmx.com)** | **[Student Intern - Talent Acquisition - Fall Term](https://jobright.ai/jobs/info/69c1ef7279e36d3a847f089c?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dd4e7f9f97a42dc9c3569a?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 13 |
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69dd52e361f6ed54321fc835?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Apr 13 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69dd1fa7f748bc5d08a5e4b0?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Apr 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Paducah, KY | On Site | Apr 13 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Talent Acquisition Coordinator & Special Projects Intern](https://jobright.ai/jobs/info/69dd1a85738f2f099e8b493a?utm_campaign=1054&utm_source=git)** | Daytona Beach, FL | On Site | Apr 13 |
-| **[esVolta, LP](https://www.esvolta.com)** | **[Intern ? People Analytics & AI (HR Data Systems)](https://jobright.ai/jobs/info/69dd19db738f2f099e8b47c0?utm_campaign=1054&utm_source=git)** | Newport Beach, CA | Hybrid | Apr 13 |
-| **[XtalPi Inc.](http://www.xtalpi.com/)** | **[HR Intern (Talent Acquisition Focus)](https://jobright.ai/jobs/info/69dd18aa5356a60f40fec6c8?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 13 |
-| **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 13 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd397261f6ed54321fbd56?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
-| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dd0ddef748bc5d08a5dc88?utm_campaign=1054&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
