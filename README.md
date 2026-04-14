@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[HQF - Employee Development Paid Intern](https://jobright.ai/jobs/info/69ddc35e18cf504166e2a29f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 13 |
+| **[North Marin Water District](https://nmwd.com)** | **[Human Resources/Accounting Intern](https://jobright.ai/jobs/info/69ddbf16e34484770f19ef65?utm_campaign=1054&utm_source=git)** | Novato, CA | On Site | Apr 13 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbee7433ac8430e0d69c8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
+| ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Apr 13 |
+| **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ddbea6433ac8430e0d6978?utm_campaign=1054&utm_source=git)** | Juneau, AK | On Site | Apr 13 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HQF - Employee Development Paid Intern](https://jobright.ai/jobs/info/69ddbe8eaba61f1417311e75?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 13 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddb944aba61f1417311dae?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[CLTI Recruiting Intern](https://jobright.ai/jobs/info/69ddb944aba61f1417311dac?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Student Recruitment Coordinator, Education Student Services Center, College of Education [R0151300]](https://jobright.ai/jobs/info/69ddb5b7e34484770f19ec63?utm_campaign=1054&utm_source=git)** | LV Metro Area | On Site | Apr 13 |
 | **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Payroll Specialist](https://jobright.ai/jobs/info/69ddb24faba61f1417311b0d?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Apr 13 |
 | **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69dda52b8182b27d34740a3c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Apr 13 |
@@ -129,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[esVolta, LP](https://www.esvolta.com)** | **[Intern ? People Analytics & AI (HR Data Systems)](https://jobright.ai/jobs/info/69dd19db738f2f099e8b47c0?utm_campaign=1054&utm_source=git)** | Newport Beach, CA | Hybrid | Apr 13 |
 | **[XtalPi Inc.](http://www.xtalpi.com/)** | **[HR Intern (Talent Acquisition Focus)](https://jobright.ai/jobs/info/69dd18aa5356a60f40fec6c8?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 13 |
 | **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 13 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - People Strategy & Innovation](https://jobright.ai/jobs/info/69dd172a9f97a42dc9c342bb?utm_campaign=1054&utm_source=git)** | Miami FL (Waterford) | On Site | Apr 13 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd397261f6ed54321fbd56?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dd0ddef748bc5d08a5dc88?utm_campaign=1054&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Apr 13 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Human Resources Generalist](https://jobright.ai/jobs/info/69dd394c61f6ed54321fbcb7?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69dc0ae19f97a42dc9c2fbc4?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dbfce15356a60f40fe7781?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | Apr 12 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1767d4a7df7a067247bb?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Apr 12 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/699feb02ce78e77b4fe5e3c5?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Apr 12 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Apr 12 |
-| **[arrivia](https://www.arrivia.com/)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/69dbae645356a60f40fe6e8f?utm_campaign=1054&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69dbae53738f2f099e8af35d?utm_campaign=1054&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Strategy and Operations Intern](https://jobright.ai/jobs/info/69a40d7f359fe034b1cf0d59?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Apr 12 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
