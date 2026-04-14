@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Tennessee](https://www.tn.gov/)** | **[HR GENERALIST 2 - 04072026-76675](https://jobright.ai/jobs/info/69d59e2d891d7b11cfd033f7?utm_campaign=1054&utm_source=git)** | Davidson County, TN | On Site | Apr 13 |
+| ↳ | **[HR GENERALIST 1 - 04142026-76789](https://jobright.ai/jobs/info/69dde034433ac8430e0d7a41?utm_campaign=1054&utm_source=git)** | Davidson County, TN | On Site | Apr 13 |
 | **[Genesis Molecular AI](https://genesis.ml/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ddce4ce34484770f19f783?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[HQF - Employee Development Paid Intern](https://jobright.ai/jobs/info/69ddc35e18cf504166e2a29f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 13 |
 | **[North Marin Water District](https://nmwd.com)** | **[Human Resources/Accounting Intern](https://jobright.ai/jobs/info/69ddbf16e34484770f19ef65?utm_campaign=1054&utm_source=git)** | Novato, CA | On Site | Apr 13 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Apr 13 |
 | **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ddbea6433ac8430e0d6978?utm_campaign=1054&utm_source=git)** | Juneau, AK | On Site | Apr 13 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HQF - Employee Development Paid Intern](https://jobright.ai/jobs/info/69ddbe8eaba61f1417311e75?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 13 |
+| **[Trademark Metals Recycling - A Nucor Company](http://tmrecycling.com)** | **[HR Intern Co-op](https://jobright.ai/jobs/info/69dddaed5913ad339813ad43?utm_campaign=1054&utm_source=git)** | Cofield, NC, US, 27922 | On Site | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddb944aba61f1417311dae?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[CLTI Recruiting Intern](https://jobright.ai/jobs/info/69ddb944aba61f1417311dac?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Student Recruitment Coordinator, Education Student Services Center, College of Education [R0151300]](https://jobright.ai/jobs/info/69ddb5b7e34484770f19ec63?utm_campaign=1054&utm_source=git)** | LV Metro Area | On Site | Apr 13 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69dd5fa0bc6f6622c9911e6e?utm_campaign=1054&utm_source=git)** | Banner Health Corp Phoenix (2901 N Central Ave) | Hybrid | Apr 13 |
 | **[Waterloo Catholic District School Board](https://www.wcdsb.ca/)** | **[PASS ? Temporary Payroll Supervisor](https://jobright.ai/jobs/info/69dd5a835356a60f40feddf6?utm_campaign=1054&utm_source=git)** | Kitchener, ON | On Site | Apr 13 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Human Resource Grad Intern](https://jobright.ai/jobs/info/69dd5a3261f6ed54321fcf47?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Apr 13 |
-| **[City of Rock Island](http://rigov.org)** | **[Administrative Records Management Intern](https://jobright.ai/jobs/info/69dd8d0d61f6ed54321fe032?utm_campaign=1054&utm_source=git)** | Rock Island, IL | On Site | Apr 13 |
 | **[Contemporary Amperex Technology Kentucky LLC](http://www.catl.com)** | **[Human Resources Intern -CATK](https://jobright.ai/jobs/info/69cdeafd398fb071abf7decc?utm_campaign=1054&utm_source=git)** | Marshall, MI | On Site | Apr 13 |
 | **[LandMark Implement, Inc](http://www.landmarkimp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd5403bc6f6622c9911a22?utm_campaign=1054&utm_source=git)** | Kearney Support Center - Kearney, NE 68847 | On Site | Apr 13 |
 | **[House-Hasson Hardware Company](http://househasson.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd5401bc6f6622c9911a02?utm_campaign=1054&utm_source=git)** | Knoxville - KNOXVILLE, TN 37914 | On Site | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/69dc507c9f97a42dc9c3030b?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Apr 12 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69dc0ae19f97a42dc9c2fbc4?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
-| **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dbfce15356a60f40fe7781?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
