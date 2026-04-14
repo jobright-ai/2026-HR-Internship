@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dda8b1433ac8430e0d6132?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Apr 13 |
+| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Student Recruitment Coordinator, Education Student Services Center, College of Education [R0151300]](https://jobright.ai/jobs/info/69ddb5b7e34484770f19ec63?utm_campaign=1054&utm_source=git)** | LV Metro Area | On Site | Apr 13 |
+| **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Payroll Specialist](https://jobright.ai/jobs/info/69ddb24faba61f1417311b0d?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Apr 13 |
 | **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69dda52b8182b27d34740a3c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Apr 13 |
 | ↳ | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69dda4f3aba61f1417311375?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Apr 13 |
 | **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dda4d5aba61f14173112ef?utm_campaign=1054&utm_source=git)** | Mackinac Island, MI, US | On Site | Apr 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69dbae53738f2f099e8af35d?utm_campaign=1054&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Strategy and Operations Intern](https://jobright.ai/jobs/info/69a40d7f359fe034b1cf0d59?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 12 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern (Atlantic Region) - Future Opportunity](https://jobright.ai/jobs/info/68de53a4a125e75c422b3b6a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
