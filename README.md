@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNICO Group](http://unicogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dda8b1433ac8430e0d6132?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Apr 13 |
+| **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69dda52b8182b27d34740a3c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Apr 13 |
+| ↳ | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69dda4f3aba61f1417311375?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Apr 13 |
+| **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dda4d5aba61f14173112ef?utm_campaign=1054&utm_source=git)** | Mackinac Island, MI, US | On Site | Apr 13 |
+| **[Kentucky Eye Institute](https://kyeye.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bca?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
+| ↳ | **[Human Resources Summer Intern (M&A)](https://jobright.ai/jobs/info/69dda3465913ad3398139775?utm_campaign=1054&utm_source=git)** | US-GA-Atlanta | On Site | Apr 13 |
+| ↳ | **[Human Resources Summer Intern (M&A)](https://jobright.ai/jobs/info/69dda3334d3bec4144b4cf19?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
+| ↳ | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69dda32faba61f14173111f1?utm_campaign=1054&utm_source=git)** | US-GA-Atlanta | On Site | Apr 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Culture & DEI](https://jobright.ai/jobs/info/69dda2bf8182b27d34740687?utm_campaign=1054&utm_source=git)** | El Segundo, CA, US | Hybrid | Apr 13 |
+| ↳ | **[Intern - Culture & DEI](https://jobright.ai/jobs/info/69dda29ae34484770f19dfdc?utm_campaign=1054&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 13 |
+| **[Pure Fishing](https://www.purefishing.com)** | **[HR Intern](https://jobright.ai/jobs/info/69dda2934d3bec4144b4ce1c?utm_campaign=1054&utm_source=git)** | Sandwich, IL | On Site | Apr 13 |
+| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69dda28d433ac8430e0d59e6?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 13 |
+| **[Talpa Supermercados](https://supermercadostalpa.com/)** | **[Summer Internship – Human Resources & Recruiting (Bilingual English/Spanish Required)](https://jobright.ai/jobs/info/69dda1e18182b27d34740251?utm_campaign=1054&utm_source=git)** | Stone Mountain, GA | Hybrid | Apr 13 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Global Talent Management (GTM) Strategy & Operations Intern](https://jobright.ai/jobs/info/69dd9a7435a2b346b20b1b67?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Grunley Construction Company, Inc.](http://grunley.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69dd9a5e7107be09f5bbc297?utm_campaign=1054&utm_source=git)** | Rockville, MD | On Site | Apr 13 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69dd9a5c7107be09f5bbc290?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 13 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Strategy and Operations Intern](https://jobright.ai/jobs/info/69a40d7f359fe034b1cf0d59?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 12 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern (Atlantic Region) - Future Opportunity](https://jobright.ai/jobs/info/68de53a4a125e75c422b3b6a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 12 |
-| **[DART Aerospace](https://www.dartaerospace.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dac82d9f97a42dc9c2bfc9?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 11 |
-| **[Hays County](http://hayscountytx.com)** | **[Veteran Services - Work Study Intern](https://jobright.ai/jobs/info/69dac6ad5356a60f40fe3e19?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Apr 11 |
-| **[Clique Hospitality](https://cliquehospitality.com/)** | **[People & Culture (HR) Intern - Clique Hospitality](https://jobright.ai/jobs/info/69dabd06f748bc5d08a5571e?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
-| **[Portage Learning](https://portagelearning.edu)** | **[Payroll and Business Administration Specialist](https://jobright.ai/jobs/info/69daab0bf748bc5d08a55542?utm_campaign=1054&utm_source=git)** | Beaver Falls, PA | On Site | Apr 11 |
-| **[Rakuten International](http://rakuten.us)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121e96b458d060735da62?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 11 |
-| ↳ | **[Intern - Employee Relations](https://jobright.ai/jobs/info/69a121125218a81676725a0b?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Apr 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d199dd4a7df7a06724a5d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Apr 11 |
-| ↳ | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/69ae65a73de6821aaccdb7fc?utm_campaign=1054&utm_source=git)** | Jackson, TN | On Site | Apr 11 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d229529655e4dd6573479?utm_campaign=1054&utm_source=git)** | Yuba City, CA | On Site | Apr 11 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c370836fe79d861a083?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Apr 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d136a29655e4dd6572569?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Apr 11 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - IO Psychology (Summer 2026)](https://jobright.ai/jobs/info/69bdd0584828227293005bc6?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Apr 11 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696ac1d1db26b618950e0783?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
