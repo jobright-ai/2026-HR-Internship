@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Cart Company](https://nationalcart.com/)** | **[HR Intern (unpaid)](https://jobright.ai/jobs/info/69dea6c1433ac8430e0db925?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | Apr 14 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/69dea66c433ac8430e0db8b2?utm_campaign=1054&utm_source=git)** | Greeley, CO | On Site | Apr 14 |
+| **[MedVanta](https://medvanta.com/)** | **[Central Office Intern - HR](https://jobright.ai/jobs/info/69dea5dfe34484770f1a3e35?utm_campaign=1054&utm_source=git)** | Bethesda, Maryland, United States | On Site | Apr 14 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dea5cbe34484770f1a3dc0?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Apr 14 |
+| **[Rightworks](https://www.rightworks.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cec937891d7b11cfcccb06?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Apr 14 |
+| **[CooperVision](http://coopervision.com)** | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69c2c5ac94007a2195debcae?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Apr 14 |
 | **[EMBREY](https://www.embreydc.com/)** | **[Internship Program Class of 2026 - People Services](https://jobright.ai/jobs/info/69d84e699f97a42dc9c1b7b2?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/69de91f6e34484770f1a324c?utm_campaign=1054&utm_source=git)** | Greeley, Colorado, United States | On Site | Apr 14 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69de8c3f36823d1b42582147?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Apr 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Methanex Corporation](http://www.methanex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd8a5f61f6ed54321fdc88?utm_campaign=1054&utm_source=git)** | Medicine Hat, AB | On Site | Apr 13 |
 | **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69de65bc36823d1b42580c72?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 13 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Distribution and Workforce Planning](https://jobright.ai/jobs/info/69dd87cbf748bc5d08a6032d?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Apr 13 |
-| **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate, Talent Acquisition)](https://jobright.ai/jobs/info/69cb0d71aa3c2c1995e339fb?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 13 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Talent Integration](https://jobright.ai/jobs/info/69dd8781f748bc5d08a6022f?utm_campaign=1054&utm_source=git)** | Twin Cities Area | Hybrid | Apr 13 |
-| **[Cameo](https://www.cameo.com)** | **[Summer Internship (2026)- Talent/Creator Acquisition](https://jobright.ai/jobs/info/69de898b433ac8430e0da60b?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | Apr 13 |
-| **[Methanex Corporation](http://www.methanex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd87025356a60f40fee73f?utm_campaign=1054&utm_source=git)** | Alberta, Canada | On Site | Apr 13 |
-| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Global Talent Management (GTM) Strategy & Operations Intern](https://jobright.ai/jobs/info/69dd7dba61f6ed54321fd985?utm_campaign=1054&utm_source=git)** | Remote (US) | Remote | Apr 13 |
-| **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd7db761f6ed54321fd978?utm_campaign=1054&utm_source=git)** | AK - Juneau | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
