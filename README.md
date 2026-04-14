@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thorlabs](http://www.thorlabs.com)** | **[Summer 2026 Change Management and HR Support Internship](https://jobright.ai/jobs/info/69de43725913ad339813c6ad?utm_campaign=1054&utm_source=git)** | Newton, New Jersey, United States | On Site | Apr 14 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69c1c53b2c312363dcd4f57e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Operations Professional Intern](https://jobright.ai/jobs/info/69c27addec22f8310ab0499a?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 14 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c1de9c2c312363dcd5162d?utm_campaign=1054&utm_source=git)** | Plantation, FL | Hybrid | Apr 14 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69d08b76cfdc6132f943c731?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Intern - Summer 2026 (Cleveland)](https://jobright.ai/jobs/info/69c1c52c2c312363dcd4f565?utm_campaign=1054&utm_source=git)** | Cleveland, OH | Hybrid | Apr 14 |
 | **[SPX Technologies](https://www.spx.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c18bfb75f7ff1cd80fb0d0?utm_campaign=1054&utm_source=git)** | Brentwood, MO | Hybrid | Apr 14 |
-| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69c1c72379e36d3a847ed3e1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[HR AI Analytics Intern](https://jobright.ai/jobs/info/69d68822cfdc6132f946a690?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69de2025e34484770f1a0c49?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
 | **[TMX Group](http://www.tmx.com)** | **[Student Intern - Talent Acquisition - Fall Term](https://jobright.ai/jobs/info/69c1ef7279e36d3a847f089c?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 14 |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[Human Resources Technician](https://jobright.ai/jobs/info/69de3f795913ad339813c629?utm_campaign=1054&utm_source=git)** | Chesterfield, VA | On Site | Apr 14 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[HR / People Operations Intern](https://jobright.ai/jobs/info/69de1b925913ad339813bfd2?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Apr 14 |
 | **[Social Security Administration](http://www.ssa.gov)** | **[Human Resources (Pathways Intern)](https://jobright.ai/jobs/info/69de164618cf504166e2badb?utm_campaign=1054&utm_source=git)** | Richmond, CA | On Site | Apr 14 |
 | **[Quanex](http://www.quanex.com/)** | **[HR Intern - Total Rewards](https://jobright.ai/jobs/info/69c182c975f7ff1cd80f9623?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 14 |
@@ -129,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Highgate](https://www.highgate.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69dd6d03738f2f099e8b636e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[JVS Boston](https://www.jvs-boston.org/)** | **[Volunteer & Intern Engagement Manager](https://jobright.ai/jobs/info/69dd877c738f2f099e8b6a17?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 13 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69dd9aa835a2b346b20b1ba1?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 13 |
-| **[Jordan's Furniture](http://www.jordans.com/)** | **[Human Resources Learning and Development Intern](https://jobright.ai/jobs/info/69dd6204738f2f099e8b6039?utm_campaign=1054&utm_source=git)** | East Taunton, MA | On Site | Apr 13 |
 | **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd5fbd738f2f099e8b5f77?utm_campaign=1054&utm_source=git)** | Huntersville, NC, US | On Site | Apr 13 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69dd5fa0bc6f6622c9911e6e?utm_campaign=1054&utm_source=git)** | Banner Health Corp Phoenix (2901 N Central Ave) | Hybrid | Apr 13 |
 | **[Waterloo Catholic District School Board](https://www.wcdsb.ca/)** | **[PASS ? Temporary Payroll Supervisor](https://jobright.ai/jobs/info/69dd5a835356a60f40feddf6?utm_campaign=1054&utm_source=git)** | Kitchener, ON | On Site | Apr 13 |
