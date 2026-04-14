@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[燃石医学 Burning Rock Biotech](http://www.brbiotech.com/?English.html)** | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/69ddfa0faba61f141731366e?utm_campaign=1054&utm_source=git)** | Irvine, CA | Remote | Apr 14 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[People Team Intern - S&P Global](https://jobright.ai/jobs/info/69ddf9dcaba61f1417313666?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 14 |
+| **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Administrative Specialist II](https://jobright.ai/jobs/info/69ddf8ea36823d1b4257f7a9?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Apr 14 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Human Resources Trainee (Classification Unit)(Leadership Associate (Target Class: HR Associate))](https://jobright.ai/jobs/info/69ddf783433ac8430e0d81ad?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Apr 14 |
+| **[Nucor Corporation](http://www.nucor.com)** | **[HR Intern Co-op](https://jobright.ai/jobs/info/69ddf6bd18cf504166e2b689?utm_campaign=1054&utm_source=git)** | Cofield, NC | On Site | Apr 14 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[HR GENERALIST 1 - 04142026-76789](https://jobright.ai/jobs/info/69ddec09aba61f141731333a?utm_campaign=1054&utm_source=git)** | Montgomery County, TN | On Site | Apr 14 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[HR GENERALIST 2 - 04072026-76675](https://jobright.ai/jobs/info/69d59e2d891d7b11cfd033f7?utm_campaign=1054&utm_source=git)** | Davidson County, TN | On Site | Apr 13 |
 | ↳ | **[HR GENERALIST 1 - 04142026-76789](https://jobright.ai/jobs/info/69dde034433ac8430e0d7a41?utm_campaign=1054&utm_source=git)** | Davidson County, TN | On Site | Apr 13 |
+| **[EyeSouth Partners](http://www.eyesouthpartners.com)** | **[Human Resources Summer Intern (M&A)](https://jobright.ai/jobs/info/69ddf41e18cf504166e2b3f5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
+| ↳ | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69ddf73ae34484770f1a0501?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Genesis Molecular AI](https://genesis.ml/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ddce4ce34484770f19f783?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[HQF - Employee Development Paid Intern](https://jobright.ai/jobs/info/69ddc35e18cf504166e2a29f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbee7433ac8430e0d69c8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cavender's](https://www.cavenders.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dce0399f97a42dc9c333cc?utm_campaign=1054&utm_source=git)** | Tyler, TX | On Site | Apr 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69b7b3f406c1ba00c54976c4?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 | **[City and County of Broomfield](https://www.broomfield.org/)** | **[MSW Internship](https://jobright.ai/jobs/info/69dcc156f748bc5d08a5c5b1?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 13 |
-| **[Lake Washington School District](https://www.lwsd.org/)** | **[Executive Director of Human Resources](https://jobright.ai/jobs/info/69dcc20fbc6f6622c990e8cc?utm_campaign=1054&utm_source=git)** | Redmond, WA | On Site | Apr 13 |
-| **[Woven by Toyota](https://woven.toyota/en)** | **[HR Trainee (3-Month Fixed-Term)](https://jobright.ai/jobs/info/69c32497753c101b2156be6d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 12 |
-| **[arrivia](https://www.arrivia.com/)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/69dc35da5356a60f40fe7c94?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69dc35c1738f2f099e8b01d2?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
-| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/69dc507c9f97a42dc9c3030b?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Apr 12 |
-| **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 12 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Human Resources College Summer Intern](https://jobright.ai/jobs/info/69dc0ae19f97a42dc9c2fbc4?utm_campaign=1054&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
