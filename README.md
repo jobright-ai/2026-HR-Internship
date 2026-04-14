@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genesis Molecular AI](https://genesis.ml/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ddce4ce34484770f19f783?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[HQF - Employee Development Paid Intern](https://jobright.ai/jobs/info/69ddc35e18cf504166e2a29f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 13 |
 | **[North Marin Water District](https://nmwd.com)** | **[Human Resources/Accounting Intern](https://jobright.ai/jobs/info/69ddbf16e34484770f19ef65?utm_campaign=1054&utm_source=git)** | Novato, CA | On Site | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbee7433ac8430e0d69c8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[SouthernCarlson](http://www.southerncarlson.com)** | **[HR Admin Intern](https://jobright.ai/jobs/info/69dd6fa8f748bc5d08a5fd9a?utm_campaign=1054&utm_source=git)** | 10840 Harney St, Omaha, NE 68154, USA | On Site | Apr 13 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Distribution and Workforce Planning](https://jobright.ai/jobs/info/69dd6f9df748bc5d08a5fd73?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Apr 13 |
 | **[Highgate](https://www.highgate.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69dd6d03738f2f099e8b636e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 13 |
-| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/69dd6b28738f2f099e8b6207?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 13 |
 | **[JVS Boston](https://www.jvs-boston.org/)** | **[Volunteer & Intern Engagement Manager](https://jobright.ai/jobs/info/69dd877c738f2f099e8b6a17?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 13 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69dd9aa835a2b346b20b1ba1?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 13 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Human Resources Learning and Development Intern](https://jobright.ai/jobs/info/69dd6204738f2f099e8b6039?utm_campaign=1054&utm_source=git)** | East Taunton, MA | On Site | Apr 13 |
