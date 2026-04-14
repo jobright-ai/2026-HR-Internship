@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Tennessee](https://www.tn.gov/)** | **[HR GENERALIST 1 - 04142026-76789](https://jobright.ai/jobs/info/69ddec09aba61f141731333a?utm_campaign=1054&utm_source=git)** | Montgomery County, TN | On Site | Apr 14 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[HR GENERALIST 2 - 04072026-76675](https://jobright.ai/jobs/info/69d59e2d891d7b11cfd033f7?utm_campaign=1054&utm_source=git)** | Davidson County, TN | On Site | Apr 13 |
 | ↳ | **[HR GENERALIST 1 - 04142026-76789](https://jobright.ai/jobs/info/69dde034433ac8430e0d7a41?utm_campaign=1054&utm_source=git)** | Davidson County, TN | On Site | Apr 13 |
 | **[Genesis Molecular AI](https://genesis.ml/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ddce4ce34484770f19f783?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[HQF - Employee Development Paid Intern](https://jobright.ai/jobs/info/69ddc35e18cf504166e2a29f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 13 |
-| **[North Marin Water District](https://nmwd.com)** | **[Human Resources/Accounting Intern](https://jobright.ai/jobs/info/69ddbf16e34484770f19ef65?utm_campaign=1054&utm_source=git)** | Novato, CA | On Site | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbee7433ac8430e0d69c8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
 | ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Apr 13 |
 | **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ddbea6433ac8430e0d6978?utm_campaign=1054&utm_source=git)** | Juneau, AK | On Site | Apr 13 |
