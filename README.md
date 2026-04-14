@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EMBREY](https://www.embreydc.com/)** | **[Internship Program Class of 2026 - People Services](https://jobright.ai/jobs/info/69d84e699f97a42dc9c1b7b2?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/69de91f6e34484770f1a324c?utm_campaign=1054&utm_source=git)** | Greeley, Colorado, United States | On Site | Apr 14 |
+| **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69de8c3f36823d1b42582147?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Apr 14 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de8c34e34484770f1a30da?utm_campaign=1054&utm_source=git)** | Kokomo Technical Center - Indiana - USA | On Site | Apr 14 |
+| **[The Lighthouse of Houston](https://www.houstonlighthouse.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de8c3218cf504166e2e1da?utm_campaign=1054&utm_source=git)** | Legal Address - Houston, TX 77019 | On Site | Apr 14 |
 | **[LJ Welding Automation](https://www.ljwelding.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de8a1e5913ad339813dd9c?utm_campaign=1054&utm_source=git)** | Greater Edmonton Metropolitan Area | On Site | Apr 14 |
 | **[Skanska](http://skanska.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c1ec6875f7ff1cd8104aee?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Apr 14 |
 | **[Graybar](http://www.graybar.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69d5cebc706f771673ba6e77?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Apr 14 |
@@ -64,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Transportation HR Intern](https://jobright.ai/jobs/info/69c1ea9e79e36d3a847ef9d0?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Nonqualified Retirement Plan Team Summer Intern (Service & Operations)](https://jobright.ai/jobs/info/69de84b3e34484770f1a272c?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | On Site | Apr 14 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[(Virtual/Unpaid) Human Resources Specialist](https://jobright.ai/jobs/info/69de81515913ad339813d7e0?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Apr 14 |
-| **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69c496146f4f855eeda73132?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 14 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Mortgage Intern - Summer 2026](https://jobright.ai/jobs/info/69dd86f49f97a42dc9c36906?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
 | **[Founders Federal Credit Union](https://www.foundersfcu.com/)** | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69de78b8aba61f14173152ff?utm_campaign=1054&utm_source=git)** | Lancaster, SC | On Site | Apr 14 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Remote Intern](https://jobright.ai/jobs/info/69de77fee34484770f1a238e?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Methanex Corporation](http://www.methanex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd87025356a60f40fee73f?utm_campaign=1054&utm_source=git)** | Alberta, Canada | On Site | Apr 13 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Global Talent Management (GTM) Strategy & Operations Intern](https://jobright.ai/jobs/info/69dd7dba61f6ed54321fd985?utm_campaign=1054&utm_source=git)** | Remote (US) | Remote | Apr 13 |
 | **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd7db761f6ed54321fd978?utm_campaign=1054&utm_source=git)** | AK - Juneau | On Site | Apr 13 |
-| **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd7c80738f2f099e8b676e?utm_campaign=1054&utm_source=git)** | Huntersville, NC | On Site | Apr 13 |
-| **[House-Hasson Hardware Company](http://househasson.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd7740f748bc5d08a5fff4?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 13 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HQF - Employee Development Paid Intern](https://jobright.ai/jobs/info/69dd7386738f2f099e8b659e?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Apr 13 |
-| **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd6fd5f748bc5d08a5fe00?utm_campaign=1054&utm_source=git)** | Welch, MN 55089, USA | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
