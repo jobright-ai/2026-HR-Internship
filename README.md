@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/69de506236823d1b42580534?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 14 |
+| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/69de4e9018cf504166e2c430?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 14 |
+| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern ,Talent Management](https://jobright.ai/jobs/info/69a5e97f359fe034b1d0a52a?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 14 |
+| **[Barfield Inc](http://www.barfieldinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de47b518cf504166e2c314?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[Thorlabs](http://www.thorlabs.com)** | **[Summer 2026 Change Management and HR Support Internship](https://jobright.ai/jobs/info/69de43725913ad339813c6ad?utm_campaign=1054&utm_source=git)** | Newton, New Jersey, United States | On Site | Apr 14 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69c1c53b2c312363dcd4f57e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Operations Professional Intern](https://jobright.ai/jobs/info/69c27addec22f8310ab0499a?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 14 |
@@ -129,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Distribution and Workforce Planning](https://jobright.ai/jobs/info/69dd6f9df748bc5d08a5fd73?utm_campaign=1054&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Apr 13 |
 | **[Highgate](https://www.highgate.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69dd6d03738f2f099e8b636e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[JVS Boston](https://www.jvs-boston.org/)** | **[Volunteer & Intern Engagement Manager](https://jobright.ai/jobs/info/69dd877c738f2f099e8b6a17?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 13 |
+| **[Jordan's Furniture](http://www.jordans.com/)** | **[Human Resources Learning and Development Intern](https://jobright.ai/jobs/info/69de4ea8433ac8430e0d8f0b?utm_campaign=1054&utm_source=git)** | 450 Revolutionary Dr, East Taunton, MA 02718, USA | On Site | Apr 13 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69dd9aa835a2b346b20b1ba1?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 13 |
 | **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd5fbd738f2f099e8b5f77?utm_campaign=1054&utm_source=git)** | Huntersville, NC, US | On Site | Apr 13 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69dd5fa0bc6f6622c9911e6e?utm_campaign=1054&utm_source=git)** | Banner Health Corp Phoenix (2901 N Central Ave) | Hybrid | Apr 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Farmer Companies](https://farmercompanies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd3797f748bc5d08a5eb5f?utm_campaign=1054&utm_source=git)** | FHC Management - Jefferson City, MO 65101 | On Site | Apr 13 |
 | **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Learning & Development Internship](https://jobright.ai/jobs/info/69dd37585356a60f40fed163?utm_campaign=1054&utm_source=git)** | Corporate_Cove | On Site | Apr 13 |
 | **[Network Partners Group](https://www.oneNPG.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69dd34bb9f97a42dc9c34f93?utm_campaign=1054&utm_source=git)** | Blue Bell, PA | On Site | Apr 13 |
-| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d565ae891d7b11cfd019a7?utm_campaign=1054&utm_source=git)** | Ocoee, FL | On Site | Apr 13 |
-| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern - Summer '26](https://jobright.ai/jobs/info/69ce2c07cdb525785fb947cc?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Apr 13 |
-| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/69dd4e7f9f97a42dc9c3569a?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 13 |
-| **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69dd52e361f6ed54321fc835?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Apr 13 |
-| **[Landis+Gyr](https://www.landisgyr.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69dd1fa7f748bc5d08a5e4b0?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
