@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sonaca](http://www.sonaca.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dec09a18cf504166e2fa62?utm_campaign=1054&utm_source=git)** | St. Charles, MO (Corporate) | On Site | Apr 14 |
+| **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Talent Development Internship](https://jobright.ai/jobs/info/69dec08f36823d1b4258396a?utm_campaign=1054&utm_source=git)** | Northwood, Ohio USA | Hybrid | Apr 14 |
+| **[Acadiana Treatment Center](https://www.acadianatreatmentcenter.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69debdaf433ac8430e0dc355?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Apr 14 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69debd9936823d1b425838b7?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Apr 14 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Talent Management Intern](https://jobright.ai/jobs/info/69d976d19f97a42dc9c21b32?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Apr 14 |
 | **[Continental](https://www.continental.com)** | **[Intern - Recruiting / Talent Acquisition Coordinator, Year-Round](https://jobright.ai/jobs/info/69deb5ea5913ad339813f149?utm_campaign=1054&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Apr 14 |
 | **[PTI Technologies](http://ptitechnologies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69deb595aba61f14173174cb?utm_campaign=1054&utm_source=git)** | Oxnard,CA,US | On Site | Apr 14 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69deb2c318cf504166e2f5e7?utm_campaign=1054&utm_source=git)** | Oxnard, CA | On Site | Apr 14 |
@@ -70,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[MedVanta](https://medvanta.com/)** | **[Central Office Intern - HR](https://jobright.ai/jobs/info/69dea5dfe34484770f1a3e35?utm_campaign=1054&utm_source=git)** | Bethesda, Maryland, United States | On Site | Apr 14 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dea5cbe34484770f1a3dc0?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Apr 14 |
 | **[Rightworks](https://www.rightworks.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cec937891d7b11cfcccb06?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Apr 14 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69debb0b5913ad339813f859?utm_campaign=1054&utm_source=git)** | McLean, VA | Remote | Apr 14 |
 | **[CooperVision](http://coopervision.com)** | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69c2c5ac94007a2195debcae?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Apr 14 |
 | **[EMBREY](https://www.embreydc.com/)** | **[Internship Program Class of 2026 - People Services](https://jobright.ai/jobs/info/69d84e699f97a42dc9c1b7b2?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/69de91f6e34484770f1a324c?utm_campaign=1054&utm_source=git)** | Greeley, Colorado, United States | On Site | Apr 14 |
@@ -85,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[(Virtual/Unpaid) Human Resources Specialist](https://jobright.ai/jobs/info/69de81515913ad339813d7e0?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Apr 14 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Mortgage Intern - Summer 2026](https://jobright.ai/jobs/info/69dd86f49f97a42dc9c36906?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
 | **[Founders Federal Credit Union](https://www.foundersfcu.com/)** | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69de78b8aba61f14173152ff?utm_campaign=1054&utm_source=git)** | Lancaster, SC | On Site | Apr 14 |
-| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Remote Intern](https://jobright.ai/jobs/info/69de77fee34484770f1a238e?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Protocase](https://www.protocase.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de77925913ad339813d592?utm_campaign=1054&utm_source=git)** | Wilmington, North Carolina, United States | On Site | Apr 14 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Scholar Recruitment Intern](https://jobright.ai/jobs/info/69de74ac36823d1b42581191?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
 | **[Logitech](https://www.logitech.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d5dc874a12eb12c5e14072?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 14 |
@@ -95,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[HR Representative](https://jobright.ai/jobs/info/69de8a565913ad339813df70?utm_campaign=1054&utm_source=git)** | Manhattan, KS | Hybrid | Apr 14 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / Admissions Intern (Summer)](https://jobright.ai/jobs/info/69de69d236823d1b42580d9b?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Apr 14 |
+| **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 14 |
 | **[PROJXON](www.projxon.com)** | **[Recruitment Manager Intern](https://jobright.ai/jobs/info/69de65cf36823d1b42580c9c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 14 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Learning & Talent Development (Hybrid)](https://jobright.ai/jobs/info/69de657918cf504166e2cc65?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Apr 14 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Mentorship Specialist, Alumni Counseling and Development Center](https://jobright.ai/jobs/info/69c1b1632c312363dcd4da3f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kentucky Eye Institute](https://kyeye.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bca?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
 | ↳ | **[Human Resources Summer Intern (M&A)](https://jobright.ai/jobs/info/69dda3465913ad3398139775?utm_campaign=1054&utm_source=git)** | US-GA-Atlanta | On Site | Apr 13 |
 | ↳ | **[Human Resources Summer Intern (M&A)](https://jobright.ai/jobs/info/69dda3334d3bec4144b4cf19?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
-| ↳ | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69dda32faba61f14173111f1?utm_campaign=1054&utm_source=git)** | US-GA-Atlanta | On Site | Apr 13 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Culture & DEI](https://jobright.ai/jobs/info/69dda2bf8182b27d34740687?utm_campaign=1054&utm_source=git)** | El Segundo, CA, US | Hybrid | Apr 13 |
-| ↳ | **[Intern - Culture & DEI](https://jobright.ai/jobs/info/69dda29ae34484770f19dfdc?utm_campaign=1054&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 13 |
-| **[Pure Fishing](https://www.purefishing.com)** | **[HR Intern](https://jobright.ai/jobs/info/69dda2934d3bec4144b4ce1c?utm_campaign=1054&utm_source=git)** | Sandwich, IL | On Site | Apr 13 |
-| **[Talpa Supermercados](https://supermercadostalpa.com/)** | **[Summer Internship – Human Resources & Recruiting (Bilingual English/Spanish Required)](https://jobright.ai/jobs/info/69dda1e18182b27d34740251?utm_campaign=1054&utm_source=git)** | Stone Mountain, GA | Hybrid | Apr 13 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Global Talent Management (GTM) Strategy & Operations Intern](https://jobright.ai/jobs/info/69dd9a7435a2b346b20b1b67?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
