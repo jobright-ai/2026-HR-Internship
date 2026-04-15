@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axis Communications](http://www.axis.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dfeb9b5913ad3398146811?utm_campaign=1054&utm_source=git)** | USA - MA - Chelmsford | On Site | Apr 15 |
+| **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69dfeb9a4920452a85dd04d0?utm_campaign=1054&utm_source=git)** | 3000 Continental Pkwy, Clinton, MS 39056, USA | On Site | Apr 15 |
+| **[CNIB](http://www.cnib.ca/)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69dfe89a5913ad3398146718?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
+| **[Consolidated Supply Co.](http://consolidatedsupply.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dfe899e34484770f1ab328?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Apr 15 |
+| **[Blattner](https://www.blattnercompany.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69dfe8114920452a85dd045f?utm_campaign=1054&utm_source=git)** | Avon, MN | On Site | Apr 15 |
+| **[ITS Logistics](http://its4logistics.com)** | **[Recruiting Associate (Internship) - Fort Worth](https://jobright.ai/jobs/info/69d95f9d738f2f099e8a18b6?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 15 |
+| **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69dfe76b4920452a85dd03a5?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 15 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Volunteer Intern)](https://jobright.ai/jobs/info/69dfe4055913ad339814658c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 15 |
+| ↳ | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/69dfe3ebaba61f141731e08b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 15 |
+| **[DURA MEDICAL LLC](https://duramedical.us)** | **[Registered Mental Health Counselor Intern](https://jobright.ai/jobs/info/69dfdfd7e34484770f1aaff1?utm_campaign=1054&utm_source=git)** | Naples, FL | Hybrid | Apr 15 |
 | **[CB&I](http://www.cbi.com)** | **[Intern - Compensation](https://jobright.ai/jobs/info/69dfd80014bf245fc7a6e1ff?utm_campaign=1054&utm_source=git)** | The Woodlands, TX | On Site | Apr 15 |
 | **[eClerx](https://eclerx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a9323979f3f4037f43f836?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Apr 15 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Talent and Development Internship](https://jobright.ai/jobs/info/69dfcab3433ac8430e0e2461?utm_campaign=1054&utm_source=git)** | Sissonville, WV, US | On Site | Apr 15 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Transportation HR Intern](https://jobright.ai/jobs/info/69c1ea9e79e36d3a847ef9d0?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Nonqualified Retirement Plan Team Summer Intern (Service & Operations)](https://jobright.ai/jobs/info/69de84b3e34484770f1a272c?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | On Site | Apr 14 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[(Virtual/Unpaid) Human Resources Specialist](https://jobright.ai/jobs/info/69de81515913ad339813d7e0?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Apr 14 |
-| **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Mortgage Intern - Summer 2026](https://jobright.ai/jobs/info/69dd86f49f97a42dc9c36906?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
-| **[Founders Federal Credit Union](https://www.foundersfcu.com/)** | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69de78b8aba61f14173152ff?utm_campaign=1054&utm_source=git)** | Lancaster, SC | On Site | Apr 14 |
-| **[Protocase](https://www.protocase.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de77925913ad339813d592?utm_campaign=1054&utm_source=git)** | Wilmington, North Carolina, United States | On Site | Apr 14 |
-| **[Uplift Education](http://www.uplifteducation.org)** | **[Scholar Recruitment Intern](https://jobright.ai/jobs/info/69de74ac36823d1b42581191?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
-| **[Logitech](https://www.logitech.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69d5dc874a12eb12c5e14072?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 14 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Service Intern - Employee Health & Benefits](https://jobright.ai/jobs/info/69de728836823d1b4258108a?utm_campaign=1054&utm_source=git)** | Aliso Viejo - Polaris | Hybrid | Apr 14 |
-| **[Cameo](https://www.cameo.com)** | **[Summer Internship (2026)- Talent/Creator Acquisition](https://jobright.ai/jobs/info/69de6e6636823d1b42580ffc?utm_campaign=1054&utm_source=git)** | US- Downtown Chicago HQ | On Site | Apr 14 |
-| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69de6e61433ac8430e0d9a53?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Apr 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
-| **[Kansas State University](http://www.k-state.edu/)** | **[HR Representative](https://jobright.ai/jobs/info/69de8a565913ad339813df70?utm_campaign=1054&utm_source=git)** | Manhattan, KS | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
