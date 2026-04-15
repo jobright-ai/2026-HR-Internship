@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a6c8671fc3d83b78091f2b?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Apr 15 |
+| **[Almo Corporation](http://www.almo.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69a74f4f2672cb0acb4bbfc3?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
+| **[Wellspring Lutheran Services](https://www.wellspringlutheran.com/)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/69df9ae65913ad3398144a1a?utm_campaign=1054&utm_source=git)** | Michigan, United States | Hybrid | Apr 15 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Engagement & Connectivity Intern - Summer 2026](https://jobright.ai/jobs/info/69c2b67794007a2195dea9d2?utm_campaign=1054&utm_source=git)** | Watertown, SD | On Site | Apr 15 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Intern - Employee and Cultural Engagement](https://jobright.ai/jobs/info/69df92e8e34484770f1a9450?utm_campaign=1054&utm_source=git)** | Dallas College Administration | On Site | Apr 15 |
 | **[Source Allies](http://sourceallies.com)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69df90d814bf245fc7a6c94d?utm_campaign=1054&utm_source=git)** | Urbandale, IA | On Site | Apr 15 |
@@ -80,9 +83,9 @@ For a complete list, click the following sortable link below:
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69dedc36433ac8430e0dcdc4?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | Apr 14 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
 | **[Vitalant](https://www.vitalant.org/)** | **[HR Data Analyst Intern](https://jobright.ai/jobs/info/69ded8225913ad33981405f7?utm_campaign=1054&utm_source=git)** | AZ Scottsdale Corporate | Hybrid | Apr 14 |
-| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
 | **[McCarthy-Bush Corporation](https://mccarthybushcorp.com)** | **[Human Resources Intern- McCarthy Bush Corporation (Summer 2026)](https://jobright.ai/jobs/info/69ded2795913ad33981404bc?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Apr 14 |
 | **[National Education Association](http://www.nea.org)** | **[Human Resources Intern (Employee & Labor Relations)](https://jobright.ai/jobs/info/69decdc7e34484770f1a4ee7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 14 |
 | **[Arcadia Financial](https://arcadia.financial)** | **[People Operations Intern](https://jobright.ai/jobs/info/69decd1d5913ad3398140305?utm_campaign=1054&utm_source=git)** | Manchester, New Hampshire, United States | On Site | Apr 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPX Technologies](https://www.spx.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c18bfb75f7ff1cd80fb0d0?utm_campaign=1054&utm_source=git)** | Brentwood, MO | Hybrid | Apr 14 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[HR AI Analytics Intern](https://jobright.ai/jobs/info/69d68822cfdc6132f946a690?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69de2025e34484770f1a0c49?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
-| **[TMX Group](http://www.tmx.com)** | **[Student Intern - Talent Acquisition - Fall Term](https://jobright.ai/jobs/info/69c1ef7279e36d3a847f089c?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 14 |
-| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[HR / People Operations Intern](https://jobright.ai/jobs/info/69de1b925913ad339813bfd2?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Apr 14 |
-| **[Social Security Administration](http://www.ssa.gov)** | **[Human Resources (Pathways Intern)](https://jobright.ai/jobs/info/69de164618cf504166e2badb?utm_campaign=1054&utm_source=git)** | Richmond, CA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
