@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69df2e525913ad3398142ffc?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Apr 14 |
 | **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Compensation - New Jersey Location](https://jobright.ai/jobs/info/69df24fe18cf504166e3288a?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 14 |
 | ↳ | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df21f536823d1b425868ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 14 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Intern Human Resources HR Compensation - New Jersey Location](https://jobright.ai/jobs/info/69df217436823d1b425868aa?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 14 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
 | **[Vitalant](https://www.vitalant.org/)** | **[HR Data Analyst Intern](https://jobright.ai/jobs/info/69ded8225913ad33981405f7?utm_campaign=1054&utm_source=git)** | AZ Scottsdale Corporate | Hybrid | Apr 14 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
 | **[McCarthy-Bush Corporation](https://mccarthybushcorp.com)** | **[Human Resources Intern- McCarthy Bush Corporation (Summer 2026)](https://jobright.ai/jobs/info/69ded2795913ad33981404bc?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Apr 14 |
 | **[National Education Association](http://www.nea.org)** | **[Human Resources Intern (Employee & Labor Relations)](https://jobright.ai/jobs/info/69decdc7e34484770f1a4ee7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 14 |
 | **[Arcadia Financial](https://arcadia.financial)** | **[People Operations Intern](https://jobright.ai/jobs/info/69decd1d5913ad3398140305?utm_campaign=1054&utm_source=git)** | Manchester, New Hampshire, United States | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[People Team Intern - S&P Global](https://jobright.ai/jobs/info/69ddf9dcaba61f1417313666?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Administrative Specialist II](https://jobright.ai/jobs/info/69ddf8ea36823d1b4257f7a9?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Apr 14 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Human Resources Trainee (Classification Unit)(Leadership Associate (Target Class: HR Associate))](https://jobright.ai/jobs/info/69ddf783433ac8430e0d81ad?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Apr 14 |
-| **[Nucor Corporation](http://www.nucor.com)** | **[HR Intern Co-op](https://jobright.ai/jobs/info/69ddf6bd18cf504166e2b689?utm_campaign=1054&utm_source=git)** | Cofield, NC | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
