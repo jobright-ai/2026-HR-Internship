@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69dedc36433ac8430e0dcdc4?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | Apr 14 |
+| **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
+| **[Vitalant](https://www.vitalant.org/)** | **[HR Data Analyst Intern](https://jobright.ai/jobs/info/69ded8225913ad33981405f7?utm_campaign=1054&utm_source=git)** | AZ Scottsdale Corporate | Hybrid | Apr 14 |
+| **[McCarthy-Bush Corporation](https://mccarthybushcorp.com)** | **[Human Resources Intern- McCarthy Bush Corporation (Summer 2026)](https://jobright.ai/jobs/info/69ded2795913ad33981404bc?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Apr 14 |
 | **[National Education Association](http://www.nea.org)** | **[Human Resources Intern (Employee & Labor Relations)](https://jobright.ai/jobs/info/69decdc7e34484770f1a4ee7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 14 |
 | **[Arcadia Financial](https://arcadia.financial)** | **[People Operations Intern](https://jobright.ai/jobs/info/69decd1d5913ad3398140305?utm_campaign=1054&utm_source=git)** | Manchester, New Hampshire, United States | On Site | Apr 14 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[HR Generalist](https://jobright.ai/jobs/info/69decab7433ac8430e0dc7d9?utm_campaign=1054&utm_source=git)** | Urbana, IL | On Site | Apr 14 |
@@ -85,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[CooperVision](http://coopervision.com)** | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69c2c5ac94007a2195debcae?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Apr 14 |
 | **[EMBREY](https://www.embreydc.com/)** | **[Internship Program Class of 2026 - People Services](https://jobright.ai/jobs/info/69d84e699f97a42dc9c1b7b2?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/69de91f6e34484770f1a324c?utm_campaign=1054&utm_source=git)** | Greeley, Colorado, United States | On Site | Apr 14 |
+| **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ded88c5913ad33981406a5?utm_campaign=1054&utm_source=git)** | Manteno, IL | On Site | Apr 14 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69de8c3f36823d1b42582147?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Apr 14 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de8c34e34484770f1a30da?utm_campaign=1054&utm_source=git)** | Kokomo Technical Center - Indiana - USA | On Site | Apr 14 |
 | **[The Lighthouse of Houston](https://www.houstonlighthouse.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de8c3218cf504166e2e1da?utm_campaign=1054&utm_source=git)** | Legal Address - Houston, TX 77019 | On Site | Apr 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Apr 13 |
 | **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ddbea6433ac8430e0d6978?utm_campaign=1054&utm_source=git)** | Juneau, AK | On Site | Apr 13 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HQF - Employee Development Paid Intern](https://jobright.ai/jobs/info/69ddbe8eaba61f1417311e75?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 13 |
-| **[Trademark Metals Recycling - A Nucor Company](http://tmrecycling.com)** | **[HR Intern Co-op](https://jobright.ai/jobs/info/69dddaed5913ad339813ad43?utm_campaign=1054&utm_source=git)** | Cofield, NC, US, 27922 | On Site | Apr 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddb944aba61f1417311dae?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[CLTI Recruiting Intern](https://jobright.ai/jobs/info/69ddb944aba61f1417311dac?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
-| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Student Recruitment Coordinator, Education Student Services Center, College of Education [R0151300]](https://jobright.ai/jobs/info/69ddb5b7e34484770f19ec63?utm_campaign=1054&utm_source=git)** | LV Metro Area | On Site | Apr 13 |
-| **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Payroll Specialist](https://jobright.ai/jobs/info/69ddb24faba61f1417311b0d?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
