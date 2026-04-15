@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Erlanger](https://www.erlanger.org)** | **[Internship Program Coordinator -Fulltime](https://jobright.ai/jobs/info/69c2ec49753c101b2156592a?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Apr 15 |
+| **[AAAS](http://www.aaas.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2e3ac753c101b215647d4?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 15 |
+| **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2a69394007a2195de9388?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 15 |
 | **[SAIC](http://www.saic.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69df5703e34484770f1a89e4?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Apr 15 |
 | **[Nelson Tree Service, LLC](http://www.nelsontree.com)** | **[Intern](https://jobright.ai/jobs/info/69df537a14bf245fc7a6be88?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 15 |
 | **[UES](https://www.teamues.com)** | **[Intern](https://jobright.ai/jobs/info/69c30c4fec22f8310ab11a21?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
@@ -73,9 +76,9 @@ For a complete list, click the following sortable link below:
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69dedc36433ac8430e0dcdc4?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | Apr 14 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
 | **[Vitalant](https://www.vitalant.org/)** | **[HR Data Analyst Intern](https://jobright.ai/jobs/info/69ded8225913ad33981405f7?utm_campaign=1054&utm_source=git)** | AZ Scottsdale Corporate | Hybrid | Apr 14 |
-| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
 | **[McCarthy-Bush Corporation](https://mccarthybushcorp.com)** | **[Human Resources Intern- McCarthy Bush Corporation (Summer 2026)](https://jobright.ai/jobs/info/69ded2795913ad33981404bc?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Apr 14 |
 | **[National Education Association](http://www.nea.org)** | **[Human Resources Intern (Employee & Labor Relations)](https://jobright.ai/jobs/info/69decdc7e34484770f1a4ee7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 14 |
 | **[Arcadia Financial](https://arcadia.financial)** | **[People Operations Intern](https://jobright.ai/jobs/info/69decd1d5913ad3398140305?utm_campaign=1054&utm_source=git)** | Manchester, New Hampshire, United States | On Site | Apr 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Davies Molding](http://www.daviesmolding.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69c1b14e75f7ff1cd80ffdf8?utm_campaign=1054&utm_source=git)** | Carol Stream, IL | On Site | Apr 14 |
 | **[Asplundh Tree Expert, LLC](http://www.asplundh.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de07845913ad339813be06?utm_campaign=1054&utm_source=git)** | Willow Grove, PA | Hybrid | Apr 14 |
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69de03cbe34484770f1a08e1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 14 |
-| **[Empyrean](http://www.goempyrean.com)** | **[Client Operations & Analytics Internship (Houston)](https://jobright.ai/jobs/info/697005c982817106e9772326?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 14 |
-| **[燃石医学 Burning Rock Biotech](http://www.brbiotech.com/?English.html)** | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/69ddfa0faba61f141731366e?utm_campaign=1054&utm_source=git)** | Irvine, CA | Remote | Apr 14 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[People Team Intern - S&P Global](https://jobright.ai/jobs/info/69ddf9dcaba61f1417313666?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
