@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Education Association](http://www.nea.org)** | **[Human Resources Intern (Employee & Labor Relations)](https://jobright.ai/jobs/info/69decdc7e34484770f1a4ee7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 14 |
+| **[Arcadia Financial](https://arcadia.financial)** | **[People Operations Intern](https://jobright.ai/jobs/info/69decd1d5913ad3398140305?utm_campaign=1054&utm_source=git)** | Manchester, New Hampshire, United States | On Site | Apr 14 |
+| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[HR Generalist](https://jobright.ai/jobs/info/69decab7433ac8430e0dc7d9?utm_campaign=1054&utm_source=git)** | Urbana, IL | On Site | Apr 14 |
+| **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69decaaf36823d1b42583d49?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Apr 14 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dec94018cf504166e2fd8a?utm_campaign=1054&utm_source=git)** | Kokomo, IN | On Site | Apr 14 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Nonqualified Retirement Plan Team Summer Intern (Service & Operations)](https://jobright.ai/jobs/info/69dec55c433ac8430e0dc660?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | Hybrid | Apr 14 |
 | **[Sonaca](http://www.sonaca.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dec09a18cf504166e2fa62?utm_campaign=1054&utm_source=git)** | St. Charles, MO (Corporate) | On Site | Apr 14 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Talent Development Internship](https://jobright.ai/jobs/info/69dec08f36823d1b4258396a?utm_campaign=1054&utm_source=git)** | Northwood, Ohio USA | Hybrid | Apr 14 |
 | **[Acadiana Treatment Center](https://www.acadianatreatmentcenter.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69debdaf433ac8430e0dc355?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Apr 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[CLTI Recruiting Intern](https://jobright.ai/jobs/info/69ddb944aba61f1417311dac?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Student Recruitment Coordinator, Education Student Services Center, College of Education [R0151300]](https://jobright.ai/jobs/info/69ddb5b7e34484770f19ec63?utm_campaign=1054&utm_source=git)** | LV Metro Area | On Site | Apr 13 |
 | **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Payroll Specialist](https://jobright.ai/jobs/info/69ddb24faba61f1417311b0d?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Apr 13 |
-| **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69dda52b8182b27d34740a3c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Apr 13 |
-| ↳ | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69dda4f3aba61f1417311375?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Apr 13 |
-| **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dda4d5aba61f14173112ef?utm_campaign=1054&utm_source=git)** | Mackinac Island, MI, US | On Site | Apr 13 |
-| **[Kentucky Eye Institute](https://kyeye.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bca?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
-| ↳ | **[Human Resources Summer Intern (M&A)](https://jobright.ai/jobs/info/69dda3465913ad3398139775?utm_campaign=1054&utm_source=git)** | US-GA-Atlanta | On Site | Apr 13 |
-| ↳ | **[Human Resources Summer Intern (M&A)](https://jobright.ai/jobs/info/69dda3334d3bec4144b4cf19?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
