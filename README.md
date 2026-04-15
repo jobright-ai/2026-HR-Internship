@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University, Bakersfield](https://www.csub.edu/)** | **[Administrative Support Coordinator I](https://jobright.ai/jobs/info/69def6095913ad33981416fb?utm_campaign=1054&utm_source=git)** | Kern County, CA | On Site | Apr 14 |
+| **[Continental](https://www.continental.com)** | **[Intern - Recruiting / Talent Acquisition Coordinator, Year-Round](https://jobright.ai/jobs/info/69def421e34484770f1a5fe5?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 14 |
+| **[Acadia Healthcare](https://www.acadiahealthcare.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69def3c9433ac8430e0ddaa8?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69dedc36433ac8430e0dcdc4?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | Apr 14 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
 | **[Vitalant](https://www.vitalant.org/)** | **[HR Data Analyst Intern](https://jobright.ai/jobs/info/69ded8225913ad33981405f7?utm_campaign=1054&utm_source=git)** | AZ Scottsdale Corporate | Hybrid | Apr 14 |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
 | **[McCarthy-Bush Corporation](https://mccarthybushcorp.com)** | **[Human Resources Intern- McCarthy Bush Corporation (Summer 2026)](https://jobright.ai/jobs/info/69ded2795913ad33981404bc?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Apr 14 |
 | **[National Education Association](http://www.nea.org)** | **[Human Resources Intern (Employee & Labor Relations)](https://jobright.ai/jobs/info/69decdc7e34484770f1a4ee7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 14 |
 | **[Arcadia Financial](https://arcadia.financial)** | **[People Operations Intern](https://jobright.ai/jobs/info/69decd1d5913ad3398140305?utm_campaign=1054&utm_source=git)** | Manchester, New Hampshire, United States | On Site | Apr 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR GENERALIST 1 - 04142026-76789](https://jobright.ai/jobs/info/69dde034433ac8430e0d7a41?utm_campaign=1054&utm_source=git)** | Davidson County, TN | On Site | Apr 13 |
 | **[EyeSouth Partners](http://www.eyesouthpartners.com)** | **[Human Resources Summer Intern (M&A)](https://jobright.ai/jobs/info/69ddf41e18cf504166e2b3f5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | ↳ | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69ddf73ae34484770f1a0501?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
-| **[Genesis Molecular AI](https://genesis.ml/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ddce4ce34484770f19f783?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[HQF - Employee Development Paid Intern](https://jobright.ai/jobs/info/69ddc35e18cf504166e2a29f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbee7433ac8430e0d69c8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
-| ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Apr 13 |
-| **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ddbea6433ac8430e0d6978?utm_campaign=1054&utm_source=git)** | Juneau, AK | On Site | Apr 13 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HQF - Employee Development Paid Intern](https://jobright.ai/jobs/info/69ddbe8eaba61f1417311e75?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
