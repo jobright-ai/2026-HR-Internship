@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e04f53b20fd532b4ae0a1c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 15 |
 | **[TIFEC](https://osv-tifec.wd5.myworkdayjobs.com/TIFEC)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69e02fb214bf245fc7a7068f?utm_campaign=1054&utm_source=git)** | Leawood, KS | On Site | Apr 15 |
 | **[Jet Aviation](http://www.jetaviation.com/)** | **[Business Aviation - Staffing Intern](https://jobright.ai/jobs/info/69e02ac9e34484770f1ace98?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Apr 15 |
 | **[Blanchard Valley Health System](https://www.bvhealthsystem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e02a99aba61f141731fd87?utm_campaign=1054&utm_source=git)** | Findlay, OH | On Site | Apr 15 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Expedient](https://www.expedient.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dfb761aba61f141731cd1a?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 14 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69dedc36433ac8430e0dcdc4?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | Apr 14 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
-| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
 | **[McCarthy-Bush Corporation](https://mccarthybushcorp.com)** | **[Human Resources Intern- McCarthy Bush Corporation (Summer 2026)](https://jobright.ai/jobs/info/69ded2795913ad33981404bc?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Apr 14 |
 | **[National Education Association](http://www.nea.org)** | **[Human Resources Intern (Employee & Labor Relations)](https://jobright.ai/jobs/info/69decdc7e34484770f1a4ee7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 14 |
 | **[Arcadia Financial](https://arcadia.financial)** | **[People Operations Intern](https://jobright.ai/jobs/info/69decd1d5913ad3398140305?utm_campaign=1054&utm_source=git)** | Manchester, New Hampshire, United States | On Site | Apr 14 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[HR Generalist](https://jobright.ai/jobs/info/69decab7433ac8430e0dc7d9?utm_campaign=1054&utm_source=git)** | Urbana, IL | On Site | Apr 14 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69decaaf36823d1b42583d49?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Apr 14 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dec94018cf504166e2fd8a?utm_campaign=1054&utm_source=git)** | Kokomo, IN | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
