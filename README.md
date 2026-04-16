@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Talent Foundation Management Intern](https://jobright.ai/jobs/info/69e0d80bacc736112f5c0731?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Apr 16 |
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49a48d5a1016e98dbe889?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 16 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4dc3a33eecf3107955068?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4dc3933eecf3107955067?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dc2c33eecf3107955057?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
+| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4dc3933eecf3107955067?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | **[Department for Education, South Australia](https://www.education.sa.gov.au)** | **[TEMPORARY SSO2 - UNDERDALE HS - INTERNATIONAL PROGRAM AND EVENTS OFFICER](https://jobright.ai/jobs/info/69e0bd2b40a62c1fa93b4937?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | On Site | Apr 16 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c4206cd5a1016e98db29e4?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Idlewild and SoakZone: Human Resources Intern](https://jobright.ai/jobs/info/69e08259ba9bd32d03370d11?utm_campaign=1054&utm_source=git)** | Ligonier, PA | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTI Technologies](http://ptitechnologies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e073d6c5691b27c176d8a8?utm_campaign=1054&utm_source=git)** | Oxnard, CA | On Site | Apr 14 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Talent Development Internship](https://jobright.ai/jobs/info/69df01e0e34484770f1a6655?utm_campaign=1054&utm_source=git)** | Northwood, OH | Hybrid | Apr 14 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Administrative Support Coordinator I](https://jobright.ai/jobs/info/69def6095913ad33981416fb?utm_campaign=1054&utm_source=git)** | Kern County, CA | On Site | Apr 14 |
-| **[Continental](https://www.continental.com)** | **[Intern - Recruiting / Talent Acquisition Coordinator, Year-Round](https://jobright.ai/jobs/info/69def421e34484770f1a5fe5?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
