@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1486d6c20aa1149540687?utm_campaign=1054&utm_source=git)** | McLean, VA | Remote | Apr 16 |
+| **[Durham County Government](http://www.dconc.gov)** | **[HUMAN RESOURCES DATA ANALYST- 40010454](https://jobright.ai/jobs/info/69e148686c20aa1149540668?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Apr 16 |
+| **[Allegiant](https://www.allegiantair.com/)** | **[Intern, HR Systems](https://jobright.ai/jobs/info/69e1485c6c20aa1149540635?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 16 |
+| **[Network Connex](https://www.networkconnex.com/)** | **[Intern](https://jobright.ai/jobs/info/69e146eeacc736112f5c2de0?utm_campaign=1054&utm_source=git)** | Downers Grove, IL | On Site | Apr 16 |
+| **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/69e1468dfd1c0456f3fad68d?utm_campaign=1054&utm_source=git)** | NY New York / 99th Street | On Site | Apr 16 |
+| **[Ada County Highway District (ACHD)](https://achdidaho.org)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e143416c20aa11495403af?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 16 |
+| **[Grace Inspired Living](https://www.graceinspiredliving.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e13f6b6c20aa11495402a7?utm_campaign=1054&utm_source=git)** | Telford, PA | On Site | Apr 16 |
+| **[Corpay](https://payments.corpay.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69e13f6ad612782e61147a83?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 16 |
+| **[Marvin](http://www.marvin.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/69e13b71ff71e82d604b5ded?utm_campaign=1054&utm_source=git)** | Minnesota, United States | On Site | Apr 16 |
 | **[Krause Group](https://www.krausegroup.com)** | **[Grow People (HR) Intern](https://jobright.ai/jobs/info/69e13973ff71e82d604b5cd7?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 16 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Analytics Intern](https://jobright.ai/jobs/info/69e139476c20aa114953ff01?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 16 |
 | **[CooperVision](http://coopervision.com)** | **[Global People Services Data Insights Intern](https://jobright.ai/jobs/info/69c433fa33eecf3107945bae?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | Apr 16 |
@@ -73,7 +82,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 16 |
+| **[The Michaels Organization](https://tmo.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1467ad612782e61147cf1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Apr 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/69c4f0936f4f855eeda7b297?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Apr 16 |
+| **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd7c80738f2f099e8b676e?utm_campaign=1054&utm_source=git)** | Huntersville, NC | On Site | Apr 16 |
 | **[Superior Insurance Partners](https://superiorinsurancepartnersllc.com/)** | **[Talent Acquisition/Human Resource Intern](https://jobright.ai/jobs/info/69e11161ff71e82d604b506a?utm_campaign=1054&utm_source=git)** | Chicago, Illinois | On Site | Apr 16 |
 | **[PAI Pharma](http://paipharma.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e10d916c20aa114953f2a9?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Apr 16 |
 | **[Fruit of the Loom, Inc.](https://www.fotlinc.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69cc32d0891d7b11cfcaaf93?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Apr 16 |
@@ -100,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dae0d5a1016e98dc3e90?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4db216f4f855eeda78e6a?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4dc3933eecf3107955067?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dc2c33eecf3107955057?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
+| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4dc3933eecf3107955067?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | **[Burr & Forman](http://www.burr.com)** | **[Summer Intern/Recruiting Support](https://jobright.ai/jobs/info/69a938ed79f3f4037f440610?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Apr 16 |
 | **[Department for Education, South Australia](https://www.education.sa.gov.au)** | **[TEMPORARY SSO2 - UNDERDALE HS - INTERNATIONAL PROGRAM AND EVENTS OFFICER](https://jobright.ai/jobs/info/69e0bd2b40a62c1fa93b4937?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | On Site | Apr 16 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c4206cd5a1016e98db29e4?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 16 |
@@ -131,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/69e00df94920452a85dd1604?utm_campaign=1054&utm_source=git)** | US-WI-West Bend | On Site | Apr 15 |
 | ↳ | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/69e00dddaba61f141731f49c?utm_campaign=1054&utm_source=git)** | West Bend, WI, US | On Site | Apr 15 |
 | **[STAR Financial Bank](https://www.starfinancial.com)** | **[HUMAN RESOURCES INTERN - SUMMER 2026 - FORT WAYNE](https://jobright.ai/jobs/info/69e00d6aaba61f141731f481?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Apr 15 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e006c6433ac8430e0e3f51?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 15 |
 | **[State of Oregon](https://www.oregon.gov)** | **[Industrial Lands and Business Recruitment Intern](https://jobright.ai/jobs/info/69e00558aba61f141731f1a7?utm_campaign=1054&utm_source=git)** | Portland | OBDD | Hybrid | Apr 15 |
 | **[TIFEC](https://osv-tifec.wd5.myworkdayjobs.com/TIFEC)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69e005374920452a85dd126d?utm_campaign=1054&utm_source=git)** | TIFEC Leawood, KS 66211 | On Site | Apr 15 |
 | **[APWireless Infrastructure Partners, LLC](http://www.apwip.com/)** | **[Intern](https://jobright.ai/jobs/info/69e001db14bf245fc7a6f565?utm_campaign=1054&utm_source=git)** | La Jolla, California, United States | On Site | Apr 15 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/69dff394e34484770f1ab954?utm_campaign=1054&utm_source=git)** | US-CA-Menlo Park | On Site | Apr 15 |
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/69dff3904920452a85dd0945?utm_campaign=1054&utm_source=git)** | San Francisco, CA, US | On Site | Apr 15 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[HR Intern](https://jobright.ai/jobs/info/69c301a6ec22f8310ab10870?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Apr 15 |
-| **[Albany Medical Center](http://www.amc.edu/)** | **[HR Intern](https://jobright.ai/jobs/info/69dfebd9e34484770f1ab4cc?utm_campaign=1054&utm_source=git)** | 22 New Scotland Avenue Albany, NY 12208 | On Site | Apr 15 |
-| **[Axis Communications](http://www.axis.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dfeb9b5913ad3398146811?utm_campaign=1054&utm_source=git)** | USA - MA - Chelmsford | On Site | Apr 15 |
-| **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69dfeb9a4920452a85dd04d0?utm_campaign=1054&utm_source=git)** | 3000 Continental Pkwy, Clinton, MS 39056, USA | On Site | Apr 15 |
-| **[CNIB](http://www.cnib.ca/)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69dfe89a5913ad3398146718?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
-| **[Consolidated Supply Co.](http://consolidatedsupply.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dfe899e34484770f1ab328?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Apr 15 |
-| **[Blattner](https://www.blattnercompany.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69dfe8114920452a85dd045f?utm_campaign=1054&utm_source=git)** | Avon, MN | On Site | Apr 15 |
-| **[ITS Logistics](http://its4logistics.com)** | **[Recruiting Associate (Internship) - Fort Worth](https://jobright.ai/jobs/info/69d95f9d738f2f099e8a18b6?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 15 |
-| **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69dfe76b4920452a85dd03a5?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 15 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Volunteer Intern)](https://jobright.ai/jobs/info/69dfe4055913ad339814658c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 15 |
-| ↳ | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/69dfe3ebaba61f141731e08b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
