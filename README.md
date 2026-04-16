@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Northwestern Mutual Summer Internship](https://jobright.ai/jobs/info/69dfca76e34484770f1aa833?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Apr 15 |
 | **[NuScale Power](http://www.nuscalepower.com)** | **[Internship](https://jobright.ai/jobs/info/69dfc9cf433ac8430e0e2330?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 15 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/69c61be31b5ad0288737d99a?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Apr 15 |
-| **[Consolidated Supply Co.](http://consolidatedsupply.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dfc72b4920452a85dcf66b?utm_campaign=1054&utm_source=git)** | Tigard, OR 97224, USA | On Site | Apr 15 |
 | **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2d085ec22f8310ab0bddd?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Portland](https://jobright.ai/jobs/info/69c3a20e753c101b215784eb?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Apr 15 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Manager People and Workforce Insights](https://jobright.ai/jobs/info/69ddc059aba61f14173120a2?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Apr 15 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Expedient](https://www.expedient.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dfb761aba61f141731cd1a?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 14 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69dedc36433ac8430e0dcdc4?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | Apr 14 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
-| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
