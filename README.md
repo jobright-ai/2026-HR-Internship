@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Superior Insurance Partners](https://superiorinsurancepartnersllc.com/)** | **[Talent Acquisition/Human Resource Intern](https://jobright.ai/jobs/info/69e11161ff71e82d604b506a?utm_campaign=1054&utm_source=git)** | Chicago, Illinois | On Site | Apr 16 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69e10dcc40a62c1fa93b66f3?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 16 |
+| **[PAI Pharma](http://paipharma.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e10d916c20aa114953f2a9?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Apr 16 |
+| **[Fruit of the Loom, Inc.](https://www.fotlinc.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69cc32d0891d7b11cfcaaf93?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Apr 16 |
+| **[PPHC](https://pphcompany.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1079fff71e82d604b4d28?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
+| **[EDGECo Holdings, LP](https://www.edgecoholdings.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e107526c20aa114953f132?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 16 |
+| **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - HR Technology & Payroll](https://jobright.ai/jobs/info/69c46d22d5a1016e98dba680?utm_campaign=1054&utm_source=git)** | Miramar, FL | On Site | Apr 16 |
 | **[HeliosX Group](https://www.heliosx.com/)** | **[Talent Advisor (Canada)](https://jobright.ai/jobs/info/698b46460f6f7e7a2ce696ed?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 16 |
-| **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697002583ed06875134b02a2?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | Apr 16 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69c4441a33eecf3107947339?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Apr 16 |
 | **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf7f8b891d7b11cfcd4043?utm_campaign=1054&utm_source=git)** | Merrimack, NH | On Site | Apr 16 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[HR Intern - USA - GA - Atlanta - Global Support Center - R26-03078](https://jobright.ai/jobs/info/69c4587733eecf310794a0c1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 16 |
@@ -67,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4016cd5a1016e98db0856?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Apr 16 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/698c07380f6f7e7a2ce79747?utm_campaign=1054&utm_source=git)** | Mineral Wells, TX | On Site | Apr 16 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4406d6f4f855eeda6abe0?utm_campaign=1054&utm_source=git)** | Trumbull, CT | On Site | Apr 16 |
+| **[PROJXON](www.projxon.com)** | **[Onboarding Specialist Intern](https://jobright.ai/jobs/info/69e10794ff71e82d604b4d0e?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Mohawk Valley Community College](https://www.mvcc.edu)** | **[Associate Director of Human Resources for Employment and Compensation](https://jobright.ai/jobs/info/69a5e99ab600907a962bb3e2?utm_campaign=1054&utm_source=git)** | Utica-Rome Area | On Site | Apr 16 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Talent Foundation Management Intern](https://jobright.ai/jobs/info/69e0d80bacc736112f5c0731?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Apr 16 |
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49a48d5a1016e98dbe889?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Total Rewards](https://jobright.ai/jobs/info/69a5e36e359fe034b1d09a4e?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 15 |
 | **[HeliosX Group](https://www.heliosx.com/)** | **[Talent Advisor (Australia)](https://jobright.ai/jobs/info/698b3eb00f6f7e7a2ce68ddb?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Braintree (48513)](https://jobright.ai/jobs/info/69b81b6156973837413d496e?utm_campaign=1054&utm_source=git)** | Braintree, MA | On Site | Apr 15 |
-| **[Bridgewell](https://bridgewell.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dfae73433ac8430e0e1788?utm_campaign=1054&utm_source=git)** | 10 Dearborn Road, Peabody, MA 01960, USA | On Site | Apr 15 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a6c8671fc3d83b78091f2b?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Apr 15 |
-| **[Almo Corporation](http://www.almo.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69a74f4f2672cb0acb4bbfc3?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
-| **[Wellspring Lutheran Services](https://www.wellspringlutheran.com/)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/69df9ae65913ad3398144a1a?utm_campaign=1054&utm_source=git)** | Michigan, United States | Hybrid | Apr 15 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a7a11276bbe83d3afb030f?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Apr 15 |
-| **[Teza Technologies](http://www.teza.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69c307e3ec22f8310ab10bd2?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 15 |
-| **[Wurth Elektronik](https://www.we-ics.com)** | **[Engagement & Connectivity Intern - Summer 2026](https://jobright.ai/jobs/info/69c2b67794007a2195dea9d2?utm_campaign=1054&utm_source=git)** | Watertown, SD | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
