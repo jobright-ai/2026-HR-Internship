@@ -84,8 +84,7 @@ For a complete list, click the following sortable link below:
 | **[State of Oregon](https://www.oregon.gov)** | **[Industrial Lands and Business Recruitment Intern](https://jobright.ai/jobs/info/69e00558aba61f141731f1a7?utm_campaign=1054&utm_source=git)** | Portland | OBDD | Hybrid | Apr 15 |
 | **[TIFEC](https://osv-tifec.wd5.myworkdayjobs.com/TIFEC)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69e005374920452a85dd126d?utm_campaign=1054&utm_source=git)** | TIFEC Leawood, KS 66211 | On Site | Apr 15 |
 | **[APWireless Infrastructure Partners, LLC](http://www.apwip.com/)** | **[Intern](https://jobright.ai/jobs/info/69e001db14bf245fc7a6f565?utm_campaign=1054&utm_source=git)** | La Jolla, California, United States | On Site | Apr 15 |
-| **[Equitas Health](https://www.equitashealth.com)** | **[MHRS Intern](https://jobright.ai/jobs/info/69e0017baba61f141731ef4e?utm_campaign=1054&utm_source=git)** | Columbus, OH 43203, USA | Hybrid | Apr 15 |
-| ↳ | **[MHRS Intern](https://jobright.ai/jobs/info/69e0017aaba61f141731ef4d?utm_campaign=1054&utm_source=git)** | Cincinnati, OH 45206, USA | Hybrid | Apr 15 |
+| **[Equitas Health](https://www.equitashealth.com)** | **[MHRS Intern](https://jobright.ai/jobs/info/69e0017aaba61f141731ef4d?utm_campaign=1054&utm_source=git)** | Cincinnati, OH 45206, USA | Hybrid | Apr 15 |
 | **[Chess.com](http://www.chess.com)** | **[HR Intern - People Business Partners](https://jobright.ai/jobs/info/69dffde45913ad3398147242?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 15 |
 | **[NOV](https://www.nov.com/)** | **[Community Investment Program Intern](https://jobright.ai/jobs/info/69dffb16433ac8430e0e3a22?utm_campaign=1054&utm_source=git)** | 10353 Richmond Avenue, Houston, TX, 77042, US | On Site | Apr 15 |
 | **[Blattner](https://www.blattnercompany.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69dff9e9433ac8430e0e39ee?utm_campaign=1054&utm_source=git)** | Avon, MN | On Site | Apr 15 |
@@ -142,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2a69394007a2195de9388?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 15 |
 | **[SAIC](http://www.saic.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69df5703e34484770f1a89e4?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Apr 15 |
 | **[Nelson Tree Service, LLC](http://www.nelsontree.com)** | **[Intern](https://jobright.ai/jobs/info/69df537a14bf245fc7a6be88?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 15 |
-| **[Piping Technology & Products, Inc.](http://www.pipingtech.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e0901ecf5a9e0c33c873b7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 15 |
 | **[UES](https://www.teamues.com)** | **[Intern](https://jobright.ai/jobs/info/69c30c4fec22f8310ab11a21?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69df2e525913ad3398142ffc?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Apr 14 |
 | **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Compensation - New Jersey Location](https://jobright.ai/jobs/info/69df24fe18cf504166e3288a?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 14 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Expedient](https://www.expedient.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dfb761aba61f141731cd1a?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 14 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69dedc36433ac8430e0dcdc4?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | Apr 14 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
