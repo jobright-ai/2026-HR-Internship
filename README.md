@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Oregon](https://www.oregon.gov)** | **[Industrial Lands and Business Recruitment Intern](https://jobright.ai/jobs/info/69e075ee9564e855a25ddb08?utm_campaign=1054&utm_source=git)** | Salem, OR | Hybrid | Apr 15 |
+| **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[People & Organization Intern (Human Resources)](https://jobright.ai/jobs/info/69e073e1c5691b27c176d8c2?utm_campaign=1054&utm_source=git)** | Detroit Metro | On Site | Apr 15 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/69e067c4c5691b27c176d25a?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 15 |
 | **[UniUni](https://www.uniuni.com)** | **[HR & Admin Intern](https://jobright.ai/jobs/info/69e05fe4c5691b27c176cf9c?utm_campaign=1054&utm_source=git)** | Richmond, BC | On Site | Apr 15 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69e05f54ba9bd32d03370085?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | Apr 15 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[APWireless Infrastructure Partners, LLC](http://www.apwip.com/)** | **[Intern](https://jobright.ai/jobs/info/69e001db14bf245fc7a6f565?utm_campaign=1054&utm_source=git)** | La Jolla, California, United States | On Site | Apr 15 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[MHRS Intern](https://jobright.ai/jobs/info/69e0017baba61f141731ef4e?utm_campaign=1054&utm_source=git)** | Columbus, OH 43203, USA | Hybrid | Apr 15 |
 | ↳ | **[MHRS Intern](https://jobright.ai/jobs/info/69e0017aaba61f141731ef4d?utm_campaign=1054&utm_source=git)** | Cincinnati, OH 45206, USA | Hybrid | Apr 15 |
-| **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69dfffdee34484770f1abf63?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Chess.com](http://www.chess.com)** | **[HR Intern - People Business Partners](https://jobright.ai/jobs/info/69dffde45913ad3398147242?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 15 |
 | **[NOV](https://www.nov.com/)** | **[Community Investment Program Intern](https://jobright.ai/jobs/info/69dffb16433ac8430e0e3a22?utm_campaign=1054&utm_source=git)** | 10353 Richmond Avenue, Houston, TX, 77042, US | On Site | Apr 15 |
 | **[Blattner](https://www.blattnercompany.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69dff9e9433ac8430e0e39ee?utm_campaign=1054&utm_source=git)** | Avon, MN | On Site | Apr 15 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/69c61be31b5ad0288737d99a?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Apr 15 |
 | **[Consolidated Supply Co.](http://consolidatedsupply.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dfc72b4920452a85dcf66b?utm_campaign=1054&utm_source=git)** | Tigard, OR 97224, USA | On Site | Apr 15 |
 | **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c2d085ec22f8310ab0bddd?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 15 |
-| **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship, Fall 2026](https://jobright.ai/jobs/info/69e05ed1b20fd532b4ae1163?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Apr 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Portland](https://jobright.ai/jobs/info/69c3a20e753c101b215784eb?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Apr 15 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Manager People and Workforce Insights](https://jobright.ai/jobs/info/69ddc059aba61f14173120a2?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Apr 15 |
 | **[Ardene](https://www.ardene.com)** | **[HR Data Analyst Intern](https://jobright.ai/jobs/info/69dfbbfa4920452a85dcf1a6?utm_campaign=1054&utm_source=git)** | Laval, QC | On Site | Apr 15 |
@@ -146,6 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df21f536823d1b425868ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 14 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Intern Human Resources HR Compensation - New Jersey Location](https://jobright.ai/jobs/info/69df217436823d1b425868aa?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 14 |
 | ↳ | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df2154e34484770f1a76ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 14 |
+| **[PTI Technologies](http://ptitechnologies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e073d6c5691b27c176d8a8?utm_campaign=1054&utm_source=git)** | Oxnard, CA | On Site | Apr 14 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Talent Development Internship](https://jobright.ai/jobs/info/69df01e0e34484770f1a6655?utm_campaign=1054&utm_source=git)** | Northwood, OH | Hybrid | Apr 14 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Administrative Support Coordinator I](https://jobright.ai/jobs/info/69def6095913ad33981416fb?utm_campaign=1054&utm_source=git)** | Kern County, CA | On Site | Apr 14 |
 | **[Continental](https://www.continental.com)** | **[Intern - Recruiting / Talent Acquisition Coordinator, Year-Round](https://jobright.ai/jobs/info/69def421e34484770f1a5fe5?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 14 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Expedient](https://www.expedient.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dfb761aba61f141731cd1a?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 14 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69dedc36433ac8430e0dcdc4?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | Apr 14 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
-| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
-| **[McCarthy-Bush Corporation](https://mccarthybushcorp.com)** | **[Human Resources Intern- McCarthy Bush Corporation (Summer 2026)](https://jobright.ai/jobs/info/69ded2795913ad33981404bc?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Apr 14 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
