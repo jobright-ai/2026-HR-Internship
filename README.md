@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Artist & Brand Management](http://www.artistandbrand.com)** | **[Intern – Boutique Talent Agency](https://jobright.ai/jobs/info/69e014dce34484770f1ac817?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 15 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Analyst, Total Rewards (Compensation), People and Culture](https://jobright.ai/jobs/info/69e02358433ac8430e0e46ca?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Apr 15 |
+| **[UNCF](http://www.uncf.org)** | **[HR Talent Intern](https://jobright.ai/jobs/info/69e01ed0e34484770f1aca18?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 15 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/69e0108a5913ad3398147b1a?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
 | **[Dext Capital](https://dextcapital.com/)** | **[Internship](https://jobright.ai/jobs/info/69e010535913ad3398147a5d?utm_campaign=1054&utm_source=git)** | Lake Oswego, OR | On Site | Apr 15 |
 | **[American Dining Creations](http://www.adc-us.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e00e4c5913ad33981479d4?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Apr 15 |
@@ -141,9 +142,9 @@ For a complete list, click the following sortable link below:
 | **[Expedient](https://www.expedient.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dfb761aba61f141731cd1a?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 14 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69dedc36433ac8430e0dcdc4?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | Apr 14 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
-| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
 | **[McCarthy-Bush Corporation](https://mccarthybushcorp.com)** | **[Human Resources Intern- McCarthy Bush Corporation (Summer 2026)](https://jobright.ai/jobs/info/69ded2795913ad33981404bc?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Apr 14 |
 | **[National Education Association](http://www.nea.org)** | **[Human Resources Intern (Employee & Labor Relations)](https://jobright.ai/jobs/info/69decdc7e34484770f1a4ee7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 14 |
 | **[Arcadia Financial](https://arcadia.financial)** | **[People Operations Intern](https://jobright.ai/jobs/info/69decd1d5913ad3398140305?utm_campaign=1054&utm_source=git)** | Manchester, New Hampshire, United States | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acadiana Treatment Center](https://www.acadianatreatmentcenter.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69debdaf433ac8430e0dc355?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Apr 14 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69debd9936823d1b425838b7?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Apr 14 |
 | **[Continental](https://www.continental.com)** | **[Intern - Recruiting / Talent Acquisition Coordinator, Year-Round](https://jobright.ai/jobs/info/69deb5ea5913ad339813f149?utm_campaign=1054&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Apr 14 |
-| **[MacEwan University](http://www.MacEwan.ca)** | **[Assistant, Employee Services - Employee Services, Human Resources](https://jobright.ai/jobs/info/69deb2a518cf504166e2f594?utm_campaign=1054&utm_source=git)** | Edmonton, AB | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
