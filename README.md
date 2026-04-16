@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HeliosX Group](https://www.heliosx.com/)** | **[Talent Advisor (Canada)](https://jobright.ai/jobs/info/698b46460f6f7e7a2ce696ed?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 16 |
+| **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/697002583ed06875134b02a2?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | Apr 16 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69c4441a33eecf3107947339?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Apr 16 |
+| **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69cf7f8b891d7b11cfcd4043?utm_campaign=1054&utm_source=git)** | Merrimack, NH | On Site | Apr 16 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[HR Intern - USA - GA - Atlanta - Global Support Center - R26-03078](https://jobright.ai/jobs/info/69c4587733eecf310794a0c1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 16 |
 | **[United Rentals Europe](http://www.unitedrentals.com/en-gb)** | **[HR Intern (Stamford, CT)](https://jobright.ai/jobs/info/69e0f35cacc736112f5c103e?utm_campaign=1054&utm_source=git)** | Stamford, CT, USA | On Site | Apr 16 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Internship (Summer 2026)](https://jobright.ai/jobs/info/698a6bab0f6f7e7a2ce59254?utm_campaign=1054&utm_source=git)** | Mundelein, IL | On Site | Apr 16 |
@@ -68,10 +72,10 @@ For a complete list, click the following sortable link below:
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49a48d5a1016e98dbe889?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 16 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4dc3a33eecf3107955068?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dae0d5a1016e98dc3e90?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4db216f4f855eeda78e6a?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4dc3933eecf3107955067?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
+| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4db216f4f855eeda78e6a?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dc2c33eecf3107955057?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
+| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4dc3933eecf3107955067?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | **[Burr & Forman](http://www.burr.com)** | **[Summer Intern/Recruiting Support](https://jobright.ai/jobs/info/69a938ed79f3f4037f440610?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Apr 16 |
 | **[Department for Education, South Australia](https://www.education.sa.gov.au)** | **[TEMPORARY SSO2 - UNDERDALE HS - INTERNATIONAL PROGRAM AND EVENTS OFFICER](https://jobright.ai/jobs/info/69e0bd2b40a62c1fa93b4937?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | On Site | Apr 16 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c4206cd5a1016e98db29e4?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a7a11276bbe83d3afb030f?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Apr 15 |
 | **[Teza Technologies](http://www.teza.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69c307e3ec22f8310ab10bd2?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 15 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Engagement & Connectivity Intern - Summer 2026](https://jobright.ai/jobs/info/69c2b67794007a2195dea9d2?utm_campaign=1054&utm_source=git)** | Watertown, SD | On Site | Apr 15 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Temporary / Admissions Intern (Summer)](https://jobright.ai/jobs/info/69dfb75e4920452a85dceed9?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Apr 15 |
-| **[Source Allies](http://sourceallies.com)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69df90d814bf245fc7a6c94d?utm_campaign=1054&utm_source=git)** | Urbandale, IA | On Site | Apr 15 |
-| **[Precision Castparts](http://precast.com)** | **[2026 Fall Human Resources Co-op Program](https://jobright.ai/jobs/info/698a284d4db8972cecff6c51?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Apr 15 |
-| **[Erlanger](https://www.erlanger.org)** | **[Internship Program Coordinator -Fulltime](https://jobright.ai/jobs/info/69c2ec49753c101b2156592a?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
