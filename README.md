@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kennywood Park](https://www.kennywood.com/)** | **[Idlewild and SoakZone: Human Resources Intern](https://jobright.ai/jobs/info/69e08259ba9bd32d03370d11?utm_campaign=1054&utm_source=git)** | Ligonier, PA | On Site | Apr 15 |
+| ↳ | **[Idlewild and SoakZone - Workforce Management Intern](https://jobright.ai/jobs/info/69e07afc9564e855a25ddc92?utm_campaign=1054&utm_source=git)** | Ligonier, PA | On Site | Apr 15 |
 | **[State of Oregon](https://www.oregon.gov)** | **[Industrial Lands and Business Recruitment Intern](https://jobright.ai/jobs/info/69e075ee9564e855a25ddb08?utm_campaign=1054&utm_source=git)** | Salem, OR | Hybrid | Apr 15 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[People & Organization Intern (Human Resources)](https://jobright.ai/jobs/info/69e073e1c5691b27c176d8c2?utm_campaign=1054&utm_source=git)** | Detroit Metro | On Site | Apr 15 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/69e067c4c5691b27c176d25a?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 15 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Expedient](https://www.expedient.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69dfb761aba61f141731cd1a?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 14 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69dedc36433ac8430e0dcdc4?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | Apr 14 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
-| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bd18cf504166e310fb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | Apr 14 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3be36823d1b425850f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | Apr 14 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69def3bde34484770f1a5ed4?utm_campaign=1054&utm_source=git)** | CA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
