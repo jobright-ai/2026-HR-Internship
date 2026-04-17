@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e2616d5c44d4710fe24f2b?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Apr 17 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/69e261473770bd5361cd8357?utm_campaign=1054&utm_source=git)** | US-TX-Houston | On Site | Apr 17 |
+| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e260ef2f286535930765e0?utm_campaign=1054&utm_source=git)** | West Hartford, CT, US | Hybrid | Apr 17 |
+| **[DoubleVerify](http://www.doubleverify.com)** | **[HR Digital Solutions Intern ](https://jobright.ai/jobs/info/69e25fd25c44d4710fe24eeb?utm_campaign=1054&utm_source=git)** | NYC Global HQ | On Site | Apr 17 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Analytics & Finance Intern](https://jobright.ai/jobs/info/69c5a90eaa9a29199e8086b9?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Apr 17 |
 | **[Particle Measuring Systems](https://www.pmeasuring.com/)** | **[Summer Intern: Communications and Employee Experience](https://jobright.ai/jobs/info/69a8e7a32580d3183f01101c?utm_campaign=1054&utm_source=git)** | Niwot, CO | On Site | Apr 17 |
 | **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition - San Francisco （Intern / Contract）](https://jobright.ai/jobs/info/69aa4de72ebd316bece21104?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Rentals Europe](http://www.unitedrentals.com/en-gb)** | **[HR Intern (Stamford, CT)](https://jobright.ai/jobs/info/69e0f35cacc736112f5c103e?utm_campaign=1054&utm_source=git)** | Stamford, CT, USA | On Site | Apr 16 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Internship (Summer 2026)](https://jobright.ai/jobs/info/698a6bab0f6f7e7a2ce59254?utm_campaign=1054&utm_source=git)** | Mundelein, IL | On Site | Apr 16 |
 | **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1832b6c20aa11495417bc?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | Apr 16 |
-| **[LIFE-NWPA](lifenwpa.org)** | **[Learning & Development HR Intern](https://jobright.ai/jobs/info/69e1511c40a62c1fa93b7d44?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 16 |
-| **[Allison Transmission](http://www.allisontransmission.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4016cd5a1016e98db0856?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Apr 16 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/698c07380f6f7e7a2ce79747?utm_campaign=1054&utm_source=git)** | Mineral Wells, TX | On Site | Apr 16 |
-| **[CooperSurgical](http://www.coopersurgical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4406d6f4f855eeda6abe0?utm_campaign=1054&utm_source=git)** | Trumbull, CT | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
