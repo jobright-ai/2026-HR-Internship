@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst Health](http://www.hearsthealth.com)** | **[HR Intern - Process Improvement (AI and Automation Focus)](https://jobright.ai/jobs/info/69e2aaa5fcfcbd43860a3cbb?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
+| **[Jabil](https://www.jabil.com)** | **[Sr. Technical Recruiter](https://jobright.ai/jobs/info/69e2a3df3ce36005badbef30?utm_campaign=1054&utm_source=git)** | St. Petersburg, Florida, United States | Remote | Apr 17 |
 | **[Amivero](https://amivero.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e2964a5c44d4710fe25da5?utm_campaign=1054&utm_source=git)** | Reston, VA, US | On Site | Apr 17 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69e296443770bd5361cd924b?utm_campaign=1054&utm_source=git)** | US-VA-Reston | On Site | Apr 17 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Talent Acquisition Intern - Summer 2026 - Regional Office Based (Hybrid)](https://jobright.ai/jobs/info/69e29628be46fa3a4ef57cb7?utm_campaign=1054&utm_source=git)** | Plymouth, MN | Hybrid | Apr 17 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/69e261473770bd5361cd8357?utm_campaign=1054&utm_source=git)** | US-TX-Houston | On Site | Apr 17 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e260ef2f286535930765e0?utm_campaign=1054&utm_source=git)** | West Hartford, CT, US | Hybrid | Apr 17 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[HR Digital Solutions Intern ](https://jobright.ai/jobs/info/69e25fd25c44d4710fe24eeb?utm_campaign=1054&utm_source=git)** | NYC Global HQ | On Site | Apr 17 |
+| **[Aqua](https://www.aquawater.com/)** | **[HR / Talent Acquisition Intern](https://jobright.ai/jobs/info/69e2a34c2f28653593077615?utm_campaign=1054&utm_source=git)** | PA Pittsburgh | On Site | Apr 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/69e27184fcfcbd43860a2e61?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 17 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa16f52ebd316bece1d2fc?utm_campaign=1054&utm_source=git)** | Newaygo, MI | On Site | Apr 17 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Human Resources Intern (HRBP Support)](https://jobright.ai/jobs/info/69e2717b2f286535930767fe?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Apr 17 |
@@ -110,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Northland Area Federal Credit Union](https://www.northlandcu.com)** | **[Intern / Temporary Seasonal HR Assistant, Human Resources](https://jobright.ai/jobs/info/69e2197bcdd32f1cb3d2c867?utm_campaign=1054&utm_source=git)** | Alpena, MI | On Site | Apr 17 |
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time Canada Remote / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69e1f1426afe5d2fd108b54a?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 17 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1e4eefd1c0456f3fb2e65?utm_campaign=1054&utm_source=git)** | Delaware, United States | Remote | Apr 17 |
-| **[WTW](https://www.wtwco.com)** | **[Filled: Early Careers: Summer Compensation Internship-Summer 2026](https://jobright.ai/jobs/info/69e1d29fd612782e6114aa42?utm_campaign=1054&utm_source=git)** | Stamford, CT | Remote | Apr 16 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Workforce Operations Intern](https://jobright.ai/jobs/info/69e1ccc16c20aa1149543037?utm_campaign=1054&utm_source=git)** | Altoona, IA | On Site | Apr 16 |
 | **[U.S. Immigration and Customs Enforcement (ICE)](http://www.ice.gov)** | **[Human Resources Specialist (Recruitment and Placement)](https://jobright.ai/jobs/info/69e1c2bcd612782e6114a507?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 16 |
 | ↳ | **[Human Resources Specialist (Recruitment and Placement)](https://jobright.ai/jobs/info/69e1bbb240a62c1fa93b9eac?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CooperVision](http://coopervision.com)** | **[Global People Services Data Insights Intern](https://jobright.ai/jobs/info/69c433fa33eecf3107945bae?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | Apr 16 |
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[HR Benefits Specialist](https://jobright.ai/jobs/info/69e16515acc736112f5c3747?utm_campaign=1054&utm_source=git)** | Breckenridge, CO | On Site | Apr 16 |
 | **[Mutual of America Financial Group](http://www.mutualofamerica.com)** | **[Human Resource Information Systems (HRIS) & Data Integration– 2026 Summer Internship](https://jobright.ai/jobs/info/69e13659ff71e82d604b5b0b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Economic Assistance Benefits Specialist (Fall)](https://jobright.ai/jobs/info/69e135be40a62c1fa93b71c1?utm_campaign=1054&utm_source=git)** | Aberdeen, SD | On Site | Apr 16 |
-| **[Larson Engineering](http://larsonengr.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69e16375ff71e82d604b6ab5?utm_campaign=1054&utm_source=git)** | White Bear Lake, MN | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
