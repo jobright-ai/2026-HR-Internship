@@ -128,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69a8e49279f3f4037f4373dc?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/69e128df40a62c1fa93b6e43?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e128add612782e61147223?utm_campaign=1054&utm_source=git)** | TMO - HR NJ | On Site | Apr 16 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 16 |
 | **[LH Sales Consulting](http://www.lhsalesconsulting.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e12cf5fd1c0456f3facd93?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 16 |
 | **[The Michaels Organization](https://tmo.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1467ad612782e61147cf1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Apr 16 |
