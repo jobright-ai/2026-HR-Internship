@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1e4eefd1c0456f3fb2e65?utm_campaign=1054&utm_source=git)** | Delaware, United States | Remote | Apr 17 |
 | **[WTW](https://www.wtwco.com)** | **[Filled: Early Careers: Summer Compensation Internship-Summer 2026](https://jobright.ai/jobs/info/69e1d29fd612782e6114aa42?utm_campaign=1054&utm_source=git)** | Stamford, CT | Remote | Apr 16 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Workforce Operations Intern](https://jobright.ai/jobs/info/69e1ccc16c20aa1149543037?utm_campaign=1054&utm_source=git)** | Altoona, IA | On Site | Apr 16 |
 | **[U.S. Immigration and Customs Enforcement (ICE)](http://www.ice.gov)** | **[Human Resources Specialist (Recruitment and Placement)](https://jobright.ai/jobs/info/69e1c2bcd612782e6114a507?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 16 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69a8e49279f3f4037f4373dc?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/69e128df40a62c1fa93b6e43?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e128add612782e61147223?utm_campaign=1054&utm_source=git)** | TMO - HR NJ | On Site | Apr 16 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 16 |
 | **[The Michaels Organization](https://tmo.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1467ad612782e61147cf1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Apr 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/69c4f0936f4f855eeda7b297?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Apr 16 |
@@ -144,17 +145,16 @@ For a complete list, click the following sortable link below:
 | **[PROJXON](www.projxon.com)** | **[Onboarding Specialist Intern](https://jobright.ai/jobs/info/69e10794ff71e82d604b4d0e?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Mohawk Valley Community College](https://www.mvcc.edu)** | **[Associate Director of Human Resources for Employment and Compensation](https://jobright.ai/jobs/info/69a5e99ab600907a962bb3e2?utm_campaign=1054&utm_source=git)** | Utica-Rome Area | On Site | Apr 16 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Talent Foundation Management Intern](https://jobright.ai/jobs/info/69e0d80bacc736112f5c0731?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Apr 16 |
+| **[Crash Champions](https://crashchampions.com/)** | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69e1e17ad612782e6114cd0d?utm_campaign=1054&utm_source=git)** | 601 Oakmont Lane | On Site | Apr 16 |
+| ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69e1e0b940a62c1fa93bcb6e?utm_campaign=1054&utm_source=git)** | Westmont | On Site | Apr 16 |
+| ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69e1e0bcacc736112f5c7d14?utm_campaign=1054&utm_source=git)** | IL | On Site | Apr 16 |
+| ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69e1e168ff71e82d604bb609?utm_campaign=1054&utm_source=git)** | Westmont, IL, US | On Site | Apr 16 |
+| ↳ | **[Intern, HR - Leave of Absence](https://jobright.ai/jobs/info/69e1e0b6fd1c0456f3fb2c06?utm_campaign=1054&utm_source=git)** | 60559 | On Site | Apr 16 |
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49a48d5a1016e98dbe889?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 16 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4dc3a33eecf3107955068?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dae0d5a1016e98dc3e90?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4db216f4f855eeda78e6a?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
+| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4dc3933eecf3107955067?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dc2c33eecf3107955057?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
-| **[Burr & Forman](http://www.burr.com)** | **[Summer Intern/Recruiting Support](https://jobright.ai/jobs/info/69a938ed79f3f4037f440610?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Apr 16 |
-| **[Department for Education, South Australia](https://www.education.sa.gov.au)** | **[TEMPORARY SSO2 - UNDERDALE HS - INTERNATIONAL PROGRAM AND EVENTS OFFICER](https://jobright.ai/jobs/info/69e0bd2b40a62c1fa93b4937?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | On Site | Apr 16 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c4206cd5a1016e98db29e4?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 16 |
-| **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (GMPT) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c4d47ed5a1016e98dc3134?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
-| **[Kennywood Park](https://www.kennywood.com/)** | **[Idlewild and SoakZone: Human Resources Intern](https://jobright.ai/jobs/info/69e08259ba9bd32d03370d11?utm_campaign=1054&utm_source=git)** | Ligonier, PA | On Site | Apr 15 |
-| ↳ | **[Idlewild and SoakZone - Workforce Management Intern](https://jobright.ai/jobs/info/69e07afc9564e855a25ddc92?utm_campaign=1054&utm_source=git)** | Ligonier, PA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
