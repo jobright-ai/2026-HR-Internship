@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WTW](https://www.wtwco.com)** | **[Filled: Early Careers: Summer Compensation Internship-Summer 2026](https://jobright.ai/jobs/info/69e1d29fd612782e6114aa42?utm_campaign=1054&utm_source=git)** | Stamford, CT | Remote | Apr 16 |
+| **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Workforce Operations Intern](https://jobright.ai/jobs/info/69e1ccc16c20aa1149543037?utm_campaign=1054&utm_source=git)** | Altoona, IA | On Site | Apr 16 |
 | **[U.S. Immigration and Customs Enforcement (ICE)](http://www.ice.gov)** | **[Human Resources Specialist (Recruitment and Placement)](https://jobright.ai/jobs/info/69e1c2bcd612782e6114a507?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 16 |
 | ↳ | **[Human Resources Specialist (Recruitment and Placement)](https://jobright.ai/jobs/info/69e1bbb240a62c1fa93b9eac?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 16 |
 | **[Lovet Pet Health Care](https://www.lovet.com)** | **[Campus Recruitment Coordinator Intern](https://jobright.ai/jobs/info/69e1ae52fd1c0456f3faf764?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 16 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dae0d5a1016e98dc3e90?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4db216f4f855eeda78e6a?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dc2c33eecf3107955057?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4dc3933eecf3107955067?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
+| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dc2c33eecf3107955057?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
 | **[Burr & Forman](http://www.burr.com)** | **[Summer Intern/Recruiting Support](https://jobright.ai/jobs/info/69a938ed79f3f4037f440610?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Apr 16 |
 | **[Department for Education, South Australia](https://www.education.sa.gov.au)** | **[TEMPORARY SSO2 - UNDERDALE HS - INTERNATIONAL PROGRAM AND EVENTS OFFICER](https://jobright.ai/jobs/info/69e0bd2b40a62c1fa93b4937?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | On Site | Apr 16 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c4206cd5a1016e98db29e4?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 16 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (GMPT) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c4d47ed5a1016e98dc3134?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Idlewild and SoakZone: Human Resources Intern](https://jobright.ai/jobs/info/69e08259ba9bd32d03370d11?utm_campaign=1054&utm_source=git)** | Ligonier, PA | On Site | Apr 15 |
 | ↳ | **[Idlewild and SoakZone - Workforce Management Intern](https://jobright.ai/jobs/info/69e07afc9564e855a25ddc92?utm_campaign=1054&utm_source=git)** | Ligonier, PA | On Site | Apr 15 |
-| **[State of Oregon](https://www.oregon.gov)** | **[Industrial Lands and Business Recruitment Intern](https://jobright.ai/jobs/info/69e075ee9564e855a25ddb08?utm_campaign=1054&utm_source=git)** | Salem, OR | Hybrid | Apr 15 |
-| **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[People & Organization Intern (Human Resources)](https://jobright.ai/jobs/info/69e073e1c5691b27c176d8c2?utm_campaign=1054&utm_source=git)** | Detroit Metro | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
