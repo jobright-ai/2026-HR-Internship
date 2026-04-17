@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Compensation Program Manager - Pay Equity](https://jobright.ai/jobs/info/69e17176ff71e82d604b711e?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 16 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69e17e8c40a62c1fa93b8b76?utm_campaign=1054&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 16 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e17d3f40a62c1fa93b8af9?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 16 |
 | **[WellNow Urgent Care](https://wellnow.com/)** | **[Campus Recruitment Coordinator Intern](https://jobright.ai/jobs/info/69e17104acc736112f5c3c11?utm_campaign=1054&utm_source=git)** | Remote, Arizona | Remote | Apr 16 |
 | **[WTW](https://www.wtwco.com)** | **[Filled: Early Careers: Summer Compensation Internship-Summer 2026](https://jobright.ai/jobs/info/69e16de96c20aa11495411b9?utm_campaign=1054&utm_source=git)** | 3001 Summer Street, Stamford, CT, 06905, US | Remote | Apr 16 |
 | **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[Office Operations Intern](https://jobright.ai/jobs/info/69e16870ff71e82d604b6d0d?utm_campaign=1054&utm_source=git)** | Rockwall, TX | On Site | Apr 16 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Network Connex](https://www.networkconnex.com/)** | **[Intern](https://jobright.ai/jobs/info/69e146eeacc736112f5c2de0?utm_campaign=1054&utm_source=git)** | Downers Grove, IL | On Site | Apr 16 |
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/69e1468dfd1c0456f3fad68d?utm_campaign=1054&utm_source=git)** | NY New York / 99th Street | On Site | Apr 16 |
 | **[Ada County Highway District (ACHD)](https://achdidaho.org)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e143416c20aa11495403af?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 16 |
-| **[Global Next Gen. Management](www.nextgenmanagment.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e16383fd1c0456f3fae04e?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Apr 16 |
 | **[Grace Inspired Living](https://www.graceinspiredliving.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e13f6b6c20aa11495402a7?utm_campaign=1054&utm_source=git)** | Telford, PA | On Site | Apr 16 |
 | **[Corpay](https://payments.corpay.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69e13f6ad612782e61147a83?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 16 |
 | **[Upper Grand District School Board](https://www.ugdsb.ca)** | **[26OCT20 - Payroll Clerk - Guelph Board Office](https://jobright.ai/jobs/info/69e16abc6c20aa11495410bc?utm_campaign=1054&utm_source=git)** | Guelph, ON | On Site | Apr 16 |
@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69a8e49279f3f4037f4373dc?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/69e128df40a62c1fa93b6e43?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e128add612782e61147223?utm_campaign=1054&utm_source=git)** | TMO - HR NJ | On Site | Apr 16 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 16 |
 | **[The Michaels Organization](https://tmo.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1467ad612782e61147cf1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Apr 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/69c4f0936f4f855eeda7b297?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Apr 16 |
@@ -116,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[BrandSafway](https://www.brandsafway.com/)** | **[HR Intern - USA - GA - Atlanta - Global Support Center - R26-03078](https://jobright.ai/jobs/info/69c4587733eecf310794a0c1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 16 |
 | **[United Rentals Europe](http://www.unitedrentals.com/en-gb)** | **[HR Intern (Stamford, CT)](https://jobright.ai/jobs/info/69e0f35cacc736112f5c103e?utm_campaign=1054&utm_source=git)** | Stamford, CT, USA | On Site | Apr 16 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[HR Internship (Summer 2026)](https://jobright.ai/jobs/info/698a6bab0f6f7e7a2ce59254?utm_campaign=1054&utm_source=git)** | Mundelein, IL | On Site | Apr 16 |
+| **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1832b6c20aa11495417bc?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | Apr 16 |
 | **[LIFE-NWPA](lifenwpa.org)** | **[Learning & Development HR Intern](https://jobright.ai/jobs/info/69e1511c40a62c1fa93b7d44?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 16 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c4016cd5a1016e98db0856?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Apr 16 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/698c07380f6f7e7a2ce79747?utm_campaign=1054&utm_source=git)** | Mineral Wells, TX | On Site | Apr 16 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dae0d5a1016e98dc3e90?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4db216f4f855eeda78e6a?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4dc3933eecf3107955067?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dc2c33eecf3107955057?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
+| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4dc3933eecf3107955067?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | **[Burr & Forman](http://www.burr.com)** | **[Summer Intern/Recruiting Support](https://jobright.ai/jobs/info/69a938ed79f3f4037f440610?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Apr 16 |
 | **[Department for Education, South Australia](https://www.education.sa.gov.au)** | **[TEMPORARY SSO2 - UNDERDALE HS - INTERNATIONAL PROGRAM AND EVENTS OFFICER](https://jobright.ai/jobs/info/69e0bd2b40a62c1fa93b4937?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | On Site | Apr 16 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c4206cd5a1016e98db29e4?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dext Capital](https://dextcapital.com/)** | **[Internship](https://jobright.ai/jobs/info/69e010535913ad3398147a5d?utm_campaign=1054&utm_source=git)** | Lake Oswego, OR | On Site | Apr 15 |
 | **[American Dining Creations](http://www.adc-us.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e00e4c5913ad33981479d4?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Apr 15 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69e00e47433ac8430e0e41ab?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Apr 15 |
-| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/69e00df94920452a85dd1604?utm_campaign=1054&utm_source=git)** | US-WI-West Bend | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
