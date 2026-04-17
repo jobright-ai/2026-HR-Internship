@@ -107,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1486d6c20aa1149540687?utm_campaign=1054&utm_source=git)** | McLean, VA | Remote | Apr 16 |
 | **[Durham County Government](http://www.dconc.gov)** | **[HUMAN RESOURCES DATA ANALYST- 40010454](https://jobright.ai/jobs/info/69e148686c20aa1149540668?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Apr 16 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, HR Systems](https://jobright.ai/jobs/info/69e1485c6c20aa1149540635?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 16 |
-| **[Network Connex](https://www.networkconnex.com/)** | **[Intern](https://jobright.ai/jobs/info/69e146eeacc736112f5c2de0?utm_campaign=1054&utm_source=git)** | Downers Grove, IL | On Site | Apr 16 |
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/69e1468dfd1c0456f3fad68d?utm_campaign=1054&utm_source=git)** | NY New York / 99th Street | On Site | Apr 16 |
 | **[Ada County Highway District (ACHD)](https://achdidaho.org)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e143416c20aa11495403af?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 16 |
 | **[Grace Inspired Living](https://www.graceinspiredliving.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e13f6b6c20aa11495402a7?utm_campaign=1054&utm_source=git)** | Telford, PA | On Site | Apr 16 |
@@ -129,9 +128,10 @@ For a complete list, click the following sortable link below:
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69a8e49279f3f4037f4373dc?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/69e128df40a62c1fa93b6e43?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e128add612782e61147223?utm_campaign=1054&utm_source=git)** | TMO - HR NJ | On Site | Apr 16 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 16 |
+| **[LH Sales Consulting](http://www.lhsalesconsulting.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e12cf5fd1c0456f3facd93?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 16 |
 | **[The Michaels Organization](https://tmo.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1467ad612782e61147cf1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Apr 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/69c4f0936f4f855eeda7b297?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Apr 16 |
 | **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd7c80738f2f099e8b676e?utm_campaign=1054&utm_source=git)** | Huntersville, NC | On Site | Apr 16 |
