@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Compensation Program Manager - Pay Equity](https://jobright.ai/jobs/info/69e17176ff71e82d604b711e?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 16 |
+| **[WellNow Urgent Care](https://wellnow.com/)** | **[Campus Recruitment Coordinator Intern](https://jobright.ai/jobs/info/69e17104acc736112f5c3c11?utm_campaign=1054&utm_source=git)** | Remote, Arizona | Remote | Apr 16 |
+| **[WTW](https://www.wtwco.com)** | **[Filled: Early Careers: Summer Compensation Internship-Summer 2026](https://jobright.ai/jobs/info/69e16de96c20aa11495411b9?utm_campaign=1054&utm_source=git)** | 3001 Summer Street, Stamford, CT, 06905, US | Remote | Apr 16 |
+| **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[Office Operations Intern](https://jobright.ai/jobs/info/69e16870ff71e82d604b6d0d?utm_campaign=1054&utm_source=git)** | Rockwall, TX | On Site | Apr 16 |
 | **[Helping Hands Family - Autism Services](https://hhfamily.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e16519d612782e611486fc?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Apr 16 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Administrative Support Coordinator I](https://jobright.ai/jobs/info/69e164f940a62c1fa93b831a?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Apr 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/69e158daff71e82d604b67ba?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 16 |
+| **[AMG Financial Services](https://www.amgfinancialservices.com)** | **[Recruiting & Sales Intern](https://jobright.ai/jobs/info/69e1732b40a62c1fa93b88b9?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Apr 16 |
 | **[Grayscale Investments](https://grayscale.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69e15141acc736112f5c30ab?utm_campaign=1054&utm_source=git)** | Stamford, Connecticut, United States | On Site | Apr 16 |
 | **[Luxfer Magtech](https://www.luxfermagtech.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e14fbb40a62c1fa93b7cf4?utm_campaign=1054&utm_source=git)** | Saxonburg, PA | On Site | Apr 16 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e14d38d612782e61147f1f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
@@ -72,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Global Next Gen. Management](www.nextgenmanagment.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e16383fd1c0456f3fae04e?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Apr 16 |
 | **[Grace Inspired Living](https://www.graceinspiredliving.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e13f6b6c20aa11495402a7?utm_campaign=1054&utm_source=git)** | Telford, PA | On Site | Apr 16 |
 | **[Corpay](https://payments.corpay.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69e13f6ad612782e61147a83?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 16 |
+| **[Upper Grand District School Board](https://www.ugdsb.ca)** | **[26OCT20 - Payroll Clerk - Guelph Board Office](https://jobright.ai/jobs/info/69e16abc6c20aa11495410bc?utm_campaign=1054&utm_source=git)** | Guelph, ON | On Site | Apr 16 |
 | **[Marvin](http://www.marvin.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/69e13b71ff71e82d604b5ded?utm_campaign=1054&utm_source=git)** | Minnesota, United States | On Site | Apr 16 |
 | **[Krause Group](https://www.krausegroup.com)** | **[Grow People (HR) Intern](https://jobright.ai/jobs/info/69e13973ff71e82d604b5cd7?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 16 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Analytics Intern](https://jobright.ai/jobs/info/69e139476c20aa114953ff01?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 16 |
@@ -89,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69a8e49279f3f4037f4373dc?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/69e128df40a62c1fa93b6e43?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e128add612782e61147223?utm_campaign=1054&utm_source=git)** | TMO - HR NJ | On Site | Apr 16 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 16 |
 | **[The Michaels Organization](https://tmo.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1467ad612782e61147cf1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Apr 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/69c4f0936f4f855eeda7b297?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Apr 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Dining Creations](http://www.adc-us.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e00e4c5913ad33981479d4?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Apr 15 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69e00e47433ac8430e0e41ab?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Apr 15 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/69e00df94920452a85dd1604?utm_campaign=1054&utm_source=git)** | US-WI-West Bend | On Site | Apr 15 |
-| ↳ | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/69e00dddaba61f141731f49c?utm_campaign=1054&utm_source=git)** | West Bend, WI, US | On Site | Apr 15 |
-| **[STAR Financial Bank](https://www.starfinancial.com)** | **[HUMAN RESOURCES INTERN - SUMMER 2026 - FORT WAYNE](https://jobright.ai/jobs/info/69e00d6aaba61f141731f481?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Apr 15 |
-| **[Mizkan America](http://mizkan.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d63963cfdc6132f9469221?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 15 |
-| **[State of Oregon](https://www.oregon.gov)** | **[Industrial Lands and Business Recruitment Intern](https://jobright.ai/jobs/info/69e00558aba61f141731f1a7?utm_campaign=1054&utm_source=git)** | Portland | OBDD | Hybrid | Apr 15 |
-| **[TIFEC](https://osv-tifec.wd5.myworkdayjobs.com/TIFEC)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69e005374920452a85dd126d?utm_campaign=1054&utm_source=git)** | TIFEC Leawood, KS 66211 | On Site | Apr 15 |
-| **[APWireless Infrastructure Partners, LLC](http://www.apwip.com/)** | **[Intern](https://jobright.ai/jobs/info/69e001db14bf245fc7a6f565?utm_campaign=1054&utm_source=git)** | La Jolla, California, United States | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
