@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Immigration and Customs Enforcement (ICE)](http://www.ice.gov)** | **[Human Resources Specialist (Recruitment and Placement)](https://jobright.ai/jobs/info/69e1bbb240a62c1fa93b9eac?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 16 |
+| **[Lovet Pet Health Care](https://www.lovet.com)** | **[Campus Recruitment Coordinator Intern](https://jobright.ai/jobs/info/69e1ae52fd1c0456f3faf764?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 16 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69e1a8b36c20aa11495423f9?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Apr 16 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/69e1a677d612782e61149999?utm_campaign=1054&utm_source=git)** | Petoskey, MI | On Site | Apr 16 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Workforce Strategy Analyst](https://jobright.ai/jobs/info/69e197e1fd1c0456f3faef5c?utm_campaign=1054&utm_source=git)** | Savanna Place, GA | On Site | Apr 16 |
@@ -64,6 +66,8 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69e196f840a62c1fa93b90df?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Apr 16 |
 | **[University of the Pacific](http://www.pacific.edu/)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69e1918d40a62c1fa93b8eef?utm_campaign=1054&utm_source=git)** | Stockton, CA | On Site | Apr 16 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Student Intern - Digital HR and Associate Experience](https://jobright.ai/jobs/info/69e1917240a62c1fa93b8ecc?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 16 |
+| **[Red Clover](https://redcloverhr.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1ae6b6c20aa114954264a?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Apr 16 |
+| **[JPS Composite Materials](https://jpscm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1b528d612782e6114a05b?utm_campaign=1054&utm_source=git)** | Statesville, NC | On Site | Apr 16 |
 | **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Global Recruitment Intern](https://jobright.ai/jobs/info/69e185df6c20aa1149541880?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69e17e8c40a62c1fa93b8b76?utm_campaign=1054&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 16 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e17d3f40a62c1fa93b8af9?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 16 |
@@ -105,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69a8e49279f3f4037f4373dc?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/69e128df40a62c1fa93b6e43?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e128add612782e61147223?utm_campaign=1054&utm_source=git)** | TMO - HR NJ | On Site | Apr 16 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 16 |
 | **[The Michaels Organization](https://tmo.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1467ad612782e61147cf1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Apr 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/69c4f0936f4f855eeda7b297?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Apr 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[People & Organization Intern (Human Resources)](https://jobright.ai/jobs/info/69e073e1c5691b27c176d8c2?utm_campaign=1054&utm_source=git)** | Detroit Metro | On Site | Apr 15 |
 | **[Little Flower Children and Family Services of New York](https://www.littleflowerny.org)** | **[Case Management Intern](https://jobright.ai/jobs/info/69e0cc3740a62c1fa93b4fc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, US | On Site | Apr 15 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/69e067c4c5691b27c176d25a?utm_campaign=1054&utm_source=git)** | West Bend, WI | On Site | Apr 15 |
-| **[UniUni](https://www.uniuni.com)** | **[HR & Admin Intern](https://jobright.ai/jobs/info/69e05fe4c5691b27c176cf9c?utm_campaign=1054&utm_source=git)** | Richmond, BC | On Site | Apr 15 |
-| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69e05f54ba9bd32d03370085?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | Apr 15 |
-| **[Oregon Department of Human Services](https://www.oregon.gov/Pages/index.aspx)** | **[Industrial Lands and Business Recruitment Intern](https://jobright.ai/jobs/info/69e0e7bdd612782e61145bdd?utm_campaign=1054&utm_source=git)** | Portland, OR | Hybrid | Apr 15 |
-| **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e04f53b20fd532b4ae0a1c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
