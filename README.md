@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69e1a8b36c20aa11495423f9?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Apr 16 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/69e1a677d612782e61149999?utm_campaign=1054&utm_source=git)** | Petoskey, MI | On Site | Apr 16 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Workforce Strategy Analyst](https://jobright.ai/jobs/info/69e197e1fd1c0456f3faef5c?utm_campaign=1054&utm_source=git)** | Savanna Place, GA | On Site | Apr 16 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e197c2ff71e82d604b7a16?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 16 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69e196f840a62c1fa93b90df?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Apr 16 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69e17e8c40a62c1fa93b8b76?utm_campaign=1054&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 16 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e17d3f40a62c1fa93b8af9?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 16 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Career Development Coordinator](https://jobright.ai/jobs/info/69e197d040a62c1fa93b9133?utm_campaign=1054&utm_source=git)** | Guelph, ON | On Site | Apr 16 |
+| **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/69e1a8c26c20aa114954240f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[WellNow Urgent Care](https://wellnow.com/)** | **[Campus Recruitment Coordinator Intern](https://jobright.ai/jobs/info/69e17104acc736112f5c3c11?utm_campaign=1054&utm_source=git)** | Remote, Arizona | Remote | Apr 16 |
 | **[WTW](https://www.wtwco.com)** | **[Filled: Early Careers: Summer Compensation Internship-Summer 2026](https://jobright.ai/jobs/info/69e16de96c20aa11495411b9?utm_campaign=1054&utm_source=git)** | 3001 Summer Street, Stamford, CT, 06905, US | Remote | Apr 16 |
 | **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[Office Operations Intern](https://jobright.ai/jobs/info/69e16870ff71e82d604b6d0d?utm_campaign=1054&utm_source=git)** | Rockwall, TX | On Site | Apr 16 |
@@ -102,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69a8e49279f3f4037f4373dc?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/69e128df40a62c1fa93b6e43?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e128add612782e61147223?utm_campaign=1054&utm_source=git)** | TMO - HR NJ | On Site | Apr 16 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 16 |
 | **[The Michaels Organization](https://tmo.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1467ad612782e61147cf1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Apr 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/69c4f0936f4f855eeda7b297?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Apr 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69e05f54ba9bd32d03370085?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | Apr 15 |
 | **[Oregon Department of Human Services](https://www.oregon.gov/Pages/index.aspx)** | **[Industrial Lands and Business Recruitment Intern](https://jobright.ai/jobs/info/69e0e7bdd612782e61145bdd?utm_campaign=1054&utm_source=git)** | Portland, OR | Hybrid | Apr 15 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e04f53b20fd532b4ae0a1c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 15 |
-| **[TIFEC](https://osv-tifec.wd5.myworkdayjobs.com/TIFEC)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69e02fb214bf245fc7a7068f?utm_campaign=1054&utm_source=git)** | Leawood, KS | On Site | Apr 15 |
-| **[One Senior Care](https://www.oneseniorcare.com)** | **[Learning & Development HR Intern](https://jobright.ai/jobs/info/69e0dd0340a62c1fa93b53ce?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 15 |
-| **[Jet Aviation](http://www.jetaviation.com/)** | **[Business Aviation - Staffing Intern](https://jobright.ai/jobs/info/69e02ac9e34484770f1ace98?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
