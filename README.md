@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Student Intern - Digital HR and Associate Experience](https://jobright.ai/jobs/info/69e1917240a62c1fa93b8ecc?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 16 |
+| **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Global Recruitment Intern](https://jobright.ai/jobs/info/69e185df6c20aa1149541880?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69e17e8c40a62c1fa93b8b76?utm_campaign=1054&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 16 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e17d3f40a62c1fa93b8af9?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 16 |
 | **[WellNow Urgent Care](https://wellnow.com/)** | **[Campus Recruitment Coordinator Intern](https://jobright.ai/jobs/info/69e17104acc736112f5c3c11?utm_campaign=1054&utm_source=git)** | Remote, Arizona | Remote | Apr 16 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Grayscale Investments](https://grayscale.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69e15141acc736112f5c30ab?utm_campaign=1054&utm_source=git)** | Stamford, Connecticut, United States | On Site | Apr 16 |
 | **[Luxfer Magtech](https://www.luxfermagtech.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e14fbb40a62c1fa93b7cf4?utm_campaign=1054&utm_source=git)** | Saxonburg, PA | On Site | Apr 16 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e14d38d612782e61147f1f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[HR Intern (Stamford, CT)](https://jobright.ai/jobs/info/69e185f16c20aa11495418aa?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Apr 16 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1486d6c20aa1149540687?utm_campaign=1054&utm_source=git)** | McLean, VA | Remote | Apr 16 |
 | **[Durham County Government](http://www.dconc.gov)** | **[HUMAN RESOURCES DATA ANALYST- 40010454](https://jobright.ai/jobs/info/69e148686c20aa1149540668?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Apr 16 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, HR Systems](https://jobright.ai/jobs/info/69e1485c6c20aa1149540635?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 16 |
@@ -95,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69a8e49279f3f4037f4373dc?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/69e128df40a62c1fa93b6e43?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e128add612782e61147223?utm_campaign=1054&utm_source=git)** | TMO - HR NJ | On Site | Apr 16 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 16 |
 | **[The Michaels Organization](https://tmo.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1467ad612782e61147cf1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Apr 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/69c4f0936f4f855eeda7b297?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Apr 16 |
@@ -105,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[PAI Pharma](http://paipharma.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e10d916c20aa114953f2a9?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Apr 16 |
 | **[Fruit of the Loom, Inc.](https://www.fotlinc.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69cc32d0891d7b11cfcaaf93?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Apr 16 |
 | **[Nabors Industries](http://www.nabors.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69e135a4acc736112f5c2607?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 16 |
+| **[CommunityAid](https://communityaid.org/who-we-are)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e183bad612782e6114904f?utm_campaign=1054&utm_source=git)** | Admin - YORK, PA 17403 | Hybrid | Apr 16 |
 | **[PPHC](https://pphcompany.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1079fff71e82d604b4d28?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
 | **[EDGECo Holdings, LP](https://www.edgecoholdings.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e107526c20aa114953f132?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 16 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - HR Technology & Payroll](https://jobright.ai/jobs/info/69c46d22d5a1016e98dba680?utm_campaign=1054&utm_source=git)** | Miramar, FL | On Site | Apr 16 |
@@ -127,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49a48d5a1016e98dbe889?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 16 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4dc3a33eecf3107955068?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dae0d5a1016e98dc3e90?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4db216f4f855eeda78e6a?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
+| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dc2c33eecf3107955057?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
 | ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4dc3933eecf3107955067?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 | **[Burr & Forman](http://www.burr.com)** | **[Summer Intern/Recruiting Support](https://jobright.ai/jobs/info/69a938ed79f3f4037f440610?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Apr 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[APWireless Infrastructure Partners, LLC](http://www.apwip.com/)** | **[Intern](https://jobright.ai/jobs/info/69e029ed14bf245fc7a70161?utm_campaign=1054&utm_source=git)** | La Jolla, California, United States | On Site | Apr 15 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Analyst, Total Rewards (Compensation), People and Culture](https://jobright.ai/jobs/info/69e02358433ac8430e0e46ca?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Apr 15 |
 | **[UNCF](http://www.uncf.org)** | **[HR Talent Intern](https://jobright.ai/jobs/info/69e01ed0e34484770f1aca18?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 15 |
-| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/69e0108a5913ad3398147b1a?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
-| **[Dext Capital](https://dextcapital.com/)** | **[Internship](https://jobright.ai/jobs/info/69e010535913ad3398147a5d?utm_campaign=1054&utm_source=git)** | Lake Oswego, OR | On Site | Apr 15 |
-| **[American Dining Creations](http://www.adc-us.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e00e4c5913ad33981479d4?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Apr 15 |
-| **[Appalachian State University](http://www.appstate.edu/)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69e00e47433ac8430e0e41ab?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
