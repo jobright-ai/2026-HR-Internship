@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e83710f6f7e7a2ceaa23d?utm_campaign=1054&utm_source=git)** | Homer City, PA | On Site | Apr 17 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/69e288682f2865359307704d?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
+| **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e77d978b4502f12a54a74?utm_campaign=1054&utm_source=git)** | Port Arthur, TX | On Site | Apr 17 |
+| ↳ | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e83710f6f7e7a2ceaa23d?utm_campaign=1054&utm_source=git)** | Homer City, PA | On Site | Apr 17 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/69e27f9b3770bd5361cd8b08?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
 | **[Barton Malow](http://www.bartonmalow.com)** | **[Human Capital Management (HCM) Intern](https://jobright.ai/jobs/info/69e27c003ce36005badbe612?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Apr 17 |
 | **[Valet Living](http://valetliving.com)** | **[HR Summer Intern (People Operations)](https://jobright.ai/jobs/info/69e279872f28653593076c96?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Apr 17 |
@@ -65,6 +67,9 @@ For a complete list, click the following sortable link below:
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Culture Team Intern](https://jobright.ai/jobs/info/69a9d4099ca4e908ec650212?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 17 |
 | **[ESCO Technologies](http://www.escotechnologies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a952fef6c22f2e368635ca?utm_campaign=1054&utm_source=git)** | Greater St. Louis | On Site | Apr 17 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69a9d4422ebd316bece15b4c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
+| **[Southern Utah University](http://www.suu.edu/)** | **[Employee Development and Relations Specialist](https://jobright.ai/jobs/info/69e28875be46fa3a4ef5792a?utm_campaign=1054&utm_source=git)** | Cedar City, UT | On Site | Apr 17 |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69e28848fcfcbd43860a348c?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 17 |
+| **[DURA MEDICAL LLC](https://duramedical.us)** | **[Registered Mental Health Counselor Intern](https://jobright.ai/jobs/info/69e289703ce36005badbe8d3?utm_campaign=1054&utm_source=git)** | Naples, FL | Hybrid | Apr 17 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e2616d5c44d4710fe24f2b?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Apr 17 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/69e261473770bd5361cd8357?utm_campaign=1054&utm_source=git)** | US-TX-Houston | On Site | Apr 17 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e260ef2f286535930765e0?utm_campaign=1054&utm_source=git)** | West Hartford, CT, US | Hybrid | Apr 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern (Onsite)](https://jobright.ai/jobs/info/69c4287733eecf3107944619?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
 | **[Nabors Industries](http://www.nabors.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69e12dc8acc736112f5c23fd?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Apr 16 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/69a8e49279f3f4037f4373dc?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 16 |
-| **[WTW](https://www.wtwco.com)** | **[Early Careers: Compensation Internship (Work and Rewards) - New York - Summer 2026](https://jobright.ai/jobs/info/69e128df40a62c1fa93b6e43?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
-| **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e128add612782e61147223?utm_campaign=1054&utm_source=git)** | TMO - HR NJ | On Site | Apr 16 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288bfd1c0456f3facbd4?utm_campaign=1054&utm_source=git)** | Camden, NJ, US | On Site | Apr 16 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/69e1288b40a62c1fa93b6d6d?utm_campaign=1054&utm_source=git)** | US-NJ-Camden | On Site | Apr 16 |
-| **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
