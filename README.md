@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pilgrim's](https://www.pilgrims.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e219a8e3f0ee50c92e0cee?utm_campaign=1054&utm_source=git)** | Arcadia, WI | On Site | Apr 17 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698d14320f6f7e7a2ce8c9e6?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
+| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a418eac80bb5492bcc3de?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 17 |
 | **[Challenge Manufacturing](http://challenge-mfg.com)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/69e20fbead27d95045be3095?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Apr 17 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[(Alterity) Sourcing & Strategy Intern](https://jobright.ai/jobs/info/69e20b29e3f0ee50c92e0b6d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698cd8f90f6f7e7a2ce88d27?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 17 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c59bf0aa9a29199e807988?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/69a970947f9271426f884c90?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Apr 17 |
 | ↳ | **[HR Shared Services Intern](https://jobright.ai/jobs/info/69c72aa5b773006330b76a72?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Apr 17 |
+| **[Northland Area Federal Credit Union](https://www.northlandcu.com)** | **[Intern / Temporary Seasonal HR Assistant, Human Resources](https://jobright.ai/jobs/info/69e2197bcdd32f1cb3d2c867?utm_campaign=1054&utm_source=git)** | Alpena, MI | On Site | Apr 17 |
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time Canada Remote / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69e1f1426afe5d2fd108b54a?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 17 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1e4eefd1c0456f3fb2e65?utm_campaign=1054&utm_source=git)** | Delaware, United States | Remote | Apr 17 |
 | **[WTW](https://www.wtwco.com)** | **[Filled: Early Careers: Summer Compensation Internship-Summer 2026](https://jobright.ai/jobs/info/69e1d29fd612782e6114aa42?utm_campaign=1054&utm_source=git)** | Stamford, CT | Remote | Apr 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mohawk Valley Community College](https://www.mvcc.edu)** | **[Associate Director of Human Resources for Employment and Compensation](https://jobright.ai/jobs/info/69a5e99ab600907a962bb3e2?utm_campaign=1054&utm_source=git)** | Utica-Rome Area | On Site | Apr 16 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Talent Foundation Management Intern](https://jobright.ai/jobs/info/69e0d80bacc736112f5c0731?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Apr 16 |
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49a48d5a1016e98dbe889?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 16 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4dc3a33eecf3107955068?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69c4dae0d5a1016e98dc3e90?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69c4db216f4f855eeda78e6a?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
-| ↳ | **[GVA Office – CPA and Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – January or Fall 2027 Start](https://jobright.ai/jobs/info/69c4db046f4f855eeda78e51?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
