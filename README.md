@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ovivo](https://www.ovivowater.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69df0abc36823d1b42585bd8?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 18 |
+| **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 18 |
+| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c749061818a24cd84cd1f0?utm_campaign=1054&utm_source=git)** | Mission, TX | On Site | Apr 18 |
 | **[Pocketride](https://mypocketride.com)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69e3b40ccfcea71ec9f8f5d6?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Bend, OR](https://jobright.ai/jobs/info/69c732dbaa3c2c1995e164e2?utm_campaign=1054&utm_source=git)** | Bend, OR | On Site | Apr 18 |
+| **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Development)](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830159?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 18 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698ef21178b4502f12a5c476?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Charter Next Generation](https://cnginc.com/)** | **[HR Talent Acquisition Intern](https://jobright.ai/jobs/info/69c6e06e1818a24cd84c94fa?utm_campaign=1054&utm_source=git)** | Lexington, OH | On Site | Apr 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69e0fe2ed612782e61146458?utm_campaign=1054&utm_source=git)** | Derby, KS | On Site | Apr 18 |
@@ -102,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Hearst Health](http://www.hearsthealth.com)** | **[HR Intern - Process Improvement (AI and Automation Focus)](https://jobright.ai/jobs/info/69e2aaa5fcfcbd43860a3cbb?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
 | **[Jabil](https://www.jabil.com)** | **[Sr. Technical Recruiter](https://jobright.ai/jobs/info/69e2a3df3ce36005badbef30?utm_campaign=1054&utm_source=git)** | St. Petersburg, Florida, United States | Remote | Apr 17 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e2cb003770bd5361cda11a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 17 |
-| **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[People team intern](https://jobright.ai/jobs/info/69e2cdfa3ce36005badbfd1d?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[TLC Engineering Solutions](https://www.tlc-engineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e2cdbfbe46fa3a4ef58d75?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Apr 17 |
 | **[Penn State University](http://psu.edu)** | **[ESHIP Intern - Part-Time](https://jobright.ai/jobs/info/69e34e5dbe46fa3a4ef5a943?utm_campaign=1054&utm_source=git)** | Penn State University Park | On Site | Apr 17 |
 | **[Pacific Northwest University of Health Sciences](https://www.pnwu.edu)** | **[Administrative Assistant-Human Resources](https://jobright.ai/jobs/info/69e2cddd2f28653593078495?utm_campaign=1054&utm_source=git)** | Yakima, WA | On Site | Apr 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Post Holdings](http://postholdings.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e270e63770bd5361cd855b?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Apr 17 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Analytics & Finance Intern](https://jobright.ai/jobs/info/69c5a90eaa9a29199e8086b9?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Apr 17 |
 | **[Particle Measuring Systems](https://www.pmeasuring.com/)** | **[Summer Intern: Communications and Employee Experience](https://jobright.ai/jobs/info/69a8e7a32580d3183f01101c?utm_campaign=1054&utm_source=git)** | Niwot, CO | On Site | Apr 17 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Human Resources Rotational Analyst – Graduate](https://jobright.ai/jobs/info/69a904242580d3183f0134ad?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
-| **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition - San Francisco （Intern / Contract）](https://jobright.ai/jobs/info/69aa4de72ebd316bece21104?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 17 |
-| **[Pilgrim's](https://www.pilgrims.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e219a8e3f0ee50c92e0cee?utm_campaign=1054&utm_source=git)** | Arcadia, WI | On Site | Apr 17 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698d14320f6f7e7a2ce8c9e6?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
