@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[People Strategy & Operations Bachelor's Intern](https://jobright.ai/jobs/info/69e3d88a0ddab31db6f976d0?utm_campaign=1054&utm_source=git)** | California-Pleasanton-Pleasanton Tech Cntr Building E | On Site | Apr 18 |
 | **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e96d178b4502f12a57052?utm_campaign=1054&utm_source=git)** | Vicksburg, MS | On Site | Apr 18 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources (Year-round)](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grayscale Investments](https://grayscale.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69e27bf23770bd5361cd8a4f?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Apr 17 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - HR Team](https://jobright.ai/jobs/info/698d07820f6f7e7a2ce8b744?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Apr 17 |
 | **[ND Paper](https://us.ndpaper.com)** | **[HR Intern](https://jobright.ai/jobs/info/69a9892df6c22f2e36867e07?utm_campaign=1054&utm_source=git)** | Rumford, ME | On Site | Apr 17 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern - South Florida](https://jobright.ai/jobs/info/69a8cb212580d3183f00e265?utm_campaign=1054&utm_source=git)** | Hollywood, FL | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
