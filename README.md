@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
+| **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e96d178b4502f12a57052?utm_campaign=1054&utm_source=git)** | Vicksburg, MS | On Site | Apr 18 |
+| **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources (Year-round)](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Apr 18 |
 | **[Ovivo](https://www.ovivowater.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69df0abc36823d1b42585bd8?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 18 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 18 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c749061818a24cd84cd1f0?utm_campaign=1054&utm_source=git)** | Mission, TX | On Site | Apr 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - HR Team](https://jobright.ai/jobs/info/698d07820f6f7e7a2ce8b744?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Apr 17 |
 | **[ND Paper](https://us.ndpaper.com)** | **[HR Intern](https://jobright.ai/jobs/info/69a9892df6c22f2e36867e07?utm_campaign=1054&utm_source=git)** | Rumford, ME | On Site | Apr 17 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern - South Florida](https://jobright.ai/jobs/info/69a8cb212580d3183f00e265?utm_campaign=1054&utm_source=git)** | Hollywood, FL | Hybrid | Apr 17 |
-| **[Post Holdings](http://postholdings.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e270e63770bd5361cd855b?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Apr 17 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Analytics & Finance Intern](https://jobright.ai/jobs/info/69c5a90eaa9a29199e8086b9?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Apr 17 |
-| **[Particle Measuring Systems](https://www.pmeasuring.com/)** | **[Summer Intern: Communications and Employee Experience](https://jobright.ai/jobs/info/69a8e7a32580d3183f01101c?utm_campaign=1054&utm_source=git)** | Niwot, CO | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
