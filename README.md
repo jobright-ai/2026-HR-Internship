@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 18 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Human Resources Information System (HRIS) Analyst (Business Systems Analyst II), Human Resources Division](https://jobright.ai/jobs/info/69e32f66fcfcbd43860a52e0?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Apr 17 |
 | **[KIRCHHOFF Automotive](https://www.kirchhoff-automotive.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e32faf2f28653593078d44?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 17 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Apr 17 |
 | **[Amivero](https://amivero.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e2e172fcfcbd43860a4fad?utm_campaign=1054&utm_source=git)** | Reston, VA | On Site | Apr 17 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Intake Services Intern Summer 2026](https://jobright.ai/jobs/info/69e32f5fbe46fa3a4ef597e6?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Apr 17 |
 | **[Methanex Corporation](http://www.methanex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69dd8a5f61f6ed54321fdc88?utm_campaign=1054&utm_source=git)** | Medicine Hat, AB | On Site | Apr 17 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Sallie Mae](https://www.salliemae.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e2c7122f28653593078295?utm_campaign=1054&utm_source=git)** | Newark, DE | Hybrid | Apr 17 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[HR Intern - Process Improvement (AI and Automation Focus)](https://jobright.ai/jobs/info/69e2c6c8be46fa3a4ef58c9e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e2c692be46fa3a4ef58b5a?utm_campaign=1054&utm_source=git)** | Des Moines, IA | Hybrid | Apr 17 |
+| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Safety Services Intern](https://jobright.ai/jobs/info/69e34e8dbe46fa3a4ef5aa28?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
 | **[Aqua](https://www.aquawater.com/)** | **[HR / Talent Acquisition Intern](https://jobright.ai/jobs/info/69e2c0503ce36005badbf8de?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Apr 17 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e2c034fcfcbd43860a44f2?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Apr 17 |
 | **[eSimplicity](https://esimplicity.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e2b8ac5c44d4710fe267bc?utm_campaign=1054&utm_source=git)** | Columbia, MD | Hybrid | Apr 17 |
@@ -82,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e2cb003770bd5361cda11a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[People team intern](https://jobright.ai/jobs/info/69e2cdfa3ce36005badbfd1d?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[TLC Engineering Solutions](https://www.tlc-engineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e2cdbfbe46fa3a4ef58d75?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Apr 17 |
+| **[Penn State University](http://psu.edu)** | **[ESHIP Intern - Part-Time](https://jobright.ai/jobs/info/69e34e5dbe46fa3a4ef5a943?utm_campaign=1054&utm_source=git)** | Penn State University Park | On Site | Apr 17 |
 | **[Pacific Northwest University of Health Sciences](https://www.pnwu.edu)** | **[Administrative Assistant-Human Resources](https://jobright.ai/jobs/info/69e2cddd2f28653593078495?utm_campaign=1054&utm_source=git)** | Yakima, WA | On Site | Apr 17 |
 | **[Keystone Child, Youth & Family Services](https://www.keystonebrucegrey.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e2dbca2f286535930788ea?utm_campaign=1054&utm_source=git)** | Owen Sound, ON | Hybrid | Apr 17 |
 | **[Amivero](https://amivero.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e2964a5c44d4710fe25da5?utm_campaign=1054&utm_source=git)** | Reston, VA, US | On Site | Apr 17 |
@@ -110,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Culture Team Intern](https://jobright.ai/jobs/info/69a9d4099ca4e908ec650212?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 17 |
 | **[ESCO Technologies](http://www.escotechnologies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69a952fef6c22f2e368635ca?utm_campaign=1054&utm_source=git)** | Greater St. Louis | On Site | Apr 17 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69a9d4422ebd316bece15b4c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
+| **[Ferrovial](http://www.ferrovial.com/en)** | **[HR TA Intern II](https://jobright.ai/jobs/info/69e34e162f28653593079dcd?utm_campaign=1054&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Employee Development and Relations Specialist](https://jobright.ai/jobs/info/69e28875be46fa3a4ef5792a?utm_campaign=1054&utm_source=git)** | Cedar City, UT | On Site | Apr 17 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69e28848fcfcbd43860a348c?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 17 |
 | **[DURA MEDICAL LLC](https://duramedical.us)** | **[Registered Mental Health Counselor Intern](https://jobright.ai/jobs/info/69e289703ce36005badbe8d3?utm_campaign=1054&utm_source=git)** | Naples, FL | Hybrid | Apr 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69e1a8b36c20aa11495423f9?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Apr 16 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/69e1a677d612782e61149999?utm_campaign=1054&utm_source=git)** | Petoskey, MI | On Site | Apr 16 |
 | **[Trinity River Authority of Texas](https://www.trinityra.org/)** | **[Intern III HR - Seasonal](https://jobright.ai/jobs/info/69e1c28aff71e82d604b897e?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Apr 16 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Workforce Strategy Analyst](https://jobright.ai/jobs/info/69e197e1fd1c0456f3faef5c?utm_campaign=1054&utm_source=git)** | Savanna Place, GA | On Site | Apr 16 |
-| **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Student Intern - Digital HR and Associate Experience](https://jobright.ai/jobs/info/69e1917240a62c1fa93b8ecc?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 16 |
-| **[Red Clover](https://redcloverhr.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1ae6b6c20aa114954264a?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Apr 16 |
-| **[JPS Composite Materials](https://jpscm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1b528d612782e6114a05b?utm_campaign=1054&utm_source=git)** | Statesville, NC | On Site | Apr 16 |
-| **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Global Recruitment Intern](https://jobright.ai/jobs/info/69e185df6c20aa1149541880?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
