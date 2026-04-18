@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[HR Intern- Recruiting](https://jobright.ai/jobs/info/69c6af841818a24cd84c7a6d?utm_campaign=1054&utm_source=git)** | Clinton, TN | On Site | Apr 18 |
+| **[Carmeuse](https://www.carmeuseoverseas.com/carmeuse-tunisie/)** | **[HR Intern](https://jobright.ai/jobs/info/69728d854ccbf64f8df28005?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Apr 18 |
+| **[Waukesha Gas Engines](https://www.waukeshaengine.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c6c4a883ea553769fdd4b2?utm_campaign=1054&utm_source=git)** | Waukesha, WI | Hybrid | Apr 18 |
 | **[Las Vegas Sands Corp.](http://sands.com)** | **[HR Intern - Las Vegas Sands Corp.](https://jobright.ai/jobs/info/69c709461b5ad028873896c9?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 18 |
 | **[Planet](http://www.planet.com)** | **[Senior Manager, Talent Operations](https://jobright.ai/jobs/info/69c7331d1818a24cd84cc972?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 18 |
 | ↳ | **[Talent Acquisition Partner, Space Systems](https://jobright.ai/jobs/info/69c7336483ea553769fe1a03?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698cd8f90f6f7e7a2ce88d27?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 17 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c59bf0aa9a29199e807988?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/69a970947f9271426f884c90?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Apr 17 |
-| ↳ | **[HR Shared Services Intern](https://jobright.ai/jobs/info/69c72aa5b773006330b76a72?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Apr 17 |
-| **[Northland Area Federal Credit Union](https://www.northlandcu.com)** | **[Intern / Temporary Seasonal HR Assistant, Human Resources](https://jobright.ai/jobs/info/69e2197bcdd32f1cb3d2c867?utm_campaign=1054&utm_source=git)** | Alpena, MI | On Site | Apr 17 |
-| **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time Canada Remote / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69e1f1426afe5d2fd108b54a?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
