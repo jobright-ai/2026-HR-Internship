@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c74d39e565c26a700279b3?utm_campaign=1054&utm_source=git)** | San Carlos, CA | Remote | Apr 18 |
+| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a4c4148a8ce22990e4814?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Apr 18 |
+| **[Asplundh Tree Expert, LLC](http://www.asplundh.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de07845913ad339813be06?utm_campaign=1054&utm_source=git)** | Willow Grove, PA | Hybrid | Apr 18 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 18 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Human Resources Information System (HRIS) Analyst (Business Systems Analyst II), Human Resources Division](https://jobright.ai/jobs/info/69e32f66fcfcbd43860a52e0?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Apr 17 |
 | **[KIRCHHOFF Automotive](https://www.kirchhoff-automotive.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e32faf2f28653593078d44?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Specialist (Recruitment and Placement)](https://jobright.ai/jobs/info/69e1bbb240a62c1fa93b9eac?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 16 |
 | **[The Boring Company](http://www.boringcompany.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1eafbff71e82d604bb9de?utm_campaign=1054&utm_source=git)** | Las Vegas, TX | On Site | Apr 16 |
 | **[Lovet Pet Health Care](https://www.lovet.com)** | **[Campus Recruitment Coordinator Intern](https://jobright.ai/jobs/info/69e1ae52fd1c0456f3faf764?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 16 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69e1a8b36c20aa11495423f9?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Apr 16 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/69e1a677d612782e61149999?utm_campaign=1054&utm_source=git)** | Petoskey, MI | On Site | Apr 16 |
-| **[Trinity River Authority of Texas](https://www.trinityra.org/)** | **[Intern III HR - Seasonal](https://jobright.ai/jobs/info/69e1c28aff71e82d604b897e?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
