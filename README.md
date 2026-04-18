@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Las Vegas Sands Corp.](http://sands.com)** | **[HR Intern - Las Vegas Sands Corp.](https://jobright.ai/jobs/info/69c709461b5ad028873896c9?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 18 |
 | **[Planet](http://www.planet.com)** | **[Senior Manager, Talent Operations](https://jobright.ai/jobs/info/69c7331d1818a24cd84cc972?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 18 |
 | ↳ | **[Talent Acquisition Partner, Space Systems](https://jobright.ai/jobs/info/69c7336483ea553769fe1a03?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 18 |
 | ↳ | **[Senior Manager, Talent Acquisition](https://jobright.ai/jobs/info/69c733171818a24cd84cc953?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 18 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Summer Intern - Human Resources (On-Site)](https://jobright.ai/jobs/info/69ca404b1818a24cd84e21df?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | On Site | Apr 18 |
 | **[Octave](https://www.octave.com/)** | **[Global Enablement Team Intern](https://jobright.ai/jobs/info/69c702a01818a24cd84ca884?utm_campaign=1054&utm_source=git)** | Madison, AL | Hybrid | Apr 18 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina/South Carolina](https://jobright.ai/jobs/info/69d96944f748bc5d08a4b34b?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Apr 18 |
+| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a3dffac80bb5492bcc187?utm_campaign=1054&utm_source=git)** | LV Metro Area | Hybrid | Apr 18 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c74d39e565c26a700279b3?utm_campaign=1054&utm_source=git)** | San Carlos, CA | Remote | Apr 18 |
 | **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a4c4148a8ce22990e4814?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Apr 18 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 18 |
@@ -102,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[HR TA Intern II](https://jobright.ai/jobs/info/69e295bf2f286535930773f8?utm_campaign=1054&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[HR Intern (Stamford, CT)](https://jobright.ai/jobs/info/69e2b8b3be46fa3a4ef58769?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Apr 17 |
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69e2d76cbe46fa3a4ef59050?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| **[STRATOS](https://stratoswealth.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69e3936d91e75b75f04efbe2?utm_campaign=1054&utm_source=git)** | Beachwood, 3750 Park East Rd., US | On Site | Apr 17 |
 | **[Zola](http://www.zola.com)** | **[People Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2949c2f286535930772cf?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[Bridgewell](https://bridgewell.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e2d6913ce36005badbffb8?utm_campaign=1054&utm_source=git)** | Peabody, MA | On Site | Apr 17 |
 | **[Silver Air Private Jets](https://www.silverair.com)** | **[People Operations Intern (Santa Barbara, CA - On-Site)](https://jobright.ai/jobs/info/69e28e563770bd5361cd8fbb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Apr 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Shared Services Intern](https://jobright.ai/jobs/info/69c72aa5b773006330b76a72?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Apr 17 |
 | **[Northland Area Federal Credit Union](https://www.northlandcu.com)** | **[Intern / Temporary Seasonal HR Assistant, Human Resources](https://jobright.ai/jobs/info/69e2197bcdd32f1cb3d2c867?utm_campaign=1054&utm_source=git)** | Alpena, MI | On Site | Apr 17 |
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time Canada Remote / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69e1f1426afe5d2fd108b54a?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 17 |
-| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1e4eefd1c0456f3fb2e65?utm_campaign=1054&utm_source=git)** | Delaware, United States | Remote | Apr 17 |
-| **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Workforce Operations Intern](https://jobright.ai/jobs/info/69e1ccc16c20aa1149543037?utm_campaign=1054&utm_source=git)** | Altoona, IA | On Site | Apr 16 |
-| **[U.S. Immigration and Customs Enforcement (ICE)](http://www.ice.gov)** | **[Human Resources Specialist (Recruitment and Placement)](https://jobright.ai/jobs/info/69e1c2bcd612782e6114a507?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
