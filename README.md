@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pocketride](https://mypocketride.com)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69e3b40ccfcea71ec9f8f5d6?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 18 |
+| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698ef21178b4502f12a5c476?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 18 |
+| **[Charter Next Generation](https://cnginc.com/)** | **[HR Talent Acquisition Intern](https://jobright.ai/jobs/info/69c6e06e1818a24cd84c94fa?utm_campaign=1054&utm_source=git)** | Lexington, OH | On Site | Apr 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69e0fe2ed612782e61146458?utm_campaign=1054&utm_source=git)** | Derby, KS | On Site | Apr 18 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Recruiting](https://jobright.ai/jobs/info/69c6af841818a24cd84c7a6d?utm_campaign=1054&utm_source=git)** | Clinton, TN | On Site | Apr 18 |
 | **[Carmeuse](https://www.carmeuseoverseas.com/carmeuse-tunisie/)** | **[HR Intern](https://jobright.ai/jobs/info/69728d854ccbf64f8df28005?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Apr 18 |
 | **[Waukesha Gas Engines](https://www.waukeshaengine.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c6c4a883ea553769fdd4b2?utm_campaign=1054&utm_source=git)** | Waukesha, WI | Hybrid | Apr 18 |
+| **[California State University - East Bay](https://www.csueastbay.edu)** | **[Human Resources Benefit Programs Specialist (Temporary)](https://jobright.ai/jobs/info/6924e1afc0cefa13343e351a?utm_campaign=1054&utm_source=git)** | Hayward, CA | Hybrid | Apr 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Apr 18 |
 | **[Las Vegas Sands Corp.](http://sands.com)** | **[HR Intern - Las Vegas Sands Corp.](https://jobright.ai/jobs/info/69c709461b5ad028873896c9?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 18 |
 | **[Planet](http://www.planet.com)** | **[Senior Manager, Talent Operations](https://jobright.ai/jobs/info/69c7331d1818a24cd84cc972?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 18 |
 | ↳ | **[Talent Acquisition Partner, Space Systems](https://jobright.ai/jobs/info/69c7336483ea553769fe1a03?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition - San Francisco （Intern / Contract）](https://jobright.ai/jobs/info/69aa4de72ebd316bece21104?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 17 |
 | **[Pilgrim's](https://www.pilgrims.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e219a8e3f0ee50c92e0cee?utm_campaign=1054&utm_source=git)** | Arcadia, WI | On Site | Apr 17 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698d14320f6f7e7a2ce8c9e6?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
-| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a418eac80bb5492bcc3de?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 17 |
-| **[Challenge Manufacturing](http://challenge-mfg.com)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/69e20fbead27d95045be3095?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Apr 17 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[(Alterity) Sourcing & Strategy Intern](https://jobright.ai/jobs/info/69e20b29e3f0ee50c92e0b6d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 17 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698cd8f90f6f7e7a2ce88d27?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 17 |
-| **[Publicis Sapient](https://www.publicissapient.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69c59bf0aa9a29199e807988?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/69a970947f9271426f884c90?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
