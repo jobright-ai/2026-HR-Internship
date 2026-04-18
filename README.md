@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Summer Intern - Human Resources (On-Site)](https://jobright.ai/jobs/info/69ca404b1818a24cd84e21df?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | On Site | Apr 18 |
+| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina/South Carolina](https://jobright.ai/jobs/info/69d96944f748bc5d08a4b34b?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Apr 18 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c74d39e565c26a700279b3?utm_campaign=1054&utm_source=git)** | San Carlos, CA | Remote | Apr 18 |
 | **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a4c4148a8ce22990e4814?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Apr 18 |
-| **[Asplundh Tree Expert, LLC](http://www.asplundh.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69de07845913ad339813be06?utm_campaign=1054&utm_source=git)** | Willow Grove, PA | Hybrid | Apr 18 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 18 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Human Resources Information System (HRIS) Analyst (Business Systems Analyst II), Human Resources Division](https://jobright.ai/jobs/info/69e32f66fcfcbd43860a52e0?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Apr 17 |
 | **[KIRCHHOFF Automotive](https://www.kirchhoff-automotive.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e32faf2f28653593078d44?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 17 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69e2c71b5c44d4710fe26ca1?utm_campaign=1054&utm_source=git)** | San Antonio, TX | Hybrid | Apr 17 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e2c7122f28653593078295?utm_campaign=1054&utm_source=git)** | Newark, DE | Hybrid | Apr 17 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[HR Intern - Process Improvement (AI and Automation Focus)](https://jobright.ai/jobs/info/69e2c6c8be46fa3a4ef58c9e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
-| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e2c692be46fa3a4ef58b5a?utm_campaign=1054&utm_source=git)** | Des Moines, IA | Hybrid | Apr 17 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Safety Services Intern](https://jobright.ai/jobs/info/69e34e8dbe46fa3a4ef5aa28?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
 | **[Aqua](https://www.aquawater.com/)** | **[HR / Talent Acquisition Intern](https://jobright.ai/jobs/info/69e2c0503ce36005badbf8de?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Apr 17 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e2c034fcfcbd43860a44f2?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Apr 17 |
@@ -119,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69a9d4422ebd316bece15b4c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[HR TA Intern II](https://jobright.ai/jobs/info/69e34e162f28653593079dcd?utm_campaign=1054&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Employee Development and Relations Specialist](https://jobright.ai/jobs/info/69e28875be46fa3a4ef5792a?utm_campaign=1054&utm_source=git)** | Cedar City, UT | On Site | Apr 17 |
-| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69e28848fcfcbd43860a348c?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 17 |
 | **[DURA MEDICAL LLC](https://duramedical.us)** | **[Registered Mental Health Counselor Intern](https://jobright.ai/jobs/info/69e289703ce36005badbe8d3?utm_campaign=1054&utm_source=git)** | Naples, FL | Hybrid | Apr 17 |
 | **[Diabetes Canada](http://www.diabetes.ca/)** | **[Administrative Assistant (Canada Summer Job)](https://jobright.ai/jobs/info/69e2949c2f286535930772d0?utm_campaign=1054&utm_source=git)** | Toronto, ON | Hybrid | Apr 17 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e2616d5c44d4710fe24f2b?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Apr 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Specialist (Recruitment and Placement)](https://jobright.ai/jobs/info/69e1bbb240a62c1fa93b9eac?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 16 |
 | **[The Boring Company](http://www.boringcompany.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1eafbff71e82d604bb9de?utm_campaign=1054&utm_source=git)** | Las Vegas, TX | On Site | Apr 16 |
 | **[Lovet Pet Health Care](https://www.lovet.com)** | **[Campus Recruitment Coordinator Intern](https://jobright.ai/jobs/info/69e1ae52fd1c0456f3faf764?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 16 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69e1a8b36c20aa11495423f9?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
