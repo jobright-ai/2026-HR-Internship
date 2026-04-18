@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa16f52ebd316bece1d2fc?utm_campaign=1054&utm_source=git)** | Newaygo, MI | On Site | Apr 17 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Human Resources Intern (HRBP Support)](https://jobright.ai/jobs/info/69e2717b2f286535930767fe?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Apr 17 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[HR Digital Solutions Intern ](https://jobright.ai/jobs/info/69e271b95c44d4710fe253c9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 17 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Exam Development Unit, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69c6027eaa3c2c1995e06e11?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Apr 17 |
 | **[Grayscale Investments](https://grayscale.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69e27bf23770bd5361cd8a4f?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Apr 17 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - HR Team](https://jobright.ai/jobs/info/698d07820f6f7e7a2ce8b744?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Apr 17 |
 | **[ND Paper](https://us.ndpaper.com)** | **[HR Intern](https://jobright.ai/jobs/info/69a9892df6c22f2e36867e07?utm_campaign=1054&utm_source=git)** | Rumford, ME | On Site | Apr 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[JPS Composite Materials](https://jpscm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1b528d612782e6114a05b?utm_campaign=1054&utm_source=git)** | Statesville, NC | On Site | Apr 16 |
 | **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Global Recruitment Intern](https://jobright.ai/jobs/info/69e185df6c20aa1149541880?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69e17e8c40a62c1fa93b8b76?utm_campaign=1054&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 16 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e17d3f40a62c1fa93b8af9?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
