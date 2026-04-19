@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 19 |
+| **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 19 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Risk/Safety Internship](https://jobright.ai/jobs/info/69e4648ee0cd471b2f11ff1e?utm_campaign=1054&utm_source=git)** | Skippack, PA | On Site | Apr 18 |
 | **[Goose Creek Consulting](https://goosecreekconsulting.com/)** | **[Intern (Leadership, Team & Talent Development)](https://jobright.ai/jobs/info/69e40b3b1ec29c5920b964c7?utm_campaign=1054&utm_source=git)** | Centreville, VA | Hybrid | Apr 18 |
 | **[American Eagle Paper Mills](https://www.aepaper.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69e3fb5b91e75b75f04f0278?utm_campaign=1054&utm_source=git)** | Tyrone, PA 16686 | On Site | Apr 18 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a3dffac80bb5492bcc187?utm_campaign=1054&utm_source=git)** | LV Metro Area | Hybrid | Apr 18 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c74d39e565c26a700279b3?utm_campaign=1054&utm_source=git)** | San Carlos, CA | Remote | Apr 18 |
 | **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a4c4148a8ce22990e4814?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Apr 18 |
-| **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 18 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Human Resources Information System (HRIS) Analyst (Business Systems Analyst II), Human Resources Division](https://jobright.ai/jobs/info/69e32f66fcfcbd43860a52e0?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Apr 17 |
 | **[KIRCHHOFF Automotive](https://www.kirchhoff-automotive.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e32faf2f28653593078d44?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 17 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medidata Solutions](https://www.medidata.com)** | **[Human Resources Intern (HRBP Support)](https://jobright.ai/jobs/info/69e2717b2f286535930767fe?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Apr 17 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[HR Digital Solutions Intern ](https://jobright.ai/jobs/info/69e271b95c44d4710fe253c9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Grayscale Investments](https://grayscale.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69e27bf23770bd5361cd8a4f?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Apr 17 |
-| **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - HR Team](https://jobright.ai/jobs/info/698d07820f6f7e7a2ce8b744?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
