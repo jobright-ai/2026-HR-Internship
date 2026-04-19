@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Oak Park, IL](https://jobright.ai/jobs/info/6974a11d206da320f49edf1f?utm_campaign=1054&utm_source=git)** | Oak Park, IL | On Site | Apr 19 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9ddb9e3a822f5d23e1e3?utm_campaign=1054&utm_source=git)** | Temple Hills, MD | On Site | Apr 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Apr 19 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7160ce8daec61499b2175?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 19 |
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 19 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9ddb9e3a822f5d23e1e3?utm_campaign=1054&utm_source=git)** | Temple Hills, MD | On Site | Apr 19 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 19 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69ac4dff142d5b4265fda359?utm_campaign=1054&utm_source=git)** | Lafayette, LA | On Site | Apr 19 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e719d11852e62f00822363?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Apr 19 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Apr 19 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD | On Site | Apr 19 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6975dffd206da320f49fe7d2?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Apr 19 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/68e6598ee8daec61499aacad?utm_campaign=1054&utm_source=git)** | Independence, KS | On Site | Apr 19 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69b7dfcc3b74eb1e2c857fd4?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Apr 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IACMI – The Composites Institute](https://www.iacmi.org)** | **[Intern Coordinator](https://jobright.ai/jobs/info/69e2b17f3770bd5361cd98c2?utm_campaign=1054&utm_source=git)** | United States | On Site | Apr 17 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e83710f6f7e7a2ceaa23d?utm_campaign=1054&utm_source=git)** | Homer City, PA | On Site | Apr 17 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/69e27f9b3770bd5361cd8b08?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[HR Intern (Stamford, CT)](https://jobright.ai/jobs/info/69e185f16c20aa11495418aa?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Apr 17 |
-| **[Barton Malow](http://www.bartonmalow.com)** | **[Human Capital Management (HCM) Intern](https://jobright.ai/jobs/info/69e27c003ce36005badbe612?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Apr 17 |
-| **[AMBA](https://amba.info)** | **[HR Intern](https://jobright.ai/jobs/info/69e4c0c19b6eb37e26f7b7b1?utm_campaign=1054&utm_source=git)** | Urbandale,IA,US | Hybrid | Apr 17 |
-| **[Valet Living](http://valetliving.com)** | **[HR Summer Intern (People Operations)](https://jobright.ai/jobs/info/69e279872f28653593076c96?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Apr 17 |
-| **[Hallmark - Healthcare Workforce Technology](https://www.hallmarkhcs.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/69e4c23cf8fa2f3ec329da2b?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 17 |
-| **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship - Fall 2026 & Spring 2027](https://jobright.ai/jobs/info/69e28e063770bd5361cd8e91?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
