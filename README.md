@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69e2c71b5c44d4710fe26ca1?utm_campaign=1054&utm_source=git)** | San Antonio, TX | Hybrid | Apr 19 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | Apr 19 |
 | **[Cerrowire](http://cerrowire.com)** | **[HR Intern](https://jobright.ai/jobs/info/698f7bf40f6f7e7a2cebb5cd?utm_campaign=1054&utm_source=git)** | Hartselle, AL | On Site | Apr 19 |
+| **[MFS Supply](http://mfssupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e4d1c59b6eb37e26f7c5d3?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 19 |
 | **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a3795ac80bb5492bcbdad?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 19 |
 | ↳ | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a527348a8ce22990e631e?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Apr 19 |
 | **[Grunley Construction Company, Inc.](http://grunley.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69dd9a5e7107be09f5bbc297?utm_campaign=1054&utm_source=git)** | Rockville, MD | On Site | Apr 19 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 19 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 19 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Risk/Safety Internship](https://jobright.ai/jobs/info/69e4648ee0cd471b2f11ff1e?utm_campaign=1054&utm_source=git)** | Skippack, PA | On Site | Apr 18 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[People Strategy &amp;#038; Operations Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69e4c65b3cfd986aa6f81871?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | On Site | Apr 18 |
 | **[Goose Creek Consulting](https://goosecreekconsulting.com/)** | **[Intern (Leadership, Team & Talent Development)](https://jobright.ai/jobs/info/69e40b3b1ec29c5920b964c7?utm_campaign=1054&utm_source=git)** | Centreville, VA | Hybrid | Apr 18 |
 | **[American Eagle Paper Mills](https://www.aepaper.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69e3fb5b91e75b75f04f0278?utm_campaign=1054&utm_source=git)** | Tyrone, PA 16686 | On Site | Apr 18 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[People Strategy & Operations Bachelor's Intern](https://jobright.ai/jobs/info/69e3d88a0ddab31db6f976d0?utm_campaign=1054&utm_source=git)** | California-Pleasanton-Pleasanton Tech Cntr Building E | On Site | Apr 18 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Ovivo](https://www.ovivowater.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69df0abc36823d1b42585bd8?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 18 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 18 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c749061818a24cd84cd1f0?utm_campaign=1054&utm_source=git)** | Mission, TX | On Site | Apr 18 |
+| **[FAMU National Alumni Association](http://famunaa.org)** | **[Assistant Director of Benefits and HR Information Systems](https://jobright.ai/jobs/info/69e4da28e0cd471b2f121f74?utm_campaign=1054&utm_source=git)** | Bothell, WA | On Site | Apr 18 |
 | **[Pocketride](https://mypocketride.com)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69e3b40ccfcea71ec9f8f5d6?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Bend, OR](https://jobright.ai/jobs/info/69c732dbaa3c2c1995e164e2?utm_campaign=1054&utm_source=git)** | Bend, OR | On Site | Apr 18 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Development)](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830159?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 18 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/698ef21178b4502f12a5c476?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Charter Next Generation](https://cnginc.com/)** | **[HR Talent Acquisition Intern](https://jobright.ai/jobs/info/69c6e06e1818a24cd84c94fa?utm_campaign=1054&utm_source=git)** | Lexington, OH | On Site | Apr 18 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Zola](http://www.zola.com)** | **[People Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2d6be5c44d4710fe27264?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Leslie's](https://lesliespool.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e2d6713770bd5361cda462?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 17 |
 | **[Mount Royal University](http://www.mtroyal.ca)** | **[Team Lead, Partner Engagement](https://jobright.ai/jobs/info/69e32f14fcfcbd43860a51e9?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 17 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69e2c71b5c44d4710fe26ca1?utm_campaign=1054&utm_source=git)** | San Antonio, TX | Hybrid | Apr 17 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e2c7122f28653593078295?utm_campaign=1054&utm_source=git)** | Newark, DE | Hybrid | Apr 17 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[HR Intern - Process Improvement (AI and Automation Focus)](https://jobright.ai/jobs/info/69e2c6c8be46fa3a4ef58c9e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Safety Services Intern](https://jobright.ai/jobs/info/69e34e8dbe46fa3a4ef5aa28?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
