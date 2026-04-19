@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e8ae778b4502f12a56291?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Apr 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7160ce8daec61499b2175?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 19 |
-| ↳ | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Apr 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Apr 19 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7160ce8daec61499b2175?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 19 |
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 19 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9ddb9e3a822f5d23e1e3?utm_campaign=1054&utm_source=git)** | Temple Hills, MD | On Site | Apr 19 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 19 |
