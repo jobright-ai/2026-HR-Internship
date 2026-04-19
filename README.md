@@ -111,8 +111,10 @@ For a complete list, click the following sortable link below:
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e2c034fcfcbd43860a44f2?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Apr 17 |
 | **[eSimplicity](https://esimplicity.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e2b8ac5c44d4710fe267bc?utm_campaign=1054&utm_source=git)** | Columbia, MD | Hybrid | Apr 17 |
 | **[Prairie Payments Joint Venture](https://prairiepaymentsinitiative.ca)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69e42f1b91e75b75f04f049e?utm_campaign=1054&utm_source=git)** | Calgary, AB, CA | On Site | Apr 17 |
-| ↳ | **[People and Culture Intern](https://jobright.ai/jobs/info/69e2d6a3fcfcbd43860a4c9d?utm_campaign=1054&utm_source=git)** | Calgary, AB | Hybrid | Apr 17 |
+| **[Ocean Network Express North America](https://us.one-line.com)** | **[Internship- HR Learning & Development Intern](https://jobright.ai/jobs/info/69e4bc3de0cd471b2f120a3e?utm_campaign=1054&utm_source=git)** | Richmond, VA, US | On Site | Apr 17 |
+| **[Prairie Payments Joint Venture](https://prairiepaymentsinitiative.ca)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69e2d6a3fcfcbd43860a4c9d?utm_campaign=1054&utm_source=git)** | Calgary, AB | Hybrid | Apr 17 |
 | **[Natural Factors](https://naturalfactors.com/)** | **[HR Intern - 1 year contract](https://jobright.ai/jobs/info/69d6d43bcfdc6132f946d893?utm_campaign=1054&utm_source=git)** | Kelowna, BC | On Site | Apr 17 |
+| **[Comprehensive Community Action Program](https://www.comcap.org/)** | **[Human Resources Intern for Nonprofit](https://jobright.ai/jobs/info/69e4c0cb9b6eb37e26f7b7d3?utm_campaign=1054&utm_source=git)** | Cranston,RI,US | On Site | Apr 17 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[HR AI Analytics Intern](https://jobright.ai/jobs/info/69d68822cfdc6132f946a690?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e2aadd3770bd5361cd96dc?utm_campaign=1054&utm_source=git)** | Somerset, KY | On Site | Apr 17 |
 | **[Hearst Health](http://www.hearsthealth.com)** | **[HR Intern - Process Improvement (AI and Automation Focus)](https://jobright.ai/jobs/info/69e2aaa5fcfcbd43860a3cbb?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
@@ -130,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69e2d76cbe46fa3a4ef59050?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | **[STRATOS](https://stratoswealth.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69e3936d91e75b75f04efbe2?utm_campaign=1054&utm_source=git)** | Beachwood, 3750 Park East Rd., US | On Site | Apr 17 |
 | **[Zola](http://www.zola.com)** | **[People Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2949c2f286535930772cf?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Apr 17 |
+| **[EPC, Inc.](http://epcusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e4bc317820c036924cb3c4?utm_campaign=1054&utm_source=git)** | Weldon Spring, MO, US | On Site | Apr 17 |
 | **[Bridgewell](https://bridgewell.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e2d6913ce36005badbffb8?utm_campaign=1054&utm_source=git)** | Peabody, MA | On Site | Apr 17 |
 | **[Silver Air Private Jets](https://www.silverair.com)** | **[People Operations Intern (Santa Barbara, CA - On-Site)](https://jobright.ai/jobs/info/69e28e563770bd5361cd8fbb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Apr 17 |
 | **[Supreme International Limited](https://www.supremeinternational.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69e2b8913ce36005badbf5e9?utm_campaign=1054&utm_source=git)** | Wetaskiwin, AB | On Site | Apr 17 |
@@ -141,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/69e27f9b3770bd5361cd8b08?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[HR Intern (Stamford, CT)](https://jobright.ai/jobs/info/69e185f16c20aa11495418aa?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Apr 17 |
 | **[Barton Malow](http://www.bartonmalow.com)** | **[Human Capital Management (HCM) Intern](https://jobright.ai/jobs/info/69e27c003ce36005badbe612?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Apr 17 |
+| **[AMBA](https://amba.info)** | **[HR Intern](https://jobright.ai/jobs/info/69e4c0c19b6eb37e26f7b7b1?utm_campaign=1054&utm_source=git)** | Urbandale,IA,US | Hybrid | Apr 17 |
 | **[Valet Living](http://valetliving.com)** | **[HR Summer Intern (People Operations)](https://jobright.ai/jobs/info/69e279872f28653593076c96?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Apr 17 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship - Fall 2026 & Spring 2027](https://jobright.ai/jobs/info/69e28e063770bd5361cd8e91?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Apr 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - St. Cloud, MN](https://jobright.ai/jobs/info/69c5e49eaa3c2c1995e05a86?utm_campaign=1054&utm_source=git)** | St Cloud, MN | On Site | Apr 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e2616d5c44d4710fe24f2b?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Apr 17 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/69e261473770bd5361cd8357?utm_campaign=1054&utm_source=git)** | US-TX-Houston | On Site | Apr 17 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e260ef2f286535930765e0?utm_campaign=1054&utm_source=git)** | West Hartford, CT, US | Hybrid | Apr 17 |
-| **[DoubleVerify](http://www.doubleverify.com)** | **[HR Digital Solutions Intern ](https://jobright.ai/jobs/info/69e25fd25c44d4710fe24eeb?utm_campaign=1054&utm_source=git)** | NYC Global HQ | On Site | Apr 17 |
-| **[Aqua](https://www.aquawater.com/)** | **[HR / Talent Acquisition Intern](https://jobright.ai/jobs/info/69e2a34c2f28653593077615?utm_campaign=1054&utm_source=git)** | PA Pittsburgh | On Site | Apr 17 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/69e27184fcfcbd43860a2e61?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 17 |
-| **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa16f52ebd316bece1d2fc?utm_campaign=1054&utm_source=git)** | Newaygo, MI | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
