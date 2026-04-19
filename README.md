@@ -105,7 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Aqua](https://www.aquawater.com/)** | **[HR / Talent Acquisition Intern](https://jobright.ai/jobs/info/69e2c0503ce36005badbf8de?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Apr 17 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e2c034fcfcbd43860a44f2?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Apr 17 |
 | **[eSimplicity](https://esimplicity.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e2b8ac5c44d4710fe267bc?utm_campaign=1054&utm_source=git)** | Columbia, MD | Hybrid | Apr 17 |
-| **[Prairie Payments Joint Venture](https://prairiepaymentsinitiative.ca)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69e2d6a3fcfcbd43860a4c9d?utm_campaign=1054&utm_source=git)** | Calgary, AB | Hybrid | Apr 17 |
+| **[Prairie Payments Joint Venture](https://prairiepaymentsinitiative.ca)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69e42f1b91e75b75f04f049e?utm_campaign=1054&utm_source=git)** | Calgary, AB, CA | On Site | Apr 17 |
+| ↳ | **[People and Culture Intern](https://jobright.ai/jobs/info/69e2d6a3fcfcbd43860a4c9d?utm_campaign=1054&utm_source=git)** | Calgary, AB | Hybrid | Apr 17 |
 | **[Natural Factors](https://naturalfactors.com/)** | **[HR Intern - 1 year contract](https://jobright.ai/jobs/info/69d6d43bcfdc6132f946d893?utm_campaign=1054&utm_source=git)** | Kelowna, BC | On Site | Apr 17 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[HR AI Analytics Intern](https://jobright.ai/jobs/info/69d68822cfdc6132f946a690?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e2aadd3770bd5361cd96dc?utm_campaign=1054&utm_source=git)** | Somerset, KY | On Site | Apr 17 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69a9d4422ebd316bece15b4c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[HR TA Intern II](https://jobright.ai/jobs/info/69e34e162f28653593079dcd?utm_campaign=1054&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Employee Development and Relations Specialist](https://jobright.ai/jobs/info/69e28875be46fa3a4ef5792a?utm_campaign=1054&utm_source=git)** | Cedar City, UT | On Site | Apr 17 |
-| **[DURA MEDICAL LLC](https://duramedical.us)** | **[Registered Mental Health Counselor Intern](https://jobright.ai/jobs/info/69e289703ce36005badbe8d3?utm_campaign=1054&utm_source=git)** | Naples, FL | Hybrid | Apr 17 |
 | **[Diabetes Canada](http://www.diabetes.ca/)** | **[Administrative Assistant (Canada Summer Job)](https://jobright.ai/jobs/info/69e2949c2f286535930772d0?utm_campaign=1054&utm_source=git)** | Toronto, ON | Hybrid | Apr 17 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e2616d5c44d4710fe24f2b?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Apr 17 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/69e261473770bd5361cd8357?utm_campaign=1054&utm_source=git)** | US-TX-Houston | On Site | Apr 17 |
