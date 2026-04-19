@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cerrowire](http://cerrowire.com)** | **[HR Intern](https://jobright.ai/jobs/info/698f7bf40f6f7e7a2cebb5cd?utm_campaign=1054&utm_source=git)** | Hartselle, AL | On Site | Apr 19 |
+| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a527348a8ce22990e631e?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Apr 19 |
+| **[Grunley Construction Company, Inc.](http://grunley.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69dd9a5e7107be09f5bbc297?utm_campaign=1054&utm_source=git)** | Rockville, MD | On Site | Apr 19 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 19 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 19 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Risk/Safety Internship](https://jobright.ai/jobs/info/69e4648ee0cd471b2f11ff1e?utm_campaign=1054&utm_source=git)** | Skippack, PA | On Site | Apr 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aqua](https://www.aquawater.com/)** | **[HR / Talent Acquisition Intern](https://jobright.ai/jobs/info/69e2a34c2f28653593077615?utm_campaign=1054&utm_source=git)** | PA Pittsburgh | On Site | Apr 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/69e27184fcfcbd43860a2e61?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 17 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa16f52ebd316bece1d2fc?utm_campaign=1054&utm_source=git)** | Newaygo, MI | On Site | Apr 17 |
-| **[Medidata Solutions](https://www.medidata.com)** | **[Human Resources Intern (HRBP Support)](https://jobright.ai/jobs/info/69e2717b2f286535930767fe?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Apr 17 |
-| **[DoubleVerify](http://www.doubleverify.com)** | **[HR Digital Solutions Intern ](https://jobright.ai/jobs/info/69e271b95c44d4710fe253c9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 17 |
-| **[Grayscale Investments](https://grayscale.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69e27bf23770bd5361cd8a4f?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
