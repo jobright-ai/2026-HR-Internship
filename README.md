@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69e68d687820c036924d11cc?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Apr 20 |
+| **[Cars Commerce](https://www.carscommerce.inc)** | **[Talent Acquisition Innovation Intern](https://jobright.ai/jobs/info/69e69e727820c036924d186b?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 20 |
+| **[Thorlabs](http://www.thorlabs.com)** | **[Summer 2026 Change Management and HR Support Internship](https://jobright.ai/jobs/info/69e691d87820c036924d1398?utm_campaign=1054&utm_source=git)** | Newton, NJ | On Site | Apr 20 |
+| **[Netrolynx AI](https://www.netrolynx.ai)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e691c9f8fa2f3ec32a29ba?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 20 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69e691adf8fa2f3ec32a292c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Apr 20 |
+| **[PROJXON](www.projxon.com)** | **[Recruiter (Intern)](https://jobright.ai/jobs/info/69e691619b6eb37e26f81071?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 20 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/69e1a677d612782e61149999?utm_campaign=1054&utm_source=git)** | Petoskey, MI | On Site | Apr 20 |
 | **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HR Intern](https://jobright.ai/jobs/info/69e689b1f8fa2f3ec32a26a8?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 20 |
 | **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e689b0f8fa2f3ec32a26a2?utm_campaign=1054&utm_source=git)** | Canton, MA | Hybrid | Apr 20 |
 | **[Thorlabs](http://www.thorlabs.com)** | **[Summer 2026 Change Management and HR Support Internship](https://jobright.ai/jobs/info/69df78be433ac8430e0e0a02?utm_campaign=1054&utm_source=git)** | Newton, NJ | On Site | Apr 20 |
@@ -66,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HR Intern](https://jobright.ai/jobs/info/69e67d4cf8fa2f3ec32a2223?utm_campaign=1054&utm_source=git)** | Roslindale, MA | On Site | Apr 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Resettlement Case Management Intern](https://jobright.ai/jobs/info/69e67d45f8fa2f3ec32a220f?utm_campaign=1054&utm_source=git)** | Baltimore, MD USA | Hybrid | Apr 20 |
 | **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HR Intern](https://jobright.ai/jobs/info/69e67d327820c036924d0c9f?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Apr 20 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/69e1a677d612782e61149999?utm_campaign=1054&utm_source=git)** | Petoskey, MI | On Site | Apr 20 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Business Professional Recruiting](https://jobright.ai/jobs/info/69e6743f7820c036924d086c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 20 |
 | **[5WPR](http://www.5wpr.com)** | **[People Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69d7efff738f2f099e899539?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Apr 20 |
+| **[BHC Alhambra Hospital, Inc.](https://www.bhcalhambra.com/)** | **[HUMAN RESOURCES FILE CLERK](https://jobright.ai/jobs/info/69e691bb7820c036924d12ea?utm_campaign=1054&utm_source=git)** | Rosemead, CA | On Site | Apr 20 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/69e66f703aa0c479643941f4?utm_campaign=1054&utm_source=git)** | San Diego, California, United States | Hybrid | Apr 20 |
 | **[Cars Commerce](https://www.carscommerce.inc)** | **[Talent Acquisition Innovation Intern](https://jobright.ai/jobs/info/69e66ef9f8fa2f3ec32a1cc2?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 20 |
 | **[HENSOLDT](https://www.hensoldt.net/)** | **[HR Intern](https://jobright.ai/jobs/info/69e66d71e0cd471b2f1259bf?utm_campaign=1054&utm_source=git)** | Irene, SD | On Site | Apr 20 |
@@ -79,11 +84,13 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933d03e764507023d1b99df?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Apr 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 20 |
-| **[Fusion100](http://Fusion100co.com)** | **[Greek Life Summer Intern](https://jobright.ai/jobs/info/69e65818e0cd471b2f125191?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Apr 20 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/69e658153aa0c47964393827?utm_campaign=1054&utm_source=git)** | Pryor, OK | On Site | Apr 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Apr 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 20 |
+| **[JACK & JONES](http://www.jackjones.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e69ee49b6eb37e26f8171a?utm_campaign=1054&utm_source=git)** | Montréal, Queb, CA | On Site | Apr 20 |
+| **[Miltenyi Biotec](http://www.miltenyibiotec.com)** | **[Intern - HR *PC 1498](https://jobright.ai/jobs/info/69e69ed47820c036924d19bf?utm_campaign=1054&utm_source=git)** | Gaithersburg, Maryland, United States | Hybrid | Apr 20 |
 | **[PHI Air Medical](https://www.phiairmedical.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e65301e0cd471b2f124e83?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Apr 20 |
+| **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Benefits and Total Rewards Intern](https://jobright.ai/jobs/info/69e698e49b6eb37e26f8140d?utm_campaign=1054&utm_source=git)** | Janney Montgomery Scott LLC, 1717 Arch Street, Philadelphia, Pennsylvania, United States of America | On Site | Apr 20 |
 | **[Extol, Inc.](https://www.extolinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e64d5af8fa2f3ec32a0be7?utm_campaign=1054&utm_source=git)** | Zeeland, MI | On Site | Apr 20 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - HR, Talent Acquisition Programming Intern (4 months)](https://jobright.ai/jobs/info/69e6420ff8fa2f3ec32a07b9?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69e0fe2ed612782e61146458?utm_campaign=1054&utm_source=git)** | Derby, KS | On Site | Apr 20 |
@@ -111,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Economic Development Partnership of North Carolina (EDPNC)](https://edpnc.com/)** | **[Rotational Intern](https://jobright.ai/jobs/info/69e65835f8fa2f3ec32a132d?utm_campaign=1054&utm_source=git)** | Raleigh,NC,US | Hybrid | Apr 20 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Vocational Rehabilitation Counselor (Fall)](https://jobright.ai/jobs/info/69e651299b6eb37e26f7f439?utm_campaign=1054&utm_source=git)** | South Dakota, United States | On Site | Apr 20 |
 | ↳ | **[Intern - Economic Assistance Benefits Specialist (Fall)](https://jobright.ai/jobs/info/69e63a9ce0cd471b2f1244f0?utm_campaign=1054&utm_source=git)** | Aberdeen, SD | On Site | Apr 20 |
-| **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Apr 20 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225a765de58104c719ac0?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 20 |
+| **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225a765de58104c719ac0?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 20 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Apr 20 |
 | **[Intermountain Hospital](https://intermountainhospital.com)** | **[OUTPATIENT INTERN CASE MANAGER - SOCIAL WORK AND COUNSELING STUDENTS (UNPAID)](https://jobright.ai/jobs/info/69e62e1ee0cd471b2f123f7b?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 20 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/69d1cd2ecdb525785fbb51da?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 20 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resources Specialist (Position Design/Workforce Structure)](https://jobright.ai/jobs/info/69e5ee8d9b6eb37e26f7da42?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Apr 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Acquisition Partner, Space Systems](https://jobright.ai/jobs/info/69c7336483ea553769fe1a03?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 18 |
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[Human Resources Benefit Programs Specialist (Temporary)](https://jobright.ai/jobs/info/6924e1afc0cefa13343e351a?utm_campaign=1054&utm_source=git)** | Hayward, CA | Hybrid | Apr 18 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69e5d4c73aa0c4796439151a?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 18 |
-| **[Goose Creek Consulting](https://goosecreekconsulting.com/)** | **[Intern (Leadership, Team & Talent Development)](https://jobright.ai/jobs/info/69e40b3b1ec29c5920b964c7?utm_campaign=1054&utm_source=git)** | Centreville, VA | Hybrid | Apr 18 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[People Strategy & Operations Bachelor's Intern](https://jobright.ai/jobs/info/69e3d88a0ddab31db6f976d0?utm_campaign=1054&utm_source=git)** | California-Pleasanton-Pleasanton Tech Cntr Building E | On Site | Apr 18 |
-| **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e96d178b4502f12a57052?utm_campaign=1054&utm_source=git)** | Vicksburg, MS | On Site | Apr 18 |
-| **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources (Year-round)](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Apr 18 |
-| **[Ovivo](https://www.ovivowater.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69df0abc36823d1b42585bd8?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 18 |
-| **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
