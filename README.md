@@ -71,8 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD | On Site | Apr 19 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6975dffd206da320f49fe7d2?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Apr 19 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/68e6598ee8daec61499aacad?utm_campaign=1054&utm_source=git)** | Independence, KS | On Site | Apr 19 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69b7dfcc3b74eb1e2c857fd4?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Apr 19 |
-| ↳ | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69e2c71b5c44d4710fe26ca1?utm_campaign=1054&utm_source=git)** | San Antonio, TX | Hybrid | Apr 19 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | Apr 19 |
 | **[Cerrowire](http://cerrowire.com)** | **[HR Intern](https://jobright.ai/jobs/info/698f7bf40f6f7e7a2cebb5cd?utm_campaign=1054&utm_source=git)** | Hartselle, AL | On Site | Apr 19 |
 | **[MFS Supply](http://mfssupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e4d1c59b6eb37e26f7c5d3?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Director of BGV Gives - Community Impact](https://jobright.ai/jobs/info/69e2b3de3ce36005badbf4e3?utm_campaign=1054&utm_source=git)** | Breckenridge, CO | On Site | Apr 17 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/69e288682f2865359307704d?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e77d978b4502f12a54a74?utm_campaign=1054&utm_source=git)** | Port Arthur, TX | On Site | Apr 17 |
+| **[IACMI – The Composites Institute](https://www.iacmi.org)** | **[Intern Coordinator](https://jobright.ai/jobs/info/69e2b17f3770bd5361cd98c2?utm_campaign=1054&utm_source=git)** | United States | On Site | Apr 17 |
+| **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e83710f6f7e7a2ceaa23d?utm_campaign=1054&utm_source=git)** | Homer City, PA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
