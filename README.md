@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Principal Human Resources Specialist (Workers' Compensation)(Hybrid)](https://jobright.ai/jobs/info/69e5e54d7820c036924cdb1d?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Apr 20 |
+| **[IPC Systems](http://www.ipc.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/69c17c0f2c312363dcd46796?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Workers Compensation Program Coordinator](https://jobright.ai/jobs/info/69e5e3a5e0cd471b2f122f65?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Apr 20 |
 | **[Mizkan America](http://mizkan.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d63963cfdc6132f9469221?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 19 |
 | **[ITS Logistics](http://its4logistics.com)** | **[Recruiting Associate (Internship) - Fort Worth](https://jobright.ai/jobs/info/69d95f9d738f2f099e8a18b6?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 19 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[SkillBridge Internship Opportunity](https://jobright.ai/jobs/info/69e545059b6eb37e26f7cdc5?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Apr 19 |
 | ↳ | **[SkillBridge Internship Opportunity](https://jobright.ai/jobs/info/69e544ca3cfd986aa6f82424?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Apr 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e8ae778b4502f12a56291?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Apr 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7160ce8daec61499b2175?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 19 |
-| ↳ | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Apr 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Apr 19 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7160ce8daec61499b2175?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 19 |
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 19 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9ddb9e3a822f5d23e1e3?utm_campaign=1054&utm_source=git)** | Temple Hills, MD | On Site | Apr 19 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Human Resources Business Partner](https://jobright.ai/jobs/info/69e2d76cbe46fa3a4ef59050?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | **[STRATOS](https://stratoswealth.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69e3936d91e75b75f04efbe2?utm_campaign=1054&utm_source=git)** | Beachwood, 3750 Park East Rd., US | On Site | Apr 17 |
 | **[Zola](http://www.zola.com)** | **[People Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2949c2f286535930772cf?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Apr 17 |
-| **[EPC, Inc.](http://epcusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e4bc317820c036924cb3c4?utm_campaign=1054&utm_source=git)** | Weldon Spring, MO, US | On Site | Apr 17 |
-| **[Silver Air Private Jets](https://www.silverair.com)** | **[People Operations Intern (Santa Barbara, CA - On-Site)](https://jobright.ai/jobs/info/69e28e563770bd5361cd8fbb?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Apr 17 |
-| **[Supreme International Limited](https://www.supremeinternational.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69e2b8913ce36005badbf5e9?utm_campaign=1054&utm_source=git)** | Wetaskiwin, AB | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
