@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69cab96da8c1822476e1f8c4?utm_campaign=1054&utm_source=git)** | Lehi, UT | Remote | Apr 21 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Apr 21 |
+| **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69caafbd466f1e133aac6137?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/69d20367cfdc6132f9448445?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 21 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/69052bfc122e8474c78d6ffa?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 21 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/69e0cb6aacc736112f5bff42?utm_campaign=1054&utm_source=git)** | Menlo Park, CA | On Site | Apr 21 |
+| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69caab76466f1e133aac5ac4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 21 |
 | **[Riverside Health](http://www.riversideonline.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e7339e0a6e095553029c05?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Apr 21 |
 | **[Continental](https://www.continental.com)** | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 20 |
 | **[Aleph](https://www.getaleph.com)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/69e715799b6eb37e26f82f2b?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 20 |
@@ -118,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Garver](https://garverusa.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e74efbe0cd471b2f12ab51?utm_campaign=1054&utm_source=git)** | Fayetteville, AR | On Site | Apr 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 20 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Internship Summer 2026](https://jobright.ai/jobs/info/69e6a1213aa0c47964395543?utm_campaign=1054&utm_source=git)** | Denver, Colorado | On Site | Apr 20 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/69e658153aa0c47964393827?utm_campaign=1054&utm_source=git)** | Pryor, OK | On Site | Apr 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Apr 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/69744e4dbc8e722e7b194fcd?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 20 |
 | **[JACK & JONES](http://www.jackjones.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e69ee49b6eb37e26f8171a?utm_campaign=1054&utm_source=git)** | Montréal, Queb, CA | On Site | Apr 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economic Assistance Benefits Specialist (Fall)](https://jobright.ai/jobs/info/69e63a9ce0cd471b2f1244f0?utm_campaign=1054&utm_source=git)** | Aberdeen, SD | On Site | Apr 20 |
 | **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69b225a765de58104c719ac0?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 20 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69b22651548f140066e863ec?utm_campaign=1054&utm_source=git)** | Hybrid TX Office, Houston, TX, US | Hybrid | Apr 20 |
-| **[Intermountain Hospital](https://intermountainhospital.com)** | **[OUTPATIENT INTERN CASE MANAGER - SOCIAL WORK AND COUNSELING STUDENTS (UNPAID)](https://jobright.ai/jobs/info/69e62e1ee0cd471b2f123f7b?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Apr 20 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/69d1cd2ecdb525785fbb51da?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 20 |
-| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resources Specialist (Position Design/Workforce Structure)](https://jobright.ai/jobs/info/69e5ee8d9b6eb37e26f7da42?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Apr 20 |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Principal Human Resources Specialist (Workers' Compensation)(Hybrid)](https://jobright.ai/jobs/info/69e5e54d7820c036924cdb1d?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
