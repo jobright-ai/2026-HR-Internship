@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PHI Air Medical](https://www.phiairmedical.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e6d5a63aa0c4796439618e?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Apr 20 |
+| **[Valet Living](http://valetliving.com)** | **[HR Summer Intern (People Operations)](https://jobright.ai/jobs/info/69e279872f28653593076c96?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Apr 20 |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69e6d58f3cfd986aa6f87ad4?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 20 |
+| **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ceeacb891d7b11cfcce49b?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 20 |
+| **[Raintree Systems](https://www.raintreeinc.com)** | **[People Operations (Summer Intern)](https://jobright.ai/jobs/info/69e6d01ef8fa2f3ec32a3b00?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 20 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e6c73fe0cd471b2f127767?utm_campaign=1054&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 20 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Testing Center Specialist (Portsmouth)](https://jobright.ai/jobs/info/69e6c734f8fa2f3ec32a3958?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Apr 20 |
-| **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ceeacb891d7b11cfcce49b?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 20 |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69e5d4c73aa0c4796439151a?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 20 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69e6d57e3aa0c479643960d9?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Apr 20 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69e6d5299b6eb37e26f82337?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Apr 20 |
 | **[Aurora Public Schools](https://avenues.aurorak12.org/)** | **[25-26 Human Resources: AFS-Noncontract Work-Talent Acquisition, HR Intern](https://jobright.ai/jobs/info/69e6b3099b6eb37e26f81be3?utm_campaign=1054&utm_source=git)** | Human Resources Direction, Aurora, CO, 80011, US | On Site | Apr 20 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Internship Summer 2026](https://jobright.ai/jobs/info/69e6ab69e0cd471b2f12719d?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 20 |
 | **[EFCO Forming & Shoring Solutions](http://www.efcoforms.com/index.html)** | **[Human Resources - File Management Intern](https://jobright.ai/jobs/info/69d8c1bdb67cec4f9b09ebcd?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Colorado Springs](https://jobright.ai/jobs/info/69ab649f142d5b4265fc9c0f?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Apr 19 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6975dffd206da320f49fe7d2?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Apr 19 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/68e6598ee8daec61499aacad?utm_campaign=1054&utm_source=git)** | Independence, KS | On Site | Apr 19 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69bc45474828227293fde2af?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Apr 19 |
-| **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | Apr 19 |
-| **[Cerrowire](http://cerrowire.com)** | **[HR Intern](https://jobright.ai/jobs/info/698f7bf40f6f7e7a2cebb5cd?utm_campaign=1054&utm_source=git)** | Hartselle, AL | On Site | Apr 19 |
-| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a527348a8ce22990e631e?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | Hybrid | Apr 19 |
-| **[MFS Supply](http://mfssupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e4d1c59b6eb37e26f7c5d3?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Apr 19 |
-| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a3795ac80bb5492bcbdad?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 19 |
-| **[Grunley Construction Company, Inc.](http://grunley.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69dd9a5e7107be09f5bbc297?utm_campaign=1054&utm_source=git)** | Rockville, MD | On Site | Apr 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
