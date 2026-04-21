@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Continental](https://www.continental.com)** | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6b37de0cd471b2f127328?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 20 |
+| **[Aurora Public Schools](https://avenues.aurorak12.org/)** | **[25-26 Human Resources: AFS-Noncontract Work-Talent Acquisition, HR Intern](https://jobright.ai/jobs/info/69e6b3099b6eb37e26f81be3?utm_campaign=1054&utm_source=git)** | Human Resources Direction, Aurora, CO, 80011, US | On Site | Apr 20 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Internship Summer 2026](https://jobright.ai/jobs/info/69e6ab69e0cd471b2f12719d?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 20 |
 | **[EFCO Forming & Shoring Solutions](http://www.efcoforms.com/index.html)** | **[Human Resources - File Management Intern](https://jobright.ai/jobs/info/69d8c1bdb67cec4f9b09ebcd?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Apr 20 |
 | **[Thorlabs](http://www.thorlabs.com)** | **[Summer 2026 Change Management and HR Support Internship](https://jobright.ai/jobs/info/69e691d87820c036924d1398?utm_campaign=1054&utm_source=git)** | Newton, NJ | On Site | Apr 20 |
@@ -111,8 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | Apr 20 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Athletic Graduate Intern - Women's Basketball](https://jobright.ai/jobs/info/69e6657c9b6eb37e26f801ca?utm_campaign=1054&utm_source=git)** | Boiling Springs, NC, Boiling Springs, NC, US | On Site | Apr 20 |
 | **[LogistiQ](https://logistiqsolutions.com)** | **[Intern Human Resources Summer 2026](https://jobright.ai/jobs/info/69e663b73cfd986aa6f855c9?utm_campaign=1054&utm_source=git)** | Port Clinton, OH | On Site | Apr 20 |
-| **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e658023aa0c479643937ba?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 20 |
-| ↳ | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 20 |
+| **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 20 |
 | **[Ameresco](http://www.apses.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e62fa17820c036924ceb0e?utm_campaign=1054&utm_source=git)** | United States - Massachusetts - Framingham | On Site | Apr 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1054&utm_source=git)** | Homestead, FL | On Site | Apr 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69a67dead706a731db386c39?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Apr 20 |
@@ -133,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[SkillBridge Internship Opportunity](https://jobright.ai/jobs/info/69e545059b6eb37e26f7cdc5?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Apr 19 |
 | ↳ | **[SkillBridge Internship Opportunity](https://jobright.ai/jobs/info/69e544ca3cfd986aa6f82424?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Apr 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field HR Intern (Summer 2026)](https://jobright.ai/jobs/info/698e8ae778b4502f12a56291?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Apr 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7160ce8daec61499b2175?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 19 |
-| ↳ | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Apr 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Apr 19 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7160ce8daec61499b2175?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 19 |
 | ↳ | **[Summer 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69745462206da320f49e8e91?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 19 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9ddb9e3a822f5d23e1e3?utm_campaign=1054&utm_source=git)** | Temple Hills, MD | On Site | Apr 19 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71892e8daec61499b2487?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 19 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/69c74d39e565c26a700279b3?utm_campaign=1054&utm_source=git)** | San Carlos, CA | Remote | Apr 18 |
 | **[Planet](http://www.planet.com)** | **[Senior Manager, Talent Operations](https://jobright.ai/jobs/info/69c7331d1818a24cd84cc972?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 18 |
-| ↳ | **[Talent Acquisition Partner, Space Systems](https://jobright.ai/jobs/info/69c7336483ea553769fe1a03?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
