@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/69d20367cfdc6132f9448445?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 21 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/69052bfc122e8474c78d6ffa?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 21 |
 | **[Riverside Health](http://www.riversideonline.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e7339e0a6e095553029c05?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Apr 21 |
 | **[Continental](https://www.continental.com)** | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 20 |
 | **[Aleph](https://www.getaleph.com)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/69e715799b6eb37e26f82f2b?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 20 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[HR & Culture Internships – Academic Year](https://jobright.ai/jobs/info/69e65f89f8fa2f3ec32a15f8?utm_campaign=1054&utm_source=git)** | Universal City, CA | On Site | Apr 20 |
 | ↳ | **[HR & Culture Internships – Academic Year](https://jobright.ai/jobs/info/69e65f1b7820c036924d0014?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[American Fuji Seal](https://www.fujiseal.com/en/)** | **[Human Resources Intern (38674)](https://jobright.ai/jobs/info/69e6580df8fa2f3ec32a12ae?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Apr 20 |
-| **[Kenneth Young Center](https://www.kennethyoung.org)** | **[Employment Services Intern](https://jobright.ai/jobs/info/69e67c57f8fa2f3ec32a2172?utm_campaign=1054&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 20 |
-| ↳ | **[SOAR Benefits Intern](https://jobright.ai/jobs/info/69e67c4b9b6eb37e26f808a3?utm_campaign=1054&utm_source=git)** | Arlington Heights, IL | On Site | Apr 20 |
+| **[Kenneth Young Center](https://www.kennethyoung.org)** | **[SOAR Benefits Intern](https://jobright.ai/jobs/info/69e67c4b9b6eb37e26f808a3?utm_campaign=1054&utm_source=git)** | Arlington Heights, IL | On Site | Apr 20 |
+| ↳ | **[Employment Services Intern](https://jobright.ai/jobs/info/69e67c57f8fa2f3ec32a2172?utm_campaign=1054&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 20 |
 | **[Poclain](https://www.poclain-hydraulics.com/en)** | **[Human Resources - Summer Intern](https://jobright.ai/jobs/info/69e67c383cfd986aa6f85f60?utm_campaign=1054&utm_source=git)** | Sturtevant, WI | On Site | Apr 20 |
 | **[Vineyard Cincinnati Church](http://www.vineyardcincinnati.com)** | **[HR & Finance Summer Internship](https://jobright.ai/jobs/info/69e675f07820c036924d094a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 20 |
 | **[Motiv Space Systems, Inc.](https://www.motivss.com)** | **[Intern](https://jobright.ai/jobs/info/69e675a33aa0c479643943ca?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/69d1cd2ecdb525785fbb51da?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 20 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Human Resources Specialist (Position Design/Workforce Structure)](https://jobright.ai/jobs/info/69e5ee8d9b6eb37e26f7da42?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Apr 20 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Principal Human Resources Specialist (Workers' Compensation)(Hybrid)](https://jobright.ai/jobs/info/69e5e54d7820c036924cdb1d?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Apr 20 |
-| **[IPC Systems](http://www.ipc.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/69c17c0f2c312363dcd46796?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Workers Compensation Program Coordinator](https://jobright.ai/jobs/info/69e5e3a5e0cd471b2f122f65?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
