@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nebraska Methodist College](http://methodistcollege.edu)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/69e7ceb47820c036924d8589?utm_campaign=1054&utm_source=git)** | Methodist Corporate Office - Omaha, NE | On Site | Apr 21 |
+| **[PCI Pharma Services](http://www.pciservices.com)** | **[Operation Intern](https://jobright.ai/jobs/info/69e7ce97e0cd471b2f12d90b?utm_campaign=1054&utm_source=git)** | Rockford, IL, USA | On Site | Apr 21 |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Human Capital](https://jobright.ai/jobs/info/69e7cd5a0a6e09555302c317?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69e7c671f8fa2f3ec32a9798?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Apr 21 |
 | **[EPIC Insurance Brokers & Consultants](http://www.edgewoodins.com)** | **[Carrier & Market Performance Intern](https://jobright.ai/jobs/info/69e7c3a4e0cd471b2f12d440?utm_campaign=1054&utm_source=git)** | 11711 North Meridan St, 7th Fl, Carmel, IN 46032 | On Site | Apr 21 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc46c516d00d2beeb1cb1f?utm_campaign=1054&utm_source=git)** | Joplin, MO | On Site | Apr 21 |
@@ -80,12 +84,12 @@ For a complete list, click the following sortable link below:
 | **[Pella Corporation](http://www.pella.com)** | **[Summer Employment, Murray 1st Shift $19.65](https://jobright.ai/jobs/info/69e79b5d58811370cb11d8eb?utm_campaign=1054&utm_source=git)** | Murray, KY | On Site | Apr 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69caae138fc6090c5d45011e?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Apr 21 |
 | **[Unifi](https://www.unifiservice.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e79b270a6e09555302b69c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 21 |
-| **[Hood Packaging Corporation](http://hoodpkg.com)** | **[Three month contract - Human Ressources Intern](https://jobright.ai/jobs/info/69d808e6869c7e25d8592d24?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Apr 21 |
+| **[Hood Packaging Corporation](http://hoodpkg.com)** | **[Three month contract - Human Ressources Intern](https://jobright.ai/jobs/info/69e7c4ce0a6e09555302c18a?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69af2227749500645093938f?utm_campaign=1054&utm_source=git)** | Simi Valley, CA | On Site | Apr 21 |
 | **[Save the Children Canada](https://savethechildren.ca)** | **[Inclusion Intern](https://jobright.ai/jobs/info/69e7c467f8fa2f3ec32a9738?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Payroll Intern (Year-Round)](https://jobright.ai/jobs/info/69cb062da8c1822476e22e30?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Apr 21 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfce37785856350fc35e?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Apr 21 |
-| ↳ | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfae37785856350fc356?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 21 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfae37785856350fc356?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 21 |
+| ↳ | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfce37785856350fc35e?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Apr 21 |
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[HR/Recruitment Intern](https://jobright.ai/jobs/info/69e78c9ee0cd471b2f12c45f?utm_campaign=1054&utm_source=git)** | ENGLEWOOD, CO, US | On Site | Apr 21 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (Walnut Creek)](https://jobright.ai/jobs/info/69cb003baa3c2c1995e32cd7?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | Hybrid | Apr 21 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ca9275466f1e133aac4a9c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Apr 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6933d03e764507023d1b99df?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Apr 20 |
-| **[Garver](https://garverusa.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e74efbe0cd471b2f12ab51?utm_campaign=1054&utm_source=git)** | Fayetteville, AR | On Site | Apr 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 20 |
-| **[PCL Construction](http://www.pcl.com)** | **[Human Resources Internship Summer 2026](https://jobright.ai/jobs/info/69e6a1213aa0c47964395543?utm_campaign=1054&utm_source=git)** | Denver, Colorado | On Site | Apr 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
