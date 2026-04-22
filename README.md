@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e6a02a112b402660d2635?utm_campaign=1054&utm_source=git)** | Fleming Island, FL | On Site | Apr 22 |
 | **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b51b501ade4306aa64012b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 22 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Human Resources](https://jobright.ai/jobs/info/69b0a105dfaeda6ff59ad9d5?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Apr 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (Spring - Fall 2026) - NYC](https://jobright.ai/jobs/info/69e8d875e0cd471b2f138750?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 22 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69e6d5299b6eb37e26f82337?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Apr 22 |
+| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69e6d57e3aa0c479643960d9?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Apr 22 |
 | **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69dfeb9a4920452a85dd04d0?utm_campaign=1054&utm_source=git)** | 3000 Continental Pkwy, Clinton, MS 39056, USA | On Site | Apr 22 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[People & Culture Intern, NA](https://jobright.ai/jobs/info/69cc7fcacfdc6132f940d524?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 22 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/69e8cfa20a6e095553036d1e?utm_campaign=1054&utm_source=git)** | BLOM ADMINISTRATIVE CAMPUS, US | On Site | Apr 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Unifi](https://www.unifiservice.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e79b270a6e09555302b69c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 21 |
 | **[Hood Packaging Corporation](http://hoodpkg.com)** | **[Three month contract - Human Ressources Intern](https://jobright.ai/jobs/info/69e7c4ce0a6e09555302c18a?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69af2227749500645093938f?utm_campaign=1054&utm_source=git)** | Simi Valley, CA | On Site | Apr 21 |
-| **[Save the Children Canada](https://savethechildren.ca)** | **[Inclusion Intern](https://jobright.ai/jobs/info/69e7c467f8fa2f3ec32a9738?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Payroll Intern (Year-Round)](https://jobright.ai/jobs/info/69cb062da8c1822476e22e30?utm_campaign=1054&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Apr 21 |
-| **[Continental](https://www.continental.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/69e8b3e00a6e095553035c96?utm_campaign=1054&utm_source=git)** | 703 S Cleveland Massillon Rd, Fairlawn, OH 44333, USA | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
