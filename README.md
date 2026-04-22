@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Internship Coordinator (Human Resources Specialist II)](https://jobright.ai/jobs/info/69e93c1be0cd471b2f13c071?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Apr 22 |
+| **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69e93a9a58811370cb12bf44?utm_campaign=1054&utm_source=git)** | Rockville, MD | Remote | Apr 22 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Talent Acquisition/HR Intern](https://jobright.ai/jobs/info/69e92d990a6e09555303a0cc?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | Hybrid | Apr 22 |
 | **[UPS](http://www.ups.com)** | **[HR Intern, Project Management Focus (Summer 2026)](https://jobright.ai/jobs/info/69e92d4158811370cb12b8ef?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR), US | On Site | Apr 22 |
 | ↳ | **[HR Intern, Data Analytics Focus (Summer 2026)](https://jobright.ai/jobs/info/69e92d4158811370cb12b8ee?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR), US | On Site | Apr 22 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69e92d3f58811370cb12b8e2?utm_campaign=1054&utm_source=git)** | Banner Health Corp Phoenix (2901 N Central Ave), US | Hybrid | Apr 22 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 22 |
 | **[RTX](http://rtx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e9215e0a6e0955530396e2?utm_campaign=1054&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG, CA | On Site | Apr 22 |
+| **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69e6f1717820c036924d2ca3?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 22 |
 | **[Tesla](https://www.tesla.com)** | **[Recruiting Internship, Software Engineering (Summer 2026)](https://jobright.ai/jobs/info/69e9189b58811370cb12a4cd?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Apr 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern Dallas](https://jobright.ai/jobs/info/69e9188c0a6e095553038c56?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern PRN/Days](https://jobright.ai/jobs/info/6978a72088e2b47213bcc64d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Umbrella Driver Recruiters](https://www.umbservices.com/)** | **[HR / Recruiting entry level 60-day internship](https://jobright.ai/jobs/info/69e7cc8c3aa0c4796439bbc5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Apr 21 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69e7c671f8fa2f3ec32a9798?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Apr 21 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Talent Acquisition Manager (6160) - Skilled Trades](https://jobright.ai/jobs/info/69ded85b18cf504166e302dc?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 21 |
-| **[EPIC Insurance Brokers & Consultants](http://www.edgewoodins.com)** | **[Carrier & Market Performance Intern](https://jobright.ai/jobs/info/69e7c3a4e0cd471b2f12d440?utm_campaign=1054&utm_source=git)** | 11711 North Meridan St, 7th Fl, Carmel, IN 46032 | On Site | Apr 21 |
-| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 21 |
-| **[The Bama Companies, Inc](https://www.bama.com/)** | **[People Systems (Human Resources) &amp; Safety Intern](https://jobright.ai/jobs/info/69e8b0c77820c036924e15d7?utm_campaign=1054&utm_source=git)** | Tulsa,OK,US | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
