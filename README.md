@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 People Development Intern](https://jobright.ai/jobs/info/69ea3d630a6e09555303faca?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 23 |
 | **[TX Star Speech Language Services](http://www.tx-star.com/)** | **[Bilingual Recruiting & Talent Acquisition Intern](https://jobright.ai/jobs/info/69ea2e23dc35f7132c4a8a35?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Apr 23 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - HR, Marketing & Operations](https://jobright.ai/jobs/info/6994fa32ce78e77b4fd90d3c?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Apr 23 |
 | **[Diligent](http://diligent.com)** | **[People Experience & HR Technology Intern](https://jobright.ai/jobs/info/69b21d6a548f140066e85af5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Apr 23 |
+| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea3d8c4b0fa35a70772dfa?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 23 |
 | **[BPA](http://bpa.ca)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69b0725a0b2db6275c045fbd?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 23 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Human Resources Intern - Cranberry Township, PA](https://jobright.ai/jobs/info/69ce4a3c54f00230c6cfdffc?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 23 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69e9f24958811370cb12f7c1?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Winchester Ammunition](https://www.winchester.com)** | **[HR/Labor Relations Intern - 2026](https://jobright.ai/jobs/info/69b0cb1edfaeda6ff59b51bf?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | Apr 22 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[HR Data Analyst - Operations Analyst Program: August 2026 Start](https://jobright.ai/jobs/info/69af7b4e749500645093fb47?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | Apr 22 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69c46ed76f4f855eeda6fbd7?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Apr 22 |
-| **[St. Charles County Government](http://www.sccmo.org)** | **[WORKFORCE AND CAREER DEVELOPMENT INTERNSHIP](https://jobright.ai/jobs/info/69e8b34b3aa0c479643a4850?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | Apr 22 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Human Resources Shared Services Intern - Minneapolis, MN](https://jobright.ai/jobs/info/69e87a1658811370cb126945?utm_campaign=1054&utm_source=git)** | Twin Cities Area | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
