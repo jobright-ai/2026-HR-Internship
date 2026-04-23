@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69e9f24958811370cb12f7c1?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 23 |
+| **[City of Toronto](http://www.toronto.ca)** | **[SENIOR CAMPUS RECRUITMENT LEAD](https://jobright.ai/jobs/info/69e746f03aa0c479643991f1?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 23 |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Benefits (Corporate)](https://jobright.ai/jobs/info/69ea05dedc35f7132c4a6896?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 23 |
+| **[Source Intelligence](http://www.sourceintelligence.com/)** | **[People Operation Intern](https://jobright.ai/jobs/info/69e9ff907820c036924ea3e0?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Minnesota Department of Transportation](https://www.dot.state.mn.us)** | **[Workers Compensation Supervisor - State Prog Admin Supv Prin](https://jobright.ai/jobs/info/69e9d5914b0fa35a707703ba?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Apr 23 |
 | **[Thomsun InfoCare LLP](https://thomsuninfocare.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e9d58e4b0fa35a707703ac?utm_campaign=1054&utm_source=git)** | Michigan, United States | On Site | Apr 23 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Benefits (Corporate)](https://jobright.ai/jobs/info/69e9bdde7820c036924e9c52?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 22 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Human Resource Specialist Internship](https://jobright.ai/jobs/info/69e9cefe58811370cb12f47e?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Apr 22 |
 | **[Lakeland Regional Health-Florida](http://mylrh.org/)** | **[Administrative Intern PRN - Talent Acquisition](https://jobright.ai/jobs/info/69e9be11e0cd471b2f13f066?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Apr 22 |
@@ -77,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e270a6e09555303cd3b?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | Apr 22 |
 | **[SB Energy](https://sbenergy.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e95d2a3aa0c479643a98db?utm_campaign=1054&utm_source=git)** | Redwood City, CA | Hybrid | Apr 22 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship - HR Intern, Talent Acquisition (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e74f363aa0c4796439934c?utm_campaign=1054&utm_source=git)** | Morrisville, NC | Remote | Apr 22 |
-| **[CooperVision](http://coopervision.com)** | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69c2c5ac94007a2195debcae?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Apr 22 |
-| ↳ | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69e978913aa0c479643aa590?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Apr 22 |
+| **[CooperVision](http://coopervision.com)** | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69e978913aa0c479643aa590?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Apr 22 |
+| ↳ | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69c2c5ac94007a2195debcae?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Apr 22 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e97f963aa0c479643aab2c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 22 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Administrative Internship - Talent Acquisition](https://jobright.ai/jobs/info/69e9567c7820c036924e760c?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK, United States | On Site | Apr 22 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Human Resources Tech](https://jobright.ai/jobs/info/69e972664b0fa35a7076e6dc?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Apr 22 |
@@ -101,12 +104,11 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[HR Intern, Project Management Focus (Summer 2026)](https://jobright.ai/jobs/info/69e92d4158811370cb12b8ef?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR), US | On Site | Apr 22 |
 | ↳ | **[HR Intern, Data Analytics Focus (Summer 2026)](https://jobright.ai/jobs/info/69e92d4158811370cb12b8ee?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR), US | On Site | Apr 22 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/69e92d3f58811370cb12b8e2?utm_campaign=1054&utm_source=git)** | Banner Health Corp Phoenix (2901 N Central Ave), US | Hybrid | Apr 22 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69e949907820c036924e70de?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 22 |
 | **[ProHealth Care](http://www.prohealthcare.org/)** | **[Clinical Support Assoc. Intern - ProHealth Muskego Clinic](https://jobright.ai/jobs/info/69e956b63aa0c479643a9426?utm_campaign=1054&utm_source=git)** | Franklin, WI | On Site | Apr 22 |
 | ↳ | **[Clinical Support Assoc. Intern - ProHealth Brookfield Clinic](https://jobright.ai/jobs/info/69e95696e0cd471b2f13cb07?utm_campaign=1054&utm_source=git)** | Brookfield, WI | On Site | Apr 22 |
 | **[University of Colorado](https://www.cu.edu)** | **[Training Program Coordinator](https://jobright.ai/jobs/info/69e9485f4b0fa35a7076d441?utm_campaign=1054&utm_source=git)** | Aurora, CO | Hybrid | Apr 22 |
-| **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 22 |
-| ↳ | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e9488c4b0fa35a7076d554?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 22 |
+| **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e9488c4b0fa35a7076d554?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 22 |
+| ↳ | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 22 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[People Analytics Intern](https://jobright.ai/jobs/info/69e94e694b0fa35a7076d789?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Apr 22 |
 | **[RTX](http://rtx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e9215e0a6e0955530396e2?utm_campaign=1054&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG, CA | On Site | Apr 22 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69e6f1717820c036924d2ca3?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 22 |
@@ -128,7 +130,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/69782f9239f7f96cc6d0776f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Apr 22 |
 | **[Enchantment Resort](https://www.enchantmentresort.com)** | **[Internship Opportunities (Current & Future, Temporary-Seasonal)](https://jobright.ai/jobs/info/69e6de50e0cd471b2f127b9b?utm_campaign=1054&utm_source=git)** | Irvington, VA | On Site | Apr 22 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/69e92b713aa0c479643a7ec2?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Apr 22 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern)](https://jobright.ai/jobs/info/69e9188a4b0fa35a7076b669?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 22 |
 | **[Mii amo](https://www.miiamo.com/)** | **[Internship Opportunities (Current & Future, Temporary-Seasonal)](https://jobright.ai/jobs/info/69e6f9579b6eb37e26f82b23?utm_campaign=1054&utm_source=git)** | Irvington, VA | On Site | Apr 22 |
 | **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b51b501ade4306aa64012b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Balance Now](https://www.balance.ca)** | **[HR Engagement Team Member](https://jobright.ai/jobs/info/69e898660a6e0955530343a1?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 21 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69e883f958811370cb126a13?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 21 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Recruiter, Early Careers and Internship Programming](https://jobright.ai/jobs/info/69e84f6a58811370cb12237b?utm_campaign=1054&utm_source=git)** | El Segundo, CA | Hybrid | Apr 21 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Career and Financial Coaching Intern](https://jobright.ai/jobs/info/69e848da7820c036924dba4a?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
