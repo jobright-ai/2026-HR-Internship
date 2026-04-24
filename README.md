@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First National Bank Alaska](https://www.fnbalaska.com/)** | **[Intern II - HR/Learning & Development](https://jobright.ai/jobs/info/69eae30c7820c036924f05e3?utm_campaign=1054&utm_source=git)** | Anchorage, AK, US | On Site | Apr 23 |
 | **[Siltronic AG](https://www.siltronic.com)** | **[HR Intern](https://jobright.ai/jobs/info/69eac9300a6e095553042bec?utm_campaign=1054&utm_source=git)** | Portland, Oregon, United States | On Site | Apr 23 |
 | **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[HR Intern (Canada)](https://jobright.ai/jobs/info/69eac92f0a6e095553042be2?utm_campaign=1054&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69eac92e0a6e095553042bdb?utm_campaign=1054&utm_source=git)** | Mesa, AZ, USA | On Site | Apr 23 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69ea5db77820c036924ed2f7?utm_campaign=1054&utm_source=git)** | California - San Francisco, US | On Site | Apr 23 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, CPA Program (8-months)](https://jobright.ai/jobs/info/69cdb990891d7b11cfcbf1f7?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 23 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Internship](https://jobright.ai/jobs/info/69ea59823aa0c479643af235?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Apr 23 |
+| **[A-List Me](https://www.a-listme.com)** | **[Internship: Influencer Talent Management Intern](https://jobright.ai/jobs/info/69eae11758811370cb135b85?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 23 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Fraternity & Sorority Life Intern](https://jobright.ai/jobs/info/69ea533b0a6e09555304033c?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Apr 23 |
 | **[Appearance Technology Group](http://www.appearancetg.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ea531058811370cb1327f9?utm_campaign=1054&utm_source=git)** | Farmington,MI,US | On Site | Apr 23 |
 | **[ITA International](http://ita-intl.com/)** | **[Summer Intern - Growth Support](https://jobright.ai/jobs/info/69ea4b340a6e095553040135?utm_campaign=1054&utm_source=git)** | Newport News, VA, US | On Site | Apr 23 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e270a6e09555303cd3b?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | Apr 22 |
 | **[SB Energy](https://sbenergy.com)** | **[HR Intern](https://jobright.ai/jobs/info/69e95d2a3aa0c479643a98db?utm_campaign=1054&utm_source=git)** | Redwood City, CA | Hybrid | Apr 22 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship - HR Intern, Talent Acquisition (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e74f363aa0c4796439934c?utm_campaign=1054&utm_source=git)** | Morrisville, NC | Remote | Apr 22 |
-| **[CooperVision](http://coopervision.com)** | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69e978913aa0c479643aa590?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Apr 22 |
-| ↳ | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69c2c5ac94007a2195debcae?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Apr 22 |
+| **[CooperVision](http://coopervision.com)** | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69c2c5ac94007a2195debcae?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Apr 22 |
+| ↳ | **[Global People Services Compliance Intern](https://jobright.ai/jobs/info/69e978913aa0c479643aa590?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Apr 22 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Human Resources Tech](https://jobright.ai/jobs/info/69e972664b0fa35a7076e6dc?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Apr 22 |
 | **[Smith & Wesson](http://www.smith-wesson.com/)** | **[Summer 2026 Internship: Human Resources (Tennessee)](https://jobright.ai/jobs/info/69e977e4e0cd471b2f13d8b1?utm_campaign=1054&utm_source=git)** | Maryville, TN, 37801-1826, United States | On Site | Apr 22 |
 | **[BBG Ventures](http://www.bbgventures.com)** | **[People Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69e987277820c036924e8f05?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://rtx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e9215e0a6e0955530396e2?utm_campaign=1054&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG, CA | On Site | Apr 22 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69eace237820c036924efd75?utm_campaign=1054&utm_source=git)** | Raleigh, NC, US | On Site | Apr 22 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69e6f1717820c036924d2ca3?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 22 |
-| **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/69eacb014b0fa35a7077633f?utm_campaign=1054&utm_source=git)** | San Diego, CA, US | Hybrid | Apr 22 |
-| **[Goodwill Kentucky](https://www.goodwillky.org/)** | **[Internship & Job Development Specialist](https://jobright.ai/jobs/info/69e9724d7820c036924e80dc?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
