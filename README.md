@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69eac92e0a6e095553042bdb?utm_campaign=1054&utm_source=git)** | Mesa, AZ, USA | On Site | Apr 23 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69eabecfdc35f7132c4abbb2?utm_campaign=1054&utm_source=git)** | Long Beach, CA, US | On Site | Apr 23 |
 | **[Nerdio](http://www.getnerdio.com)** | **[People Operations & Analytics Intern](https://jobright.ai/jobs/info/69eaaf7d3aa0c479643b1440?utm_campaign=1054&utm_source=git)** | Remote (United States) | Remote | Apr 23 |
+| **[Mizkan America](http://mizkan.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d63963cfdc6132f9469221?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 23 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://arcmts.tamu.edu/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea9d477820c036924eeda0?utm_campaign=1054&utm_source=git)** | College Station, TX, US | On Site | Apr 23 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea9d063aa0c479643b0e9a?utm_campaign=1054&utm_source=git)** | College Station, TX, US | On Site | Apr 23 |
 | **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[HR Intern](https://jobright.ai/jobs/info/69ea91983aa0c479643b0ad6?utm_campaign=1054&utm_source=git)** | Carthage, MO, UNITED STATES | On Site | Apr 23 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[American Dining Creations](http://www.adc-us.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e9c71fe0cd471b2f13f350?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Apr 22 |
 | **[University of Colorado](https://www.cu.edu)** | **[HR Associate](https://jobright.ai/jobs/info/69e9bdfae0cd471b2f13f00b?utm_campaign=1054&utm_source=git)** | Aurora, CO | Hybrid | Apr 22 |
 | **[Credo](http://www.credosemi.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e97b187820c036924e8ce3?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| **[UPS](http://www.ups.com)** | **[HR Intern, Project Management Focus (Summer 2026)](https://jobright.ai/jobs/info/69e99d847820c036924e921f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 22 |
-| ↳ | **[HR Intern, Data Analytics Focus (Summer 2026)](https://jobright.ai/jobs/info/69e99d807820c036924e9201?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 22 |
+| **[UPS](http://www.ups.com)** | **[HR Intern, Data Analytics Focus (Summer 2026)](https://jobright.ai/jobs/info/69e99d807820c036924e9201?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 22 |
+| ↳ | **[HR Intern, Project Management Focus (Summer 2026)](https://jobright.ai/jobs/info/69e99d847820c036924e921f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 22 |
 | **[Schneider](https://schneider.com)** | **[Recruiting Intern - Summer 2026](https://jobright.ai/jobs/info/69e97230e0cd471b2f13d5ab?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Apr 22 |
 | **[HENSOLDT](https://www.hensoldt.net/)** | **[HR Intern](https://jobright.ai/jobs/info/69e66d71e0cd471b2f1259bf?utm_campaign=1054&utm_source=git)** | Irene, SD | On Site | Apr 22 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Director of Recruiting](https://jobright.ai/jobs/info/69e9b48a4b0fa35a7076fc50?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Apr 22 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 22 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[People Analytics Intern](https://jobright.ai/jobs/info/69e94e694b0fa35a7076d789?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Apr 22 |
 | **[RTX](http://rtx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e9215e0a6e0955530396e2?utm_campaign=1054&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG, CA | On Site | Apr 22 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69eace237820c036924efd75?utm_campaign=1054&utm_source=git)** | Raleigh, NC, US | On Site | Apr 22 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69e6f1717820c036924d2ca3?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 22 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/69eacb014b0fa35a7077633f?utm_campaign=1054&utm_source=git)** | San Diego, CA, US | Hybrid | Apr 22 |
 | **[Goodwill Kentucky](https://www.goodwillky.org/)** | **[Internship & Job Development Specialist](https://jobright.ai/jobs/info/69e9724d7820c036924e80dc?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Apr 22 |
-| **[Tesla](https://www.tesla.com)** | **[Recruiting Internship, Software Engineering (Summer 2026)](https://jobright.ai/jobs/info/69e9189b58811370cb12a4cd?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Apr 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern Dallas](https://jobright.ai/jobs/info/69e9188c0a6e095553038c56?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
