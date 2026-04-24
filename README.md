@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Activate](https://www.activate.org/)** | **[Fellowship Recruitment Intern, Brand](https://jobright.ai/jobs/info/69ebef34dc35f7132c4b46a2?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[HR & Accounting Records Support Assistant (Undergraduate intern – Summer Position)(ETS)/ Temporary](https://jobright.ai/jobs/info/69ebd4344b0fa35a7077eefe?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 24 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Benefit Coordinator Intern](https://jobright.ai/jobs/info/69ebd2db58811370cb13cffa?utm_campaign=1054&utm_source=git)** | Southfield, Michigan USA, US | Hybrid | Apr 24 |
 | **[Jabil](https://www.jabil.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ebc7b97820c036924f741b?utm_campaign=1054&utm_source=git)** | Monument, CO, US | On Site | Apr 24 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb3bd716b2612c2a11a559?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 23 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb41f17820c036924f2714?utm_campaign=1054&utm_source=git)** | Bedford, NH | On Site | Apr 23 |
 | **[Founders Federal Credit Union](https://www.foundersfcu.com/)** | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb419c7820c036924f2652?utm_campaign=1054&utm_source=git)** | Chester, SC | On Site | Apr 23 |
-| ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3fe60a6e095553045e71?utm_campaign=1054&utm_source=git)** | Lancaster, SC | On Site | Apr 23 |
 | ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3dad16b2612c2a11a694?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Apr 23 |
+| ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3fe60a6e095553045e71?utm_campaign=1054&utm_source=git)** | Lancaster, SC | On Site | Apr 23 |
 | ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3dc816b2612c2a11a6d8?utm_campaign=1054&utm_source=git)** | Simpsonville, SC | On Site | Apr 23 |
 | **[Leggett & Platt](http://www.leggett.com)** | **[HR Intern](https://jobright.ai/jobs/info/69eb25e7dc35f7132c4adffb?utm_campaign=1054&utm_source=git)** | Carthage, MO | On Site | Apr 23 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://arcmts.tamu.edu/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea9d477820c036924eeda0?utm_campaign=1054&utm_source=git)** | College Station, TX, US | On Site | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69ea5db77820c036924ed2f7?utm_campaign=1054&utm_source=git)** | California - San Francisco, US | On Site | Apr 23 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, CPA Program (8-months)](https://jobright.ai/jobs/info/69cdb990891d7b11cfcbf1f7?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 23 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Internship](https://jobright.ai/jobs/info/69ea59823aa0c479643af235?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Apr 23 |
-| **[A-List Me](https://www.a-listme.com)** | **[Internship: Influencer Talent Management Intern](https://jobright.ai/jobs/info/69eae11758811370cb135b85?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
