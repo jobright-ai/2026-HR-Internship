@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Upstream USA](https://upstream.org)** | **[Human Resources (People & Culture)  Intern - Hybrid: Remote in Boston area with 2 days in office](https://jobright.ai/jobs/info/69eb6e3e7820c036924f3c3a?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 24 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/698ea0ff0f6f7e7a2ceabe23?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Upstream USA](https://upstream.org)** | **[Human Resources (People & Culture)  Intern - Hybrid: Remote in Boston area with 2 days in office](https://jobright.ai/jobs/info/69eb601e0a6e095553046f01?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 24 |
 | **[The Health Management Academy](http://www.hmacademy.com/)** | **[Intern, Leadership Development](https://jobright.ai/jobs/info/69eb2f4f4b0fa35a70778998?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 24 |
+| **[Nerdio](http://www.getnerdio.com)** | **[People Operations & Analytics Intern](https://jobright.ai/jobs/info/69eb6eac0a6e0955530475d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69eb668cdc35f7132c4b0289?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
+| **[Onvida Health](https://www.onvidahealth.org)** | **[Intern Non-Clinical / Talent Acquisition](https://jobright.ai/jobs/info/69eb6e4858811370cb13953c?utm_campaign=1054&utm_source=git)** | Yuma, AZ | On Site | Apr 24 |
+| **[Drug Enforcement Administration](http://dea.gov)** | **[Human Resources Specialist (Recent Graduate)](https://jobright.ai/jobs/info/69eb6e7a4b0fa35a7077b6ec?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Apr 23 |
 | **[Chatham Financial](https://cf.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/69eb5f600a6e095553046e72?utm_campaign=1054&utm_source=git)** | Kennett Square, PA | On Site | Apr 23 |
 | **[Ion Bank](http://ionbank.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69eb5e3716b2612c2a11b6d0?utm_campaign=1054&utm_source=git)** | Naugatuck, CT | On Site | Apr 23 |
 | **[Town of Parker, Colorado](https://www.parkeronline.org)** | **[Human Resources & Risk Management Intern](https://jobright.ai/jobs/info/69eb5e7616b2612c2a11b7d5?utm_campaign=1054&utm_source=git)** | Parker, CO | On Site | Apr 23 |
@@ -87,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb3bd716b2612c2a11a559?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 23 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb41f17820c036924f2714?utm_campaign=1054&utm_source=git)** | Bedford, NH | On Site | Apr 23 |
 | **[Founders Federal Credit Union](https://www.foundersfcu.com/)** | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb419c7820c036924f2652?utm_campaign=1054&utm_source=git)** | Chester, SC | On Site | Apr 23 |
-| ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3dad16b2612c2a11a694?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Apr 23 |
 | ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3fe60a6e095553045e71?utm_campaign=1054&utm_source=git)** | Lancaster, SC | On Site | Apr 23 |
+| ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3dad16b2612c2a11a694?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Apr 23 |
 | ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3dc816b2612c2a11a6d8?utm_campaign=1054&utm_source=git)** | Simpsonville, SC | On Site | Apr 23 |
 | **[Leggett & Platt](http://www.leggett.com)** | **[HR Intern](https://jobright.ai/jobs/info/69eb25e7dc35f7132c4adffb?utm_campaign=1054&utm_source=git)** | Carthage, MO | On Site | Apr 23 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://arcmts.tamu.edu/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea9d477820c036924eeda0?utm_campaign=1054&utm_source=git)** | College Station, TX, US | On Site | Apr 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Dining Creations](http://www.adc-us.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e9c71fe0cd471b2f13f350?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Apr 22 |
 | **[Raintree Systems](https://www.raintreeinc.com)** | **[People Operations (Summer Intern)](https://jobright.ai/jobs/info/69e6d01ef8fa2f3ec32a3b00?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 22 |
 | **[University of Colorado](https://www.cu.edu)** | **[HR Associate](https://jobright.ai/jobs/info/69e9bdfae0cd471b2f13f00b?utm_campaign=1054&utm_source=git)** | Aurora, CO | Hybrid | Apr 22 |
-| **[Credo](http://www.credosemi.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69e97b187820c036924e8ce3?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| **[UPS](http://www.ups.com)** | **[HR Intern, Project Management Focus (Summer 2026)](https://jobright.ai/jobs/info/69e99d847820c036924e921f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 22 |
-| ↳ | **[HR Intern, Data Analytics Focus (Summer 2026)](https://jobright.ai/jobs/info/69e99d807820c036924e9201?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
