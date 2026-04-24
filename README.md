@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intelas](intelashealth.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ebab8b0a6e0955530497fb?utm_campaign=1054&utm_source=git)** | NORMAN, OK, US | On Site | Apr 24 |
+| **[Blitt & Gaines Law Offices](https://blittandgaines.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ebab160a6e095553049733?utm_campaign=1054&utm_source=git)** | Vernon Hills,IL,US | On Site | Apr 24 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69ebaaf758811370cb13bba2?utm_campaign=1054&utm_source=git)** | Naperville,IL,US | On Site | Apr 24 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern (Human Resources)](https://jobright.ai/jobs/info/69eba8137820c036924f5ec4?utm_campaign=1054&utm_source=git)** | MA - Lawrence, US | On Site | Apr 24 |
+| ↳ | **[Intern (Human Resources)](https://jobright.ai/jobs/info/69eba7b24b0fa35a7077d855?utm_campaign=1054&utm_source=git)** | MA - Lowell, US | On Site | Apr 24 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b38ec5ad360c0340a8b20c?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 24 |
+| ↳ | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b391c2ae2a534885eafb18?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 24 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Human Resources Technology)](https://jobright.ai/jobs/info/69eba19adc35f7132c4b2159?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Apr 24 |
 | **[CORE Electric Cooperative](https://core.coop)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69ceba58cfdc6132f942b8e4?utm_campaign=1054&utm_source=git)** | Sedalia, CO | On Site | Apr 24 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69cfc397cfdc6132f9435980?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 24 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e9bf60badca5763af0799?utm_campaign=1054&utm_source=git)** | Centre Hall, PA | On Site | Apr 24 |
@@ -67,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6942187814ee092a69003e6c?utm_campaign=1054&utm_source=git)** | St Augustine, FL | On Site | Apr 24 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6986db780f6f7e7a2ce2157f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Apr 24 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/69d3196c0b098b7a6708bd11?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 24 |
+| **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Benefits and Total Rewards Intern](https://jobright.ai/jobs/info/69eba2000a6e095553049275?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
 | **[Upstream USA](https://upstream.org)** | **[Human Resources (People & Culture)  Intern - Hybrid: Remote in Boston area with 2 days in office](https://jobright.ai/jobs/info/69eb6e3e7820c036924f3c3a?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 24 |
 | **[SurveyMonkey](https://surveymonkey.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69cf04ec891d7b11cfccf505?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Apr 24 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Talent Acquisition Coordinator & Special Projects Intern](https://jobright.ai/jobs/info/69eb90d0dc35f7132c4b1170?utm_campaign=1054&utm_source=git)** | Daytona Beach, FL | Hybrid | Apr 24 |
@@ -80,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Nerdio](http://www.getnerdio.com)** | **[People Operations & Analytics Intern](https://jobright.ai/jobs/info/69eb6eac0a6e0955530475d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Ephemeris Net](ephemeris.net)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69eb89f758811370cb139ad7?utm_campaign=1054&utm_source=git)** | Oakland, CA | Hybrid | Apr 24 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69eb904516b2612c2a11c7f8?utm_campaign=1054&utm_source=git)** | El Segundo, CA | Hybrid | Apr 24 |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69eb668cdc35f7132c4b0289?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
 | **[Onvida Health](https://www.onvidahealth.org)** | **[Intern Non-Clinical / Talent Acquisition](https://jobright.ai/jobs/info/69eb6e4858811370cb13953c?utm_campaign=1054&utm_source=git)** | Yuma, AZ | On Site | Apr 24 |
 | **[Drug Enforcement Administration](http://dea.gov)** | **[Human Resources Specialist (Recent Graduate)](https://jobright.ai/jobs/info/69eb6e7a4b0fa35a7077b6ec?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Apr 23 |
 | **[Chatham Financial](https://cf.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/69eb5f600a6e095553046e72?utm_campaign=1054&utm_source=git)** | Kennett Square, PA | On Site | Apr 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship](https://jobright.ai/jobs/info/695e5de3a112b402660d1fb0?utm_campaign=1054&utm_source=git)** | Henrico, VA | On Site | Apr 23 |
 | **[TX Star Speech Language Services](http://www.tx-star.com/)** | **[Bilingual Recruiting & Talent Acquisition Intern](https://jobright.ai/jobs/info/69ea2e23dc35f7132c4a8a35?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Apr 23 |
 | **[North American Partners in Anesthesia](http://napaanesthesia.com/)** | **[Intern, Talent Acquisition Operations (Remote)](https://jobright.ai/jobs/info/69ea72e258811370cb133416?utm_campaign=1054&utm_source=git)** | Sunrise, FL | Remote | Apr 23 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e62260badca5763aee1a3?utm_campaign=1054&utm_source=git)** | Manassas, VA | On Site | Apr 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b17a6e65de58104c708bff?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | Apr 23 |
-| **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (HR)](https://jobright.ai/jobs/info/69cde24f366bb95ba55040dd?utm_campaign=1054&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/695c97f35e4962051b59c145?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 23 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/699be70cce78e77b4fe08218?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 23 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - HR, Marketing & Operations](https://jobright.ai/jobs/info/6994fa32ce78e77b4fd90d3c?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Apr 23 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Austin)](https://jobright.ai/jobs/info/69d1faf1cfdc6132f9447efe?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 23 |
-| **[INNIO Group](https://www.innio.com/en/)** | **[HR Intern - Recruitment Focus](https://jobright.ai/jobs/info/69959029ce78e77b4fd9b6d1?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
