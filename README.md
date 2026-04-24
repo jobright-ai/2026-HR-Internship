@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Compensation - New Jersey Location](https://jobright.ai/jobs/info/69df24fe18cf504166e3288a?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 23 |
+| **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 HR Intern](https://jobright.ai/jobs/info/69eaf3c34b0fa35a7077716c?utm_campaign=1054&utm_source=git)** | Kennett Square, US | On Site | Apr 23 |
 | **[First National Bank Alaska](https://www.fnbalaska.com/)** | **[Intern II - HR/Learning & Development](https://jobright.ai/jobs/info/69eae30c7820c036924f05e3?utm_campaign=1054&utm_source=git)** | Anchorage, AK, US | On Site | Apr 23 |
 | **[Siltronic AG](https://www.siltronic.com)** | **[HR Intern](https://jobright.ai/jobs/info/69eac9300a6e095553042bec?utm_campaign=1054&utm_source=git)** | Portland, Oregon, United States | On Site | Apr 23 |
 | **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[HR Intern (Canada)](https://jobright.ai/jobs/info/69eac92f0a6e095553042be2?utm_campaign=1054&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
@@ -68,14 +70,17 @@ For a complete list, click the following sortable link below:
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea9d063aa0c479643b0e9a?utm_campaign=1054&utm_source=git)** | College Station, TX, US | On Site | Apr 23 |
 | **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[HR Intern](https://jobright.ai/jobs/info/69ea91983aa0c479643b0ad6?utm_campaign=1054&utm_source=git)** | Carthage, MO, UNITED STATES | On Site | Apr 23 |
 | **[Ion Bank](http://ionbank.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69ea918c4b0fa35a70775129?utm_campaign=1054&utm_source=git)** | Naugatuck, Connecticut, United States | On Site | Apr 23 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69eaf28758811370cb13619f?utm_campaign=1054&utm_source=git)** | Wallingford, CT | Hybrid | Apr 23 |
 | **[Edgewell Personal Care](http://edgewell.com)** | **[Intern, Human Resources, Summer 2026](https://jobright.ai/jobs/info/69ea73df0a6e095553041361?utm_campaign=1054&utm_source=git)** | Shelton, CT, US | Hybrid | Apr 23 |
 | **[Insight Media](www.insightmedia.com)** | **[Talent Coordinator Intern](https://jobright.ai/jobs/info/69ea8fc658811370cb133f97?utm_campaign=1054&utm_source=git)** | LA Metro Area | Remote | Apr 23 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69ea5db77820c036924ed2f7?utm_campaign=1054&utm_source=git)** | California - San Francisco, US | On Site | Apr 23 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69eae8314b0fa35a70777077?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
+| ↳ | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69ea5db77820c036924ed2f7?utm_campaign=1054&utm_source=git)** | California - San Francisco, US | On Site | Apr 23 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, CPA Program (8-months)](https://jobright.ai/jobs/info/69cdb990891d7b11cfcbf1f7?utm_campaign=1054&utm_source=git)** | Toronto, ON | On Site | Apr 23 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Internship](https://jobright.ai/jobs/info/69ea59823aa0c479643af235?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Apr 23 |
 | **[A-List Me](https://www.a-listme.com)** | **[Internship: Influencer Talent Management Intern](https://jobright.ai/jobs/info/69eae11758811370cb135b85?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 23 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Fraternity & Sorority Life Intern](https://jobright.ai/jobs/info/69ea533b0a6e09555304033c?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Apr 23 |
 | **[Appearance Technology Group](http://www.appearancetg.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ea531058811370cb1327f9?utm_campaign=1054&utm_source=git)** | Farmington,MI,US | On Site | Apr 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b5237abc187f64e1be5557?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 23 |
 | **[ITA International](http://ita-intl.com/)** | **[Summer Intern - Growth Support](https://jobright.ai/jobs/info/69ea4b340a6e095553040135?utm_campaign=1054&utm_source=git)** | Newport News, VA, US | On Site | Apr 23 |
 | ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/69ea4b2b3aa0c479643aeda3?utm_campaign=1054&utm_source=git)** | US-VA-Newport News | On Site | Apr 23 |
 | ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/69ea4b2a58811370cb132516?utm_campaign=1054&utm_source=git)** | Newport News, VA, US | On Site | Apr 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ProHealth Care](http://www.prohealthcare.org/)** | **[Clinical Support Assoc. Intern - ProHealth Muskego Clinic](https://jobright.ai/jobs/info/69e956b63aa0c479643a9426?utm_campaign=1054&utm_source=git)** | Franklin, WI | On Site | Apr 22 |
 | ↳ | **[Clinical Support Assoc. Intern - ProHealth Brookfield Clinic](https://jobright.ai/jobs/info/69e95696e0cd471b2f13cb07?utm_campaign=1054&utm_source=git)** | Brookfield, WI | On Site | Apr 22 |
 | **[University of Colorado](https://www.cu.edu)** | **[Training Program Coordinator](https://jobright.ai/jobs/info/69e9485f4b0fa35a7076d441?utm_campaign=1054&utm_source=git)** | Aurora, CO | Hybrid | Apr 22 |
-| **[Wedbush](https://www.wedbush.com)** | **[Intern,  Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69e1ae1bacc736112f5c4dad?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Apr 22 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[People Analytics Intern](https://jobright.ai/jobs/info/69e94e694b0fa35a7076d789?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Apr 22 |
-| **[RTX](http://rtx.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e9215e0a6e0955530396e2?utm_campaign=1054&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG, CA | On Site | Apr 22 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69eace237820c036924efd75?utm_campaign=1054&utm_source=git)** | Raleigh, NC, US | On Site | Apr 22 |
-| **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69e6f1717820c036924d2ca3?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
