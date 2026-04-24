@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695ba9beaa05c26e7ab4f71d?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Apr 24 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6942187814ee092a69003e6c?utm_campaign=1054&utm_source=git)** | St Augustine, FL | On Site | Apr 24 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6986db780f6f7e7a2ce2157f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Apr 24 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/69d3196c0b098b7a6708bd11?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 24 |
 | **[Upstream USA](https://upstream.org)** | **[Human Resources (People & Culture)  Intern - Hybrid: Remote in Boston area with 2 days in office](https://jobright.ai/jobs/info/69eb6e3e7820c036924f3c3a?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 24 |
+| **[SurveyMonkey](https://surveymonkey.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69cf04ec891d7b11cfccf505?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Apr 24 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/698ea0ff0f6f7e7a2ceabe23?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Victoria Office – CPA Opportunities in Private Enterprise Audit – 4-month Co-op – January 2027 Start](https://jobright.ai/jobs/info/69b3c659ae2a534885eb2b47?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 24 |
 | **[Littler](http://www.littler.com)** | **[Talent Acquisition Attorney Recruiter - Multiple Offices (Remote)](https://jobright.ai/jobs/info/69ceee9dcfdc6132f942e022?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/69d20f72cdb525785fbb7e37?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 24 |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69eb84704b0fa35a7077ba5d?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 24 |
 | **[The Health Management Academy](http://www.hmacademy.com/)** | **[Intern, Leadership Development](https://jobright.ai/jobs/info/69eb2f4f4b0fa35a70778998?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 24 |
 | **[Nerdio](http://www.getnerdio.com)** | **[People Operations & Analytics Intern](https://jobright.ai/jobs/info/69eb6eac0a6e0955530475d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
+| **[Ephemeris Net](ephemeris.net)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69eb89f758811370cb139ad7?utm_campaign=1054&utm_source=git)** | Oakland, CA | Hybrid | Apr 24 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69eb668cdc35f7132c4b0289?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
 | **[Onvida Health](https://www.onvidahealth.org)** | **[Intern Non-Clinical / Talent Acquisition](https://jobright.ai/jobs/info/69eb6e4858811370cb13953c?utm_campaign=1054&utm_source=git)** | Yuma, AZ | On Site | Apr 24 |
 | **[Drug Enforcement Administration](http://dea.gov)** | **[Human Resources Specialist (Recent Graduate)](https://jobright.ai/jobs/info/69eb6e7a4b0fa35a7077b6ec?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Apr 23 |
@@ -93,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb3bd716b2612c2a11a559?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 23 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb41f17820c036924f2714?utm_campaign=1054&utm_source=git)** | Bedford, NH | On Site | Apr 23 |
 | **[Founders Federal Credit Union](https://www.foundersfcu.com/)** | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb419c7820c036924f2652?utm_campaign=1054&utm_source=git)** | Chester, SC | On Site | Apr 23 |
-| ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3fe60a6e095553045e71?utm_campaign=1054&utm_source=git)** | Lancaster, SC | On Site | Apr 23 |
 | ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3dad16b2612c2a11a694?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Apr 23 |
+| ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3fe60a6e095553045e71?utm_campaign=1054&utm_source=git)** | Lancaster, SC | On Site | Apr 23 |
 | ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3dc816b2612c2a11a6d8?utm_campaign=1054&utm_source=git)** | Simpsonville, SC | On Site | Apr 23 |
 | **[Leggett & Platt](http://www.leggett.com)** | **[HR Intern](https://jobright.ai/jobs/info/69eb25e7dc35f7132c4adffb?utm_campaign=1054&utm_source=git)** | Carthage, MO | On Site | Apr 23 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://arcmts.tamu.edu/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea9d477820c036924eeda0?utm_campaign=1054&utm_source=git)** | College Station, TX, US | On Site | Apr 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Human Resources Intern - Cranberry Township, PA](https://jobright.ai/jobs/info/69ce4a3c54f00230c6cfdffc?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 23 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR CAMPUS RECRUITMENT LEAD](https://jobright.ai/jobs/info/69e746f03aa0c479643991f1?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 23 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[HR Shared Service Intern](https://jobright.ai/jobs/info/69b1992d548f140066e76ae6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Apr 23 |
-| **[DriveTime](https://www.drivetime.com)** | **[Business Systems Analyst Intern (HR Technology)](https://jobright.ai/jobs/info/69b2129bd04c69566c74b6d6?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Apr 23 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Benefits (Corporate)](https://jobright.ai/jobs/info/69ea05dedc35f7132c4a6896?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 23 |
-| **[Minnesota Department of Transportation](https://www.dot.state.mn.us)** | **[Workers Compensation Supervisor - State Prog Admin Supv Prin](https://jobright.ai/jobs/info/69e9d5914b0fa35a707703ba?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Apr 23 |
-| **[Thomsun InfoCare LLP](https://thomsuninfocare.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e9d58e4b0fa35a707703ac?utm_campaign=1054&utm_source=git)** | Michigan, United States | On Site | Apr 23 |
-| **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 22 |
-| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Human Resource Specialist Internship](https://jobright.ai/jobs/info/69e9cefe58811370cb12f47e?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Apr 22 |
-| **[Lakeland Regional Health-Florida](http://mylrh.org/)** | **[Administrative Intern PRN - Talent Acquisition](https://jobright.ai/jobs/info/69e9be11e0cd471b2f13f066?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
