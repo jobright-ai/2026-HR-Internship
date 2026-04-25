@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b478d33b74eb1e2c81cc6b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 25 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HR - Total Rewards - Corporate](https://jobright.ai/jobs/info/69d0c99ecfdc6132f943fb7a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 25 |
 | **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/69b48e7006c1ba00c5460e34?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 25 |
+| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52a3a06c1ba00c546ec88?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 25 |
+| **[Trench Group](https://trench-group.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d31e2954f00230c6d24ab1?utm_campaign=1054&utm_source=git)** | Pickering, ON | On Site | Apr 25 |
+| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52b1256973837413a5776?utm_campaign=1054&utm_source=git)** | Kitchener, ON | On Site | Apr 25 |
+| **[Newegg](https://www.newegg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d1e1a7cdb525785fbb5efd?utm_campaign=1054&utm_source=git)** | Diamond Bar, CA | On Site | Apr 25 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Apr 24 |
 | **[Equinix](http://www.equinix.com)** | **[Project Coordination Intern, Global New Hire Onboarding](https://jobright.ai/jobs/info/69ec48dbdc35f7132c4b666a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[Workiva](http://www.workiva.com)** | **[Intern - People Operations](https://jobright.ai/jobs/info/69ec38317820c036924fa057?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Behavioral Health](https://metropolitanbh.com/)** | **[HR STUDENT INTERN (UNPAID)](https://jobright.ai/jobs/info/69eb52f516b2612c2a11af89?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Apr 23 |
 | **[Clarion Psychiatric Center](https://clarioncenter.com/)** | **[Internship / Clinical Rotation Opportunity](https://jobright.ai/jobs/info/69eb523e4b0fa35a7077a788?utm_campaign=1054&utm_source=git)** | Clarion, PA | On Site | Apr 23 |
 | **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[HR Intern (Canada)](https://jobright.ai/jobs/info/69eac92f0a6e095553042be2?utm_campaign=1054&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69eac92e0a6e095553042bdb?utm_campaign=1054&utm_source=git)** | Mesa, AZ, USA | On Site | Apr 23 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69eabecfdc35f7132c4abbb2?utm_campaign=1054&utm_source=git)** | Long Beach, CA, US | On Site | Apr 23 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Administrative Specialist II](https://jobright.ai/jobs/info/69eb52d416b2612c2a11af14?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Apr 23 |
-| **[Nerdio](http://www.getnerdio.com)** | **[People Operations & Analytics Intern](https://jobright.ai/jobs/info/69eaaf7d3aa0c479643b1440?utm_campaign=1054&utm_source=git)** | Remote (United States) | Remote | Apr 23 |
-| **[Adelphoi](http://www.adelphoi.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69eb423b4b0fa35a7077a135?utm_campaign=1054&utm_source=git)** | Latrobe, PA | On Site | Apr 23 |
-| **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb3bd716b2612c2a11a559?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
