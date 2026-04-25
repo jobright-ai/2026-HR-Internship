@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Intern](https://jobright.ai/jobs/info/69ed418858811370cb1415ec?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Apr 25 |
+| **[Miba Sinter USA](https://www.miba.com/en/product-areas/sintered-components/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed407d7820c036924fc6dc?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Apr 25 |
+| **[TONY, LLC](https://www.linkedin.com/company/107227751)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed41cc4b0fa35a70784261?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 25 |
+| **[State of Vermont](http://vermont.gov/portal/)** | **[Paid Internship - Liquor & Lottery - Temporary](https://jobright.ai/jobs/info/69ed40ab0a6e09555304f934?utm_campaign=1054&utm_source=git)** | Berlin, VT | On Site | Apr 25 |
+| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed37e716b2612c2a1240e0?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 25 |
 | **[Levata](https://www.levata.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69d029d6cfdc6132f9438c84?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Apr 25 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Apr 25 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69ed071158811370cb141245?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 25 |
@@ -104,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[LCEC](https://www.lcec.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ec26920a6e09555304cdc7?utm_campaign=1054&utm_source=git)** | North Fort Myers, FL | On Site | Apr 24 |
 | **[Indium Corporation](http://www.indium.com/)** | **[Human Resource Organizational Development Intern](https://jobright.ai/jobs/info/69ec031958811370cb13e2b5?utm_campaign=1054&utm_source=git)** | New Hartford, NY | On Site | Apr 24 |
 | **[Alimentiv](https://alimentiv.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69ebfdfc4b0fa35a707801a5?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | Hybrid | Apr 24 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Exam Development Unit, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69ebfc74dc35f7132c4b4cb3?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Apr 24 |
 | **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (HR)](https://jobright.ai/jobs/info/69ebfc597820c036924f8650?utm_campaign=1054&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 24 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69ebfc520a6e09555304bc04?utm_campaign=1054&utm_source=git)** | Bellevue, WA, US, 98004 | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69ebfbef4b0fa35a7077fd02?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Apr 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Upstream USA](https://upstream.org)** | **[Human Resources (People & Culture)  Intern - Hybrid: Remote in Boston area with 2 days in office](https://jobright.ai/jobs/info/69eb6e3e7820c036924f3c3a?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 24 |
 | **[SurveyMonkey](https://surveymonkey.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69cf04ec891d7b11cfccf505?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Apr 24 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Talent Acquisition Coordinator & Special Projects Intern](https://jobright.ai/jobs/info/69eb90d0dc35f7132c4b1170?utm_campaign=1054&utm_source=git)** | Daytona Beach, FL | Hybrid | Apr 24 |
-| **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/698ea0ff0f6f7e7a2ceabe23?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Human Resources](https://jobright.ai/jobs/info/69cf27e6cfdc6132f942ff07?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
-| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Campus Recruiting and AI Innovation Sophomore Summer Internship](https://jobright.ai/jobs/info/69eb92cf16b2612c2a11d0d9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 24 |
-| **[11:11 Systems](https://1111systems.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69eb91440a6e095553047d5c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
