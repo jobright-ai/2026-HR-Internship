@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Workiva](http://www.workiva.com)** | **[Intern - People Operations](https://jobright.ai/jobs/info/69ec38317820c036924fa057?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
+| **[Blitt & Gaines Law Offices](https://blittandgaines.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ec36d97820c036924f9fbe?utm_campaign=1054&utm_source=git)** | Naperville, IL | On Site | Apr 24 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69ec36c44b0fa35a7078190f?utm_campaign=1054&utm_source=git)** | Vernon Hills, IL | On Site | Apr 24 |
+| **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Benefit Coordinator Intern](https://jobright.ai/jobs/info/69ec32e1dc35f7132c4b6144?utm_campaign=1054&utm_source=git)** | Southfield, MI | Hybrid | Apr 24 |
+| **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69ec32e14b0fa35a70781515?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
+| **[PACCAR](http://www.paccar.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69ec2de0dc35f7132c4b5fdd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Apr 24 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[HR & Accounting Records Support Assistant (Undergraduate intern – Summer Position)(ETS)/ Temporary](https://jobright.ai/jobs/info/69ec2720dc35f7132c4b5e76?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69ec270f7820c036924f9842?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
 | **[SAP Taulia](https://taulia.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/69ec1f8c58811370cb13ef89?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 24 |
 | **[M.C. Dean, Inc.](http://mcdean.com)** | **[Human Resource Intern - Tysons, VA](https://jobright.ai/jobs/info/69ec1e9716b2612c2a12130b?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Apr 24 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Business Operations Intern (Rotational Program – HR, Finance & Data)](https://jobright.ai/jobs/info/69ec11a7dc35f7132c4b5643?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69ec2e364b0fa35a70781293?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Apr 24 |
 | **[Taulia](http://www.taulia.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69ec0d1a4b0fa35a7078075a?utm_campaign=1054&utm_source=git)** | Austin, TX, US, 78757 | On Site | Apr 24 |
 | **[LCEC](https://www.lcec.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ec26920a6e09555304cdc7?utm_campaign=1054&utm_source=git)** | North Fort Myers, FL | On Site | Apr 24 |
 | **[Indium Corporation](http://www.indium.com/)** | **[Human Resource Organizational Development Intern](https://jobright.ai/jobs/info/69ec031958811370cb13e2b5?utm_campaign=1054&utm_source=git)** | New Hartford, NY | On Site | Apr 24 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](http://www.asmglobal.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69eabecfdc35f7132c4abbb2?utm_campaign=1054&utm_source=git)** | Long Beach, CA, US | On Site | Apr 23 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Administrative Specialist II](https://jobright.ai/jobs/info/69eb52d416b2612c2a11af14?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Apr 23 |
 | **[Nerdio](http://www.getnerdio.com)** | **[People Operations & Analytics Intern](https://jobright.ai/jobs/info/69eaaf7d3aa0c479643b1440?utm_campaign=1054&utm_source=git)** | Remote (United States) | Remote | Apr 23 |
-| **[Mizkan America](http://mizkan.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d63963cfdc6132f9469221?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 23 |
 | **[Adelphoi](http://www.adelphoi.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69eb423b4b0fa35a7077a135?utm_campaign=1054&utm_source=git)** | Latrobe, PA | On Site | Apr 23 |
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb3bd716b2612c2a11a559?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 23 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb41f17820c036924f2714?utm_campaign=1054&utm_source=git)** | Bedford, NH | On Site | Apr 23 |
-| **[Founders Federal Credit Union](https://www.foundersfcu.com/)** | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb419c7820c036924f2652?utm_campaign=1054&utm_source=git)** | Chester, SC | On Site | Apr 23 |
-| ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3fe60a6e095553045e71?utm_campaign=1054&utm_source=git)** | Lancaster, SC | On Site | Apr 23 |
-| ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3dad16b2612c2a11a694?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Apr 23 |
-| ↳ | **[Internships & Seasonal Positions](https://jobright.ai/jobs/info/69eb3dc816b2612c2a11a6d8?utm_campaign=1054&utm_source=git)** | Simpsonville, SC | On Site | Apr 23 |
-| **[Leggett & Platt](http://www.leggett.com)** | **[HR Intern](https://jobright.ai/jobs/info/69eb25e7dc35f7132c4adffb?utm_campaign=1054&utm_source=git)** | Carthage, MO | On Site | Apr 23 |
-| **[Texas A&M AgriLife Center for Managed Technology Services](https://arcmts.tamu.edu/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea9d477820c036924eeda0?utm_campaign=1054&utm_source=git)** | College Station, TX, US | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
