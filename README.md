@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Equinix](http://www.equinix.com)** | **[Project Coordination Intern, Global New Hire Onboarding](https://jobright.ai/jobs/info/69ec48dbdc35f7132c4b666a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[Workiva](http://www.workiva.com)** | **[Intern - People Operations](https://jobright.ai/jobs/info/69ec38317820c036924fa057?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Benefit Coordinator Intern](https://jobright.ai/jobs/info/69ec32e1dc35f7132c4b6144?utm_campaign=1054&utm_source=git)** | Southfield, MI | Hybrid | Apr 24 |
-| **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69ec32e14b0fa35a70781515?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Equinix](http://www.equinix.com)** | **[Talent Intelligence & Insights Intern](https://jobright.ai/jobs/info/69ec51ed58811370cb13f8da?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69ec2de0dc35f7132c4b5fdd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Apr 24 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[HR & Accounting Records Support Assistant (Undergraduate intern – Summer Position)(ETS)/ Temporary](https://jobright.ai/jobs/info/69ec2720dc35f7132c4b5e76?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Nerdio](http://www.getnerdio.com)** | **[People Operations & Analytics Intern](https://jobright.ai/jobs/info/69eaaf7d3aa0c479643b1440?utm_campaign=1054&utm_source=git)** | Remote (United States) | Remote | Apr 23 |
 | **[Adelphoi](http://www.adelphoi.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69eb423b4b0fa35a7077a135?utm_campaign=1054&utm_source=git)** | Latrobe, PA | On Site | Apr 23 |
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb3bd716b2612c2a11a559?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 23 |
+| **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb41f17820c036924f2714?utm_campaign=1054&utm_source=git)** | Bedford, NH | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
