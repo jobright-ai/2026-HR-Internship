@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Levata](https://www.levata.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69d029d6cfdc6132f9438c84?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Apr 25 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Apr 25 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69ed071158811370cb141245?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 25 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[HR Intern – CI Talent & Internship Program Support Summer 2026](https://jobright.ai/jobs/info/69d06226cfdc6132f943ac96?utm_campaign=1054&utm_source=git)** | Cullman, AL | On Site | Apr 25 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69b43f8706c1ba00c54574b7?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Human Resources](https://jobright.ai/jobs/info/69cf27e6cfdc6132f942ff07?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Campus Recruiting and AI Innovation Sophomore Summer Internship](https://jobright.ai/jobs/info/69eb92cf16b2612c2a11d0d9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[11:11 Systems](https://1111systems.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69eb91440a6e095553047d5c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/69d20f72cdb525785fbb7e37?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 24 |
-| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69eb84704b0fa35a7077ba5d?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
