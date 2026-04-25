@@ -58,12 +58,14 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69ed071158811370cb141245?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 25 |
+| **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[HR Intern – CI Talent & Internship Program Support Summer 2026](https://jobright.ai/jobs/info/69d06226cfdc6132f943ac96?utm_campaign=1054&utm_source=git)** | Cullman, AL | On Site | Apr 25 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69b43f8706c1ba00c54574b7?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - Sandy](https://jobright.ai/jobs/info/69b38ecba8ac8e70ff67d06c?utm_campaign=1054&utm_source=git)** | Midvale, UT | On Site | Apr 25 |
 | ↳ | **[Management Trainee Summer Internship - Salt Lake City](https://jobright.ai/jobs/info/69608694a112b402660f3b59?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/69095c13d046ab6061cd48cb?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Apr 25 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b2f6f8ad360c0340a8068b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Apr 25 |
-| ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69355354a0dde7020e2f86f2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Apr 25 |
+| **[Sonaca North America](http://www.sonaca-na.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed230d4b0fa35a70783f07?utm_campaign=1054&utm_source=git)** | Auburn, WA | On Site | Apr 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69355354a0dde7020e2f86f2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Apr 25 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | Apr 25 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d06ab9366bb95ba551e2bf?utm_campaign=1054&utm_source=git)** | Northbrook, IL | On Site | Apr 25 |
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69ece24458811370cb140c6d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 25 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/69b48e7006c1ba00c5460e34?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 25 |
 | **[Trench Group](https://trench-group.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d31e2954f00230c6d24ab1?utm_campaign=1054&utm_source=git)** | Pickering, Ontario, Canada | On Site | Apr 25 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52a3306c1ba00c546ec6b?utm_campaign=1054&utm_source=git)** | Moncton, NB | On Site | Apr 25 |
+| ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52c513b74eb1e2c82ceb9?utm_campaign=1054&utm_source=git)** | Chilliwack, BC | On Site | Apr 25 |
 | ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52a3a06c1ba00c546ec88?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 25 |
 | ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52b1256973837413a5779?utm_campaign=1054&utm_source=git)** | Oakville, ON | On Site | Apr 25 |
 | ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52b1256973837413a5776?utm_campaign=1054&utm_source=git)** | Kitchener, ON | On Site | Apr 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[11:11 Systems](https://1111systems.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69eb91440a6e095553047d5c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/69d20f72cdb525785fbb7e37?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 24 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69eb84704b0fa35a7077ba5d?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 24 |
-| **[The Health Management Academy](http://www.hmacademy.com/)** | **[Intern, Leadership Development](https://jobright.ai/jobs/info/69eb2f4f4b0fa35a70778998?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 24 |
-| **[Nerdio](http://www.getnerdio.com)** | **[People Operations & Analytics Intern](https://jobright.ai/jobs/info/69eb6eac0a6e0955530475d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Ephemeris Net](ephemeris.net)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69eb89f758811370cb139ad7?utm_campaign=1054&utm_source=git)** | Oakland, CA | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
