@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship - Salt Lake City](https://jobright.ai/jobs/info/69608694a112b402660f3b59?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/69095c13d046ab6061cd48cb?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Apr 25 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b2f6f8ad360c0340a8068b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Apr 25 |
+| ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69355354a0dde7020e2f86f2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Apr 25 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | Apr 25 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d06ab9366bb95ba551e2bf?utm_campaign=1054&utm_source=git)** | Northbrook, IL | On Site | Apr 25 |
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69ece24458811370cb140c6d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 25 |
@@ -128,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea18444b0fa35a707725bb?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/69095a6d4a1b456627aff9e8?utm_campaign=1054&utm_source=git)** | Stroudsburg, PA | On Site | Apr 24 |
 | **[CORE Electric Cooperative](https://core.coop)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69ceba58cfdc6132f942b8e4?utm_campaign=1054&utm_source=git)** | Sedalia, CO | On Site | Apr 24 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69eb93cd0a6e0955530483f2?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69cfc397cfdc6132f9435980?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 24 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e9bf60badca5763af0799?utm_campaign=1054&utm_source=git)** | Centre Hall, PA | On Site | Apr 24 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/69ce85b3366bb95ba550c53a?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Apr 24 |
