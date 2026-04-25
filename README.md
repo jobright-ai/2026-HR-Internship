@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69ece24458811370cb140c6d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 25 |
+| **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69b45b8c06c1ba00c545b10c?utm_campaign=1054&utm_source=git)** | Lake Orion, MI | On Site | Apr 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69799ea30791bc1d72306884?utm_campaign=1054&utm_source=git)** | Aiken, SC | On Site | Apr 25 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/6909602c4a1b456627affdc2?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Apr 25 |
 | **[Price Industries](https://www.priceindustries.com)** | **[Intern - Human Resources Generalist - Summer 2026](https://jobright.ai/jobs/info/69a3e865359fe034b1ced2a7?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Apr 25 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b478d33b74eb1e2c81cc6b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 25 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR - Total Rewards - Corporate](https://jobright.ai/jobs/info/69d0c99ecfdc6132f943fb7a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Recruiting Operations Intern](https://jobright.ai/jobs/info/69eb56cd58811370cb138de9?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Apr 23 |
 | ↳ | **[Recruiting Operations Intern](https://jobright.ai/jobs/info/69eb52be16b2612c2a11aeb2?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Apr 23 |
 | ↳ | **[Recruiting Operations Intern](https://jobright.ai/jobs/info/69eb56cd58811370cb138dec?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Apr 23 |
-| **[First National Bank Alaska](https://www.fnbalaska.com/)** | **[Intern II - HR/Learning & Development](https://jobright.ai/jobs/info/69eae30c7820c036924f05e3?utm_campaign=1054&utm_source=git)** | Anchorage, AK, US | On Site | Apr 23 |
-| **[Metropolitan Behavioral Health](https://metropolitanbh.com/)** | **[HR STUDENT INTERN (UNPAID)](https://jobright.ai/jobs/info/69eb52f516b2612c2a11af89?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Apr 23 |
-| **[Clarion Psychiatric Center](https://clarioncenter.com/)** | **[Internship / Clinical Rotation Opportunity](https://jobright.ai/jobs/info/69eb523e4b0fa35a7077a788?utm_campaign=1054&utm_source=git)** | Clarion, PA | On Site | Apr 23 |
-| **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[HR Intern (Canada)](https://jobright.ai/jobs/info/69eac92f0a6e095553042be2?utm_campaign=1054&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
