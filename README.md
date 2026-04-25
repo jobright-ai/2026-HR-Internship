@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/69095c13d046ab6061cd48cb?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Apr 25 |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69ed071158811370cb141245?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 25 |
+| **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69b43f8706c1ba00c54574b7?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - Sandy](https://jobright.ai/jobs/info/69b38ecba8ac8e70ff67d06c?utm_campaign=1054&utm_source=git)** | Midvale, UT | On Site | Apr 25 |
+| ↳ | **[Management Trainee Summer Internship - Salt Lake City](https://jobright.ai/jobs/info/69608694a112b402660f3b59?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 25 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/69095c13d046ab6061cd48cb?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Apr 25 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b2f6f8ad360c0340a8068b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Apr 25 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | Apr 25 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d06ab9366bb95ba551e2bf?utm_campaign=1054&utm_source=git)** | Northbrook, IL | On Site | Apr 25 |
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69ece24458811370cb140c6d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 25 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69b45b8c06c1ba00c545b10c?utm_campaign=1054&utm_source=git)** | Lake Orion, MI | On Site | Apr 25 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/69d071c354f00230c6d12168?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69799ea30791bc1d72306884?utm_campaign=1054&utm_source=git)** | Aiken, SC | On Site | Apr 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/6909602c4a1b456627affdc2?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Apr 25 |
 | **[Price Industries](https://www.priceindustries.com)** | **[Intern - Human Resources Generalist - Summer 2026](https://jobright.ai/jobs/info/69a3e865359fe034b1ced2a7?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Apr 25 |
@@ -74,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Trench Group](https://trench-group.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d31e2954f00230c6d24ab1?utm_campaign=1054&utm_source=git)** | Pickering, Ontario, Canada | On Site | Apr 25 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52a3306c1ba00c546ec6b?utm_campaign=1054&utm_source=git)** | Moncton, NB | On Site | Apr 25 |
 | ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52a3a06c1ba00c546ec88?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 25 |
+| ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52b1256973837413a5779?utm_campaign=1054&utm_source=git)** | Oakville, ON | On Site | Apr 25 |
 | ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52b1256973837413a5776?utm_campaign=1054&utm_source=git)** | Kitchener, ON | On Site | Apr 25 |
 | **[Newegg](https://www.newegg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d1e1a7cdb525785fbb5efd?utm_campaign=1054&utm_source=git)** | Diamond Bar, CA | On Site | Apr 25 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Apr 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Health Management Academy](http://www.hmacademy.com/)** | **[Intern, Leadership Development](https://jobright.ai/jobs/info/69eb2f4f4b0fa35a70778998?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 24 |
 | **[Nerdio](http://www.getnerdio.com)** | **[People Operations & Analytics Intern](https://jobright.ai/jobs/info/69eb6eac0a6e0955530475d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Ephemeris Net](ephemeris.net)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69eb89f758811370cb139ad7?utm_campaign=1054&utm_source=git)** | Oakland, CA | Hybrid | Apr 24 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69eb904516b2612c2a11c7f8?utm_campaign=1054&utm_source=git)** | El Segundo, CA | Hybrid | Apr 24 |
-| **[Onvida Health](https://www.onvidahealth.org)** | **[Intern Non-Clinical / Talent Acquisition](https://jobright.ai/jobs/info/69eb6e4858811370cb13953c?utm_campaign=1054&utm_source=git)** | Yuma, AZ | On Site | Apr 24 |
-| **[Drug Enforcement Administration](http://dea.gov)** | **[Human Resources Specialist (Recent Graduate)](https://jobright.ai/jobs/info/69eb6e7a4b0fa35a7077b6ec?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Apr 23 |
-| **[Chatham Financial](https://cf.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/69eb5f600a6e095553046e72?utm_campaign=1054&utm_source=git)** | Kennett Square, PA | On Site | Apr 23 |
-| **[Lade Electric Supply](https://www.ladedanlar.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ebc48a7820c036924f6fc9?utm_campaign=1054&utm_source=git)** | Brea, CA, 92821, United States | On Site | Apr 23 |
-| **[Ion Bank](http://ionbank.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69eb5e3716b2612c2a11b6d0?utm_campaign=1054&utm_source=git)** | Naugatuck, CT | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
