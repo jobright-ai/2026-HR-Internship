@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Taulia](http://www.taulia.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69ec0d1a4b0fa35a7078075a?utm_campaign=1054&utm_source=git)** | Austin, TX, US, 78757 | On Site | Apr 24 |
+| **[Indium Corporation](http://www.indium.com/)** | **[Human Resource Organizational Development Intern](https://jobright.ai/jobs/info/69ec031958811370cb13e2b5?utm_campaign=1054&utm_source=git)** | New Hartford, NY | On Site | Apr 24 |
 | **[Alimentiv](https://alimentiv.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69ebfdfc4b0fa35a707801a5?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | Hybrid | Apr 24 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Exam Development Unit, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69ebfc74dc35f7132c4b4cb3?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Apr 24 |
 | **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (HR)](https://jobright.ai/jobs/info/69ebfc597820c036924f8650?utm_campaign=1054&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[HR Intern](https://jobright.ai/jobs/info/69ea91983aa0c479643b0ad6?utm_campaign=1054&utm_source=git)** | Carthage, MO, UNITED STATES | On Site | Apr 23 |
 | **[Ion Bank](http://ionbank.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69ea918c4b0fa35a70775129?utm_campaign=1054&utm_source=git)** | Naugatuck, Connecticut, United States | On Site | Apr 23 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Director of Recruitment and Student Success](https://jobright.ai/jobs/info/69eb255358811370cb136b86?utm_campaign=1054&utm_source=git)** | Moscow, ID | On Site | Apr 23 |
-| **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/69eb0b9516b2612c2a1186e6?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Apr 23 |
-| **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Talent and Development Internship](https://jobright.ai/jobs/info/69eb2f0c0a6e095553044b3b?utm_campaign=1054&utm_source=git)** | Sissonville, WV | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
