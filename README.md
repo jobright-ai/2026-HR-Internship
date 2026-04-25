@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ec822558811370cb140167?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Apr 24 |
 | **[Equinix](http://www.equinix.com)** | **[Project Coordination Intern, Global New Hire Onboarding](https://jobright.ai/jobs/info/69ec48dbdc35f7132c4b666a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[Workiva](http://www.workiva.com)** | **[Intern - People Operations](https://jobright.ai/jobs/info/69ec38317820c036924fa057?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
@@ -106,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea18444b0fa35a707725bb?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/69095a6d4a1b456627aff9e8?utm_campaign=1054&utm_source=git)** | Stroudsburg, PA | On Site | Apr 24 |
 | **[CORE Electric Cooperative](https://core.coop)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69ceba58cfdc6132f942b8e4?utm_campaign=1054&utm_source=git)** | Sedalia, CO | On Site | Apr 24 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69eb93cd0a6e0955530483f2?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69cfc397cfdc6132f9435980?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 24 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e9bf60badca5763af0799?utm_campaign=1054&utm_source=git)** | Centre Hall, PA | On Site | Apr 24 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/69ce85b3366bb95ba550c53a?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Apr 24 |
