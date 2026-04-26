@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69ed7cac7820c036924fcb92?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Intern](https://jobright.ai/jobs/info/69ed418858811370cb1415ec?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Apr 25 |
 | **[Miba Sinter USA](https://www.miba.com/en/product-areas/sintered-components/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed407d7820c036924fc6dc?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Apr 25 |
 | **[TONY, LLC](https://www.linkedin.com/company/107227751)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed41cc4b0fa35a70784261?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 25 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Trench Group](https://trench-group.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d31e2954f00230c6d24ab1?utm_campaign=1054&utm_source=git)** | Pickering, Ontario, Canada | On Site | Apr 25 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52a3306c1ba00c546ec6b?utm_campaign=1054&utm_source=git)** | Moncton, NB | On Site | Apr 25 |
 | ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52c513b74eb1e2c82ceb9?utm_campaign=1054&utm_source=git)** | Chilliwack, BC | On Site | Apr 25 |
+| ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52b1256973837413a5777?utm_campaign=1054&utm_source=git)** | Victoria, BC | On Site | Apr 25 |
 | ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52a3a06c1ba00c546ec88?utm_campaign=1054&utm_source=git)** | Vancouver, BC | On Site | Apr 25 |
 | ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52b1256973837413a5779?utm_campaign=1054&utm_source=git)** | Oakville, ON | On Site | Apr 25 |
 | ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52b1256973837413a5776?utm_campaign=1054&utm_source=git)** | Kitchener, ON | On Site | Apr 25 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[M.C. Dean, Inc.](http://mcdean.com)** | **[Human Resource Intern - Tysons, VA](https://jobright.ai/jobs/info/69ec1e9716b2612c2a12130b?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Apr 24 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Business Operations Intern (Rotational Program – HR, Finance & Data)](https://jobright.ai/jobs/info/69ec11a7dc35f7132c4b5643?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69ec2e364b0fa35a70781293?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Apr 24 |
-| **[Eden Housing, Inc.](http://www.edenhousing.org)** | **[Summer Intern Human Resources - Central Office, Hayward](https://jobright.ai/jobs/info/69ed6c807820c036924fca3d?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Apr 24 |
 | **[Taulia](http://www.taulia.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69ec0d1a4b0fa35a7078075a?utm_campaign=1054&utm_source=git)** | Austin, TX, US, 78757 | On Site | Apr 24 |
 | **[LCEC](https://www.lcec.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ec26920a6e09555304cdc7?utm_campaign=1054&utm_source=git)** | North Fort Myers, FL | On Site | Apr 24 |
 | **[Indium Corporation](http://www.indium.com/)** | **[Human Resource Organizational Development Intern](https://jobright.ai/jobs/info/69ec031958811370cb13e2b5?utm_campaign=1054&utm_source=git)** | New Hartford, NY | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Career and Financial Coaching Intern](https://jobright.ai/jobs/info/69e848da7820c036924dba4a?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Apr 24 |
 | **[Upstream USA](https://upstream.org)** | **[Human Resources (People & Culture)  Intern - Hybrid: Remote in Boston area with 2 days in office](https://jobright.ai/jobs/info/69eb6e3e7820c036924f3c3a?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 24 |
 | **[SurveyMonkey](https://surveymonkey.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69cf04ec891d7b11cfccf505?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Apr 24 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Talent Acquisition Coordinator & Special Projects Intern](https://jobright.ai/jobs/info/69eb90d0dc35f7132c4b1170?utm_campaign=1054&utm_source=git)** | Daytona Beach, FL | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
