@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/699aad62e0bddb6acac9cbd3?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Apr 26 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69edd97b16b2612c2a125532?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
 | **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed965716b2612c2a124a93?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Apr 25 |
-| **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69ed7cac7820c036924fcb92?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Intern](https://jobright.ai/jobs/info/69ed418858811370cb1415ec?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Apr 25 |
 | **[Miba Sinter USA](https://www.miba.com/en/product-areas/sintered-components/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed407d7820c036924fc6dc?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Apr 25 |
 | **[TONY, LLC](https://www.linkedin.com/company/107227751)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed41cc4b0fa35a70784261?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 25 |
