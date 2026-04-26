@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Miami Lakes](https://jobright.ai/jobs/info/697d35ab3f57a33569670392?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Apr 26 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/6960c0e3a112b402660f6291?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 26 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/699aad62e0bddb6acac9cbd3?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Apr 26 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69edd97b16b2612c2a125532?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
 | **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed965716b2612c2a124a93?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/69d3196c0b098b7a6708bd11?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 24 |
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ece33616b2612c2a123a23?utm_campaign=1054&utm_source=git)** | Churchville, NY, US | On Site | Apr 24 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Human Capital Internship](https://jobright.ai/jobs/info/69ed4de1dc35f7132c4b84c3?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Apr 24 |
-| **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Benefits and Total Rewards Intern](https://jobright.ai/jobs/info/69eba2000a6e095553049275?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
-| **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea41814b0fa35a70773030?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
