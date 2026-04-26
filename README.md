@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69edd97b16b2612c2a125532?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
 | **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed965716b2612c2a124a93?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Apr 25 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69ed7cac7820c036924fcb92?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Intern](https://jobright.ai/jobs/info/69ed418858811370cb1415ec?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ece33616b2612c2a123a23?utm_campaign=1054&utm_source=git)** | Churchville, NY, US | On Site | Apr 24 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Human Capital Internship](https://jobright.ai/jobs/info/69ed4de1dc35f7132c4b84c3?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Apr 24 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Benefits and Total Rewards Intern](https://jobright.ai/jobs/info/69eba2000a6e095553049275?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
-| **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea41814b0fa35a70773030?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
