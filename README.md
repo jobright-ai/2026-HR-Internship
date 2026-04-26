@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed965716b2612c2a124a93?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Apr 25 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69ed7cac7820c036924fcb92?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Intern](https://jobright.ai/jobs/info/69ed418858811370cb1415ec?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Apr 25 |
 | **[Miba Sinter USA](https://www.miba.com/en/product-areas/sintered-components/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ed407d7820c036924fc6dc?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Apr 25 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b478d33b74eb1e2c81cc6b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 25 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR - Total Rewards - Corporate](https://jobright.ai/jobs/info/69d0c99ecfdc6132f943fb7a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 25 |
 | **[ID Logistics US](https://www.id-logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d0f330cfdc6132f9440d3e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
+| ↳ | **[HR Intern, Learning & Development](https://jobright.ai/jobs/info/69ed972458811370cb142007?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Apr 25 |
 | **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/69b48e7006c1ba00c5460e34?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 25 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69c886ea1b5ad02887393cd8?utm_campaign=1054&utm_source=git)** | London, CA | On Site | Apr 25 |
 | **[Trench Group](https://trench-group.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d31e2954f00230c6d24ab1?utm_campaign=1054&utm_source=git)** | Pickering, Ontario, Canada | On Site | Apr 25 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Newegg](https://www.newegg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d1e1a7cdb525785fbb5efd?utm_campaign=1054&utm_source=git)** | Diamond Bar, CA | On Site | Apr 25 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Apr 24 |
 | **[Equinix](http://www.equinix.com)** | **[Project Coordination Intern, Global New Hire Onboarding](https://jobright.ai/jobs/info/69ec48dbdc35f7132c4b666a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
-| **[Workiva](http://www.workiva.com)** | **[Intern - People Operations](https://jobright.ai/jobs/info/69ec38317820c036924fa057?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Benefit Coordinator Intern](https://jobright.ai/jobs/info/69ec32e1dc35f7132c4b6144?utm_campaign=1054&utm_source=git)** | Southfield, MI | Hybrid | Apr 24 |
 | **[Equinix](http://www.equinix.com)** | **[Talent Intelligence & Insights Intern](https://jobright.ai/jobs/info/69ec51ed58811370cb13f8da?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69ec2de0dc35f7132c4b5fdd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea41814b0fa35a70773030?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Career and Financial Coaching Intern](https://jobright.ai/jobs/info/69e848da7820c036924dba4a?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Apr 24 |
 | **[Upstream USA](https://upstream.org)** | **[Human Resources (People & Culture)  Intern - Hybrid: Remote in Boston area with 2 days in office](https://jobright.ai/jobs/info/69eb6e3e7820c036924f3c3a?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Apr 24 |
-| **[SurveyMonkey](https://surveymonkey.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69cf04ec891d7b11cfccf505?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
