@@ -119,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69ebfbef4b0fa35a7077fd02?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Apr 24 |
 | **[Activate](https://www.activate.org/)** | **[Fellowship Recruitment Intern, Brand](https://jobright.ai/jobs/info/69ebef34dc35f7132c4b46a2?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[HR & Accounting Records Support Assistant (Undergraduate intern – Summer Position)(ETS)/ Temporary](https://jobright.ai/jobs/info/69ebd4344b0fa35a7077eefe?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 24 |
-| **[Rutgers University](http://www.rutgers.edu)** | **[Finance & HR Intern](https://jobright.ai/jobs/info/69ebfbba0a6e09555304b88b?utm_campaign=1054&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Benefit Coordinator Intern](https://jobright.ai/jobs/info/69ebd2db58811370cb13cffa?utm_campaign=1054&utm_source=git)** | Southfield, Michigan USA, US | Hybrid | Apr 24 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ebfd7c4b0fa35a70780030?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Apr 24 |
 | **[Jabil](https://www.jabil.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ebc7b97820c036924f741b?utm_campaign=1054&utm_source=git)** | Monument, CO, US | On Site | Apr 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ece33616b2612c2a123a23?utm_campaign=1054&utm_source=git)** | Churchville, NY, US | On Site | Apr 24 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Human Capital Internship](https://jobright.ai/jobs/info/69ed4de1dc35f7132c4b84c3?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Apr 24 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Benefits and Total Rewards Intern](https://jobright.ai/jobs/info/69eba2000a6e095553049275?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
+| **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea41814b0fa35a70773030?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
