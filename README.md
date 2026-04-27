@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Massachusetts LGBT Chamber of Commerce, Inc.](https://malgbtcc.org)** | **[Culture and Belonging Internship](https://jobright.ai/jobs/info/69eeb7f97820c036924ff3b2?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Apr 26 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Internship - 100% Remote](https://jobright.ai/jobs/info/69ee90ec0a6e095553052593?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Apr 26 |
 | **[Equinix](http://www.equinix.com)** | **[HR Tranformation Intern](https://jobright.ai/jobs/info/69ee89f358811370cb143f94?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 26 |
 | **[Texas A&M AgriLife Research](https://agriliferesearch.tamu.edu/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ee79690a6e09555305233a?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Apr 26 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/69d071c354f00230c6d12168?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69799ea30791bc1d72306884?utm_campaign=1054&utm_source=git)** | Aiken, SC | On Site | Apr 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/6909602c4a1b456627affdc2?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Apr 25 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ecf5267820c036924fc1b8?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | **[Price Industries](https://www.priceindustries.com)** | **[Intern - Human Resources Generalist - Summer 2026](https://jobright.ai/jobs/info/69a3e865359fe034b1ced2a7?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933f7a7764507023d1baf1e?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Apr 25 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b478d33b74eb1e2c81cc6b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 25 |
