@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OpenTable](http://opentable.com)** | **[People Operations Intern (Hybrid, Toronto)](https://jobright.ai/jobs/info/69ef756958811370cb146742?utm_campaign=1054&utm_source=git)** | Toronto, ON. | Hybrid | Apr 27 |
+| **[The Scion Group](http://thesciongroup.com)** | **[HR Summer Intern 2026](https://jobright.ai/jobs/info/69ef75310a6e09555305504d?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | Apr 27 |
+| **[Pyrotek](https://www.pyrotek.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69ef750d4b0fa35a707897bf?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Apr 27 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics and Systems](https://jobright.ai/jobs/info/69ef74adfbe0994a40eb63f1?utm_campaign=1054&utm_source=git)** | Columbia, MO (Headquarters) | Remote | Apr 27 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Case Management Intern FR](https://jobright.ai/jobs/info/69ef6532fbe0994a40eb5e9f?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Apr 27 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Human Resources Data Analyst Intern](https://jobright.ai/jobs/info/69ef5674e624fe645d530a5c?utm_campaign=1054&utm_source=git)** | Newark, DE, US | Hybrid | Apr 27 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Apr 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JDC (The Joint)](http://www.jdc.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ebc70c0a6e09555304a6b8?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Apr 24 |
 | **[Ferrovial Construction](https://www.ferrovial.com/en/f-agroman/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69ebde0058811370cb13d406?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 24 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69ebddf116b2612c2a11f644?utm_campaign=1054&utm_source=git)** | Norman, OK | On Site | Apr 24 |
-| **[Ferrovial Construction](https://www.ferrovial.com/en/f-agroman/)** | **[HR Immigration + Compliance Intern](https://jobright.ai/jobs/info/69ebddf016b2612c2a11f63c?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 24 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern (Human Resources)](https://jobright.ai/jobs/info/69ebb862dc35f7132c4b2be1?utm_campaign=1054&utm_source=git)** | Lawrence, MA | On Site | Apr 24 |
-| ↳ | **[Intern (Human Resources)](https://jobright.ai/jobs/info/69ebb84916b2612c2a11e23e?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Apr 24 |
-| **[POM Wonderful](http://www.pomwonderful.com)** | **[Wonderful Scholar Summer Internship, Human Resources](https://jobright.ai/jobs/info/69cf20f6398fb071abf8c701?utm_campaign=1054&utm_source=git)** | Del Rey, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
