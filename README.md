@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sallie Mae](https://www.salliemae.com)** | **[Human Resources Data Analyst Intern](https://jobright.ai/jobs/info/69ef5674e624fe645d530a5c?utm_campaign=1054&utm_source=git)** | Newark, DE, US | Hybrid | Apr 27 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Apr 27 |
+| **[JPS Composite Materials](https://jpscm.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef4d9de624fe645d530619?utm_campaign=1054&utm_source=git)** | Miami, FL, 33137, United States | On Site | Apr 27 |
+| ↳ | **[HRIS Intern](https://jobright.ai/jobs/info/69ef4d9858811370cb14579c?utm_campaign=1054&utm_source=git)** | New York, NY, 10022, United States | Hybrid | Apr 27 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69ef4ceffbe0994a40eb559d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 27 |
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/69ef41a116b2612c2a128517?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 27 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ef31f758811370cb145260?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern (Human Resources)](https://jobright.ai/jobs/info/69ebb862dc35f7132c4b2be1?utm_campaign=1054&utm_source=git)** | Lawrence, MA | On Site | Apr 24 |
 | ↳ | **[Intern (Human Resources)](https://jobright.ai/jobs/info/69ebb84916b2612c2a11e23e?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Apr 24 |
 | **[POM Wonderful](http://www.pomwonderful.com)** | **[Wonderful Scholar Summer Internship, Human Resources](https://jobright.ai/jobs/info/69cf20f6398fb071abf8c701?utm_campaign=1054&utm_source=git)** | Del Rey, CA | On Site | Apr 24 |
-| **[Casey House](https://caseyhouse.ca)** | **[Human Resources Summer Student](https://jobright.ai/jobs/info/69ebb63d0a6e095553049a12?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 24 |
-| **[First American](http://www.firstam.com)** | **[Human Resources Intern (Hybrid)](https://jobright.ai/jobs/info/69ebaf5c58811370cb13bd5a?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 24 |
-| **[Intelas](intelashealth.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ebab8b0a6e0955530497fb?utm_campaign=1054&utm_source=git)** | NORMAN, OK, US | On Site | Apr 24 |
-| **[Blitt & Gaines Law Offices](https://blittandgaines.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ebab160a6e095553049733?utm_campaign=1054&utm_source=git)** | Vernon Hills,IL,US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
