@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Benefits Intern (Year-Round)](https://jobright.ai/jobs/info/69efc6bc58811370cb1488e5?utm_campaign=1054&utm_source=git)** | Auburn Hills WHQ - USA, US | On Site | Apr 27 |
+| **[Omnicom](http://www.omnicomgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69efc656fbe0994a40eb8795?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Apr 27 |
 | **[Riverside Health](http://www.riversideonline.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69efbb814b0fa35a7078b90d?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Apr 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69efbb5716b2612c2a12b784?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 27 |
 | **[Grace Hill](http://www.gracehill.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/69efaf7b0a6e09555305671f?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/69efada94b0fa35a7078aee9?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Apr 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 27 |
 | **[Omnicom](http://www.omnicomgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69efa851e624fe645d5327c4?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Apr 27 |
+| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69efc63b58811370cb148838?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 27 |
 | **[OPmobility](https://www.opmobility.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef95d2fbe0994a40eb7208?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 27 |
 | **[The Scion Group](http://thesciongroup.com)** | **[HR Summer Intern 2026](https://jobright.ai/jobs/info/69efb7c558811370cb147eb2?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 | **[Centella](http://www.med-lab.com/)** | **[Talent and Culture Intern](https://jobright.ai/jobs/info/69ef907d4b0fa35a7078a3ae?utm_campaign=1054&utm_source=git)** | Miami, FL 33126 | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69ec2e364b0fa35a70781293?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Apr 24 |
 | **[Taulia](http://www.taulia.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69ec0d1a4b0fa35a7078075a?utm_campaign=1054&utm_source=git)** | Austin, TX, US, 78757 | On Site | Apr 24 |
 | **[LCEC](https://www.lcec.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ec26920a6e09555304cdc7?utm_campaign=1054&utm_source=git)** | North Fort Myers, FL | On Site | Apr 24 |
-| **[Indium Corporation](http://www.indium.com/)** | **[Human Resource Organizational Development Intern](https://jobright.ai/jobs/info/69ec031958811370cb13e2b5?utm_campaign=1054&utm_source=git)** | New Hartford, NY | On Site | Apr 24 |
-| **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (HR)](https://jobright.ai/jobs/info/69ebfc597820c036924f8650?utm_campaign=1054&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 24 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69ebfc520a6e09555304bc04?utm_campaign=1054&utm_source=git)** | Bellevue, WA, US, 98004 | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
