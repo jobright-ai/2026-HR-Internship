@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 27 |
+| **[Omnicom](http://www.omnicomgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69efa851e624fe645d5327c4?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Apr 27 |
 | **[OPmobility](https://www.opmobility.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef95d2fbe0994a40eb7208?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 27 |
-| **[Barrett Industries](https://barrettindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ef921916b2612c2a12a4c0?utm_campaign=1054&utm_source=git)** | Franklin, OH | On Site | Apr 27 |
 | **[Centella](http://www.med-lab.com/)** | **[Talent and Culture Intern](https://jobright.ai/jobs/info/69ef907d4b0fa35a7078a3ae?utm_campaign=1054&utm_source=git)** | Miami, FL 33126 | On Site | Apr 27 |
 | **[The Will Group](https://thewillgroup.com)** | **[HR and Organizational Development Intern](https://jobright.ai/jobs/info/69ef8e460a6e095553055b37?utm_campaign=1054&utm_source=git)** | Wheaton, IL | On Site | Apr 27 |
 | **[11:11 Systems](https://1111systems.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ef8e460a6e095553055b36?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69ebfc520a6e09555304bc04?utm_campaign=1054&utm_source=git)** | Bellevue, WA, US, 98004 | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69ebfbef4b0fa35a7077fd02?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Apr 24 |
 | **[Activate](https://www.activate.org/)** | **[Fellowship Recruitment Intern, Brand](https://jobright.ai/jobs/info/69ebef34dc35f7132c4b46a2?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[HR & Accounting Records Support Assistant (Undergraduate intern – Summer Position)(ETS)/ Temporary](https://jobright.ai/jobs/info/69ebd4344b0fa35a7077eefe?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
