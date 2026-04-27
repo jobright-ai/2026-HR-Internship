@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Case Management Intern FR](https://jobright.ai/jobs/info/69ef6532fbe0994a40eb5e9f?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Apr 27 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Human Resources Data Analyst Intern](https://jobright.ai/jobs/info/69ef5674e624fe645d530a5c?utm_campaign=1054&utm_source=git)** | Newark, DE, US | Hybrid | Apr 27 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef4d9de624fe645d530619?utm_campaign=1054&utm_source=git)** | Miami, FL, 33137, United States | On Site | Apr 27 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/697c8bdf137a051025658c24?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 26 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69340c1ca0dde7020e2f3e8b?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Apr 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d39093f57a33569670778?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Apr 26 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ee2c1d58811370cb14382c?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
 | **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69ee44a77820c036924fe630?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Miami Lakes](https://jobright.ai/jobs/info/697d35ab3f57a33569670392?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Apr 26 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/6960c0e3a112b402660f6291?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 26 |
