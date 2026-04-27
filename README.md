@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virginia Economic Development Partnership](https://www.vedp.org)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/69eed9e04b0fa35a7078787c?utm_campaign=1054&utm_source=git)** | Southern, VA | Hybrid | Apr 26 |
 | **[Massachusetts LGBT Chamber of Commerce, Inc.](https://malgbtcc.org)** | **[Culture and Belonging Internship](https://jobright.ai/jobs/info/69eeb7f97820c036924ff3b2?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Apr 26 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Internship - 100% Remote](https://jobright.ai/jobs/info/69ee90ec0a6e095553052593?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Apr 26 |
 | **[Equinix](http://www.equinix.com)** | **[HR Tranformation Intern](https://jobright.ai/jobs/info/69ee89f358811370cb143f94?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b38ec5ad360c0340a8b20c?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 24 |
 | ↳ | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b391c2ae2a534885eafb18?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 24 |
 | **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ea18444b0fa35a707725bb?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Apr 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/69095a6d4a1b456627aff9e8?utm_campaign=1054&utm_source=git)** | Stroudsburg, PA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
