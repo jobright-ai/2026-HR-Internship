@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69ef4ceffbe0994a40eb559d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 27 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/69ef41a116b2612c2a128517?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 27 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ef31f758811370cb145260?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 27 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69ef231a16b2612c2a12827c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Alimentiv](https://alimentiv.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69ebfdfc4b0fa35a707801a5?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | Hybrid | Apr 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Human Resources Intern (Hybrid)](https://jobright.ai/jobs/info/69ebaf5c58811370cb13bd5a?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 24 |
 | **[Intelas](intelashealth.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ebab8b0a6e0955530497fb?utm_campaign=1054&utm_source=git)** | NORMAN, OK, US | On Site | Apr 24 |
 | **[Blitt & Gaines Law Offices](https://blittandgaines.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ebab160a6e095553049733?utm_campaign=1054&utm_source=git)** | Vernon Hills,IL,US | On Site | Apr 24 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69ebaaf758811370cb13bba2?utm_campaign=1054&utm_source=git)** | Naperville,IL,US | On Site | Apr 24 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern (Human Resources)](https://jobright.ai/jobs/info/69eba8137820c036924f5ec4?utm_campaign=1054&utm_source=git)** | MA - Lawrence, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
