@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69ef231a16b2612c2a12827c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Alimentiv](https://alimentiv.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69ebfdfc4b0fa35a707801a5?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | Hybrid | Apr 26 |
 | **[Virginia Economic Development Partnership](https://www.vedp.org)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/69eed9e04b0fa35a7078787c?utm_campaign=1054&utm_source=git)** | Southern, VA | Hybrid | Apr 26 |
 | **[Massachusetts LGBT Chamber of Commerce, Inc.](https://malgbtcc.org)** | **[Culture and Belonging Internship](https://jobright.ai/jobs/info/69eeb7f97820c036924ff3b2?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69ebaaf758811370cb13bba2?utm_campaign=1054&utm_source=git)** | Naperville,IL,US | On Site | Apr 24 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern (Human Resources)](https://jobright.ai/jobs/info/69eba8137820c036924f5ec4?utm_campaign=1054&utm_source=git)** | MA - Lawrence, US | On Site | Apr 24 |
 | ↳ | **[Intern (Human Resources)](https://jobright.ai/jobs/info/69eba7b24b0fa35a7077d855?utm_campaign=1054&utm_source=git)** | MA - Lowell, US | On Site | Apr 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b38ec5ad360c0340a8b20c?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
