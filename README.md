@@ -57,15 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grace Hill](http://www.gracehill.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/69efd5c94b0fa35a7078bee6?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
+| **[Merz Aesthetics](http://www.merzusa.com)** | **[Summer Intern - Employee Experience](https://jobright.ai/jobs/info/69efd5784b0fa35a7078be6d?utm_campaign=1054&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | Apr 27 |
+| ↳ | **[Summer Intern - Employee Experience](https://jobright.ai/jobs/info/69efd5674b0fa35a7078be3d?utm_campaign=1054&utm_source=git)** | Raleigh, NC, USA | Hybrid | Apr 27 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Benefits Intern (Year-Round)](https://jobright.ai/jobs/info/69efc6bc58811370cb1488e5?utm_campaign=1054&utm_source=git)** | Auburn Hills WHQ - USA, US | On Site | Apr 27 |
 | **[Omnicom](http://www.omnicomgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69efc656fbe0994a40eb8795?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Apr 27 |
 | **[Riverside Health](http://www.riversideonline.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69efbb814b0fa35a7078b90d?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Apr 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69efbb5716b2612c2a12b784?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 27 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/69efd63f16b2612c2a12be24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 27 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[HR & Accounting Records Support Assistant (Undergraduate intern – Summer Position)(ETS)/ Temporary](https://jobright.ai/jobs/info/69ec2720dc35f7132c4b5e76?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 27 |
 | **[Grace Hill](http://www.gracehill.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/69efaf7b0a6e09555305671f?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/69efada94b0fa35a7078aee9?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Apr 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961ba18e7ed9a5731ba8e2f?utm_campaign=1054&utm_source=git)** | Broomfield, CO | On Site | Apr 27 |
 | **[Omnicom](http://www.omnicomgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69efa851e624fe645d5327c4?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Apr 27 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69efc63b58811370cb148838?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 27 |
+| **[Tech Etch](https://www.techetch.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/69efd4e758811370cb148aa4?utm_campaign=1054&utm_source=git)** | Plymouth, MA | On Site | Apr 27 |
 | **[OPmobility](https://www.opmobility.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef95d2fbe0994a40eb7208?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Apr 27 |
 | **[The Scion Group](http://thesciongroup.com)** | **[HR Summer Intern 2026](https://jobright.ai/jobs/info/69efb7c558811370cb147eb2?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 | **[Centella](http://www.med-lab.com/)** | **[Talent and Culture Intern](https://jobright.ai/jobs/info/69ef907d4b0fa35a7078a3ae?utm_campaign=1054&utm_source=git)** | Miami, FL 33126 | On Site | Apr 27 |
@@ -122,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | Apr 25 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Resources Intern](https://jobright.ai/jobs/info/69d06ab9366bb95ba551e2bf?utm_campaign=1054&utm_source=git)** | Northbrook, IL | On Site | Apr 25 |
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69ece24458811370cb140c6d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 25 |
-| **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69b45b8c06c1ba00c545b10c?utm_campaign=1054&utm_source=git)** | Lake Orion, MI | On Site | Apr 25 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/69d071c354f00230c6d12168?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69799ea30791bc1d72306884?utm_campaign=1054&utm_source=git)** | Aiken, SC | On Site | Apr 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/6909602c4a1b456627affdc2?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Apr 25 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Benefit Coordinator Intern](https://jobright.ai/jobs/info/69ec32e1dc35f7132c4b6144?utm_campaign=1054&utm_source=git)** | Southfield, MI | Hybrid | Apr 24 |
 | **[Equinix](http://www.equinix.com)** | **[Talent Intelligence & Insights Intern](https://jobright.ai/jobs/info/69ec51ed58811370cb13f8da?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69ec2de0dc35f7132c4b5fdd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Apr 24 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[HR & Accounting Records Support Assistant (Undergraduate intern – Summer Position)(ETS)/ Temporary](https://jobright.ai/jobs/info/69ec2720dc35f7132c4b5e76?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69ec270f7820c036924f9842?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
 | **[SAP Taulia](https://taulia.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/69ec1f8c58811370cb13ef89?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 24 |
 | **[M.C. Dean, Inc.](http://mcdean.com)** | **[Human Resource Intern - Tysons, VA](https://jobright.ai/jobs/info/69ec1e9716b2612c2a12130b?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Apr 24 |
-| **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Business Operations Intern (Rotational Program – HR, Finance & Data)](https://jobright.ai/jobs/info/69ec11a7dc35f7132c4b5643?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
-| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69ec2e364b0fa35a70781293?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Apr 24 |
-| **[Taulia](http://www.taulia.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69ec0d1a4b0fa35a7078075a?utm_campaign=1054&utm_source=git)** | Austin, TX, US, 78757 | On Site | Apr 24 |
-| **[LCEC](https://www.lcec.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ec26920a6e09555304cdc7?utm_campaign=1054&utm_source=git)** | North Fort Myers, FL | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
