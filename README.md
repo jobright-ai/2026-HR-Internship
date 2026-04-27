@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ef31f758811370cb145260?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 27 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69ef231a16b2612c2a12827c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Alimentiv](https://alimentiv.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69ebfdfc4b0fa35a707801a5?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | Hybrid | Apr 26 |
 | **[Virginia Economic Development Partnership](https://www.vedp.org)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/69eed9e04b0fa35a7078787c?utm_campaign=1054&utm_source=git)** | Southern, VA | Hybrid | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blitt & Gaines Law Offices](https://blittandgaines.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69ebab160a6e095553049733?utm_campaign=1054&utm_source=git)** | Vernon Hills,IL,US | On Site | Apr 24 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/69ebaaf758811370cb13bba2?utm_campaign=1054&utm_source=git)** | Naperville,IL,US | On Site | Apr 24 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern (Human Resources)](https://jobright.ai/jobs/info/69eba8137820c036924f5ec4?utm_campaign=1054&utm_source=git)** | MA - Lawrence, US | On Site | Apr 24 |
-| ↳ | **[Intern (Human Resources)](https://jobright.ai/jobs/info/69eba7b24b0fa35a7077d855?utm_campaign=1054&utm_source=git)** | MA - Lowell, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
