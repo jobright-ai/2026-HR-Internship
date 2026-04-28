@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[The Will Group](https://thewillgroup.com)** | **[HR and Organizational Development Intern](https://jobright.ai/jobs/info/69ef8e460a6e095553055b37?utm_campaign=1054&utm_source=git)** | Wheaton, IL | On Site | Apr 27 |
 | **[11:11 Systems](https://1111systems.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ef8e460a6e095553055b36?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics and Systems](https://jobright.ai/jobs/info/69ef85ec0a6e0955530559d3?utm_campaign=1054&utm_source=git)** | Columbia, MO | Hybrid | Apr 27 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ef7d980a6e09555305522a?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 27 |
 | **[Troutman Pepper](https://www.troutman.com/)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69ef7c8ee624fe645d531672?utm_campaign=1054&utm_source=git)** | Atlanta, US | On Site | Apr 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6961bc83a112b40266104d5f?utm_campaign=1054&utm_source=git)** | Chino, CA | On Site | Apr 27 |
 | **[OpenTable](http://opentable.com)** | **[People Operations Intern (Hybrid, Toronto)](https://jobright.ai/jobs/info/69ef756958811370cb146742?utm_campaign=1054&utm_source=git)** | Toronto, ON. | Hybrid | Apr 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[HR Intern – CI Talent & Internship Program Support Summer 2026](https://jobright.ai/jobs/info/69d06226cfdc6132f943ac96?utm_campaign=1054&utm_source=git)** | Cullman, AL | On Site | Apr 25 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69b43f8706c1ba00c54574b7?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - Sandy](https://jobright.ai/jobs/info/69b38ecba8ac8e70ff67d06c?utm_campaign=1054&utm_source=git)** | Midvale, UT | On Site | Apr 25 |
+| ↳ | **[Management Trainee Summer Internship - Salt Lake City](https://jobright.ai/jobs/info/69608694a112b402660f3b59?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
