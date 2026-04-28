@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/69f02b7d8feca91f1491a26a?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Apr 27 |
 | **[ITS Logistics](http://its4logistics.com)** | **[Recruiting Associate (Internship) - Fort Worth](https://jobright.ai/jobs/info/69d95f9d738f2f099e8a18b6?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 27 |
 | **[Canada Packers Inc.](https://www.canadapackers.com/)** | **[HR Coordinator (Contract)](https://jobright.ai/jobs/info/69f01deb8feca91f14919a55?utm_campaign=1054&utm_source=git)** | Brandon, Manitoba, Canada | On Site | Apr 27 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Human Resources Internship](https://jobright.ai/jobs/info/69f01308d4710347188c5f25?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Price Industries](https://www.priceindustries.com)** | **[Intern - Human Resources Generalist - Summer 2026](https://jobright.ai/jobs/info/69a3e865359fe034b1ced2a7?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | Apr 25 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52c513b74eb1e2c82cebb?utm_campaign=1054&utm_source=git)** | Halifax, NS | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933f7a7764507023d1baf1e?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Apr 25 |
-| **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b478d33b74eb1e2c81cc6b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
