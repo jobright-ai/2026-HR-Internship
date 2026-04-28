@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carlex Glass America, LLC](https://carlex.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69f107fc8feca91f1491e0ec?utm_campaign=1054&utm_source=git)** | Vonore, TN | On Site | Apr 28 |
+| **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69f10359ecbc8c2f73203231?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, US | On Site | Apr 28 |
+| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Apr 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0fc3762b48c6838792f81?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[Bradford White](https://bradfordwhite.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f0fbc0825a315d7ca3560a?utm_campaign=1054&utm_source=git)** | Middleville, MI | On Site | Apr 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0fbab8feca91f1491dc1c?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Apr 28 |
@@ -72,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: People & Culture (Fall 2026)](https://jobright.ai/jobs/info/69f0ee648feca91f1491d7f1?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Apr 28 |
 | **[Alliance Technical Group](https://alliancetg.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f0ee1e62b48c6838792a01?utm_campaign=1054&utm_source=git)** | Decatur, Alabama, United States | On Site | Apr 28 |
 | **[EDSA, Inc.](http://www.edsaplan.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/69a9c2121f59c56275e27978?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
+| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f1035762b48c68387930f1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69bb882c06c1ba00c54e004a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[PROJXON](www.projxon.com)** | **[Lead Recruiter (Intern)](https://jobright.ai/jobs/info/69f0d5bcecbc8c2f73202284?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Talent Intern](https://jobright.ai/jobs/info/69f0d012b27fee43e8cd59a1?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
@@ -116,7 +120,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/69efee190a6e0955530585fb?utm_campaign=1054&utm_source=git)** | Mebane,NC,US | On Site | Apr 27 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Human Resources Internship](https://jobright.ai/jobs/info/69efedfde624fe645d534525?utm_campaign=1054&utm_source=git)** | Remote, United States | Remote | Apr 27 |
 | **[Valence Surface Technologies](http://www.ValenceST.com)** | **[Human Resources Technologist- Summer Internship](https://jobright.ai/jobs/info/69efedc9e624fe645d5343cd?utm_campaign=1054&utm_source=git)** | Lynwood, California, United States | On Site | Apr 27 |
-| **[New Brunswick Counseling & Burlington Counseling Center](http://www.nbcounselingcenter.org/)** | **[Case Management Intern (RSSI)](https://jobright.ai/jobs/info/69efe8aa58811370cb149a54?utm_campaign=1054&utm_source=git)** | New Brunswick, New Jersey, United States | On Site | Apr 27 |
 | **[Supreme Court of Ohio](http://supremecourt.ohio.gov)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/69efe8260a6e09555305827e?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Apr 27 |
 | **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69efe30c58811370cb149251?utm_campaign=1054&utm_source=git)** | Princeton, NJ | On Site | Apr 27 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69efe2b50a6e095553057d69?utm_campaign=1054&utm_source=git)** | Redmond, WA | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Massachusetts LGBT Chamber of Commerce, Inc.](https://malgbtcc.org)** | **[Culture and Belonging Internship](https://jobright.ai/jobs/info/69eeb7f97820c036924ff3b2?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Apr 26 |
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Employee Development Specialist - two positions!](https://jobright.ai/jobs/info/69efeea24b0fa35a7078d16a?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Apr 26 |
 | **[Equinix](http://www.equinix.com)** | **[HR Tranformation Intern](https://jobright.ai/jobs/info/69ee89f358811370cb143f94?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 26 |
-| **[Texas A&M AgriLife Research](https://agriliferesearch.tamu.edu/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ee79690a6e09555305233a?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Apr 26 |
-| **[State of Vermont](http://vermont.gov/portal/)** | **[Paid Internship - Liquor & Lottery - Temporary](https://jobright.ai/jobs/info/69ee8a037820c036924feedf?utm_campaign=1054&utm_source=git)** | Berlin, VT | On Site | Apr 26 |
-| **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/69ee89ff58811370cb143fd5?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
