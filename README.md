@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Josselyn](https://www.josselyn.org/)** | **[Intern Supervisor](https://jobright.ai/jobs/info/69f001b858811370cb14a25d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Apr 27 |
+| **[Mission Pet Health](https://missionvetpartners.com/)** | **[Recruiting Intern - Mission Pet Health](https://jobright.ai/jobs/info/69f001ac4b0fa35a7078d62f?utm_campaign=1054&utm_source=git)** | Birmingham, AL | Remote | Apr 27 |
+| **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[HR Intern - PSD](https://jobright.ai/jobs/info/69effc5416b2612c2a12d096?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Apr 27 |
 | **[Jacobs](http://www.jacobs.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69eff3c958811370cb149f8b?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 27 |
 | **[Partners Community Health](https://partnerscommunityhealth.ca/)** | **[Human Resources Assistant – Summer Student](https://jobright.ai/jobs/info/69eff3bdfbe0994a40eb9b78?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Benefits Intern (Year-Round)](https://jobright.ai/jobs/info/69eff3b3e624fe645d5347d7?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | Hybrid | Apr 27 |
@@ -106,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef4d9de624fe645d530619?utm_campaign=1054&utm_source=git)** | Miami, FL, 33137, United States | On Site | Apr 27 |
 | ↳ | **[HRIS Intern](https://jobright.ai/jobs/info/69ef4d9858811370cb14579c?utm_campaign=1054&utm_source=git)** | New York, NY, 10022, United States | Hybrid | Apr 27 |
-| **[Alimentiv](https://alimentiv.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/69ebfdfc4b0fa35a707801a5?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | Hybrid | Apr 26 |
 | **[Virginia Economic Development Partnership](https://www.vedp.org)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/69eed9e04b0fa35a7078787c?utm_campaign=1054&utm_source=git)** | Southern, VA | Hybrid | Apr 26 |
 | **[Massachusetts LGBT Chamber of Commerce, Inc.](https://malgbtcc.org)** | **[Culture and Belonging Internship](https://jobright.ai/jobs/info/69eeb7f97820c036924ff3b2?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Apr 26 |
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Employee Development Specialist - two positions!](https://jobright.ai/jobs/info/69efeea24b0fa35a7078d16a?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Apr 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Intern, Learning & Development](https://jobright.ai/jobs/info/69ed972458811370cb142007?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Apr 25 |
 | **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/69b48e7006c1ba00c5460e34?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 25 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69c886ea1b5ad02887393cd8?utm_campaign=1054&utm_source=git)** | London, CA | On Site | Apr 25 |
-| ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52a3306c1ba00c546ec6b?utm_campaign=1054&utm_source=git)** | Moncton, NB | On Site | Apr 25 |
-| ↳ | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52c513b74eb1e2c82ceb9?utm_campaign=1054&utm_source=git)** | Chilliwack, BC | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
