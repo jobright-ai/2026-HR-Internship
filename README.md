@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ITS Logistics](http://its4logistics.com)** | **[Recruiting Associate (Internship) - Fort Worth](https://jobright.ai/jobs/info/69d95f9d738f2f099e8a18b6?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 27 |
+| **[Canada Packers Inc.](https://www.canadapackers.com/)** | **[HR Coordinator (Contract)](https://jobright.ai/jobs/info/69f01deb8feca91f14919a55?utm_campaign=1054&utm_source=git)** | Brandon, Manitoba, Canada | On Site | Apr 27 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Human Resources Internship](https://jobright.ai/jobs/info/69f01308d4710347188c5f25?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
 | **[CJ America, Inc.](https://cjamerica.com)** | **[[CJ America] Summer Intern - Human Resources (Los Angeles)](https://jobright.ai/jobs/info/69f00d2e16b2612c2a12d5ae?utm_campaign=1054&utm_source=git)** | California, Los Angeles, CA, US | On Site | Apr 27 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f009e158811370cb14a3fa?utm_campaign=1054&utm_source=git)** | San Antonio, TX, 78256, United States | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f004eb16b2612c2a12d30b?utm_campaign=1054&utm_source=git)** | San Marino, US | On Site | Apr 27 |
@@ -74,8 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Supreme Court of Ohio](http://supremecourt.ohio.gov)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/69efe8260a6e09555305827e?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Apr 27 |
 | **[Merz Aesthetics](http://www.merzusa.com)** | **[Summer Intern - Employee Experience](https://jobright.ai/jobs/info/69efe49058811370cb14947f?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Apr 27 |
 | **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69efe30c58811370cb149251?utm_campaign=1054&utm_source=git)** | Princeton, NJ | On Site | Apr 27 |
-| **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69efe2c40a6e095553057d74?utm_campaign=1054&utm_source=git)** | Miami-FTL Area | On Site | Apr 27 |
-| **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69efe2b50a6e095553057d69?utm_campaign=1054&utm_source=git)** | Redmond, WA | On Site | Apr 27 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69efe2b50a6e095553057d69?utm_campaign=1054&utm_source=git)** | Redmond, WA | On Site | Apr 27 |
 | **[Grace Hill](http://www.gracehill.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/69efd5c94b0fa35a7078bee6?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Merz Aesthetics](http://www.merzusa.com)** | **[Summer Intern - Employee Experience](https://jobright.ai/jobs/info/69efd5784b0fa35a7078be6d?utm_campaign=1054&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | Apr 27 |
 | ↳ | **[Summer Intern - Employee Experience](https://jobright.ai/jobs/info/69efd5674b0fa35a7078be3d?utm_campaign=1054&utm_source=git)** | Raleigh, NC, USA | Hybrid | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69b52c513b74eb1e2c82cebb?utm_campaign=1054&utm_source=git)** | Halifax, NS | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933f7a7764507023d1baf1e?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Apr 25 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b478d33b74eb1e2c81cc6b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 25 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[HR - Total Rewards - Corporate](https://jobright.ai/jobs/info/69d0c99ecfdc6132f943fb7a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 25 |
-| **[ID Logistics US](https://www.id-logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d0f330cfdc6132f9440d3e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
