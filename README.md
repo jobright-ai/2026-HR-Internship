@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Intern - 100% Remote](https://jobright.ai/jobs/info/69f051c72b095843b0312349?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f03635b27fee43e8cd2b84?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f0524db27fee43e8cd31c4?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 27 |
+| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Intern (Part-Time) - Hybrid](https://jobright.ai/jobs/info/69f059feb27fee43e8cd339c?utm_campaign=1054&utm_source=git)** | West Orange, NJ | Hybrid | Apr 27 |
 | **[ITS Logistics](http://its4logistics.com)** | **[Recruiting Associate (Internship) - Fort Worth](https://jobright.ai/jobs/info/69d95f9d738f2f099e8a18b6?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 27 |
 | **[Canada Packers Inc.](https://www.canadapackers.com/)** | **[HR Coordinator (Contract)](https://jobright.ai/jobs/info/69f01deb8feca91f14919a55?utm_campaign=1054&utm_source=git)** | Brandon, Manitoba, Canada | On Site | Apr 27 |
 | **[CJ America, Inc.](https://cjamerica.com)** | **[[CJ America] Summer Intern - Human Resources (Los Angeles)](https://jobright.ai/jobs/info/69f0523bb27fee43e8cd317b?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69ece24458811370cb140c6d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Apr 25 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/69d071c354f00230c6d12168?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69799ea30791bc1d72306884?utm_campaign=1054&utm_source=git)** | Aiken, SC | On Site | Apr 25 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/6909602c4a1b456627affdc2?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
