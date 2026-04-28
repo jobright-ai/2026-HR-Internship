@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Innovid](https://www.innovid.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69f117deb27fee43e8cd7292?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
+| **[U.S. AutoForce](https://www.usautoforce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1104a8feca91f1491e62f?utm_campaign=1054&utm_source=git)** | 425 Better Way, Appleton, WI 54915, United States of America | On Site | Apr 28 |
+| **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69f10fe3825a315d7ca35d91?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 | **[Carlex Glass America, LLC](https://carlex.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69f107fc8feca91f1491e0ec?utm_campaign=1054&utm_source=git)** | Vonore, TN | On Site | Apr 28 |
 | **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69f10359ecbc8c2f73203231?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, US | On Site | Apr 28 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Apr 28 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0fb93b27fee43e8cd674d?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Apr 28 |
 | **[Simon Group Holdings](http://simongroupholdings.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f0fb77ecbc8c2f73202d2a?utm_campaign=1054&utm_source=git)** | Detroit Metro | On Site | Apr 28 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f0fb6562b48c6838792ea8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
+| **[Akron Children's](http://www.akronchildrens.org)** | **[HR Employee Relations Intern](https://jobright.ai/jobs/info/69f118d3b27fee43e8cd7426?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Apr 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0f51cecbc8c2f73202c92?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Apr 28 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0f514b27fee43e8cd6611?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 28 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: People & Culture (Fall 2026)](https://jobright.ai/jobs/info/69f0eec9ecbc8c2f73202b5f?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, US, 21742 | On Site | Apr 28 |
@@ -76,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Alliance Technical Group](https://alliancetg.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f0ee1e62b48c6838792a01?utm_campaign=1054&utm_source=git)** | Decatur, Alabama, United States | On Site | Apr 28 |
 | **[EDSA, Inc.](http://www.edsaplan.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/69a9c2121f59c56275e27978?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f1035762b48c68387930f1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 28 |
+| **[Milacron](https://www.milacron.com)** | **[Human Resources Intern (HRIS)](https://jobright.ai/jobs/info/69f118d78feca91f1491e8fa?utm_campaign=1054&utm_source=git)** | Batavia, OH | On Site | Apr 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69bb882c06c1ba00c54e004a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[PROJXON](www.projxon.com)** | **[Lead Recruiter (Intern)](https://jobright.ai/jobs/info/69f0d5bcecbc8c2f73202284?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Talent Intern](https://jobright.ai/jobs/info/69f0d012b27fee43e8cd59a1?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
@@ -91,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d482e6891d7b11cfcfb185?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 | **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Human Resources / Talent Acquisition Internship](https://jobright.ai/jobs/info/69f0d657b27fee43e8cd5a89?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69bc96684828227293fe7a7c?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 28 |
-| **[Source Intelligence](http://www.sourceintelligence.com/)** | **[People Operation Intern](https://jobright.ai/jobs/info/69f0cb43ecbc8c2f73201d85?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
 | **[GCA](https://www.gcanext.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69f0abf5825a315d7ca33280?utm_campaign=1054&utm_source=git)** | Stafford, VA | On Site | Apr 28 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d48316e63cea7a8b65a840?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 28 |
 | **[Lufthansa Group Business Services](https://lufthansa-group-business-services.com)** | **[HR Intern - Digital Solutions Hybrid model](https://jobright.ai/jobs/info/69f0c63f8feca91f1491cb9f?utm_campaign=1054&utm_source=git)** | Uniondale, NY | Hybrid | Apr 28 |
@@ -130,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Albany Med Health System](www.albanymed.org)** | **[HR Intern](https://jobright.ai/jobs/info/69efdcf4e624fe645d533b63?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Apr 27 |
 | **[OpenTable](http://opentable.com)** | **[People Operations Intern (Hybrid, Toronto)](https://jobright.ai/jobs/info/69eff39a16b2612c2a12ce8d?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 27 |
 | **[Ford Motor Company](https://www.ford.com)** | **[Employee Relations: Training & Development Internship](https://jobright.ai/jobs/info/69efe332e624fe645d533d96?utm_campaign=1054&utm_source=git)** | Oakville, Ontario, Canada | On Site | Apr 27 |
-| **[U.S. Xpress, Inc.](https://www.usxpress.com)** | **[DoD Skillbridge Intern - Driver Recruiter](https://jobright.ai/jobs/info/69efe602e624fe645d533fb3?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Riverside Health](http://www.riversideonline.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69efbb814b0fa35a7078b90d?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Apr 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69efbb5716b2612c2a12b784?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Apr 27 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/69efd63f16b2612c2a12be24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPS Composite Materials](https://jpscm.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef4d9de624fe645d530619?utm_campaign=1054&utm_source=git)** | Miami, FL, 33137, United States | On Site | Apr 27 |
 | ↳ | **[HRIS Intern](https://jobright.ai/jobs/info/69ef4d9858811370cb14579c?utm_campaign=1054&utm_source=git)** | New York, NY, 10022, United States | Hybrid | Apr 27 |
 | **[Virginia Economic Development Partnership](https://www.vedp.org)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/69eed9e04b0fa35a7078787c?utm_campaign=1054&utm_source=git)** | Southern, VA | Hybrid | Apr 26 |
-| **[Massachusetts LGBT Chamber of Commerce, Inc.](https://malgbtcc.org)** | **[Culture and Belonging Internship](https://jobright.ai/jobs/info/69eeb7f97820c036924ff3b2?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Apr 26 |
-| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Employee Development Specialist - two positions!](https://jobright.ai/jobs/info/69efeea24b0fa35a7078d16a?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Apr 26 |
-| **[Equinix](http://www.equinix.com)** | **[HR Tranformation Intern](https://jobright.ai/jobs/info/69ee89f358811370cb143f94?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
