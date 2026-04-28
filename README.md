@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Carlex Glass America, LLC](https://carlex.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69f107fc8feca91f1491e0ec?utm_campaign=1054&utm_source=git)** | Vonore, TN | On Site | Apr 28 |
 | **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69f10359ecbc8c2f73203231?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, US | On Site | Apr 28 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Apr 28 |
+| **[Eden Housing, Inc.](http://www.edenhousing.org)** | **[Summer Intern Human Resources - Central Office, Hayward](https://jobright.ai/jobs/info/69f11f8e8feca91f1491eb1d?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Apr 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0fc3762b48c6838792f81?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[Bradford White](https://bradfordwhite.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f0fbc0825a315d7ca3560a?utm_campaign=1054&utm_source=git)** | Middleville, MI | On Site | Apr 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0fbab8feca91f1491dc1c?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Apr 28 |
@@ -116,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[The Huntington](http://www.huntington.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f004eb16b2612c2a12d30b?utm_campaign=1054&utm_source=git)** | San Marino, US | On Site | Apr 27 |
 | **[Josselyn](https://www.josselyn.org/)** | **[Intern Supervisor](https://jobright.ai/jobs/info/69f001b858811370cb14a25d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Apr 27 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[Recruiting Intern - Mission Pet Health](https://jobright.ai/jobs/info/69f001ac4b0fa35a7078d62f?utm_campaign=1054&utm_source=git)** | Birmingham, AL | Remote | Apr 27 |
+| **[Lakeridge Health](https://www.lakeridgehealth.on.ca/en/index.asp)** | **[2600001080 - Transition Facilitator](https://jobright.ai/jobs/info/69f125fc62b48c6838793e2c?utm_campaign=1054&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Apr 27 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[HR Intern - PSD](https://jobright.ai/jobs/info/69effc5416b2612c2a12d096?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Apr 27 |
 | **[Jacobs](http://www.jacobs.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69eff3c958811370cb149f8b?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 27 |
 | **[Partners Community Health](https://partnerscommunityhealth.ca/)** | **[Human Resources Assistant – Summer Student](https://jobright.ai/jobs/info/69eff3bdfbe0994a40eb9b78?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Case Management Intern FR](https://jobright.ai/jobs/info/69ef6532fbe0994a40eb5e9f?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Apr 27 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef4d9de624fe645d530619?utm_campaign=1054&utm_source=git)** | Miami, FL, 33137, United States | On Site | Apr 27 |
-| ↳ | **[HRIS Intern](https://jobright.ai/jobs/info/69ef4d9858811370cb14579c?utm_campaign=1054&utm_source=git)** | New York, NY, 10022, United States | Hybrid | Apr 27 |
-| **[Virginia Economic Development Partnership](https://www.vedp.org)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/69eed9e04b0fa35a7078787c?utm_campaign=1054&utm_source=git)** | Southern, VA | Hybrid | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
