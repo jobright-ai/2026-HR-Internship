@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CJ America, Inc.](https://cjamerica.com)** | **[[CJ America] Summer Intern - Human Resources (Los Angeles)](https://jobright.ai/jobs/info/69f00d2e16b2612c2a12d5ae?utm_campaign=1054&utm_source=git)** | California, Los Angeles, CA, US | On Site | Apr 27 |
+| **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f009e158811370cb14a3fa?utm_campaign=1054&utm_source=git)** | San Antonio, TX, 78256, United States | On Site | Apr 27 |
+| **[The Huntington](http://www.huntington.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f004eb16b2612c2a12d30b?utm_campaign=1054&utm_source=git)** | San Marino, US | On Site | Apr 27 |
 | **[Josselyn](https://www.josselyn.org/)** | **[Intern Supervisor](https://jobright.ai/jobs/info/69f001b858811370cb14a25d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Apr 27 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[Recruiting Intern - Mission Pet Health](https://jobright.ai/jobs/info/69f001ac4b0fa35a7078d62f?utm_campaign=1054&utm_source=git)** | Birmingham, AL | Remote | Apr 27 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[HR Intern - PSD](https://jobright.ai/jobs/info/69effc5416b2612c2a12d096?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b478d33b74eb1e2c81cc6b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 25 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR - Total Rewards - Corporate](https://jobright.ai/jobs/info/69d0c99ecfdc6132f943fb7a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 25 |
 | **[ID Logistics US](https://www.id-logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d0f330cfdc6132f9440d3e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
-| ↳ | **[HR Intern, Learning & Development](https://jobright.ai/jobs/info/69ed972458811370cb142007?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Apr 25 |
-| **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/69b48e7006c1ba00c5460e34?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 25 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Fall 2026, and Winter 2027, and Summer 2027 Start](https://jobright.ai/jobs/info/69c886ea1b5ad02887393cd8?utm_campaign=1054&utm_source=git)** | London, CA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
