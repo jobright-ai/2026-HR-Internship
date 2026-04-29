@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Benefits](https://jobright.ai/jobs/info/69f1bfbc62b48c68387979fd?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Apr 29 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1b9248feca91f149220aa?utm_campaign=1054&utm_source=git)** | Greeley, Colorado, United States | On Site | Apr 29 |
 | **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df21f536823d1b425868ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources- Employee Assistance Program, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69f1a73e8d8d624381a9d82a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Recruitment Co-op Student](https://jobright.ai/jobs/info/69f190208d8d624381a9d450?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Apr 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Huntington](http://www.huntington.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f004eb16b2612c2a12d30b?utm_campaign=1054&utm_source=git)** | San Marino, US | On Site | Apr 27 |
 | **[Josselyn](https://www.josselyn.org/)** | **[Intern Supervisor](https://jobright.ai/jobs/info/69f001b858811370cb14a25d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Apr 27 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[Recruiting Intern - Mission Pet Health](https://jobright.ai/jobs/info/69f001ac4b0fa35a7078d62f?utm_campaign=1054&utm_source=git)** | Birmingham, AL | Remote | Apr 27 |
-| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69f153dcb27fee43e8cd8980?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Apr 27 |
-| **[State of Florida](http://www.myflorida.com)** | **[STATE VETERANS' SERVICE OFFICER - 50000865](https://jobright.ai/jobs/info/69f142058feca91f1491f8a3?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
