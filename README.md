@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Generac](https://www.generac.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f243918d8d624381a9ff87?utm_campaign=1054&utm_source=git)** | Waukesha, WI - USA, US | On Site | Apr 29 |
+| **[Baltimore Crisis Response, Inc.](https://bcresponse.org/)** | **[Human Resources Intern (10715)](https://jobright.ai/jobs/info/69f23ca2ecbc8c2f732098ee?utm_campaign=1054&utm_source=git)** | Main Campus - Baltimore, MD 21229 | On Site | Apr 29 |
+| **[Mental Health Resources](https://www.mhrnewmexico.com)** | **[MHR Paid Internship](https://jobright.ai/jobs/info/69f23c718feca91f14923cf1?utm_campaign=1054&utm_source=git)** | Clovis,NM,US | On Site | Apr 29 |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f23a128d8d624381a9fd01?utm_campaign=1054&utm_source=git)** | Orangeburg, NY | On Site | Apr 29 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69d64e79cfdc6132f94695a7?utm_campaign=1054&utm_source=git)** | Torrance, CA | On Site | Apr 29 |
 | **[Weiss Technik North America](https://weiss-technik-na.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f231cb825a315d7ca3b336?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, US | On Site | Apr 29 |
 | **[Safariland](http://www.safariland.com/)** | **[Human Resources Talent Development Intern](https://jobright.ai/jobs/info/69f22a2c8feca91f14923680?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, USA | On Site | Apr 29 |
@@ -86,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df21f536823d1b425868ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources- Employee Assistance Program, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69f1a73e8d8d624381a9d82a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Recruitment Co-op Student](https://jobright.ai/jobs/info/69f190208d8d624381a9d450?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Apr 28 |
-| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Farm Maintenance & Construction Internship](https://jobright.ai/jobs/info/69f18ff962b48c6838796a61?utm_campaign=1054&utm_source=git)** | Central Saanich, British Columbia, Canada | Hybrid | Apr 28 |
 | **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f18fa5b27fee43e8cda232?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Apr 28 |
 | **[UCSF Health](https://www.ucsfhealth.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69f1b07e825a315d7ca396c4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 28 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f186c3825a315d7ca385aa?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d40d27cdb525785fbc5cc8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[Charlotte Area Transit System](http://ridetransit.org)** | **[Professional Staff Internship](https://jobright.ai/jobs/info/69f0cb8162b48c6838791ed4?utm_campaign=1054&utm_source=git)** | CMPD HQ, US | On Site | Apr 28 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d482d754f00230c6d31f04?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 28 |
-| **[University of Virginia](https://lvg.virginia.edu)** | **[Federal Work-Study (FWS) Internship Program: Event Assistant – Employer Relations Team UVA Career Center (Student Wage)](https://jobright.ai/jobs/info/69f0cb1fb27fee43e8cd5688?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, US | On Site | Apr 28 |
-| **[RailPros](http://railpros.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69d44077cdb525785fbc7d0a?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Apr 28 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d482e6891d7b11cfcfb185?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
