@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df21f536823d1b425868ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 28 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources- Employee Assistance Program, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69f1a73e8d8d624381a9d82a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Recruitment Co-op Student](https://jobright.ai/jobs/info/69f190208d8d624381a9d450?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Apr 28 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Farm Maintenance & Construction Internship](https://jobright.ai/jobs/info/69f18ff962b48c6838796a61?utm_campaign=1054&utm_source=git)** | Central Saanich, British Columbia, Canada | Hybrid | Apr 28 |
 | **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f18fa5b27fee43e8cda232?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Apr 28 |
+| **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Part Time USA Remote / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69f1a738ecbc8c2f7320704d?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f186c3825a315d7ca385aa?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69f17a118feca91f14920331?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Apr 28 |
 | **[Hotel del Coronado](https://hoteldel.com)** | **[Human Resources Intern - Hotel del Coronado, Curio Collection by Hilton](https://jobright.ai/jobs/info/69f1663e8feca91f14920024?utm_campaign=1054&utm_source=git)** | Coronado, CA | On Site | Apr 28 |
-| **[Continental](https://www.continental.com)** | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
-| ↳ | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
+| **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
+| ↳ | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Talent Acquisition Coordinator – Internship](https://jobright.ai/jobs/info/69f1503a8d8d624381a9b940?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 28 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16675825a315d7ca37a86?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
 | **[Safariland](http://www.safariland.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16602ecbc8c2f73205887?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/69f153dcb27fee43e8cd8980?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Apr 27 |
 | **[State of Florida](http://www.myflorida.com)** | **[STATE VETERANS' SERVICE OFFICER - 50000865](https://jobright.ai/jobs/info/69f142058feca91f1491f8a3?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Apr 27 |
 | **[Lakeridge Health](https://www.lakeridgehealth.on.ca/en/index.asp)** | **[2600001080 - Transition Facilitator](https://jobright.ai/jobs/info/69f125fc62b48c6838793e2c?utm_campaign=1054&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Apr 27 |
-| **[Big Blue Swim School](https://www.bigblueswimschool.com/)** | **[Summer Intern, HR/Recruiting](https://jobright.ai/jobs/info/69f15cc2825a315d7ca3784e?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 27 |
-| **[Jacobs](http://www.jacobs.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69eff3c958811370cb149f8b?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 27 |
-| **[Partners Community Health](https://partnerscommunityhealth.ca/)** | **[Human Resources Assistant – Summer Student](https://jobright.ai/jobs/info/69eff3bdfbe0994a40eb9b78?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
