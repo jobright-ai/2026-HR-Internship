@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/699e79d6ce78e77b4fe3c985?utm_campaign=1054&utm_source=git)** | Yuma, AZ | On Site | Apr 29 |
 | **[Generac](https://www.generac.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f243918d8d624381a9ff87?utm_campaign=1054&utm_source=git)** | Waukesha, WI - USA, US | On Site | Apr 29 |
 | **[Baltimore Crisis Response, Inc.](https://bcresponse.org/)** | **[Human Resources Intern (10715)](https://jobright.ai/jobs/info/69f23ca2ecbc8c2f732098ee?utm_campaign=1054&utm_source=git)** | Main Campus - Baltimore, MD 21229 | On Site | Apr 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - Provo](https://jobright.ai/jobs/info/69818b15abff4c399aa0ad21?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | Apr 29 |
 | **[Mental Health Resources](https://www.mhrnewmexico.com)** | **[MHR Paid Internship](https://jobright.ai/jobs/info/69f23c718feca91f14923cf1?utm_campaign=1054&utm_source=git)** | Clovis,NM,US | On Site | Apr 29 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f23a128d8d624381a9fd01?utm_campaign=1054&utm_source=git)** | Orangeburg, NY | On Site | Apr 29 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69d64e79cfdc6132f94695a7?utm_campaign=1054&utm_source=git)** | Torrance, CA | On Site | Apr 29 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Talent Resources](https://jobright.ai/jobs/info/69ba8bc006c1ba00c54c9a91?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Apr 29 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern - HR USE ONLY](https://jobright.ai/jobs/info/69f20df0ecbc8c2f732089f9?utm_campaign=1054&utm_source=git)** | Novi, Michigan, United States, US | On Site | Apr 29 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/69f20b28f154d768fbaa500e?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | Apr 29 |
-| **[Freudenberg Home and Cleaning Solutions](http://www.vileda.com/au/)** | **[Human Resources Intern (on-site, year-round, part-time) (f/m/d)](https://jobright.ai/jobs/info/69b85afe3b74eb1e2c860e8d?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Apr 29 |
 | **[Werfen](http://www.werfen.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f2094eecbc8c2f7320861e?utm_campaign=1054&utm_source=git)** | Orangeburg, NY, US | On Site | Apr 29 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69f208e2825a315d7ca3a41c?utm_campaign=1054&utm_source=git)** | US-NY-Orangeburg | On Site | Apr 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69db40165356a60f40fe5e0d?utm_campaign=1054&utm_source=git)** | Anaheim, CA | Hybrid | Apr 29 |
@@ -101,9 +101,10 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f186c3825a315d7ca385aa?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69f17a118feca91f14920331?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Apr 28 |
 | **[Hotel del Coronado](https://hoteldel.com)** | **[Human Resources Intern - Hotel del Coronado, Curio Collection by Hilton](https://jobright.ai/jobs/info/69f1663e8feca91f14920024?utm_campaign=1054&utm_source=git)** | Coronado, CA | On Site | Apr 28 |
-| **[Continental](https://www.continental.com)** | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
-| ↳ | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
+| **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
+| ↳ | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Talent Acquisition Coordinator – Internship](https://jobright.ai/jobs/info/69f1503a8d8d624381a9b940?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 28 |
+| **[Fearless](http://fearless.tech)** | **[Talent Operations & AI Platform Intern](https://jobright.ai/jobs/info/69f25c45ecbc8c2f7320a17f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Apr 28 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16675825a315d7ca37a86?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
 | **[Safariland](http://www.safariland.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16602ecbc8c2f73205887?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Apr 28 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69f148e68d8d624381a9b82e?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69ef0d8c4b0fa35a707880cb?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69bb882c06c1ba00c54e004a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[PROJXON](www.projxon.com)** | **[Lead Recruiter (Intern)](https://jobright.ai/jobs/info/69f0d5bcecbc8c2f73202284?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
-| **[Doing Things](https://www.doingthingsmedia.com/)** | **[Talent Intern](https://jobright.ai/jobs/info/69f0d012b27fee43e8cd59a1?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
