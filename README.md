@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/69f2463e825a315d7ca3ba96?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Apr 29 |
+| **[Fearless](http://fearless.tech)** | **[Talent Operations & AI Platform Intern](https://jobright.ai/jobs/info/69f245fb8d8d624381aa0091?utm_campaign=1054&utm_source=git)** | Baltimore, Maryland, United States | Hybrid | Apr 29 |
+| ↳ | **[Talent Operations & AI Platform Intern](https://jobright.ai/jobs/info/69f245e2f154d768fbaa63c9?utm_campaign=1054&utm_source=git)** | Baltimore, MD, USA | Hybrid | Apr 29 |
+| **[Custom Truck One Source](https://www.customtruck.com/)** | **[HR INTERN](https://jobright.ai/jobs/info/69f245d6825a315d7ca3ba29?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US | On Site | Apr 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69d5e0eb706f771673ba7a38?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/699e79d6ce78e77b4fe3c985?utm_campaign=1054&utm_source=git)** | Yuma, AZ | On Site | Apr 29 |
 | **[Generac](https://www.generac.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f243918d8d624381a9ff87?utm_campaign=1054&utm_source=git)** | Waukesha, WI - USA, US | On Site | Apr 29 |
 | **[Baltimore Crisis Response, Inc.](https://bcresponse.org/)** | **[Human Resources Intern (10715)](https://jobright.ai/jobs/info/69f23ca2ecbc8c2f732098ee?utm_campaign=1054&utm_source=git)** | Main Campus - Baltimore, MD 21229 | On Site | Apr 29 |
 | **[Mental Health Resources](https://www.mhrnewmexico.com)** | **[MHR Paid Internship](https://jobright.ai/jobs/info/69f23c718feca91f14923cf1?utm_campaign=1054&utm_source=git)** | Clovis,NM,US | On Site | Apr 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69bb882c06c1ba00c54e004a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[PROJXON](www.projxon.com)** | **[Lead Recruiter (Intern)](https://jobright.ai/jobs/info/69f0d5bcecbc8c2f73202284?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Talent Intern](https://jobright.ai/jobs/info/69f0d012b27fee43e8cd59a1?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[HR Intern PS Rewards & Benefits](https://jobright.ai/jobs/info/69f0cfaf8feca91f1491ce01?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Apr 28 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - HR, Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/69f0cf7a825a315d7ca34623?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 28 |
-| **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d45dc2e63cea7a8b6591c4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d40d27cdb525785fbc5cc8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
-| **[Charlotte Area Transit System](http://ridetransit.org)** | **[Professional Staff Internship](https://jobright.ai/jobs/info/69f0cb8162b48c6838791ed4?utm_campaign=1054&utm_source=git)** | CMPD HQ, US | On Site | Apr 28 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d482d754f00230c6d31f04?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
