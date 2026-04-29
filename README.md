@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Planet](http://www.planet.com)** | **[Intern, People Team Strategic Projects](https://jobright.ai/jobs/info/69f1fbe7825a315d7ca3a2ff?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 29 |
+| **[Compass Group Canada](http://www.compass-canada.com)** | **[Intern Part Time](https://jobright.ai/jobs/info/69f1f8ee8d8d624381a9ea13?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 29 |
+| **[Tenneco](https://www.tenneco.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/69bb8b9106c1ba00c54e11ea?utm_campaign=1054&utm_source=git)** | Northville, MI | On Site | Apr 29 |
 | **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Talent Business Operations Intern](https://jobright.ai/jobs/info/69ba983b569738374140564b?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[HR Tech Intern](https://jobright.ai/jobs/info/69f1dde0f154d768fbaa46eb?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Apr 29 |
+| **[Taylor Morrison](http://www.taylormorrison.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d53819e63cea7a8b65f87f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1d352ecbc8c2f732080f8?utm_campaign=1054&utm_source=git)** | Greeley, CO | On Site | Apr 29 |
+| **[All For Kids](https://www.all4kids.org)** | **[PSS Intern](https://jobright.ai/jobs/info/69f1f915ab4ec4779fff6ae0?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 29 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69f1cc97ecbc8c2f732080c4?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Benefits](https://jobright.ai/jobs/info/69f1bfbc62b48c68387979fd?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Apr 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1b9248feca91f149220aa?utm_campaign=1054&utm_source=git)** | Greeley, Colorado, United States | On Site | Apr 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medica](https://www.medica.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69d43c82cfdc6132f9459158?utm_campaign=1054&utm_source=git)** | Hopkins, MN | Hybrid | Apr 28 |
 | **[The Huntington](http://www.huntington.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f03635b27fee43e8cd2b84?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f0524db27fee43e8cd31c4?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Apr 27 |
-| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Intern (Part-Time) - Hybrid](https://jobright.ai/jobs/info/69f059feb27fee43e8cd339c?utm_campaign=1054&utm_source=git)** | West Orange, NJ | Hybrid | Apr 27 |
-| **[ITS Logistics](http://its4logistics.com)** | **[Recruiting Associate (Internship) - Fort Worth](https://jobright.ai/jobs/info/69d95f9d738f2f099e8a18b6?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Apr 27 |
-| **[Canada Packers Inc.](https://www.canadapackers.com/)** | **[HR Coordinator (Contract)](https://jobright.ai/jobs/info/69f01deb8feca91f14919a55?utm_campaign=1054&utm_source=git)** | Brandon, Manitoba, Canada | On Site | Apr 27 |
-| **[CJ America, Inc.](https://cjamerica.com)** | **[[CJ America] Summer Intern - Human Resources (Los Angeles)](https://jobright.ai/jobs/info/69f0523bb27fee43e8cd317b?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Apr 27 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Human Resources Internship](https://jobright.ai/jobs/info/69f01308d4710347188c5f25?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
