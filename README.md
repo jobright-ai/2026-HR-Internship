@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Recruitment Co-op Student](https://jobright.ai/jobs/info/69f190208d8d624381a9d450?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Apr 28 |
+| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Farm Maintenance & Construction Internship](https://jobright.ai/jobs/info/69f18ff962b48c6838796a61?utm_campaign=1054&utm_source=git)** | Central Saanich, British Columbia, Canada | Hybrid | Apr 28 |
+| **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f18fa5b27fee43e8cda232?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Apr 28 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f186c3825a315d7ca385aa?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69f17a118feca91f14920331?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Apr 28 |
 | **[Hotel del Coronado](https://hoteldel.com)** | **[Human Resources Intern - Hotel del Coronado, Curio Collection by Hilton](https://jobright.ai/jobs/info/69f1663e8feca91f14920024?utm_campaign=1054&utm_source=git)** | Coronado, CA | On Site | Apr 28 |
-| **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
-| ↳ | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
+| **[Continental](https://www.continental.com)** | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
+| ↳ | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Talent Acquisition Coordinator – Internship](https://jobright.ai/jobs/info/69f1503a8d8d624381a9b940?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 28 |
-| **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Recruitment Co-op Student](https://jobright.ai/jobs/info/69f15000825a315d7ca3743a?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Apr 28 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16675825a315d7ca37a86?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
 | **[Safariland](http://www.safariland.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16602ecbc8c2f73205887?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Apr 28 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69f148e68d8d624381a9b82e?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Apr 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Big Blue Swim School](https://www.bigblueswimschool.com/)** | **[Summer Intern, HR/Recruiting](https://jobright.ai/jobs/info/69f15cc2825a315d7ca3784e?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 27 |
 | **[Jacobs](http://www.jacobs.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69eff3c958811370cb149f8b?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Apr 27 |
 | **[Partners Community Health](https://partnerscommunityhealth.ca/)** | **[Human Resources Assistant – Summer Student](https://jobright.ai/jobs/info/69eff3bdfbe0994a40eb9b78?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Benefits Intern (Year-Round)](https://jobright.ai/jobs/info/69eff3b3e624fe645d5347d7?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | Hybrid | Apr 27 |
-| **[AKG of America](https://www.akg-america.com/akg-of-america/)** | **[HR Intern](https://jobright.ai/jobs/info/69eff3af0a6e0955530588f2?utm_campaign=1054&utm_source=git)** | Mebane, NC | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
