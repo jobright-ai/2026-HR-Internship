@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Talent Business Operations Intern](https://jobright.ai/jobs/info/69ba983b569738374140564b?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[HR Tech Intern](https://jobright.ai/jobs/info/69f1dde0f154d768fbaa46eb?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Apr 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1d352ecbc8c2f732080f8?utm_campaign=1054&utm_source=git)** | Greeley, CO | On Site | Apr 29 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69f1cc97ecbc8c2f732080c4?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Canada Packers Inc.](https://www.canadapackers.com/)** | **[HR Coordinator (Contract)](https://jobright.ai/jobs/info/69f01deb8feca91f14919a55?utm_campaign=1054&utm_source=git)** | Brandon, Manitoba, Canada | On Site | Apr 27 |
 | **[CJ America, Inc.](https://cjamerica.com)** | **[[CJ America] Summer Intern - Human Resources (Los Angeles)](https://jobright.ai/jobs/info/69f0523bb27fee43e8cd317b?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Apr 27 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Human Resources Internship](https://jobright.ai/jobs/info/69f01308d4710347188c5f25?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
-| **[CJ America, Inc.](https://cjamerica.com)** | **[[CJ America] Summer Intern - Human Resources (Los Angeles)](https://jobright.ai/jobs/info/69f00d2e16b2612c2a12d5ae?utm_campaign=1054&utm_source=git)** | California, Los Angeles, CA, US | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
