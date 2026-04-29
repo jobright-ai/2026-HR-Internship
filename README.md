@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1d352ecbc8c2f732080f8?utm_campaign=1054&utm_source=git)** | Greeley, CO | On Site | Apr 29 |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69f1cc97ecbc8c2f732080c4?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Benefits](https://jobright.ai/jobs/info/69f1bfbc62b48c68387979fd?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Apr 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1b9248feca91f149220aa?utm_campaign=1054&utm_source=git)** | Greeley, Colorado, United States | On Site | Apr 29 |
+| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1c74e62b48c6838797a3a?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 28 |
 | **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df21f536823d1b425868ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources- Employee Assistance Program, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69f1a73e8d8d624381a9d82a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Recruitment Co-op Student](https://jobright.ai/jobs/info/69f190208d8d624381a9d450?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Human Resources Internship](https://jobright.ai/jobs/info/69f01308d4710347188c5f25?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 27 |
 | **[CJ America, Inc.](https://cjamerica.com)** | **[[CJ America] Summer Intern - Human Resources (Los Angeles)](https://jobright.ai/jobs/info/69f00d2e16b2612c2a12d5ae?utm_campaign=1054&utm_source=git)** | California, Los Angeles, CA, US | On Site | Apr 27 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f009e158811370cb14a3fa?utm_campaign=1054&utm_source=git)** | San Antonio, TX, 78256, United States | On Site | Apr 27 |
-| **[The Huntington](http://www.huntington.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f004eb16b2612c2a12d30b?utm_campaign=1054&utm_source=git)** | San Marino, US | On Site | Apr 27 |
-| **[Josselyn](https://www.josselyn.org/)** | **[Intern Supervisor](https://jobright.ai/jobs/info/69f001b858811370cb14a25d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Apr 27 |
-| **[Mission Pet Health](https://missionvetpartners.com/)** | **[Recruiting Intern - Mission Pet Health](https://jobright.ai/jobs/info/69f001ac4b0fa35a7078d62f?utm_campaign=1054&utm_source=git)** | Birmingham, AL | Remote | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
