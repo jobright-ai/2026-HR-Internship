@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hotel del Coronado](https://hoteldel.com)** | **[Human Resources Intern - Hotel del Coronado, Curio Collection by Hilton](https://jobright.ai/jobs/info/69f1663e8feca91f14920024?utm_campaign=1054&utm_source=git)** | Coronado, CA | On Site | Apr 28 |
 | **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
 | ↳ | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Talent Acquisition Coordinator – Internship](https://jobright.ai/jobs/info/69f1503a8d8d624381a9b940?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 28 |
 | **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Recruitment Co-op Student](https://jobright.ai/jobs/info/69f15000825a315d7ca3743a?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Apr 28 |
+| **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16675825a315d7ca37a86?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
+| **[Safariland](http://www.safariland.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16602ecbc8c2f73205887?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Apr 28 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69f148e68d8d624381a9b82e?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Apr 28 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Logistics Associate - Supply Chain Management - SEOP (Summer Internship)](https://jobright.ai/jobs/info/69f1485db27fee43e8cd8715?utm_campaign=1054&utm_source=git)** | Rochester, MN | On Site | Apr 28 |
 | **[NextPort.AI](http://www.nextport.ai)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f14493b27fee43e8cd8570?utm_campaign=1054&utm_source=git)** | Long Beach, CA, US | On Site | Apr 28 |
+| **[Rollins, Inc.](http://www.rollins.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f16614b27fee43e8cd8d30?utm_campaign=1054&utm_source=git)** | Logan, UT | Hybrid | Apr 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources- Employee Assistance Program, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69f1421c825a315d7ca36f4b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f141f1825a315d7ca36e34?utm_campaign=1054&utm_source=git)** | Long Beach, CA, US | On Site | Apr 28 |
 | **[Arctic Wolf](https://arcticwolf.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69f141c38feca91f1491f70b?utm_campaign=1054&utm_source=git)** | Pleasant Grove, UT | Remote | Apr 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AKG of America](https://www.akg-america.com/akg-of-america/)** | **[HR Intern](https://jobright.ai/jobs/info/69eff3af0a6e0955530588f2?utm_campaign=1054&utm_source=git)** | Mebane, NC | On Site | Apr 27 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/69efee190a6e0955530585fb?utm_campaign=1054&utm_source=git)** | Mebane,NC,US | On Site | Apr 27 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Human Resources Internship](https://jobright.ai/jobs/info/69efedfde624fe645d534525?utm_campaign=1054&utm_source=git)** | Remote, United States | Remote | Apr 27 |
-| **[Valence Surface Technologies](http://www.ValenceST.com)** | **[Human Resources Technologist- Summer Internship](https://jobright.ai/jobs/info/69efedc9e624fe645d5343cd?utm_campaign=1054&utm_source=git)** | Lynwood, California, United States | On Site | Apr 27 |
-| **[Supreme Court of Ohio](http://supremecourt.ohio.gov)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/69efe8260a6e09555305827e?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Apr 27 |
-| **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69efe30c58811370cb149251?utm_campaign=1054&utm_source=git)** | Princeton, NJ | On Site | Apr 27 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69efe2b50a6e095553057d69?utm_campaign=1054&utm_source=git)** | Redmond, WA | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
