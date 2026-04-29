@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69d64e79cfdc6132f94695a7?utm_campaign=1054&utm_source=git)** | Torrance, CA | On Site | Apr 29 |
+| **[Weiss Technik North America](https://weiss-technik-na.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f231cb825a315d7ca3b336?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, US | On Site | Apr 29 |
+| **[Safariland](http://www.safariland.com/)** | **[Human Resources Talent Development Intern](https://jobright.ai/jobs/info/69f22a2c8feca91f14923680?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, USA | On Site | Apr 29 |
 | **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69f2264c825a315d7ca3b052?utm_campaign=1054&utm_source=git)** | Norwell, MA, United States | On Site | Apr 29 |
 | **[Compassus](https://www.compassus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f224ebab4ec4779fff7829?utm_campaign=1054&utm_source=git)** | Nashville Metro | On Site | Apr 29 |
 | **[Planet](http://www.planet.com)** | **[Talent Operations Partner](https://jobright.ai/jobs/info/69d58de2891d7b11cfd02ec3?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Apr 29 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Taylor Morrison](http://www.taylormorrison.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d53819e63cea7a8b65f87f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Apr 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1d352ecbc8c2f732080f8?utm_campaign=1054&utm_source=git)** | Greeley, CO | On Site | Apr 29 |
 | **[All For Kids](https://www.all4kids.org)** | **[PSS Intern](https://jobright.ai/jobs/info/69f1f915ab4ec4779fff6ae0?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 29 |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69f1cc97ecbc8c2f732080c4?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Benefits](https://jobright.ai/jobs/info/69f1bfbc62b48c68387979fd?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Apr 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1b9248feca91f149220aa?utm_campaign=1054&utm_source=git)** | Greeley, Colorado, United States | On Site | Apr 29 |
 | **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df21f536823d1b425868ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 28 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f186c3825a315d7ca385aa?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69f17a118feca91f14920331?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Apr 28 |
 | **[Hotel del Coronado](https://hoteldel.com)** | **[Human Resources Intern - Hotel del Coronado, Curio Collection by Hilton](https://jobright.ai/jobs/info/69f1663e8feca91f14920024?utm_campaign=1054&utm_source=git)** | Coronado, CA | On Site | Apr 28 |
-| **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
-| ↳ | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
+| **[Continental](https://www.continental.com)** | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
+| ↳ | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Talent Acquisition Coordinator – Internship](https://jobright.ai/jobs/info/69f1503a8d8d624381a9b940?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 28 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16675825a315d7ca37a86?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
 | **[Safariland](http://www.safariland.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16602ecbc8c2f73205887?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Apr 28 |
@@ -115,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[HERE Technologies](https://www.here.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f12dc88d8d624381a9aba3?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 28 |
 | **[U.S. AutoForce](https://www.usautoforce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1104a8feca91f1491e62f?utm_campaign=1054&utm_source=git)** | 425 Better Way, Appleton, WI 54915, United States of America | On Site | Apr 28 |
 | **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69f10fe3825a315d7ca35d91?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
-| **[NYCM Insurance](https://www.nycm.com)** | **[Telephone Interviewer (Hybrid)](https://jobright.ai/jobs/info/69f14276825a315d7ca37110?utm_campaign=1054&utm_source=git)** | Edmeston, NY | Hybrid | Apr 28 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Internship, Administrative Assistant](https://jobright.ai/jobs/info/69f14104ecbc8c2f73204dad?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[Carlex Glass America, LLC](https://carlex.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69f107fc8feca91f1491e0ec?utm_campaign=1054&utm_source=git)** | Vonore, TN | On Site | Apr 28 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69f12d2d825a315d7ca3638b?utm_campaign=1054&utm_source=git)** | Richardson, TX | On Site | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Federal Work-Study (FWS) Internship Program: Event Assistant – Employer Relations Team UVA Career Center (Student Wage)](https://jobright.ai/jobs/info/69f0cb1fb27fee43e8cd5688?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, US | On Site | Apr 28 |
 | **[RailPros](http://railpros.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69d44077cdb525785fbc7d0a?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Apr 28 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Inclusion & Belonging Intern](https://jobright.ai/jobs/info/69d482e6891d7b11cfcfb185?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
-| **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Human Resources / Talent Acquisition Internship](https://jobright.ai/jobs/info/69f0d657b27fee43e8cd5a89?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
