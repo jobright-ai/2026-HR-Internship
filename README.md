@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f186c3825a315d7ca385aa?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69f17a118feca91f14920331?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Apr 28 |
 | **[Hotel del Coronado](https://hoteldel.com)** | **[Human Resources Intern - Hotel del Coronado, Curio Collection by Hilton](https://jobright.ai/jobs/info/69f1663e8feca91f14920024?utm_campaign=1054&utm_source=git)** | Coronado, CA | On Site | Apr 28 |
 | **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Partners Community Health](https://partnerscommunityhealth.ca/)** | **[Human Resources Assistant – Summer Student](https://jobright.ai/jobs/info/69eff3bdfbe0994a40eb9b78?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Benefits Intern (Year-Round)](https://jobright.ai/jobs/info/69eff3b3e624fe645d5347d7?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | Hybrid | Apr 27 |
 | **[AKG of America](https://www.akg-america.com/akg-of-america/)** | **[HR Intern](https://jobright.ai/jobs/info/69eff3af0a6e0955530588f2?utm_campaign=1054&utm_source=git)** | Mebane, NC | On Site | Apr 27 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/69efee190a6e0955530585fb?utm_campaign=1054&utm_source=git)** | Mebane,NC,US | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
