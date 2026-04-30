@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, People Analytics (Summer 2026)](https://jobright.ai/jobs/info/69f2bd448d8d624381aa3aa2?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 29 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Talent Development & Talent Acquisition Intern](https://jobright.ai/jobs/info/69f2ada6ecbc8c2f7320bd21?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 29 |
 | **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69f2a4b78feca91f14926095?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69f2a03cecbc8c2f7320b9c1?utm_campaign=1054&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. AutoForce](https://www.usautoforce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1104a8feca91f1491e62f?utm_campaign=1054&utm_source=git)** | 425 Better Way, Appleton, WI 54915, United States of America | On Site | Apr 28 |
 | **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69f10fe3825a315d7ca35d91?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Internship, Administrative Assistant](https://jobright.ai/jobs/info/69f14104ecbc8c2f73204dad?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 28 |
-| **[Carlex Glass America, LLC](https://carlex.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69f107fc8feca91f1491e0ec?utm_campaign=1054&utm_source=git)** | Vonore, TN | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
