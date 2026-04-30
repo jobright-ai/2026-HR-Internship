@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sage Hospitality Group](https://www.sagehospitalitygroup.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69f31169ab4ec4779fffe652?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Talent Development & Talent Acquisition Intern](https://jobright.ai/jobs/info/69f2e00e34c4af7a79ab7cd8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69f2cbf334c4af7a79ab6379?utm_campaign=1054&utm_source=git)** | Eaton, OH | On Site | Apr 29 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69f2ec418d8d624381aa48a0?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
@@ -78,12 +79,10 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Resource Coordinator](https://jobright.ai/jobs/info/69f28bc0825a315d7ca3d41e?utm_campaign=1054&utm_source=git)** | Indianapolis, Indiana, United States of America | On Site | Apr 29 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Resource Coordinator](https://jobright.ai/jobs/info/69f28135ecbc8c2f7320abe7?utm_campaign=1054&utm_source=git)** | Indianapolis IN, US | On Site | Apr 29 |
 | **[FreshDirect](http://freshdirect.com)** | **[Summer Internship- Planning Intern](https://jobright.ai/jobs/info/69f27a198feca91f14924f49?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Apr 29 |
-| **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69f2796a8d8d624381aa108a?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 29 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f2793c8d8d624381aa0f3d?utm_campaign=1054&utm_source=git)** | Arden - North Carolina - USA, US | On Site | Apr 29 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/69f27827ab4ec4779fff940e?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Apr 29 |
 | **[Baltimore Crisis Response, Inc.](https://bcresponse.org/)** | **[Human Resources Intern (10715)](https://jobright.ai/jobs/info/69f2a843825a315d7ca3dce9?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Apr 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f295928feca91f14925b99?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Apr 29 |
-| **[SalesForce-ad](https://www.salesforce.com/)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69f28972f154d768fbaa7922?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f269c9ab4ec4779fff8f89?utm_campaign=1054&utm_source=git)** | Paso Robles, CA, USA | Hybrid | Apr 29 |
 | **[Valence](https://www.getvalence.com)** | **[Human Resources Technologist- Summer Internship](https://jobright.ai/jobs/info/69f268eaf154d768fbaa6c26?utm_campaign=1054&utm_source=git)** | Lynwood, CA | On Site | Apr 29 |
 | **[Halton District School Board](http://www.hdsb.ca)** | **[Officer - Health and Safety - Human Resources (35hrs)](https://jobright.ai/jobs/info/69f292eeab4ec4779fff9cfc?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Apr 29 |
@@ -137,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69f17a118feca91f14920331?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Apr 28 |
 | **[Hotel del Coronado](https://hoteldel.com)** | **[Human Resources Intern - Hotel del Coronado, Curio Collection by Hilton](https://jobright.ai/jobs/info/69f1663e8feca91f14920024?utm_campaign=1054&utm_source=git)** | Coronado, CA | On Site | Apr 28 |
 | **[Cincinnati Metro](https://www.go-metro.com)** | **[Employee and Labor Relations / Legal Intern](https://jobright.ai/jobs/info/69f2a7d18d8d624381aa2044?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 28 |
-| **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
-| ↳ | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
+| **[Continental](https://www.continental.com)** | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
+| ↳ | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Talent Acquisition Coordinator – Internship](https://jobright.ai/jobs/info/69f1503a8d8d624381a9b940?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 28 |
 | **[Fearless](http://fearless.tech)** | **[Talent Operations & AI Platform Intern](https://jobright.ai/jobs/info/69f25c45ecbc8c2f7320a17f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Apr 28 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16675825a315d7ca37a86?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sino Biological, Inc.](http://www.sinobiological.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69f141398d8d624381a9b5f3?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[Canvas Credit Union](https://www.canvas.org/)** | **[Intern- Learning & Development](https://jobright.ai/jobs/info/69f135198feca91f1491f07c?utm_campaign=1054&utm_source=git)** | Lone Tree, CO | On Site | Apr 28 |
 | **[Innovid](https://www.innovid.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69f117deb27fee43e8cd7292?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
+| **[Alliance Technical Group](https://alliancetg.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f135ca8d8d624381a9aef0?utm_campaign=1054&utm_source=git)** | Decatur, AL | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
