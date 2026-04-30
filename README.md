@@ -57,14 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f2978f8feca91f14925da5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
+| **[All For Kids](https://www.all4kids.org)** | **[People Support Services Intern](https://jobright.ai/jobs/info/69f2957e8feca91f14925b23?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 29 |
+| **[Prairie Payments Joint Venture](https://prairiepaymentsinitiative.ca)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69f2933df154d768fbaa7d90?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 29 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - Resource Coordinator](https://jobright.ai/jobs/info/69f28bc0825a315d7ca3d41e?utm_campaign=1054&utm_source=git)** | Indianapolis, Indiana, United States of America | On Site | Apr 29 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Resource Coordinator](https://jobright.ai/jobs/info/69f28135ecbc8c2f7320abe7?utm_campaign=1054&utm_source=git)** | Indianapolis IN, US | On Site | Apr 29 |
 | **[FreshDirect](http://freshdirect.com)** | **[Summer Internship- Planning Intern](https://jobright.ai/jobs/info/69f27a198feca91f14924f49?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Apr 29 |
 | **[Wedbush](https://www.wedbush.com)** | **[Intern, Total Rewards, Compensation & Analytics](https://jobright.ai/jobs/info/69f2796a8d8d624381aa108a?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 29 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f2793c8d8d624381aa0f3d?utm_campaign=1054&utm_source=git)** | Arden - North Carolina - USA, US | On Site | Apr 29 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69f27855ab4ec4779fff94e2?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/69f27827ab4ec4779fff940e?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Apr 29 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f295928feca91f14925b99?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Apr 29 |
+| **[SalesForce-ad](https://www.salesforce.com/)** | **[Summer 2026 Intern - Recruiting Analytics](https://jobright.ai/jobs/info/69f28972f154d768fbaa7922?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f269c9ab4ec4779fff8f89?utm_campaign=1054&utm_source=git)** | Paso Robles, CA, USA | Hybrid | Apr 29 |
 | **[Valence](https://www.getvalence.com)** | **[Human Resources Technologist- Summer Internship](https://jobright.ai/jobs/info/69f268eaf154d768fbaa6c26?utm_campaign=1054&utm_source=git)** | Lynwood, CA | On Site | Apr 29 |
+| **[Halton District School Board](http://www.hdsb.ca)** | **[Officer - Health and Safety - Human Resources (35hrs)](https://jobright.ai/jobs/info/69f292eeab4ec4779fff9cfc?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Apr 29 |
 | **[Gallagher](https://www.ajg.com/)** | **[Corporate Intern - Global Total Rewards Team](https://jobright.ai/jobs/info/69f26047ab4ec4779fff8bd0?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL | On Site | Apr 29 |
 | **[Centella](http://www.med-lab.com/)** | **[Talent and Culture Intern](https://jobright.ai/jobs/info/69f278418d8d624381aa0e67?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 29 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 People + Culture Intern / Support Center](https://jobright.ai/jobs/info/69a32a790da45516f16c7364?utm_campaign=1054&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Apr 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0fc3762b48c6838792f81?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[Bradford White](https://bradfordwhite.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f0fbc0825a315d7ca3560a?utm_campaign=1054&utm_source=git)** | Middleville, MI | On Site | Apr 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0fbab8feca91f1491dc1c?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Apr 28 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0fb93b27fee43e8cd674d?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Apr 28 |
-| **[Simon Group Holdings](http://simongroupholdings.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f0fb77ecbc8c2f73202d2a?utm_campaign=1054&utm_source=git)** | Detroit Metro | On Site | Apr 28 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f0fb6562b48c6838792ea8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
-| **[Akron Children's](http://www.akronchildrens.org)** | **[HR Employee Relations Intern](https://jobright.ai/jobs/info/69f118d3b27fee43e8cd7426?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Apr 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0f51cecbc8c2f73202c92?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Apr 28 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0f514b27fee43e8cd6611?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 28 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: People & Culture (Fall 2026)](https://jobright.ai/jobs/info/69f0eec9ecbc8c2f73202b5f?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, US, 21742 | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
