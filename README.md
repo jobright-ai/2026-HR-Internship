@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69f2a4b78feca91f14926095?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69f2a03cecbc8c2f7320b9c1?utm_campaign=1054&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 29 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29ad0ab4ec4779fffa028?utm_campaign=1054&utm_source=git)** | Arden, NC | On Site | Apr 29 |
+| **[Industrial Metal Supply Co.](http://www.industrialmetalsupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29a4b8d8d624381aa1bac?utm_campaign=1054&utm_source=git)** | 8300 San Fernando Road, Sun Valley | On Site | Apr 29 |
+| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f29a1b825a315d7ca3d8d6?utm_campaign=1054&utm_source=git)** | Dallas, TX, 75067-8975, United States | On Site | Apr 29 |
+| **[Scout Energy Partners](https://www.scoutep.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f29a0cecbc8c2f7320b89d?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Apr 29 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f2978f8feca91f14925da5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[All For Kids](https://www.all4kids.org)** | **[People Support Services Intern](https://jobright.ai/jobs/info/69f2957e8feca91f14925b23?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 29 |
 | **[Prairie Payments Joint Venture](https://prairiepaymentsinitiative.ca)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69f2933df154d768fbaa7d90?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 29 |
@@ -121,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[UCSF Health](https://www.ucsfhealth.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69f1b07e825a315d7ca396c4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 28 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69f17a118feca91f14920331?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Apr 28 |
 | **[Hotel del Coronado](https://hoteldel.com)** | **[Human Resources Intern - Hotel del Coronado, Curio Collection by Hilton](https://jobright.ai/jobs/info/69f1663e8feca91f14920024?utm_campaign=1054&utm_source=git)** | Coronado, CA | On Site | Apr 28 |
-| **[Continental](https://www.continental.com)** | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
-| ↳ | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
+| **[Continental](https://www.continental.com)** | **[Intern - Recruiting Coordinator, Year-Round](https://jobright.ai/jobs/info/69e6ff407820c036924d2e6c?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
+| ↳ | **[2026 Summer HR Intern](https://jobright.ai/jobs/info/69e8df157820c036924e373d?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 28 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Talent Acquisition Coordinator – Internship](https://jobright.ai/jobs/info/69f1503a8d8d624381a9b940?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 28 |
 | **[Fearless](http://fearless.tech)** | **[Talent Operations & AI Platform Intern](https://jobright.ai/jobs/info/69f25c45ecbc8c2f7320a17f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Apr 28 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f16675825a315d7ca37a86?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - HR, Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/69f12d5d825a315d7ca36495?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
 | **[Fox Pest Control](https://fox-pest.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f1359becbc8c2f73204884?utm_campaign=1054&utm_source=git)** | Logan, UT | Hybrid | Apr 28 |
 | **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69f10359ecbc8c2f73203231?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, US | On Site | Apr 28 |
-| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Apr 28 |
-| **[Eden Housing, Inc.](http://www.edenhousing.org)** | **[Summer Intern Human Resources - Central Office, Hayward](https://jobright.ai/jobs/info/69f11f8e8feca91f1491eb1d?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Apr 28 |
-| **[Thea Pharma US](https://www.theapharmainc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f12cf6825a315d7ca3625d?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Apr 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0fc3762b48c6838792f81?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 28 |
-| **[Bradford White](https://bradfordwhite.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f0fbc0825a315d7ca3560a?utm_campaign=1054&utm_source=git)** | Middleville, MI | On Site | Apr 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0fbab8feca91f1491dc1c?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
