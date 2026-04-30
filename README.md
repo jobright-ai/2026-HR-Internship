@@ -59,7 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Parker Hannifin](http://www.parker.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69f2cbf334c4af7a79ab6379?utm_campaign=1054&utm_source=git)** | Eaton, OH | On Site | Apr 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, People Analytics (Summer 2026)](https://jobright.ai/jobs/info/69f2bd448d8d624381aa3aa2?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 29 |
+| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f2d878ecbc8c2f7320ee46?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 29 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Talent Development & Talent Acquisition Intern](https://jobright.ai/jobs/info/69f2ada6ecbc8c2f7320bd21?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Apr 29 |
+| **[City of Moreno Valley](https://moval.gov)** | **[Intern II (Human Resources)](https://jobright.ai/jobs/info/69f2d17d34c4af7a79ab67e1?utm_campaign=1054&utm_source=git)** | Moreno Valley, CA | On Site | Apr 29 |
 | **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69f2a4b78feca91f14926095?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
 | **[Cincinnati Metro](https://www.go-metro.com)** | **[Employee and Labor Relations / Legal Intern](https://jobright.ai/jobs/info/69f2ca85825a315d7ca3fa3b?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Apr 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69f2a03cecbc8c2f7320b9c1?utm_campaign=1054&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Canvas Credit Union](https://www.canvas.org/)** | **[Intern- Learning & Development](https://jobright.ai/jobs/info/69f135198feca91f1491f07c?utm_campaign=1054&utm_source=git)** | Lone Tree, CO | On Site | Apr 28 |
 | **[Innovid](https://www.innovid.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/69f117deb27fee43e8cd7292?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[Alliance Technical Group](https://alliancetg.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f135ca8d8d624381a9aef0?utm_campaign=1054&utm_source=git)** | Decatur, AL | On Site | Apr 28 |
-| **[HERE Technologies](https://www.here.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f12dc88d8d624381a9aba3?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Apr 28 |
-| **[U.S. AutoForce](https://www.usautoforce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f1104a8feca91f1491e62f?utm_campaign=1054&utm_source=git)** | 425 Better Way, Appleton, WI 54915, United States of America | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
