@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[M.C. Dean, Inc.](http://mcdean.com)** | **[Early Internship Program - Summer 2026 (Human Resources Intern)](https://jobright.ai/jobs/info/69f407686942c746fa69683e?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Apr 30 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern (ATL - Bundle 2)](https://jobright.ai/jobs/info/69f405c3343eef4fb0a9f92c?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Apr 30 |
 | **[Kovalus Separation Solutions](https://www.kovalus.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f40599343eef4fb0a9f8b4?utm_campaign=1054&utm_source=git)** | Wilmington, MA | On Site | Apr 30 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3f849461b9b613a6253e8?utm_campaign=1054&utm_source=git)** | Atlanta Metro | Hybrid | Apr 30 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Human Resources Intern - Western Canada](https://jobright.ai/jobs/info/69f35d76c78b9e45189546dc?utm_campaign=1054&utm_source=git)** | Canada, Alberta, Calgary, CA | On Site | Apr 29 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f3251658b23a2329da31bb?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Human Resources Intern - Ontario](https://jobright.ai/jobs/info/69f324d3c78b9e451895387f?utm_campaign=1054&utm_source=git)** | Canada, Ontario, Mississauga, CA | On Site | Apr 29 |
-| ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/69f34aed1f90bd6ae23ce71a?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/69f34ad0343eef4fb0a99daa?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Sherbrooke, CA | On Site | Apr 29 |
+| ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/69f34aed1f90bd6ae23ce71a?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69f2cbf334c4af7a79ab6379?utm_campaign=1054&utm_source=git)** | Eaton, OH | On Site | Apr 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, People Analytics (Summer 2026)](https://jobright.ai/jobs/info/69f2bd448d8d624381aa3aa2?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 29 |
 | **[City of Moreno Valley](https://moval.gov)** | **[Intern II (Human Resources)](https://jobright.ai/jobs/info/69f2d17d34c4af7a79ab67e1?utm_campaign=1054&utm_source=git)** | Moreno Valley, CA | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Intern - Human Resources Paid internship](https://jobright.ai/jobs/info/69f2ec378d8d624381aa4872?utm_campaign=1054&utm_source=git)** | Garden City, ID | On Site | Apr 29 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29ad0ab4ec4779fffa028?utm_campaign=1054&utm_source=git)** | Arden, NC | On Site | Apr 29 |
 | **[Industrial Metal Supply Co.](http://www.industrialmetalsupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29a4b8d8d624381aa1bac?utm_campaign=1054&utm_source=git)** | 8300 San Fernando Road, Sun Valley | On Site | Apr 29 |
-| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f29a1b825a315d7ca3d8d6?utm_campaign=1054&utm_source=git)** | Dallas, TX, 75067-8975, United States | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
