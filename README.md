@@ -57,18 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guerbet](http://www.guerbet.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f501cc12f2811ab5a6275c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | May 01 |
+| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Human Resource Intern - Franklin Electric - Energy Systems](https://jobright.ai/jobs/info/69f501cc12f2811ab5a6275f?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | May 01 |
+| **[Dematic](http://www.dematic.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69f4fa4843a25828a8d15e7f?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | May 01 |
 | **[Electro](electrogum.com)** | **[Affiliate Recruitment Intern](https://jobright.ai/jobs/info/69f4f210a3d34b4f76f52a1d?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | May 01 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Cuddles Learning](https://www.cuddleskidz.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f4ea5912f2811ab5a61c8e?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 01 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4e4e281706a5bd2163bea?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 01 |
 | **[Valero](http://www.valero.com)** | **[HR Analytics Support Intern - (Summer 2026)](https://jobright.ai/jobs/info/69f4e3e143a25828a8d159e8?utm_campaign=1054&utm_source=git)** | United States | Remote | May 01 |
 | ↳ | **[HR Analytics Support Intern - (Summer 2026)](https://jobright.ai/jobs/info/69f4e3920b36ff035474fa1c?utm_campaign=1054&utm_source=git)** | US-TX-San Antonio | On Site | May 01 |
+| **[OTG Management](http://www.otgexp.com/)** | **[IAH Talent Acquisition Intern](https://jobright.ai/jobs/info/699f882cce78e77b4fe55475?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | May 01 |
+| **[AltimateMedical](http://easystand.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/69f4ff51a3d34b4f76f52c8e?utm_campaign=1054&utm_source=git)** | Morton, MN | On Site | May 01 |
+| **[Devoted Health](https://devoted.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f5011bdb88714bcdfb136d?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | May 01 |
+| **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8b1f3b861c42857c4c543?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 01 |
 | **[KION Group](http://www.kiongroup.com/)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69f4d58843a25828a8d1563e?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 01 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4cce381706a5bd21631e4?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | May 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/698242fb0f6f7e7a2cdb6c2a?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | May 01 |
 | **[Harvey Performance Company](https://www.harveyperformance.com)** | **[Talent Aquisition Intern](https://jobright.ai/jobs/info/69f4cc22a3d34b4f76f51961?utm_campaign=1054&utm_source=git)** | Gorham, Maine, United States | On Site | May 01 |
 | **[WisdomTree](http://www.wisdomtree.com)** | **[Human Resources Intern – 2026](https://jobright.ai/jobs/info/69f4c6b60b36ff035474ed88?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/69d876fcb67cec4f9b09c986?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | May 01 |
+| **[Gerber Plumbing Fixtures](http://gerberonline.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d809c0b67cec4f9b099ff5?utm_campaign=1054&utm_source=git)** | Woodridge, IL | Hybrid | May 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6982de48348f733a5c35ffdc?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | May 01 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[MFG HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/699fff1181476f6176b9f72f?utm_campaign=1054&utm_source=git)** | Sunnyvale, TX | On Site | May 01 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[HR AI Innovation Intern](https://jobright.ai/jobs/info/69d7fcf3b861c42857c479d6?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | May 01 |
@@ -121,7 +129,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3b4b76942c746fa694a3a?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | Apr 30 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/69f3d71cc78b9e4518957e5a?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Professional Staff Internship](https://jobright.ai/jobs/info/69f3eb8858b23a2329da8e8b?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 30 |
-| **[Mclaurin Aerospace](https://mclaurin.aero)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f3ddf958b23a2329da872b?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 30 |
 | **[InterMed, P.A.](http://intermed.com)** | **[Human Resource Intern / South Portland, ME / Full-Time](https://jobright.ai/jobs/info/69f3acf91f90bd6ae23d1411?utm_campaign=1054&utm_source=git)** | South Portland, Maine, United States | On Site | Apr 30 |
 | **[Accuris](https://accuristech.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69f3abfb6942c746fa693515?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Apr 30 |
 | **[InterMed, P.A.](http://intermed.com)** | **[Human Resource Intern / South Portland, ME / Full-Time](https://jobright.ai/jobs/info/69f4d51da3d34b4f76f520da?utm_campaign=1054&utm_source=git)** | South Portland, ME, US | On Site | Apr 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Talent Development Intern / Multiple Locations](https://jobright.ai/jobs/info/69d6ee1ccfdc6132f946e158?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Apr 30 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f3d83d6942c746fa6953a3?utm_campaign=1054&utm_source=git)** | New York, New York, USA, US | Hybrid | Apr 30 |
 | **[Top Notch Distributors, Inc.](http://www.topnotchinc.com)** | **[Internship (HR, Sales, Purchasing)](https://jobright.ai/jobs/info/69f3ad831f90bd6ae23d15b9?utm_campaign=1054&utm_source=git)** | Honesdale, PA | On Site | Apr 30 |
-| **[Park Nicollet Health Services](http://www.parknicollet.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69f3b322461b9b613a62340a?utm_campaign=1054&utm_source=git)** | St Louis Park, MN | On Site | Apr 30 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6981122e49964d25b5e3e07d?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | Apr 30 |
-| **[CSI Leasing, Inc.](https://www.csileasing.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f39792343eef4fb0a9c1ae?utm_campaign=1054&utm_source=git)** | Weldon Spring Heights, MO | On Site | Apr 30 |
-| **[South Port Square](https://southportseniorliving.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f3764e343eef4fb0a9a6d1?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Apr 30 |
-| **[Park Nicollet Health Services](http://www.parknicollet.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69f3764cc78b9e4518954c81?utm_campaign=1054&utm_source=git)** | Saint Louis Park, MN, United States | On Site | Apr 30 |
-| **[StoneRidge Senior Living Community](https://www.stoneridgelcs.com/careers/)** | **[HR Intern](https://jobright.ai/jobs/info/69f37643343eef4fb0a9a6ad?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Apr 30 |
-| **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69f37642343eef4fb0a9a6ab?utm_campaign=1054&utm_source=git)** | Saint Louis Park, MN, United States | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
