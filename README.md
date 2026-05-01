@@ -143,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Human Resources Intern - Western Canada](https://jobright.ai/jobs/info/69f35d76c78b9e45189546dc?utm_campaign=1054&utm_source=git)** | Canada, Alberta, Calgary, CA | On Site | Apr 29 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f3251658b23a2329da31bb?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Human Resources Intern - Ontario](https://jobright.ai/jobs/info/69f324d3c78b9e451895387f?utm_campaign=1054&utm_source=git)** | Canada, Ontario, Mississauga, CA | On Site | Apr 29 |
-| ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/69f34ad0343eef4fb0a99daa?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Sherbrooke, CA | On Site | Apr 29 |
 | ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/69f34aed1f90bd6ae23ce71a?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
+| ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/69f34ad0343eef4fb0a99daa?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Sherbrooke, CA | On Site | Apr 29 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69f2cbf334c4af7a79ab6379?utm_campaign=1054&utm_source=git)** | Eaton, OH | On Site | Apr 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, People Analytics (Summer 2026)](https://jobright.ai/jobs/info/69f2bd448d8d624381aa3aa2?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 29 |
 | **[City of Moreno Valley](https://moval.gov)** | **[Intern II (Human Resources)](https://jobright.ai/jobs/info/69f2d17d34c4af7a79ab67e1?utm_campaign=1054&utm_source=git)** | Moreno Valley, CA | On Site | Apr 29 |
