@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4e4e281706a5bd2163bea?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 01 |
+| **[Valero](http://www.valero.com)** | **[HR Analytics Support Intern - (Summer 2026)](https://jobright.ai/jobs/info/69f4e3e143a25828a8d159e8?utm_campaign=1054&utm_source=git)** | United States | Remote | May 01 |
+| ↳ | **[HR Analytics Support Intern - (Summer 2026)](https://jobright.ai/jobs/info/69f4e3920b36ff035474fa1c?utm_campaign=1054&utm_source=git)** | US-TX-San Antonio | On Site | May 01 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern (Folmar - Bundle 2) 2025 - 2026](https://jobright.ai/jobs/info/69f4d5980b36ff035474f729?utm_campaign=1054&utm_source=git)** | GA_Athens-clarke_224218, US | On Site | May 01 |
 | **[KION Group](http://www.kiongroup.com/)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69f4d58843a25828a8d1563e?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 01 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4cce381706a5bd21631e4?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | May 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HealthPartners](https://www.healthpartners.com/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69f3761a461b9b613a6205f8?utm_campaign=1054&utm_source=git)** | Saint Louis Park, MN, United States | On Site | Apr 30 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Graduate Intern, Employee Well-Being (ETS) / Temporary](https://jobright.ai/jobs/info/69f376171f90bd6ae23cf412?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 30 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Graduate Intern, Employee Well-Being (ETS) / Temporary](https://jobright.ai/jobs/info/69f3761658b23a2329da4858?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Apr 30 |
-| **[LCS](https://www.lcsnet.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f375ff1f90bd6ae23cf3c7?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Apr 30 |
-| **[Cottage Grove Place](https://cottagegroveplace.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f375ff1f90bd6ae23cf3c8?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Apr 30 |
-| **[Casa de las Campanas](https://www.casadelascampanas.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f375ff58b23a2329da481f?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
