@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centrum Health](https://centrumhealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3dc811f90bd6ae23d2470?utm_campaign=1054&utm_source=git)** | St. Louis Park, Minnesota, United States | Hybrid | Apr 30 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f3da981f90bd6ae23d22f0?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern – Recruiting / Talent Acquisition Support (Summer)](https://jobright.ai/jobs/info/69f3da801f90bd6ae23d228c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 30 |
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Apr 30 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3d893343eef4fb0a9e648?utm_campaign=1054&utm_source=git)** | Buffalo,NY,US | On Site | Apr 30 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/69f3d15a58b23a2329da8130?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Apr 30 |
+| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3e39fc78b9e4518958887?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Apr 30 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, HR Learning and Development](https://jobright.ai/jobs/info/69f3baba6942c746fa694b11?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Apr 30 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Graduate Intern, Employee Well-Being (ETS) / Temporary](https://jobright.ai/jobs/info/69f3ba8c58b23a2329da7cb6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Apr 30 |
 | **[Keplr Vision](https://keplrvision.com/)** | **[Summer Intern- Human Resources, Communications](https://jobright.ai/jobs/info/69f3b4d1461b9b613a62395b?utm_campaign=1054&utm_source=git)** | 3 Bryant Pk, New York, NY 10036, USA | Hybrid | Apr 30 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3b4b76942c746fa694a3a?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | Apr 30 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/69f3d71cc78b9e4518957e5a?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
 | **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3b30d6942c746fa694487?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | Apr 30 |
+| **[Mclaurin Aerospace](https://mclaurin.aero)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f3ddf958b23a2329da872b?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Apr 30 |
 | **[InterMed, P.A.](http://intermed.com)** | **[Human Resource Intern / South Portland, ME / Full-Time](https://jobright.ai/jobs/info/69f3acf91f90bd6ae23d1411?utm_campaign=1054&utm_source=git)** | South Portland, Maine, United States | On Site | Apr 30 |
 | **[Accuris](https://accuristech.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69f3abfb6942c746fa693515?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Apr 30 |
 | **[PROJXON](www.projxon.com)** | **[Human Resources Generalist Intern](https://jobright.ai/jobs/info/69f3a17cc78b9e451895680b?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 30 |
@@ -79,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Accuris](https://accuristech.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69f3971d343eef4fb0a9c096?utm_campaign=1054&utm_source=git)** | Denver, CO, USA | Hybrid | Apr 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Port St Lucie](https://jobright.ai/jobs/info/6982d8fe8232105a2d0b56e8?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Apr 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Amarillo, TX](https://jobright.ai/jobs/info/696791bbf25a38006695e6bd?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | Apr 30 |
+| **[General Atomics](http://www.ga.com)** | **[Senior TA Specialist - Intern Program & University Relations](https://jobright.ai/jobs/info/69f3dc99461b9b613a6248e6?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Graduate Intern, Employee Well-Being (ETS) / Temporary](https://jobright.ai/jobs/info/69f393d3343eef4fb0a9bfbf?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Apr 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Midland/Odessa, TX](https://jobright.ai/jobs/info/696788cf1703f05405a92b36?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Apr 30 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac5fc1224705e9001e003?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA | On Site | Apr 30 |
@@ -126,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Human Resources Intern - Western Canada](https://jobright.ai/jobs/info/69f35d76c78b9e45189546dc?utm_campaign=1054&utm_source=git)** | Canada, Alberta, Calgary, CA | On Site | Apr 29 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f3251658b23a2329da31bb?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Human Resources Intern - Ontario](https://jobright.ai/jobs/info/69f324d3c78b9e451895387f?utm_campaign=1054&utm_source=git)** | Canada, Ontario, Mississauga, CA | On Site | Apr 29 |
-| ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/69f34aed1f90bd6ae23ce71a?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/69f34ad0343eef4fb0a99daa?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Sherbrooke, CA | On Site | Apr 29 |
+| ↳ | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/69f34aed1f90bd6ae23ce71a?utm_campaign=1054&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69f2cbf334c4af7a79ab6379?utm_campaign=1054&utm_source=git)** | Eaton, OH | On Site | Apr 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, People Analytics (Summer 2026)](https://jobright.ai/jobs/info/69f2bd448d8d624381aa3aa2?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 29 |
 | **[City of Moreno Valley](https://moval.gov)** | **[Intern II (Human Resources)](https://jobright.ai/jobs/info/69f2d17d34c4af7a79ab67e1?utm_campaign=1054&utm_source=git)** | Moreno Valley, CA | On Site | Apr 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baltimore Crisis Response, Inc.](https://bcresponse.org/)** | **[Human Resources Intern (10715)](https://jobright.ai/jobs/info/69f2a843825a315d7ca3dce9?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Apr 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69f295928feca91f14925b99?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Apr 29 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f269c9ab4ec4779fff8f89?utm_campaign=1054&utm_source=git)** | Paso Robles, CA, USA | Hybrid | Apr 29 |
-| **[Valence](https://www.getvalence.com)** | **[Human Resources Technologist- Summer Internship](https://jobright.ai/jobs/info/69f268eaf154d768fbaa6c26?utm_campaign=1054&utm_source=git)** | Lynwood, CA | On Site | Apr 29 |
-| **[Halton District School Board](http://www.hdsb.ca)** | **[Officer - Health and Safety - Human Resources (35hrs)](https://jobright.ai/jobs/info/69f292eeab4ec4779fff9cfc?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Apr 29 |
-| **[Gallagher](https://www.ajg.com/)** | **[Corporate Intern - Global Total Rewards Team](https://jobright.ai/jobs/info/69f26047ab4ec4779fff8bd0?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL | On Site | Apr 29 |
-| **[Centella](http://www.med-lab.com/)** | **[Talent and Culture Intern](https://jobright.ai/jobs/info/69f278418d8d624381aa0e67?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
