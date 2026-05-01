@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Double Good](https://www.doublegood.com/)** | **[People & Culture Intern (Summer 2026)](https://jobright.ai/jobs/info/69bcafdd45e08b3dc1f972d4?utm_campaign=1054&utm_source=git)** | Elmhurst, IL | On Site | May 01 |
 | **[Neapco](http://neapco.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d7ba7fb67cec4f9b096f4d?utm_campaign=1054&utm_source=git)** | Belleville, MI | On Site | May 01 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69bbd91d5b89c002acf09eea?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | May 01 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/69a3e8a6359fe034b1ced4c9?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | May 01 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[MFG HUMAN RESOURCES INTERN (Sunnyvale, Texas, United States, 75182)](https://jobright.ai/jobs/info/699fedb9ce78e77b4fe5eab9?utm_campaign=1054&utm_source=git)** | Sunnyvale, TX | On Site | May 01 |
 | **[St. Charles County Government](http://www.sccmo.org)** | **[WORKFORCE AND CAREER DEVELOPMENT INTERNSHIP](https://jobright.ai/jobs/info/69f48527db88714bcdfad98f?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | May 01 |
+| **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) - Full Time Canada Remote / 3 Months / Indian Workforce Company](https://jobright.ai/jobs/info/69f4a39181706a5bd2161dfb?utm_campaign=1054&utm_source=git)** | Canada | Remote | May 01 |
 | **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f462d743a25828a8d12135?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | May 01 |
 | **[DriveTime](https://www.drivetime.com)** | **[Business Systems Analyst Intern (HR Technology)](https://jobright.ai/jobs/info/69f456af1f90bd6ae23d4514?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | May 01 |
 | **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Compensation - New Jersey Location](https://jobright.ai/jobs/info/69df24fe18cf504166e3288a?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Supreme Court of Ohio](http://supremecourt.ohio.gov)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/69efe8260a6e09555305827e?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Apr 30 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Resource Coordinator](https://jobright.ai/jobs/info/69f32294343eef4fb0a992ec?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Apr 30 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/69f3221c1f90bd6ae23cdaa0?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Apr 30 |
-| **[Sage Hospitality Group](https://www.sagehospitalitygroup.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69f31169ab4ec4779fffe652?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Human Resources Intern - Western Canada](https://jobright.ai/jobs/info/69f35d76c78b9e45189546dc?utm_campaign=1054&utm_source=git)** | Canada, Alberta, Calgary, CA | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
