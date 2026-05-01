@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern (ATL - Bundle 2)](https://jobright.ai/jobs/info/69f405c3343eef4fb0a9f92c?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Apr 30 |
+| **[Kovalus Separation Solutions](https://www.kovalus.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f40599343eef4fb0a9f8b4?utm_campaign=1054&utm_source=git)** | Wilmington, MA | On Site | Apr 30 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3f849461b9b613a6253e8?utm_campaign=1054&utm_source=git)** | Atlanta Metro | Hybrid | Apr 30 |
+| **[DivcoWest](http://www.divcowest.com/)** | **[AI Intern, People Operations](https://jobright.ai/jobs/info/69f3f7b8343eef4fb0a9f426?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 30 |
 | **[Chattanooga Area Regional Transportation Authority](https://www.gocarta.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3f1cc343eef4fb0a9f36c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Apr 30 |
 | **[Akima](https://www.akima.com)** | **[NANA Shareholder Paid College Internship- Human Resources (NANA Shareholders Only)](https://jobright.ai/jobs/info/69f3eb87c78b9e4518958c04?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | Apr 30 |
 | **[Keplr Vision](https://keplrvision.com/)** | **[Summer Intern- Human Resources, Communications](https://jobright.ai/jobs/info/69f3eb86c78b9e4518958bff?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | ↳ | **[Summer Intern - Human Resources, Systems](https://jobright.ai/jobs/info/69f3eb686942c746fa69605e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Sales Compensation Analyst](https://jobright.ai/jobs/info/69f405b3343eef4fb0a9f8ef?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Apr 30 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Student Internship - Recruitment](https://jobright.ai/jobs/info/69f40535c78b9e4518959074?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Apr 30 |
 | **[Centrum Health](https://centrumhealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3dc811f90bd6ae23d2470?utm_campaign=1054&utm_source=git)** | St. Louis Park, Minnesota, United States | Hybrid | Apr 30 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f3da981f90bd6ae23d22f0?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern – Recruiting / Talent Acquisition Support (Summer)](https://jobright.ai/jobs/info/69f3da801f90bd6ae23d228c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29ad0ab4ec4779fffa028?utm_campaign=1054&utm_source=git)** | Arden, NC | On Site | Apr 29 |
 | **[Industrial Metal Supply Co.](http://www.industrialmetalsupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29a4b8d8d624381aa1bac?utm_campaign=1054&utm_source=git)** | 8300 San Fernando Road, Sun Valley | On Site | Apr 29 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f29a1b825a315d7ca3d8d6?utm_campaign=1054&utm_source=git)** | Dallas, TX, 75067-8975, United States | On Site | Apr 29 |
-| **[Scout Energy Partners](https://www.scoutep.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f29a0cecbc8c2f7320b89d?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Apr 29 |
-| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f2978f8feca91f14925da5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
-| **[All For Kids](https://www.all4kids.org)** | **[People Support Services Intern](https://jobright.ai/jobs/info/69f2957e8feca91f14925b23?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 29 |
-| **[Prairie Payments Joint Venture](https://prairiepaymentsinitiative.ca)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69f2933df154d768fbaa7d90?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 29 |
-| **[IAP2 USA](https://iap2usa.org/)** | **[Paid Research Opportunity](https://jobright.ai/jobs/info/69f2a82d825a315d7ca3dc66?utm_campaign=1054&utm_source=git)** | Brighton, CO | Remote | Apr 29 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - Resource Coordinator](https://jobright.ai/jobs/info/69f28bc0825a315d7ca3d41e?utm_campaign=1054&utm_source=git)** | Indianapolis, Indiana, United States of America | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
