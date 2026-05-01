@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WisdomTree](http://www.wisdomtree.com)** | **[Human Resources Intern – 2026](https://jobright.ai/jobs/info/69f4c6b60b36ff035474ed88?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 01 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/69d876fcb67cec4f9b09c986?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | May 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6982de48348f733a5c35ffdc?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | May 01 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[MFG HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/699fff1181476f6176b9f72f?utm_campaign=1054&utm_source=git)** | Sunnyvale, TX | On Site | May 01 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[HR AI Innovation Intern](https://jobright.ai/jobs/info/69d7fcf3b861c42857c479d6?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | May 01 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1a6348f733a5c36e8df?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | May 01 |
 | **[Double Good](https://www.doublegood.com/)** | **[People & Culture Intern (Summer 2026)](https://jobright.ai/jobs/info/69bcafdd45e08b3dc1f972d4?utm_campaign=1054&utm_source=git)** | Elmhurst, IL | On Site | May 01 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6983b7cf0f6f7e7a2cdd501f?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | May 01 |
 | **[Neapco](http://neapco.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d7ba7fb67cec4f9b096f4d?utm_campaign=1054&utm_source=git)** | Belleville, MI | On Site | May 01 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69bbd91d5b89c002acf09eea?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | May 01 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/69a3e8a6359fe034b1ced4c9?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | May 01 |
@@ -80,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Kovalus Separation Solutions](https://www.kovalus.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f40599343eef4fb0a9f8b4?utm_campaign=1054&utm_source=git)** | Wilmington, MA | On Site | Apr 30 |
 | **[LiftHER Career](https://lifthercareer.com/)** | **[Analyst (Entry-Level) – Fellowship Program](https://jobright.ai/jobs/info/69f42a31343eef4fb0aa003c?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Graduate Assistant-Professional Development](https://jobright.ai/jobs/info/69f42386c78b9e451895958d?utm_campaign=1054&utm_source=git)** | St Augustine, FL | Hybrid | Apr 30 |
+| **[Avid Technology Professionals](http://www.avidtec.com/)** | **[HR/Accounting/Administration Intern with Security Clearance](https://jobright.ai/jobs/info/69f4c6c712f2811ab5a60d05?utm_campaign=1054&utm_source=git)** | Laurel, MD | Hybrid | Apr 30 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3f849461b9b613a6253e8?utm_campaign=1054&utm_source=git)** | Atlanta Metro | Hybrid | Apr 30 |
 | **[DivcoWest](http://www.divcowest.com/)** | **[AI Intern, People Operations](https://jobright.ai/jobs/info/69f3f7b8343eef4fb0a9f426?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Apr 30 |
 | **[Chattanooga Area Regional Transportation Authority](https://www.gocarta.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3f1cc343eef4fb0a9f36c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Apr 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Selene Finance LP](https://seleneadvantage.com)** | **[Internship - People Ops](https://jobright.ai/jobs/info/69d6e3becfdc6132f946df53?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Apr 30 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Talent Development Intern / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2b366bb95ba5550b98?utm_campaign=1054&utm_source=git)** | Springfield, MO | Hybrid | Apr 30 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Human Resources](https://jobright.ai/jobs/info/69d7057948f0c8161d2fc5b8?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Apr 30 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Inclusion & Engagement](https://jobright.ai/jobs/info/69eb40b3dc35f7132c4aef89?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 30 |
-| **[Exabeam](http://www.exabeam.com)** | **[Enablement Internship](https://jobright.ai/jobs/info/69d6d02752a5bf580012c414?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 30 |
-| **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69d71c5748f0c8161d2fd092?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
-| **[Cornerstone Research](https://www.cornerstone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69b36570ad360c0340a87d3a?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Apr 30 |
-| **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Resource Management Intern](https://jobright.ai/jobs/info/698145d649964d25b5e42996?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
