@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69a257da0da45516f16b9b90?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | May 02 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a1ff10b600907a96284cb4?utm_campaign=1054&utm_source=git)** | Shelton, CT | On Site | May 02 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/69f61429a3d34b4f76f579c2?utm_campaign=1054&utm_source=git)** | Virginia, United States | Hybrid | May 02 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/69f611b8db88714bcdfb58d7?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | May 02 |
 | **[Quva](http://www.quvapharma.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc767e45e08b3dc1f935c2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | May 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 02 |
+| **[JAM Industries](https://jamindustries.com/)** | **[Talent Acquisition & DEI - Intern](https://jobright.ai/jobs/info/69a1160d81476f6176bb6bea?utm_campaign=1054&utm_source=git)** | Baie-d’Urfé, Quebec, Canada | On Site | May 02 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd73?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | May 02 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[HR/Accounting/Administration Intern with Security Clearance](https://jobright.ai/jobs/info/69f4c6c712f2811ab5a60d05?utm_campaign=1054&utm_source=git)** | Laurel, MD | Hybrid | Apr 30 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3f849461b9b613a6253e8?utm_campaign=1054&utm_source=git)** | Atlanta Metro | Hybrid | Apr 30 |
 | **[Chattanooga Area Regional Transportation Authority](https://www.gocarta.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3f1cc343eef4fb0a9f36c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Apr 30 |
-| **[Akima](https://www.akima.com)** | **[NANA Shareholder Paid College Internship- Human Resources (NANA Shareholders Only)](https://jobright.ai/jobs/info/69f3eb87c78b9e4518958c04?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | Apr 30 |
-| **[Keplr Vision](https://keplrvision.com/)** | **[Summer Intern- Human Resources, Communications](https://jobright.ai/jobs/info/69f3eb86c78b9e4518958bff?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
