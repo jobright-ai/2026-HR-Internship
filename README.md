@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quva](http://www.quvapharma.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc767e45e08b3dc1f935c2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | May 02 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd73?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | May 02 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f52a22db88714bcdfb27ec?utm_campaign=1054&utm_source=git)** | Mukwonago, WI | On Site | May 01 |
 | **[Dematic](http://www.dematic.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69f4fa4843a25828a8d15e7f?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | May 01 |
 | **[RMA Worldwide Chauffeured Transportation](https://www.rmalimo.com/)** | **[Recruiting intern](https://jobright.ai/jobs/info/69f5101fa3d34b4f76f53693?utm_campaign=1054&utm_source=git)** | Rockville, MD | On Site | May 01 |
-| **[Electro](electrogum.com)** | **[Affiliate Recruitment Intern](https://jobright.ai/jobs/info/69f4f210a3d34b4f76f52a1d?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | May 01 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $18-20/h](https://jobright.ai/jobs/info/69f529d80b36ff0354750dab?utm_campaign=1054&utm_source=git)** | Nevada, United States | On Site | May 01 |
 | **[COOP](http://coopcareers.org)** | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f53406db88714bcdfb2b5a?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 01 |
