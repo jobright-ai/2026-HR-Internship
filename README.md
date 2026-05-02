@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novant Health Urgent Care (Formerly Doctors Care)](https://doctorscare.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f53d210b36ff035475162d?utm_campaign=1054&utm_source=git)** | Corporate Office, Columbia, SC | On Site | May 01 |
+| **[HR Associates](http://hrassociates.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f53beb0b36ff03547514b7?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 01 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Now Hiring: Part-Time Human Resources Assistant (Intern)](https://jobright.ai/jobs/info/69f533f4a3d34b4f76f54478?utm_campaign=1054&utm_source=git)** | United States | Remote | May 01 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[(Virtual/Unpaid) Human Resources Specialist](https://jobright.ai/jobs/info/69f52b6a43a25828a8d178b1?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | May 01 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f52a1712f2811ab5a636af?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | May 01 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f52a30db88714bcdfb280a?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | May 01 |
 | **[Harvey Performance Company](https://www.harveyperformance.com)** | **[Talent Aquisition Intern](https://jobright.ai/jobs/info/69f529600b36ff0354750c82?utm_campaign=1054&utm_source=git)** | Gorham, ME | On Site | May 01 |
 | **[Girls Who Invest](http://www.girlswhoinvest.org)** | **[Recruiting & Admissions Intern (PT/Temp)](https://jobright.ai/jobs/info/69f52aa412f2811ab5a638d1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 01 |
-| **[DWC CPAs and Advisors](https://dwcadvisors.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f5399d43a25828a8d17e91?utm_campaign=1054&utm_source=git)** | Grand Junction, CO | On Site | May 01 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Human Resources & Office Services Intern](https://jobright.ai/jobs/info/69f529d7a3d34b4f76f53f98?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | May 01 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern (Folmar - Bundle 2) 2025 - 2026](https://jobright.ai/jobs/info/69f506eba3d34b4f76f534d9?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | May 01 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Human Resources & Office Services Intern](https://jobright.ai/jobs/info/69f506a1db88714bcdfb19eb?utm_campaign=1054&utm_source=git)** | Rockford, IL, 61101, United States | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Professional Staff Internship](https://jobright.ai/jobs/info/69f3eb8858b23a2329da8e8b?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 30 |
 | **[InterMed, P.A.](http://intermed.com)** | **[Human Resource Intern / South Portland, ME / Full-Time](https://jobright.ai/jobs/info/69f3acf91f90bd6ae23d1411?utm_campaign=1054&utm_source=git)** | South Portland, Maine, United States | On Site | Apr 30 |
 | **[Accuris](https://accuristech.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69f3abfb6942c746fa693515?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Apr 30 |
-| **[InterMed, P.A.](http://intermed.com)** | **[Human Resource Intern / South Portland, ME / Full-Time](https://jobright.ai/jobs/info/69f4d51da3d34b4f76f520da?utm_campaign=1054&utm_source=git)** | South Portland, ME, US | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
