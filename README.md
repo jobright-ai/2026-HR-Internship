@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[APM Terminals](https://www.apmterminals.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d988c15356a60f40fda356?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | May 02 |
+| **[Getinge](https://www.getinge.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d9b096b67cec4f9b0a4020?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | May 02 |
 | **[GA Telesis](http://www.gatelesis.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d96d105356a60f40fd9aca?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | May 02 |
 | **[South Carolina Department of Corrections](www.JoinSCDC.com)** | **[HR Assistant - Intern (#022102) Human Resources Administration, Columbia (RICHLAND)](https://jobright.ai/jobs/info/69f5a04712f2811ab5a65357?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | May 01 |
 | **[AGRiP (Association of Governmental Risk Pools)](https://www.agrip.org/home)** | **[Human Resource Manager – ACWA JPIA (CA)](https://jobright.ai/jobs/info/69f5c5b9db88714bcdfb4a25?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/69f3d15a58b23a2329da8130?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Apr 30 |
 | **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3f1d1461b9b613a6251db?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3e39fc78b9e4518958887?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Apr 30 |
-| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, HR Learning and Development](https://jobright.ai/jobs/info/69f3baba6942c746fa694b11?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Apr 30 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[Graduate Intern, Employee Well-Being (ETS) / Temporary](https://jobright.ai/jobs/info/69f3ba8c58b23a2329da7cb6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
