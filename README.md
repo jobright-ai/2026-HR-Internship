@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
+| ↳ | **[Intern – People Operations](https://jobright.ai/jobs/info/69d97c05738f2f099e8a2256?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
 | **[APM Terminals](https://www.apmterminals.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d988c15356a60f40fda356?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | May 02 |
 | **[Getinge](https://www.getinge.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69d9b096b67cec4f9b0a4020?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | May 02 |
 | **[GA Telesis](http://www.gatelesis.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d96d105356a60f40fd9aca?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | May 02 |
+| **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6982567c0a9e07331f8d5556?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | May 02 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69a89eeb79f3f4037f42bb82?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | May 02 |
 | **[South Carolina Department of Corrections](www.JoinSCDC.com)** | **[HR Assistant - Intern (#022102) Human Resources Administration, Columbia (RICHLAND)](https://jobright.ai/jobs/info/69f5a04712f2811ab5a65357?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | May 01 |
 | **[AGRiP (Association of Governmental Risk Pools)](https://www.agrip.org/home)** | **[Human Resource Manager – ACWA JPIA (CA)](https://jobright.ai/jobs/info/69f5c5b9db88714bcdfb4a25?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[CHR Intern](https://jobright.ai/jobs/info/69f55b41db88714bcdfb3593?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | May 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f3da981f90bd6ae23d22f0?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern – Recruiting / Talent Acquisition Support (Summer)](https://jobright.ai/jobs/info/69f3da801f90bd6ae23d228c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 30 |
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Apr 30 |
-| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3d893343eef4fb0a9e648?utm_campaign=1054&utm_source=git)** | Buffalo,NY,US | On Site | Apr 30 |
-| **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/69f3d15a58b23a2329da8130?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Apr 30 |
-| **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3f1d1461b9b613a6251db?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
-| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3e39fc78b9e4518958887?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
