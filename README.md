@@ -112,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/69d876fcb67cec4f9b09c986?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | May 01 |
 | **[Gerber Plumbing Fixtures](http://gerberonline.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d809c0b67cec4f9b099ff5?utm_campaign=1054&utm_source=git)** | Woodridge, IL | Hybrid | May 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6982de48348f733a5c35ffdc?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | May 01 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Industrial Services - Summer 2026 Internship](https://jobright.ai/jobs/info/6982519a0f6f7e7a2cdb781f?utm_campaign=1054&utm_source=git)** | Deer Park, TX | On Site | May 01 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[MFG HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/699fff1181476f6176b9f72f?utm_campaign=1054&utm_source=git)** | Sunnyvale, TX | On Site | May 01 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[HR AI Innovation Intern](https://jobright.ai/jobs/info/69d7fcf3b861c42857c479d6?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | May 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Graduate Intern, Employee Well-Being (ETS) / Temporary](https://jobright.ai/jobs/info/69f3ba8c58b23a2329da7cb6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Apr 30 |
 | **[Keplr Vision](https://keplrvision.com/)** | **[Summer Intern- Human Resources, Communications](https://jobright.ai/jobs/info/69f3b4d1461b9b613a62395b?utm_campaign=1054&utm_source=git)** | 3 Bryant Pk, New York, NY 10036, USA | Hybrid | Apr 30 |
 | ↳ | **[Summer Intern - Human Resources, Systems](https://jobright.ai/jobs/info/69f3b4d0461b9b613a623958?utm_campaign=1054&utm_source=git)** | 3 Bryant Pk, New York, NY 10036, USA | Hybrid | Apr 30 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3b4bf6942c746fa694a45?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
