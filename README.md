@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Osaic](https://osaic.com/)** | **[Human Resources Intern: Employee Storytelling](https://jobright.ai/jobs/info/69f62cc5a3d34b4f76f57cf2?utm_campaign=1054&utm_source=git)** | Michigan, United States | Hybrid | May 02 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69a257da0da45516f16b9b90?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | May 02 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a1ff10b600907a96284cb4?utm_campaign=1054&utm_source=git)** | Shelton, CT | On Site | May 02 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/69f61429a3d34b4f76f579c2?utm_campaign=1054&utm_source=git)** | Virginia, United States | Hybrid | May 02 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $18-20/h](https://jobright.ai/jobs/info/69f529d80b36ff0354750dab?utm_campaign=1054&utm_source=git)** | Nevada, United States | On Site | May 01 |
 | **[COOP](http://coopcareers.org)** | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f53406db88714bcdfb2b5a?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 01 |
-| ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f528eb43a25828a8d1738e?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 01 |
 | ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f52246db88714bcdfb22c3?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | May 01 |
+| ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f528eb43a25828a8d1738e?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 01 |
 | ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f5106e81706a5bd21647df?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[City of New York](http://www1.nyc.gov)** | **[Labor Relations Summer Graduate Intern](https://jobright.ai/jobs/info/69f510800b36ff0354750580?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | May 01 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4e4e281706a5bd2163bea?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Villanova University](http://www.villanueva.edu)** | **[Graduate Assistant-Professional Development](https://jobright.ai/jobs/info/69f42386c78b9e451895958d?utm_campaign=1054&utm_source=git)** | St Augustine, FL | Hybrid | Apr 30 |
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[HR/Accounting/Administration Intern with Security Clearance](https://jobright.ai/jobs/info/69f4c6c712f2811ab5a60d05?utm_campaign=1054&utm_source=git)** | Laurel, MD | Hybrid | Apr 30 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3f849461b9b613a6253e8?utm_campaign=1054&utm_source=git)** | Atlanta Metro | Hybrid | Apr 30 |
-| **[Chattanooga Area Regional Transportation Authority](https://www.gocarta.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3f1cc343eef4fb0a9f36c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
