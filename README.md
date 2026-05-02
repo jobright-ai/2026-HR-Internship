@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd73?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 02 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | May 02 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
 | ↳ | **[Intern – People Operations](https://jobright.ai/jobs/info/69d97c05738f2f099e8a2256?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
 | **[APM Terminals](https://www.apmterminals.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d988c15356a60f40fda356?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | May 02 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[GA Telesis](http://www.gatelesis.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d96d105356a60f40fd9aca?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | May 02 |
 | **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6982567c0a9e07331f8d5556?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | May 02 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69a89eeb79f3f4037f42bb82?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | May 02 |
+| **[Democratic National Committee](https://democrats.org/)** | **[Operations Associate/Internship Coordinator](https://jobright.ai/jobs/info/69f5f2cc81706a5bd2168051?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 02 |
 | **[South Carolina Department of Corrections](www.JoinSCDC.com)** | **[HR Assistant - Intern (#022102) Human Resources Administration, Columbia (RICHLAND)](https://jobright.ai/jobs/info/69f5a04712f2811ab5a65357?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | May 01 |
 | **[AGRiP (Association of Governmental Risk Pools)](https://www.agrip.org/home)** | **[Human Resource Manager – ACWA JPIA (CA)](https://jobright.ai/jobs/info/69f5c5b9db88714bcdfb4a25?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[CHR Intern](https://jobright.ai/jobs/info/69f55b41db88714bcdfb3593?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | May 01 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[HR Associates](http://hrassociates.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f53beb0b36ff03547514b7?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 01 |
 | **[NEC Smart Cities](https://es.nec.com/)** | **[Intern](https://jobright.ai/jobs/info/69f55d3481706a5bd21660d8?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | May 01 |
 | **[Catholic Charities of the Diocese of Rochester](https://ccdor.org/about/)** | **[PROGRAM INTERN - IMMIGRANT SERVICES PROGRAM](https://jobright.ai/jobs/info/69f5547712f2811ab5a6450b?utm_campaign=1054&utm_source=git)** | Ithaca, NY | On Site | May 01 |
-| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[(Virtual/Unpaid) Human Resources Specialist](https://jobright.ai/jobs/info/69f52b6a43a25828a8d178b1?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | May 01 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f52a1712f2811ab5a636af?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | May 01 |
 | ↳ | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f529910b36ff0354750cf5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
 | **[Spartanburg County Public Libraries](https://www.spartanburglibraries.org)** | **[Director of Human Resources](https://jobright.ai/jobs/info/69f57ca281706a5bd2166867?utm_campaign=1054&utm_source=git)** | Headquarters, KY | On Site | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Student Internship - Recruitment](https://jobright.ai/jobs/info/69f40535c78b9e4518959074?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Apr 30 |
 | **[Centrum Health](https://centrumhealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3dc811f90bd6ae23d2470?utm_campaign=1054&utm_source=git)** | St. Louis Park, Minnesota, United States | Hybrid | Apr 30 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f3da981f90bd6ae23d22f0?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
-| **[Amentum](https://www.amentum.com/)** | **[Intern – Recruiting / Talent Acquisition Support (Summer)](https://jobright.ai/jobs/info/69f3da801f90bd6ae23d228c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 30 |
-| **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
