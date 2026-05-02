@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[(Virtual/Unpaid) Human Resources Specialist](https://jobright.ai/jobs/info/69f52b6a43a25828a8d178b1?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | May 01 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f52a1712f2811ab5a636af?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | May 01 |
 | ↳ | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f529910b36ff0354750cf5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
+| **[Spartanburg County Public Libraries](https://www.spartanburglibraries.org)** | **[Director of Human Resources](https://jobright.ai/jobs/info/69f57ca281706a5bd2166867?utm_campaign=1054&utm_source=git)** | Headquarters, KY | On Site | May 01 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Human Resources & Office Services Intern](https://jobright.ai/jobs/info/69f54c0381706a5bd2165d12?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | May 01 |
 | **[Hydro-Thermal Corporation](http://hydro-thermal.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f5534f81706a5bd2165f48?utm_campaign=1054&utm_source=git)** | Waukesha, WI | On Site | May 01 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69f5107512f2811ab5a62ba4?utm_campaign=1054&utm_source=git)** | Waukesha, WI | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3b4bf6942c746fa694a45?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | Apr 30 |
 | ↳ | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3b4b76942c746fa694a3a?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | Apr 30 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/69f3d71cc78b9e4518957e5a?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
-| **[City of Charlotte](https://charlottenc.gov/)** | **[Professional Staff Internship](https://jobright.ai/jobs/info/69f3eb8858b23a2329da8e8b?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
