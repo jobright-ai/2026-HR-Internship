@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[CHR Intern](https://jobright.ai/jobs/info/69f55b41db88714bcdfb3593?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | May 01 |
 | **[Stream Companies](http://streamcompanies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f54af1a3d34b4f76f5498e?utm_campaign=1054&utm_source=git)** | West Chester, PA | On Site | May 01 |
+| **[NEC National Security Systems](https://www.necnss.com)** | **[Intern](https://jobright.ai/jobs/info/69f5928ddb88714bcdfb4148?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | May 01 |
 | **[Novant Health Urgent Care (Formerly Doctors Care)](https://doctorscare.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f53d210b36ff035475162d?utm_campaign=1054&utm_source=git)** | Corporate Office, Columbia, SC | On Site | May 01 |
 | **[HR Associates](http://hrassociates.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f53beb0b36ff03547514b7?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 01 |
 | **[NEC Smart Cities](https://es.nec.com/)** | **[Intern](https://jobright.ai/jobs/info/69f55d3481706a5bd21660d8?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Human Resources, Systems](https://jobright.ai/jobs/info/69f3b4d0461b9b613a623958?utm_campaign=1054&utm_source=git)** | 3 Bryant Pk, New York, NY 10036, USA | Hybrid | Apr 30 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3b4bf6942c746fa694a45?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | Apr 30 |
 | ↳ | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3b4b76942c746fa694a3a?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | Apr 30 |
-| **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/69f3d71cc78b9e4518957e5a?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
