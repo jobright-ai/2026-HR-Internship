@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[South Carolina Department of Corrections](www.JoinSCDC.com)** | **[HR Assistant - Intern (#022102) Human Resources Administration, Columbia (RICHLAND)](https://jobright.ai/jobs/info/69f5a04712f2811ab5a65357?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[CHR Intern](https://jobright.ai/jobs/info/69f55b41db88714bcdfb3593?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | May 01 |
 | **[Stream Companies](http://streamcompanies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f54af1a3d34b4f76f5498e?utm_campaign=1054&utm_source=git)** | West Chester, PA | On Site | May 01 |
 | **[NEC National Security Systems](https://www.necnss.com)** | **[Intern](https://jobright.ai/jobs/info/69f5928ddb88714bcdfb4148?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Keplr Vision](https://keplrvision.com/)** | **[Summer Intern- Human Resources, Communications](https://jobright.ai/jobs/info/69f3b4d1461b9b613a62395b?utm_campaign=1054&utm_source=git)** | 3 Bryant Pk, New York, NY 10036, USA | Hybrid | Apr 30 |
 | ↳ | **[Summer Intern - Human Resources, Systems](https://jobright.ai/jobs/info/69f3b4d0461b9b613a623958?utm_campaign=1054&utm_source=git)** | 3 Bryant Pk, New York, NY 10036, USA | Hybrid | Apr 30 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3b4bf6942c746fa694a45?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | Apr 30 |
-| ↳ | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3b4b76942c746fa694a3a?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
