@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Osaic](https://osaic.com/)** | **[Human Resources Intern: Employee Storytelling](https://jobright.ai/jobs/info/69f62cc5a3d34b4f76f57cf2?utm_campaign=1054&utm_source=git)** | Michigan, United States | Hybrid | May 02 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f64762b1fc847fc1ae2c06?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 02 |
 | **[Labette Community College](http://www.labette.cc.ks.us/)** | **[Admissions Recruiter](https://jobright.ai/jobs/info/69f648e781706a5bd21686e1?utm_campaign=1054&utm_source=git)** | Parsons, KS | On Site | May 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Rhinelander](https://jobright.ai/jobs/info/69d93c99869c7e25d8599881?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | May 02 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69a257da0da45516f16b9b90?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | May 02 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a1ff10b600907a96284cb4?utm_campaign=1054&utm_source=git)** | Shelton, CT | On Site | May 02 |
 | **[Osaic](https://osaic.com/)** | **[Human Resources Intern: Employee Engagement Analytics & Insights](https://jobright.ai/jobs/info/69f64182a3d34b4f76f57dfb?utm_campaign=1054&utm_source=git)** | Michigan, United States | Hybrid | May 02 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $18-20/h](https://jobright.ai/jobs/info/69f529d80b36ff0354750dab?utm_campaign=1054&utm_source=git)** | Nevada, United States | On Site | May 01 |
 | **[COOP](http://coopcareers.org)** | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f53406db88714bcdfb2b5a?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 01 |
-| ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f528eb43a25828a8d1738e?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 01 |
 | ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f52246db88714bcdfb22c3?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | May 01 |
+| ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f528eb43a25828a8d1738e?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 01 |
 | ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f5106e81706a5bd21647df?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[City of New York](http://www1.nyc.gov)** | **[Labor Relations Summer Graduate Intern](https://jobright.ai/jobs/info/69f510800b36ff0354750580?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | May 01 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4e4e281706a5bd2163bea?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Industrial Services - Summer 2026 Internship](https://jobright.ai/jobs/info/6982519a0f6f7e7a2cdb781f?utm_campaign=1054&utm_source=git)** | Deer Park, TX | On Site | May 01 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[MFG HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/699fff1181476f6176b9f72f?utm_campaign=1054&utm_source=git)** | Sunnyvale, TX | On Site | May 01 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[HR AI Innovation Intern](https://jobright.ai/jobs/info/69d7fcf3b861c42857c479d6?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | May 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
