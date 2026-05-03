@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df21f536823d1b425868ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | May 02 |
 | **[Netrolynx AI](https://www.netrolynx.ai)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f662800b36ff035475522f?utm_campaign=1054&utm_source=git)** | United States | Remote | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f65778582f810f9c8c8b9c?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f65776582f810f9c8c8b8e?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[MFG HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/699fff1181476f6176b9f72f?utm_campaign=1054&utm_source=git)** | Sunnyvale, TX | On Site | May 01 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[HR AI Innovation Intern](https://jobright.ai/jobs/info/69d7fcf3b861c42857c479d6?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | May 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | May 01 |
-| **[American Century Investments](https://www.americancentury.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d84ea3869c7e25d8594cd1?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
