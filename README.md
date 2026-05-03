@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c370836fe79d861a083?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | May 03 |
+| **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | May 03 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69ea8eecdc35f7132c4aacaf?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 03 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[People & Culture Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae58b5fc86241853a19f9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 03 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bfd1e17798f73e35e4aa92?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | May 03 |
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Recruiting Intern (Part Time) (Clayton, MO)](https://jobright.ai/jobs/info/69f6c718a3d34b4f76f59ee1?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | May 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4cce381706a5bd21631e4?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | May 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/698242fb0f6f7e7a2cdb6c2a?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | May 01 |
 | **[Harvey Performance Company](https://www.harveyperformance.com)** | **[Talent Aquisition Intern](https://jobright.ai/jobs/info/69f4cc22a3d34b4f76f51961?utm_campaign=1054&utm_source=git)** | Gorham, Maine, United States | On Site | May 01 |
-| **[WisdomTree](http://www.wisdomtree.com)** | **[Human Resources Intern – 2026](https://jobright.ai/jobs/info/69f4c6b60b36ff035474ed88?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 01 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/69d876fcb67cec4f9b09c986?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | May 01 |
-| **[Gerber Plumbing Fixtures](http://gerberonline.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d809c0b67cec4f9b099ff5?utm_campaign=1054&utm_source=git)** | Woodridge, IL | Hybrid | May 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6982de48348f733a5c35ffdc?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
