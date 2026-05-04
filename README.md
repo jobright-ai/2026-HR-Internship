@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AccuWeather](http://www.accuweather.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f921ccdb88714bcdfbdf51?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | May 04 |
+| **[Cooper Machinery Services](http://cooperservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f91b39a3d34b4f76f604f9?utm_campaign=1054&utm_source=git)** | Houston, TX 77041, USA | On Site | May 04 |
+| **[UPS](http://www.ups.com)** | **[Masters Degree - HR Internship, Data Analytics Focus (Summer 2026)](https://jobright.ai/jobs/info/69f9151481706a5bd21704fa?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR), US | On Site | May 04 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69f91409b1fc847fc1aea950?utm_campaign=1054&utm_source=git)** | Davenport, IA, USA | On Site | May 04 |
 | **[ConnectiveRx](http://www.connectiverx.com/)** | **[Intern - Compensation and Benefits](https://jobright.ai/jobs/info/69f912d00b36ff035475cefe?utm_campaign=1054&utm_source=git)** | Whippany, NJ, US | On Site | May 04 |
 | ↳ | **[Intern - Compensation and Benefits](https://jobright.ai/jobs/info/69f9126ea3d34b4f76f5fe11?utm_campaign=1054&utm_source=git)** | US-NJ-Whippany | On Site | May 04 |
@@ -69,14 +72,17 @@ For a complete list, click the following sortable link below:
 | **[XLA](http://www.xla.com/)** | **[Cross-Functional Intern](https://jobright.ai/jobs/info/69f8e60d81706a5bd216eae8?utm_campaign=1054&utm_source=git)** | Washington, D.C. | Hybrid | May 04 |
 | **[Medical University of South Carolina](http://www.musc.edu)** | **[UNIV - Student Intern- MTM Data Management & Staffing Coordinator](https://jobright.ai/jobs/info/69f8de6ca3d34b4f76f5e128?utm_campaign=1054&utm_source=git)** | Charleston, US | On Site | May 04 |
 | **[ODP Business Solutions](https://odpbusiness.com)** | **[HR Operations & Projects Intern (Onsite in Boca Raton, FL)](https://jobright.ai/jobs/info/69f8cf08b1fc847fc1ae8ae2?utm_campaign=1054&utm_source=git)** | 6600 North Military Trail, Boca Raton, FL, 33496, US | On Site | May 04 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | May 04 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Intern -Human Resources](https://jobright.ai/jobs/info/69f8bcff81706a5bd216e0c4?utm_campaign=1054&utm_source=git)** | Allendale, NJ, US | On Site | May 04 |
 | ↳ | **[Intern -Human Resources](https://jobright.ai/jobs/info/69f8bcfe0b36ff035475a9ea?utm_campaign=1054&utm_source=git)** | US-NJ-Allendale | On Site | May 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | May 04 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/69f8a5f60b36ff035475a3ec?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 04 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Opportunity Scout Intern (Flexible, 5-10hrs/week)](https://jobright.ai/jobs/info/69f7f805a3d34b4f76f5c0f4?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | Remote | May 03 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $18-20/h](https://jobright.ai/jobs/info/69f529d80b36ff0354750dab?utm_campaign=1054&utm_source=git)** | Nevada, United States | On Site | May 03 |
 | **[Carter Support Services](https://cartersupportservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f7cfada3d34b4f76f5bde0?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 03 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Internship - Technical Recruiting](https://jobright.ai/jobs/info/69f7cc2381706a5bd216c443?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | May 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d2d5bf5bef51c96eadb98?utm_campaign=1054&utm_source=git)** | Elk Grove, CA | On Site | May 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d199dd4a7df7a06724a5d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | May 03 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d2d5bf5bef51c96eadb98?utm_campaign=1054&utm_source=git)** | Elk Grove, CA | On Site | May 03 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/698e0c3b0f6f7e7a2cea1a2f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 03 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c370836fe79d861a083?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | May 03 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | May 03 |
@@ -86,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bfd1e17798f73e35e4aa92?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | May 03 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Student Intern - Digital HR and Associate Experience](https://jobright.ai/jobs/info/69f6b070b1fc847fc1ae43bd?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | May 02 |
 | **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df21f536823d1b425868ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | May 02 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[Graduate Intern, Employee Well-Being (ETS) / Temporary](https://jobright.ai/jobs/info/69f3ba8c58b23a2329da7cb6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f65778582f810f9c8c8b9c?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f65776582f810f9c8c8b8e?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | **[Purolator Inc.](http://www.purolator.com)** | **[Human Resources Coordinator - Summer Hiring](https://jobright.ai/jobs/info/69eff14358811370cb149e45?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Human Resources & Office Services Intern](https://jobright.ai/jobs/info/69f506a1db88714bcdfb19eb?utm_campaign=1054&utm_source=git)** | Rockford, IL, 61101, United States | On Site | May 01 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f5232d12f2811ab5a63319?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | May 01 |
 | **[Guerbet](http://www.guerbet.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f501cc12f2811ab5a6275c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | May 01 |
-| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Human Resource Intern - Franklin Electric - Energy Systems](https://jobright.ai/jobs/info/69f501cc12f2811ab5a6275f?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | May 01 |
-| **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f52a22db88714bcdfb27ec?utm_campaign=1054&utm_source=git)** | Mukwonago, WI | On Site | May 01 |
-| **[Dematic](http://www.dematic.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69f4fa4843a25828a8d15e7f?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | May 01 |
-| **[SOCOTEC US](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 01 |
-| **[COOP](http://coopcareers.org)** | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f53406db88714bcdfb2b5a?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 01 |
-| ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f52246db88714bcdfb22c3?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | May 01 |
-| ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f528eb43a25828a8d1738e?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
