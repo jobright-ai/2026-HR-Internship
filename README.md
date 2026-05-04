@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ODP Business Solutions](https://odpbusiness.com)** | **[HR Operations & Projects Intern (Onsite in Boca Raton, FL)](https://jobright.ai/jobs/info/69f8cf08b1fc847fc1ae8ae2?utm_campaign=1054&utm_source=git)** | 6600 North Military Trail, Boca Raton, FL, 33496, US | On Site | May 04 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Intern -Human Resources](https://jobright.ai/jobs/info/69f8bcff81706a5bd216e0c4?utm_campaign=1054&utm_source=git)** | Allendale, NJ, US | On Site | May 04 |
 | ↳ | **[Intern -Human Resources](https://jobright.ai/jobs/info/69f8bcfe0b36ff035475a9ea?utm_campaign=1054&utm_source=git)** | US-NJ-Allendale | On Site | May 04 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/69f8a5f60b36ff035475a3ec?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 04 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[RMA Worldwide Chauffeured Transportation](https://www.rmalimo.com/)** | **[Recruiting intern](https://jobright.ai/jobs/info/69f5101fa3d34b4f76f53693?utm_campaign=1054&utm_source=git)** | Rockville, MD | On Site | May 01 |
 | **[SOCOTEC US](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[COOP](http://coopcareers.org)** | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f53406db88714bcdfb2b5a?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 01 |
-| ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f52246db88714bcdfb22c3?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | May 01 |
 | ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f528eb43a25828a8d1738e?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 01 |
+| ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f52246db88714bcdfb22c3?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | May 01 |
 | ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f5106e81706a5bd21647df?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[City of New York](http://www1.nyc.gov)** | **[Labor Relations Summer Graduate Intern](https://jobright.ai/jobs/info/69f510800b36ff0354750580?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | May 01 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4e4e281706a5bd2163bea?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8b1f3b861c42857c4c543?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 01 |
 | **[KION Group](http://www.kiongroup.com/)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69f4d58843a25828a8d1563e?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/694b6e6f1a572a617dddc35c?utm_campaign=1054&utm_source=git)** | Lebanon, PA | On Site | May 01 |
-| ↳ | **[Summer 2026 Management Trainee Intern - York](https://jobright.ai/jobs/info/694b81775d73121134701f09?utm_campaign=1054&utm_source=git)** | York, PA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
