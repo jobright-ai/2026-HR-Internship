@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ImpactLife](https://www.bloodcenter.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69f91409b1fc847fc1aea950?utm_campaign=1054&utm_source=git)** | Davenport, IA, USA | On Site | May 04 |
+| **[ConnectiveRx](http://www.connectiverx.com/)** | **[Intern - Compensation and Benefits](https://jobright.ai/jobs/info/69f912d00b36ff035475cefe?utm_campaign=1054&utm_source=git)** | Whippany, NJ, US | On Site | May 04 |
+| ↳ | **[Intern - Compensation and Benefits](https://jobright.ai/jobs/info/69f9126ea3d34b4f76f5fe11?utm_campaign=1054&utm_source=git)** | US-NJ-Whippany | On Site | May 04 |
+| **[New Belgium Brewing](http://www.newbelgium.com/Brewery)** | **[Intern - Coworkers & Culture](https://jobright.ai/jobs/info/69f9122aa3d34b4f76f5fdc9?utm_campaign=1054&utm_source=git)** | Fort Collins Brewery LC and HQ, US | On Site | May 04 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Talent Development Internship - Summer 2026 (Master's or PHD)](https://jobright.ai/jobs/info/69f9068adb88714bcdfbd18b?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | May 04 |
 | **[XLA](http://www.xla.com/)** | **[Cross-Functional Intern](https://jobright.ai/jobs/info/69f8f9240b36ff035475c56a?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | May 04 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Talent Development Internship - Summer 2026 (Master's or PHD)](https://jobright.ai/jobs/info/69f8f86881706a5bd216fa49?utm_campaign=1054&utm_source=git)** | New York, NY, USA | Remote | May 04 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69f8f06681706a5bd216f0ea?utm_campaign=1054&utm_source=git)** | Onsite | On Site | May 04 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Dematic](http://www.dematic.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69f4fa4843a25828a8d15e7f?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | May 01 |
 | **[SOCOTEC US](https://www.socotec.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bd64c4393a1008f742bcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[COOP](http://coopcareers.org)** | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f53406db88714bcdfb2b5a?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 01 |
-| ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f528eb43a25828a8d1738e?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 01 |
 | ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f52246db88714bcdfb22c3?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | May 01 |
-| ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f5106e81706a5bd21647df?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 01 |
-| **[City of New York](http://www1.nyc.gov)** | **[Labor Relations Summer Graduate Intern](https://jobright.ai/jobs/info/69f510800b36ff0354750580?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | May 01 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4e4e281706a5bd2163bea?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 01 |
-| **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship - HR Intern, Talent Acquisition (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e74f363aa0c4796439934c?utm_campaign=1054&utm_source=git)** | Morrisville, NC | Remote | May 01 |
-| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69d7f116b861c42857c47660?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | May 01 |
+| ↳ | **[COOP Careers Fellowship for Recent Grads](https://jobright.ai/jobs/info/69f528eb43a25828a8d1738e?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
