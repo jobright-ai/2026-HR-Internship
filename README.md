@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Carter Support Services](https://cartersupportservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f7cfada3d34b4f76f5bde0?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 03 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Internship - Technical Recruiting](https://jobright.ai/jobs/info/69f7cc2381706a5bd216c443?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | May 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d2d5bf5bef51c96eadb98?utm_campaign=1054&utm_source=git)** | Elk Grove, CA | On Site | May 03 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/698e0c3b0f6f7e7a2cea1a2f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 03 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c370836fe79d861a083?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | May 03 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | May 03 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69d7f116b861c42857c47660?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | May 01 |
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e92d420a6e095553039f31?utm_campaign=1054&utm_source=git)** | Churchville, NY | On Site | May 01 |
 | **[OTG Management](http://www.otgexp.com/)** | **[IAH Talent Acquisition Intern](https://jobright.ai/jobs/info/699f882cce78e77b4fe55475?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | May 01 |
-| **[Valero](http://www.valero.com)** | **[HR Analytics Support Intern - (Summer 2026)](https://jobright.ai/jobs/info/69f64f78582f810f9c8c89f2?utm_campaign=1054&utm_source=git)** | United States | Remote | May 01 |
-| ↳ | **[HR Analytics Support Intern - (Summer 2026)](https://jobright.ai/jobs/info/69f64f830b36ff0354754a8c?utm_campaign=1054&utm_source=git)** | US-TX-San Antonio | On Site | May 01 |
+| **[Valero](http://www.valero.com)** | **[HR Analytics Support Intern - (Summer 2026)](https://jobright.ai/jobs/info/69f64f830b36ff0354754a8c?utm_campaign=1054&utm_source=git)** | US-TX-San Antonio | On Site | May 01 |
+| ↳ | **[HR Analytics Support Intern - (Summer 2026)](https://jobright.ai/jobs/info/69f64f78582f810f9c8c89f2?utm_campaign=1054&utm_source=git)** | United States | Remote | May 01 |
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8b1f3b861c42857c4c543?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 01 |
 | **[KION Group](http://www.kiongroup.com/)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69f4d58843a25828a8d1563e?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/694b6e6f1a572a617dddc35c?utm_campaign=1054&utm_source=git)** | Lebanon, PA | On Site | May 01 |
 | ↳ | **[Summer 2026 Management Trainee Intern - York](https://jobright.ai/jobs/info/694b81775d73121134701f09?utm_campaign=1054&utm_source=git)** | York, PA | On Site | May 01 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4cce381706a5bd21631e4?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
