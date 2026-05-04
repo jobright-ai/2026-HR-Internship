@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[XLA](http://www.xla.com/)** | **[Cross-Functional Intern](https://jobright.ai/jobs/info/69f8e60d81706a5bd216eae8?utm_campaign=1054&utm_source=git)** | Washington, D.C. | Hybrid | May 04 |
+| **[Medical University of South Carolina](http://www.musc.edu)** | **[UNIV - Student Intern- MTM Data Management & Staffing Coordinator](https://jobright.ai/jobs/info/69f8de6ca3d34b4f76f5e128?utm_campaign=1054&utm_source=git)** | Charleston, US | On Site | May 04 |
 | **[ODP Business Solutions](https://odpbusiness.com)** | **[HR Operations & Projects Intern (Onsite in Boca Raton, FL)](https://jobright.ai/jobs/info/69f8cf08b1fc847fc1ae8ae2?utm_campaign=1054&utm_source=git)** | 6600 North Military Trail, Boca Raton, FL, 33496, US | On Site | May 04 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Intern -Human Resources](https://jobright.ai/jobs/info/69f8bcff81706a5bd216e0c4?utm_campaign=1054&utm_source=git)** | Allendale, NJ, US | On Site | May 04 |
 | ↳ | **[Intern -Human Resources](https://jobright.ai/jobs/info/69f8bcfe0b36ff035475a9ea?utm_campaign=1054&utm_source=git)** | US-NJ-Allendale | On Site | May 04 |
@@ -114,6 +116,9 @@ For a complete list, click the following sortable link below:
 | **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6982567c0a9e07331f8d5556?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | May 02 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69a89eeb79f3f4037f42bb82?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | May 02 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Operations Associate/Internship Coordinator](https://jobright.ai/jobs/info/69f5f2cc81706a5bd2168051?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 02 |
+| **[Ladenburg Thalmann](http://ladenburg.com)** | **[Human Resources Intern: Employee Engagement Analytics & Insights](https://jobright.ai/jobs/info/69f8e598a3d34b4f76f5e448?utm_campaign=1054&utm_source=git)** | Remote-MI Eastern, US | Remote | May 01 |
+| ↳ | **[Human Resources Intern: Employee Storytelling](https://jobright.ai/jobs/info/69f8e58ddb88714bcdfbbe33?utm_campaign=1054&utm_source=git)** | Remote-MI Eastern, US | Remote | May 01 |
+| ↳ | **[Human Resources Intern: Employee Communications Insights & Readership Optimization](https://jobright.ai/jobs/info/69f8e527b1fc847fc1ae8f3f?utm_campaign=1054&utm_source=git)** | Remote-MI Eastern, US | Remote | May 01 |
 | **[AGRiP (Association of Governmental Risk Pools)](https://www.agrip.org/home)** | **[Human Resource Manager – ACWA JPIA (CA)](https://jobright.ai/jobs/info/69f5c5b9db88714bcdfb4a25?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[CHR Intern](https://jobright.ai/jobs/info/69f55b41db88714bcdfb3593?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | May 01 |
 | **[Stream Companies](http://streamcompanies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f54af1a3d34b4f76f5498e?utm_campaign=1054&utm_source=git)** | West Chester, PA | On Site | May 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69d7f116b861c42857c47660?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | May 01 |
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e92d420a6e095553039f31?utm_campaign=1054&utm_source=git)** | Churchville, NY | On Site | May 01 |
 | **[OTG Management](http://www.otgexp.com/)** | **[IAH Talent Acquisition Intern](https://jobright.ai/jobs/info/699f882cce78e77b4fe55475?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | May 01 |
-| **[Valero](http://www.valero.com)** | **[HR Analytics Support Intern - (Summer 2026)](https://jobright.ai/jobs/info/69f64f830b36ff0354754a8c?utm_campaign=1054&utm_source=git)** | US-TX-San Antonio | On Site | May 01 |
-| ↳ | **[HR Analytics Support Intern - (Summer 2026)](https://jobright.ai/jobs/info/69f64f78582f810f9c8c89f2?utm_campaign=1054&utm_source=git)** | United States | Remote | May 01 |
-| **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8b1f3b861c42857c4c543?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 01 |
-| **[KION Group](http://www.kiongroup.com/)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/69f4d58843a25828a8d1563e?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/694b6e6f1a572a617dddc35c?utm_campaign=1054&utm_source=git)** | Lebanon, PA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
