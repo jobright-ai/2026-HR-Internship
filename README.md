@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparton](http://www.sparton.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fa478d81706a5bd217500f?utm_campaign=1054&utm_source=git)** | 5612 Johnson Lake Rd., De Leon Springs, FL | On Site | May 05 |
+| **[Bristol Hospital and Health Care Group, Inc.](https://bristolhospital.org)** | **[HR Intern](https://jobright.ai/jobs/info/69fa46fcb1fc847fc1aef5b8?utm_campaign=1054&utm_source=git)** | BHI Bristol Hospital Main Campus - Bristol, CT 06010 | On Site | May 05 |
+| **[Paperless Environments](http://www.paperlessenvironments.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69fa46e1582f810f9c8d5315?utm_campaign=1054&utm_source=git)** | Baton Rouge, Louisiana, United States | On Site | May 05 |
+| **[Advanced Behavioral Health Inc.](https://www.abhmaryland.com/)** | **[HR Internship (Paid)](https://jobright.ai/jobs/info/69fa3e0781706a5bd21749b8?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | May 05 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Personal Lines Intern](https://jobright.ai/jobs/info/69fa3a0981706a5bd217475d?utm_campaign=1054&utm_source=git)** | Harrison NY, US | On Site | May 05 |
 | **[Aircapture](https://www.aircapture.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69fa389681706a5bd21746f6?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | May 05 |
 | **[Enable Injections, Inc.](https://enableinjections.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69fa383d0b36ff0354761271?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, US | On Site | May 05 |
 | **[Yale University](https://www.yale.edu)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69fa362381706a5bd2174544?utm_campaign=1054&utm_source=git)** | Whitney Ave, 221, US | Remote | May 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern: Employee Storytelling](https://jobright.ai/jobs/info/69f8e58ddb88714bcdfbbe33?utm_campaign=1054&utm_source=git)** | Remote-MI Eastern, US | Remote | May 01 |
 | **[AGRiP (Association of Governmental Risk Pools)](https://www.agrip.org/home)** | **[Human Resource Manager – ACWA JPIA (CA)](https://jobright.ai/jobs/info/69f5c5b9db88714bcdfb4a25?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[CHR Intern](https://jobright.ai/jobs/info/69f55b41db88714bcdfb3593?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | May 01 |
-| **[Stream Companies](http://streamcompanies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f54af1a3d34b4f76f5498e?utm_campaign=1054&utm_source=git)** | West Chester, PA | On Site | May 01 |
-| **[NEC National Security Systems](https://www.necnss.com)** | **[Intern](https://jobright.ai/jobs/info/69f5928ddb88714bcdfb4148?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | May 01 |
-| **[Novant Health Urgent Care (Formerly Doctors Care)](https://doctorscare.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f53d210b36ff035475162d?utm_campaign=1054&utm_source=git)** | Corporate Office, Columbia, SC | On Site | May 01 |
-| **[HR Associates](http://hrassociates.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f53beb0b36ff03547514b7?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 01 |
-| **[NEC Smart Cities](https://es.nec.com/)** | **[Intern](https://jobright.ai/jobs/info/69f55d3481706a5bd21660d8?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
