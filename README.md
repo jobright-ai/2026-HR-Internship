@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f92e14b1fc847fc1aeb641?utm_campaign=1054&utm_source=git)** | BYU–Hawaii, US | On Site | May 04 |
+| **[Pixi Inc.](https://www.pixibeauty.com)** | **[HR Intern - US](https://jobright.ai/jobs/info/69f92d5981706a5bd2170fa2?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | May 04 |
+| **[City of McFarland](https://www.mcfarlandcity.org/)** | **[McFarland Emerging Leaders Human Resources Intern](https://jobright.ai/jobs/info/69f92d04b1fc847fc1aeb602?utm_campaign=1054&utm_source=git)** | CA, McFarland, US | On Site | May 04 |
+| **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f92d03582f810f9c8d0e4d?utm_campaign=1054&utm_source=git)** | Capitola, CA 95010, USA | On Site | May 04 |
+| **[Old World Industries](https://www.owi.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f92763a3d34b4f76f609c3?utm_campaign=1054&utm_source=git)** | Old World Industries, 3100 Sanders Road, Northbrook, Illinois, United States of America | On Site | May 04 |
+| **[St. Francis Health Services of Morris](https://sfhs.org/)** | **[Human Resources Internship (College) – Paid](https://jobright.ai/jobs/info/69f9234edb88714bcdfbdff0?utm_campaign=1054&utm_source=git)** | Little Falls, Minnesota, United States | On Site | May 04 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f921ccdb88714bcdfbdf51?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | May 04 |
 | **[Cooper Machinery Services](http://cooperservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69f91b39a3d34b4f76f604f9?utm_campaign=1054&utm_source=git)** | Houston, TX 77041, USA | On Site | May 04 |
 | **[UPS](http://www.ups.com)** | **[Masters Degree - HR Internship, Data Analytics Focus (Summer 2026)](https://jobright.ai/jobs/info/69f9151481706a5bd21704fa?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR), US | On Site | May 04 |
@@ -117,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern: Employee Communications Insights & Readership Optimization](https://jobright.ai/jobs/info/69f640b90b36ff03547548f4?utm_campaign=1054&utm_source=git)** | Michigan, United States | Hybrid | May 02 |
 | **[Aramark](http://www.aramark.com)** | **[2026 HR Intern - LEGOLAND California Resort](https://jobright.ai/jobs/info/69f6416f81706a5bd216862f?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | May 02 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/69f61429a3d34b4f76f579c2?utm_campaign=1054&utm_source=git)** | Virginia, United States | Hybrid | May 02 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/69f611b8db88714bcdfb58d7?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | May 02 |
 | **[Iterative Health](https://iterative.health)** | **[Research Intern](https://jobright.ai/jobs/info/69f6407f0b36ff03547548d6?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | May 02 |
 | **[Quva](http://www.quvapharma.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc767e45e08b3dc1f935c2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | May 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f5342f12f2811ab5a63cd6?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | May 01 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f52a7c12f2811ab5a6386b?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 01 |
 | **[Franklin Electric Fueling Systems](http://franklinfueling.com)** | **[Human Resource Intern - Franklin Electric - Energy Systems](https://jobright.ai/jobs/info/69f50d990b36ff035475053a?utm_campaign=1054&utm_source=git)** | US - Wisconsin - Madison | On Site | May 01 |
-| **[Harvey Performance Company](https://www.harveyperformance.com)** | **[Talent Aquisition Intern](https://jobright.ai/jobs/info/69f529600b36ff0354750c82?utm_campaign=1054&utm_source=git)** | Gorham, ME | On Site | May 01 |
-| **[Girls Who Invest](http://www.girlswhoinvest.org)** | **[Recruiting & Admissions Intern (PT/Temp)](https://jobright.ai/jobs/info/69f52aa412f2811ab5a638d1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 01 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Human Resources & Office Services Intern](https://jobright.ai/jobs/info/69f506a1db88714bcdfb19eb?utm_campaign=1054&utm_source=git)** | Rockford, IL, 61101, United States | On Site | May 01 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f5232d12f2811ab5a63319?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | May 01 |
-| **[Guerbet](http://www.guerbet.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f501cc12f2811ab5a6275c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
