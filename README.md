@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creation Technologies](http://creationtech.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fa704a81706a5bd2175d71?utm_campaign=1054&utm_source=git)** | St. Peter, MN, USA, US | On Site | May 05 |
+| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Human Resources Intern (unpaid)](https://jobright.ai/jobs/info/69fa6957582f810f9c8d5b45?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | May 05 |
+| **[Prysmian](https://www.prysmian.com)** | **[HR Intern](https://jobright.ai/jobs/info/69fa648c582f810f9c8d59cd?utm_campaign=1054&utm_source=git)** | Highland Heights, KY, US | On Site | May 05 |
+| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Advisor Recruiting Intern](https://jobright.ai/jobs/info/69fa6463582f810f9c8d598b?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, US | On Site | May 05 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69fa552bb1fc847fc1aefb45?utm_campaign=1054&utm_source=git)** | Naperville, IL | On Site | May 05 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Employee Experience Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69fa54ee582f810f9c8d5889?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | On Site | May 05 |
 | **[St. Tammany Health System](https://www.sttammany.health)** | **[HR Intern - Fall 2026](https://jobright.ai/jobs/info/69fa525ddb88714bcdfc282b?utm_campaign=1054&utm_source=git)** | Covington, LA, US | On Site | May 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quva](http://www.quvapharma.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc767e45e08b3dc1f935c2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | May 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 02 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd73?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 02 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | May 02 |
-| **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
-| ↳ | **[Intern – People Operations](https://jobright.ai/jobs/info/69d97c05738f2f099e8a2256?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
-| **[APM Terminals](https://www.apmterminals.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69d988c15356a60f40fda356?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
