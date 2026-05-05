@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[Recruiter (Intern)](https://jobright.ai/jobs/info/69f9fccd81706a5bd21734e4?utm_campaign=1054&utm_source=git)** | United States | Remote | May 05 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | May 04 |
 | **[Universal Logistics Holdings, Inc.](https://www.universallogistics.com/)** | **[Intern](https://jobright.ai/jobs/info/69f94c02db88714bcdfbe7cd?utm_campaign=1054&utm_source=git)** | GO-9 MILE ROAD, US | On Site | May 04 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f92e14b1fc847fc1aeb641?utm_campaign=1054&utm_source=git)** | BYU–Hawaii, US | On Site | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f5329b0b36ff035475119b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 01 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f5342f12f2811ab5a63cd6?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | May 01 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f52a7c12f2811ab5a6386b?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 01 |
-| **[Franklin Electric Fueling Systems](http://franklinfueling.com)** | **[Human Resource Intern - Franklin Electric - Energy Systems](https://jobright.ai/jobs/info/69f50d990b36ff035475053a?utm_campaign=1054&utm_source=git)** | US - Wisconsin - Madison | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
