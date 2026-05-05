@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Spartanburg County Public Libraries](https://www.spartanburglibraries.org)** | **[Director of Human Resources](https://jobright.ai/jobs/info/69f57ca281706a5bd2166867?utm_campaign=1054&utm_source=git)** | Headquarters, KY | On Site | May 01 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Human Resources & Office Services Intern](https://jobright.ai/jobs/info/69f54c0381706a5bd2165d12?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | May 01 |
 | **[Hydro-Thermal Corporation](http://hydro-thermal.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f5534f81706a5bd2165f48?utm_campaign=1054&utm_source=git)** | Waukesha, WI | On Site | May 01 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69f5107512f2811ab5a62ba4?utm_campaign=1054&utm_source=git)** | Waukesha, WI | On Site | May 01 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f5329b0b36ff035475119b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 01 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f5342f12f2811ab5a63cd6?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | May 01 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f52a7c12f2811ab5a6386b?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 01 |
 | **[Franklin Electric Fueling Systems](http://franklinfueling.com)** | **[Human Resource Intern - Franklin Electric - Energy Systems](https://jobright.ai/jobs/info/69f50d990b36ff035475053a?utm_campaign=1054&utm_source=git)** | US - Wisconsin - Madison | On Site | May 01 |
+| **[Harvey Performance Company](https://www.harveyperformance.com)** | **[Talent Aquisition Intern](https://jobright.ai/jobs/info/69f529600b36ff0354750c82?utm_campaign=1054&utm_source=git)** | Gorham, ME | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
