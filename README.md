@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aircapture](https://www.aircapture.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69fa389681706a5bd21746f6?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | May 05 |
+| **[Enable Injections, Inc.](https://enableinjections.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69fa383d0b36ff0354761271?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, US | On Site | May 05 |
+| **[Yale University](https://www.yale.edu)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69fa362381706a5bd2174544?utm_campaign=1054&utm_source=git)** | Whitney Ave, 221, US | Remote | May 05 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Health & Benefits Operations Intern](https://jobright.ai/jobs/info/69fa2a82a3d34b4f76f644c1?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | May 05 |
 | **[Extrity Services](https://extrityservices.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69fa0b10b1fc847fc1aedea7?utm_campaign=1054&utm_source=git)** | United States | Remote | May 05 |
 | **[MEAG Power](https://www.meagpower.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fa08d4db88714bcdfc0d03?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | May 05 |
@@ -87,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[ODP Business Solutions](https://odpbusiness.com)** | **[HR Operations & Projects Intern (Onsite in Boca Raton, FL)](https://jobright.ai/jobs/info/69f8cf08b1fc847fc1ae8ae2?utm_campaign=1054&utm_source=git)** | 6600 North Military Trail, Boca Raton, FL, 33496, US | On Site | May 04 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | May 04 |
 | **[Cabrini Green Legal Aid](https://www.cgla.net/)** | **[Operations and Human Resources Intern](https://jobright.ai/jobs/info/69fa20890b36ff0354760ae4?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 04 |
+| **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | May 04 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Intern -Human Resources](https://jobright.ai/jobs/info/69f8bcff81706a5bd216e0c4?utm_campaign=1054&utm_source=git)** | Allendale, NJ, US | On Site | May 04 |
 | ↳ | **[Intern -Human Resources](https://jobright.ai/jobs/info/69f8bcfe0b36ff035475a9ea?utm_campaign=1054&utm_source=git)** | US-NJ-Allendale | On Site | May 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | May 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novant Health Urgent Care (Formerly Doctors Care)](https://doctorscare.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f53d210b36ff035475162d?utm_campaign=1054&utm_source=git)** | Corporate Office, Columbia, SC | On Site | May 01 |
 | **[HR Associates](http://hrassociates.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f53beb0b36ff03547514b7?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 01 |
 | **[NEC Smart Cities](https://es.nec.com/)** | **[Intern](https://jobright.ai/jobs/info/69f55d3481706a5bd21660d8?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Hybrid | May 01 |
-| **[Catholic Charities of the Diocese of Rochester](https://ccdor.org/about/)** | **[PROGRAM INTERN - IMMIGRANT SERVICES PROGRAM](https://jobright.ai/jobs/info/69f5547712f2811ab5a6450b?utm_campaign=1054&utm_source=git)** | Ithaca, NY | On Site | May 01 |
-| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f52a1712f2811ab5a636af?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | May 01 |
-| ↳ | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f529910b36ff0354750cf5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
-| **[Spartanburg County Public Libraries](https://www.spartanburglibraries.org)** | **[Director of Human Resources](https://jobright.ai/jobs/info/69f57ca281706a5bd2166867?utm_campaign=1054&utm_source=git)** | Headquarters, KY | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
