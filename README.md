@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | May 04 |
 | **[Universal Logistics Holdings, Inc.](https://www.universallogistics.com/)** | **[Intern](https://jobright.ai/jobs/info/69f94c02db88714bcdfbe7cd?utm_campaign=1054&utm_source=git)** | GO-9 MILE ROAD, US | On Site | May 04 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f92e14b1fc847fc1aeb641?utm_campaign=1054&utm_source=git)** | BYU–Hawaii, US | On Site | May 04 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[HR Intern - US](https://jobright.ai/jobs/info/69f92d5981706a5bd2170fa2?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | May 04 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69a89eeb79f3f4037f42bb82?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | May 02 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Operations Associate/Internship Coordinator](https://jobright.ai/jobs/info/69f5f2cc81706a5bd2168051?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 02 |
 | **[Ladenburg Thalmann](http://ladenburg.com)** | **[Human Resources Intern: Employee Engagement Analytics & Insights](https://jobright.ai/jobs/info/69f8e598a3d34b4f76f5e448?utm_campaign=1054&utm_source=git)** | Remote-MI Eastern, US | Remote | May 01 |
-| ↳ | **[Human Resources Intern: Employee Storytelling](https://jobright.ai/jobs/info/69f8e58ddb88714bcdfbbe33?utm_campaign=1054&utm_source=git)** | Remote-MI Eastern, US | Remote | May 01 |
 | ↳ | **[Human Resources Intern: Employee Communications Insights & Readership Optimization](https://jobright.ai/jobs/info/69f8e527b1fc847fc1ae8f3f?utm_campaign=1054&utm_source=git)** | Remote-MI Eastern, US | Remote | May 01 |
+| ↳ | **[Human Resources Intern: Employee Storytelling](https://jobright.ai/jobs/info/69f8e58ddb88714bcdfbbe33?utm_campaign=1054&utm_source=git)** | Remote-MI Eastern, US | Remote | May 01 |
 | **[AGRiP (Association of Governmental Risk Pools)](https://www.agrip.org/home)** | **[Human Resource Manager – ACWA JPIA (CA)](https://jobright.ai/jobs/info/69f5c5b9db88714bcdfb4a25?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[CHR Intern](https://jobright.ai/jobs/info/69f55b41db88714bcdfb3593?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | May 01 |
 | **[Stream Companies](http://streamcompanies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f54af1a3d34b4f76f5498e?utm_campaign=1054&utm_source=git)** | West Chester, PA | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f5329b0b36ff035475119b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 01 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f5342f12f2811ab5a63cd6?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | May 01 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f52a7c12f2811ab5a6386b?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 01 |
-| **[Franklin Electric Fueling Systems](http://franklinfueling.com)** | **[Human Resource Intern - Franklin Electric - Energy Systems](https://jobright.ai/jobs/info/69f50d990b36ff035475053a?utm_campaign=1054&utm_source=git)** | US - Wisconsin - Madison | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
