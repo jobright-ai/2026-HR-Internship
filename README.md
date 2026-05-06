@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BEAR Construction Company](http://bearcc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb7cb6d21cf86d1e3d3619?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL | On Site | May 06 |
+| **[Gift of Life Marrow Registry](https://www.giftoflife.org/)** | **[Intern](https://jobright.ai/jobs/info/69fb745d38179b6f1ae78afc?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | May 06 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698a94404db8972cecffee85?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | May 06 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb6caf87a4820e6da88157?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 06 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern)](https://jobright.ai/jobs/info/69fb6577d21cf86d1e3d2c1e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 06 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69fb61e586d5cd46527d52cb?utm_campaign=1054&utm_source=git)** | Memphis, TN, US | On Site | May 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Universal Logistics Holdings, Inc.](https://www.universallogistics.com/)** | **[Intern](https://jobright.ai/jobs/info/69f94c02db88714bcdfbe7cd?utm_campaign=1054&utm_source=git)** | GO-9 MILE ROAD, US | On Site | May 04 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[REGIONAL INTERNSHIP MANAGER](https://jobright.ai/jobs/info/69fafd36d21cf86d1e3ced02?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | May 04 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69faee14e156000841155095?utm_campaign=1054&utm_source=git)** | Nottingham, MD | On Site | May 04 |
-| **[Texas Health Resources](https://www.texashealth.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69faee1ce1560008411550a8?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 04 |
-| **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Payroll Coordinator Internship](https://jobright.ai/jobs/info/69faedcc18b94b2515bddbd4?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | May 04 |
-| **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69faedffe156000841155049?utm_campaign=1054&utm_source=git)** | Capitola, CA | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
