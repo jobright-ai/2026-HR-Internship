@@ -87,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Gift of Life Marrow Registry](https://www.giftoflife.org/)** | **[Intern](https://jobright.ai/jobs/info/69fb745d38179b6f1ae78afc?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | May 06 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698a94404db8972cecffee85?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | May 06 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb6caf87a4820e6da88157?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 06 |
-| **[Crown Asset Management, LLC](https://www.crownasset.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb9a26d21cf86d1e3d42d6?utm_campaign=1054&utm_source=git)** | Duluth, GA | On Site | May 06 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69fb61e586d5cd46527d52cb?utm_campaign=1054&utm_source=git)** | Memphis, TN, US | On Site | May 06 |
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) – Full Time USA Remote / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69fb9b6fffa73664aeb011cd?utm_campaign=1054&utm_source=git)** | United States | Remote | May 06 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a6c8671fc3d83b78091f2b?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | May 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[NFI](http://www.nfiindustries.com/)** | **[Intern](https://jobright.ai/jobs/info/69fb2b5ae1560008411574ee?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | May 05 |
 | **[Aircapture](https://www.aircapture.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69fa389681706a5bd21746f6?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | May 05 |
 | **[Enable Injections, Inc.](https://enableinjections.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69fa383d0b36ff0354761271?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, US | On Site | May 05 |
+| **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern](https://jobright.ai/jobs/info/69fb20c387a4820e6da85332?utm_campaign=1054&utm_source=git)** | South Windsor, CT | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
