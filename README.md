@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Career Development](https://jobright.ai/jobs/info/69fb5e9a86d5cd46527d50a4?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | May 06 |
 | **[Flinn Scientific, Inc.](http://flinnsci.com)** | **[Human Resources Internship - Summer 2026 (2777)](https://jobright.ai/jobs/info/69fb283c86d5cd46527d335a?utm_campaign=1054&utm_source=git)** | BATAVIA, IL 60510 | On Site | May 06 |
+| **[Winnipeg Regional Health Authority (WRHA)](https://www.wrha.mb.ca)** | **[Staffing and Scheduling Clerk](https://jobright.ai/jobs/info/69fb60b0ffa73664aeaff2b4?utm_campaign=1054&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | May 06 |
+| **[CAQH](http://www.caqh.org/)** | **[Intern, People & Culture](https://jobright.ai/jobs/info/69fb5f9887a4820e6da87a28?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | May 06 |
+| **[Shared Health-Soins Communs](https://sharedhealthmb.ca/)** | **[Staffing and Scheduling Clerk](https://jobright.ai/jobs/info/69fb5f4618b94b2515be1dfd?utm_campaign=1054&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | May 06 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69debb0b5913ad339813f859?utm_campaign=1054&utm_source=git)** | McLean, VA | Remote | May 06 |
+| **[Therma-Tru Doors](http://www.thermatru.com/)** | **[HR Manufacturing Sprin/Summer 2026 Intern](https://jobright.ai/jobs/info/69de58f8433ac8430e0d91e1?utm_campaign=1054&utm_source=git)** | Butler, IN | On Site | May 06 |
 | **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | May 06 |
 | **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb510018b94b2515be14b5?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | May 05 |
 | **[Equinix](http://www.equinix.com)** | **[Insights & Communications Intern, Talent Intelligence](https://jobright.ai/jobs/info/69fb4878d21cf86d1e3d14c0?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb2ba6e1560008411575a2?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | May 04 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69faed6087a4820e6da836ad?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | May 04 |
 | **[ConnectiveRx](http://www.connectiverx.com/)** | **[Intern - Compensation and Benefits](https://jobright.ai/jobs/info/69fae738e1560008411549b7?utm_campaign=1054&utm_source=git)** | Whippany, NJ | On Site | May 04 |
-| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f92e14b1fc847fc1aeb641?utm_campaign=1054&utm_source=git)** | BYU–Hawaii, US | On Site | May 04 |
-| **[Pixi Inc.](https://www.pixibeauty.com)** | **[HR Intern - US](https://jobright.ai/jobs/info/69f92d5981706a5bd2170fa2?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | May 04 |
-| **[City of McFarland](https://www.mcfarlandcity.org/)** | **[McFarland Emerging Leaders Human Resources Intern](https://jobright.ai/jobs/info/69f92d04b1fc847fc1aeb602?utm_campaign=1054&utm_source=git)** | CA, McFarland, US | On Site | May 04 |
-| **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f92d03582f810f9c8d0e4d?utm_campaign=1054&utm_source=git)** | Capitola, CA 95010, USA | On Site | May 04 |
-| **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[UNIV - Student Intern- MTM Data Management & Staffing Coordinator](https://jobright.ai/jobs/info/69faed6987a4820e6da836c8?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | May 04 |
-| **[Old World Industries](https://www.owi.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fae91c87a4820e6da8349f?utm_campaign=1054&utm_source=git)** | Northbrook, IL | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
