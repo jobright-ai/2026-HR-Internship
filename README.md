@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BigBear.ai](https://www.bigbear.ai)** | **[HR Intern](https://jobright.ai/jobs/info/69fb914b38179b6f1ae794fa?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | May 06 |
+| **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69fb913c38179b6f1ae794d0?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 06 |
+| **[SAIC](http://www.saic.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb904486d5cd46527d65a3?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | May 06 |
+| **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69fb8d9b87a4820e6da88e6f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 06 |
 | **[S&S Activewear](https://www.ssactivewear.com)** | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fb894118b94b2515be2fdf?utm_campaign=1054&utm_source=git)** | Reno, NV, US | On Site | May 06 |
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fb892e38179b6f1ae79099?utm_campaign=1054&utm_source=git)** | McDonough, GA, US | On Site | May 06 |
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fb88b0ffa73664aeb0013e?utm_campaign=1054&utm_source=git)** | Reading, PA, US | On Site | May 06 |
@@ -68,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Gift of Life Marrow Registry](https://www.giftoflife.org/)** | **[Intern](https://jobright.ai/jobs/info/69fb745d38179b6f1ae78afc?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | May 06 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/698a94404db8972cecffee85?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | May 06 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb6caf87a4820e6da88157?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 06 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern)](https://jobright.ai/jobs/info/69fb6577d21cf86d1e3d2c1e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 06 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69fb61e586d5cd46527d52cb?utm_campaign=1054&utm_source=git)** | Memphis, TN, US | On Site | May 06 |
 | **[Network Partners Group](https://www.oneNPG.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69dd34bb9f97a42dc9c34f93?utm_campaign=1054&utm_source=git)** | Blue Bell, PA | On Site | May 06 |
+| **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/69dedc36433ac8430e0dcdc4?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | May 06 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Intern Human Resources HR Compensation - New Jersey Location](https://jobright.ai/jobs/info/69df217436823d1b425868aa?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | May 06 |
 | **[UES](https://www.teamues.com)** | **[Intern - HR](https://jobright.ai/jobs/info/69c30c4fec22f8310ab11a21?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 06 |
 | **[UMB Bank](https://www.umb.com/)** | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2e364753c101b21564742?utm_campaign=1054&utm_source=git)** | Dubuque, IA | On Site | May 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dynamic Systems (DSI), LLC](https://dsi.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb108ce156000841155fc2?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 05 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fa20faa3d34b4f76f641eb?utm_campaign=1054&utm_source=git)** | Austin, Texas | On Site | May 05 |
 | **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/69fb0db686d5cd46527d215a?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | May 05 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbee7433ac8430e0d69c8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 05 |
-| ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddb944aba61f1417311dae?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
-| ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | May 05 |
-| **[Bunzl Canada](https://www.bunzlcanada.ca/)** | **[HR Intern](https://jobright.ai/jobs/info/69fb50c686d5cd46527d4aeb?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
