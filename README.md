@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[American Society of Hematology](http://www.hematology.org/)** | **[Intern, Hematology Recruitment and Retention](https://jobright.ai/jobs/info/69fa4b3181706a5bd2175197?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Remote | May 05 |
 | **[Sparton](http://www.sparton.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fa478d81706a5bd217500f?utm_campaign=1054&utm_source=git)** | 5612 Johnson Lake Rd., De Leon Springs, FL | On Site | May 05 |
 | **[Bristol Hospital and Health Care Group, Inc.](https://bristolhospital.org)** | **[HR Intern](https://jobright.ai/jobs/info/69fa46fcb1fc847fc1aef5b8?utm_campaign=1054&utm_source=git)** | BHI Bristol Hospital Main Campus - Bristol, CT 06010 | On Site | May 05 |
-| **[Paperless Environments](http://www.paperlessenvironments.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69fa46e1582f810f9c8d5315?utm_campaign=1054&utm_source=git)** | Baton Rouge, Louisiana, United States | On Site | May 05 |
 | **[Advanced Behavioral Health Inc.](https://www.abhmaryland.com/)** | **[HR Internship (Paid)](https://jobright.ai/jobs/info/69fa3e0781706a5bd21749b8?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | May 05 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Personal Lines Intern](https://jobright.ai/jobs/info/69fa3a0981706a5bd217475d?utm_campaign=1054&utm_source=git)** | Harrison NY, US | On Site | May 05 |
 | **[Aircapture](https://www.aircapture.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69fa389681706a5bd21746f6?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | May 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Quva](http://www.quvapharma.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69bc767e45e08b3dc1f935c2?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | May 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 02 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd73?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 02 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
