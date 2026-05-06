@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Career Development](https://jobright.ai/jobs/info/69fb5e9a86d5cd46527d50a4?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | May 06 |
+| **[Everstory Partners](http://www.everstorypartners.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb6caf87a4820e6da88157?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 06 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern)](https://jobright.ai/jobs/info/69fb6577d21cf86d1e3d2c1e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 06 |
+| **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69fb61e586d5cd46527d52cb?utm_campaign=1054&utm_source=git)** | Memphis, TN, US | On Site | May 06 |
+| **[UMB Bank](https://www.umb.com/)** | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2e364753c101b21564742?utm_campaign=1054&utm_source=git)** | Dubuque, IA | On Site | May 06 |
 | **[Flinn Scientific, Inc.](http://flinnsci.com)** | **[Human Resources Internship - Summer 2026 (2777)](https://jobright.ai/jobs/info/69fb283c86d5cd46527d335a?utm_campaign=1054&utm_source=git)** | BATAVIA, IL 60510 | On Site | May 06 |
 | **[Winnipeg Regional Health Authority (WRHA)](https://www.wrha.mb.ca)** | **[Staffing and Scheduling Clerk](https://jobright.ai/jobs/info/69fb60b0ffa73664aeaff2b4?utm_campaign=1054&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | May 06 |
 | **[CAQH](http://www.caqh.org/)** | **[Intern, People & Culture](https://jobright.ai/jobs/info/69fb5f9887a4820e6da87a28?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | May 06 |
+| **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ded88c5913ad33981406a5?utm_campaign=1054&utm_source=git)** | Manteno, IL | On Site | May 06 |
 | **[Shared Health-Soins Communs](https://sharedhealthmb.ca/)** | **[Staffing and Scheduling Clerk](https://jobright.ai/jobs/info/69fb5f4618b94b2515be1dfd?utm_campaign=1054&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | May 06 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69debb0b5913ad339813f859?utm_campaign=1054&utm_source=git)** | McLean, VA | Remote | May 06 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[HR Manufacturing Sprin/Summer 2026 Intern](https://jobright.ai/jobs/info/69de58f8433ac8430e0d91e1?utm_campaign=1054&utm_source=git)** | Butler, IN | On Site | May 06 |
@@ -82,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[St. Tammany Health System](https://www.sttammany.health)** | **[HR Intern - Fall 2026](https://jobright.ai/jobs/info/69fb48b4ffa73664aeafe1e2?utm_campaign=1054&utm_source=git)** | Covington, LA | On Site | May 05 |
 | **[DESIGNME HAIR](https://designmehair.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/69fab71bd21cf86d1e3cc94f?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 05 |
 | **[Enable Injections, Inc.](https://enableinjections.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69fb4a9ed21cf86d1e3d181f?utm_campaign=1054&utm_source=git)** | Cincinnati Metro | On Site | May 05 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Intern - Corporate](https://jobright.ai/jobs/info/69fb618affa73664aeaff3b1?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 05 |
 | **[CooperVision](http://coopervision.com)** | **[HR Intern – Process Improvement & AI Focus](https://jobright.ai/jobs/info/69fb2c94d21cf86d1e3d0d17?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | May 05 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship - HR Intern, Talent Acquisition (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e74f363aa0c4796439934c?utm_campaign=1054&utm_source=git)** | Morrisville, NC | Remote | May 05 |
 | **[Aircapture](https://www.aircapture.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69fb2c7c87a4820e6da86078?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | May 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Health Resources](https://www.texashealth.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69faee1ce1560008411550a8?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 04 |
 | **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Payroll Coordinator Internship](https://jobright.ai/jobs/info/69faedcc18b94b2515bddbd4?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | May 04 |
 | **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69faedffe156000841155049?utm_campaign=1054&utm_source=git)** | Capitola, CA | On Site | May 04 |
-| **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Human Resources Generalist Internship](https://jobright.ai/jobs/info/69faedf387a4820e6da838f2?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | May 04 |
-| **[Lakeridge Health](https://www.lakeridgehealth.on.ca/en/index.asp)** | **[2600001153 - Transition Facilitator](https://jobright.ai/jobs/info/69fb3165d21cf86d1e3d0e36?utm_campaign=1054&utm_source=git)** | Oshawa, Ontario, Canada | On Site | May 04 |
-| **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb2ba6e1560008411575a2?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | May 04 |
-| **[ImpactLife](https://www.bloodcenter.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69faed6087a4820e6da836ad?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | May 04 |
-| **[ConnectiveRx](http://www.connectiverx.com/)** | **[Intern - Compensation and Benefits](https://jobright.ai/jobs/info/69fae738e1560008411549b7?utm_campaign=1054&utm_source=git)** | Whippany, NJ | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
