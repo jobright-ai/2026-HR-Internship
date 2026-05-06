@@ -105,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Shared Health-Soins Communs](https://sharedhealthmb.ca/)** | **[Staffing and Scheduling Clerk](https://jobright.ai/jobs/info/69fb5f4618b94b2515be1dfd?utm_campaign=1054&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | May 06 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69debb0b5913ad339813f859?utm_campaign=1054&utm_source=git)** | McLean, VA | Remote | May 06 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[HR Manufacturing Sprin/Summer 2026 Intern](https://jobright.ai/jobs/info/69de58f8433ac8430e0d91e1?utm_campaign=1054&utm_source=git)** | Butler, IN | On Site | May 06 |
-| **[Arcesium](http://www.arcesium.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6999461581476f6176b1df3b?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | May 06 |
 | **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb510018b94b2515be14b5?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ | On Site | May 05 |
 | **[Equinix](http://www.equinix.com)** | **[Insights & Communications Intern, Talent Intelligence](https://jobright.ai/jobs/info/69fb4878d21cf86d1e3d14c0?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 05 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, Digital & AI (Summer 2026)](https://jobright.ai/jobs/info/69fb460918b94b2515be0df9?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Personal Lines Intern](https://jobright.ai/jobs/info/69fa3a0981706a5bd217475d?utm_campaign=1054&utm_source=git)** | Harrison NY, US | On Site | May 05 |
 | **[NFI](http://www.nfiindustries.com/)** | **[Intern](https://jobright.ai/jobs/info/69fb2b5ae1560008411574ee?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | May 05 |
 | **[Aircapture](https://www.aircapture.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69fa389681706a5bd21746f6?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | May 05 |
+| **[Enable Injections, Inc.](https://enableinjections.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69fa383d0b36ff0354761271?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, US | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
