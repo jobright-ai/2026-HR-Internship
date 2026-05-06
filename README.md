@@ -88,8 +88,10 @@ For a complete list, click the following sortable link below:
 | **[MEAG Power](https://www.meagpower.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fa08d4db88714bcdfc0d03?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | May 05 |
 | **[PROJXON](www.projxon.com)** | **[Recruiter (Intern)](https://jobright.ai/jobs/info/69f9fccd81706a5bd21734e4?utm_campaign=1054&utm_source=git)** | United States | Remote | May 05 |
 | **[Dynamic Systems (DSI), LLC](https://dsi.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fa20faa3d34b4f76f641eb?utm_campaign=1054&utm_source=git)** | Austin, Texas | On Site | May 05 |
+| **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/69fb0db686d5cd46527d215a?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | May 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbee7433ac8430e0d69c8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 05 |
-| **[Cabrini Green Legal Aid](https://www.cgla.net/)** | **[Operations and Human Resources Intern](https://jobright.ai/jobs/info/69fafccfe156000841155906?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 05 |
+| ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddb944aba61f1417311dae?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
+| ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | May 05 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fafc8986d5cd46527d1946?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 05 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Talent Acquisition Coordinator & Special Projects Intern](https://jobright.ai/jobs/info/69faf7b187a4820e6da84059?utm_campaign=1054&utm_source=git)** | Daytona Beach, FL | On Site | May 04 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[HR Intern - US](https://jobright.ai/jobs/info/69faf6f4e1560008411555da?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 04 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69fae4cee156000841154366?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 04 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fae73586d5cd46527d0e16?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | May 04 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Talent Development Internship - Summer 2026 (Master's or PHD)](https://jobright.ai/jobs/info/69f9068adb88714bcdfbd18b?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | May 04 |
-| **[AXA XL](https://axaxl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fae46d87a4820e6da82f7a?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | May 04 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fae84d38179b6f1ae737b5?utm_campaign=1054&utm_source=git)** | Exton, PA | On Site | May 04 |
+| **[AXA XL](https://axaxl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fae84d38179b6f1ae737b5?utm_campaign=1054&utm_source=git)** | Exton, PA | On Site | May 04 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fae46d87a4820e6da82f7a?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | May 04 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fae49387a4820e6da82ffa?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | May 04 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fae6ff86d5cd46527d0d58?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | May 04 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Student Employee- Office Assistant (Summer)](https://jobright.ai/jobs/info/69faeda9e156000841154f01?utm_campaign=1054&utm_source=git)** | Norman, OK | On Site | May 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69f9afc1db88714bcdfbf68c?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Hybrid | May 04 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/69f8a5f60b36ff035475a3ec?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694fc2ce29655e4dd6592884?utm_campaign=1054&utm_source=git)** | Vallejo, CA | On Site | May 04 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Intern (Hourly) (2026-12965)](https://jobright.ai/jobs/info/69fabd7018b94b2515bdc2e3?utm_campaign=1054&utm_source=git)** | East Orange, NJ | On Site | May 04 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69fabc9018b94b2515bdc1a9?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
