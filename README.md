@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magnet Forensics](http://magnetforensics.com)** | **[HR Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbdf3160b250eb1baf6f?utm_campaign=1054&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
+| **[Waste Connections of Canada](https://www.wasteconnectionscanada.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fbfbe23802c7621fd8ec96?utm_campaign=1054&utm_source=git)** | Québec, Quebec, Canada | On Site | May 06 |
 | **[Emerson](http://www.emerson.com)** | **[Human Resources Intern - Internal Communications - Summer 2026](https://jobright.ai/jobs/info/69fbf07aa5949019c55b1d9f?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | May 06 |
+| **[Emagine Health Services](emaginehealthservices.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fbfd7cc39b9a66c0c55d4b?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | May 06 |
 | **[Continental Dairy Facilities Southwest, LLC](http://cdfswllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fbef5e76c60e7b70af0d0d?utm_campaign=1054&utm_source=git)** | Littlefield, TX | On Site | May 06 |
+| **[The Cook & Boardman Group, LLC](http://www.cookandboardman.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69fbfd633160b250eb1baffb?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | May 06 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69fbeec63160b250eb1ba3ae?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | May 06 |
 | **[Spectrum Brands, Inc](http://www.spectrumbrands.com)** | **[Travel & Expense Specialist Intern (Summer)](https://jobright.ai/jobs/info/69fbf5d0c39b9a66c0c557d2?utm_campaign=1054&utm_source=git)** | Middleton, WI | On Site | May 06 |
 | **[S&S Activewear](https://www.ssactivewear.com)** | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf5fe2f9f6b7cf6910173?utm_campaign=1054&utm_source=git)** | Reading, PA | On Site | May 06 |
-| ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf5ff2f9f6b7cf691017d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | May 06 |
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf651a5949019c55b202a?utm_campaign=1054&utm_source=git)** | Olathe, KS | On Site | May 06 |
+| ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf5ff2f9f6b7cf691017d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | May 06 |
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf650a5949019c55b201d?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | May 06 |
-| ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf68776c60e7b70af110b?utm_campaign=1054&utm_source=git)** | Lockport, IL | On Site | May 06 |
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf6883160b250eb1babbc?utm_campaign=1054&utm_source=git)** | McDonough, GA | On Site | May 06 |
+| ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf68776c60e7b70af110b?utm_campaign=1054&utm_source=git)** | Lockport, IL | On Site | May 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/69fbeeb6a5949019c55b1a65?utm_campaign=1054&utm_source=git)** | Metamora, OH | On Site | May 06 |
 | **[BHP](https://www.bhp.com)** | **[Specialist HR Service Partner](https://jobright.ai/jobs/info/69fbda8c87a4820e6da8afe8?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | Hybrid | May 06 |
 | **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[Student Intern](https://jobright.ai/jobs/info/69fbef463160b250eb1ba689?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | May 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enable Injections, Inc.](https://enableinjections.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69fb4a9ed21cf86d1e3d181f?utm_campaign=1054&utm_source=git)** | Cincinnati Metro | On Site | May 05 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Intern - Corporate](https://jobright.ai/jobs/info/69fb618affa73664aeaff3b1?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 05 |
 | **[CooperVision](http://coopervision.com)** | **[HR Intern – Process Improvement & AI Focus](https://jobright.ai/jobs/info/69fb2c94d21cf86d1e3d0d17?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | May 05 |
-| **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship - HR Intern, Talent Acquisition (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e74f363aa0c4796439934c?utm_campaign=1054&utm_source=git)** | Morrisville, NC | Remote | May 05 |
-| **[Aircapture](https://www.aircapture.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/69fb2c7c87a4820e6da86078?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | May 05 |
-| **[United States Cold Storage, Inc.](http://www.uscold.com/)** | **[HUMAN RESOURCES INTERN (SUMMER 2026)](https://jobright.ai/jobs/info/69fb29f618b94b2515bdffdb?utm_campaign=1054&utm_source=git)** | McDonough, GA | On Site | May 05 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Health & Benefits Operations Intern](https://jobright.ai/jobs/info/69fb4a9ed21cf86d1e3d1822?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
