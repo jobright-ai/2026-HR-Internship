@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Methanex Corporation](http://www.methanex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fc1489a5949019c55b3044?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | May 06 |
 | **[Magnet Forensics](http://magnetforensics.com)** | **[HR Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbdf3160b250eb1baf6f?utm_campaign=1054&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
 | **[Waste Connections of Canada](https://www.wasteconnectionscanada.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fbfbe23802c7621fd8ec96?utm_campaign=1054&utm_source=git)** | Québec, Quebec, Canada | On Site | May 06 |
 | **[Emerson](http://www.emerson.com)** | **[Human Resources Intern - Internal Communications - Summer 2026](https://jobright.ai/jobs/info/69fbf07aa5949019c55b1d9f?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DESIGNME HAIR](https://designmehair.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/69fab71bd21cf86d1e3cc94f?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 05 |
 | **[Enable Injections, Inc.](https://enableinjections.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69fb4a9ed21cf86d1e3d181f?utm_campaign=1054&utm_source=git)** | Cincinnati Metro | On Site | May 05 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Intern - Corporate](https://jobright.ai/jobs/info/69fb618affa73664aeaff3b1?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 05 |
-| **[CooperVision](http://coopervision.com)** | **[HR Intern – Process Improvement & AI Focus](https://jobright.ai/jobs/info/69fb2c94d21cf86d1e3d0d17?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
