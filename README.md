@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Philabundance](https://www.philabundance.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fca5dc5cff890b03f32b0f?utm_campaign=1054&utm_source=git)** | Philadelphia, PA 19148 | On Site | May 07 |
+| **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69debb955913ad339813fa12?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | May 07 |
+| **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[HR Intern](https://jobright.ai/jobs/info/69fc9ba9b113035a9f8ea2d3?utm_campaign=1054&utm_source=git)** | Mukwonago, WI, US, 53149 | On Site | May 07 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/698c07380f6f7e7a2ce79747?utm_campaign=1054&utm_source=git)** | Mineral Wells, TX | On Site | May 07 |
 | **[Valueonshore ('VOS') Advisors](https://valueonshore.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fc6c905cff890b03f30401?utm_campaign=1054&utm_source=git)** | Tower City, ND | On Site | May 07 |
 | **[ExamRoom.AI®](https://examroom.ai/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fc66bd48d4483e4b63960d?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[HR Internship (Fall 2026)](https://jobright.ai/jobs/info/69fc6e42e17071257af1a99b?utm_campaign=1054&utm_source=git)** | Frederick, MD, US | On Site | May 07 |
@@ -90,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf5ff2f9f6b7cf691017d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | May 06 |
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf651a5949019c55b202a?utm_campaign=1054&utm_source=git)** | Olathe, KS | On Site | May 06 |
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf650a5949019c55b201d?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | May 06 |
-| ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf68776c60e7b70af110b?utm_campaign=1054&utm_source=git)** | Lockport, IL | On Site | May 06 |
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf6883160b250eb1babbc?utm_campaign=1054&utm_source=git)** | McDonough, GA | On Site | May 06 |
+| ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf68776c60e7b70af110b?utm_campaign=1054&utm_source=git)** | Lockport, IL | On Site | May 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/69fbeeb6a5949019c55b1a65?utm_campaign=1054&utm_source=git)** | Metamora, OH | On Site | May 06 |
 | **[BHP](https://www.bhp.com)** | **[Specialist HR Service Partner](https://jobright.ai/jobs/info/69fbda8c87a4820e6da8afe8?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | Hybrid | May 06 |
 | **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[Student Intern](https://jobright.ai/jobs/info/69fbef463160b250eb1ba689?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | May 06 |
@@ -133,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Vanillakart](https://vanillakart.com/)** | **[HR Intern (Unpaid) - Part Time Canada Remote / 3 Months / Indian AI Workforce Company](https://jobright.ai/jobs/info/69fbda69ffa73664aeb023e2?utm_campaign=1054&utm_source=git)** | Canada | Remote | May 06 |
 | **[Metro One Security](http://metroonelpsg.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69fb817318b94b2515be2d55?utm_campaign=1054&utm_source=git)** | Morristown, NJ 07960, USA | On Site | May 06 |
 | **[Applied Digital](https://ir.applieddigital.com)** | **[Sourcing Recruiter Intern](https://jobright.ai/jobs/info/69fb9e3a38179b6f1ae7a2ef?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | May 06 |
-| **[PTI Technologies](http://ptitechnologies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e073d6c5691b27c176d8a8?utm_campaign=1054&utm_source=git)** | Oxnard, CA | On Site | May 06 |
 | **[BEAR Construction Company](http://bearcc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb7cb6d21cf86d1e3d3619?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL | On Site | May 06 |
 | **[Akron Children's](http://www.akronchildrens.org)** | **[HR Employee Relations Intern](https://jobright.ai/jobs/info/69f118d3b27fee43e8cd7426?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | May 06 |
 | **[Red River Commodities Inc](https://redriv.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb9a3ad21cf86d1e3d4321?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | May 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Lane Construction Corporation](https://www.laneconstruct.com)** | **[Corporate Intern - Early in Career Program](https://jobright.ai/jobs/info/69fb9a91d21cf86d1e3d4335?utm_campaign=1054&utm_source=git)** | Cheshire, CT | On Site | May 06 |
 | **[UMB Bank](https://www.umb.com/)** | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2e364753c101b21564742?utm_campaign=1054&utm_source=git)** | Dubuque, IA | On Site | May 06 |
 | **[National Education Association](http://www.nea.org)** | **[Human Resources Intern (Employee & Labor Relations)](https://jobright.ai/jobs/info/69decdc7e34484770f1a4ee7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 06 |
-| **[Flinn Scientific, Inc.](http://flinnsci.com)** | **[Human Resources Internship - Summer 2026 (2777)](https://jobright.ai/jobs/info/69fb283c86d5cd46527d335a?utm_campaign=1054&utm_source=git)** | BATAVIA, IL 60510 | On Site | May 06 |
-| **[Winnipeg Regional Health Authority (WRHA)](https://www.wrha.mb.ca)** | **[Staffing and Scheduling Clerk](https://jobright.ai/jobs/info/69fb60b0ffa73664aeaff2b4?utm_campaign=1054&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | May 06 |
-| **[CAQH](http://www.caqh.org/)** | **[Intern, People & Culture](https://jobright.ai/jobs/info/69fb5f9887a4820e6da87a28?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
