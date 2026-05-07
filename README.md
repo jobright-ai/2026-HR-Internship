@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources (HR) Intern- Administrative Focus](https://jobright.ai/jobs/info/69fc5c60bb117f6b3f2b47e3?utm_campaign=1054&utm_source=git)** | Des Moines, IA, US | On Site | May 06 |
 | ↳ | **[CW Talent Programs Intern - Fall](https://jobright.ai/jobs/info/69fc593c48d4483e4b6390fb?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, US | On Site | May 06 |
 | ↳ | **[SEAL Program Support Intern](https://jobright.ai/jobs/info/69fc55a6ab1b7e27b9fa35a8?utm_campaign=1054&utm_source=git)** | Missouri City, TX, US | On Site | May 06 |
-| ↳ | **[SEAL Program Support Intern](https://jobright.ai/jobs/info/69fc51dfcf5c6d3100697360?utm_campaign=1054&utm_source=git)** | Rosenberg, TX, US | On Site | May 06 |
 | ↳ | **[SEAL Program Support Intern](https://jobright.ai/jobs/info/69fc51e4cf5c6d3100697361?utm_campaign=1054&utm_source=git)** | TX, US | On Site | May 06 |
+| ↳ | **[SEAL Program Support Intern](https://jobright.ai/jobs/info/69fc51dfcf5c6d3100697360?utm_campaign=1054&utm_source=git)** | Rosenberg, TX, US | On Site | May 06 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69fc481e48ae180867212a97?utm_campaign=1054&utm_source=git)** | Syracuse, NY, US | On Site | May 06 |
 | **[Methanex Corporation](http://www.methanex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fc1489a5949019c55b3044?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[2026 Internship - People Team](https://jobright.ai/jobs/info/69fc3f35d6f1e3068d8efe4e?utm_campaign=1054&utm_source=git)** | United States | Remote | May 06 |
@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf5ff2f9f6b7cf691017d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | May 06 |
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf651a5949019c55b202a?utm_campaign=1054&utm_source=git)** | Olathe, KS | On Site | May 06 |
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf650a5949019c55b201d?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | May 06 |
-| ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf6883160b250eb1babbc?utm_campaign=1054&utm_source=git)** | McDonough, GA | On Site | May 06 |
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf68776c60e7b70af110b?utm_campaign=1054&utm_source=git)** | Lockport, IL | On Site | May 06 |
+| ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/69fbf6883160b250eb1babbc?utm_campaign=1054&utm_source=git)** | McDonough, GA | On Site | May 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/69fbeeb6a5949019c55b1a65?utm_campaign=1054&utm_source=git)** | Metamora, OH | On Site | May 06 |
 | **[BHP](https://www.bhp.com)** | **[Specialist HR Service Partner](https://jobright.ai/jobs/info/69fbda8c87a4820e6da8afe8?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | Hybrid | May 06 |
 | **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[Student Intern](https://jobright.ai/jobs/info/69fbef463160b250eb1ba689?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | May 06 |
