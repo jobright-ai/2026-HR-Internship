@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimball Midwest](https://www.kimballmidwest.com)** | **[HR Shared Services Intern](https://jobright.ai/jobs/info/69fe0f7c4b9bbf21744ae21c?utm_campaign=1054&utm_source=git)** | Columbus, OH, 43228, United States | On Site | May 08 |
+| **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $20/h](https://jobright.ai/jobs/info/69fe0ada52e2b44f558adf00?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | May 08 |
 | **[City of Carrollton](https://www.cityofcarrollton.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe03b0f363bc4dc339b097?utm_campaign=1054&utm_source=git)** | Carrollton, TX | On Site | May 08 |
 | **[Helping Hands Family - Autism Services](https://hhfamily.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e16519d612782e611486fc?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | May 08 |
 | **[Barnes](https://www.onebarnes.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fdfdb352e2b44f558adbcc?utm_campaign=1054&utm_source=git)** | East Granby, Connecticut, United States | On Site | May 08 |
@@ -89,17 +91,17 @@ For a complete list, click the following sortable link below:
 | **[Katzman](https://www.katzmanproduce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fcd782666f063d3d6d1083?utm_campaign=1054&utm_source=git)** | Bronx, NY 10474, USA | Hybrid | May 07 |
 | **[Jet Access](https://www.flyjetaccess.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fcd234b113035a9f8ebdf9?utm_campaign=1054&utm_source=git)** | Fishers, IN 46038, USA | On Site | May 07 |
 | **[SSF Imported Auto Parts LLC](https://www.ssfautoparts.com)** | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15e938a651755f96b7b?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b7a?utm_campaign=1054&utm_source=git)** | Irvine, CA, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b79?utm_campaign=1054&utm_source=git)** | Las Vegas, NV, US | Hybrid | May 07 |
 | ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b77?utm_campaign=1054&utm_source=git)** | Oakland, CA, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b75?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, US | Hybrid | May 07 |
+| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b79?utm_campaign=1054&utm_source=git)** | Las Vegas, NV, US | Hybrid | May 07 |
 | ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b78?utm_campaign=1054&utm_source=git)** | South San Francisco, CA, US | Hybrid | May 07 |
+| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b75?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, US | Hybrid | May 07 |
+| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b7a?utm_campaign=1054&utm_source=git)** | Irvine, CA, US | Hybrid | May 07 |
 | ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b6f?utm_campaign=1054&utm_source=git)** | Carson, CA, US | Hybrid | May 07 |
 | ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b71?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b72?utm_campaign=1054&utm_source=git)** | Portland, OR, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b73?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b70?utm_campaign=1054&utm_source=git)** | Van Nuys, CA, US | Hybrid | May 07 |
 | ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b74?utm_campaign=1054&utm_source=git)** | Norcross, GA, US | Hybrid | May 07 |
+| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b72?utm_campaign=1054&utm_source=git)** | Portland, OR, US | Hybrid | May 07 |
+| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b70?utm_campaign=1054&utm_source=git)** | Van Nuys, CA, US | Hybrid | May 07 |
+| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b73?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 07 |
 | ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15b938a651755f96b6e?utm_campaign=1054&utm_source=git)** | San Diego, CA, US | Hybrid | May 07 |
 | **[Ocean Downs Casino](http://www.oceandowns.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e1832b6c20aa11495417bc?utm_campaign=1054&utm_source=git)** | Berlin, MD | On Site | May 07 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69fcc9ac938a651755f969f6?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | May 07 |
@@ -107,6 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69fcc9a8666f063d3d6d0b36?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 07 |
 | **[Elite Dental Partners](http://www.elitedentalpartners.com/)** | **[Human Resources Intern- Summer](https://jobright.ai/jobs/info/69fcc0d96b788e7e7a5c23a8?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | May 07 |
 | **[Artemax, Inc.](https://www.artemax.com)** | **[HR Intern](https://jobright.ai/jobs/info/69fcbace432a3c4da8dfe850?utm_campaign=1054&utm_source=git)** | New Berlin, WI, US | On Site | May 07 |
+| **[EFCO Forming & Shoring Solutions](http://www.efcoforms.com/index.html)** | **[Human Resources - File Management Intern](https://jobright.ai/jobs/info/69d8c1bdb67cec4f9b09ebcd?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | May 07 |
 | **[NOV](https://www.nov.com/)** | **[Community Investment Program Intern](https://jobright.ai/jobs/info/69e029fd14bf245fc7a7017f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 07 |
 | **[Chicago Cares](http://www.chicagocares.org/)** | **[Capacity Building Intern (Internship)](https://jobright.ai/jobs/info/69fcc8e8432a3c4da8dfef8f?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | Hybrid | May 07 |
 | **[Philabundance](https://www.philabundance.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fca5dc5cff890b03f32b0f?utm_campaign=1054&utm_source=git)** | Philadelphia, PA 19148 | On Site | May 07 |
@@ -130,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources (HR) Intern- Administrative Focus](https://jobright.ai/jobs/info/69fc5c60bb117f6b3f2b47e3?utm_campaign=1054&utm_source=git)** | Des Moines, IA, US | On Site | May 06 |
 | ↳ | **[CW Talent Programs Intern - Fall](https://jobright.ai/jobs/info/69fc593c48d4483e4b6390fb?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, US | On Site | May 06 |
 | ↳ | **[SEAL Program Support Intern](https://jobright.ai/jobs/info/69fc55a6ab1b7e27b9fa35a8?utm_campaign=1054&utm_source=git)** | Missouri City, TX, US | On Site | May 06 |
-| ↳ | **[SEAL Program Support Intern](https://jobright.ai/jobs/info/69fc51dfcf5c6d3100697360?utm_campaign=1054&utm_source=git)** | Rosenberg, TX, US | On Site | May 06 |
 | ↳ | **[SEAL Program Support Intern](https://jobright.ai/jobs/info/69fc51e4cf5c6d3100697361?utm_campaign=1054&utm_source=git)** | TX, US | On Site | May 06 |
+| ↳ | **[SEAL Program Support Intern](https://jobright.ai/jobs/info/69fc51dfcf5c6d3100697360?utm_campaign=1054&utm_source=git)** | Rosenberg, TX, US | On Site | May 06 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69fc481e48ae180867212a97?utm_campaign=1054&utm_source=git)** | Syracuse, NY, US | On Site | May 06 |
 | **[Methanex Corporation](http://www.methanex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fc1489a5949019c55b3044?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[2026 Internship - People Team](https://jobright.ai/jobs/info/69fc3f35d6f1e3068d8efe4e?utm_campaign=1054&utm_source=git)** | United States | Remote | May 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/69fbeeb6a5949019c55b1a65?utm_campaign=1054&utm_source=git)** | Metamora, OH | On Site | May 06 |
 | **[BHP](https://www.bhp.com)** | **[Specialist HR Service Partner](https://jobright.ai/jobs/info/69fbda8c87a4820e6da8afe8?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | Hybrid | May 06 |
 | **[Dermatology Partners](https://www.padermpartners.com)** | **[HR Intern](https://jobright.ai/jobs/info/69fbdc44ffa73664aeb02825?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | May 06 |
-| **[Lightera](https://lightera.com)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/69fbedfec39b9a66c0c54e62?utm_campaign=1054&utm_source=git)** | Norcross, GA | On Site | May 06 |
-| **[Attensi](http://www.attensi.com/)** | **[Workplace and People Operations Intern](https://jobright.ai/jobs/info/69fbd99f86d5cd46527d838f?utm_campaign=1054&utm_source=git)** | 100 Causeway St suite 1110 11th floor, Boston, USA, 02114, US | Hybrid | May 06 |
-| **[Red River Commodities Inc](https://redriv.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb9c2387a4820e6da89e61?utm_campaign=1054&utm_source=git)** | Corporate Office Fargo, Fargo, ND, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
