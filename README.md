@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mansa Consulting](https://mansainc.com)** | **[Human Resources - HR Intern](https://jobright.ai/jobs/info/69ff66c474b5407dd4675103?utm_campaign=1054&utm_source=git)** | United States | Remote | May 09 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | May 09 |
 | **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/69ff5df8c2ffb31f4535eb6a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 09 |
+| **[California State University-San Bernardino](https://csusb.edu)** | **[Human Resources Information System (HRIS) Analyst (Business Systems Analyst II), Human Resources Division](https://jobright.ai/jobs/info/69e32f66fcfcbd43860a52e0?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | May 09 |
 | **[The Leading Niche](http://www.theleadingniche.com)** | **[Business/HR/Communications Intern](https://jobright.ai/jobs/info/69ff2b6ea0eddc08c2397a2a?utm_campaign=1054&utm_source=git)** | Atlanta,GA,US | Remote | May 09 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern Payroll](https://jobright.ai/jobs/info/69ff2382c4b08448a0b16a03?utm_campaign=1054&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | ↳ | **[HR Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fe?utm_campaign=1054&utm_source=git)** | NYC-ALL BOROS | On Site | May 09 |
@@ -92,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Barton Malow](http://www.bartonmalow.com)** | **[Human Capital Management (HCM) Intern](https://jobright.ai/jobs/info/69e27c003ce36005badbe612?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | May 08 |
 | **[PACE Southeast Michigan](https://www.pacesemi.org/)** | **[HR Compliance Intern](https://jobright.ai/jobs/info/69feb28b1161630dd3b01a30?utm_campaign=1054&utm_source=git)** | Southfield, MI, US | Hybrid | May 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/69e158daff71e82d604b67ba?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 08 |
-| **[AAON, Inc.](https://www.aaon.com)** | **[HR Intern (Talent Acquisition)](https://jobright.ai/jobs/info/69fe31d6f363bc4dc339c3da?utm_campaign=1054&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
-| ↳ | **[HR Intern (Total Rewards)](https://jobright.ai/jobs/info/69fe31d6f363bc4dc339c3db?utm_campaign=1054&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
+| **[AAON, Inc.](https://www.aaon.com)** | **[HR Intern (Total Rewards)](https://jobright.ai/jobs/info/69fe31d6f363bc4dc339c3db?utm_campaign=1054&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
+| ↳ | **[HR Intern (Talent Acquisition)](https://jobright.ai/jobs/info/69fe31d6f363bc4dc339c3da?utm_campaign=1054&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
 | **[PROENERGY](http://www.proenergyservices.com)** | **[V - HR Intern](https://jobright.ai/jobs/info/69fe31b1ad691a11f34ec456?utm_campaign=1054&utm_source=git)** | Sedalia, MO | On Site | May 08 |
 | **[Uber](http://www.uber.com)** | **[2026 Internal Communications Intern - US](https://jobright.ai/jobs/info/69fe31964b9bbf21744af066?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 08 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe319652e2b44f558af147?utm_campaign=1054&utm_source=git)** | Flex-N-Gate Shelby, 52674 Shelby Parkway, Shelby Township, Michigan, United States of America | On Site | May 08 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Katzman](https://www.katzmanproduce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fcd782666f063d3d6d1083?utm_campaign=1054&utm_source=git)** | Bronx, NY 10474, USA | Hybrid | May 07 |
 | **[Jet Access](https://www.flyjetaccess.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fcd234b113035a9f8ebdf9?utm_campaign=1054&utm_source=git)** | Fishers, IN 46038, USA | On Site | May 07 |
 | **[SSF Imported Auto Parts LLC](https://www.ssfautoparts.com)** | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15e938a651755f96b7b?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b79?utm_campaign=1054&utm_source=git)** | Las Vegas, NV, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b75?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, US | Hybrid | May 07 |
 | ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b77?utm_campaign=1054&utm_source=git)** | Oakland, CA, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b7a?utm_campaign=1054&utm_source=git)** | Irvine, CA, US | Hybrid | May 07 |
+| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b75?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, US | Hybrid | May 07 |
+| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b79?utm_campaign=1054&utm_source=git)** | Las Vegas, NV, US | Hybrid | May 07 |
 | ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b78?utm_campaign=1054&utm_source=git)** | South San Francisco, CA, US | Hybrid | May 07 |
+| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b7a?utm_campaign=1054&utm_source=git)** | Irvine, CA, US | Hybrid | May 07 |
 | ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b6f?utm_campaign=1054&utm_source=git)** | Carson, CA, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b71?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15c938a651755f96b73?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
