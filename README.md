@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df21f536823d1b425868ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | May 09 |
 | **[Octave](https://www.octave.com/)** | **[Global Enablement Team Intern](https://jobright.ai/jobs/info/69c70284e565c26a700250ae?utm_campaign=1054&utm_source=git)** | Greater Houston | Hybrid | May 09 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698cd8f90f6f7e7a2ce88d27?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 09 |
-| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Benefits Advocate](https://jobright.ai/jobs/info/693a418eac80bb5492bcc3de?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | May 09 |
 | **[Asia Society](http://asiasociety.org)** | **[People and Culture Intern, Endowment](https://jobright.ai/jobs/info/69febc75d0dc596b8d119ec1?utm_campaign=1054&utm_source=git)** | New York - New York , NY 10021 | On Site | May 08 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - HR Technology & Payroll (1124)](https://jobright.ai/jobs/info/69febc6bd0dc596b8d119e98?utm_campaign=1054&utm_source=git)** | Miramar, FL 33025 | On Site | May 08 |
 | **[LifeSkills, Inc.](https://www.lifeskills.com)** | **[Internship LifeSkills (52641)](https://jobright.ai/jobs/info/69febb92d0dc596b8d119d29?utm_campaign=1054&utm_source=git)** | LifeSkills Corporate 0AV58 - Bowling Green, KY 42102 | On Site | May 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Katzman](https://www.katzmanproduce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fcd782666f063d3d6d1083?utm_campaign=1054&utm_source=git)** | Bronx, NY 10474, USA | Hybrid | May 07 |
 | **[Jet Access](https://www.flyjetaccess.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fcd234b113035a9f8ebdf9?utm_campaign=1054&utm_source=git)** | Fishers, IN 46038, USA | On Site | May 07 |
 | **[SSF Imported Auto Parts LLC](https://www.ssfautoparts.com)** | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15e938a651755f96b7b?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL, US | Hybrid | May 07 |
+| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b75?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, US | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
