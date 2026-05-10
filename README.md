@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Human Resources Intern - Part-Time](https://jobright.ai/jobs/info/6a00d479238f143e8352a519?utm_campaign=1054&utm_source=git)** | Merriam,KS,US | On Site | May 10 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69fd2d72666f063d3d6d38ee?utm_campaign=1054&utm_source=git)** | United States | Remote | May 10 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f81baa05c26e7ab0328f?utm_campaign=1054&utm_source=git)** | Stockton, CA | On Site | May 10 |
+| **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a3795ac80bb5492bcbdad?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | May 10 |
 | **[Keshet Disabilities & Inclusion](https://keshet.org/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6a0029d5a0eddc08c239b6a4?utm_campaign=1054&utm_source=git)** | Business Office - Northbrook, IL 60062 | On Site | May 09 |
 | **[Simular](https://simular.ai)** | **[People & Operations Intern](https://jobright.ai/jobs/info/69b2b05ea8ac8e70ff66b765?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[People Operations / Human Resources Intern](https://jobright.ai/jobs/info/69ff9c52238f143e835263c4?utm_campaign=1054&utm_source=git)** | United States | Remote | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Vineta Hotel](https://www.linkedin.com/company/89296230)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69fcf7c6432a3c4da8e00955?utm_campaign=1054&utm_source=git)** | The Vineta Hotel, Palm Beach, 33480, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69fcf73a6b788e7e7a5c4079?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 07 |
 | **[Ameresco](http://www.apses.com)** | **[Talent Acqusition Intern](https://jobright.ai/jobs/info/69fcf471b113035a9f8ed1d3?utm_campaign=1054&utm_source=git)** | United States - Massachusetts - Framingham, US | On Site | May 07 |
-| **[Aeroseal](https://aeroseal.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fcde9d938a651755f97404?utm_campaign=1054&utm_source=git)** | Miamisburg, OH | On Site | May 07 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Human Resources Paid Intern - Welfare and Self-Reliance Services](https://jobright.ai/jobs/info/69fcdc806b788e7e7a5c32d6?utm_campaign=1054&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
