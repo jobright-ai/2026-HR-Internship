@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f81baa05c26e7ab0328f?utm_campaign=1054&utm_source=git)** | Stockton, CA | On Site | May 10 |
 | **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a3795ac80bb5492bcbdad?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | May 10 |
 | **[Keshet Disabilities & Inclusion](https://keshet.org/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6a0029d5a0eddc08c239b6a4?utm_campaign=1054&utm_source=git)** | Business Office - Northbrook, IL 60062 | On Site | May 09 |
+| **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship, Fall 2026](https://jobright.ai/jobs/info/69fb1f6938179b6f1ae75645?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | May 09 |
 | **[Simular](https://simular.ai)** | **[People & Operations Intern](https://jobright.ai/jobs/info/69b2b05ea8ac8e70ff66b765?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[People Operations / Human Resources Intern](https://jobright.ai/jobs/info/69ff9c52238f143e835263c4?utm_campaign=1054&utm_source=git)** | United States | Remote | May 09 |
 | **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 09 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[PROENERGY](http://www.proenergyservices.com)** | **[V - HR Intern](https://jobright.ai/jobs/info/69fe31b1ad691a11f34ec456?utm_campaign=1054&utm_source=git)** | Sedalia, MO | On Site | May 08 |
 | **[Uber](http://www.uber.com)** | **[2026 Internal Communications Intern - US](https://jobright.ai/jobs/info/69fe31964b9bbf21744af066?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 08 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe319652e2b44f558af147?utm_campaign=1054&utm_source=git)** | Flex-N-Gate Shelby, 52674 Shelby Parkway, Shelby Township, Michigan, United States of America | On Site | May 08 |
-| **[FDH Aero](https://fdhaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4d?utm_campaign=1054&utm_source=git)** | Irving, TX, US | On Site | May 08 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4e?utm_campaign=1054&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
+| **[FDH Aero](https://fdhaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4e?utm_campaign=1054&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4d?utm_campaign=1054&utm_source=git)** | Irving, TX, US | On Site | May 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/69e27184fcfcbd43860a2e61?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Human Resources Intern (Bilingual Spanish)](https://jobright.ai/jobs/info/69fe2a496bcf315dc8f5509b?utm_campaign=1054&utm_source=git)** | NY, US | On Site | May 08 |
 | **[NOV](https://www.nov.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69fe1c9d4b9bbf21744ae760?utm_campaign=1054&utm_source=git)** | 10353 Richmond Avenue, Houston, TX, 77042, US | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcf7fc938a651755f9823c?utm_campaign=1054&utm_source=git)** | United States | On Site | May 07 |
 | **[The Vineta Hotel](https://www.linkedin.com/company/89296230)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69fcf7c6432a3c4da8e00955?utm_campaign=1054&utm_source=git)** | The Vineta Hotel, Palm Beach, 33480, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/69fcf73a6b788e7e7a5c4079?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 07 |
-| **[Ameresco](http://www.apses.com)** | **[Talent Acqusition Intern](https://jobright.ai/jobs/info/69fcf471b113035a9f8ed1d3?utm_campaign=1054&utm_source=git)** | United States - Massachusetts - Framingham, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
