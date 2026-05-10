@@ -64,11 +64,13 @@ For a complete list, click the following sortable link below:
 | **[Mansa Consulting](https://mansainc.com)** | **[Human Resources - HR Intern](https://jobright.ai/jobs/info/69ff66c474b5407dd4675103?utm_campaign=1054&utm_source=git)** | United States | Remote | May 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | May 09 |
 | **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/69ff5df8c2ffb31f4535eb6a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 09 |
+| **[ND Paper](https://us.ndpaper.com)** | **[HR Intern](https://jobright.ai/jobs/info/69a9892df6c22f2e36867e07?utm_campaign=1054&utm_source=git)** | Rumford, ME | On Site | May 09 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Human Resources Information System (HRIS) Analyst (Business Systems Analyst II), Human Resources Division](https://jobright.ai/jobs/info/69e32f66fcfcbd43860a52e0?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | May 09 |
 | **[The Leading Niche](http://www.theleadingniche.com)** | **[Business/HR/Communications Intern](https://jobright.ai/jobs/info/69ff2b6ea0eddc08c2397a2a?utm_campaign=1054&utm_source=git)** | Atlanta,GA,US | Remote | May 09 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern Payroll](https://jobright.ai/jobs/info/69ff2382c4b08448a0b16a03?utm_campaign=1054&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | ↳ | **[HR Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fe?utm_campaign=1054&utm_source=git)** | NYC-ALL BOROS | On Site | May 09 |
 | ↳ | **[HR Analytics Summer Intern](https://jobright.ai/jobs/info/69ff237d238f143e83523e8d?utm_campaign=1054&utm_source=git)** | NYC-ALL BOROS | On Site | May 09 |
+| **[Octave](https://www.octave.com/)** | **[Global Enablement Team Intern](https://jobright.ai/jobs/info/69c702a01818a24cd84ca884?utm_campaign=1054&utm_source=git)** | Madison, AL | Hybrid | May 09 |
 | **[LG Electronics](http://www.lg.com)** | **[Intern Human Resources HR Payroll - New Jersey Location](https://jobright.ai/jobs/info/69df21f536823d1b425868ec?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | May 09 |
 | **[Octave](https://www.octave.com/)** | **[Global Enablement Team Intern](https://jobright.ai/jobs/info/69c70284e565c26a700250ae?utm_campaign=1054&utm_source=git)** | Greater Houston | Hybrid | May 09 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698cd8f90f6f7e7a2ce88d27?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Katzman](https://www.katzmanproduce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fcd782666f063d3d6d1083?utm_campaign=1054&utm_source=git)** | Bronx, NY 10474, USA | Hybrid | May 07 |
 | **[Jet Access](https://www.flyjetaccess.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fcd234b113035a9f8ebdf9?utm_campaign=1054&utm_source=git)** | Fishers, IN 46038, USA | On Site | May 07 |
 | **[SSF Imported Auto Parts LLC](https://www.ssfautoparts.com)** | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15e938a651755f96b7b?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b75?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, US | Hybrid | May 07 |
-| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b7a?utm_campaign=1054&utm_source=git)** | Irvine, CA, US | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
