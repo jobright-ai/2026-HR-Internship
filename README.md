@@ -143,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[IAMPACT MGMT](iampactmgmt.com)** | **[Talent Manager Intern (Influencer)](https://jobright.ai/jobs/info/69fd0fe3b113035a9f8ee344?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | May 07 |
 | **[Hidden Harbor Capital Partners](http://www.hh-cp.com/)** | **[Talent Intern - Summer 2026](https://jobright.ai/jobs/info/69fd0f5c666f063d3d6d2f66?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | May 07 |
 | **[Price Chopper Supermarkets-Market 32](http://www.pricechopper.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69fd0827432a3c4da8e01139?utm_campaign=1054&utm_source=git)** | Schenectady, NY, US, 12308 | On Site | May 07 |
-| **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Human Resources Intern (Association Office)](https://jobright.ai/jobs/info/69fcfed2666f063d3d6d26d5?utm_campaign=1054&utm_source=git)** | New York, NY, None | On Site | May 07 |
 | **[Aqua](https://www.aquawater.com/)** | **[HR Service Desk Intern](https://jobright.ai/jobs/info/69fcf8955cff890b03f3524d?utm_campaign=1054&utm_source=git)** | PA NORTH SHORE - 375, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcf7fc938a651755f9823c?utm_campaign=1054&utm_source=git)** | United States | On Site | May 07 |
 | **[The Vineta Hotel](https://www.linkedin.com/company/89296230)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69fcf7c6432a3c4da8e00955?utm_campaign=1054&utm_source=git)** | The Vineta Hotel, Palm Beach, 33480, US | On Site | May 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Jet Access](https://www.flyjetaccess.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fcd234b113035a9f8ebdf9?utm_campaign=1054&utm_source=git)** | Fishers, IN 46038, USA | On Site | May 07 |
 | **[SSF Imported Auto Parts LLC](https://www.ssfautoparts.com)** | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15e938a651755f96b7b?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL, US | Hybrid | May 07 |
 | ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b75?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, US | Hybrid | May 07 |
+| ↳ | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/69fcd15d938a651755f96b7a?utm_campaign=1054&utm_source=git)** | Irvine, CA, US | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
