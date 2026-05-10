@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69fd2d72666f063d3d6d38ee?utm_campaign=1054&utm_source=git)** | United States | Remote | May 10 |
 | **[Keshet Disabilities & Inclusion](https://keshet.org/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6a0029d5a0eddc08c239b6a4?utm_campaign=1054&utm_source=git)** | Business Office - Northbrook, IL 60062 | On Site | May 09 |
 | **[Simular](https://simular.ai)** | **[People & Operations Intern](https://jobright.ai/jobs/info/69b2b05ea8ac8e70ff66b765?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 09 |
 | **[CoPatible](https://copatible.com)** | **[Recruiter & Talent Community Intern](https://jobright.ai/jobs/info/69ffc376c2ffb31f4536053a?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[People Operations / Human Resources Intern](https://jobright.ai/jobs/info/69ff9c52238f143e835263c4?utm_campaign=1054&utm_source=git)** | United States | Remote | May 09 |
 | **[Samba TV](http://www.samba.tv)** | **[HR Intern](https://jobright.ai/jobs/info/69c72afd83ea553769fe1526?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 09 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e649bb7820c036924cf466?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 09 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6990112b0f6f7e7a2cec62fd?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 09 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Development)](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830159?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | **[Mansa Consulting](https://mansainc.com)** | **[Human Resources - HR Intern](https://jobright.ai/jobs/info/69ff66c474b5407dd4675103?utm_campaign=1054&utm_source=git)** | United States | Remote | May 09 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69fb2e0386d5cd46527d3a5a?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[College Recruiting Intern 2025 - 2026](https://jobright.ai/jobs/info/69fe65876bcf315dc8f575ed?utm_campaign=1054&utm_source=git)** | Wittmann, AZ, US | On Site | May 08 |
 | ↳ | **[V - HR Intern](https://jobright.ai/jobs/info/69fe629b4b9bbf21744b11ca?utm_campaign=1054&utm_source=git)** | Sedalia, MO, US | On Site | May 08 |
-| **[Maple Leaf Farms](http://mapleleaffarms.com)** | **[HR Intern](https://jobright.ai/jobs/info/69fe4d936bcf315dc8f56c95?utm_campaign=1054&utm_source=git)** | Leesburg, Indiana, United States | On Site | May 08 |
 | **[The Rawlings Group](https://www.rawlingsgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69fe4be152e2b44f558b08ff?utm_campaign=1054&utm_source=git)** | TRG HeadQuarters - La Grange, KY 40031 | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer Internship -  Human Resources (3761)](https://jobright.ai/jobs/info/69fe48a1f363bc4dc339da12?utm_campaign=1054&utm_source=git)** | Waco, TX, US | On Site | May 08 |
 | **[Environment for the Americas](http://www.environmentamericas.org)** | **[Community Engagement Intern - ON SITE - Cabrillo National Monument](https://jobright.ai/jobs/info/69fe480bf363bc4dc339d8c2?utm_campaign=1054&utm_source=git)** | San Diego, California, United States | On Site | May 08 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69e05f54ba9bd32d03370085?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | May 07 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/69fad45d86d5cd46527d01ea?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd2f9c5cff890b03f3674d?utm_campaign=1054&utm_source=git)** | Kearny, NJ, US | On Site | May 07 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69fd2d72666f063d3d6d38ee?utm_campaign=1054&utm_source=git)** | United States | Remote | May 07 |
 | **[Thea Energy](https://www.thea.energy/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd195cb113035a9f8ee79e?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | May 07 |
 | ↳ | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd14c8b113035a9f8ee651?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern-Human Resources-Front Desk](https://jobright.ai/jobs/info/69fd11136b788e7e7a5c4e3e?utm_campaign=1054&utm_source=git)** | Orlando, FL, US | On Site | May 07 |
