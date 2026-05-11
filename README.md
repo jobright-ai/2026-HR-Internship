@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Metro Region - Boston Location](https://jobright.ai/jobs/info/6a01b3a73053db70a11718cc?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 11 |
 | **[UCSF Health](https://www.ucsfhealth.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69f1b07e825a315d7ca396c4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 10 |
 | **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a015c3dc2ffb31f45365754?utm_campaign=1054&utm_source=git)** | Miami, Florida | On Site | May 10 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 People + Culture Intern / Support Center](https://jobright.ai/jobs/info/69a32a790da45516f16c7364?utm_campaign=1054&utm_source=git)** | Chevy Chase Village, MD | Hybrid | May 10 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[PROENERGY](http://www.proenergyservices.com)** | **[V - HR Intern](https://jobright.ai/jobs/info/69fe31b1ad691a11f34ec456?utm_campaign=1054&utm_source=git)** | Sedalia, MO | On Site | May 08 |
 | **[Uber](http://www.uber.com)** | **[2026 Internal Communications Intern - US](https://jobright.ai/jobs/info/69fe31964b9bbf21744af066?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 08 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe319652e2b44f558af147?utm_campaign=1054&utm_source=git)** | Flex-N-Gate Shelby, 52674 Shelby Parkway, Shelby Township, Michigan, United States of America | On Site | May 08 |
-| **[FDH Aero](https://fdhaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4d?utm_campaign=1054&utm_source=git)** | Irving, TX, US | On Site | May 08 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4e?utm_campaign=1054&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
+| **[FDH Aero](https://fdhaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4e?utm_campaign=1054&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4d?utm_campaign=1054&utm_source=git)** | Irving, TX, US | On Site | May 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/69e27184fcfcbd43860a2e61?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Human Resources Intern (Bilingual Spanish)](https://jobright.ai/jobs/info/69fe2a496bcf315dc8f5509b?utm_campaign=1054&utm_source=git)** | NY, US | On Site | May 08 |
 | **[NOV](https://www.nov.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69fe1c9d4b9bbf21744ae760?utm_campaign=1054&utm_source=git)** | 10353 Richmond Avenue, Houston, TX, 77042, US | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/6a0151863053db70a11701ec?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 07 |
 | **[The Weitz Company](http://www.weitz.com)** | **[Human Resources (HR) Intern- Administrative Focus](https://jobright.ai/jobs/info/6a014371fa1aa73213d92212?utm_campaign=1054&utm_source=git)** | Des Moines, Iowa, United States | On Site | May 07 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/69fad45d86d5cd46527d01ea?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd2f9c5cff890b03f3674d?utm_campaign=1054&utm_source=git)** | Kearny, NJ, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
