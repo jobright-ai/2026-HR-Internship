@@ -120,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Barton Malow](http://www.bartonmalow.com)** | **[Human Capital Management (HCM) Intern](https://jobright.ai/jobs/info/69e27c003ce36005badbe612?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | May 08 |
 | **[PACE Southeast Michigan](https://www.pacesemi.org/)** | **[HR Compliance Intern](https://jobright.ai/jobs/info/69feb28b1161630dd3b01a30?utm_campaign=1054&utm_source=git)** | Southfield, MI, US | Hybrid | May 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/69e158daff71e82d604b67ba?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 08 |
-| **[AAON, Inc.](https://www.aaon.com)** | **[HR Intern (Total Rewards)](https://jobright.ai/jobs/info/69fe31d6f363bc4dc339c3db?utm_campaign=1054&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
-| ↳ | **[HR Intern (Talent Acquisition)](https://jobright.ai/jobs/info/69fe31d6f363bc4dc339c3da?utm_campaign=1054&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
+| **[AAON, Inc.](https://www.aaon.com)** | **[HR Intern (Talent Acquisition)](https://jobright.ai/jobs/info/69fe31d6f363bc4dc339c3da?utm_campaign=1054&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
+| ↳ | **[HR Intern (Total Rewards)](https://jobright.ai/jobs/info/69fe31d6f363bc4dc339c3db?utm_campaign=1054&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
 | **[PROENERGY](http://www.proenergyservices.com)** | **[V - HR Intern](https://jobright.ai/jobs/info/69fe31b1ad691a11f34ec456?utm_campaign=1054&utm_source=git)** | Sedalia, MO | On Site | May 08 |
 | **[Uber](http://www.uber.com)** | **[2026 Internal Communications Intern - US](https://jobright.ai/jobs/info/69fe31964b9bbf21744af066?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 08 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe319652e2b44f558af147?utm_campaign=1054&utm_source=git)** | Flex-N-Gate Shelby, 52674 Shelby Parkway, Shelby Township, Michigan, United States of America | On Site | May 08 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69e05f54ba9bd32d03370085?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | May 07 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/6a0151863053db70a11701ec?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 07 |
 | **[The Weitz Company](http://www.weitz.com)** | **[Human Resources (HR) Intern- Administrative Focus](https://jobright.ai/jobs/info/6a014371fa1aa73213d92212?utm_campaign=1054&utm_source=git)** | Des Moines, Iowa, United States | On Site | May 07 |
-| **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/69fad45d86d5cd46527d01ea?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 07 |
+| **[IBM](http://www.ibm.com)** | **[Human Resources Intern - 2026](https://jobright.ai/jobs/info/6a01ce1adf52f1450d845154?utm_campaign=1054&utm_source=git)** | Research Park, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
