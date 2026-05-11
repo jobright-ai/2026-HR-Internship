@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a01ec4fc4b08448a0b218d8?utm_campaign=1054&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/6a01eb7ac2ffb31f45368670?utm_campaign=1054&utm_source=git)** | DeRidder, LA 70634, USA | On Site | May 11 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - Provider Recruitment](https://jobright.ai/jobs/info/6a01d79fc2ffb31f4536781a?utm_campaign=1054&utm_source=git)** | South Portland, ME | Hybrid | May 11 |
 | **[Cincinnati Metro](https://www.go-metro.com)** | **[Employee and Labor Relations / Legal Intern](https://jobright.ai/jobs/info/6a01d14ffa1aa73213d9476b?utm_campaign=1054&utm_source=git)** | 525 Vine Street, Suite 500, Cincinnati, OH | On Site | May 11 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Metro Region - Boston Location](https://jobright.ai/jobs/info/6a01b3a73053db70a11718cc?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 11 |
 | **[UCSF Health](https://www.ucsfhealth.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69f1b07e825a315d7ca396c4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 10 |
 | **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a015c3dc2ffb31f45365754?utm_campaign=1054&utm_source=git)** | Miami, Florida | On Site | May 10 |
-| **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 People + Culture Intern / Support Center](https://jobright.ai/jobs/info/69a32a790da45516f16c7364?utm_campaign=1054&utm_source=git)** | Chevy Chase Village, MD | Hybrid | May 10 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69fb2e0386d5cd46527d3a5a?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | May 10 |
 | **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Human Resources Intern - Part-Time](https://jobright.ai/jobs/info/6a00d479238f143e8352a519?utm_campaign=1054&utm_source=git)** | Merriam,KS,US | On Site | May 10 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69fd2d72666f063d3d6d38ee?utm_campaign=1054&utm_source=git)** | United States | Remote | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Human Resources Intern- Summer](https://jobright.ai/jobs/info/69fd6672f363bc4dc33983bd?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | May 07 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69e05f54ba9bd32d03370085?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | May 07 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/6a0151863053db70a11701ec?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 07 |
-| **[The Weitz Company](http://www.weitz.com)** | **[Human Resources (HR) Intern- Administrative Focus](https://jobright.ai/jobs/info/6a014371fa1aa73213d92212?utm_campaign=1054&utm_source=git)** | Des Moines, Iowa, United States | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
