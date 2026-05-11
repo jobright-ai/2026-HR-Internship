@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a01bc72c2ffb31f45366c93?utm_campaign=1054&utm_source=git)** | Canada | Remote | May 11 |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern - Provider Recruitment](https://jobright.ai/jobs/info/6a01d79fc2ffb31f4536781a?utm_campaign=1054&utm_source=git)** | South Portland, ME | Hybrid | May 11 |
+| **[Cincinnati Metro](https://www.go-metro.com)** | **[Employee and Labor Relations / Legal Intern](https://jobright.ai/jobs/info/6a01d14ffa1aa73213d9476b?utm_campaign=1054&utm_source=git)** | 525 Vine Street, Suite 500, Cincinnati, OH | On Site | May 11 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Metro Region - Boston Location](https://jobright.ai/jobs/info/6a01b3a73053db70a11718cc?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 11 |
 | **[UCSF Health](https://www.ucsfhealth.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69f1b07e825a315d7ca396c4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 10 |
 | **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a015c3dc2ffb31f45365754?utm_campaign=1054&utm_source=git)** | Miami, Florida | On Site | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69e05f54ba9bd32d03370085?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | May 07 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/6a0151863053db70a11701ec?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 07 |
 | **[The Weitz Company](http://www.weitz.com)** | **[Human Resources (HR) Intern- Administrative Focus](https://jobright.ai/jobs/info/6a014371fa1aa73213d92212?utm_campaign=1054&utm_source=git)** | Des Moines, Iowa, United States | On Site | May 07 |
-| **[IBM](http://www.ibm.com)** | **[Human Resources Intern - 2026](https://jobright.ai/jobs/info/6a01ce1adf52f1450d845154?utm_campaign=1054&utm_source=git)** | Research Park, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
