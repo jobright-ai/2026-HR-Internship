@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a015c3dc2ffb31f45365754?utm_campaign=1054&utm_source=git)** | Miami, Florida | On Site | May 10 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 People + Culture Intern / Support Center](https://jobright.ai/jobs/info/69a32a790da45516f16c7364?utm_campaign=1054&utm_source=git)** | Chevy Chase Village, MD | Hybrid | May 10 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69fb2e0386d5cd46527d3a5a?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | May 10 |
 | **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Human Resources Intern - Part-Time](https://jobright.ai/jobs/info/6a00d479238f143e8352a519?utm_campaign=1054&utm_source=git)** | Merriam,KS,US | On Site | May 10 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69fd2d72666f063d3d6d38ee?utm_campaign=1054&utm_source=git)** | United States | Remote | May 10 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/68e6598ee8daec61499aacad?utm_campaign=1054&utm_source=git)** | Independence, KS | On Site | May 10 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Gusto](https://www.gusto.com)** | **[Future Opportunities: Payroll Advocate](https://jobright.ai/jobs/info/693a3795ac80bb5492bcbdad?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | May 10 |
 | **[Keshet Disabilities & Inclusion](https://keshet.org/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6a0029d5a0eddc08c239b6a4?utm_campaign=1054&utm_source=git)** | Business Office - Northbrook, IL 60062 | On Site | May 09 |
 | **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship, Fall 2026](https://jobright.ai/jobs/info/69fb1f6938179b6f1ae75645?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | May 09 |
+| **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources (Year-round)](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | May 09 |
 | **[Simular](https://simular.ai)** | **[People & Operations Intern](https://jobright.ai/jobs/info/69b2b05ea8ac8e70ff66b765?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 09 |
 | **[Waukesha Gas Engines](https://www.waukeshaengine.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c6c4a883ea553769fdd4b2?utm_campaign=1054&utm_source=git)** | Waukesha, WI | Hybrid | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[People Operations / Human Resources Intern](https://jobright.ai/jobs/info/69ff9c52238f143e835263c4?utm_campaign=1054&utm_source=git)** | United States | Remote | May 09 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[CivicScience](http://civicscience.com)** | **[People Operations / Human Resources Intern](https://jobright.ai/jobs/info/69fe7ee17714cd50b91015ac?utm_campaign=1054&utm_source=git)** | United States | Remote | May 08 |
 | **[Lovet Pet Health Care](https://www.lovet.com)** | **[Campus Recruitment Coordinator Intern](https://jobright.ai/jobs/info/69e1ae52fd1c0456f3faf764?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | May 08 |
 | **[Maysteel Industries LLC](http://www.maysteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/69fe681c7714cd50b9100fe8?utm_campaign=1054&utm_source=git)** | Allenton, WI 53002, USA | On Site | May 08 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69fb2e0386d5cd46527d3a5a?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[College Recruiting Intern 2025 - 2026](https://jobright.ai/jobs/info/69fe65876bcf315dc8f575ed?utm_campaign=1054&utm_source=git)** | Wittmann, AZ, US | On Site | May 08 |
 | ↳ | **[V - HR Intern](https://jobright.ai/jobs/info/69fe629b4b9bbf21744b11ca?utm_campaign=1054&utm_source=git)** | Sedalia, MO, US | On Site | May 08 |
 | **[The Rawlings Group](https://www.rawlingsgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69fe4be152e2b44f558b08ff?utm_campaign=1054&utm_source=git)** | TRG HeadQuarters - La Grange, KY 40031 | Hybrid | May 08 |
@@ -129,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Waco Family Medicine](https://wacofamilymedicine.org)** | **[Summer Internship -  Human Resources (3761)](https://jobright.ai/jobs/info/69fe128e7714cd50b90fe045?utm_campaign=1054&utm_source=git)** | Central - Waco, TX 76707 | On Site | May 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/698c75a5f64d441a164e670a?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | May 08 |
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[HR Shared Services Intern](https://jobright.ai/jobs/info/69fe0f7c4b9bbf21744ae21c?utm_campaign=1054&utm_source=git)** | Columbus, OH, 43228, United States | On Site | May 08 |
-| **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $20/h](https://jobright.ai/jobs/info/69fe0ada52e2b44f558adf00?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | May 08 |
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, People Team](https://jobright.ai/jobs/info/69febc6e1161630dd3b03fae?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ | On Site | May 08 |
 | **[Helping Hands Family - Autism Services](https://hhfamily.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e16519d612782e611486fc?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | May 08 |
 | **[Barnes](https://www.onebarnes.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fdfdb352e2b44f558adbcc?utm_campaign=1054&utm_source=git)** | East Granby, Connecticut, United States | On Site | May 08 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The Weitz Company](http://www.weitz.com)** | **[Human Resources (HR) Intern- Administrative Focus](https://jobright.ai/jobs/info/6a014371fa1aa73213d92212?utm_campaign=1054&utm_source=git)** | Des Moines, Iowa, United States | On Site | May 07 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/69fad45d86d5cd46527d01ea?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd2f9c5cff890b03f3674d?utm_campaign=1054&utm_source=git)** | Kearny, NJ, US | On Site | May 07 |
+| **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $20/h](https://jobright.ai/jobs/info/69fe14b552e2b44f558ae5cf?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | May 07 |
 | **[Thea Energy](https://www.thea.energy/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd195cb113035a9f8ee79e?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | May 07 |
-| ↳ | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd14c8b113035a9f8ee651?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern-Human Resources-Front Desk](https://jobright.ai/jobs/info/69fd11136b788e7e7a5c4e3e?utm_campaign=1054&utm_source=git)** | Orlando, FL, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
