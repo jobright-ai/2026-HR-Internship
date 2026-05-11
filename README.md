@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[HR Intern - 10 Week Summer Internship](https://jobright.ai/jobs/info/6a0213bddf52f1450d8472ea?utm_campaign=1054&utm_source=git)** | Sacramento, CA, US | On Site | May 11 |
+| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0210243053db70a117441c?utm_campaign=1054&utm_source=git)** | Plantation, FL, United States | On Site | May 11 |
+| **[Senior Lifestyle](http://www.seniorlifestyle.com)** | **[Training and Talent Acquisition Intern](https://jobright.ai/jobs/info/6a020f4ac4b08448a0b22858?utm_campaign=1054&utm_source=git)** | E Wacker Dr, Chicago, IL 60601, USA | On Site | May 11 |
+| **[Pathfinder Bank](http://pathfinderbank.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a020d50c4b08448a0b2273b?utm_campaign=1054&utm_source=git)** | Oswego,NY,US | On Site | May 11 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Campus Recruitment Programs & Engagement - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a020abac2ffb31f453695e3?utm_campaign=1054&utm_source=git)** | Toronto, ONT, Canada | Hybrid | May 11 |
+| **[ASM Global](http://www.asmglobal.com)** | **[Human Resource Intern / Highmark Stadium](https://jobright.ai/jobs/info/6a020a26c2ffb31f453695af?utm_campaign=1054&utm_source=git)** | Orchard Park, NY, US | On Site | May 11 |
+| **[Hyatt Place + Hyatt House Charleston Historic District](http://www.hyattplacehyatthousecharleston.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a0209eadf52f1450d846fc2?utm_campaign=1054&utm_source=git)** | New Orleans,LA,US | On Site | May 11 |
+| **[Arcosa Inc.](https://www.arcosa.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a020957238f143e835300b2?utm_campaign=1054&utm_source=git)** | Arlington, Texas, United States | On Site | May 11 |
 | **[Aramark UK](aramark.co.uk)** | **[HR Intern - Corrections](https://jobright.ai/jobs/info/6a01f800df52f1450d846747?utm_campaign=1054&utm_source=git)** | Oklahoma, OK, US, 73105 | On Site | May 11 |
 | **[AMETEK](http://www.ametek.com)** | **[Intern: HR, Sales, Operations, & AI Digital Transformation](https://jobright.ai/jobs/info/6a01f7f5c4b08448a0b21d46?utm_campaign=1054&utm_source=git)** | Depew, NY, US, 14043 | On Site | May 11 |
 | **[Aramark UK](aramark.co.uk)** | **[TA Intern - Corrections](https://jobright.ai/jobs/info/6a01f7d83053db70a1173876?utm_campaign=1054&utm_source=git)** | Oklahoma, OK, US, 73105 | On Site | May 11 |
@@ -129,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[PROENERGY](http://www.proenergyservices.com)** | **[V - HR Intern](https://jobright.ai/jobs/info/69fe31b1ad691a11f34ec456?utm_campaign=1054&utm_source=git)** | Sedalia, MO | On Site | May 08 |
 | **[Uber](http://www.uber.com)** | **[2026 Internal Communications Intern - US](https://jobright.ai/jobs/info/69fe31964b9bbf21744af066?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 08 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe319652e2b44f558af147?utm_campaign=1054&utm_source=git)** | Flex-N-Gate Shelby, 52674 Shelby Parkway, Shelby Township, Michigan, United States of America | On Site | May 08 |
-| **[FDH Aero](https://fdhaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4d?utm_campaign=1054&utm_source=git)** | Irving, TX, US | On Site | May 08 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4e?utm_campaign=1054&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
+| **[FDH Aero](https://fdhaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4e?utm_campaign=1054&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4d?utm_campaign=1054&utm_source=git)** | Irving, TX, US | On Site | May 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/69e27184fcfcbd43860a2e61?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Human Resources Intern (Bilingual Spanish)](https://jobright.ai/jobs/info/69fe2a496bcf315dc8f5509b?utm_campaign=1054&utm_source=git)** | NY, US | On Site | May 08 |
 | **[NOV](https://www.nov.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69fe1c9d4b9bbf21744ae760?utm_campaign=1054&utm_source=git)** | 10353 Richmond Avenue, Houston, TX, 77042, US | On Site | May 08 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition - San Francisco （Intern / Contract）](https://jobright.ai/jobs/info/69aa4de72ebd316bece21104?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 08 |
 | **[DiliTrust](https://www.dilitrust.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69a763db1fc3d83b78093f74?utm_campaign=1054&utm_source=git)** | Montreal, QC | Hybrid | May 08 |
 | **[The Scion Group](http://thesciongroup.com)** | **[HR Summer Intern 2026](https://jobright.ai/jobs/info/69ef75310a6e09555305504d?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | May 08 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69e1a8b36c20aa11495423f9?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[JD Young Human Resources Internship](https://jobright.ai/jobs/info/69fdb9d152e2b44f558ac3d2?utm_campaign=1054&utm_source=git)** | NJ, US | On Site | May 08 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Human Resources)](https://jobright.ai/jobs/info/69c49a48d5a1016e98dbe889?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | May 08 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69ee32797820c036924fe373?utm_campaign=1054&utm_source=git)** | McLean, VA | Remote | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Capacity Building Intern (Internship)](https://jobright.ai/jobs/info/69fda46ead691a11f34ea3bf?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | Hybrid | May 08 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[CLTI Recruiting Intern](https://jobright.ai/jobs/info/69fd97dd6bcf315dc8f520b5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 08 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69c4441a33eecf3107947339?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Human Resources Intern- Summer](https://jobright.ai/jobs/info/69fd6672f363bc4dc33983bd?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
