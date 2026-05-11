@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[HR Intern- Immigration](https://jobright.ai/jobs/info/6a0239cf3053db70a1175b55?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | May 11 |
+| **[Kiewit](http://www.kiewit.com)** | **[Talent Acquisition (Recruiter) Intern](https://jobright.ai/jobs/info/6a02311bc2ffb31f4536acca?utm_campaign=1054&utm_source=git)** | Lenexa, KS, US | On Site | May 11 |
 | **[Stephen Gould](https://www.stephengould.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a022b2b3053db70a1174e88?utm_campaign=1054&utm_source=git)** | Madison, NJ, US | On Site | May 11 |
 | **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a0223ea3053db70a1174ade?utm_campaign=1054&utm_source=git)** | Somerville, MA | On Site | May 11 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Commercial Bank](https://jobright.ai/jobs/info/6a021f723053db70a11748fd?utm_campaign=1054&utm_source=git)** | NY 360 Lexington Ave, US | On Site | May 11 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](http://www.asmglobal.com)** | **[Human Resource Intern / Highmark Stadium](https://jobright.ai/jobs/info/6a020a26c2ffb31f453695af?utm_campaign=1054&utm_source=git)** | Orchard Park, NY, US | On Site | May 11 |
 | **[Hyatt Place + Hyatt House Charleston Historic District](http://www.hyattplacehyatthousecharleston.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a0209eadf52f1450d846fc2?utm_campaign=1054&utm_source=git)** | New Orleans,LA,US | On Site | May 11 |
 | **[Arcosa Inc.](https://www.arcosa.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a020957238f143e835300b2?utm_campaign=1054&utm_source=git)** | Arlington, Texas, United States | On Site | May 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | May 11 |
 | **[Aramark UK](aramark.co.uk)** | **[HR Intern - Corrections](https://jobright.ai/jobs/info/6a01f800df52f1450d846747?utm_campaign=1054&utm_source=git)** | Oklahoma, OK, US, 73105 | On Site | May 11 |
 | **[AMETEK](http://www.ametek.com)** | **[Intern: HR, Sales, Operations, & AI Digital Transformation](https://jobright.ai/jobs/info/6a01f7f5c4b08448a0b21d46?utm_campaign=1054&utm_source=git)** | Depew, NY, US, 14043 | On Site | May 11 |
 | **[Aramark UK](aramark.co.uk)** | **[TA Intern - Corrections](https://jobright.ai/jobs/info/6a01f7d83053db70a1173876?utm_campaign=1054&utm_source=git)** | Oklahoma, OK, US, 73105 | On Site | May 11 |
@@ -83,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[UCSF Health](https://www.ucsfhealth.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69f1b07e825a315d7ca396c4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 10 |
 | **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a015c3dc2ffb31f45365754?utm_campaign=1054&utm_source=git)** | Miami, Florida | On Site | May 10 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69fb2e0386d5cd46527d3a5a?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | May 10 |
+| **[Planet](http://www.planet.com)** | **[Senior Manager, Talent Operations](https://jobright.ai/jobs/info/69c7331d1818a24cd84cc972?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | May 10 |
 | **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Human Resources Intern - Part-Time](https://jobright.ai/jobs/info/6a00d479238f143e8352a519?utm_campaign=1054&utm_source=git)** | Merriam,KS,US | On Site | May 10 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/69fd2d72666f063d3d6d38ee?utm_campaign=1054&utm_source=git)** | United States | Remote | May 10 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/68e6598ee8daec61499aacad?utm_campaign=1054&utm_source=git)** | Independence, KS | On Site | May 10 |
@@ -142,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Intern (Total Rewards)](https://jobright.ai/jobs/info/69fe31d6f363bc4dc339c3db?utm_campaign=1054&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
 | **[PROENERGY](http://www.proenergyservices.com)** | **[V - HR Intern](https://jobright.ai/jobs/info/69fe31b1ad691a11f34ec456?utm_campaign=1054&utm_source=git)** | Sedalia, MO | On Site | May 08 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe319652e2b44f558af147?utm_campaign=1054&utm_source=git)** | Flex-N-Gate Shelby, 52674 Shelby Parkway, Shelby Township, Michigan, United States of America | On Site | May 08 |
-| **[FDH Aero](https://fdhaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4d?utm_campaign=1054&utm_source=git)** | Irving, TX, US | On Site | May 08 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4e?utm_campaign=1054&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
+| **[FDH Aero](https://fdhaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4e?utm_campaign=1054&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4d?utm_campaign=1054&utm_source=git)** | Irving, TX, US | On Site | May 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/69e27184fcfcbd43860a2e61?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Human Resources Intern (Bilingual Spanish)](https://jobright.ai/jobs/info/69fe2a496bcf315dc8f5509b?utm_campaign=1054&utm_source=git)** | NY, US | On Site | May 08 |
 | **[NOV](https://www.nov.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69fe1c9d4b9bbf21744ae760?utm_campaign=1054&utm_source=git)** | 10353 Richmond Avenue, Houston, TX, 77042, US | On Site | May 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[HR Shared Services Intern](https://jobright.ai/jobs/info/69fe0f7c4b9bbf21744ae21c?utm_campaign=1054&utm_source=git)** | Columbus, OH, 43228, United States | On Site | May 08 |
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, People Team](https://jobright.ai/jobs/info/69febc6e1161630dd3b03fae?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ | On Site | May 08 |
 | **[Helping Hands Family - Autism Services](https://hhfamily.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e16519d612782e611486fc?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | May 08 |
-| **[Barnes](https://www.onebarnes.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fdfdb352e2b44f558adbcc?utm_campaign=1054&utm_source=git)** | East Granby, Connecticut, United States | On Site | May 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/69c4f0936f4f855eeda7b297?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | May 08 |
-| **[BrandSafway](https://www.brandsafway.com/)** | **[HR Intern - USA - GA - Atlanta - Global Support Center - R26-03078](https://jobright.ai/jobs/info/69c4587733eecf310794a0c1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Recruitment, Business Operations, Content](https://jobright.ai/jobs/info/69fdf2434b9bbf21744ad6b8?utm_campaign=1054&utm_source=git)** | Nocatee, FL, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
