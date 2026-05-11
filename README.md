@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69c4441a33eecf3107947339?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Human Resources Intern- Summer](https://jobright.ai/jobs/info/69fd6672f363bc4dc33983bd?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | May 07 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69e05f54ba9bd32d03370085?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | May 07 |
+| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/6a0151863053db70a11701ec?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 07 |
 | **[The Weitz Company](http://www.weitz.com)** | **[Human Resources (HR) Intern- Administrative Focus](https://jobright.ai/jobs/info/6a014371fa1aa73213d92212?utm_campaign=1054&utm_source=git)** | Des Moines, Iowa, United States | On Site | May 07 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/69fad45d86d5cd46527d01ea?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd2f9c5cff890b03f3674d?utm_campaign=1054&utm_source=git)** | Kearny, NJ, US | On Site | May 07 |
 | **[Thea Energy](https://www.thea.energy/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd195cb113035a9f8ee79e?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | May 07 |
 | ↳ | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd14c8b113035a9f8ee651?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern-Human Resources-Front Desk](https://jobright.ai/jobs/info/69fd11136b788e7e7a5c4e3e?utm_campaign=1054&utm_source=git)** | Orlando, FL, US | On Site | May 07 |
-| **[IAMPACT MGMT](iampactmgmt.com)** | **[Talent Manager Intern (Influencer)](https://jobright.ai/jobs/info/69fd0fe3b113035a9f8ee344?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
