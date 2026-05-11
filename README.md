@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cornerstone Chemical Company, LLC](https://www.cornerstonechemco.com)** | **[HR Coordinator Intern](https://jobright.ai/jobs/info/6a024b58238f143e83532ac6?utm_campaign=1054&utm_source=git)** | Waggaman, LA, US | On Site | May 11 |
+| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | May 11 |
+| **[Hunting](https://huntingplc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a02468ffa1aa73213d98ad5?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | On Site | May 11 |
+| **[FM Talent](https://fmtalent.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0245acdf52f1450d8494bc?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | May 11 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0245abdf52f1450d8494bb?utm_campaign=1054&utm_source=git)** | Silver Spring, MD, US | On Site | May 11 |
+| **[MEM](https://www.mem-ins.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a02455a238f143e835327da?utm_campaign=1054&utm_source=git)** | Kansas City, MO, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024556238f143e835327d9?utm_campaign=1054&utm_source=git)** | Missouri, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024554238f143e835327d8?utm_campaign=1054&utm_source=git)** | Springfield, MO, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d4?utm_campaign=1054&utm_source=git)** | Omaha, NE, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d6?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | May 11 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[HR Intern- Immigration](https://jobright.ai/jobs/info/6a0239cf3053db70a1175b55?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | May 11 |
 | **[Kiewit](http://www.kiewit.com)** | **[Talent Acquisition (Recruiter) Intern](https://jobright.ai/jobs/info/6a02311bc2ffb31f4536acca?utm_campaign=1054&utm_source=git)** | Lenexa, KS, US | On Site | May 11 |
 | **[Stephen Gould](https://www.stephengould.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a022b2b3053db70a1174e88?utm_campaign=1054&utm_source=git)** | Madison, NJ, US | On Site | May 11 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/69e158daff71e82d604b67ba?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 08 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[HR Intern (Talent Acquisition)](https://jobright.ai/jobs/info/69fe31d6f363bc4dc339c3da?utm_campaign=1054&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
 | ↳ | **[HR Intern (Total Rewards)](https://jobright.ai/jobs/info/69fe31d6f363bc4dc339c3db?utm_campaign=1054&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
-| **[PROENERGY](http://www.proenergyservices.com)** | **[V - HR Intern](https://jobright.ai/jobs/info/69fe31b1ad691a11f34ec456?utm_campaign=1054&utm_source=git)** | Sedalia, MO | On Site | May 08 |
-| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe319652e2b44f558af147?utm_campaign=1054&utm_source=git)** | Flex-N-Gate Shelby, 52674 Shelby Parkway, Shelby Township, Michigan, United States of America | On Site | May 08 |
-| **[FDH Aero](https://fdhaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4e?utm_campaign=1054&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe31007714cd50b90fec4d?utm_campaign=1054&utm_source=git)** | Irving, TX, US | On Site | May 08 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/69e27184fcfcbd43860a2e61?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Human Resources Intern (Bilingual Spanish)](https://jobright.ai/jobs/info/69fe2a496bcf315dc8f5509b?utm_campaign=1054&utm_source=git)** | NY, US | On Site | May 08 |
-| **[NOV](https://www.nov.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69fe1c9d4b9bbf21744ae760?utm_campaign=1054&utm_source=git)** | 10353 Richmond Avenue, Houston, TX, 77042, US | On Site | May 08 |
-| **[Hood Packaging Corporation](http://hoodpkg.com)** | **[Three month contract - Human Ressources Intern](https://jobright.ai/jobs/info/69fe1367f363bc4dc339b7f1?utm_campaign=1054&utm_source=git)** | Montréal, QC, CA | On Site | May 08 |
-| **[Waco Family Medicine](https://wacofamilymedicine.org)** | **[Summer Internship -  Human Resources (3761)](https://jobright.ai/jobs/info/69fe128e7714cd50b90fe045?utm_campaign=1054&utm_source=git)** | Central - Waco, TX 76707 | On Site | May 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/698c75a5f64d441a164e670a?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | May 08 |
-| **[Kimball Midwest](https://www.kimballmidwest.com)** | **[HR Shared Services Intern](https://jobright.ai/jobs/info/69fe0f7c4b9bbf21744ae21c?utm_campaign=1054&utm_source=git)** | Columbus, OH, 43228, United States | On Site | May 08 |
-| **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, People Team](https://jobright.ai/jobs/info/69febc6e1161630dd3b03fae?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ | On Site | May 08 |
-| **[Helping Hands Family - Autism Services](https://hhfamily.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e16519d612782e611486fc?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
