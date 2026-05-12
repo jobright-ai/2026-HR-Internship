@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c40c4b08448a0b25e4a?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c3efa1aa73213d99cab?utm_campaign=1054&utm_source=git)** | El Paso, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c3ddf52f1450d84a616?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | May 11 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccc0?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccbf?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 11 |
+| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccc0?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c35238f143e835339e7?utm_campaign=1054&utm_source=git)** | Fort Worth, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c273053db70a11777ae?utm_campaign=1054&utm_source=git)** | Midland, Texas | Hybrid | May 11 |
 | **[OneRail](http://www.onerail.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0254f93053db70a11772cd?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 11 |
@@ -79,9 +79,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024554238f143e835327d8?utm_campaign=1054&utm_source=git)** | Springfield, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d6?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d4?utm_campaign=1054&utm_source=git)** | Omaha, NE, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[HR Intern- Immigration](https://jobright.ai/jobs/info/6a0239cf3053db70a1175b55?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | May 11 |
 | **[Kiewit](http://www.kiewit.com)** | **[Talent Acquisition (Recruiter) Intern](https://jobright.ai/jobs/info/6a02311bc2ffb31f4536acca?utm_campaign=1054&utm_source=git)** | Lenexa, KS, US | On Site | May 11 |
 | **[Stephen Gould](https://www.stephengould.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a022b2b3053db70a1174e88?utm_campaign=1054&utm_source=git)** | Madison, NJ, US | On Site | May 11 |
@@ -95,6 +95,8 @@ For a complete list, click the following sortable link below:
 | **[360°kids](https://www.360kids.ca/)** | **[People and Culture Administrator (unpaid student placement / co-ops Fall/ volunteer  )](https://jobright.ai/jobs/info/6a021d51c4b08448a0b22d06?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | Hybrid | May 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69ac4dff142d5b4265fda359?utm_campaign=1054&utm_source=git)** | Lafayette, LA | On Site | May 11 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[HR Intern - 10 Week Summer Internship](https://jobright.ai/jobs/info/6a0213bddf52f1450d8472ea?utm_campaign=1054&utm_source=git)** | Sacramento, CA, US | On Site | May 11 |
+| ↳ | **[HR Intern - 10 Week Summer Internship](https://jobright.ai/jobs/info/6a02ff657c753c287f6e234a?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | May 11 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/6a03036cbc4184089f22e0de?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | May 11 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0210243053db70a117441c?utm_campaign=1054&utm_source=git)** | Plantation, FL, United States | On Site | May 11 |
 | **[Senior Lifestyle](http://www.seniorlifestyle.com)** | **[Training and Talent Acquisition Intern](https://jobright.ai/jobs/info/6a020f4ac4b08448a0b22858?utm_campaign=1054&utm_source=git)** | E Wacker Dr, Chicago, IL 60601, USA | On Site | May 11 |
 | **[Pathfinder Bank](http://pathfinderbank.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a020d50c4b08448a0b2273b?utm_campaign=1054&utm_source=git)** | Oswego,NY,US | On Site | May 11 |
@@ -104,7 +106,10 @@ For a complete list, click the following sortable link below:
 | **[Arcosa Inc.](https://www.arcosa.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a020957238f143e835300b2?utm_campaign=1054&utm_source=git)** | Arlington, Texas, United States | On Site | May 11 |
 | **[Advantage Capital](http://www.advantagecap.com/)** | **[Human Resources/ Talent Intern](https://jobright.ai/jobs/info/69bb8ce2569738374141a6f7?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 11 |
 | **[Continental Dairy Facilities Southwest, LLC](http://cdfswllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fbef5e76c60e7b70af0d0d?utm_campaign=1054&utm_source=git)** | Littlefield, TX | On Site | May 11 |
+| **[Legends Global](http://legends.net)** | **[Human Resource Intern / Highmark Stadium](https://jobright.ai/jobs/info/6a02fc82f3d6cc51d6371e26?utm_campaign=1054&utm_source=git)** | Orchard Park, NY | On Site | May 11 |
+| **[Arcosa Inc.](https://www.arcosa.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a02ff7e7c753c287f6e23d3?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | May 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | On Site | May 11 |
+| **[Senior Lifestyle](http://www.seniorlifestyle.com)** | **[Training and Talent Acquisition Intern](https://jobright.ai/jobs/info/6a02f7ac7c753c287f6e20ad?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 11 |
 | **[Aramark UK](aramark.co.uk)** | **[HR Intern - Corrections](https://jobright.ai/jobs/info/6a01f800df52f1450d846747?utm_campaign=1054&utm_source=git)** | Oklahoma, OK, US, 73105 | On Site | May 11 |
 | **[AMETEK](http://www.ametek.com)** | **[Intern: HR, Sales, Operations, & AI Digital Transformation](https://jobright.ai/jobs/info/6a01f7f5c4b08448a0b21d46?utm_campaign=1054&utm_source=git)** | Depew, NY, US, 14043 | On Site | May 11 |
 | **[Aramark UK](aramark.co.uk)** | **[TA Intern - Corrections](https://jobright.ai/jobs/info/6a01f7d83053db70a1173876?utm_campaign=1054&utm_source=git)** | Oklahoma, OK, US, 73105 | On Site | May 11 |
@@ -124,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Superior](http://superiorgroup.net)** | **[Talent Acquisition Internship, Fall 2026](https://jobright.ai/jobs/info/6a02b9c56c07461fe16fcc48?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | May 10 |
 | **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a015c3dc2ffb31f45365754?utm_campaign=1054&utm_source=git)** | Miami, Florida | On Site | May 10 |
 | **[Akima](https://www.akima.com)** | **[NANA Shareholder Paid College Internship- Human Resources (NANA Shareholders Only)](https://jobright.ai/jobs/info/69f3eb87c78b9e4518958c04?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | May 10 |
+| **[Stephen Gould](https://www.stephengould.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a030360f3d6cc51d63724b0?utm_campaign=1054&utm_source=git)** | Madison, NJ | Hybrid | May 10 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69fb2e0386d5cd46527d3a5a?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | May 10 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Learning & Development, Human Resources](https://jobright.ai/jobs/info/69953d2dce78e77b4fd9593f?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | May 10 |
 | **[Planet](http://www.planet.com)** | **[Senior Manager, Talent Operations](https://jobright.ai/jobs/info/69c7331d1818a24cd84cc972?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | May 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Analytics Summer Intern](https://jobright.ai/jobs/info/6a02c943bc4184089f22c2d9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 09 |
 | **[Mansa Consulting](https://mansainc.com)** | **[Human Resources - HR Intern](https://jobright.ai/jobs/info/69ff66c474b5407dd4675103?utm_campaign=1054&utm_source=git)** | United States | Remote | May 09 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://jobright.ai/jobs/info/698d14320f6f7e7a2ce8c9e6?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f9799f1b381eb26f2fea?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | May 09 |
-| **[California State University-San Bernardino](https://csusb.edu)** | **[Human Resources Information System (HRIS) Analyst (Business Systems Analyst II), Human Resources Division](https://jobright.ai/jobs/info/69e32f66fcfcbd43860a52e0?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | May 09 |
-| **[ND Paper](https://us.ndpaper.com)** | **[HR Intern](https://jobright.ai/jobs/info/69a9892df6c22f2e36867e07?utm_campaign=1054&utm_source=git)** | Rumford, ME | On Site | May 09 |
-| **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa16f52ebd316bece1d2fc?utm_campaign=1054&utm_source=git)** | Newaygo, MI | On Site | May 09 |
-| **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[HR Intern - Process Improvement (AI and Automation Focus)](https://jobright.ai/jobs/info/69e2c6c8be46fa3a4ef58c9e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern Payroll](https://jobright.ai/jobs/info/69ff2382c4b08448a0b16a03?utm_campaign=1054&utm_source=git)** | MANHATTAN | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
