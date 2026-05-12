@@ -76,11 +76,12 @@ For a complete list, click the following sortable link below:
 | **[MEM](https://www.mem-ins.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a02455a238f143e835327da?utm_campaign=1054&utm_source=git)** | Kansas City, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024556238f143e835327d9?utm_campaign=1054&utm_source=git)** | Missouri, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024554238f143e835327d8?utm_campaign=1054&utm_source=git)** | Springfield, MO, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d6?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d4?utm_campaign=1054&utm_source=git)** | Omaha, NE, USA | Remote | May 11 |
+| **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[HR Intern- Immigration](https://jobright.ai/jobs/info/6a0239cf3053db70a1175b55?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | May 11 |
 | **[Kiewit](http://www.kiewit.com)** | **[Talent Acquisition (Recruiter) Intern](https://jobright.ai/jobs/info/6a02311bc2ffb31f4536acca?utm_campaign=1054&utm_source=git)** | Lenexa, KS, US | On Site | May 11 |
 | **[Stephen Gould](https://www.stephengould.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a022b2b3053db70a1174e88?utm_campaign=1054&utm_source=git)** | Madison, NJ, US | On Site | May 11 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Commercial Bank](https://jobright.ai/jobs/info/6a021f66df52f1450d847854?utm_campaign=1054&utm_source=git)** | BC Cityplace, US | On Site | May 11 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Intern - Technical Recruiting (100% Remote)](https://jobright.ai/jobs/info/6a021e6bc2ffb31f45369c06?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | May 11 |
 | **[360°kids](https://www.360kids.ca/)** | **[People and Culture Administrator (unpaid student placement / co-ops Fall/ volunteer  )](https://jobright.ai/jobs/info/6a021d51c4b08448a0b22d06?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | Hybrid | May 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69ac4dff142d5b4265fda359?utm_campaign=1054&utm_source=git)** | Lafayette, LA | On Site | May 11 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[HR Intern - 10 Week Summer Internship](https://jobright.ai/jobs/info/6a0213bddf52f1450d8472ea?utm_campaign=1054&utm_source=git)** | Sacramento, CA, US | On Site | May 11 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0210243053db70a117441c?utm_campaign=1054&utm_source=git)** | Plantation, FL, United States | On Site | May 11 |
 | **[Senior Lifestyle](http://www.seniorlifestyle.com)** | **[Training and Talent Acquisition Intern](https://jobright.ai/jobs/info/6a020f4ac4b08448a0b22858?utm_campaign=1054&utm_source=git)** | E Wacker Dr, Chicago, IL 60601, USA | On Site | May 11 |
@@ -111,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Metro Region - Boston Location](https://jobright.ai/jobs/info/6a01b3a73053db70a11718cc?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 11 |
 | **[UCSF Health](https://www.ucsfhealth.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69f1b07e825a315d7ca396c4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 10 |
 | **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a015c3dc2ffb31f45365754?utm_campaign=1054&utm_source=git)** | Miami, Florida | On Site | May 10 |
+| **[Akima](https://www.akima.com)** | **[NANA Shareholder Paid College Internship- Human Resources (NANA Shareholders Only)](https://jobright.ai/jobs/info/69f3eb87c78b9e4518958c04?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | May 10 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69fb2e0386d5cd46527d3a5a?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | May 10 |
 | **[Planet](http://www.planet.com)** | **[Senior Manager, Talent Operations](https://jobright.ai/jobs/info/69c7331d1818a24cd84cc972?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | May 10 |
 | **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Human Resources Intern - Part-Time](https://jobright.ai/jobs/info/6a00d479238f143e8352a519?utm_campaign=1054&utm_source=git)** | Merriam,KS,US | On Site | May 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Power Integrations](https://www.power.com)** | **[People Operations/Talent Acquisition Intern - AI Enablement](https://jobright.ai/jobs/info/69fe813a52e2b44f558b21bb?utm_campaign=1054&utm_source=git)** | San Jose, California | On Site | May 08 |
 | **[CivicScience](http://civicscience.com)** | **[People Operations / Human Resources Intern](https://jobright.ai/jobs/info/69fe7ee17714cd50b91015ac?utm_campaign=1054&utm_source=git)** | United States | Remote | May 08 |
 | **[Lovet Pet Health Care](https://www.lovet.com)** | **[Campus Recruitment Coordinator Intern](https://jobright.ai/jobs/info/69e1ae52fd1c0456f3faf764?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | May 08 |
-| **[Maysteel Industries LLC](http://www.maysteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/69fe681c7714cd50b9100fe8?utm_campaign=1054&utm_source=git)** | Allenton, WI 53002, USA | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[College Recruiting Intern 2025 - 2026](https://jobright.ai/jobs/info/69fe65876bcf315dc8f575ed?utm_campaign=1054&utm_source=git)** | Wittmann, AZ, US | On Site | May 08 |
-| ↳ | **[V - HR Intern](https://jobright.ai/jobs/info/69fe629b4b9bbf21744b11ca?utm_campaign=1054&utm_source=git)** | Sedalia, MO, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
