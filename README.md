@@ -58,13 +58,14 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[1AM Talent Group](http://1amtalentgroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0280013053db70a11783a9?utm_campaign=1054&utm_source=git)** | United States | Remote | May 11 |
+| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69fe448cad691a11f34ec7fe?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 11 |
 | **[OXEA](https://oxea.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0277a0df52f1450d84af39?utm_campaign=1054&utm_source=git)** | Houston | Hybrid | May 11 |
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | May 11 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c40c4b08448a0b25e4a?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c3efa1aa73213d99cab?utm_campaign=1054&utm_source=git)** | El Paso, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c3ddf52f1450d84a616?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | May 11 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccc0?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccbf?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 11 |
+| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccc0?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c35238f143e835339e7?utm_campaign=1054&utm_source=git)** | Fort Worth, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c273053db70a11777ae?utm_campaign=1054&utm_source=git)** | Midland, Texas | Hybrid | May 11 |
 | **[OneRail](http://www.onerail.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0254f93053db70a11772cd?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 11 |
@@ -77,10 +78,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024556238f143e835327d9?utm_campaign=1054&utm_source=git)** | Missouri, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024554238f143e835327d8?utm_campaign=1054&utm_source=git)** | Springfield, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d6?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d4?utm_campaign=1054&utm_source=git)** | Omaha, NE, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
 | **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[HR Intern- Immigration](https://jobright.ai/jobs/info/6a0239cf3053db70a1175b55?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | May 11 |
 | **[Kiewit](http://www.kiewit.com)** | **[Talent Acquisition (Recruiter) Intern](https://jobright.ai/jobs/info/6a02311bc2ffb31f4536acca?utm_campaign=1054&utm_source=git)** | Lenexa, KS, US | On Site | May 11 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69fb913c38179b6f1ae794d0?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 11 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Commercial Bank](https://jobright.ai/jobs/info/6a021f723053db70a11748fd?utm_campaign=1054&utm_source=git)** | NY 360 Lexington Ave, US | On Site | May 11 |
 | ↳ | **[Summer Intern - Commercial Bank](https://jobright.ai/jobs/info/6a021f66df52f1450d847854?utm_campaign=1054&utm_source=git)** | BC Cityplace, US | On Site | May 11 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Intern - Technical Recruiting (100% Remote)](https://jobright.ai/jobs/info/6a021e6bc2ffb31f45369c06?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | May 11 |
 | **[360°kids](https://www.360kids.ca/)** | **[People and Culture Administrator (unpaid student placement / co-ops Fall/ volunteer  )](https://jobright.ai/jobs/info/6a021d51c4b08448a0b22d06?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | Hybrid | May 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69ac4dff142d5b4265fda359?utm_campaign=1054&utm_source=git)** | Lafayette, LA | On Site | May 11 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[HR Intern - 10 Week Summer Internship](https://jobright.ai/jobs/info/6a0213bddf52f1450d8472ea?utm_campaign=1054&utm_source=git)** | Sacramento, CA, US | On Site | May 11 |
@@ -109,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/6a01eb7ac2ffb31f45368670?utm_campaign=1054&utm_source=git)** | DeRidder, LA 70634, USA | On Site | May 11 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/6a02006e3053db70a1173a16?utm_campaign=1054&utm_source=git)** | Rutland, Vermont | On Site | May 11 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - Provider Recruitment](https://jobright.ai/jobs/info/6a01d79fc2ffb31f4536781a?utm_campaign=1054&utm_source=git)** | South Portland, ME | Hybrid | May 11 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69ea728e58811370cb133229?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 11 |
 | **[Cincinnati Metro](https://www.go-metro.com)** | **[Employee and Labor Relations / Legal Intern](https://jobright.ai/jobs/info/6a01d14ffa1aa73213d9476b?utm_campaign=1054&utm_source=git)** | 525 Vine Street, Suite 500, Cincinnati, OH | On Site | May 11 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Metro Region - Boston Location](https://jobright.ai/jobs/info/6a01b3a73053db70a11718cc?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 11 |
 | **[UCSF Health](https://www.ucsfhealth.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69f1b07e825a315d7ca396c4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Power Integrations](https://www.power.com)** | **[People Operations/Talent Acquisition Intern - AI Enablement](https://jobright.ai/jobs/info/69fe813a52e2b44f558b21bb?utm_campaign=1054&utm_source=git)** | San Jose, California | On Site | May 08 |
 | **[CivicScience](http://civicscience.com)** | **[People Operations / Human Resources Intern](https://jobright.ai/jobs/info/69fe7ee17714cd50b91015ac?utm_campaign=1054&utm_source=git)** | United States | Remote | May 08 |
 | **[Lovet Pet Health Care](https://www.lovet.com)** | **[Campus Recruitment Coordinator Intern](https://jobright.ai/jobs/info/69e1ae52fd1c0456f3faf764?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | May 08 |
-| **[Maysteel Industries LLC](http://www.maysteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/69fe681c7714cd50b9100fe8?utm_campaign=1054&utm_source=git)** | Allenton, WI 53002, USA | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
