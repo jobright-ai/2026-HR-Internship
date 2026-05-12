@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[El Centro Family Health](https://ecfh.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a038ec27c753c287f6e846a?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | May 12 |
+| **[Manhattan Star Academy](www.yai.org/msa)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0398847c753c287f6e8dc5?utm_campaign=1054&utm_source=git)** | Manhattan, US | On Site | May 12 |
+| **[Republic Airways](http://www.rjet.com)** | **[LIFT Academy Admissions Intern - Fall 2026](https://jobright.ai/jobs/info/6a0395f8f3d6cc51d6378571?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | May 12 |
+| **[TEL](https://tel360.com)** | **[Talent Acquisition Intern Location: Chattanooga, TN (On-site) Pay: $20/hour Transport Enterprise Leasing (TEL) Talent Acquisition Intern What You’ll Do](https://jobright.ai/jobs/info/6a039371f3d6cc51d63783e8?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | May 12 |
+| **[Nightingale College](https://nightingale.edu/)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/6a03911c8ecfd93cd9c0fb2f?utm_campaign=1054&utm_source=git)** | OSC Utah - Salt Lake City, UT 84111 | Remote | May 12 |
 | **[Mobile Communications America](http://callmc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a038e47bc4184089f2339de?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | May 12 |
 | **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[People & Culture / Operations Intern](https://jobright.ai/jobs/info/6a03791c6c07461fe170457b?utm_campaign=1054&utm_source=git)** | Washington,DC,US | Hybrid | May 12 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a037897ed6a637463f50307?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 12 |
@@ -122,10 +125,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024556238f143e835327d9?utm_campaign=1054&utm_source=git)** | Missouri, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024554238f143e835327d8?utm_campaign=1054&utm_source=git)** | Springfield, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d4?utm_campaign=1054&utm_source=git)** | Omaha, NE, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d6?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d4?utm_campaign=1054&utm_source=git)** | Omaha, NE, USA | Remote | May 11 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Summer/Fall 2026 - Chattanooga, TN](https://jobright.ai/jobs/info/6a030b117c753c287f6e2ef5?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | May 11 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[HR Intern- Immigration](https://jobright.ai/jobs/info/6a0239cf3053db70a1175b55?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | May 11 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a030bdabc4184089f22e5ec?utm_campaign=1054&utm_source=git)** | Plantation, FL | On Site | May 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](http://www.asmglobal.com)** | **[Human Resource Intern / Highmark Stadium](https://jobright.ai/jobs/info/6a020a26c2ffb31f453695af?utm_campaign=1054&utm_source=git)** | Orchard Park, NY, US | On Site | May 11 |
 | **[Hyatt Place + Hyatt House Charleston Historic District](http://www.hyattplacehyatthousecharleston.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a0209eadf52f1450d846fc2?utm_campaign=1054&utm_source=git)** | New Orleans,LA,US | On Site | May 11 |
 | **[Arcosa Inc.](https://www.arcosa.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a020957238f143e835300b2?utm_campaign=1054&utm_source=git)** | Arlington, Texas, United States | On Site | May 11 |
-| **[Advantage Capital](http://www.advantagecap.com/)** | **[Human Resources/ Talent Intern](https://jobright.ai/jobs/info/69bb8ce2569738374141a6f7?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 11 |
-| **[Continental Dairy Facilities Southwest, LLC](http://cdfswllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fbef5e76c60e7b70af0d0d?utm_campaign=1054&utm_source=git)** | Littlefield, TX | On Site | May 11 |
-| **[Legends Global](http://legends.net)** | **[Human Resource Intern / Highmark Stadium](https://jobright.ai/jobs/info/6a02fc82f3d6cc51d6371e26?utm_campaign=1054&utm_source=git)** | Orchard Park, NY | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
