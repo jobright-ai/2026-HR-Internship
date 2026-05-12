@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6a03662af3d6cc51d6376334?utm_campaign=1054&utm_source=git)** | Gloucester, MA | Hybrid | May 12 |
+| **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a03661bf3d6cc51d63762e1?utm_campaign=1054&utm_source=git)** | Lake Charles, LA | On Site | May 12 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Global Workforce Communications Paid Intern](https://jobright.ai/jobs/info/6a036617f3d6cc51d63762b9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 12 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a035f2622395b6dc6d93ea6?utm_campaign=1054&utm_source=git)** | US-TX-Irving | Hybrid | May 12 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a035f2422395b6dc6d93ea5?utm_campaign=1054&utm_source=git)** | TX, Irving - 222 Las Colinas Boulevard W | Hybrid | May 12 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a035f2222395b6dc6d93ea4?utm_campaign=1054&utm_source=git)** | Irving, TX, US | Hybrid | May 12 |
+| **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/69de506236823d1b42580534?utm_campaign=1054&utm_source=git)** | United States | Remote | May 12 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Global Workforce Communications Paid Intern](https://jobright.ai/jobs/info/6a0357816c07461fe170309f?utm_campaign=1054&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 12 |
 | **[ITA International](http://ita-intl.com/)** | **[Summer Intern - Growth Support](https://jobright.ai/jobs/info/69ea70ab4b0fa35a707740cc?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | May 12 |
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT Academy Admissions Intern - Fall 2026](https://jobright.ai/jobs/info/6a034a3c6c07461fe1702886?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | May 12 |
@@ -87,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c40c4b08448a0b25e4a?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c3efa1aa73213d99cab?utm_campaign=1054&utm_source=git)** | El Paso, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c3ddf52f1450d84a616?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | May 11 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccbf?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccc0?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | May 11 |
+| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccbf?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c35238f143e835339e7?utm_campaign=1054&utm_source=git)** | Fort Worth, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c273053db70a11777ae?utm_campaign=1054&utm_source=git)** | Midland, Texas | Hybrid | May 11 |
 | **[Pathfinder Bank](http://pathfinderbank.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a031181ed6a637463f4c655?utm_campaign=1054&utm_source=git)** | Oswego, NY | On Site | May 11 |
@@ -103,11 +110,11 @@ For a complete list, click the following sortable link below:
 | **[MEM](https://www.mem-ins.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a02455a238f143e835327da?utm_campaign=1054&utm_source=git)** | Kansas City, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024556238f143e835327d9?utm_campaign=1054&utm_source=git)** | Missouri, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024554238f143e835327d8?utm_campaign=1054&utm_source=git)** | Springfield, MO, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d4?utm_campaign=1054&utm_source=git)** | Omaha, NE, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d6?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d4?utm_campaign=1054&utm_source=git)** | Omaha, NE, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d6?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | May 11 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Summer/Fall 2026 - Chattanooga, TN](https://jobright.ai/jobs/info/6a030b117c753c287f6e2ef5?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | May 11 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[HR Intern- Immigration](https://jobright.ai/jobs/info/6a0239cf3053db70a1175b55?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | May 11 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a030bdabc4184089f22e5ec?utm_campaign=1054&utm_source=git)** | Plantation, FL | On Site | May 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a01ec4fc4b08448a0b218d8?utm_campaign=1054&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/6a01eb7ac2ffb31f45368670?utm_campaign=1054&utm_source=git)** | DeRidder, LA 70634, USA | On Site | May 11 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/6a02e5d7bc4184089f22d211?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | May 11 |
-| ↳ | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/6a02006e3053db70a1173a16?utm_campaign=1054&utm_source=git)** | Rutland, Vermont | On Site | May 11 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern - Provider Recruitment](https://jobright.ai/jobs/info/6a01d79fc2ffb31f4536781a?utm_campaign=1054&utm_source=git)** | South Portland, ME | Hybrid | May 11 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/69ea728e58811370cb133229?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 11 |
-| **[Cincinnati Metro](https://www.go-metro.com)** | **[Employee and Labor Relations / Legal Intern](https://jobright.ai/jobs/info/6a01d14ffa1aa73213d9476b?utm_campaign=1054&utm_source=git)** | 525 Vine Street, Suite 500, Cincinnati, OH | On Site | May 11 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6975dffd206da320f49fe7d2?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | May 11 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Metro Region - Boston Location](https://jobright.ai/jobs/info/6a01b3a73053db70a11718cc?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 11 |
-| **[American Packaging Corporation](https://americanpackaging.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e92d420a6e095553039f31?utm_campaign=1054&utm_source=git)** | Churchville, NY | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
