@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Richemont](https://www.richemont.com/)** | **[Intern, People Operations & Payroll](https://jobright.ai/jobs/info/6a03808122395b6dc6d95470?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 12 |
-| **[Cars Commerce](https://www.carscommerce.inc)** | **[Talent Acquisition Innovation Intern](https://jobright.ai/jobs/info/6a037f1bf3d6cc51d6377334?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | May 12 |
+| **[El Centro Family Health](https://ecfh.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a038ec27c753c287f6e846a?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | May 12 |
+| **[Mobile Communications America](http://callmc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a038e47bc4184089f2339de?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | May 12 |
 | **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[People & Culture / Operations Intern](https://jobright.ai/jobs/info/6a03791c6c07461fe170457b?utm_campaign=1054&utm_source=git)** | Washington,DC,US | Hybrid | May 12 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a037897ed6a637463f50307?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 12 |
 | **[DSPolitical](https://www.dspolitical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0378506c07461fe170452d?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | May 12 |
@@ -121,11 +121,11 @@ For a complete list, click the following sortable link below:
 | **[MEM](https://www.mem-ins.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a02455a238f143e835327da?utm_campaign=1054&utm_source=git)** | Kansas City, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024556238f143e835327d9?utm_campaign=1054&utm_source=git)** | Missouri, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024554238f143e835327d8?utm_campaign=1054&utm_source=git)** | Springfield, MO, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d4?utm_campaign=1054&utm_source=git)** | Omaha, NE, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d6?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | May 11 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d7?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | May 11 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Summer/Fall 2026 - Chattanooga, TN](https://jobright.ai/jobs/info/6a030b117c753c287f6e2ef5?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | May 11 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[HR Intern- Immigration](https://jobright.ai/jobs/info/6a0239cf3053db70a1175b55?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | May 11 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a030bdabc4184089f22e5ec?utm_campaign=1054&utm_source=git)** | Plantation, FL | On Site | May 11 |
