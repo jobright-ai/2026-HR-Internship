@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a0489d3bc4184089f23c16d?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | May 13 |
+| **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern](https://jobright.ai/jobs/info/6a0486eb7c753c287f6f0517?utm_campaign=1054&utm_source=git)** | Dutch Wonderland, 2249 Lincoln Hwy East, Lancaster,  PA 17602, United States of America | On Site | May 13 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69e7f0197820c036924d9381?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 13 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[HR/Labor Relations Intern - 2026](https://jobright.ai/jobs/info/69b0cb1edfaeda6ff59b51bf?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | May 13 |
 | **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69cab96da8c1822476e1f8c4?utm_campaign=1054&utm_source=git)** | Lehi, UT | Remote | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Chemical Company, LLC](https://www.cornerstonechemco.com)** | **[HR Coordinator Intern](https://jobright.ai/jobs/info/6a024b58238f143e83532ac6?utm_campaign=1054&utm_source=git)** | Waggaman, LA, US | On Site | May 11 |
 | **[MEM](https://www.mem-ins.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a0311d86c07461fe1700706?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | May 11 |
 | **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | May 11 |
-| **[Hunting](https://huntingplc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a02468ffa1aa73213d98ad5?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | On Site | May 11 |
-| **[FM Talent](https://fmtalent.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0245acdf52f1450d8494bc?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
