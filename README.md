@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Triad Partners](https://triadpartners.com)** | **[Case Planning Intern](https://jobright.ai/jobs/info/6a04f96bf3d6cc51d6384f85?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | May 13 |
+| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Talent Acquisition Intern (Temporary)](https://jobright.ai/jobs/info/6a04f6287c753c287f6f5063?utm_campaign=1054&utm_source=git)** | North Mankato, MN - Taylor Corporation, US | On Site | May 13 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern - Applied AI](https://jobright.ai/jobs/info/6a04f46f7c753c287f6f4fd0?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
+| **[DoubleVerify](http://www.doubleverify.com)** | **[HR Digital Solutions Intern](https://jobright.ai/jobs/info/6a04f447f3d6cc51d6384a7e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
+| **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6a04f294bc4184089f240ebc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 13 |
+| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Business Professional Recruiting](https://jobright.ai/jobs/info/6a04f29322395b6dc6da227b?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 13 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/6a04f2526c07461fe17120ce?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 13 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Intern (Hourly) (2026-12965)](https://jobright.ai/jobs/info/6a04f1e64373b07358a38248?utm_campaign=1054&utm_source=git)** | East Orange, NJ | On Site | May 13 |
 | **[FS-ISAC](https://www.fsisac.com/)** | **[Summer Intern – Human Resources (Paid)](https://jobright.ai/jobs/info/6a04ef717c753c287f6f4bc6?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | May 13 |
 | **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a04ed644373b07358a38112?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | May 13 |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a04e74f22395b6dc6da1cf1?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 13 |
 | **[Smartly](http://smartly.io)** | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a04e1faf3d6cc51d63841a5?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | May 13 |
 | **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[HRIS Intern - Human Resources](https://jobright.ai/jobs/info/6a04e1e16c07461fe17116ee?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | May 13 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Intern (Volunteer)](https://jobright.ai/jobs/info/6a04e1c422395b6dc6da1904?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
@@ -71,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Town of Erie](https://www.erieco.gov)** | **[Human Resources Intern (85186)](https://jobright.ai/jobs/info/6a04dd2622395b6dc6da1653?utm_campaign=1054&utm_source=git)** | Erie, CO | Hybrid | May 13 |
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a04d9d17c753c287f6f3f41?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 13 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Internship Summer 2026](https://jobright.ai/jobs/info/6a04d84d4373b07358a3741c?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 13 |
+| **[KI](http://www.ki.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a04f417f3d6cc51d63849a9?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | May 13 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6a04c9a0f3d6cc51d6382c52?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | May 13 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69e7fdf9e0cd471b2f12eb97?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Arizona State University, Tempe Campus](https://jobright.ai/jobs/info/6a04c5217c753c287f6f2fe6?utm_campaign=1054&utm_source=git)** | Arizona, United States | Hybrid | May 13 |
@@ -102,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Internship Summer 2026](https://jobright.ai/jobs/info/6a04939122395b6dc6d9ebcd?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, US | On Site | May 13 |
 | **[KI](http://www.ki.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a04910b22395b6dc6d9e827?utm_campaign=1054&utm_source=git)** | Green Bay, WI - Corporate, 1330 Bellevue Street, Green Bay, Wisconsin, United States of America | On Site | May 13 |
 | **[Thea Energy](https://www.thea.energy/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd195cb113035a9f8ee79e?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | May 13 |
-| **[Triad Partners](https://triadpartners.com)** | **[Case Planning Intern](https://jobright.ai/jobs/info/6a048bb67c753c287f6f0a87?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | May 13 |
 | **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a0489d3bc4184089f23c16d?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | May 13 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern](https://jobright.ai/jobs/info/6a0486eb7c753c287f6f0517?utm_campaign=1054&utm_source=git)** | Dutch Wonderland, 2249 Lincoln Hwy East, Lancaster,  PA 17602, United States of America | On Site | May 13 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69e7f0197820c036924d9381?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/69de506236823d1b42580534?utm_campaign=1054&utm_source=git)** | United States | Remote | May 12 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Global Workforce Communications Paid Intern](https://jobright.ai/jobs/info/6a0357816c07461fe170309f?utm_campaign=1054&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 12 |
 | **[ITA International](http://ita-intl.com/)** | **[Summer Intern - Growth Support](https://jobright.ai/jobs/info/69ea70ab4b0fa35a707740cc?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | May 12 |
-| **[Republic Airways](http://www.rjet.com)** | **[LIFT Academy Admissions Intern - Fall 2026](https://jobright.ai/jobs/info/6a034a3c6c07461fe1702886?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | May 12 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | May 12 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Intern-Houston](https://jobright.ai/jobs/info/6a03457c22395b6dc6d92e0a?utm_campaign=1054&utm_source=git)** | Houston, PA | On Site | May 12 |
-| **[AMBA](https://amba.info)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0341f2f3d6cc51d6375059?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | May 12 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfce37785856350fc35e?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | May 12 |
-| **[Schaeffler](https://www.schaeffler.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e77a080a6e09555302a76d?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | May 12 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
