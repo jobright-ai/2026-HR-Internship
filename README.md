@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Héroux-Devtek](http://www.herouxdevtek.com/)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a04e1997c753c287f6f454b?utm_campaign=1054&utm_source=git)** | Longueuil, Quebec, Canada | Hybrid | May 13 |
+| **[Program Productions](http://programproductions.com)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a04e1857c753c287f6f451b?utm_campaign=1054&utm_source=git)** | Cleveland,OH,US | On Site | May 13 |
+| **[Sunland Asphalt & Construction, LLC](http://www.sunlandasphalt.com)** | **[PW Intern](https://jobright.ai/jobs/info/6a04e099f3d6cc51d63840e6?utm_campaign=1054&utm_source=git)** | Phoenix,AZ,US | On Site | May 13 |
+| **[Héroux-Devtek](http://www.herouxdevtek.com/)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a04dfa94373b07358a37987?utm_campaign=1054&utm_source=git)** | Longueuil, Quebec, Canada | On Site | May 13 |
+| **[MANITOU Group](http://www.manitou-group.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a04ddb44373b07358a3783d?utm_campaign=1054&utm_source=git)** | West Bend, WI | Hybrid | May 13 |
+| **[Town of Erie](https://www.erieco.gov)** | **[Human Resources Intern (85186)](https://jobright.ai/jobs/info/6a04dd2622395b6dc6da1653?utm_campaign=1054&utm_source=git)** | Erie, CO | Hybrid | May 13 |
+| **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a04d9d17c753c287f6f3f41?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 13 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Internship Summer 2026](https://jobright.ai/jobs/info/6a04d84d4373b07358a3741c?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 13 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6a04c9a0f3d6cc51d6382c52?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | May 13 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69e7fdf9e0cd471b2f12eb97?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Arizona State University, Tempe Campus](https://jobright.ai/jobs/info/6a04c5217c753c287f6f2fe6?utm_campaign=1054&utm_source=git)** | Arizona, United States | Hybrid | May 13 |
@@ -64,8 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04bb246c07461fe17100a5?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | May 13 |
 | **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a04ba49bc4184089f23e1be?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern](https://jobright.ai/jobs/info/6a04ba0cbc4184089f23e0fe?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | May 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6a04d7074373b07358a373d1?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | May 13 |
+| ↳ | **[Fall 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/6a04d60a7c753c287f6f3e78?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | May 13 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6a04b35cf3d6cc51d6381f43?utm_campaign=1054&utm_source=git)** | Ft. Lauderdale, FL, USA, US | On Site | May 13 |
-| **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a04b1ce22395b6dc6d9fdf3?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | May 13 |
 | **[Valbruna Group USA](https://www.valbrunastainless.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04b04bbc4184089f23dd6d?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | May 13 |
 | **[Passion Dental Group](https://pdgcanada.ca)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a04afff22395b6dc6d9fc81?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 13 |
 | **[Northeast Alternatives](https://www.nealternatives.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04afe222395b6dc6d9fc2c?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | May 13 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a032d627c753c287f6e438e?utm_campaign=1054&utm_source=git)** | Charlotte, US | On Site | May 12 |
 | ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a032d606c07461fe1701281?utm_campaign=1054&utm_source=git)** | Austin, US | On Site | May 12 |
 | ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a032d5ded6a637463f4d1f3?utm_campaign=1054&utm_source=git)** | Richmond, US | On Site | May 12 |
-| ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a032d2abc4184089f22f9e8?utm_campaign=1054&utm_source=git)** | Atlanta, US | On Site | May 12 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0329967c753c287f6e420b?utm_campaign=1054&utm_source=git)** | 900 Opelousas St, Lake Charles, LA, 70601, US | On Site | May 12 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Recruiting Intern - Corporate](https://jobright.ai/jobs/info/6a033ebaf3d6cc51d6374d6c?utm_campaign=1054&utm_source=git)** | Tippecanoe County, IN | On Site | May 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - HR, Talent Acquisition Programming Intern (4 months)](https://jobright.ai/jobs/info/69e682913cfd986aa6f86408?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 12 |
-| **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/69e6f1689b6eb37e26f82a27?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | May 12 |
-| **[Filtrex Service Group](https://www.filtrexservicegroup.com/)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/6a033ec9bc4184089f2308fb?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | May 12 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/69d20367cfdc6132f9448445?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | May 12 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a032b7a22395b6dc6d91a7f?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | May 12 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Talent Strategy & Development Intern, Fall 2026](https://jobright.ai/jobs/info/6a032bbebc4184089f22f9c7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
