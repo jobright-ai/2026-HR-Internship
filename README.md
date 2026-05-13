@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avolta Inc.](https://www.avoltacanada.com)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/6a04c254f3d6cc51d6382673?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
+| **[The Budd Group](https://www.buddgroup.com/)** | **[Staffing Specialist Summer Intern](https://jobright.ai/jobs/info/6a04bf57f811a0436960e0cd?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | May 13 |
+| **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04bb246c07461fe17100a5?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | May 13 |
+| **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a04ba49bc4184089f23e1be?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
+| **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern](https://jobright.ai/jobs/info/6a04ba0cbc4184089f23e0fe?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | May 13 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6a04b35cf3d6cc51d6381f43?utm_campaign=1054&utm_source=git)** | Ft. Lauderdale, FL, USA, US | On Site | May 13 |
 | **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a04b1ce22395b6dc6d9fdf3?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | May 13 |
 | **[Valbruna Group USA](https://www.valbrunastainless.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04b04bbc4184089f23dd6d?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | May 13 |
 | **[Passion Dental Group](https://pdgcanada.ca)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a04afff22395b6dc6d9fc81?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 13 |
 | **[Northeast Alternatives](https://www.nealternatives.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04afe222395b6dc6d9fc2c?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | May 13 |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a04ade1bc4184089f23db8d?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 13 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Arizona State University, Tempe Campus](https://jobright.ai/jobs/info/6a04abc36c07461fe170fa0a?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 13 |
 | **[Town of Erie](https://www.erieco.gov)** | **[Human Resources Intern (85186)](https://jobright.ai/jobs/info/6a04ab8822395b6dc6d9f9ee?utm_campaign=1054&utm_source=git)** | Town Hall - Erie, CO 80516 | Hybrid | May 13 |
 | **[Passion Dental Group](https://pdgcanada.ca)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a04a882f811a0436960d51b?utm_campaign=1054&utm_source=git)** | 855 42 Ave SE, Calgary, AB T2G 1Y9, Canada | On Site | May 13 |
@@ -80,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | May 13 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Internship Summer 2026](https://jobright.ai/jobs/info/6a04939122395b6dc6d9ebcd?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, US | On Site | May 13 |
 | **[KI](http://www.ki.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a04910b22395b6dc6d9e827?utm_campaign=1054&utm_source=git)** | Green Bay, WI - Corporate, 1330 Bellevue Street, Green Bay, Wisconsin, United States of America | On Site | May 13 |
+| **[Thea Energy](https://www.thea.energy/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd195cb113035a9f8ee79e?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | May 13 |
 | **[Triad Partners](https://triadpartners.com)** | **[Case Planning Intern](https://jobright.ai/jobs/info/6a048bb67c753c287f6f0a87?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | May 13 |
 | **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a0489d3bc4184089f23c16d?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | May 13 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern](https://jobright.ai/jobs/info/6a0486eb7c753c287f6f0517?utm_campaign=1054&utm_source=git)** | Dutch Wonderland, 2249 Lincoln Hwy East, Lancaster,  PA 17602, United States of America | On Site | May 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a032b7a22395b6dc6d91a7f?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | May 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Talent Strategy & Development Intern, Fall 2026](https://jobright.ai/jobs/info/6a032bbebc4184089f22f9c7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[OXEA](https://oxea.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a040fbbf811a0436960744d?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | May 11 |
-| **[TEL](https://tel360.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a041c247c753c287f6ecfb4?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | May 11 |
-| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a041505f811a04369607ab0?utm_campaign=1054&utm_source=git)** | United States | Remote | May 11 |
-| **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0414b9f811a043696079f1?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 11 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources Business Partner / Coordinator (Fall 2026)](https://jobright.ai/jobs/info/6a04143622395b6dc6d9a18f?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 11 |
-| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69fe448cad691a11f34ec7fe?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
