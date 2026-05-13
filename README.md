@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Linde](https://www.linde.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e7a855f8fa2f3ec32a8fbc?utm_campaign=1054&utm_source=git)** | Danbury, CT | On Site | May 13 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/69e813f47820c036924da11d?utm_campaign=1054&utm_source=git)** | Kodiak, AK | On Site | May 13 |
+| **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04979d22395b6dc6d9eeb2?utm_campaign=1054&utm_source=git)** | RPSNA Evansville (EVCL) IN, US | On Site | May 13 |
+| **[Northwell Health](https://www.northwell.edu/)** | **[Workplace Technology Internship](https://jobright.ai/jobs/info/6a04963abc4184089f23ce36?utm_campaign=1054&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | May 13 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (Walnut Creek)](https://jobright.ai/jobs/info/69cb003baa3c2c1995e32cd7?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | Hybrid | May 13 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69af2227749500645093938f?utm_campaign=1054&utm_source=git)** | Simi Valley, CA | On Site | May 13 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | May 13 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Internship Summer 2026](https://jobright.ai/jobs/info/6a04939122395b6dc6d9ebcd?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, US | On Site | May 13 |
+| **[KI](http://www.ki.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a04910b22395b6dc6d9e827?utm_campaign=1054&utm_source=git)** | Green Bay, WI - Corporate, 1330 Bellevue Street, Green Bay, Wisconsin, United States of America | On Site | May 13 |
+| **[Triad Partners](https://triadpartners.com)** | **[Case Planning Intern](https://jobright.ai/jobs/info/6a048bb67c753c287f6f0a87?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | May 13 |
 | **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a0489d3bc4184089f23c16d?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | May 13 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern](https://jobright.ai/jobs/info/6a0486eb7c753c287f6f0517?utm_campaign=1054&utm_source=git)** | Dutch Wonderland, 2249 Lincoln Hwy East, Lancaster,  PA 17602, United States of America | On Site | May 13 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69e7f0197820c036924d9381?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 13 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c3ddf52f1450d84a616?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccc0?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | May 11 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccbf?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 11 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c35238f143e835339e7?utm_campaign=1054&utm_source=git)** | Fort Worth, Texas | Hybrid | May 11 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c273053db70a11777ae?utm_campaign=1054&utm_source=git)** | Midland, Texas | Hybrid | May 11 |
-| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0412fd6c07461fe170949a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
-| **[Pathfinder Bank](http://pathfinderbank.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a031181ed6a637463f4c655?utm_campaign=1054&utm_source=git)** | Oswego, NY | On Site | May 11 |
-| **[OneRail](http://www.onerail.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0254f93053db70a11772cd?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 11 |
-| **[Highgate](https://www.highgate.com)** | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a0311f66c07461fe1700780?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 11 |
-| **[Hunting](https://huntingplc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a041346bc4184089f237b32?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | May 11 |
-| **[Cornerstone Chemical Company, LLC](https://www.cornerstonechemco.com)** | **[HR Coordinator Intern](https://jobright.ai/jobs/info/6a024b58238f143e83532ac6?utm_campaign=1054&utm_source=git)** | Waggaman, LA, US | On Site | May 11 |
-| **[MEM](https://www.mem-ins.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a0311d86c07461fe1700706?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | May 11 |
-| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
