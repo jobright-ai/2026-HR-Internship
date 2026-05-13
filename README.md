@@ -126,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[OXEA](https://oxea.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a040fbbf811a0436960744d?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | May 11 |
 | **[TEL](https://tel360.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a041c247c753c287f6ecfb4?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | May 11 |
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a041505f811a04369607ab0?utm_campaign=1054&utm_source=git)** | United States | Remote | May 11 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a041a6d7c753c287f6ecd24?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | May 11 |
 | **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0414b9f811a043696079f1?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 11 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources Business Partner / Coordinator (Fall 2026)](https://jobright.ai/jobs/info/6a04143622395b6dc6d9a18f?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 11 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69fe448cad691a11f34ec7fe?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0245abdf52f1450d8494bb?utm_campaign=1054&utm_source=git)** | Silver Spring, MD, US | On Site | May 11 |
 | **[MEM](https://www.mem-ins.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a02455a238f143e835327da?utm_campaign=1054&utm_source=git)** | Kansas City, MO, USA | Remote | May 11 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024556238f143e835327d9?utm_campaign=1054&utm_source=git)** | Missouri, USA | Remote | May 11 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024554238f143e835327d8?utm_campaign=1054&utm_source=git)** | Springfield, MO, USA | Remote | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
