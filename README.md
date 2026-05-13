@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Passion Dental Group](https://pdgcanada.ca)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a04a882f811a0436960d51b?utm_campaign=1054&utm_source=git)** | 855 42 Ave SE, Calgary, AB T2G 1Y9, Canada | On Site | May 13 |
+| **[Mobile Communications America](http://callmc.com)** | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/69782f9239f7f96cc6d0776f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | May 13 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04a72522395b6dc6d9f63c?utm_campaign=1054&utm_source=git)** | 645 Holbrook Street, 80516, Erie, CO | Hybrid | May 13 |
+| **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a04a66722395b6dc6d9f5d9?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | May 13 |
+| **[Thea Pharma US](https://www.theapharmainc.com)** | **[HR & Administrative Coordinator Intern](https://jobright.ai/jobs/info/6a04a3bc6c07461fe170f365?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | May 13 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6975dfae37785856350fc356?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 13 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (Spring - Fall 2026) - NYC](https://jobright.ai/jobs/info/6a049fffbc4184089f23d140?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 13 |
 | **[Linde](https://www.linde.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e7a855f8fa2f3ec32a8fbc?utm_campaign=1054&utm_source=git)** | Danbury, CT | On Site | May 13 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/69e813f47820c036924da11d?utm_campaign=1054&utm_source=git)** | Kodiak, AK | On Site | May 13 |
 | **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04979d22395b6dc6d9eeb2?utm_campaign=1054&utm_source=git)** | RPSNA Evansville (EVCL) IN, US | On Site | May 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[2026 Fall Human Resources Co-op Program](https://jobright.ai/jobs/info/6a0413a0f811a043696075e1?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | May 11 |
 | **[The Windsor Court](http://windsorcourthotel.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a0413ac6c07461fe17096d0?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 11 |
 | **[LCEC](https://www.lcec.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04139122395b6dc6d99f69?utm_campaign=1054&utm_source=git)** | North Fort Myers, FL | On Site | May 11 |
-| **[Town of Newmarket](http://www.newmarket.ca)** | **[Human Resources Student](https://jobright.ai/jobs/info/6a0419907c753c287f6ec8a8?utm_campaign=1054&utm_source=git)** | Newmarket, Ontario, Canada | On Site | May 11 |
-| **[Bachem](https://www.bachem.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a0311d46c07461fe17006f5?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | May 11 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c40c4b08448a0b25e4a?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | May 11 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c3efa1aa73213d99cab?utm_campaign=1054&utm_source=git)** | El Paso, Texas | Hybrid | May 11 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c3ddf52f1450d84a616?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | May 11 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccc0?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | May 11 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a025c37c2ffb31f4536ccbf?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
