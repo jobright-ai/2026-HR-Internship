@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern - Applied AI Workforce Training](https://jobright.ai/jobs/info/6a0454a7f3d6cc51d637dc69?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
 | **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a03fb4c22395b6dc6d9959a?utm_campaign=1054&utm_source=git)** | Tysons Corner, VA | On Site | May 12 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Global Workforce Communications Paid Intern](https://jobright.ai/jobs/info/6a03f0d8bc4184089f236e83?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | May 12 |
 | **[Nightingale Education Group](https://nightingaleeducationgroup.com)** | **[Recruiting Intern (Part-time)](https://jobright.ai/jobs/info/6a03ef90bc4184089f2369aa?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Remote | May 12 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR & Accounting Records Support Assistant Intern (ETS) / Temporary](https://jobright.ai/jobs/info/6a03cc4322395b6dc6d980ef?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
 | **[J-Star Motion Corporation](http://www.jstarmotion.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a03bab16c07461fe1707088?utm_campaign=1054&utm_source=git)** | Cedar Springs, MI | On Site | May 12 |
 | **[VT Group (VTG)](https://vtgdefense.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a03b5eef3d6cc51d637957f?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | May 12 |
-| **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/6a03b5566c07461fe1706e14?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | May 12 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6a03b5478ecfd93cd9c11216?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | On Site | May 12 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[HR Systems and Program Management Intern (2026)](https://jobright.ai/jobs/info/6a03b4bc22395b6dc6d97611?utm_campaign=1054&utm_source=git)** | San Jose, California, United States | On Site | May 12 |
 | ↳ | **[HR Systems and Program Management Intern (2026)](https://jobright.ai/jobs/info/6a03cd2b8ecfd93cd9c11c92?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 12 |
