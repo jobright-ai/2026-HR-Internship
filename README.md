@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e7e2343aa0c4796439c5b0?utm_campaign=1054&utm_source=git)** | Danbury, CT | On Site | May 14 |
+| **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Training and Development Intern](https://jobright.ai/jobs/info/6a05f244bc4184089f24929b?utm_campaign=1054&utm_source=git)** | Mukwonago, WI, US, 53149 | On Site | May 14 |
 | **[West Capital Lending](https://westcapitallending.com/)** | **[Intern](https://jobright.ai/jobs/info/6a05ebdba88ea73abf7f4f0f?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | May 14 |
 | **[UPS](http://www.ups.com)** | **[Masters Degree - HR Internship, Project Management Focus (Summer 2026)](https://jobright.ai/jobs/info/6a05e9e4f3d6cc51d638c9ca?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 14 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Recruitment Analyst Intern](https://jobright.ai/jobs/info/6a05e7bdbc4184089f248bd7?utm_campaign=1054&utm_source=git)** | Springfield, MO, US | On Site | May 14 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Steel King Industries, Inc.](http://steelking.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a058dc3fbf3d169d3c5fd01?utm_campaign=1054&utm_source=git)** | Stevens Point, WI 54481, USA | On Site | May 14 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6a056bf26c07461fe17162f3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
 | **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a0569f47c753c287f6f909e?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | May 13 |
-| **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a055a23a88ea73abf7f0b08?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | May 13 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a05566dbc4184089f24492b?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 13 |
 | ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a05566abc4184089f244920?utm_campaign=1054&utm_source=git)** | US | Remote | May 13 |
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a054308fbf3d169d3c5da91?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern](https://jobright.ai/jobs/info/6a04ba0cbc4184089f23e0fe?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | May 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6a04d7074373b07358a373d1?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | May 13 |
 | ↳ | **[Fall 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/6a04d60a7c753c287f6f3e78?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | May 13 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6a04b35cf3d6cc51d6381f43?utm_campaign=1054&utm_source=git)** | Ft. Lauderdale, FL, USA, US | On Site | May 13 |
 | **[Valbruna Group USA](https://www.valbrunastainless.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04b04bbc4184089f23dd6d?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | May 13 |
 | **[Passion Dental Group](https://pdgcanada.ca)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a04afff22395b6dc6d9fc81?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 13 |
 | **[Northeast Alternatives](https://www.nealternatives.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04afe222395b6dc6d9fc2c?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | May 13 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Thea Energy](https://www.thea.energy/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd195cb113035a9f8ee79e?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | May 13 |
 | **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a0489d3bc4184089f23c16d?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | May 13 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern](https://jobright.ai/jobs/info/6a0486eb7c753c287f6f0517?utm_campaign=1054&utm_source=git)** | Dutch Wonderland, 2249 Lincoln Hwy East, Lancaster,  PA 17602, United States of America | On Site | May 13 |
+| **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[HR Systems Intern](https://jobright.ai/jobs/info/6a05f13fbc4184089f249278?utm_campaign=1054&utm_source=git)** | Syracuse, NY, US | On Site | May 13 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69e7f0197820c036924d9381?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 13 |
 | **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69cab96da8c1822476e1f8c4?utm_campaign=1054&utm_source=git)** | Lehi, UT | Remote | May 13 |
+| **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a05f1276c07461fe171a60c?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a03fb4c22395b6dc6d9959a?utm_campaign=1054&utm_source=git)** | Tysons Corner, VA | On Site | May 12 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Global Workforce Communications Paid Intern](https://jobright.ai/jobs/info/6a03f0d8bc4184089f236e83?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | May 12 |
-| **[Nightingale Education Group](https://nightingaleeducationgroup.com)** | **[Recruiting Intern (Part-time)](https://jobright.ai/jobs/info/6a03ef90bc4184089f2369aa?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Remote | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
