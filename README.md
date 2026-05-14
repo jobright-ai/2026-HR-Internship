@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6a056bf26c07461fe17162f3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
+| **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a0569f47c753c287f6f909e?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | May 13 |
 | **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a055a23a88ea73abf7f0b08?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | May 13 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a05566dbc4184089f24492b?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 13 |
 | ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a05566abc4184089f244920?utm_campaign=1054&utm_source=git)** | US | Remote | May 13 |
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a054308fbf3d169d3c5da91?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
+| **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Human Resources Generalist Internship](https://jobright.ai/jobs/info/6a05694af3d6cc51d6388d41?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | May 13 |
 | **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 13 |
 | **[Taylor Corporation](http://www.taylorcorp.com)** | **[Talent Acquisition Intern (Temporary)](https://jobright.ai/jobs/info/6a0528506c07461fe171442f?utm_campaign=1054&utm_source=git)** | North Mankato, MN | On Site | May 13 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern-Volunteer)](https://jobright.ai/jobs/info/6a052160bc4184089f2431d3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a04fb14bc4184089f2418c4?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | May 13 |
 | **[Triad Partners](https://triadpartners.com)** | **[Case Planning Intern](https://jobright.ai/jobs/info/6a04f96bf3d6cc51d6384f85?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | May 13 |
 | **[Taylor Corporation](http://www.taylorcorp.com)** | **[Talent Acquisition Intern (Temporary)](https://jobright.ai/jobs/info/6a04f6287c753c287f6f5063?utm_campaign=1054&utm_source=git)** | North Mankato, MN - Taylor Corporation, US | On Site | May 13 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern - Applied AI](https://jobright.ai/jobs/info/6a04f46f7c753c287f6f4fd0?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[HR Digital Solutions Intern](https://jobright.ai/jobs/info/6a04f447f3d6cc51d6384a7e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6a04f294bc4184089f240ebc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/6a04f2526c07461fe17120ce?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT Academy Admissions Intern - Fall 2026](https://jobright.ai/jobs/info/6a0395f8f3d6cc51d6378571?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | May 12 |
 | **[TEL](https://tel360.com)** | **[Talent Acquisition Intern Location: Chattanooga, TN (On-site) Pay: $20/hour Transport Enterprise Leasing (TEL) Talent Acquisition Intern What You’ll Do](https://jobright.ai/jobs/info/6a039371f3d6cc51d63783e8?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | May 12 |
 | **[Nightingale College](https://nightingale.edu/)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/6a03911c8ecfd93cd9c0fb2f?utm_campaign=1054&utm_source=git)** | OSC Utah - Salt Lake City, UT 84111 | Remote | May 12 |
-| **[Mobile Communications America](http://callmc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a038e47bc4184089f2339de?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | May 12 |
-| **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[People & Culture / Operations Intern](https://jobright.ai/jobs/info/6a03791c6c07461fe170457b?utm_campaign=1054&utm_source=git)** | Washington,DC,US | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
