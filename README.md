@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
+| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
+| **[Steel King Industries, Inc.](http://steelking.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a058dc3fbf3d169d3c5fd01?utm_campaign=1054&utm_source=git)** | Stevens Point, WI 54481, USA | On Site | May 14 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6a056bf26c07461fe17162f3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
 | **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a0569f47c753c287f6f909e?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | May 13 |
 | **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a055a23a88ea73abf7f0b08?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Global Workforce Communications Paid Intern](https://jobright.ai/jobs/info/6a03a912f3d6cc51d6378ce3?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | May 12 |
 | ↳ | **[Paid Intern (Corporate Travel)](https://jobright.ai/jobs/info/6a03a84e22395b6dc6d96e71?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | May 12 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Human Resources Intern (Association Office)](https://jobright.ai/jobs/info/6a03b5b9f3d6cc51d6379492?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 12 |
-| **[Manhattan Star Academy](www.yai.org/msa)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0398847c753c287f6e8dc5?utm_campaign=1054&utm_source=git)** | Manhattan, US | On Site | May 12 |
-| **[Republic Airways](http://www.rjet.com)** | **[LIFT Academy Admissions Intern - Fall 2026](https://jobright.ai/jobs/info/6a0395f8f3d6cc51d6378571?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | May 12 |
-| **[TEL](https://tel360.com)** | **[Talent Acquisition Intern Location: Chattanooga, TN (On-site) Pay: $20/hour Transport Enterprise Leasing (TEL) Talent Acquisition Intern What You’ll Do](https://jobright.ai/jobs/info/6a039371f3d6cc51d63783e8?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
