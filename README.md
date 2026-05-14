@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JD.COM](http://corporate.jd.com)** | **[JD Young Human Resources Internship](https://jobright.ai/jobs/info/6a0624747c753c287f6ffbc0?utm_campaign=1054&utm_source=git)** | Jersey, GA | On Site | May 14 |
+| ↳ | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/6a0624416c07461fe171ce3f?utm_campaign=1054&utm_source=git)** | California, United States | On Site | May 14 |
+| **[PSS Cross Country Infrastructure Solutions](http://www.pssinfrastructure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0624217c753c287f6ffa4b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 14 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Summer Intern- Human Resources](https://jobright.ai/jobs/info/6a0622fca88ea73abf7f80d9?utm_campaign=1054&utm_source=git)** | Cleveland Heights 40 Severance Circle, Cleveland Heights, Ohio 44118, OH | On Site | May 14 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/6a0620d97c753c287f6ff821?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | May 14 |
+| **[Matriosh](Matriosh.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a061a557c753c287f6ff409?utm_campaign=1054&utm_source=git)** | United States | Remote | May 14 |
+| **[FS-ISAC](https://www.fsisac.com/)** | **[Summer Intern – Human Resources](https://jobright.ai/jobs/info/6a061a16320bff2205ea82f6?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | May 14 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Intern, Leadership and Professional Development Services](https://jobright.ai/jobs/info/6a0618766c07461fe171c4de?utm_campaign=1054&utm_source=git)** | Washington DC,DC,US | On Site | May 14 |
 | **[Legends Global](http://legends.net)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a06166b6c07461fe171c318?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/6a06164af3d6cc51d638ee95?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | May 14 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Workforce Operations Intern](https://jobright.ai/jobs/info/6a061645320bff2205ea7e42?utm_campaign=1054&utm_source=git)** | Altoona, IA | On Site | May 14 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a04ba49bc4184089f23e1be?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern](https://jobright.ai/jobs/info/6a04ba0cbc4184089f23e0fe?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | May 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6a04d7074373b07358a373d1?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | May 13 |
-| ↳ | **[Fall 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/6a04d60a7c753c287f6f3e78?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | May 13 |
-| **[Valbruna Group USA](https://www.valbrunastainless.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04b04bbc4184089f23dd6d?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | May 13 |
-| **[Passion Dental Group](https://pdgcanada.ca)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a04afff22395b6dc6d9fc81?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 13 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Arizona State University, Tempe Campus](https://jobright.ai/jobs/info/6a04abc36c07461fe170fa0a?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 13 |
-| **[Town of Erie](https://www.erieco.gov)** | **[Human Resources Intern (85186)](https://jobright.ai/jobs/info/6a04ab8822395b6dc6d9f9ee?utm_campaign=1054&utm_source=git)** | Town Hall - Erie, CO 80516 | Hybrid | May 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69e6d5299b6eb37e26f82337?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 13 |
-| **[Passion Dental Group](https://pdgcanada.ca)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a04a882f811a0436960d51b?utm_campaign=1054&utm_source=git)** | 855 42 Ave SE, Calgary, AB T2G 1Y9, Canada | On Site | May 13 |
-| **[Mobile Communications America](http://callmc.com)** | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/69782f9239f7f96cc6d0776f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
