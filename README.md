@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a054308fbf3d169d3c5da91?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 13 |
 | **[Taylor Corporation](http://www.taylorcorp.com)** | **[Talent Acquisition Intern (Temporary)](https://jobright.ai/jobs/info/6a0528506c07461fe171442f?utm_campaign=1054&utm_source=git)** | North Mankato, MN | On Site | May 13 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern-Volunteer)](https://jobright.ai/jobs/info/6a052160bc4184089f2431d3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mobile Communications America](http://callmc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a038e47bc4184089f2339de?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | May 12 |
 | **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[People & Culture / Operations Intern](https://jobright.ai/jobs/info/6a03791c6c07461fe170457b?utm_campaign=1054&utm_source=git)** | Washington,DC,US | Hybrid | May 12 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a037897ed6a637463f50307?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 12 |
-| **[DSPolitical](https://www.dspolitical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0378506c07461fe170452d?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
