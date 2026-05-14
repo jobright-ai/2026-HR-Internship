@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Learning & Development, Human Resources](https://jobright.ai/jobs/info/6a0607a8bc4184089f24a291?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | May 14 |
+| **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a06075f320bff2205ea726f?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | May 14 |
+| ↳ | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a06046aa88ea73abf7f63cf?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | May 14 |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a06004cbc4184089f249e54?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 14 |
+| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer and/or Fall 2026)](https://jobright.ai/jobs/info/69e956f37820c036924e775f?utm_campaign=1054&utm_source=git)** | Canton, OH | On Site | May 14 |
+| **[Museum of Fine Arts, Houston](https://www.mfah.org)** | **[Volunteer Services Intern](https://jobright.ai/jobs/info/6a05fa8cf3d6cc51d638d8b1?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | On Site | May 14 |
+| **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a05fa1abc4184089f24995b?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 14 |
+| **[AAON, Inc.](https://www.aaon.com)** | **[HR Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6a05fa19bc4184089f24994e?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | May 14 |
+| ↳ | **[HR Intern (HR Operations)](https://jobright.ai/jobs/info/6a05f9e1a88ea73abf7f5ba5?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | May 14 |
+| **[CoxHealth](https://www.coxhealth.com/)** | **[Recruitment Analyst Intern](https://jobright.ai/jobs/info/6a05f96f7c753c287f6fd964?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | May 14 |
+| **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a05f8036c07461fe171abc1?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 14 |
+| **[TURBOCAM International](http://www.turbocam.com/)** | **[Personnel (HR) Intern – Part-Time, Summer 2026](https://jobright.ai/jobs/info/6a05f74c7c753c287f6fd8c3?utm_campaign=1054&utm_source=git)** | Barrington, New Hampshire | On Site | May 14 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69e7e2343aa0c4796439c5b0?utm_campaign=1054&utm_source=git)** | Danbury, CT | On Site | May 14 |
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Training and Development Intern](https://jobright.ai/jobs/info/6a05f244bc4184089f24929b?utm_campaign=1054&utm_source=git)** | Mukwonago, WI, US, 53149 | On Site | May 14 |
 | **[West Capital Lending](https://westcapitallending.com/)** | **[Intern](https://jobright.ai/jobs/info/6a05ebdba88ea73abf7f4f0f?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | May 14 |
@@ -107,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Iterative Health](https://iterative.health)** | **[Research Intern](https://jobright.ai/jobs/info/6a0572747c753c287f6f9515?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | May 13 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[HR Digital Solutions Intern](https://jobright.ai/jobs/info/6a04f447f3d6cc51d6384a7e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6a04f294bc4184089f240ebc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 13 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/6a04f2526c07461fe17120ce?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[FS-ISAC](https://www.fsisac.com/)** | **[Summer Intern – Human Resources (Paid)](https://jobright.ai/jobs/info/6a04ef717c753c287f6f4bc6?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | May 13 |
 | **[Smartly](http://smartly.io)** | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a04e1faf3d6cc51d63841a5?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | May 13 |
 | **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[HRIS Intern - Human Resources](https://jobright.ai/jobs/info/6a04e1e16c07461fe17116ee?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | May 13 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwell Health](https://www.northwell.edu/)** | **[Workplace Technology Internship](https://jobright.ai/jobs/info/6a04963abc4184089f23ce36?utm_campaign=1054&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | May 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Human Resources Intern (Walnut Creek)](https://jobright.ai/jobs/info/69cb003baa3c2c1995e32cd7?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | Hybrid | May 13 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/69af2227749500645093938f?utm_campaign=1054&utm_source=git)** | Simi Valley, CA | On Site | May 13 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Fall 2026](https://jobright.ai/jobs/info/6973cb1a206da320f49dc432?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | May 13 |
-| **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Internship Summer 2026](https://jobright.ai/jobs/info/6a04939122395b6dc6d9ebcd?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, US | On Site | May 13 |
-| **[KI](http://www.ki.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a04910b22395b6dc6d9e827?utm_campaign=1054&utm_source=git)** | Green Bay, WI - Corporate, 1330 Bellevue Street, Green Bay, Wisconsin, United States of America | On Site | May 13 |
-| **[Thea Energy](https://www.thea.energy/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/69fd195cb113035a9f8ee79e?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | May 13 |
-| **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a0489d3bc4184089f23c16d?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | May 13 |
-| **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern](https://jobright.ai/jobs/info/6a0486eb7c753c287f6f0517?utm_campaign=1054&utm_source=git)** | Dutch Wonderland, 2249 Lincoln Hwy East, Lancaster,  PA 17602, United States of America | On Site | May 13 |
-| **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[HR Systems Intern](https://jobright.ai/jobs/info/6a05f13fbc4184089f249278?utm_campaign=1054&utm_source=git)** | Syracuse, NY, US | On Site | May 13 |
-| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/69e7f0197820c036924d9381?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 13 |
-| **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69cab96da8c1822476e1f8c4?utm_campaign=1054&utm_source=git)** | Lehi, UT | Remote | May 13 |
-| **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a05f1276c07461fe171a60c?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 13 |
-| **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a03fb4c22395b6dc6d9959a?utm_campaign=1054&utm_source=git)** | Tysons Corner, VA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
