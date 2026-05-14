@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a050de3bc4184089f2424dd?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | On Site | May 13 |
+| **[Versant Media](https://versantmedia.com)** | **[Versant Academic Year Internships: Corporate Finance, Analytics & Human Resources](https://jobright.ai/jobs/info/6a050db74373b07358a399d9?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | Hybrid | May 13 |
+| ↳ | **[Versant Academic Year Internships: Corporate Finance, Analytics & Human Resources](https://jobright.ai/jobs/info/6a050db44373b07358a399cb?utm_campaign=1054&utm_source=git)** | Universal City, CA | Remote | May 13 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[HR Systems Intern](https://jobright.ai/jobs/info/6a0509a4f3d6cc51d6386118?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | May 13 |
 | **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a05094a4373b07358a398d3?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | May 13 |
 | **[Smartly](http://smartly.io)** | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a0504f422395b6dc6da336c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 13 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[DoubleVerify](http://www.doubleverify.com)** | **[HR Digital Solutions Intern](https://jobright.ai/jobs/info/6a04f447f3d6cc51d6384a7e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6a04f294bc4184089f240ebc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/6a04f2526c07461fe17120ce?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 13 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Intern (Hourly) (2026-12965)](https://jobright.ai/jobs/info/6a04f1e64373b07358a38248?utm_campaign=1054&utm_source=git)** | East Orange, NJ | On Site | May 13 |
 | **[FS-ISAC](https://www.fsisac.com/)** | **[Summer Intern – Human Resources (Paid)](https://jobright.ai/jobs/info/6a04ef717c753c287f6f4bc6?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | May 13 |
 | **[Smartly](http://smartly.io)** | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a04e1faf3d6cc51d63841a5?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | May 13 |
 | **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[HRIS Intern - Human Resources](https://jobright.ai/jobs/info/6a04e1e16c07461fe17116ee?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6a03662af3d6cc51d6376334?utm_campaign=1054&utm_source=git)** | Gloucester, MA | Hybrid | May 12 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a03661bf3d6cc51d63762e1?utm_campaign=1054&utm_source=git)** | Lake Charles, LA | On Site | May 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Global Workforce Communications Paid Intern](https://jobright.ai/jobs/info/6a036617f3d6cc51d63762b9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 12 |
-| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a037fe76c07461fe1704b17?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | May 12 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a035f2622395b6dc6d93ea6?utm_campaign=1054&utm_source=git)** | US-TX-Irving | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
