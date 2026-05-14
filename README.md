@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Talent Acquisition Intern (Temporary)](https://jobright.ai/jobs/info/6a0528506c07461fe171442f?utm_campaign=1054&utm_source=git)** | North Mankato, MN | On Site | May 13 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern-Volunteer)](https://jobright.ai/jobs/info/6a052160bc4184089f2431d3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
+| **[DXP Enterprises, Inc.](http://www.dxpe.com)** | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/6a05214dbc4184089f24318d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 13 |
+| **[California FAIR Plan Association](https://www.cfpnet.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6a051e6ff3d6cc51d6386cfc?utm_campaign=1054&utm_source=git)** | REMOTE-United States | Remote | May 13 |
+| **[TERMINAX](www.terminax.com)** | **[HR & Operations Intern (Bilingual Mandarin)](https://jobright.ai/jobs/info/6a051a9c6c07461fe1713e60?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | May 13 |
+| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Join Our Intern Talent Network](https://jobright.ai/jobs/info/6a051a8422395b6dc6da3f68?utm_campaign=1054&utm_source=git)** | Windsor Mill, MD 21244 | Hybrid | May 13 |
+| **[Any Hour Group](https://anyhourgroup.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a051a44f3d6cc51d63869fa?utm_campaign=1054&utm_source=git)** | Lindon, UT | Hybrid | May 13 |
 | **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a050de3bc4184089f2424dd?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | On Site | May 13 |
 | **[Versant Media](https://versantmedia.com)** | **[Versant Academic Year Internships: Corporate Finance, Analytics & Human Resources](https://jobright.ai/jobs/info/6a050db74373b07358a399d9?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | Hybrid | May 13 |
 | ↳ | **[Versant Academic Year Internships: Corporate Finance, Analytics & Human Resources](https://jobright.ai/jobs/info/6a050db44373b07358a399cb?utm_campaign=1054&utm_source=git)** | Universal City, CA | Remote | May 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DSPolitical](https://www.dspolitical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0378506c07461fe170452d?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a03782d6c07461fe17044a0?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 12 |
 | **[Mobile Communications America](http://callmc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0372706c07461fe1703ebb?utm_campaign=1054&utm_source=git)** | Spartanburg, SC, US | On Site | May 12 |
-| **[TenBerke](https://tenberke.com/)** | **[Internship Talent Pool Submission](https://jobright.ai/jobs/info/6a008608fa1aa73213d8fcbd?utm_campaign=1054&utm_source=git)** | New York | On Site | May 12 |
-| **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a036e6ced6a637463f4f916?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | May 12 |
-| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a036e5df3d6cc51d6376523?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 12 |
-| ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a036e3e6c07461fe1703aaf?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | May 12 |
-| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6a03662af3d6cc51d6376334?utm_campaign=1054&utm_source=git)** | Gloucester, MA | Hybrid | May 12 |
-| **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a03661bf3d6cc51d63762e1?utm_campaign=1054&utm_source=git)** | Lake Charles, LA | On Site | May 12 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Global Workforce Communications Paid Intern](https://jobright.ai/jobs/info/6a036617f3d6cc51d63762b9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
