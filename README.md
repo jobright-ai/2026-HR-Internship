@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 13 |
 | **[Taylor Corporation](http://www.taylorcorp.com)** | **[Talent Acquisition Intern (Temporary)](https://jobright.ai/jobs/info/6a0528506c07461fe171442f?utm_campaign=1054&utm_source=git)** | North Mankato, MN | On Site | May 13 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern-Volunteer)](https://jobright.ai/jobs/info/6a052160bc4184089f2431d3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
 | **[DXP Enterprises, Inc.](http://www.dxpe.com)** | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/6a05214dbc4184089f24318d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 13 |
@@ -109,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Northeast Alternatives](https://www.nealternatives.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04afe222395b6dc6d9fc2c?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | May 13 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Arizona State University, Tempe Campus](https://jobright.ai/jobs/info/6a04abc36c07461fe170fa0a?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 13 |
 | **[Town of Erie](https://www.erieco.gov)** | **[Human Resources Intern (85186)](https://jobright.ai/jobs/info/6a04ab8822395b6dc6d9f9ee?utm_campaign=1054&utm_source=git)** | Town Hall - Erie, CO 80516 | Hybrid | May 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69e6d5299b6eb37e26f82337?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 13 |
 | **[Passion Dental Group](https://pdgcanada.ca)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a04a882f811a0436960d51b?utm_campaign=1054&utm_source=git)** | 855 42 Ave SE, Calgary, AB T2G 1Y9, Canada | On Site | May 13 |
 | **[Mobile Communications America](http://callmc.com)** | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/69782f9239f7f96cc6d0776f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | May 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a04a72522395b6dc6d9f63c?utm_campaign=1054&utm_source=git)** | 645 Holbrook Street, 80516, Erie, CO | Hybrid | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[People & Culture / Operations Intern](https://jobright.ai/jobs/info/6a03791c6c07461fe170457b?utm_campaign=1054&utm_source=git)** | Washington,DC,US | Hybrid | May 12 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a037897ed6a637463f50307?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 12 |
 | **[DSPolitical](https://www.dspolitical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0378506c07461fe170452d?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | May 12 |
-| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a03782d6c07461fe17044a0?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 12 |
-| **[Mobile Communications America](http://callmc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0372706c07461fe1703ebb?utm_campaign=1054&utm_source=git)** | Spartanburg, SC, US | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
