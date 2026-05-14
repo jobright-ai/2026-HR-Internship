@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Human Resources Intern - Cranberry Township, PA](https://jobright.ai/jobs/info/69ce4a3c54f00230c6cfdffc?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | May 14 |
+| **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | May 14 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e270a6e09555303cd3b?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | May 14 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 14 |
-| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
-| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
+| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
+| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
 | **[Steel King Industries, Inc.](http://steelking.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a058dc3fbf3d169d3c5fd01?utm_campaign=1054&utm_source=git)** | Stevens Point, WI 54481, USA | On Site | May 14 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6a056bf26c07461fe17162f3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
 | **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a0569f47c753c287f6f909e?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | May 13 |
@@ -70,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a054308fbf3d169d3c5da91?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Human Resources Generalist Internship](https://jobright.ai/jobs/info/6a05694af3d6cc51d6388d41?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | May 13 |
 | **[SAP Taulia](https://taulia.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69d2f6920b098b7a6708b5a5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 13 |
-| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Talent Acquisition Intern (Temporary)](https://jobright.ai/jobs/info/6a0528506c07461fe171442f?utm_campaign=1054&utm_source=git)** | North Mankato, MN | On Site | May 13 |
+| **[Taylor Corporation](https://www.taylor.com/)** | **[Talent Acquisition Intern (Temporary)](https://jobright.ai/jobs/info/6a0528506c07461fe171442f?utm_campaign=1054&utm_source=git)** | North Mankato, MN | On Site | May 13 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern-Volunteer)](https://jobright.ai/jobs/info/6a052160bc4184089f2431d3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
 | **[DXP Enterprises, Inc.](http://www.dxpe.com)** | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/6a05214dbc4184089f24318d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 13 |
 | **[California FAIR Plan Association](https://www.cfpnet.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6a051e6ff3d6cc51d6386cfc?utm_campaign=1054&utm_source=git)** | REMOTE-United States | Remote | May 13 |
@@ -89,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a04fb14bc4184089f2418c4?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | May 13 |
 | **[Triad Partners](https://triadpartners.com)** | **[Case Planning Intern](https://jobright.ai/jobs/info/6a04f96bf3d6cc51d6384f85?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | May 13 |
 | **[Iterative Health](https://iterative.health)** | **[Research Intern](https://jobright.ai/jobs/info/6a0572747c753c287f6f9515?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | May 13 |
-| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Talent Acquisition Intern (Temporary)](https://jobright.ai/jobs/info/6a04f6287c753c287f6f5063?utm_campaign=1054&utm_source=git)** | North Mankato, MN - Taylor Corporation, US | On Site | May 13 |
+| **[Taylor Corporation](https://www.taylor.com/)** | **[Talent Acquisition Intern (Temporary)](https://jobright.ai/jobs/info/6a04f6287c753c287f6f5063?utm_campaign=1054&utm_source=git)** | North Mankato, MN - Taylor Corporation, US | On Site | May 13 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[HR Digital Solutions Intern](https://jobright.ai/jobs/info/6a04f447f3d6cc51d6384a7e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6a04f294bc4184089f240ebc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/6a04f2526c07461fe17120ce?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Astera Labs](https://www.asteralabs.com)** | **[HR Systems and Program Management Intern (2026)](https://jobright.ai/jobs/info/6a03b4bc22395b6dc6d97611?utm_campaign=1054&utm_source=git)** | San Jose, California, United States | On Site | May 12 |
 | ↳ | **[HR Systems and Program Management Intern (2026)](https://jobright.ai/jobs/info/6a03cd2b8ecfd93cd9c11c92?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a03abfa8ecfd93cd9c10c2d?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | May 12 |
-| **[Nightingale Education Group](https://nightingaleeducationgroup.com)** | **[Recruiting Intern (Part-time)](https://jobright.ai/jobs/info/6a03aa7722395b6dc6d96f78?utm_campaign=1054&utm_source=git)** | United States | Remote | May 12 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Global Workforce Communications Paid Intern](https://jobright.ai/jobs/info/6a03a912f3d6cc51d6378ce3?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
