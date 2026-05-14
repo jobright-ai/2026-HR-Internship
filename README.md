@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascentria Care Alliance](https://www.ascentria.org/)** | **[Advancement/Development Intern](https://jobright.ai/jobs/info/6a05c5c9a88ea73abf7f3776?utm_campaign=1054&utm_source=git)** | Worcester, Massachusetts, United States | On Site | May 14 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Human Resources Intern - Cranberry Township, PA](https://jobright.ai/jobs/info/69ce4a3c54f00230c6cfdffc?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | May 14 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | May 14 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e270a6e09555303cd3b?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | May 14 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 14 |
-| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
-| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
+| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
+| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
 | **[Steel King Industries, Inc.](http://steelking.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a058dc3fbf3d169d3c5fd01?utm_campaign=1054&utm_source=git)** | Stevens Point, WI 54481, USA | On Site | May 14 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6a056bf26c07461fe17162f3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
 | **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a0569f47c753c287f6f909e?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6a03b5478ecfd93cd9c11216?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | On Site | May 12 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[HR Systems and Program Management Intern (2026)](https://jobright.ai/jobs/info/6a03b4bc22395b6dc6d97611?utm_campaign=1054&utm_source=git)** | San Jose, California, United States | On Site | May 12 |
 | ↳ | **[HR Systems and Program Management Intern (2026)](https://jobright.ai/jobs/info/6a03cd2b8ecfd93cd9c11c92?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 12 |
-| **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a03abfa8ecfd93cd9c10c2d?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
