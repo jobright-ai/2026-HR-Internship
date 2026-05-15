@@ -120,7 +120,9 @@ For a complete list, click the following sortable link below:
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[HR Intern - 10 Week Summer Internship](https://jobright.ai/jobs/info/6a060c24a88ea73abf7f6861?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | May 14 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/6a060c00a88ea73abf7f67aa?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 14 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Learning & Development, Human Resources](https://jobright.ai/jobs/info/6a0607a8bc4184089f24a291?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | May 14 |
-| **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a063b97bc4184089f24d38d?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | May 14 |
+| **[Legends Global](http://legends.net)** | **[Human Resource Intern / Highmark Stadium](https://jobright.ai/jobs/info/6a06d7e633c2ed3770bc9996?utm_campaign=1054&utm_source=git)** | Orchard Park, NY | On Site | May 14 |
+| **[Amcor](http://www.amcor.com/)** | **[HR Intern (College Student) - Part-Time](https://jobright.ai/jobs/info/6a06d6e34f290f7450ea3888?utm_campaign=1054&utm_source=git)** | Madisonville, KY | On Site | May 14 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a063b97bc4184089f24d38d?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | May 14 |
 | ↳ | **[Human Resources Intern - Airport Warehouse](https://jobright.ai/jobs/info/6a063bbaf3d6cc51d6391480?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | May 14 |
 | **[Continental Dairy Facilities Southwest, LLC](http://cdfswllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a063fbfa88ea73abf7f98c0?utm_campaign=1054&utm_source=git)** | Littlefield, TX | On Site | May 14 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a06365cbc4184089f24cef3?utm_campaign=1054&utm_source=git)** | Colorado, United States | Hybrid | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
 | ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
 | **[Steel King Industries, Inc.](http://steelking.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a058dc3fbf3d169d3c5fd01?utm_campaign=1054&utm_source=git)** | Stevens Point, WI 54481, USA | On Site | May 14 |
-| **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6a056bf26c07461fe17162f3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
-| **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a0569f47c753c287f6f909e?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
