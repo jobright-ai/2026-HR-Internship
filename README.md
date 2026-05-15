@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[XLA](http://www.xla.com/)** | **[Cross-Functional Intern](https://jobright.ai/jobs/info/69f8e60d81706a5bd216eae8?utm_campaign=1054&utm_source=git)** | Washington, D.C. | Hybrid | May 15 |
+| ↳ | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a06ea5b38dbee7915cf773a?utm_campaign=1054&utm_source=git)** | Virgina | Hybrid | May 15 |
+| **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 15 |
+| **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Stage Coordonnateur.trice Talent et culture (H/F/D)](https://jobright.ai/jobs/info/6a06e8a5b897ee41d283136c?utm_campaign=1054&utm_source=git)** | Mont-Tremblant, Quebec, Canada | On Site | May 15 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[General Intern (Worker's Compensation)](https://jobright.ai/jobs/info/6a06cba44f290f7450ea3625?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | May 15 |
 | **[Linde](https://www.linde.com/)** | **[HR Systems Intern](https://jobright.ai/jobs/info/6a06bed44f290f7450ea311b?utm_campaign=1054&utm_source=git)** | The Woodlands, TX | On Site | May 14 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/69efd63f16b2612c2a12be24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/69af610e6b21de023e608874?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | May 14 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e270a6e09555303cd3b?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | May 14 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 14 |
-| **[Enchantment Resort](https://www.enchantmentresort.com)** | **[Internship Opportunities (Current & Future, Temporary-Seasonal)](https://jobright.ai/jobs/info/69e6de50e0cd471b2f127b9b?utm_campaign=1054&utm_source=git)** | Irvington, VA | On Site | May 14 |
-| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
-| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
-| **[Steel King Industries, Inc.](http://steelking.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a058dc3fbf3d169d3c5fd01?utm_campaign=1054&utm_source=git)** | Stevens Point, WI 54481, USA | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
