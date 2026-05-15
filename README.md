@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a068cb2bc4184089f2505ac?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 14 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/69efd63f16b2612c2a12be24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Waldorf Astoria Beverly Hills](http://www.WaldorfAstoriaBeverlyHills.com)** | **[Human Resources Intern (Temporary) - Waldorf Astoria Beverly Hills](https://jobright.ai/jobs/info/6a0679eca88ea73abf7fc135?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | May 14 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a067185bc4184089f24fb66?utm_campaign=1054&utm_source=git)** | Southlake, TX | Hybrid | May 14 |
@@ -152,9 +151,10 @@ For a complete list, click the following sortable link below:
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e270a6e09555303cd3b?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | May 14 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 14 |
 | **[Enchantment Resort](https://www.enchantmentresort.com)** | **[Internship Opportunities (Current & Future, Temporary-Seasonal)](https://jobright.ai/jobs/info/69e6de50e0cd471b2f127b9b?utm_campaign=1054&utm_source=git)** | Irvington, VA | On Site | May 14 |
-| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
-| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
+| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
+| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
 | **[Steel King Industries, Inc.](http://steelking.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a058dc3fbf3d169d3c5fd01?utm_campaign=1054&utm_source=git)** | Stevens Point, WI 54481, USA | On Site | May 14 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6a056bf26c07461fe17162f3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
 | **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a0569f47c753c287f6f909e?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | May 13 |
+| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a05566dbc4184089f24492b?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
