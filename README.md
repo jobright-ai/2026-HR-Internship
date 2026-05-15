@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JD.COM](http://corporate.jd.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a065e1e7c753c287f702bcd?utm_campaign=1054&utm_source=git)** | Fontana, CA | On Site | May 14 |
+| **[Ascentria Care Alliance](https://www.ascentria.org/)** | **[Advancement/Development Intern](https://jobright.ai/jobs/info/6a065aeda88ea73abf7fb288?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | May 14 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a065ac7320bff2205eabf82?utm_campaign=1054&utm_source=git)** | Bunnell, FL | On Site | May 14 |
+| **[Museum of Fine Arts, Houston](https://www.mfah.org)** | **[Volunteer Services Intern](https://jobright.ai/jobs/info/6a065abc320bff2205eabf47?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 14 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a065aa5320bff2205eabec8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 14 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a065a7df3d6cc51d6392d63?utm_campaign=1054&utm_source=git)** | Eaton, OH | On Site | May 14 |
+| ↳ | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a065779f3d6cc51d6392add?utm_campaign=1054&utm_source=git)** | Metamora, OH | On Site | May 14 |
+| ↳ | **[Intern HR](https://jobright.ai/jobs/info/6a06572bbc4184089f24ec1d?utm_campaign=1054&utm_source=git)** | Mineral Wells, TX | On Site | May 14 |
+| **[Airshare Careers](https://careers.flyairshare.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a065718bc4184089f24ebaa?utm_campaign=1054&utm_source=git)** | Leawood, KS | On Site | May 14 |
 | **[Peckham, Inc.](https://www.peckham.org/)** | **[GO Intern](https://jobright.ai/jobs/info/6a064e11a88ea73abf7fa633?utm_campaign=1054&utm_source=git)** | Flint, MI | On Site | May 14 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Recruitment Analyst Intern](https://jobright.ai/jobs/info/6a064dae6c07461fe171efe5?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | May 14 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern](https://jobright.ai/jobs/info/6a064da67c753c287f701dd4?utm_campaign=1054&utm_source=git)** | Waltham | On Site | May 14 |
@@ -72,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Airshare](https://www.flyairshare.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a06356f6c07461fe171dc67?utm_campaign=1054&utm_source=git)** | CHQ - Overland Park, KS 66211 | On Site | May 14 |
 | **[FMP (Federal Management Partners, LLC.)](http://fmpconsulting.com)** | **[IOS Summer Intern](https://jobright.ai/jobs/info/6a06354f6c07461fe171dc50?utm_campaign=1054&utm_source=git)** | FMP Consulting Headquarters - Arlington, VA 22206 | On Site | May 14 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/6a0633497c753c287f70079e?utm_campaign=1054&utm_source=git)** | Indiana, PA | On Site | May 14 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/6a0652b5bc4184089f24e805?utm_campaign=1054&utm_source=git)** | Simi Valley, CA | On Site | May 14 |
 | **[Bud Clary Auto Group](http://www.budclary.com)** | **[HR Summer 2026 Intern](https://jobright.ai/jobs/info/6a062e55a88ea73abf7f8a15?utm_campaign=1054&utm_source=git)** | Longview, WA | On Site | May 14 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern 2025 - 2026](https://jobright.ai/jobs/info/6a062e41bc4184089f24c522?utm_campaign=1054&utm_source=git)** | Wittmann, AZ | On Site | May 14 |
 | **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a064939bc4184089f24dd62?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 14 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TERMINAX](www.terminax.com)** | **[HR & Operations Intern (Bilingual Mandarin)](https://jobright.ai/jobs/info/6a051a9c6c07461fe1713e60?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | May 13 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Join Our Intern Talent Network](https://jobright.ai/jobs/info/6a051a8422395b6dc6da3f68?utm_campaign=1054&utm_source=git)** | Windsor Mill, MD 21244 | Hybrid | May 13 |
 | **[Any Hour Group](https://anyhourgroup.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a051a44f3d6cc51d63869fa?utm_campaign=1054&utm_source=git)** | Lindon, UT | Hybrid | May 13 |
-| **[Propel, Inc](https://www.propel.app/)** | **[Office & People Operations Intern (With Full-time Potential)](https://jobright.ai/jobs/info/6a064c56f3d6cc51d63920de?utm_campaign=1054&utm_source=git)** | Brooklyn, NYC | On Site | May 13 |
-| **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a050de3bc4184089f2424dd?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | On Site | May 13 |
-| **[Versant Media](https://versantmedia.com)** | **[Versant Academic Year Internships: Corporate Finance, Analytics & Human Resources](https://jobright.ai/jobs/info/6a050db74373b07358a399d9?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | Hybrid | May 13 |
-| ↳ | **[Versant Academic Year Internships: Corporate Finance, Analytics & Human Resources](https://jobright.ai/jobs/info/6a050db44373b07358a399cb?utm_campaign=1054&utm_source=git)** | Universal City, CA | Remote | May 13 |
-| **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[HR Systems Intern](https://jobright.ai/jobs/info/6a0509a4f3d6cc51d6386118?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | May 13 |
-| **[Smartly](http://smartly.io)** | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a0504f422395b6dc6da336c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 13 |
-| **[Radwell International](http://radwell.com)** | **[HR Summer Internship](https://jobright.ai/jobs/info/6a0504b07c753c287f6f6047?utm_campaign=1054&utm_source=git)** | Willingboro, NJ | On Site | May 13 |
-| **[American Dining Creations](http://www.adc-us.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0500114373b07358a39453?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | May 13 |
-| **[Versant Media](https://versantmedia.com)** | **[Versant Academic Year Internships: Corporate Finance, Analytics & Human Resources](https://jobright.ai/jobs/info/6a04ffaaf3d6cc51d6385be4?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 13 |
-| **[Linde](https://www.linde.com/)** | **[HR Systems Intern](https://jobright.ai/jobs/info/6a04fb5f7c753c287f6f5823?utm_campaign=1054&utm_source=git)** | The Woodlands, TX | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
