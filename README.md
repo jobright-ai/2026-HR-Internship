@@ -111,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Human Resources Intern - 2026](https://jobright.ai/jobs/info/6a061150bc4184089f24a890?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[HR Intern (Total Rewards)](https://jobright.ai/jobs/info/6a061141a88ea73abf7f6af5?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | May 14 |
 | **[Dematic](http://www.dematic.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/6a061140f3d6cc51d638e690?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | May 14 |
-| ↳ | **[HR Generalist Intern](https://jobright.ai/jobs/info/6a06112ba88ea73abf7f6a96?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 14 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern](https://jobright.ai/jobs/info/6a061123a88ea73abf7f6a64?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | May 14 |
 | **[UMB Bank](https://www.umb.com/)** | **[Intern - Retirement Planning](https://jobright.ai/jobs/info/69c2e364753c101b21564742?utm_campaign=1054&utm_source=git)** | Dubuque, IA | On Site | May 14 |
 | **[Amcor](http://www.amcor.com/)** | **[Intern](https://jobright.ai/jobs/info/6a060c4cf3d6cc51d638e38e?utm_campaign=1054&utm_source=git)** | Princeton, IN | On Site | May 14 |
@@ -151,10 +150,11 @@ For a complete list, click the following sortable link below:
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e270a6e09555303cd3b?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | May 14 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 14 |
 | **[Enchantment Resort](https://www.enchantmentresort.com)** | **[Internship Opportunities (Current & Future, Temporary-Seasonal)](https://jobright.ai/jobs/info/69e6de50e0cd471b2f127b9b?utm_campaign=1054&utm_source=git)** | Irvington, VA | On Site | May 14 |
-| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
-| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
+| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
+| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
 | **[Steel King Industries, Inc.](http://steelking.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a058dc3fbf3d169d3c5fd01?utm_campaign=1054&utm_source=git)** | Stevens Point, WI 54481, USA | On Site | May 14 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6a056bf26c07461fe17162f3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
 | **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a0569f47c753c287f6f909e?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | May 13 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a05566dbc4184089f24492b?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 13 |
+| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a05566abc4184089f244920?utm_campaign=1054&utm_source=git)** | US | Remote | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
