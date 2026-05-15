@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[General Intern (Worker's Compensation)](https://jobright.ai/jobs/info/6a06cba44f290f7450ea3625?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | May 15 |
+| **[Linde](https://www.linde.com/)** | **[HR Systems Intern](https://jobright.ai/jobs/info/6a06bed44f290f7450ea311b?utm_campaign=1054&utm_source=git)** | The Woodlands, TX | On Site | May 14 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/69efd63f16b2612c2a12be24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Waldorf Astoria Beverly Hills](http://www.WaldorfAstoriaBeverlyHills.com)** | **[Human Resources Intern (Temporary) - Waldorf Astoria Beverly Hills](https://jobright.ai/jobs/info/6a0679eca88ea73abf7fc135?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | May 14 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a067185bc4184089f24fb66?utm_campaign=1054&utm_source=git)** | Southlake, TX | Hybrid | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Steel King Industries, Inc.](http://steelking.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a058dc3fbf3d169d3c5fd01?utm_campaign=1054&utm_source=git)** | Stevens Point, WI 54481, USA | On Site | May 14 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6a056bf26c07461fe17162f3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
 | **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a0569f47c753c287f6f909e?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | May 13 |
-| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a05566dbc4184089f24492b?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 13 |
-| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a05566abc4184089f244920?utm_campaign=1054&utm_source=git)** | US | Remote | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
