@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Scion Group](http://thesciongroup.com)** | **[HR Summer Intern 2026](https://jobright.ai/jobs/info/69ef75310a6e09555305504d?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | May 15 |
+| ↳ | **[HR Summer Intern 2026](https://jobright.ai/jobs/info/6a06f47d4a0a6a7e7d81c932?utm_campaign=1054&utm_source=git)** | Corporate–Chicago | On Site | May 15 |
+| **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a04fb14bc4184089f2418c4?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | May 15 |
+| **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a0223ea3053db70a1174ade?utm_campaign=1054&utm_source=git)** | Somerville, MA | On Site | May 15 |
+| **[THE TUDOR GROUP](http://www.tudorfunds.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/6a06ee984f290f7450ea45eb?utm_campaign=1054&utm_source=git)** | Stamford | On Site | May 15 |
+| **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8615db861c42857c4a268?utm_campaign=1054&utm_source=git)** | Long Beach, California, United States | On Site | May 15 |
+| **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/69cadd41aa3c2c1995e31199?utm_campaign=1054&utm_source=git)** | El Segundo, California, United States | On Site | May 15 |
 | **[XLA](http://www.xla.com/)** | **[Cross-Functional Intern](https://jobright.ai/jobs/info/69f8e60d81706a5bd216eae8?utm_campaign=1054&utm_source=git)** | Washington, D.C. | Hybrid | May 15 |
 | ↳ | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a06ea5b38dbee7915cf773a?utm_campaign=1054&utm_source=git)** | Virgina | Hybrid | May 15 |
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - HR, Marketing & Operations](https://jobright.ai/jobs/info/6994fa32ce78e77b4fd90d3c?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | May 14 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship HR Advisor & Employability](https://jobright.ai/jobs/info/6a05d5f8a88ea73abf7f4013?utm_campaign=1054&utm_source=git)** | Headquarters International, NL | Hybrid | May 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b17a6e65de58104c708bff?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 14 |
-| **[Ascentria Care Alliance](https://www.ascentria.org/)** | **[Advancement/Development Intern](https://jobright.ai/jobs/info/6a05c5c9a88ea73abf7f3776?utm_campaign=1054&utm_source=git)** | Worcester, Massachusetts, United States | On Site | May 14 |
-| **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Human Resources Intern - Cranberry Township, PA](https://jobright.ai/jobs/info/69ce4a3c54f00230c6cfdffc?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | May 14 |
-| **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | May 14 |
-| **[UPS](http://www.ups.com)** | **[Masters Degree - HR Internship, Data Analytics Focus (Summer 2026)](https://jobright.ai/jobs/info/6a05d9a6f3d6cc51d638bd84?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 14 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/69af610e6b21de023e608874?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | May 14 |
-| **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e270a6e09555303cd3b?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | May 14 |
-| **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
