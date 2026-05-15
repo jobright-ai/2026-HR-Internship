@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Propel, Inc](https://www.propel.app/)** | **[Office & People Operations Intern (With Full-time Potential)](https://jobright.ai/jobs/info/6a06664d7c753c287f702f2c?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | May 14 |
+| **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a06655bbc4184089f24f2fa?utm_campaign=1054&utm_source=git)** | Garff Enterprises Corporate Office - Salt Lake City, UT, US | On Site | May 14 |
 | **[JD.COM](http://corporate.jd.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a065e1e7c753c287f702bcd?utm_campaign=1054&utm_source=git)** | Fontana, CA | On Site | May 14 |
 | **[Ascentria Care Alliance](https://www.ascentria.org/)** | **[Advancement/Development Intern](https://jobright.ai/jobs/info/6a065aeda88ea73abf7fb288?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | May 14 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a065ac7320bff2205eabf82?utm_campaign=1054&utm_source=git)** | Bunnell, FL | On Site | May 14 |
@@ -133,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[ParallelDots](http://www.paralleldots.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a05da6aa88ea73abf7f43c3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 14 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - HR, Marketing & Operations](https://jobright.ai/jobs/info/6994fa32ce78e77b4fd90d3c?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | May 14 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship HR Advisor & Employability](https://jobright.ai/jobs/info/6a05d5f8a88ea73abf7f4013?utm_campaign=1054&utm_source=git)** | Headquarters International, NL | Hybrid | May 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b17a6e65de58104c708bff?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 14 |
 | **[Ascentria Care Alliance](https://www.ascentria.org/)** | **[Advancement/Development Intern](https://jobright.ai/jobs/info/6a05c5c9a88ea73abf7f3776?utm_campaign=1054&utm_source=git)** | Worcester, Massachusetts, United States | On Site | May 14 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Human Resources Intern - Cranberry Township, PA](https://jobright.ai/jobs/info/69ce4a3c54f00230c6cfdffc?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | May 14 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | May 14 |
@@ -140,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/69af610e6b21de023e608874?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | May 14 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e270a6e09555303cd3b?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | May 14 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 14 |
-| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
-| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
+| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
+| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
 | **[Steel King Industries, Inc.](http://steelking.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a058dc3fbf3d169d3c5fd01?utm_campaign=1054&utm_source=git)** | Stevens Point, WI 54481, USA | On Site | May 14 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6a056bf26c07461fe17162f3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
 | **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a0569f47c753c287f6f909e?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DXP Enterprises, Inc.](http://www.dxpe.com)** | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/6a05214dbc4184089f24318d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 13 |
 | **[California FAIR Plan Association](https://www.cfpnet.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6a051e6ff3d6cc51d6386cfc?utm_campaign=1054&utm_source=git)** | REMOTE-United States | Remote | May 13 |
 | **[Language Bank](https://www.thelanguagebank.org/)** | **[Advancement/Development Intern](https://jobright.ai/jobs/info/6a05e8647c753c287f6fcda3?utm_campaign=1054&utm_source=git)** | Worcester, MA | Hybrid | May 13 |
-| **[TERMINAX](www.terminax.com)** | **[HR & Operations Intern (Bilingual Mandarin)](https://jobright.ai/jobs/info/6a051a9c6c07461fe1713e60?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | May 13 |
-| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Join Our Intern Talent Network](https://jobright.ai/jobs/info/6a051a8422395b6dc6da3f68?utm_campaign=1054&utm_source=git)** | Windsor Mill, MD 21244 | Hybrid | May 13 |
-| **[Any Hour Group](https://anyhourgroup.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a051a44f3d6cc51d63869fa?utm_campaign=1054&utm_source=git)** | Lindon, UT | Hybrid | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
