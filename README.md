@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/69efd63f16b2612c2a12be24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 14 |
+| **[Waldorf Astoria Beverly Hills](http://www.WaldorfAstoriaBeverlyHills.com)** | **[Human Resources Intern (Temporary) - Waldorf Astoria Beverly Hills](https://jobright.ai/jobs/info/6a0679eca88ea73abf7fc135?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | May 14 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a067185bc4184089f24fb66?utm_campaign=1054&utm_source=git)** | Southlake, TX | Hybrid | May 14 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Talent Services](https://jobright.ai/jobs/info/6a067004a88ea73abf7fbdcd?utm_campaign=1054&utm_source=git)** | Laurel, MD | On Site | May 14 |
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a066f12f3d6cc51d639395e?utm_campaign=1054&utm_source=git)** | SLC Metro Area | On Site | May 14 |
@@ -88,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Airshare](https://www.flyairshare.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a06356f6c07461fe171dc67?utm_campaign=1054&utm_source=git)** | CHQ - Overland Park, KS 66211 | On Site | May 14 |
 | **[FMP (Federal Management Partners, LLC.)](http://fmpconsulting.com)** | **[IOS Summer Intern](https://jobright.ai/jobs/info/6a06354f6c07461fe171dc50?utm_campaign=1054&utm_source=git)** | FMP Consulting Headquarters - Arlington, VA 22206 | On Site | May 14 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/6a0633497c753c287f70079e?utm_campaign=1054&utm_source=git)** | Indiana, PA | On Site | May 14 |
+| **[WeVision LLC](https://www.we.vision )** | **[Recruiter / HR Intern at WeVision Marketing Specialist](https://jobright.ai/jobs/info/6a0679b3320bff2205eacd8c?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | May 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/6a0652b5bc4184089f24e805?utm_campaign=1054&utm_source=git)** | Simi Valley, CA | On Site | May 14 |
 | **[Bud Clary Auto Group](http://www.budclary.com)** | **[HR Summer 2026 Intern](https://jobright.ai/jobs/info/6a062e55a88ea73abf7f8a15?utm_campaign=1054&utm_source=git)** | Longview, WA | On Site | May 14 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern 2025 - 2026](https://jobright.ai/jobs/info/6a062e41bc4184089f24c522?utm_campaign=1054&utm_source=git)** | Wittmann, AZ | On Site | May 14 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[HR Intern - 10 Week Summer Internship](https://jobright.ai/jobs/info/6a060c24a88ea73abf7f6861?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | May 14 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Intern](https://jobright.ai/jobs/info/6a060c00a88ea73abf7f67aa?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 14 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Learning & Development, Human Resources](https://jobright.ai/jobs/info/6a0607a8bc4184089f24a291?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | May 14 |
-| **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a06046aa88ea73abf7f63cf?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | May 14 |
 | **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a063b97bc4184089f24d38d?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | May 14 |
 | ↳ | **[Human Resources Intern - Airport Warehouse](https://jobright.ai/jobs/info/6a063bbaf3d6cc51d6391480?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | May 14 |
 | **[Continental Dairy Facilities Southwest, LLC](http://cdfswllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a063fbfa88ea73abf7f98c0?utm_campaign=1054&utm_source=git)** | Littlefield, TX | On Site | May 14 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/69af610e6b21de023e608874?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | May 14 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e270a6e09555303cd3b?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | May 14 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 14 |
-| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
-| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
+| **[Enchantment Resort](https://www.enchantmentresort.com)** | **[Internship Opportunities (Current & Future, Temporary-Seasonal)](https://jobright.ai/jobs/info/69e6de50e0cd471b2f127b9b?utm_campaign=1054&utm_source=git)** | Irvington, VA | On Site | May 14 |
+| **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0ca?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 14 |
+| ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a058e1c7c753c287f6fa0c9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 14 |
 | **[Steel King Industries, Inc.](http://steelking.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a058dc3fbf3d169d3c5fd01?utm_campaign=1054&utm_source=git)** | Stevens Point, WI 54481, USA | On Site | May 14 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6a056bf26c07461fe17162f3?utm_campaign=1054&utm_source=git)** | United States | Remote | May 13 |
 | **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a0569f47c753c287f6f909e?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | May 13 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a05566dbc4184089f24492b?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 13 |
-| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a05566abc4184089f244920?utm_campaign=1054&utm_source=git)** | US | Remote | May 13 |
-| **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a054308fbf3d169d3c5da91?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 13 |
-| **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Human Resources Generalist Internship](https://jobright.ai/jobs/info/6a05694af3d6cc51d6388d41?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
