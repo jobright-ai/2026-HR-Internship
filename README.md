@@ -79,10 +79,10 @@ For a complete list, click the following sortable link below:
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6364?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 16 |
 | ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6365?utm_campaign=1054&utm_source=git)** | US | Remote | May 16 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e836186f46859887308?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | May 16 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e726186f46859887288?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 16 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e726186f46859887289?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | May 16 |
-| **[MarketSource Inc.](http://www.marketsource.com/)** | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d58?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | May 16 |
-| ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d54?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | May 16 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e726186f46859887288?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 16 |
+| **[MarketSource Inc.](http://www.marketsource.com/)** | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d54?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | May 16 |
+| ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d58?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | May 16 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc7?utm_campaign=1054&utm_source=git)** | Decatur, GA, US | Hybrid | May 16 |
 | ↳ | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc8?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | May 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a084d046186f46859886f0f?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 16 |
