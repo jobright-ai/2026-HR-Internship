@@ -74,10 +74,10 @@ For a complete list, click the following sortable link below:
 | **[NASCO](http://www.nasco.com)** | **[HR Intern, (Summer, Remote, Graduate Level Preferred)](https://jobright.ai/jobs/info/6a084fff8f3e371eb617f432?utm_campaign=1054&utm_source=git)** | US-Home Office/ Remote | Remote | May 16 |
 | **[Wellpath](https://wellpathcare.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a084f9e403fc339507eccba?utm_campaign=1054&utm_source=git)** | Franklin, TN, US | On Site | May 16 |
 | ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6a078b7b403fc339507e5d66?utm_campaign=1054&utm_source=git)** | TN, Franklin | On Site | May 16 |
-| **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656c?utm_campaign=1054&utm_source=git)** | US-VA-Chantilly | On Site | May 16 |
-| ↳ | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656d?utm_campaign=1054&utm_source=git)** | Chantilly, VA, US | On Site | May 16 |
-| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6365?utm_campaign=1054&utm_source=git)** | US | Remote | May 16 |
-| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6364?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 16 |
+| **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656d?utm_campaign=1054&utm_source=git)** | Chantilly, VA, US | On Site | May 16 |
+| ↳ | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656c?utm_campaign=1054&utm_source=git)** | US-VA-Chantilly | On Site | May 16 |
+| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6364?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 16 |
+| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6365?utm_campaign=1054&utm_source=git)** | US | Remote | May 16 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e836186f46859887308?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | May 16 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e726186f46859887289?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | May 16 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e726186f46859887288?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 16 |
@@ -120,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Iterative Health](https://iterative.health)** | **[Research Intern](https://jobright.ai/jobs/info/6a0778da403fc339507e4ff3?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | May 15 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a0757c9a203b1052e439bff?utm_campaign=1054&utm_source=git)** | United States | Remote | May 15 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69eb41f17820c036924f2714?utm_campaign=1054&utm_source=git)** | Bedford, NH | On Site | May 15 |
-| **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Benefits and Total Rewards Intern](https://jobright.ai/jobs/info/69eba2000a6e095553049275?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | May 15 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Retirement Actuarial Internship – (Fall 2026) – Toronto](https://jobright.ai/jobs/info/6a0755ff3b54ed42d74cc81a?utm_campaign=1054&utm_source=git)** | 130 King Street West, Toronto, TORONTO, M5X 1E3, CA | On Site | May 15 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Supervisor Trainee Internship Fall 2026](https://jobright.ai/jobs/info/697aa5409d60e431a16c3c4d?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | May 15 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/69eb66df58811370cb1392bb?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | May 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Centrum Health](https://centrumhealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a07021f9f57175bd581e258?utm_campaign=1054&utm_source=git)** | St. Louis Park | Hybrid | May 15 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69f3dc811f90bd6ae23d2470?utm_campaign=1054&utm_source=git)** | St. Louis Park, Minnesota, United States | Hybrid | May 15 |
 | **[Liberate](https://www.liberateinc.com/)** | **[Summer Internships - Expression of interest](https://jobright.ai/jobs/info/6993b59de0bddb6acac1fe25?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 15 |
+| **[Innovid](https://www.innovid.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/6a07015d9f57175bd581ddbd?utm_campaign=1054&utm_source=git)** | New York | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
