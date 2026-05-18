@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D&H Industries](https://dhmetalstamping.com)** | **[Human Resources Intern-Recruiting](https://jobright.ai/jobs/info/6a0b7d66963f7a67d95d0750?utm_campaign=1054&utm_source=git)** | Oconomowoc,WI,US | On Site | May 18 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
+| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
+| **[After School Matters](http://www.afterschoolmatters.org/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a0b7b6622d0d34036c8cda9?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 18 |
 | **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b74904d932036368712b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 18 |
 | **[Jamco Interiors](https://www.jamco-america.com)** | **[HR & Marketing Intern](https://jobright.ai/jobs/info/6a0b7452963f7a67d95cfefc?utm_campaign=1054&utm_source=git)** | Everett, WA | On Site | May 18 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/6a0b72ea0411d7417a1b0eb7?utm_campaign=1054&utm_source=git)** | San Francisco - Embarcadero, US | Hybrid | May 18 |
@@ -103,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Artemax, Inc.](https://www.artemax.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0ac3e53b54ed42d74e17db?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | May 18 |
 | **[Texas Tech University](http://www.depts.ttu.edu/icfie/)** | **[Temporary Worker - ACUHO-I Intern](https://jobright.ai/jobs/info/6a0ab5a2403fc339507f80ee?utm_campaign=1054&utm_source=git)** | Lubbock | On Site | May 17 |
 | **[Sparton](http://www.sparton.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6a0a9aac3b54ed42d74e0d67?utm_campaign=1054&utm_source=git)** | 5612 Johnson Lake Rd., De Leon Springs, FL | On Site | May 17 |
+| **[Aegis Aerospace Inc.](https://aegisaero.com/)** | **[DoD SkillBridge Internship – Talent Acquisition/ Recruiting](https://jobright.ai/jobs/info/6a0b86b94d93203636871ff1?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | May 17 |
 | **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/6a0a47b73b54ed42d74df70d?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | May 17 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0a2eab403fc339507f5863?utm_campaign=1054&utm_source=git)** | US-CA-Chino | On Site | May 17 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0a2ea8403fc339507f5862?utm_campaign=1054&utm_source=git)** | Chino, CA, US | On Site | May 17 |
@@ -132,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[M&J Engineering](https://mjengineers.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f4a0?utm_campaign=1054&utm_source=git)** | US-NY-New Hyde Park | On Site | May 16 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f49e?utm_campaign=1054&utm_source=git)** | New Hyde Park, NY, US | On Site | May 16 |
 | **[NASCO](http://www.nasco.com)** | **[HR Intern, (Summer, Remote, Graduate Level Preferred)](https://jobright.ai/jobs/info/6a084fff8f3e371eb617f432?utm_campaign=1054&utm_source=git)** | US-Home Office/ Remote | Remote | May 16 |
-| **[Wellpath](https://wellpathcare.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a078b7b403fc339507e5d66?utm_campaign=1054&utm_source=git)** | TN, Franklin | On Site | May 16 |
-| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6a084f9e403fc339507eccba?utm_campaign=1054&utm_source=git)** | Franklin, TN, US | On Site | May 16 |
+| **[Wellpath](https://wellpathcare.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a084f9e403fc339507eccba?utm_campaign=1054&utm_source=git)** | Franklin, TN, US | On Site | May 16 |
+| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6a078b7b403fc339507e5d66?utm_campaign=1054&utm_source=git)** | TN, Franklin | On Site | May 16 |
 | **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656d?utm_campaign=1054&utm_source=git)** | Chantilly, VA, US | On Site | May 16 |
 | ↳ | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656c?utm_campaign=1054&utm_source=git)** | US-VA-Chantilly | On Site | May 16 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6365?utm_campaign=1054&utm_source=git)** | US | Remote | May 16 |
@@ -141,10 +146,10 @@ For a complete list, click the following sortable link below:
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e836186f46859887308?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | May 16 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e726186f46859887288?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 16 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e726186f46859887289?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | May 16 |
-| **[MarketSource Inc.](http://www.marketsource.com/)** | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d54?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | May 16 |
-| ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d58?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | May 16 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc7?utm_campaign=1054&utm_source=git)** | Decatur, GA, US | Hybrid | May 16 |
-| ↳ | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc8?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | May 16 |
+| **[MarketSource Inc.](http://www.marketsource.com/)** | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d58?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | May 16 |
+| ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d54?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | May 16 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc8?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | May 16 |
+| ↳ | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc7?utm_campaign=1054&utm_source=git)** | Decatur, GA, US | Hybrid | May 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a084d046186f46859886f0f?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Career Development](https://jobright.ai/jobs/info/6a0848fc6186f46859886d51?utm_campaign=1054&utm_source=git)** | 350 North Humphreys Boulevard, Memphis, TN, 38120, US | On Site | May 16 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6a07fe98a203b1052e44076c?utm_campaign=1054&utm_source=git)** | Pryor, OK, USA, US | On Site | May 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carter Hospitality Group, LLC](https://www.carterhospitality.com)** | **[Summer Human Resources Internship (Unpaid)](https://jobright.ai/jobs/info/6a08019fa203b1052e4408f5?utm_campaign=1054&utm_source=git)** | Johnson City, TX | On Site | May 15 |
 | **[Tesla](https://www.tesla.com)** | **[Internship Recruiter, North America Internship Team](https://jobright.ai/jobs/info/6a07d164939a5f01db953e89?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Part-Time Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/6a07ceef6186f46859882fe8?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | May 15 |
-| **[InComm Payments](https://www.incomm.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a07c955a203b1052e43e9b8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 15 |
-| **[Carter Creek Winery Resort & Spa](https://www.cartercreek.com)** | **[Summer Human Resources Internship (Unpaid)](https://jobright.ai/jobs/info/6a07c14b6186f46859882b61?utm_campaign=1054&utm_source=git)** | Johnson City, TX | On Site | May 15 |
-| **[SERVPRO of Saginaw /  Bay City](https://www.servprosaginawbaycity.com/)** | **[Summer Human Resources Internship (Unpaid)](https://jobright.ai/jobs/info/6a07bb488f3e371eb6179fc2?utm_campaign=1054&utm_source=git)** | Johnson City, TX, US | On Site | May 15 |
-| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a07a4f4a203b1052e43d82c?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | May 15 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[HR Shared Services - Undergrad Intern](https://jobright.ai/jobs/info/6a079b4d3b54ed42d74d04a4?utm_campaign=1054&utm_source=git)** | San Mateo, California, United States of America | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
