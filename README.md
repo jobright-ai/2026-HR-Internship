@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jamco Interiors](https://www.jamco-america.com)** | **[HR & Marketing Intern](https://jobright.ai/jobs/info/6a0b407e22d0d34036c89fc9?utm_campaign=1054&utm_source=git)** | Everett, WA, US | On Site | May 18 |
+| **[Triad Partners](https://triadpartners.com)** | **[Summer Intern - Advisor Engagement & Recruitment](https://jobright.ai/jobs/info/6a0b3f64a235d749afa83213?utm_campaign=1054&utm_source=git)** | Lawrence, KS | Hybrid | May 18 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Retirement Program, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0b3bf10411d7417a1ae5f4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 18 |
+| ↳ | **[Exam Development Unit, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0b3bec4d9320363686e874?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | May 18 |
+| **[Yokogawa](https://www.yokogawa.com/jp-yfd)** | **[HR SUMMER INTERN](https://jobright.ai/jobs/info/6a0b39b8963f7a67d95cd1f3?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | May 18 |
+| **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Internship - Corporate Strategy](https://jobright.ai/jobs/info/6a0b39a24d9320363686e58e?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | May 18 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Paid Internship (Multiple Divisions)](https://jobright.ai/jobs/info/6a0b30e2538d03366dc82914?utm_campaign=1054&utm_source=git)** | Hudson Vicinage, 595 Newark Avenue, Jersey City, NJ | On Site | May 18 |
-| **[Amentum](https://www.amentum.com/)** | **[Human Resources And Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0b2f7222d0d34036c894a0?utm_campaign=1054&utm_source=git)** | United States | Remote | May 18 |
 | **[Alliant Corporation](http://alliantcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b2f3f4d9320363686e201?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | May 18 |
 | **[Streamworks](https://streamworksmn.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b2ef722d0d34036c893ec?utm_campaign=1054&utm_source=git)** | Blaine, MN, US | On Site | May 18 |
 | **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[HR Internship 26' – Generalist and Business Partnering](https://jobright.ai/jobs/info/6a0b2a76a235d749afa823a9?utm_campaign=1054&utm_source=git)** | AIR Office, NL | On Site | May 18 |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0b2a3022d0d34036c8918d?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 18 |
 | **[ECRI](https://www.ecri.org/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a0b2610538d03366dc82259?utm_campaign=1054&utm_source=git)** | Plymouth Meeting, PA | Remote | May 18 |
 | **[KBC A Yokogawa Company](https://www.kbc.global/)** | **[HR SUMMER INTERN](https://jobright.ai/jobs/info/6a0b1bde22d0d34036c88737?utm_campaign=1054&utm_source=git)** | Sugar Land, US | On Site | May 18 |
 | **[Iterative Health](https://iterative.health)** | **[Research Intern](https://jobright.ai/jobs/info/6a0778da403fc339507e4ff3?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | May 18 |
@@ -104,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[M&J Engineering](https://mjengineers.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f49e?utm_campaign=1054&utm_source=git)** | New Hyde Park, NY, US | On Site | May 16 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f4a0?utm_campaign=1054&utm_source=git)** | US-NY-New Hyde Park | On Site | May 16 |
 | **[NASCO](http://www.nasco.com)** | **[HR Intern, (Summer, Remote, Graduate Level Preferred)](https://jobright.ai/jobs/info/6a084fff8f3e371eb617f432?utm_campaign=1054&utm_source=git)** | US-Home Office/ Remote | Remote | May 16 |
-| **[Wellpath](https://wellpathcare.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a078b7b403fc339507e5d66?utm_campaign=1054&utm_source=git)** | TN, Franklin | On Site | May 16 |
-| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6a084f9e403fc339507eccba?utm_campaign=1054&utm_source=git)** | Franklin, TN, US | On Site | May 16 |
+| **[Wellpath](https://wellpathcare.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a084f9e403fc339507eccba?utm_campaign=1054&utm_source=git)** | Franklin, TN, US | On Site | May 16 |
+| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6a078b7b403fc339507e5d66?utm_campaign=1054&utm_source=git)** | TN, Franklin | On Site | May 16 |
 | **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656d?utm_campaign=1054&utm_source=git)** | Chantilly, VA, US | On Site | May 16 |
 | ↳ | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656c?utm_campaign=1054&utm_source=git)** | US-VA-Chantilly | On Site | May 16 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6365?utm_campaign=1054&utm_source=git)** | US | Remote | May 16 |
@@ -113,10 +117,10 @@ For a complete list, click the following sortable link below:
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e836186f46859887308?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | May 16 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e726186f46859887288?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 16 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e726186f46859887289?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | May 16 |
-| **[MarketSource Inc.](http://www.marketsource.com/)** | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d54?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | May 16 |
-| ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d58?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | May 16 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc8?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | May 16 |
-| ↳ | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc7?utm_campaign=1054&utm_source=git)** | Decatur, GA, US | Hybrid | May 16 |
+| **[MarketSource Inc.](http://www.marketsource.com/)** | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d58?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | May 16 |
+| ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d54?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | May 16 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc7?utm_campaign=1054&utm_source=git)** | Decatur, GA, US | Hybrid | May 16 |
+| ↳ | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc8?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | May 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a084d046186f46859886f0f?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Career Development](https://jobright.ai/jobs/info/6a0848fc6186f46859886d51?utm_campaign=1054&utm_source=git)** | 350 North Humphreys Boulevard, Memphis, TN, 38120, US | On Site | May 16 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6a07fe98a203b1052e44076c?utm_campaign=1054&utm_source=git)** | Pryor, OK, USA, US | On Site | May 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/69eb66df58811370cb1392bb?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | May 15 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[HR Intern](https://jobright.ai/jobs/info/6a074e866186f4685987d16b?utm_campaign=1054&utm_source=git)** | Manhattan, NY, 10001, United States | On Site | May 15 |
 | **[EHTC](https://www.ehtc.com)** | **[EHTC Internship General Consideration Resumes](https://jobright.ai/jobs/info/6a074dfe939a5f01db94e27f?utm_campaign=1054&utm_source=git)** | Ada,MI,US | On Site | May 15 |
-| **[National MS Society](http://www.nationalmssociety.org)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a07375f3b54ed42d74cb6af?utm_campaign=1054&utm_source=git)** | Flexible, US | Hybrid | May 15 |
-| **[Chatham Financial](https://cf.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/69eb5f600a6e095553046e72?utm_campaign=1054&utm_source=git)** | Kennett Square, PA | On Site | May 15 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/6a0734c88f3e371eb6174a39?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | May 15 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Westchester County, NY](https://jobright.ai/jobs/info/69eb56badc35f7132c4afddc?utm_campaign=1054&utm_source=git)** | New Rochelle, NY | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
