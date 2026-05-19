@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[Internship 26'- HR: Employer Branding & Social Media](https://jobright.ai/jobs/info/6a0c0b6422d0d34036c9126c?utm_campaign=1054&utm_source=git)** | AIR Office, NL | On Site | May 19 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[HR Intern - US](https://jobright.ai/jobs/info/69faf6f4e1560008411555da?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
 | **[Amivero](https://amivero.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a0bf7f8963f7a67d95d4263?utm_campaign=1054&utm_source=git)** | Reston, VA | On Site | May 18 |
 | **[Cider](https://shop.shopcider.com)** | **[Student Intern - Global Talent Recruitment & Administrative Support](https://jobright.ai/jobs/info/6a0bcca9963f7a67d95d3165?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b8bd2963f7a67d95d0f40?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
 | **[Coalesce Management Consulting](https://www.cmc-global.consulting)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/6a0b8b5ca235d749afa868b8?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[D&H Industries](https://dhmetalstamping.com)** | **[Human Resources Intern-Recruiting](https://jobright.ai/jobs/info/6a0b7d66963f7a67d95d0750?utm_campaign=1054&utm_source=git)** | Oconomowoc,WI,US | On Site | May 18 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
-| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
+| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a0b7b6622d0d34036c8cda9?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 18 |
 | **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b74904d932036368712b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 18 |
 | **[Jamco Interiors](https://www.jamco-america.com)** | **[HR & Marketing Intern](https://jobright.ai/jobs/info/6a0b7452963f7a67d95cfefc?utm_campaign=1054&utm_source=git)** | Everett, WA | On Site | May 18 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[M&J Engineering](https://mjengineers.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f4a0?utm_campaign=1054&utm_source=git)** | US-NY-New Hyde Park | On Site | May 16 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f49e?utm_campaign=1054&utm_source=git)** | New Hyde Park, NY, US | On Site | May 16 |
 | **[NASCO](http://www.nasco.com)** | **[HR Intern, (Summer, Remote, Graduate Level Preferred)](https://jobright.ai/jobs/info/6a084fff8f3e371eb617f432?utm_campaign=1054&utm_source=git)** | US-Home Office/ Remote | Remote | May 16 |
-| **[Wellpath](https://wellpathcare.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a084f9e403fc339507eccba?utm_campaign=1054&utm_source=git)** | Franklin, TN, US | On Site | May 16 |
-| ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6a078b7b403fc339507e5d66?utm_campaign=1054&utm_source=git)** | TN, Franklin | On Site | May 16 |
+| **[Wellpath](https://wellpathcare.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a078b7b403fc339507e5d66?utm_campaign=1054&utm_source=git)** | TN, Franklin | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
