@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creators United](https://www.cuagency.co/)** | **[Influencer Talent Management Internship](https://jobright.ai/jobs/info/6a0c8f7322d0d34036c95990?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | May 19 |
+| ↳ | **[Influencer Talent Management Internship](https://jobright.ai/jobs/info/6a0c8ec922d0d34036c95914?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 19 |
+| **[PMA Consultants](http://pmaconsultants.com)** | **[Internship  (00564)](https://jobright.ai/jobs/info/6a0c8bca0411d7417a1b99cf?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | May 19 |
+| **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship HR Advisor & Employability](https://jobright.ai/jobs/info/6a0c899722d0d34036c95364?utm_campaign=1054&utm_source=git)** | Headquarters International, NL | Hybrid | May 19 |
+| **[InComm Payments](https://www.incomm.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a07c955a203b1052e43e9b8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 19 |
+| **[OPmobility](https://www.opmobility.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef95d2fbe0994a40eb7208?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | May 19 |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Talent Acquisition Intern - Summer 2026 - Regional Office Based (Hybrid)](https://jobright.ai/jobs/info/69e29628be46fa3a4ef57cb7?utm_campaign=1054&utm_source=git)** | Plymouth, MN | Hybrid | May 19 |
 | **[Ayming](https://www.ayming.fr/)** | **[HR Intern (Summer Internship)](https://jobright.ai/jobs/info/6a0c7d540411d7417a1b920c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 19 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[HR and Recruitment Intern](https://jobright.ai/jobs/info/6a0c79a7538d03366dc8dc47?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 19 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics and Systems](https://jobright.ai/jobs/info/69ef85ec0a6e0955530559d3?utm_campaign=1054&utm_source=git)** | Columbia, MO | Hybrid | May 19 |
@@ -92,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b8bd2963f7a67d95d0f40?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
 | **[Coalesce Management Consulting](https://www.cmc-global.consulting)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/6a0b8b5ca235d749afa868b8?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[D&H Industries](https://dhmetalstamping.com)** | **[Human Resources Intern-Recruiting](https://jobright.ai/jobs/info/6a0b7d66963f7a67d95d0750?utm_campaign=1054&utm_source=git)** | Oconomowoc,WI,US | On Site | May 18 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
-| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
+| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a0b7b6622d0d34036c8cda9?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 18 |
 | **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b74904d932036368712b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 18 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/6a0b72ea0411d7417a1b0eb7?utm_campaign=1054&utm_source=git)** | San Francisco - Embarcadero, US | Hybrid | May 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[HR Intern – CI Talent & Internship Program Support Summer 2026](https://jobright.ai/jobs/info/69d06226cfdc6132f943ac96?utm_campaign=1054&utm_source=git)** | Cullman, AL | On Site | May 17 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | May 17 |
 | **[Highgate](https://www.highgate.com)** | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a099e8e939a5f01db95ee88?utm_campaign=1054&utm_source=git)** | Denver, CO, US | On Site | May 17 |
-| ↳ | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a099e8b939a5f01db95ee87?utm_campaign=1054&utm_source=git)** | US-CO-Denver | On Site | May 17 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[HR - Total Rewards - Corporate](https://jobright.ai/jobs/info/69d0c99ecfdc6132f943fb7a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | May 17 |
-| **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69b43f8706c1ba00c54574b7?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 16 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | May 16 |
-| **[Price Industries](https://www.priceindustries.com)** | **[Intern - Human Resources Generalist - Summer 2026](https://jobright.ai/jobs/info/69a3e865359fe034b1ced2a7?utm_campaign=1054&utm_source=git)** | Suwanee, GA | On Site | May 16 |
-| **[POM Wonderful](http://www.pomwonderful.com)** | **[Wonderful Scholar Summer Internship, Human Resources](https://jobright.ai/jobs/info/69cf20f6398fb071abf8c701?utm_campaign=1054&utm_source=git)** | Del Rey, CA | On Site | May 16 |
-| **[ID Logistics US](https://www.id-logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69d0f330cfdc6132f9440d3e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
