@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cantex](https://www.cantexcc.com)** | **[Human Resources (HR) internship (22080)](https://jobright.ai/jobs/info/69d3e37ae63cea7a8b654343?utm_campaign=1054&utm_source=git)** | Carrollton, TX | On Site | May 19 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Child Support - Central Region - Woburn location](https://jobright.ai/jobs/info/6a0c42c3a235d749afa8b12f?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Woburn-100 Trade Ctr Suite 760 | On Site | May 19 |
 | **[Digital Ally Inc.](http://digitalallyinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0c3fb14d932036368769f3?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | May 19 |
 | **[Compassus](https://www.compassus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0c3f2322d0d34036c92302?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | May 19 |
 | **[Triad Partners](https://triadpartners.com)** | **[Summer Intern - Advisor Engagement & Recruitment](https://jobright.ai/jobs/info/6a0c1efd963f7a67d95d4e25?utm_campaign=1054&utm_source=git)** | Lawrence, KS | Hybrid | May 19 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a0b7b6622d0d34036c8cda9?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 18 |
 | **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b74904d932036368712b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 18 |
-| **[Jamco Interiors](https://www.jamco-america.com)** | **[HR & Marketing Intern](https://jobright.ai/jobs/info/6a0b7452963f7a67d95cfefc?utm_campaign=1054&utm_source=git)** | Everett, WA | On Site | May 18 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/6a0b72ea0411d7417a1b0eb7?utm_campaign=1054&utm_source=git)** | San Francisco - Embarcadero, US | Hybrid | May 18 |
 | ↳ | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/6a0b72e50411d7417a1b0eaf?utm_campaign=1054&utm_source=git)** | New York - 1166, US | Hybrid | May 18 |
 | ↳ | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/6a0b72e40411d7417a1b0ead?utm_campaign=1054&utm_source=git)** | Chicago - 155 Wacker, US | Hybrid | May 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b478d33b74eb1e2c81cc6b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | May 16 |
 | **[SERVPRO of Saginaw /  Bay City](https://www.servprosaginawbaycity.com/)** | **[Summer Human Resources Internship (Unpaid)](https://jobright.ai/jobs/info/6a085eee403fc339507ed969?utm_campaign=1054&utm_source=git)** | Johnson City, TX | On Site | May 16 |
 | **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/69b48e7006c1ba00c5460e34?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | May 16 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/69d20f72cdb525785fbb7e37?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
