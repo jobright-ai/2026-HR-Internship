@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Intern-Remote](https://jobright.ai/jobs/info/6a0bddbf0411d7417a1b4b62?utm_campaign=1054&utm_source=git)** | Gloucester, MA | Remote | May 18 |
 | **[Cider](https://shop.shopcider.com)** | **[Student Intern - Global Talent Recruitment & Administrative Support](https://jobright.ai/jobs/info/6a0bcca9963f7a67d95d3165?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
 | **[PROJXON](www.projxon.com)** | **[Recruiter Intern](https://jobright.ai/jobs/info/6a0bca53a235d749afa888d4?utm_campaign=1054&utm_source=git)** | United States | Remote | May 18 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0bb4d522d0d34036c8f323?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US, 98033 | On Site | May 18 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | May 18 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0bb4d522d0d34036c8f323?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US, 98033 | On Site | May 18 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0bb20e0411d7417a1b38de?utm_campaign=1054&utm_source=git)** | Nottingham, MD | On Site | May 18 |
 | **[Kekst CNC](https://www.kekstcnc.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0bab8c0411d7417a1b337d?utm_campaign=1054&utm_source=git)** | Chicago,Illinois,United States | Hybrid | May 18 |
 | **[CHAGEE USA](https://www.chagee.us/)** | **[HR Intern](https://jobright.ai/jobs/info/6a0ba54222d0d34036c8e844?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | May 18 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b8bd2963f7a67d95d0f40?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
 | **[Coalesce Management Consulting](https://www.cmc-global.consulting)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/6a0b8b5ca235d749afa868b8?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[D&H Industries](https://dhmetalstamping.com)** | **[Human Resources Intern-Recruiting](https://jobright.ai/jobs/info/6a0b7d66963f7a67d95d0750?utm_campaign=1054&utm_source=git)** | Oconomowoc,WI,US | On Site | May 18 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
-| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
+| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a0b7b6622d0d34036c8cda9?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 18 |
 | **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b74904d932036368712b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 18 |
 | **[Jamco Interiors](https://www.jamco-america.com)** | **[HR & Marketing Intern](https://jobright.ai/jobs/info/6a0b7452963f7a67d95cfefc?utm_campaign=1054&utm_source=git)** | Everett, WA | On Site | May 18 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/69b48e7006c1ba00c5460e34?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | May 16 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/69d20f72cdb525785fbb7e37?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | May 16 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a0850f2a203b1052e4437d8?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | May 16 |
-| **[M&J Engineering](https://mjengineers.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f4a0?utm_campaign=1054&utm_source=git)** | US-NY-New Hyde Park | On Site | May 16 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f49e?utm_campaign=1054&utm_source=git)** | New Hyde Park, NY, US | On Site | May 16 |
+| **[M&J Engineering](https://mjengineers.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f49e?utm_campaign=1054&utm_source=git)** | New Hyde Park, NY, US | On Site | May 16 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f4a0?utm_campaign=1054&utm_source=git)** | US-NY-New Hyde Park | On Site | May 16 |
 | **[NASCO](http://www.nasco.com)** | **[HR Intern, (Summer, Remote, Graduate Level Preferred)](https://jobright.ai/jobs/info/6a084fff8f3e371eb617f432?utm_campaign=1054&utm_source=git)** | US-Home Office/ Remote | Remote | May 16 |
 | **[Wellpath](https://wellpathcare.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a084f9e403fc339507eccba?utm_campaign=1054&utm_source=git)** | Franklin, TN, US | On Site | May 16 |
 | ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6a078b7b403fc339507e5d66?utm_campaign=1054&utm_source=git)** | TN, Franklin | On Site | May 16 |
-| **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656d?utm_campaign=1054&utm_source=git)** | Chantilly, VA, US | On Site | May 16 |
-| ↳ | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656c?utm_campaign=1054&utm_source=git)** | US-VA-Chantilly | On Site | May 16 |
-| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6365?utm_campaign=1054&utm_source=git)** | US | Remote | May 16 |
+| **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656c?utm_campaign=1054&utm_source=git)** | US-VA-Chantilly | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
