@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Retirement Program, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/6a0ba0674d93203636872e8e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 18 |
+| **[Kekst CNC](https://www.kekstcnc.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0bab8c0411d7417a1b337d?utm_campaign=1054&utm_source=git)** | Chicago,Illinois,United States | Hybrid | May 18 |
+| **[CHAGEE USA](https://www.chagee.us/)** | **[HR Intern](https://jobright.ai/jobs/info/6a0ba54222d0d34036c8e844?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | May 18 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Exam Development Unit, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0ba53b22d0d34036c8e840?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | May 18 |
+| ↳ | **[Retirement Program, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0ba4d40411d7417a1b30b3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 18 |
+| ↳ | **[Retirement Program, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/6a0ba0674d93203636872e8e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b99e50411d7417a1b2d37?utm_campaign=1054&utm_source=git)** | 2020 Convention Center Concourse, Atlanta, GA, 30337, US | On Site | May 18 |
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Human Resources Intern](https://jobright.ai/jobs/info/6a0b998e0411d7417a1b2ce2?utm_campaign=1054&utm_source=git)** | US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Human Resources Intern](https://jobright.ai/jobs/info/6a0b998b0411d7417a1b2ce1?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
@@ -110,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Alliant Corporation](http://alliantcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b2f3f4d9320363686e201?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | May 18 |
 | **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[HR Internship 26' – Generalist and Business Partnering](https://jobright.ai/jobs/info/6a0b2a76a235d749afa823a9?utm_campaign=1054&utm_source=git)** | AIR Office, NL | On Site | May 18 |
 | **[ECRI](https://www.ecri.org/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a0b2610538d03366dc82259?utm_campaign=1054&utm_source=git)** | Plymouth Meeting, PA | Remote | May 18 |
+| **[ClassDojo](https://www.classdojo.com)** | **[District Onboarding Manager (Contract, Remote)](https://jobright.ai/jobs/info/69cee9f9cfdc6132f942de22?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | May 18 |
 | **[KBC A Yokogawa Company](https://www.kbc.global/)** | **[HR SUMMER INTERN](https://jobright.ai/jobs/info/6a0b1bde22d0d34036c88737?utm_campaign=1054&utm_source=git)** | Sugar Land, US | On Site | May 18 |
 | **[Iterative Health](https://iterative.health)** | **[Research Intern](https://jobright.ai/jobs/info/6a0778da403fc339507e4ff3?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | May 18 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[UNV Human Resources Section-Capacity Development Intern-Remote](https://jobright.ai/jobs/info/6a0732788f3e371eb6174946?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | May 18 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6a084f9e403fc339507eccba?utm_campaign=1054&utm_source=git)** | Franklin, TN, US | On Site | May 16 |
 | **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656c?utm_campaign=1054&utm_source=git)** | US-VA-Chantilly | On Site | May 16 |
 | ↳ | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a084f753b54ed42d74d656d?utm_campaign=1054&utm_source=git)** | Chantilly, VA, US | On Site | May 16 |
-| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6364?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 16 |
-| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6365?utm_campaign=1054&utm_source=git)** | US | Remote | May 16 |
+| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6365?utm_campaign=1054&utm_source=git)** | US | Remote | May 16 |
+| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a084e893b54ed42d74d6364?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 16 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e836186f46859887308?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | May 16 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e726186f46859887289?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | May 16 |
-| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a084e726186f46859887288?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 16 |
-| **[MarketSource Inc.](http://www.marketsource.com/)** | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d54?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | May 16 |
-| ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d58?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | May 16 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc8?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
