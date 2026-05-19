@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thea Energy](https://www.thea.energy/)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/6a0c70b40411d7417a1b885b?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | May 19 |
 | **[Monk Industries](https://monkindustries.co/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0c5265538d03366dc8bdc0?utm_campaign=1054&utm_source=git)** | United States | Remote | May 19 |
 | **[Cantex](https://www.cantexcc.com)** | **[Human Resources (HR) internship (22080)](https://jobright.ai/jobs/info/69d3e37ae63cea7a8b654343?utm_campaign=1054&utm_source=git)** | Carrollton, TX | On Site | May 19 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Child Support - Central Region - Woburn location](https://jobright.ai/jobs/info/6a0c42c3a235d749afa8b12f?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Woburn-100 Trade Ctr Suite 760 | On Site | May 19 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b8bd2963f7a67d95d0f40?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
 | **[Coalesce Management Consulting](https://www.cmc-global.consulting)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/6a0b8b5ca235d749afa868b8?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[D&H Industries](https://dhmetalstamping.com)** | **[Human Resources Intern-Recruiting](https://jobright.ai/jobs/info/6a0b7d66963f7a67d95d0750?utm_campaign=1054&utm_source=git)** | Oconomowoc,WI,US | On Site | May 18 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
-| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
+| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a0b7b6622d0d34036c8cda9?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 18 |
 | **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b74904d932036368712b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 18 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/6a0b72ea0411d7417a1b0eb7?utm_campaign=1054&utm_source=git)** | San Francisco - Embarcadero, US | Hybrid | May 18 |
@@ -143,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f14489f462172a5a7d5721?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 17 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[HR Intern – CI Talent & Internship Program Support Summer 2026](https://jobright.ai/jobs/info/69d06226cfdc6132f943ac96?utm_campaign=1054&utm_source=git)** | Cullman, AL | On Site | May 17 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | May 17 |
-| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c1de9c2c312363dcd5162d?utm_campaign=1054&utm_source=git)** | Plantation, FL | Hybrid | May 17 |
 | **[Highgate](https://www.highgate.com)** | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a099e8e939a5f01db95ee88?utm_campaign=1054&utm_source=git)** | Denver, CO, US | On Site | May 17 |
 | ↳ | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a099e8b939a5f01db95ee87?utm_campaign=1054&utm_source=git)** | US-CO-Denver | On Site | May 17 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR - Total Rewards - Corporate](https://jobright.ai/jobs/info/69d0c99ecfdc6132f943fb7a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | May 17 |
