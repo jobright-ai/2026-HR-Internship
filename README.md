@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YES USA](http://www.yesusa.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0cb053538d03366dc8fea5?utm_campaign=1054&utm_source=git)** | Hallandale Beach, Florida, United States | On Site | May 19 |
+| **[41 North Contractors, L.L.C.](https://www.41northcontractors.com/)** | **[INTERN](https://jobright.ai/jobs/info/6a0cadc322d0d34036c970d8?utm_campaign=1054&utm_source=git)** | Lisle,IL,US | On Site | May 19 |
+| **[Wesleyan University](http://wesleyan.edu)** | **[Temporary Career Development Intern](https://jobright.ai/jobs/info/6a0ca5970411d7417a1baabd?utm_campaign=1054&utm_source=git)** | Middletown, CT (Main Campus), US | Hybrid | May 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0c9faf0411d7417a1ba877?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | May 19 |
 | **[ID Logistics US](https://www.id-logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0c98b4538d03366dc8f0d9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 19 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/699cf551e0bddb6acacbff69?utm_campaign=1054&utm_source=git)** | Astoria, OR | On Site | May 19 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Human Resources Intern](https://jobright.ai/jobs/info/6a0b998e0411d7417a1b2ce2?utm_campaign=1054&utm_source=git)** | US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 Human Resources Intern](https://jobright.ai/jobs/info/6a0b998b0411d7417a1b2ce1?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
 | **[RailPros](http://railpros.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a0b97d20411d7417a1b2c51?utm_campaign=1054&utm_source=git)** | Irving, TX 75038 | On Site | May 18 |
-| **[Grand Pacific Resorts](http://www.grandpacificpalisades.com)** | **[Intern- FDA- PT- GPP](https://jobright.ai/jobs/info/6a0b97a1963f7a67d95d19b9?utm_campaign=1054&utm_source=git)** | Grand Pacific Palisades - Carlsbad, CA 92008 | On Site | May 18 |
 | **[Aspire Public Schools](http://aspirepublicschools.org)** | **[HR Assistant Intern, Remote, Part-Time](https://jobright.ai/jobs/info/6a0b932b22d0d34036c8e079?utm_campaign=1054&utm_source=git)** | Oakland, CA | Remote | May 18 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Human Resources Intern (College Intern)](https://jobright.ai/jobs/info/6a0b925a4d932036368726f5?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | May 18 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b8bd2963f7a67d95d0f40?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0a2eab403fc339507f5863?utm_campaign=1054&utm_source=git)** | US-CA-Chino | On Site | May 17 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0a2ea8403fc339507f5862?utm_campaign=1054&utm_source=git)** | Chino, CA, US | On Site | May 17 |
 | **[Geofabrica](https://www.geofabrica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0a20b3a203b1052e44bca9?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | May 17 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment - Social Media Intern (NFWS)](https://jobright.ai/jobs/info/6a0a1dea3b54ed42d74dea24?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | May 17 |
-| ↳ | **[Program Recruitment  Appointment Package Intern (NFWS)](https://jobright.ai/jobs/info/6a0a1dcf939a5f01db960eed?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
