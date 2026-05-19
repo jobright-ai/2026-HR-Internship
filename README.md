@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiewit](http://www.kiewit.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0c9faf0411d7417a1ba877?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | May 19 |
+| **[ID Logistics US](https://www.id-logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0c98b4538d03366dc8f0d9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 19 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/699cf551e0bddb6acacbff69?utm_campaign=1054&utm_source=git)** | Astoria, OR | On Site | May 19 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/6a0c950522d0d34036c961da?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 19 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Benefits Intern (Year-Round)](https://jobright.ai/jobs/info/69eff3b3e624fe645d5347d7?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | May 19 |
 | **[Creators United](https://www.cuagency.co/)** | **[Influencer Talent Management Internship](https://jobright.ai/jobs/info/6a0c8f7322d0d34036c95990?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | May 19 |
 | ↳ | **[Influencer Talent Management Internship](https://jobright.ai/jobs/info/6a0c8ec922d0d34036c95914?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 19 |
 | **[PMA Consultants](http://pmaconsultants.com)** | **[Internship  (00564)](https://jobright.ai/jobs/info/6a0c8bca0411d7417a1b99cf?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | May 19 |
@@ -65,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[OPmobility](https://www.opmobility.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef95d2fbe0994a40eb7208?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | May 19 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Talent Acquisition Intern - Summer 2026 - Regional Office Based (Hybrid)](https://jobright.ai/jobs/info/69e29628be46fa3a4ef57cb7?utm_campaign=1054&utm_source=git)** | Plymouth, MN | Hybrid | May 19 |
 | **[Ayming](https://www.ayming.fr/)** | **[HR Intern (Summer Internship)](https://jobright.ai/jobs/info/6a0c7d540411d7417a1b920c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 19 |
-| **[GAOTek Inc.](https://www.gaotek.com)** | **[HR and Recruitment Intern](https://jobright.ai/jobs/info/6a0c79a7538d03366dc8dc47?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 19 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics and Systems](https://jobright.ai/jobs/info/69ef85ec0a6e0955530559d3?utm_campaign=1054&utm_source=git)** | Columbia, MO | Hybrid | May 19 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/6a0c76ed4d93203636878770?utm_campaign=1054&utm_source=git)** | San Jose, California, United States of America | On Site | May 19 |
 | **[RailPros](http://railpros.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a0c765e963f7a67d95d7faa?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | May 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geofabrica](https://www.geofabrica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0a20b3a203b1052e44bca9?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | May 17 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment - Social Media Intern (NFWS)](https://jobright.ai/jobs/info/6a0a1dea3b54ed42d74dea24?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | May 17 |
 | ↳ | **[Program Recruitment  Appointment Package Intern (NFWS)](https://jobright.ai/jobs/info/6a0a1dcf939a5f01db960eed?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 17 |
-| **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f14489f462172a5a7d5721?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 17 |
-| **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[HR Intern – CI Talent & Internship Program Support Summer 2026](https://jobright.ai/jobs/info/69d06226cfdc6132f943ac96?utm_campaign=1054&utm_source=git)** | Cullman, AL | On Site | May 17 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | May 17 |
-| **[Highgate](https://www.highgate.com)** | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a099e8e939a5f01db95ee88?utm_campaign=1054&utm_source=git)** | Denver, CO, US | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
