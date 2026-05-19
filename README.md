@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[People and Talent Operations Intern](https://jobright.ai/jobs/info/6a0cd06322d0d34036c98a9d?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | May 19 |
+| **[Convergint](http://www.convergint.com)** | **[Intern](https://jobright.ai/jobs/info/6a0cd0014d9320363687c5e2?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Remote | May 19 |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0ccfff22d0d34036c98a77?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 19 |
+| **[Neighborhood Health Center](https://www.nhcoregon.org)** | **[HR Intern](https://jobright.ai/jobs/info/6a0ccf250411d7417a1bcd48?utm_campaign=1054&utm_source=git)** | Portland, OR | Hybrid | May 19 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience & Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cc4e20411d7417a1bc3a9?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid, US | Hybrid | May 19 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a0cc2d2538d03366dc90b44?utm_campaign=1054&utm_source=git)** | Long Beach, California | On Site | May 19 |
 | ↳ | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a0cc2cc538d03366dc90b40?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[HR Internship 26' – Generalist and Business Partnering](https://jobright.ai/jobs/info/6a0b2a76a235d749afa823a9?utm_campaign=1054&utm_source=git)** | AIR Office, NL | On Site | May 18 |
 | **[ECRI](https://www.ecri.org/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a0b2610538d03366dc82259?utm_campaign=1054&utm_source=git)** | Plymouth Meeting, PA | Remote | May 18 |
 | **[ClassDojo](https://www.classdojo.com)** | **[District Onboarding Manager (Contract, Remote)](https://jobright.ai/jobs/info/69cee9f9cfdc6132f942de22?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | May 18 |
-| **[KBC A Yokogawa Company](https://www.kbc.global/)** | **[HR SUMMER INTERN](https://jobright.ai/jobs/info/6a0b1bde22d0d34036c88737?utm_campaign=1054&utm_source=git)** | Sugar Land, US | On Site | May 18 |
-| **[Iterative Health](https://iterative.health)** | **[Research Intern](https://jobright.ai/jobs/info/6a0778da403fc339507e4ff3?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | May 18 |
-| **[UNDP Careers](https://www.undp.org/careers)** | **[UNV Human Resources Section-Capacity Development Intern-Remote](https://jobright.ai/jobs/info/6a0732788f3e371eb6174946?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | May 18 |
-| **[City of Branson](https://www.bransonmo.gov)** | **[HR Intern](https://jobright.ai/jobs/info/6a0c1f300411d7417a1b6060?utm_campaign=1054&utm_source=git)** | Branson, MO | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
