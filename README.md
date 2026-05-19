@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Retirement Program, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/6a0ba0674d93203636872e8e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 18 |
+| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b99e50411d7417a1b2d37?utm_campaign=1054&utm_source=git)** | 2020 Convention Center Concourse, Atlanta, GA, 30337, US | On Site | May 18 |
+| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Human Resources Intern](https://jobright.ai/jobs/info/6a0b998e0411d7417a1b2ce2?utm_campaign=1054&utm_source=git)** | US | Hybrid | May 18 |
+| ↳ | **[Fall 2026 Human Resources Intern](https://jobright.ai/jobs/info/6a0b998b0411d7417a1b2ce1?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
+| **[RailPros](http://railpros.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a0b97d20411d7417a1b2c51?utm_campaign=1054&utm_source=git)** | Irving, TX 75038 | On Site | May 18 |
+| **[Grand Pacific Resorts](http://www.grandpacificpalisades.com)** | **[Intern- FDA- PT- GPP](https://jobright.ai/jobs/info/6a0b97a1963f7a67d95d19b9?utm_campaign=1054&utm_source=git)** | Grand Pacific Palisades - Carlsbad, CA 92008 | On Site | May 18 |
 | **[Aspire Public Schools](http://aspirepublicschools.org)** | **[HR Assistant Intern, Remote, Part-Time](https://jobright.ai/jobs/info/6a0b932b22d0d34036c8e079?utm_campaign=1054&utm_source=git)** | Oakland, CA | Remote | May 18 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Human Resources Intern (College Intern)](https://jobright.ai/jobs/info/6a0b925a4d932036368726f5?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | May 18 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b8bd2963f7a67d95d0f40?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
@@ -119,8 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment - Social Media Intern (NFWS)](https://jobright.ai/jobs/info/6a0a1dea3b54ed42d74dea24?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | May 17 |
 | ↳ | **[Program Recruitment  Appointment Package Intern (NFWS)](https://jobright.ai/jobs/info/6a0a1dcf939a5f01db960eed?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 17 |
 | **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f14489f462172a5a7d5721?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 17 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d39093f57a33569670778?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | May 17 |
-| ↳ | **[Summer 2026 Management Trainee Intern Miami Lakes](https://jobright.ai/jobs/info/697d35ab3f57a33569670392?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | May 17 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[HR Intern – CI Talent & Internship Program Support Summer 2026](https://jobright.ai/jobs/info/69d06226cfdc6132f943ac96?utm_campaign=1054&utm_source=git)** | Cullman, AL | On Site | May 17 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[AI Implementation Planning Intern](https://jobright.ai/jobs/info/69d03127366bb95ba551c76d?utm_campaign=1054&utm_source=git)** | Hercules, CA | On Site | May 17 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69c1de9c2c312363dcd5162d?utm_campaign=1054&utm_source=git)** | Plantation, FL | Hybrid | May 17 |
@@ -138,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Summer 2026](https://jobright.ai/jobs/info/69b48e7006c1ba00c5460e34?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | May 16 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/69d20f72cdb525785fbb7e37?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | May 16 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a0850f2a203b1052e4437d8?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | May 16 |
-| **[M&J Engineering](https://mjengineers.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f49e?utm_campaign=1054&utm_source=git)** | New Hyde Park, NY, US | On Site | May 16 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f4a0?utm_campaign=1054&utm_source=git)** | US-NY-New Hyde Park | On Site | May 16 |
+| **[M&J Engineering](https://mjengineers.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f4a0?utm_campaign=1054&utm_source=git)** | US-NY-New Hyde Park | On Site | May 16 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0850208f3e371eb617f49e?utm_campaign=1054&utm_source=git)** | New Hyde Park, NY, US | On Site | May 16 |
 | **[NASCO](http://www.nasco.com)** | **[HR Intern, (Summer, Remote, Graduate Level Preferred)](https://jobright.ai/jobs/info/6a084fff8f3e371eb617f432?utm_campaign=1054&utm_source=git)** | US-Home Office/ Remote | Remote | May 16 |
 | **[Wellpath](https://wellpathcare.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a078b7b403fc339507e5d66?utm_campaign=1054&utm_source=git)** | TN, Franklin | On Site | May 16 |
 | ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6a084f9e403fc339507eccba?utm_campaign=1054&utm_source=git)** | Franklin, TN, US | On Site | May 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MarketSource Inc.](http://www.marketsource.com/)** | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d54?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, US | Hybrid | May 16 |
 | ↳ | **[Intern - Recruiting](https://jobright.ai/jobs/info/6a084dea939a5f01db957d58?utm_campaign=1054&utm_source=git)** | US-GA-Alpharetta | Hybrid | May 16 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc8?utm_campaign=1054&utm_source=git)** | US-GA-Decatur | Hybrid | May 16 |
-| ↳ | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/6a084d68939a5f01db957cc7?utm_campaign=1054&utm_source=git)** | Decatur, GA, US | Hybrid | May 16 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a084d046186f46859886f0f?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Career Development](https://jobright.ai/jobs/info/6a0848fc6186f46859886d51?utm_campaign=1054&utm_source=git)** | 350 North Humphreys Boulevard, Memphis, TN, 38120, US | On Site | May 16 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6a07fe98a203b1052e44076c?utm_campaign=1054&utm_source=git)** | Pryor, OK, USA, US | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
