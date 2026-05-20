@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/69bb882c06c1ba00c54e004a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | May 20 |
+| **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Training And Development Intern](https://jobright.ai/jobs/info/6a0dc347beb4d73cb622b486?utm_campaign=1054&utm_source=git)** | Mukwonago, WI | On Site | May 20 |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Talent Acquisition](https://jobright.ai/jobs/info/6a09617da203b1052e448f96?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 20 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern (Anaheim, Los Angeles)](https://jobright.ai/jobs/info/6a069d96f3d6cc51d6394a8d?utm_campaign=1054&utm_source=git)** | Anaheim, CA | Hybrid | May 20 |
+| **[Giant Eagle, Inc.](https://www.gianteagle.com/)** | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/6a0dbedb80bf0430c7625a23?utm_campaign=1054&utm_source=git)** | Giant Eagle Cranberry Corporate Office, US | On Site | May 20 |
 | **[HERE Technologies](https://www.here.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f12dc88d8d624381a9aba3?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 20 |
 | **[ITA International](http://ita-intl.com/)** | **[Summer Intern - Growth Support](https://jobright.ai/jobs/info/6a0d7948528eaa34a446f871?utm_campaign=1054&utm_source=git)** | US-VA-Newport News | On Site | May 20 |
 | ↳ | **[Summer Intern - Growth Support](https://jobright.ai/jobs/info/6a0d7947528eaa34a446f870?utm_campaign=1054&utm_source=git)** | Newport News, VA, US | On Site | May 20 |
@@ -143,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b8bd2963f7a67d95d0f40?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
 | **[Coalesce Management Consulting](https://www.cmc-global.consulting)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/6a0b8b5ca235d749afa868b8?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[D&H Industries](https://dhmetalstamping.com)** | **[Human Resources Intern-Recruiting](https://jobright.ai/jobs/info/6a0b7d66963f7a67d95d0750?utm_campaign=1054&utm_source=git)** | Oconomowoc,WI,US | On Site | May 18 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
-| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
+| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a0b7b6622d0d34036c8cda9?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 18 |
 | **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b74904d932036368712b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 18 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/6a0b72ea0411d7417a1b0eb7?utm_campaign=1054&utm_source=git)** | San Francisco - Embarcadero, US | Hybrid | May 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/6a0b72e40411d7417a1b0ead?utm_campaign=1054&utm_source=git)** | Chicago - 155 Wacker, US | Hybrid | May 18 |
 | **[Athena](https://athenapsych.com)** | **[HR Intern (Unpaid)](https://jobright.ai/jobs/info/6a0b719e4d93203636870e53?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment - Bilingual Support Intern (NFWS)](https://jobright.ai/jobs/info/6a0b7181538d03366dc855aa?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 18 |
-| ↳ | **[Program Recruitment - Program Development Specialist Intern (CHSS)](https://jobright.ai/jobs/info/6a0b7163538d03366dc8556b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 18 |
-| **[Carl Warren & Company](https://www.carlwarren.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6a0b70d5963f7a67d95cfa4b?utm_campaign=1054&utm_source=git)** | Woodland Hills, US | Hybrid | May 18 |
-| **[Pregis](https://www.pregis.com/)** | **[Corporate HR Intern – Talent Acquisition](https://jobright.ai/jobs/info/6a0b6e490411d7417a1b0b10?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
-| **[Mark VII - Clean Cars®](http://markvii.net)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b65630411d7417a1b0682?utm_campaign=1054&utm_source=git)** | Arvada, CO | On Site | May 18 |
-| **[Amivero](https://amivero.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a0b619a0411d7417a1b0480?utm_campaign=1054&utm_source=git)** | Reston, VA, US | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
