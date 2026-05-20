@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, KPMG Delivery Network / Boston Summer 2026](https://jobright.ai/jobs/info/6a0d3fb6a235d749afa946ea?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 19 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources (Remote) Intern](https://jobright.ai/jobs/info/6a0d32fe4d9320363687fab5?utm_campaign=1054&utm_source=git)** | Gloucester, MA | Remote | May 19 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Internship](https://jobright.ai/jobs/info/6a0d32f5a235d749afa94157?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | May 19 |
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/6a0d23e74d9320363687f534?utm_campaign=1054&utm_source=git)** | Chula Vista, CA | On Site | May 19 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b8bd2963f7a67d95d0f40?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
 | **[Coalesce Management Consulting](https://www.cmc-global.consulting)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/6a0b8b5ca235d749afa868b8?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[D&H Industries](https://dhmetalstamping.com)** | **[Human Resources Intern-Recruiting](https://jobright.ai/jobs/info/6a0b7d66963f7a67d95d0750?utm_campaign=1054&utm_source=git)** | Oconomowoc,WI,US | On Site | May 18 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
-| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf22?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 18 |
+| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a0b7d3a22d0d34036c8cf21?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 18 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a0b7b6622d0d34036c8cda9?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 18 |
 | **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b74904d932036368712b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 18 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/6a0b72ea0411d7417a1b0eb7?utm_campaign=1054&utm_source=git)** | San Francisco - Embarcadero, US | Hybrid | May 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a0b61960411d7417a1b047f?utm_campaign=1054&utm_source=git)** | US-VA-Reston | On Site | May 18 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b616022d0d34036c8b9c5?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | May 18 |
 | ↳ | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b615e22d0d34036c8b9c4?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | May 18 |
-| **[SoFi Stadium and Hollywood Park](https://www.sofistadium.com/)** | **[Guest Experience Intern](https://jobright.ai/jobs/info/6a0b605c538d03366dc84c6a?utm_campaign=1054&utm_source=git)** | Inglewood, CA | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
