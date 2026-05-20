@@ -73,15 +73,16 @@ For a complete list, click the following sortable link below:
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Credentialing & Compliance Intern](https://jobright.ai/jobs/info/6a0ced71a235d749afa920c6?utm_campaign=1054&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | May 19 |
 | **[PNY Technologies](http://www.pny.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0ced0d4d9320363687d98c?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | May 19 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Temporary Career Development Intern](https://jobright.ai/jobs/info/6a0cecd922d0d34036c9a304?utm_campaign=1054&utm_source=git)** | Middletown, CT | Hybrid | May 19 |
-| **[Etched](https://www.etched.com)** | **[Talent Intern - Summer 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63d?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[Talent Intern - Spring 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63a?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
+| **[Etched](https://www.etched.com)** | **[Talent Intern - Spring 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63a?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
+| ↳ | **[Talent Intern - Summer 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63d?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[Talent Intern - Fall 2026](https://jobright.ai/jobs/info/6a0ce1d80411d7417a1bd60c?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
 | **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdf28a235d749afa9146a?utm_campaign=1054&utm_source=git)** | New York City | On Site | May 19 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0cdf230411d7417a1bd390?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | May 19 |
 | ↳ | **[People and Talent Operations Intern](https://jobright.ai/jobs/info/6a0cdf220411d7417a1bd38f?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | May 19 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Human Resources Specialist (Internship)](https://jobright.ai/jobs/info/6a0cdd58963f7a67d95dc5b4?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | On Site | May 19 |
 | **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdb2f963f7a67d95dc4bc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 19 |
-| **[YAI](http://www.yai.org/)** | **[Volunteer Outreach Internship](https://jobright.ai/jobs/info/6a0d315122d0d34036c9c47f?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | May 19 |
+| **[YAI](http://www.yai.org/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0d6d660411d7417a1c1dd2?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | May 19 |
+| ↳ | **[Volunteer Outreach Internship](https://jobright.ai/jobs/info/6a0d315122d0d34036c9c47f?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | May 19 |
 | **[Convergint](http://www.convergint.com)** | **[Intern](https://jobright.ai/jobs/info/6a0cd0014d9320363687c5e2?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Remote | May 19 |
 | **[Neighborhood Health Center](https://www.nhcoregon.org)** | **[HR Intern](https://jobright.ai/jobs/info/6a0ccf250411d7417a1bcd48?utm_campaign=1054&utm_source=git)** | Portland, OR | Hybrid | May 19 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience & Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cc4e20411d7417a1bc3a9?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid, US | Hybrid | May 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amivero](https://amivero.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a0b619a0411d7417a1b0480?utm_campaign=1054&utm_source=git)** | Reston, VA, US | On Site | May 18 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a0b61960411d7417a1b047f?utm_campaign=1054&utm_source=git)** | US-VA-Reston | On Site | May 18 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b616022d0d34036c8b9c5?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | May 18 |
-| ↳ | **[Intern, HR Technology and Compliance](https://jobright.ai/jobs/info/6a0b615e22d0d34036c8b9c4?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
