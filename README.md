@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0e280a09ecfd704b3e67cd?utm_campaign=1054&utm_source=git)** | City Hall - St. George, UT | On Site | May 20 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a0e255383d714428981650e?utm_campaign=1054&utm_source=git)** | Towson, MD | On Site | May 20 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Patient Benefits](https://jobright.ai/jobs/info/6a0e23ebbeb4d73cb622f7d4?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Worcester - 309 Belmont Street | On Site | May 20 |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0e21e909ecfd704b3e64de?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 20 |
+| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0e213b83d714428981627b?utm_campaign=1054&utm_source=git)** | Plantation, FL | On Site | May 20 |
+| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Akron, OH] (Unpaid, Summer 2026)](https://jobright.ai/jobs/info/6a0e1f0780bf0430c7629bd3?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | May 20 |
 | **[Entrata](https://www.entrata.com/)** | **[Talent Coordinator Intern](https://jobright.ai/jobs/info/6a0e1b7b80bf0430c7629815?utm_campaign=1054&utm_source=git)** | Lehi, UT | Hybrid | May 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[INTERN](https://jobright.ai/jobs/info/6a0e1a8a80bf0430c76296b0?utm_campaign=1054&utm_source=git)** | City Hall - St. George, UT | On Site | May 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/6a0e19dec152ac78244832cb?utm_campaign=1054&utm_source=git)** | San Antonio, TX, US | On Site | May 20 |
@@ -66,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resource Representative Intern](https://jobright.ai/jobs/info/6a0e16c4beb4d73cb622ebc2?utm_campaign=1054&utm_source=git)** | Brea, CA, US | Hybrid | May 20 |
 | **[North Texas Tollway Authority](https://www.ntta.org/)** | **[HR Learning & Development - Intern](https://jobright.ai/jobs/info/6a0e154b09ecfd704b3e58b6?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 20 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a0e14a4beb4d73cb622e9dd?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | May 20 |
-| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Akron, OH] (Unpaid, Summer 2026)](https://jobright.ai/jobs/info/6a0e1454beb4d73cb622e91c?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | May 20 |
 | **[Tencent](https://www.tencent.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0e1439c152ac7824482c2a?utm_campaign=1054&utm_source=git)** | US-California-Palo Alto, US | On Site | May 20 |
 | **[Behr Paint Company](http://www.behr.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e134dbeb4d73cb622e869?utm_campaign=1054&utm_source=git)** | Santa Ana, California | On Site | May 20 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern)](https://jobright.ai/jobs/info/6a0e107c09ecfd704b3e568c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Compassus](https://www.compassus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0c3f2322d0d34036c92302?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | May 19 |
 | **[Triad Partners](https://triadpartners.com)** | **[Summer Intern - Advisor Engagement & Recruitment](https://jobright.ai/jobs/info/6a0c1efd963f7a67d95d4e25?utm_campaign=1054&utm_source=git)** | Lawrence, KS | Hybrid | May 19 |
 | **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[Internship 26'- HR: Employer Branding & Social Media](https://jobright.ai/jobs/info/6a0c0b6422d0d34036c9126c?utm_campaign=1054&utm_source=git)** | AIR Office, NL | On Site | May 19 |
-| **[Pixi Inc.](https://www.pixibeauty.com)** | **[HR Intern - US](https://jobright.ai/jobs/info/69faf6f4e1560008411555da?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
-| **[Amivero](https://amivero.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a0bf7f8963f7a67d95d4263?utm_campaign=1054&utm_source=git)** | Reston, VA | On Site | May 18 |
-| **[Cider](https://shop.shopcider.com)** | **[Student Intern - Global Talent Recruitment & Administrative Support](https://jobright.ai/jobs/info/6a0bcca9963f7a67d95d3165?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
-| **[PROJXON](www.projxon.com)** | **[Recruiter Intern](https://jobright.ai/jobs/info/6a0bca53a235d749afa888d4?utm_campaign=1054&utm_source=git)** | United States | Remote | May 18 |
-| **[After School Matters](http://www.afterschoolmatters.org/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a0c175c4d93203636875ba2?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
