@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Etched](https://www.etched.com)** | **[Talent Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d170622d0d34036c9b670?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| ↳ | **[Talent Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d163122d0d34036c9b5ff?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a0d15780411d7417a1bf1c8?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 19 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience & Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d10dca235d749afa93200?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | May 19 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d10c44d9320363687eb04?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | **[41 North Contractors, L.L.C.](https://www.41northcontractors.com/)** | **[INTERN](https://jobright.ai/jobs/info/6a0d03ce538d03366dc93714?utm_campaign=1054&utm_source=git)** | Lisle, IL | On Site | May 19 |
@@ -67,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Credentialing & Compliance Intern](https://jobright.ai/jobs/info/6a0ced71a235d749afa920c6?utm_campaign=1054&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | May 19 |
 | **[PNY Technologies](http://www.pny.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0ced0d4d9320363687d98c?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | May 19 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Temporary Career Development Intern](https://jobright.ai/jobs/info/6a0cecd922d0d34036c9a304?utm_campaign=1054&utm_source=git)** | Middletown, CT | Hybrid | May 19 |
-| **[Etched](https://www.etched.com)** | **[Talent Intern - Summer 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63d?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[Talent Intern - Spring 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63a?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
+| **[Etched](https://www.etched.com)** | **[Talent Intern - Spring 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63a?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
+| ↳ | **[Talent Intern - Summer 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63d?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[Talent Intern - Fall 2026](https://jobright.ai/jobs/info/6a0ce1d80411d7417a1bd60c?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
 | **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdf28a235d749afa9146a?utm_campaign=1054&utm_source=git)** | New York City | On Site | May 19 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0cdf230411d7417a1bd390?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | May 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pregis](https://www.pregis.com/)** | **[Corporate HR Intern – Talent Acquisition](https://jobright.ai/jobs/info/6a0b601a963f7a67d95cf254?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | Hybrid | May 18 |
 | **[JD.COM](http://corporate.jd.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b5e53538d03366dc84aa3?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | May 18 |
 | **[CHAGEE](https://www.chagee.com.sg)** | **[HR Intern](https://jobright.ai/jobs/info/6a0b58d122d0d34036c8b357?utm_campaign=1054&utm_source=git)** | Irvine, US | Hybrid | May 18 |
-| **[TFI International Inc.](https://tfiintl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0b5805538d03366dc84464?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | May 18 |
-| **[Aspire Public Schools](http://aspirepublicschools.org)** | **[HR Intern Assistant, Remote, Part-Time](https://jobright.ai/jobs/info/6a0b55f4a235d749afa8414a?utm_campaign=1054&utm_source=git)** | Oakland, California | Remote | May 18 |
-| **[ImpactLife](https://www.bloodcenter.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69faed6087a4820e6da836ad?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
