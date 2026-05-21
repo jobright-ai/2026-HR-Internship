@@ -103,6 +103,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0f514b27fee43e8cd6611?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | May 20 |
 | **[Alliance Technical Group](https://alliancetg.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0de365beb4d73cb622c99c?utm_campaign=1054&utm_source=git)** | Decatur, AL | On Site | May 20 |
 | **[Quantiphi](http://www.quantiphi.com)** | **[HRBP - Intern](https://jobright.ai/jobs/info/6a0de30947fea1610bca4ccc?utm_campaign=1054&utm_source=git)** | Fredericton, New Brunswick, Canada | Hybrid | May 20 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0f51cecbc8c2f73202c92?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | May 20 |
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Internships](https://jobright.ai/jobs/info/6a0dca8947fea1610bca3d37?utm_campaign=1054&utm_source=git)** | United States | Remote | May 20 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d4155acfdc6132f945757a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 20 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/69f148e68d8d624381a9b82e?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[Benefits Intern (Year-Round)](https://jobright.ai/jobs/info/69eff3b3e624fe645d5347d7?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | May 19 |
 | **[Creators United](https://www.cuagency.co/)** | **[Influencer Talent Management Internship](https://jobright.ai/jobs/info/6a0c8f7322d0d34036c95990?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | May 19 |
 | ↳ | **[Influencer Talent Management Internship](https://jobright.ai/jobs/info/6a0c8ec922d0d34036c95914?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 19 |
-| **[PMA Consultants](http://pmaconsultants.com)** | **[Internship  (00564)](https://jobright.ai/jobs/info/6a0c8bca0411d7417a1b99cf?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
