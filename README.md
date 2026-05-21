@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Resource Management Intern](https://jobright.ai/jobs/info/698145d649964d25b5e42996?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ | On Site | May 21 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Finance & Timekeeping Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69d73129e63cea7a8b66ebe5?utm_campaign=1054&utm_source=git)** | Staten Island, NY | On Site | May 21 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Human Resources](https://jobright.ai/jobs/info/69d7057948f0c8161d2fc5b8?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | May 21 |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0f02a812f8b43cf397b2db?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 21 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/69f3221c1f90bd6ae23cdaa0?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | May 21 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Human Resource Grad Intern](https://jobright.ai/jobs/info/6a0d2f7a4d9320363687fa18?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 21 |
+| **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Resource Management Intern](https://jobright.ai/jobs/info/698145d649964d25b5e42996?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ | On Site | May 21 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Inclusion & Engagement](https://jobright.ai/jobs/info/6a0a3d6a939a5f01db9616e3?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Hybrid | May 21 |
 | **[The HR Innovator Group](https://hrinnovatorsgroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0edb3372b52f7225f3923e?utm_campaign=1054&utm_source=git)** | United States | On Site | May 21 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6a0eda979f654b3359ce14c2?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | May 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a0cc2cc538d03366dc90b40?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 19 |
 | **[PNY Technologies](http://www.pny.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0cbdefa235d749afa8ffc1?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, US | On Site | May 19 |
 | **[Omnicom](https://www.omc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69efc656fbe0994a40eb8795?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | May 19 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Spring 2027](https://jobright.ai/jobs/info/6a0cb13a538d03366dc90071?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | May 19 |
-| **[YES USA](http://www.yesusa.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0cb053538d03366dc8fea5?utm_campaign=1054&utm_source=git)** | Hallandale Beach, Florida, United States | On Site | May 19 |
-| **[41 North Contractors, L.L.C.](https://www.41northcontractors.com/)** | **[INTERN](https://jobright.ai/jobs/info/6a0cadc322d0d34036c970d8?utm_campaign=1054&utm_source=git)** | Lisle,IL,US | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
