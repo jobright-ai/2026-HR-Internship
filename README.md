@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0e922a09ecfd704b3ea17e?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 20 |
+| **[INNIO Group](https://www.innio.com/en/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a0ea5f880bf0430c762e23b?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | May 20 |
 | **[Cascades](http://www.cascades.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e753fc152ac7824486db2?utm_campaign=1054&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | May 20 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/6a0e71e109ecfd704b3e9120?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | May 20 |
