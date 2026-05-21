@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e5ae0c152ac7824486201?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | May 20 |
+| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Internship Coordinator & Recruiter (Cherry Hill, NJ)](https://jobright.ai/jobs/info/6a0e56e647fea1610bca98c3?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ | On Site | May 20 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a0e530480bf0430c762bea3?utm_campaign=1054&utm_source=git)** | Marina del Rey, CA | Remote | May 20 |
 | **[Canucks Sports & Entertainment (CSE)](https://jobs.canucks.com/)** | **[People & Scheduling Intern](https://jobright.ai/jobs/info/6a0e518b09ecfd704b3e818b?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 20 |
 | **[Podium](https://www.podium.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/6a0e4cd247fea1610bca8eb9?utm_campaign=1054&utm_source=git)** | Lehi | On Site | May 20 |
@@ -115,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a0d15780411d7417a1bf1c8?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 19 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience & Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d10dca235d749afa93200?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | May 19 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d10c44d9320363687eb04?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| **[D&H Industries](https://dhmetalstamping.com)** | **[Human Resources Intern-Recruiting](https://jobright.ai/jobs/info/6a0e590109ecfd704b3e86dd?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | May 19 |
 | **[Epsilon Systems Solutions, Inc.](http://www.epsilonsystems.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e529783d7144289818270?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | May 19 |
 | **[41 North Contractors, L.L.C.](https://www.41northcontractors.com/)** | **[INTERN](https://jobright.ai/jobs/info/6a0d03ce538d03366dc93714?utm_campaign=1054&utm_source=git)** | Lisle, IL | On Site | May 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0d02c10411d7417a1beb41?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | May 19 |
@@ -123,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Credentialing & Compliance Intern](https://jobright.ai/jobs/info/6a0ced71a235d749afa920c6?utm_campaign=1054&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | May 19 |
 | **[PNY Technologies](http://www.pny.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0ced0d4d9320363687d98c?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | May 19 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Temporary Career Development Intern](https://jobright.ai/jobs/info/6a0cecd922d0d34036c9a304?utm_campaign=1054&utm_source=git)** | Middletown, CT | Hybrid | May 19 |
-| **[Etched](https://www.etched.com)** | **[Talent Intern - Spring 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63a?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[Talent Intern - Summer 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63d?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
+| **[Etched](https://www.etched.com)** | **[Talent Intern - Summer 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63d?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
+| ↳ | **[Talent Intern - Spring 2027](https://jobright.ai/jobs/info/6a0ce1e50411d7417a1bd63a?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[Talent Intern - Fall 2026](https://jobright.ai/jobs/info/6a0ce1d80411d7417a1bd60c?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 19 |
 | **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdf28a235d749afa9146a?utm_campaign=1054&utm_source=git)** | New York City | On Site | May 19 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0cdf230411d7417a1bd390?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | May 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[InComm Payments](https://www.incomm.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a07c955a203b1052e43e9b8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 19 |
 | **[OPmobility](https://www.opmobility.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef95d2fbe0994a40eb7208?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | May 19 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Talent Acquisition Intern - Summer 2026 - Regional Office Based (Hybrid)](https://jobright.ai/jobs/info/69e29628be46fa3a4ef57cb7?utm_campaign=1054&utm_source=git)** | Plymouth, MN | Hybrid | May 19 |
-| **[OpenTable](http://opentable.com)** | **[People Operations Intern (Hybrid)](https://jobright.ai/jobs/info/69eff39a16b2612c2a12ce8d?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 19 |
-| **[Ayming](https://www.ayming.fr/)** | **[HR Intern (Summer Internship)](https://jobright.ai/jobs/info/6a0c7d540411d7417a1b920c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 19 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics and Systems](https://jobright.ai/jobs/info/69ef85ec0a6e0955530559d3?utm_campaign=1054&utm_source=git)** | Columbia, MO | Hybrid | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
