@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Resource Management Intern](https://jobright.ai/jobs/info/698145d649964d25b5e42996?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ | On Site | May 21 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/69f3221c1f90bd6ae23cdaa0?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | May 21 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Human Resource Grad Intern](https://jobright.ai/jobs/info/6a0d2f7a4d9320363687fa18?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 21 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Inclusion & Engagement](https://jobright.ai/jobs/info/6a0a3d6a939a5f01db9616e3?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Hybrid | May 21 |
 | **[The HR Innovator Group](https://hrinnovatorsgroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0edb3372b52f7225f3923e?utm_campaign=1054&utm_source=git)** | United States | On Site | May 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Spring 2027](https://jobright.ai/jobs/info/6a0cb13a538d03366dc90071?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | May 19 |
 | **[YES USA](http://www.yesusa.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0cb053538d03366dc8fea5?utm_campaign=1054&utm_source=git)** | Hallandale Beach, Florida, United States | On Site | May 19 |
 | **[41 North Contractors, L.L.C.](https://www.41northcontractors.com/)** | **[INTERN](https://jobright.ai/jobs/info/6a0cadc322d0d34036c970d8?utm_campaign=1054&utm_source=git)** | Lisle,IL,US | On Site | May 19 |
-| **[Wesleyan University](http://wesleyan.edu)** | **[Temporary Career Development Intern](https://jobright.ai/jobs/info/6a0ca5970411d7417a1baabd?utm_campaign=1054&utm_source=git)** | Middletown, CT (Main Campus), US | Hybrid | May 19 |
-| **[ID Logistics US](https://www.id-logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0c98b4538d03366dc8f0d9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
