@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Newport Brass Inc.](http://www.newportbrass.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f72d280bf0430c7633c84?utm_campaign=1054&utm_source=git)** | US - California - Santa Ana, US | On Site | May 21 |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a0f729372b52f7225f3e015?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
+| **[OMNI Consulting Solutions](https://omniconsultingsolutions.com)** | **[OMNI SkillBridge Internship](https://jobright.ai/jobs/info/6a0f723912f8b43cf397f289?utm_campaign=1054&utm_source=git)** | NATIONWIDE, US | Remote | May 21 |
 | **[Chicago Blackhawks](http://hurricanes.nhl.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a0f691572b52f7225f3db3e?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 21 |
 | **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f688212f8b43cf397ed05?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[GS Global Resources, Inc.](http://www.gsglobalresources.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f62bb12f8b43cf397e8f3?utm_campaign=1054&utm_source=git)** | Mukwonago, WI | On Site | May 21 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29ad0ab4ec4779fffa028?utm_campaign=1054&utm_source=git)** | Arden, NC | On Site | May 21 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Global NY](https://jobright.ai/jobs/info/69bb20753b74eb1e2c898e1a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69f2a03cecbc8c2f7320b9c1?utm_campaign=1054&utm_source=git)** | Cape Girardeau, MO | On Site | May 21 |
+| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acc933019f50a4fe5e202?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 21 |
 | **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a0f347080bf0430c7631980?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | May 21 |
 | **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5bc?utm_campaign=1054&utm_source=git)** | New York | On Site | May 21 |
 | ↳ | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5ba?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | May 21 |
@@ -108,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/6a0e71e109ecfd704b3e9120?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | May 20 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Representative Intern](https://jobright.ai/jobs/info/6a0e69e783d7144289818c83?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | May 20 |
-| **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a0e64cf09ecfd704b3e8a9f?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 20 |
+| **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[People & Culture Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a0e64cf09ecfd704b3e8a9f?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 20 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e5ae0c152ac7824486201?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | May 20 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Internship Coordinator & Recruiter (Cherry Hill, NJ)](https://jobright.ai/jobs/info/6a0e56e647fea1610bca98c3?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ | On Site | May 20 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a0e530480bf0430c762bea3?utm_campaign=1054&utm_source=git)** | Marina del Rey, CA | Remote | May 20 |
@@ -123,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0e4e7c47fea1610bca9096?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 20 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Patient Benefits](https://jobright.ai/jobs/info/6a0e23ebbeb4d73cb622f7d4?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Worcester - 309 Belmont Street | On Site | May 20 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0e213b83d714428981627b?utm_campaign=1054&utm_source=git)** | Plantation, FL | On Site | May 20 |
-| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Akron, OH] (Unpaid, Summer 2026)](https://jobright.ai/jobs/info/6a0e1f0780bf0430c7629bd3?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | May 20 |
 | **[Entrata](https://www.entrata.com/)** | **[Talent Coordinator Intern](https://jobright.ai/jobs/info/6a0e1b7b80bf0430c7629815?utm_campaign=1054&utm_source=git)** | Lehi, UT | Hybrid | May 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[INTERN](https://jobright.ai/jobs/info/6a0e1a8a80bf0430c76296b0?utm_campaign=1054&utm_source=git)** | City Hall - St. George, UT | On Site | May 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/6a0e19dec152ac78244832cb?utm_campaign=1054&utm_source=git)** | San Antonio, TX, US | On Site | May 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Training And Development Intern](https://jobright.ai/jobs/info/6a0dc347beb4d73cb622b486?utm_campaign=1054&utm_source=git)** | Mukwonago, WI | On Site | May 20 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Talent Acquisition](https://jobright.ai/jobs/info/6a09617da203b1052e448f96?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 20 |
 | **[Giant Eagle, Inc.](https://www.gianteagle.com/)** | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/6a0dbedb80bf0430c7625a23?utm_campaign=1054&utm_source=git)** | Giant Eagle Cranberry Corporate Office, US | On Site | May 20 |
-| **[HERE Technologies](https://www.here.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f12dc88d8d624381a9aba3?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 20 |
-| **[ITA International](http://ita-intl.com/)** | **[Summer Intern - Growth Support](https://jobright.ai/jobs/info/6a0d7948528eaa34a446f871?utm_campaign=1054&utm_source=git)** | US-VA-Newport News | On Site | May 20 |
-| ↳ | **[Summer Intern - Growth Support](https://jobright.ai/jobs/info/6a0d7947528eaa34a446f870?utm_campaign=1054&utm_source=git)** | Newport News, VA, US | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
