@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/6a0e71e109ecfd704b3e9120?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | May 20 |
+| **[Insperity](http://www.insperity.com)** | **[Human Resource Representative Intern](https://jobright.ai/jobs/info/6a0e69e783d7144289818c83?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | May 20 |
+| **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a0e64cf09ecfd704b3e8a9f?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 20 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e5ae0c152ac7824486201?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | May 20 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Internship Coordinator & Recruiter (Cherry Hill, NJ)](https://jobright.ai/jobs/info/6a0e56e647fea1610bca98c3?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ | On Site | May 20 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a0e530480bf0430c762bea3?utm_campaign=1054&utm_source=git)** | Marina del Rey, CA | Remote | May 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Influencer Talent Management Internship](https://jobright.ai/jobs/info/6a0c8ec922d0d34036c95914?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 19 |
 | **[PMA Consultants](http://pmaconsultants.com)** | **[Internship  (00564)](https://jobright.ai/jobs/info/6a0c8bca0411d7417a1b99cf?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | May 19 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship HR Advisor & Employability](https://jobright.ai/jobs/info/6a0c899722d0d34036c95364?utm_campaign=1054&utm_source=git)** | Headquarters International, NL | Hybrid | May 19 |
-| **[InComm Payments](https://www.incomm.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a07c955a203b1052e43e9b8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 19 |
-| **[OPmobility](https://www.opmobility.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef95d2fbe0994a40eb7208?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | May 19 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Talent Acquisition Intern - Summer 2026 - Regional Office Based (Hybrid)](https://jobright.ai/jobs/info/69e29628be46fa3a4ef57cb7?utm_campaign=1054&utm_source=git)** | Plymouth, MN | Hybrid | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
