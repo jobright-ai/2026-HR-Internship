@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0eae8509ecfd704b3eaae5?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 21 |
 | **[INNIO Group](https://www.innio.com/en/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a0ea5f880bf0430c762e23b?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | May 20 |
 | **[Cascades](http://www.cascades.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e753fc152ac7824486db2?utm_campaign=1054&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | May 20 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/699cf551e0bddb6acacbff69?utm_campaign=1054&utm_source=git)** | Astoria, OR | On Site | May 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/6a0c950522d0d34036c961da?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 19 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Benefits Intern (Year-Round)](https://jobright.ai/jobs/info/69eff3b3e624fe645d5347d7?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | May 19 |
-| **[Creators United](https://www.cuagency.co/)** | **[Influencer Talent Management Internship](https://jobright.ai/jobs/info/6a0c8f7322d0d34036c95990?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
