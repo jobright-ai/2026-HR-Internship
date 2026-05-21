@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a0f564780bf0430c7632bb1?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 21 |
+| ↳ | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a0f564680bf0430c7632bae?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 21 |
+| **[OTAVA®](https://www.otava.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a0f532180bf0430c76329d3?utm_campaign=1054&utm_source=git)** | Mishawaka, Indiana, United States | On Site | May 21 |
+| **[Mauser Packaging Solutions](https://mauserpackaging.com)** | **[Summer Intern-Paid](https://jobright.ai/jobs/info/6a0f502572b52f7225f3cad5?utm_campaign=1054&utm_source=git)** | Homerville, GA | On Site | May 21 |
+| **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6a0f501483d714428981e891?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
+| ↳ | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6a0f4ad1619335383fb2aa89?utm_campaign=1054&utm_source=git)** | New York | On Site | May 21 |
+| **[Gallagher](https://www.ajg.com/)** | **[Corporate Intern - Global Total Rewards Team](https://jobright.ai/jobs/info/69f26047ab4ec4779fff8bd0?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL | On Site | May 21 |
 | **[H Mart Manhattan](https://www.hmartny.com/)** | **[Bilingual HR & Business Administration Intern (English/Korean)](https://jobright.ai/jobs/info/6a0f458972b52f7225f3c4c4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Internship Summer 2026](https://jobright.ai/jobs/info/6a0f42f7619335383fb2a6be?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 21 |
 | **[Eleos](https://www.eleos.nl/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f422b12f8b43cf397cf8f?utm_campaign=1054&utm_source=git)** | United States | Remote | May 21 |
@@ -70,9 +77,14 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/6a0f3eba80bf0430c7631fc7?utm_campaign=1054&utm_source=git)** | Santa Fe, US | On Site | May 21 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29ad0ab4ec4779fffa028?utm_campaign=1054&utm_source=git)** | Arden, NC | On Site | May 21 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Global NY](https://jobright.ai/jobs/info/69bb20753b74eb1e2c898e1a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69f2a03cecbc8c2f7320b9c1?utm_campaign=1054&utm_source=git)** | Cape Girardeau, MO | On Site | May 21 |
 | **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a0f347080bf0430c7631980?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | May 21 |
-| **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5bc?utm_campaign=1054&utm_source=git)** | New York | On Site | May 21 |
-| ↳ | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5ba?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | May 21 |
+| **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5ba?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | May 21 |
+| ↳ | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5bc?utm_campaign=1054&utm_source=git)** | New York | On Site | May 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69d5e0eb706f771673ba7a38?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 21 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f480c80bf0430c7632388?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
+| ↳ | **[Internship, Immigration Specialist (Fall 2026)](https://jobright.ai/jobs/info/6a0f4cb183d714428981e70c?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
+| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[High School Internship (Nashville, Summer 2026)](https://jobright.ai/jobs/info/69bab4fb5697383741408b3e?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | May 21 |
 | **[Amentum](https://www.amentum.com/)** | **[HR Projects Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f20c89f654b3359ce2e4b?utm_campaign=1054&utm_source=git)** | US-NV-Las Vegas, US | On Site | May 21 |
 | **[Leons](https://www.leonsdigital.com)** | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/6a0f1dba72b52f7225f3b072?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | On Site | May 21 |
 | ↳ | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/6a0f1db572b52f7225f3b071?utm_campaign=1054&utm_source=git)** | CA-ON-Toronto | On Site | May 21 |
@@ -118,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[North Texas Tollway Authority](https://www.ntta.org/)** | **[HR Learning & Development - Intern](https://jobright.ai/jobs/info/6a0e154b09ecfd704b3e58b6?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 20 |
 | **[Tencent](https://www.tencent.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0e1439c152ac7824482c2a?utm_campaign=1054&utm_source=git)** | US-California-Palo Alto, US | On Site | May 20 |
 | **[Behr Paint Company](http://www.behr.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e134dbeb4d73cb622e869?utm_campaign=1054&utm_source=git)** | Santa Ana, California | On Site | May 20 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern)](https://jobright.ai/jobs/info/6a0e107c09ecfd704b3e568c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Employment Data & Research Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0e062409ecfd704b3e50ff?utm_campaign=1054&utm_source=git)** | Charlottesville, VA USA, US | On Site | May 20 |
 | **[Delta Faucet](http://www.deltafaucet.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e053580bf0430c762887f?utm_campaign=1054&utm_source=git)** | US - California - Santa Ana, US | On Site | May 20 |
 | **[Lexington Manufacturing, LLC](https://www.lexingtonmfg.com/)** | **[Human Resources Intern (Part-time, Summer Internship)](https://jobright.ai/jobs/info/6a0e0063c152ac7824482187?utm_campaign=1054&utm_source=git)** | Coon Rapids, MN 55448, USA | On Site | May 20 |
@@ -133,6 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0f514b27fee43e8cd6611?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | May 20 |
 | **[Alliance Technical Group](https://alliancetg.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0de365beb4d73cb622c99c?utm_campaign=1054&utm_source=git)** | Decatur, AL | On Site | May 20 |
 | **[Quantiphi](http://www.quantiphi.com)** | **[HRBP - Intern](https://jobright.ai/jobs/info/6a0de30947fea1610bca4ccc?utm_campaign=1054&utm_source=git)** | Fredericton, New Brunswick, Canada | Hybrid | May 20 |
+| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | May 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0f51cecbc8c2f73202c92?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | May 20 |
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Internships](https://jobright.ai/jobs/info/6a0dca8947fea1610bca3d37?utm_campaign=1054&utm_source=git)** | United States | Remote | May 20 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d4155acfdc6132f945757a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 20 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Central Region - Woburn location](https://jobright.ai/jobs/info/6a0d792d0411d7417a1c2465?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Woburn-100 Trade Ctr Suite 760 | On Site | May 20 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, KPMG Delivery Network / Boston Summer 2026](https://jobright.ai/jobs/info/6a0d3fb6a235d749afa946ea?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 19 |
 | **[Canucks Sports & Entertainment (CSE)](https://jobs.canucks.com/)** | **[People & Scheduling Intern](https://jobright.ai/jobs/info/6a0e996809ecfd704b3ea358?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 19 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[HR Technical Recruiting Internship](https://jobright.ai/jobs/info/6a0d32f5a235d749afa94157?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | May 19 |
-| **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/6a0d23e74d9320363687f534?utm_campaign=1054&utm_source=git)** | Chula Vista, CA | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[Talent Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d170622d0d34036c9b670?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| ↳ | **[Talent Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d163122d0d34036c9b5ff?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a0d15780411d7417a1bf1c8?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 19 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience & Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d10dca235d749afa93200?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | May 19 |
-| **[Etched](https://www.etched.com)** | **[Talent Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d10c44d9320363687eb04?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| **[D&H Industries](https://dhmetalstamping.com)** | **[Human Resources Intern-Recruiting](https://jobright.ai/jobs/info/6a0e590109ecfd704b3e86dd?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI | On Site | May 19 |
-| **[Epsilon Systems Solutions, Inc.](http://www.epsilonsystems.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e529783d7144289818270?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | May 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0d02c10411d7417a1beb41?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | May 19 |
-| **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Credentialing & Compliance Intern](https://jobright.ai/jobs/info/6a0d02a9963f7a67d95ddeb4?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | May 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0d00b0963f7a67d95ddd2a?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
