@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PTI Technologies](http://ptitechnologies.com)** | **[PTI Human Resources Intern](https://jobright.ai/jobs/info/6a0f87559f654b3359ce6a38?utm_campaign=1054&utm_source=git)** | Ventura County, CA | On Site | May 21 |
+| **[Amentum](https://www.amentum.com/)** | **[Pre-Employment Coordination Team Intern](https://jobright.ai/jobs/info/6a0f84e072b52f7225f3eb5e?utm_campaign=1054&utm_source=git)** | Richmond, VA | Remote | May 21 |
+| ↳ | **[HR Projects Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f84de72b52f7225f3eb58?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | May 21 |
+| **[Convey](https://www.goconvey.com)** | **[Emerging Talent Internship](https://jobright.ai/jobs/info/6a0f821f12f8b43cf397fc10?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | May 21 |
+| **[Schurz Communications](https://www.schurz.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a0f80709f654b3359ce6611?utm_campaign=1054&utm_source=git)** | Mishawaka, IN | On Site | May 21 |
+| **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f804783d7144289820f0c?utm_campaign=1054&utm_source=git)** | Hanover, PA | On Site | May 21 |
 | **[Newport Brass Inc.](http://www.newportbrass.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f72d280bf0430c7633c84?utm_campaign=1054&utm_source=git)** | US - California - Santa Ana, US | On Site | May 21 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a0f729372b52f7225f3e015?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[OMNI Consulting Solutions](https://omniconsultingsolutions.com)** | **[OMNI SkillBridge Internship](https://jobright.ai/jobs/info/6a0f723912f8b43cf397f289?utm_campaign=1054&utm_source=git)** | NATIONWIDE, US | Remote | May 21 |
@@ -86,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69f2a03cecbc8c2f7320b9c1?utm_campaign=1054&utm_source=git)** | Cape Girardeau, MO | On Site | May 21 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acc933019f50a4fe5e202?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 21 |
 | **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a0f347080bf0430c7631980?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | May 21 |
-| **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5bc?utm_campaign=1054&utm_source=git)** | New York | On Site | May 21 |
-| ↳ | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5ba?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | May 21 |
+| **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5ba?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | May 21 |
+| ↳ | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5bc?utm_campaign=1054&utm_source=git)** | New York | On Site | May 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69d5e0eb706f771673ba7a38?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f480c80bf0430c7632388?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 | ↳ | **[Internship, Immigration Specialist (Fall 2026)](https://jobright.ai/jobs/info/6a0f4cb183d714428981e70c?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance Technical Group](https://alliancetg.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0de365beb4d73cb622c99c?utm_campaign=1054&utm_source=git)** | Decatur, AL | On Site | May 20 |
 | **[Quantiphi](http://www.quantiphi.com)** | **[HRBP - Intern](https://jobright.ai/jobs/info/6a0de30947fea1610bca4ccc?utm_campaign=1054&utm_source=git)** | Fredericton, New Brunswick, Canada | Hybrid | May 20 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | May 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f0f51cecbc8c2f73202c92?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | May 20 |
-| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Internships](https://jobright.ai/jobs/info/6a0dca8947fea1610bca3d37?utm_campaign=1054&utm_source=git)** | United States | Remote | May 20 |
-| **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d4155acfdc6132f945757a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 20 |
-| **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Training And Development Intern](https://jobright.ai/jobs/info/6a0dc347beb4d73cb622b486?utm_campaign=1054&utm_source=git)** | Mukwonago, WI | On Site | May 20 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Talent Acquisition](https://jobright.ai/jobs/info/6a09617da203b1052e448f96?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 20 |
-| **[Giant Eagle, Inc.](https://www.gianteagle.com/)** | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/6a0dbedb80bf0430c7625a23?utm_campaign=1054&utm_source=git)** | Giant Eagle Cranberry Corporate Office, US | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
