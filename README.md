@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Operations (Unpaid Internship)](https://jobright.ai/jobs/info/6a10cbd6619335383fb34d3e?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | May 22 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern (Human Resources)](https://jobright.ai/jobs/info/6a10cbb869bd827926af086f?utm_campaign=1054&utm_source=git)** | 12 SE 1st Street, Gainesville, FL | On Site | May 22 |
 | **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Human Resources Internship - Employee Relations](https://jobright.ai/jobs/info/6a10c45c9f654b3359cedce0?utm_campaign=1054&utm_source=git)** | YMCA Leadership and Learning Center, US | On Site | May 22 |
 | ↳ | **[Human Resources Internship - Employee Relations](https://jobright.ai/jobs/info/6a10c45b9f654b3359cedcdf?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | May 22 |
 | **[PT Solutions Physical Therapy](https://ptsolutions.com/)** | **[HR Coordinator Intern](https://jobright.ai/jobs/info/6a10c3e269bd827926af0521?utm_campaign=1054&utm_source=git)** | US | On Site | May 22 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[City of McKinney](https://www.mckinneytexas.org/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/6a0ef5dd9f654b3359ce1d28?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | May 21 |
 | **[Off The Hook Yachts](https://offthehookyachts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fb72880bf0430c763604e?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | May 21 |
 | **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (HR)](https://jobright.ai/jobs/info/6a104c0f9f654b3359cead2c?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | May 21 |
-| **[Convey](https://www.goconvey.com)** | **[Emerging Talent Internship](https://jobright.ai/jobs/info/6a0fb19083d7144289822462?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 21 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fafdf619335383fb2ea55?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | May 21 |
 | **[JD.COM](http://corporate.jd.com)** | **[JD Young HR Business Partner Internship](https://jobright.ai/jobs/info/6a0facff80bf0430c7635aaf?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/6a0f99eb9f654b3359ce7251?utm_campaign=1054&utm_source=git)** | Lone Tree, CO, US | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amentum](https://www.amentum.com/)** | **[HR Projects Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f20c89f654b3359ce2e4b?utm_campaign=1054&utm_source=git)** | US-NV-Las Vegas, US | On Site | May 21 |
 | **[Leons](https://www.leonsdigital.com)** | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/6a0f1dba72b52f7225f3b072?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | On Site | May 21 |
 | ↳ | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/6a0f1db572b52f7225f3b071?utm_campaign=1054&utm_source=git)** | CA-ON-Toronto | On Site | May 21 |
-| **[Nikon Inc.](http://www.nikonusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f13bc12f8b43cf397b9fa?utm_campaign=1054&utm_source=git)** | Melville, NY | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
