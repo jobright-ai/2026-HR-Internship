@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0fc6af12f8b43cf398191d?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 21 |
+| **[City+Ventures](https://city-ventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fc41872b52f7225f404b2?utm_campaign=1054&utm_source=git)** | La Vista, NE | On Site | May 21 |
+| **[City of McKinney](https://www.mckinneytexas.org/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/6a0ef5dd9f654b3359ce1d28?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | May 21 |
 | **[Off The Hook Yachts](https://offthehookyachts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fb72880bf0430c763604e?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | May 21 |
 | **[Convey](https://www.goconvey.com)** | **[Emerging Talent Internship](https://jobright.ai/jobs/info/6a0fb19083d7144289822462?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 21 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fafdf619335383fb2ea55?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | May 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Representative Intern](https://jobright.ai/jobs/info/6a0e16c6beb4d73cb622ebc3?utm_campaign=1054&utm_source=git)** | CA Los Angeles Service Center, US | Hybrid | May 20 |
 | ↳ | **[Human Resource Representative Intern](https://jobright.ai/jobs/info/6a0e16c4beb4d73cb622ebc2?utm_campaign=1054&utm_source=git)** | Brea, CA, US | Hybrid | May 20 |
 | **[North Texas Tollway Authority](https://www.ntta.org/)** | **[HR Learning & Development - Intern](https://jobright.ai/jobs/info/6a0e154b09ecfd704b3e58b6?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 20 |
-| **[Tencent](https://www.tencent.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0e1439c152ac7824482c2a?utm_campaign=1054&utm_source=git)** | US-California-Palo Alto, US | On Site | May 20 |
-| **[Behr Paint Company](http://www.behr.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e134dbeb4d73cb622e869?utm_campaign=1054&utm_source=git)** | Santa Ana, California | On Site | May 20 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Employment Data & Research Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0e062409ecfd704b3e50ff?utm_campaign=1054&utm_source=git)** | Charlottesville, VA USA, US | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
