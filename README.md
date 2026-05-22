@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a10ba6883d714428982812a?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | May 22 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a10ab589f654b3359ced56d?utm_campaign=1054&utm_source=git)** | Bowling Green, Kentucky, US | On Site | May 22 |
 | **[VPL](https://getvpl.com/#)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a10a8949f654b3359ced456?utm_campaign=1054&utm_source=git)** | WESTERVILLE, Ohio, United States | Hybrid | May 22 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a10a84a9f654b3359ced443?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nikon Inc.](http://www.nikonusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f13bc12f8b43cf397b9fa?utm_campaign=1054&utm_source=git)** | Melville, NY | Hybrid | May 21 |
 | **[Amentum](https://www.amentum.com/)** | **[Pre-Employment Coordination Team Intern](https://jobright.ai/jobs/info/6a0f126d72b52f7225f3ab58?utm_campaign=1054&utm_source=git)** | US-VA-Richmond, US | Remote | May 21 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Finance & Timekeeping Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69d73129e63cea7a8b66ebe5?utm_campaign=1054&utm_source=git)** | Staten Island, NY | On Site | May 21 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Human Resources](https://jobright.ai/jobs/info/69d7057948f0c8161d2fc5b8?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
