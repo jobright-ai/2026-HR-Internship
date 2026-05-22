@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Human Resources Internship - Employee Relations](https://jobright.ai/jobs/info/6a10c45c9f654b3359cedce0?utm_campaign=1054&utm_source=git)** | YMCA Leadership and Learning Center, US | On Site | May 22 |
+| ↳ | **[Human Resources Internship - Employee Relations](https://jobright.ai/jobs/info/6a10c45b9f654b3359cedcdf?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | May 22 |
+| **[PT Solutions Physical Therapy](https://ptsolutions.com/)** | **[HR Coordinator Intern](https://jobright.ai/jobs/info/6a10c3e269bd827926af0521?utm_campaign=1054&utm_source=git)** | US | On Site | May 22 |
+| **[Balboa Nephrology](http://bnmg.org)** | **[HR Intern Part-time (Paid)](https://jobright.ai/jobs/info/6a10c16469bd827926af0482?utm_campaign=1054&utm_source=git)** | San Diego, California, United States | Hybrid | May 22 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a10ba6883d714428982812a?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | May 22 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a10ab589f654b3359ced56d?utm_campaign=1054&utm_source=git)** | Bowling Green, Kentucky, US | On Site | May 22 |
 | **[VPL](https://getvpl.com/#)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a10a8949f654b3359ced456?utm_campaign=1054&utm_source=git)** | WESTERVILLE, Ohio, United States | Hybrid | May 22 |
@@ -92,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f3da981f90bd6ae23d22f0?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 22 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Human Resources & Organizational Development Intern](https://jobright.ai/jobs/info/6a0fe5c783d7144289823463?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | May 21 |
 | **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fd59d12f8b43cf3981e96?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | May 21 |
-| **[UDR](http://www.udr.com/)** | **[Intern- Culture and Communications](https://jobright.ai/jobs/info/6a0fceb572b52f7225f407f7?utm_campaign=1054&utm_source=git)** | Highlands Ranch, CO | Hybrid | May 21 |
 | **[Canidium](http://canidium.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fcaab12f8b43cf3981a75?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | Hybrid | May 21 |
 | **[City+Ventures](https://city-ventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fc41872b52f7225f404b2?utm_campaign=1054&utm_source=git)** | La Vista, NE | On Site | May 21 |
 | **[City of McKinney](https://www.mckinneytexas.org/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/6a0ef5dd9f654b3359ce1d28?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | May 21 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[City+Ventures](https://city-ventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f8f7683d71442898216af?utm_campaign=1054&utm_source=git)** | La Vista, NE | On Site | May 21 |
 | **[McLeod Health](http://www.mcleodhealth.org/)** | **[Human Resources Intern - McLeod Health](https://jobright.ai/jobs/info/6a0f8eb483d7144289821695?utm_campaign=1054&utm_source=git)** | 2210 Enterprise Dr, Florence, SC, 29501, US | On Site | May 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/6a0f8d9672b52f7225f3eefb?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 21 |
-| **[UDR](http://www.udr.com/)** | **[Intern- Culture and Communications](https://jobright.ai/jobs/info/6a0f88a2619335383fb2da40?utm_campaign=1054&utm_source=git)** | Highlands Ranch, Colorado, United States | Hybrid | May 21 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer](https://jobright.ai/jobs/info/6a0f88649f654b3359ce6ab5?utm_campaign=1054&utm_source=git)** | Boston | On Site | May 21 |
 | **[PTI Technologies](http://ptitechnologies.com)** | **[PTI Human Resources Intern](https://jobright.ai/jobs/info/6a0f87559f654b3359ce6a38?utm_campaign=1054&utm_source=git)** | Ventura County, CA | On Site | May 21 |
 | **[Amentum](https://www.amentum.com/)** | **[Pre-Employment Coordination Team Intern](https://jobright.ai/jobs/info/6a0f84e072b52f7225f3eb5e?utm_campaign=1054&utm_source=git)** | Richmond, VA | Remote | May 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leons](https://www.leonsdigital.com)** | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/6a0f1dba72b52f7225f3b072?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | On Site | May 21 |
 | ↳ | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/6a0f1db572b52f7225f3b071?utm_campaign=1054&utm_source=git)** | CA-ON-Toronto | On Site | May 21 |
 | **[Nikon Inc.](http://www.nikonusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f13bc12f8b43cf397b9fa?utm_campaign=1054&utm_source=git)** | Melville, NY | Hybrid | May 21 |
-| **[Amentum](https://www.amentum.com/)** | **[Pre-Employment Coordination Team Intern](https://jobright.ai/jobs/info/6a0f126d72b52f7225f3ab58?utm_campaign=1054&utm_source=git)** | US-VA-Richmond, US | Remote | May 21 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Finance & Timekeeping Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69d73129e63cea7a8b66ebe5?utm_campaign=1054&utm_source=git)** | Staten Island, NY | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
