@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arlington County Government](https://www.arlingtonva.us)** | **[Human Resources & Organizational Development Intern](https://jobright.ai/jobs/info/6a0fe5c783d7144289823463?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | May 21 |
 | **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fd59d12f8b43cf3981e96?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | May 21 |
 | **[UDR](http://www.udr.com/)** | **[Intern- Culture and Communications](https://jobright.ai/jobs/info/6a0fceb572b52f7225f407f7?utm_campaign=1054&utm_source=git)** | Highlands Ranch, CO | Hybrid | May 21 |
 | **[Canidium](http://canidium.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fcaab12f8b43cf3981a75?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | Hybrid | May 21 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Global NY](https://jobright.ai/jobs/info/69bb20753b74eb1e2c898e1a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69f2a03cecbc8c2f7320b9c1?utm_campaign=1054&utm_source=git)** | Cape Girardeau, MO | On Site | May 21 |
 | **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a0f347080bf0430c7631980?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | May 21 |
-| **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5ba?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | May 21 |
-| ↳ | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5bc?utm_campaign=1054&utm_source=git)** | New York | On Site | May 21 |
+| **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5bc?utm_campaign=1054&utm_source=git)** | New York | On Site | May 21 |
+| ↳ | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5ba?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | May 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69d5e0eb706f771673ba7a38?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f480c80bf0430c7632388?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 | ↳ | **[Internship, Immigration Specialist (Fall 2026)](https://jobright.ai/jobs/info/6a0f4cb183d714428981e70c?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Entrata](https://www.entrata.com/)** | **[Talent Coordinator Intern](https://jobright.ai/jobs/info/6a0e183c09ecfd704b3e5c4f?utm_campaign=1054&utm_source=git)** | Lehi, Utah | Hybrid | May 20 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Representative Intern](https://jobright.ai/jobs/info/6a0e16c6beb4d73cb622ebc3?utm_campaign=1054&utm_source=git)** | CA Los Angeles Service Center, US | Hybrid | May 20 |
 | ↳ | **[Human Resource Representative Intern](https://jobright.ai/jobs/info/6a0e16c4beb4d73cb622ebc2?utm_campaign=1054&utm_source=git)** | Brea, CA, US | Hybrid | May 20 |
-| **[North Texas Tollway Authority](https://www.ntta.org/)** | **[HR Learning & Development - Intern](https://jobright.ai/jobs/info/6a0e154b09ecfd704b3e58b6?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
