@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a108c3783d7144289827060?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 22 |
+| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a109dc812f8b43cf3986644?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 22 |
+| **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/6a1099f369bd827926aef6d1?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 22 |
+| **[Accuris](https://accuristech.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69f3abfb6942c746fa693515?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | May 22 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Human Resources Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/6a10875a83d7144289826d2d?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | May 22 |
 | **[Floridacentral Credit Union](https://www.floridacentralcu.com/)** | **[Intern Human Resources Coordinator - PT](https://jobright.ai/jobs/info/6a10875812f8b43cf3985b68?utm_campaign=1054&utm_source=git)** | 3333 Henderson Blvd, Tampa, FL 33609, USA | On Site | May 22 |
 | **[NorthStar Memorial Group](http://nsmg.com)** | **[Social Media and HR Intern](https://jobright.ai/jobs/info/6a10848b9f654b3359cec5b5?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Inclusion & Engagement](https://jobright.ai/jobs/info/6a0a3d6a939a5f01db9616e3?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | Hybrid | May 21 |
 | **[The HR Innovator Group](https://hrinnovatorsgroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0edb3372b52f7225f3923e?utm_campaign=1054&utm_source=git)** | United States | On Site | May 21 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6a0eda979f654b3359ce14c2?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | May 21 |
-| **[Shop Online New York](https://www.topofny.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0ed69e12f8b43cf3979de4?utm_campaign=1054&utm_source=git)** | United States | Remote | May 21 |
-| **[INNIO Group](https://www.innio.com/en/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a0ea5f880bf0430c762e23b?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
