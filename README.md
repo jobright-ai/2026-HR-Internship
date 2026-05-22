@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JD.COM](http://corporate.jd.com)** | **[JD Young HR Business Partner Internship](https://jobright.ai/jobs/info/6a0facff80bf0430c7635aaf?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 21 |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0fab3a12f8b43cf3980ea7?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 21 |
+| **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fa40e9f654b3359ce75c0?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | May 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/6a0f99eb9f654b3359ce7251?utm_campaign=1054&utm_source=git)** | Lone Tree, CO, US | On Site | May 21 |
 | **[Four Seasons](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/6a0f988a80bf0430c763544d?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | May 21 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern(Volunteer)](https://jobright.ai/jobs/info/6a0f961380bf0430c76353ef?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Employment Data & Research Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0e062409ecfd704b3e50ff?utm_campaign=1054&utm_source=git)** | Charlottesville, VA USA, US | On Site | May 20 |
 | **[Delta Faucet](http://www.deltafaucet.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e053580bf0430c762887f?utm_campaign=1054&utm_source=git)** | US - California - Santa Ana, US | On Site | May 20 |
 | **[Lexington Manufacturing, LLC](https://www.lexingtonmfg.com/)** | **[Human Resources Intern (Part-time, Summer Internship)](https://jobright.ai/jobs/info/6a0e0063c152ac7824482187?utm_campaign=1054&utm_source=git)** | Coon Rapids, MN 55448, USA | On Site | May 20 |
-| **[Pure Earth](https://www.pureearth.org/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0dfa40beb4d73cb622d91f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 20 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6a0df63fbeb4d73cb622d6f5?utm_campaign=1054&utm_source=git)** | Pryor, OK | On Site | May 20 |
-| **[BakerRipley](https://www.bakerripley.org)** | **[Human Resources Intern (1890)](https://jobright.ai/jobs/info/6a0df35e47fea1610bca55c7?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
