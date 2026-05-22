@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0fc6af12f8b43cf398191d?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 21 |
+| **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fd59d12f8b43cf3981e96?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | May 21 |
+| **[UDR](http://www.udr.com/)** | **[Intern- Culture and Communications](https://jobright.ai/jobs/info/6a0fceb572b52f7225f407f7?utm_campaign=1054&utm_source=git)** | Highlands Ranch, CO | Hybrid | May 21 |
+| **[Canidium](http://canidium.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fcaab12f8b43cf3981a75?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | Hybrid | May 21 |
 | **[City+Ventures](https://city-ventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fc41872b52f7225f404b2?utm_campaign=1054&utm_source=git)** | La Vista, NE | On Site | May 21 |
 | **[City of McKinney](https://www.mckinneytexas.org/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/6a0ef5dd9f654b3359ce1d28?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | May 21 |
 | **[Off The Hook Yachts](https://offthehookyachts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fb72880bf0430c763604e?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | May 21 |
 | **[Convey](https://www.goconvey.com)** | **[Emerging Talent Internship](https://jobright.ai/jobs/info/6a0fb19083d7144289822462?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 21 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fafdf619335383fb2ea55?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | May 21 |
 | **[JD.COM](http://corporate.jd.com)** | **[JD Young HR Business Partner Internship](https://jobright.ai/jobs/info/6a0facff80bf0430c7635aaf?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 21 |
-| **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fa40e9f654b3359ce75c0?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | May 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/6a0f99eb9f654b3359ce7251?utm_campaign=1054&utm_source=git)** | Lone Tree, CO, US | On Site | May 21 |
 | **[Four Seasons](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/6a0f988a80bf0430c763544d?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | May 21 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern(Volunteer)](https://jobright.ai/jobs/info/6a0f961380bf0430c76353ef?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 21 |
@@ -146,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Dedicated Logistics](http://shipdli.com)** | **[H Intern](https://jobright.ai/jobs/info/6a0e34e6beb4d73cb62303f6?utm_campaign=1054&utm_source=git)** | Oakdale, Minnesota, United States | On Site | May 20 |
 | **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0e2a3709ecfd704b3e68ba?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 20 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e299ac152ac7824483ef1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 20 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0e280a09ecfd704b3e67cd?utm_campaign=1054&utm_source=git)** | City Hall - St. George, UT | On Site | May 20 |
 | **[Tencent](https://www.tencent.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0e4e7c47fea1610bca9096?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 20 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Patient Benefits](https://jobright.ai/jobs/info/6a0e23ebbeb4d73cb622f7d4?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Worcester - 309 Belmont Street | On Site | May 20 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a0e213b83d714428981627b?utm_campaign=1054&utm_source=git)** | Plantation, FL | On Site | May 20 |
