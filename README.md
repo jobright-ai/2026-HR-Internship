@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Off The Hook Yachts](https://offthehookyachts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fb72880bf0430c763604e?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | May 21 |
+| **[Convey](https://www.goconvey.com)** | **[Emerging Talent Internship](https://jobright.ai/jobs/info/6a0fb19083d7144289822462?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 21 |
+| **[Modine Manufacturing Company](http://www.modine.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fafdf619335383fb2ea55?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | May 21 |
 | **[JD.COM](http://corporate.jd.com)** | **[JD Young HR Business Partner Internship](https://jobright.ai/jobs/info/6a0facff80bf0430c7635aaf?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 21 |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0fab3a12f8b43cf3980ea7?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 21 |
 | **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fa40e9f654b3359ce75c0?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | May 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/6a0f99eb9f654b3359ce7251?utm_campaign=1054&utm_source=git)** | Lone Tree, CO, US | On Site | May 21 |
 | **[Four Seasons](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/6a0f988a80bf0430c763544d?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | May 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0e1439c152ac7824482c2a?utm_campaign=1054&utm_source=git)** | US-California-Palo Alto, US | On Site | May 20 |
 | **[Behr Paint Company](http://www.behr.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e134dbeb4d73cb622e869?utm_campaign=1054&utm_source=git)** | Santa Ana, California | On Site | May 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Employment Data & Research Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0e062409ecfd704b3e50ff?utm_campaign=1054&utm_source=git)** | Charlottesville, VA USA, US | On Site | May 20 |
-| **[Delta Faucet](http://www.deltafaucet.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e053580bf0430c762887f?utm_campaign=1054&utm_source=git)** | US - California - Santa Ana, US | On Site | May 20 |
-| **[Lexington Manufacturing, LLC](https://www.lexingtonmfg.com/)** | **[Human Resources Intern (Part-time, Summer Internship)](https://jobright.ai/jobs/info/6a0e0063c152ac7824482187?utm_campaign=1054&utm_source=git)** | Coon Rapids, MN 55448, USA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
