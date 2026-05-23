@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a11189683d714428982a76d?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 22 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Internship](https://jobright.ai/jobs/info/6a1117279f654b3359cefe58?utm_campaign=1054&utm_source=git)** | Anderson, SC | On Site | May 22 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6998ab37ce78e77b4fdd4659?utm_campaign=1054&utm_source=git)** | Paramus, NJ | On Site | May 22 |
 | **[CJ 4DPLEX](https://www.cj4dx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a10ef65619335383fb356a8?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | May 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f40ef619335383fb2a5dd?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | May 21 |
 | ↳ | **[Internship, Coordinator, People Content (Fall 2026)](https://jobright.ai/jobs/info/6a0f40c780bf0430c763213c?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
 | ↳ | **[Internship, HR & People Teams (Fall 2026)](https://jobright.ai/jobs/info/6a0f40c080bf0430c763212a?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
+| **[Sellmark Corporation](https://sellmark.com)** | **[Human Resources Intern - Generalist](https://jobright.ai/jobs/info/6a0f3fe4619335383fb2a5a4?utm_campaign=1054&utm_source=git)** | Mansfield, TX | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
