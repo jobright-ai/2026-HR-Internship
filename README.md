@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Superior Insurance Partners](https://superiorinsurancepartnersllc.com/)** | **[Talent Acquisition/Human Resource Intern](https://jobright.ai/jobs/info/6a117b799fdbf21f36cb3e55?utm_campaign=1054&utm_source=git)** | Chicago, Illinois | On Site | May 23 |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b609fdbf21f36cb3e51?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | May 23 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b5f9fdbf21f36cb3e4f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 23 |
 | **[XLA](http://www.xla.com/)** | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a115f1183d714428982b411?utm_campaign=1054&utm_source=git)** | Washington, D.C. | Hybrid | May 23 |
 | ↳ | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a115f1083d714428982b410?utm_campaign=1054&utm_source=git)** | Virgina | Hybrid | May 23 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Recruiting Internship](https://jobright.ai/jobs/info/6a11448812f8b43cf3989e3d?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
@@ -102,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Human Resources Intern](https://jobright.ai/jobs/info/6a106daa69bd827926aee3a5?utm_campaign=1054&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
 | ↳ | **[Drexel Attorney Recruitment Intern](https://jobright.ai/jobs/info/6a106da9619335383fb326f5?utm_campaign=1054&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/69bb1f3a06c1ba00c54d9726?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 22 |
-| **[American Century Investments](https://www.americancentury.com)** | **[HR Intern](https://jobright.ai/jobs/info/69d84ea3869c7e25d8594cd1?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 22 |
 | **[JonnyPops](https://www.jonnypops.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a10689d69bd827926aee1d3?utm_campaign=1054&utm_source=git)** | Plymout, MN | Hybrid | May 22 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Summer Intern - Human Resources (Career Ladders, Compensation, Total Rewards)](https://jobright.ai/jobs/info/6a0b8b3a538d03366dc868ae?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 22 |
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6a10625583d7144289825d54?utm_campaign=1054&utm_source=git)** | Long Beach, California, United States | On Site | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Fall 2026)](https://jobright.ai/jobs/info/6a0f410772b52f7225f3c2a4?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
 | ↳ | **[Internship, Payroll (Fall 2026)](https://jobright.ai/jobs/info/6a0f40fd619335383fb2a5ef?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | May 21 |
 | ↳ | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f40f5619335383fb2a5e5?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
-| ↳ | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f40ef619335383fb2a5dd?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | May 21 |
-| ↳ | **[Internship, Coordinator, People Content (Fall 2026)](https://jobright.ai/jobs/info/6a0f40c780bf0430c763213c?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
