@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a11c2ad83d714428982c779?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 23 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Recruiting Intern – Fast-Growing Startup](https://jobright.ai/jobs/info/6a11ccd783d714428982c884?utm_campaign=1054&utm_source=git)** | United States | Remote | May 23 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a11b4a59f654b3359cf1a89?utm_campaign=1054&utm_source=git)** | NYC-ALL BOROS | On Site | May 23 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f529910b36ff0354750cf5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 23 |
 | **[Superior Insurance Partners](https://superiorinsurancepartnersllc.com/)** | **[Talent Acquisition/Human Resource Intern](https://jobright.ai/jobs/info/6a117b799fdbf21f36cb3e55?utm_campaign=1054&utm_source=git)** | Chicago, Illinois | On Site | May 23 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b609fdbf21f36cb3e51?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | May 23 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b5f9fdbf21f36cb3e4f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 23 |
 | **[XLA](http://www.xla.com/)** | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a115f1183d714428982b411?utm_campaign=1054&utm_source=git)** | Washington, D.C. | Hybrid | May 23 |
 | ↳ | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a115f1083d714428982b410?utm_campaign=1054&utm_source=git)** | Virgina | Hybrid | May 23 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Recruiting Internship](https://jobright.ai/jobs/info/6a11448812f8b43cf3989e3d?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Internship](https://jobright.ai/jobs/info/6a1117279f654b3359cefe58?utm_campaign=1054&utm_source=git)** | Anderson, SC | On Site | May 22 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6998ab37ce78e77b4fdd4659?utm_campaign=1054&utm_source=git)** | Paramus, NJ | On Site | May 22 |
 | **[CJ 4DPLEX](https://www.cj4dx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a10ef65619335383fb356a8?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | May 22 |
