@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1209a0619335383fb392f1?utm_campaign=1054&utm_source=git)** | Stamford, CT Office | On Site | May 23 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a12099f619335383fb392ee?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | May 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0cdf230411d7417a1bd390?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | May 23 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a11b4a59f654b3359cf1a89?utm_campaign=1054&utm_source=git)** | NYC-ALL BOROS | On Site | May 23 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f529910b36ff0354750cf5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 23 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69faedffe156000841155049?utm_campaign=1054&utm_source=git)** | Capitola, CA | On Site | May 22 |
 | **[WisdomTree](http://www.wisdomtree.com)** | **[Human Resources Intern – 2026](https://jobright.ai/jobs/info/69f4d3dca3d34b4f76f51d94?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[Akron Children's](http://www.akronchildrens.org)** | **[HR Intern - Data and Reporting](https://jobright.ai/jobs/info/6a107f21619335383fb32d4a?utm_campaign=1054&utm_source=git)** | US:OH:Akron | On Site | May 22 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Compensation Analyst](https://jobright.ai/jobs/info/6a1110019f654b3359cef9fb?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | May 22 |
 | **[Selene Finance LP](https://seleneadvantage.com)** | **[Internship - People Ops](https://jobright.ai/jobs/info/69d6e3becfdc6132f946df53?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | May 22 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Human Resources Intern](https://jobright.ai/jobs/info/6a106daa69bd827926aee3a5?utm_campaign=1054&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
 | ↳ | **[Drexel Attorney Recruitment Intern](https://jobright.ai/jobs/info/6a106da9619335383fb326f5?utm_campaign=1054&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Internship Summer 2026](https://jobright.ai/jobs/info/6a0f42f7619335383fb2a6be?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 21 |
 | **[Eleos](https://www.eleos.nl/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f422b12f8b43cf397cf8f?utm_campaign=1054&utm_source=git)** | United States | Remote | May 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Fall 2026)](https://jobright.ai/jobs/info/6a0f410772b52f7225f3c2a4?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
-| ↳ | **[Internship, Payroll (Fall 2026)](https://jobright.ai/jobs/info/6a0f40fd619335383fb2a5ef?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
