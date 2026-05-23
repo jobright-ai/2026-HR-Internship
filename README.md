@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern (Human Resources)](https://jobright.ai/jobs/info/6a10cbb869bd827926af086f?utm_campaign=1054&utm_source=git)** | 12 SE 1st Street, Gainesville, FL | On Site | May 22 |
 | **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Human Resources Internship - Employee Relations](https://jobright.ai/jobs/info/6a10c45c9f654b3359cedce0?utm_campaign=1054&utm_source=git)** | YMCA Leadership and Learning Center, US | On Site | May 22 |
 | ↳ | **[Human Resources Internship - Employee Relations](https://jobright.ai/jobs/info/6a10c45b9f654b3359cedcdf?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | May 22 |
-| **[PT Solutions Physical Therapy](https://ptsolutions.com/)** | **[HR Coordinator Intern](https://jobright.ai/jobs/info/6a10c3e269bd827926af0521?utm_campaign=1054&utm_source=git)** | US | On Site | May 22 |
 | **[Balboa Nephrology](http://bnmg.org)** | **[HR Intern Part-time (Paid)](https://jobright.ai/jobs/info/6a10c16469bd827926af0482?utm_campaign=1054&utm_source=git)** | San Diego, California, United States | Hybrid | May 22 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a10ba6883d714428982812a?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | May 22 |
 | **[JonnyPops](https://www.jonnypops.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a10ef34619335383fb3564f?utm_campaign=1054&utm_source=git)** | Minnesota, United States | On Site | May 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Fall 2026)](https://jobright.ai/jobs/info/6a0f410772b52f7225f3c2a4?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
 | ↳ | **[Internship, Payroll (Fall 2026)](https://jobright.ai/jobs/info/6a0f40fd619335383fb2a5ef?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | May 21 |
 | ↳ | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f40f5619335383fb2a5e5?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
+| ↳ | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f40ef619335383fb2a5dd?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
