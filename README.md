@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69d71c5748f0c8161d2fd092?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 22 |
 | **[Lendsqr](https://lendsqr.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1036e6619335383fb3111e?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
 | **[Hideouts](https://madlyradlabs.web.app)** | **[Summer High School Administrative Startup Intern (Remote)](https://jobright.ai/jobs/info/6a1036b883d7144289824a60?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Nursing (ETS) / Temporary](https://jobright.ai/jobs/info/69f3f849461b9b613a6253e8?utm_campaign=1054&utm_source=git)** | Atlanta Metro | Hybrid | May 22 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/69f3da981f90bd6ae23d22f0?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 22 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Human Resources & Organizational Development Intern](https://jobright.ai/jobs/info/6a0fe5c783d7144289823463?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | May 21 |
 | **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0fd59d12f8b43cf3981e96?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | May 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Coordinator, People Content (Fall 2026)](https://jobright.ai/jobs/info/6a0f40c780bf0430c763213c?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
 | ↳ | **[Internship, HR & People Teams (Fall 2026)](https://jobright.ai/jobs/info/6a0f40c080bf0430c763212a?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 | **[Sellmark Corporation](https://sellmark.com)** | **[Human Resources Intern - Generalist](https://jobright.ai/jobs/info/6a0f3fe4619335383fb2a5a4?utm_campaign=1054&utm_source=git)** | Mansfield, TX | On Site | May 21 |
+| **[Four Seasons](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/6a0f3eba80bf0430c7631fc7?utm_campaign=1054&utm_source=git)** | Santa Fe, US | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
