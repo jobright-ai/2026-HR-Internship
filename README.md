@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a1151c683d714428982b2b6?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 23 |
+| **[XLA](http://www.xla.com/)** | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a115f1183d714428982b411?utm_campaign=1054&utm_source=git)** | Washington, D.C. | Hybrid | May 23 |
+| ↳ | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a115f1083d714428982b410?utm_campaign=1054&utm_source=git)** | Virgina | Hybrid | May 23 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Recruiting Internship](https://jobright.ai/jobs/info/6a11448812f8b43cf3989e3d?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Internship](https://jobright.ai/jobs/info/6a1117279f654b3359cefe58?utm_campaign=1054&utm_source=git)** | Anderson, SC | On Site | May 22 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6998ab37ce78e77b4fdd4659?utm_campaign=1054&utm_source=git)** | Paramus, NJ | On Site | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f40f5619335383fb2a5e5?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
 | ↳ | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f40ef619335383fb2a5dd?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | May 21 |
 | ↳ | **[Internship, Coordinator, People Content (Fall 2026)](https://jobright.ai/jobs/info/6a0f40c780bf0430c763213c?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
-| ↳ | **[Internship, HR & People Teams (Fall 2026)](https://jobright.ai/jobs/info/6a0f40c080bf0430c763212a?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
