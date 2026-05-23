@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a10e0d583d7144289828e48?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 22 |
+| **[Worley](https://www.worley.com)** | **[HR (People) Intern](https://jobright.ai/jobs/info/6a10e0aa69bd827926af0da4?utm_campaign=1054&utm_source=git)** | CAN-AB-Edmonton | On Site | May 22 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Operations (Unpaid Internship)](https://jobright.ai/jobs/info/6a10cbd6619335383fb34d3e?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern (Human Resources)](https://jobright.ai/jobs/info/6a10cbb869bd827926af086f?utm_campaign=1054&utm_source=git)** | 12 SE 1st Street, Gainesville, FL | On Site | May 22 |
 | **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Human Resources Internship - Employee Relations](https://jobright.ai/jobs/info/6a10c45c9f654b3359cedce0?utm_campaign=1054&utm_source=git)** | YMCA Leadership and Learning Center, US | On Site | May 22 |
@@ -105,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (HR)](https://jobright.ai/jobs/info/6a104c0f9f654b3359cead2c?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | May 21 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fafdf619335383fb2ea55?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | May 21 |
 | **[JD.COM](http://corporate.jd.com)** | **[JD Young HR Business Partner Internship](https://jobright.ai/jobs/info/6a0facff80bf0430c7635aaf?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 21 |
+| **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a10e299619335383fb352a4?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/6a0f99eb9f654b3359ce7251?utm_campaign=1054&utm_source=git)** | Lone Tree, CO, US | On Site | May 21 |
 | **[Four Seasons](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/6a0f988a80bf0430c763544d?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | May 21 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern(Volunteer)](https://jobright.ai/jobs/info/6a0f961380bf0430c76353ef?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f480c80bf0430c7632388?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 | ↳ | **[Internship, Immigration Specialist (Fall 2026)](https://jobright.ai/jobs/info/6a0f4cb183d714428981e70c?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[High School Internship (Nashville, Summer 2026)](https://jobright.ai/jobs/info/69bab4fb5697383741408b3e?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | May 21 |
-| **[Amentum](https://www.amentum.com/)** | **[HR Projects Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f20c89f654b3359ce2e4b?utm_campaign=1054&utm_source=git)** | US-NV-Las Vegas, US | On Site | May 21 |
-| **[Leons](https://www.leonsdigital.com)** | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/6a0f1dba72b52f7225f3b072?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | On Site | May 21 |
-| ↳ | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/6a0f1db572b52f7225f3b071?utm_campaign=1054&utm_source=git)** | CA-ON-Toronto | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
