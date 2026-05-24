@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b5f9fdbf21f36cb3e4f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 23 |
 | **[XLA](http://www.xla.com/)** | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a115f1183d714428982b411?utm_campaign=1054&utm_source=git)** | Washington, D.C. | Hybrid | May 23 |
 | ↳ | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a115f1083d714428982b410?utm_campaign=1054&utm_source=git)** | Virgina | Hybrid | May 23 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bbe8cc45e08b3dc1f7af10?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | May 22 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6983b1a6348f733a5c36e8df?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | May 22 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Internship](https://jobright.ai/jobs/info/6a1117279f654b3359cefe58?utm_campaign=1054&utm_source=git)** | Anderson, SC | On Site | May 22 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6998ab37ce78e77b4fdd4659?utm_campaign=1054&utm_source=git)** | Paramus, NJ | On Site | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a0f564680bf0430c7632bae?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 21 |
 | **[OTAVA®](https://www.otava.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a0f532180bf0430c76329d3?utm_campaign=1054&utm_source=git)** | Mishawaka, Indiana, United States | On Site | May 21 |
 | **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f92f09f654b3359ce7016?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 21 |
-| **[Mauser Packaging Solutions](https://mauserpackaging.com)** | **[Summer Intern-Paid](https://jobright.ai/jobs/info/6a0f502572b52f7225f3cad5?utm_campaign=1054&utm_source=git)** | Homerville, GA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
