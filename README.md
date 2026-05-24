@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a124e6783d714428982d924?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 23 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a12513783d714428982d968?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 23 |
 | **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1209a0619335383fb392f1?utm_campaign=1054&utm_source=git)** | Stamford, CT Office | On Site | May 23 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a12099f619335383fb392ee?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | May 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0cdf230411d7417a1bd390?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | May 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Internship Summer 2026](https://jobright.ai/jobs/info/6a0f42f7619335383fb2a6be?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 21 |
 | **[Eleos](https://www.eleos.nl/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f422b12f8b43cf397cf8f?utm_campaign=1054&utm_source=git)** | United States | Remote | May 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Fall 2026)](https://jobright.ai/jobs/info/6a0f410772b52f7225f3c2a4?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
-| ↳ | **[Internship, Payroll (Fall 2026)](https://jobright.ai/jobs/info/6a0f40fd619335383fb2a5ef?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | May 21 |
-| ↳ | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f40f5619335383fb2a5e5?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
