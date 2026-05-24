@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a12a8f4619335383fb3b202?utm_campaign=1054&utm_source=git)** | Canada | Remote | May 24 |
+| **[Peter Becker Community](https://www.peterbeckercommunity.com/)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a129f7f83d714428982ebb6?utm_campaign=1054&utm_source=git)** | Peter Becker Community - Harleysville, PA 19438 | On Site | May 23 |
+| **[AMS Fulfillment](http://www.amsfulfillment.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a129e8112f8b43cf398d244?utm_campaign=1054&utm_source=git)** | CA 28936 Avenue Williams - Valencia, CA 91355 | On Site | May 23 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a129e7f12f8b43cf398d242?utm_campaign=1054&utm_source=git)** | CA 28624 Witherspoon Office - Valencia, CA 91355 | On Site | May 23 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Talent Internship – Build AI & Engineering Teams](https://jobright.ai/jobs/info/6a1272039f654b3359cf31f9?utm_campaign=1054&utm_source=git)** | United States | Remote | May 23 |
 | **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1209a0619335383fb392f1?utm_campaign=1054&utm_source=git)** | Stamford, CT Office | On Site | May 23 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a12099f619335383fb392ee?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | May 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OTAVA®](https://www.otava.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a0f532180bf0430c76329d3?utm_campaign=1054&utm_source=git)** | Mishawaka, Indiana, United States | On Site | May 21 |
 | **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f92f09f654b3359ce7016?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 21 |
 | **[Mauser Packaging Solutions](https://mauserpackaging.com)** | **[Summer Intern-Paid](https://jobright.ai/jobs/info/6a0f502572b52f7225f3cad5?utm_campaign=1054&utm_source=git)** | Homerville, GA | On Site | May 21 |
-| **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6a0f501483d714428981e891?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
-| ↳ | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6a0f4ad1619335383fb2aa89?utm_campaign=1054&utm_source=git)** | New York | On Site | May 21 |
-| **[Gallagher](https://www.ajg.com/)** | **[Corporate Intern - Global Total Rewards Team](https://jobright.ai/jobs/info/69f26047ab4ec4779fff8bd0?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL | On Site | May 21 |
-| **[H Mart Manhattan](https://www.hmartny.com/)** | **[Bilingual HR & Business Administration Intern (English/Korean)](https://jobright.ai/jobs/info/6a0f458972b52f7225f3c4c4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
