@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a13077512f8b43cf398e2be?utm_campaign=1054&utm_source=git)** | United States | Remote | May 24 |
+| **[Liberate](https://www.liberateinc.com/)** | **[Summer Internships - Expression of interest](https://jobright.ai/jobs/info/6a1306fa83d714428982fcf3?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 24 |
+| **[Electro](electrogum.com)** | **[Affiliate Recruitment Intern](https://jobright.ai/jobs/info/6a13010b9fdbf21f36cb808a?utm_campaign=1054&utm_source=git)** | United States | Remote | May 24 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 24 |
 | **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a0f729372b52f7225f3e015?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[OMNI Consulting Solutions](https://omniconsultingsolutions.com)** | **[OMNI SkillBridge Internship](https://jobright.ai/jobs/info/6a0f723912f8b43cf397f289?utm_campaign=1054&utm_source=git)** | NATIONWIDE, US | Remote | May 21 |
 | **[Chicago Blackhawks](http://hurricanes.nhl.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a0f691572b52f7225f3db3e?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 21 |
-| **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f688212f8b43cf397ed05?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
-| **[GS Global Resources, Inc.](http://www.gsglobalresources.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f62bb12f8b43cf397e8f3?utm_campaign=1054&utm_source=git)** | Mukwonago, WI | On Site | May 21 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a0f564780bf0430c7632bb1?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
