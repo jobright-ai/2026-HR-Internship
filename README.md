@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Peter Becker Community](https://www.peterbeckercommunity.com/)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a129f7f83d714428982ebb6?utm_campaign=1054&utm_source=git)** | Peter Becker Community - Harleysville, PA 19438 | On Site | May 23 |
 | **[AMS Fulfillment](http://www.amsfulfillment.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a129e8112f8b43cf398d244?utm_campaign=1054&utm_source=git)** | CA 28936 Avenue Williams - Valencia, CA 91355 | On Site | May 23 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a129e7f12f8b43cf398d242?utm_campaign=1054&utm_source=git)** | CA 28624 Witherspoon Office - Valencia, CA 91355 | On Site | May 23 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Talent Internship – Build AI & Engineering Teams](https://jobright.ai/jobs/info/6a1272039f654b3359cf31f9?utm_campaign=1054&utm_source=git)** | United States | Remote | May 23 |
 | **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1209a0619335383fb392f1?utm_campaign=1054&utm_source=git)** | Stamford, CT Office | On Site | May 23 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a12099f619335383fb392ee?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | May 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0cdf230411d7417a1bd390?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | May 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a0f729372b52f7225f3e015?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[OMNI Consulting Solutions](https://omniconsultingsolutions.com)** | **[OMNI SkillBridge Internship](https://jobright.ai/jobs/info/6a0f723912f8b43cf397f289?utm_campaign=1054&utm_source=git)** | NATIONWIDE, US | Remote | May 21 |
 | **[Chicago Blackhawks](http://hurricanes.nhl.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a0f691572b52f7225f3db3e?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 21 |
+| **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f688212f8b43cf397ed05?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
