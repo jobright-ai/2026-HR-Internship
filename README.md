@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | May 24 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f0e9fdbf21f36cb891c?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | May 24 |
+| **[Elite Brands of Colorado](https://elite-brands.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a133939619335383fb3c730?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 24 |
 | **[Steel Dynamics Flat Roll Group](https://stld.steeldynamics.com/flat-roll/)** | **[HR Business Analyst Internship](https://jobright.ai/jobs/info/6a132e1383d7144289830390?utm_campaign=1054&utm_source=git)** | US-IN-Fort Wayne | On Site | May 24 |
 | ↳ | **[HR Business Analyst Internship](https://jobright.ai/jobs/info/6a132e1283d714428983038f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, US | On Site | May 24 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a13077512f8b43cf398e2be?utm_campaign=1054&utm_source=git)** | United States | Remote | May 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTI Technologies](http://ptitechnologies.com)** | **[PTI Human Resources Intern](https://jobright.ai/jobs/info/6a0f87559f654b3359ce6a38?utm_campaign=1054&utm_source=git)** | Ventura County, CA | On Site | May 21 |
 | **[Amentum](https://www.amentum.com/)** | **[HR Projects Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f84de72b52f7225f3eb58?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | May 21 |
 | **[Convey](https://www.goconvey.com)** | **[Emerging Talent Internship](https://jobright.ai/jobs/info/6a0f821f12f8b43cf397fc10?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | May 21 |
-| **[Schurz Communications](https://www.schurz.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a0f80709f654b3359ce6611?utm_campaign=1054&utm_source=git)** | Mishawaka, IN | On Site | May 21 |
-| **[Newport Brass Inc.](http://www.newportbrass.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f72d280bf0430c7633c84?utm_campaign=1054&utm_source=git)** | US - California - Santa Ana, US | On Site | May 21 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a0f729372b52f7225f3e015?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
