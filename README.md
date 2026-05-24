@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a12327d83d714428982d514?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 23 |
 | **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1209a0619335383fb392f1?utm_campaign=1054&utm_source=git)** | Stamford, CT Office | On Site | May 23 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a12099f619335383fb392ee?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | May 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0cdf230411d7417a1bd390?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | May 23 |
@@ -70,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a115f1083d714428982b410?utm_campaign=1054&utm_source=git)** | Virgina | Hybrid | May 23 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Internship](https://jobright.ai/jobs/info/6a1117279f654b3359cefe58?utm_campaign=1054&utm_source=git)** | Anderson, SC | On Site | May 22 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6998ab37ce78e77b4fdd4659?utm_campaign=1054&utm_source=git)** | Paramus, NJ | On Site | May 22 |
-| **[CJ 4DPLEX](https://www.cj4dx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a10ef65619335383fb356a8?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | May 22 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a11148d83d714428982a590?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | May 22 |
 | **[Worley](https://www.worley.com)** | **[HR (People) Intern](https://jobright.ai/jobs/info/6a10e0aa69bd827926af0da4?utm_campaign=1054&utm_source=git)** | CAN-AB-Edmonton | On Site | May 22 |
 | ↳ | **[HR (People) Intern](https://jobright.ai/jobs/info/6a10fa649fdbf21f36cb20e6?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 22 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Internship Summer 2026](https://jobright.ai/jobs/info/6a0f42f7619335383fb2a6be?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 21 |
 | **[Eleos](https://www.eleos.nl/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f422b12f8b43cf397cf8f?utm_campaign=1054&utm_source=git)** | United States | Remote | May 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Fall 2026)](https://jobright.ai/jobs/info/6a0f410772b52f7225f3c2a4?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
+| ↳ | **[Internship, Payroll (Fall 2026)](https://jobright.ai/jobs/info/6a0f40fd619335383fb2a5ef?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | May 21 |
+| ↳ | **[Internship, Recruiting (Fall 2026)](https://jobright.ai/jobs/info/6a0f40f5619335383fb2a5e5?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
