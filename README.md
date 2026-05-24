@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a12327d83d714428982d514?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 23 |
 | **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1209a0619335383fb392f1?utm_campaign=1054&utm_source=git)** | Stamford, CT Office | On Site | May 23 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a12099f619335383fb392ee?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | May 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0cdf230411d7417a1bd390?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | May 23 |
@@ -135,8 +136,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/6a0f8d9672b52f7225f3eefb?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 21 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer](https://jobright.ai/jobs/info/6a0f88649f654b3359ce6ab5?utm_campaign=1054&utm_source=git)** | Boston | On Site | May 21 |
 | **[PTI Technologies](http://ptitechnologies.com)** | **[PTI Human Resources Intern](https://jobright.ai/jobs/info/6a0f87559f654b3359ce6a38?utm_campaign=1054&utm_source=git)** | Ventura County, CA | On Site | May 21 |
-| **[Amentum](https://www.amentum.com/)** | **[Pre-Employment Coordination Team Intern](https://jobright.ai/jobs/info/6a0f84e072b52f7225f3eb5e?utm_campaign=1054&utm_source=git)** | Richmond, VA | Remote | May 21 |
-| ↳ | **[HR Projects Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f84de72b52f7225f3eb58?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | May 21 |
+| **[Amentum](https://www.amentum.com/)** | **[HR Projects Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f84de72b52f7225f3eb58?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | May 21 |
 | **[Convey](https://www.goconvey.com)** | **[Emerging Talent Internship](https://jobright.ai/jobs/info/6a0f821f12f8b43cf397fc10?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | May 21 |
 | **[Schurz Communications](https://www.schurz.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a0f80709f654b3359ce6611?utm_campaign=1054&utm_source=git)** | Mishawaka, IN | On Site | May 21 |
 | **[Newport Brass Inc.](http://www.newportbrass.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f72d280bf0430c7633c84?utm_campaign=1054&utm_source=git)** | US - California - Santa Ana, US | On Site | May 21 |
