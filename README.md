@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
+| **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6a12b7d712f8b43cf398d6a4?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 24 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a12a8f4619335383fb3b202?utm_campaign=1054&utm_source=git)** | Canada | Remote | May 24 |
 | **[Peter Becker Community](https://www.peterbeckercommunity.com/)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a129f7f83d714428982ebb6?utm_campaign=1054&utm_source=git)** | Peter Becker Community - Harleysville, PA 19438 | On Site | May 23 |
 | **[AMS Fulfillment](http://www.amsfulfillment.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a129e8112f8b43cf398d244?utm_campaign=1054&utm_source=git)** | CA 28936 Avenue Williams - Valencia, CA 91355 | On Site | May 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f688212f8b43cf397ed05?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[GS Global Resources, Inc.](http://www.gsglobalresources.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0f62bb12f8b43cf397e8f3?utm_campaign=1054&utm_source=git)** | Mukwonago, WI | On Site | May 21 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a0f564780bf0430c7632bb1?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 21 |
-| ↳ | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a0f564680bf0430c7632bae?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 21 |
-| **[OTAVA®](https://www.otava.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a0f532180bf0430c76329d3?utm_campaign=1054&utm_source=git)** | Mishawaka, Indiana, United States | On Site | May 21 |
-| **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f92f09f654b3359ce7016?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
