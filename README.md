@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Birch Hill Equity Partners](http://www.birchhillequity.com/)** | **[2027 Accelerated Recruiting (DS Summer and Co-Op Internships)](https://jobright.ai/jobs/info/6a149151bc9bff375af01830?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 25 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Explosive Testing, Fab & Operations, Onsite](https://jobright.ai/jobs/info/6a10e9a6619335383fb3545d?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | May 25 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a147b4f554b0e12c057f32d?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 25 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/6a147061bc9bff375af012c6?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | May 25 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | May 25 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccd09fdbf21f36cba4eb?utm_campaign=1054&utm_source=git)** | AZ Phoenix (ASM America Inc.) | On Site | May 24 |
 | ↳ | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccce9fdbf21f36cba4e7?utm_campaign=1054&utm_source=git)** | US > Arizona > Phoenix | On Site | May 24 |
