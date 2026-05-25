@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a13834683d7144289830dae?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 24 |
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | May 24 |
 | ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f0e9fdbf21f36cb891c?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | May 24 |
 | **[Elite Brands of Colorado](https://elite-brands.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a133939619335383fb3c730?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer](https://jobright.ai/jobs/info/6a0f88649f654b3359ce6ab5?utm_campaign=1054&utm_source=git)** | Boston | On Site | May 21 |
 | **[PTI Technologies](http://ptitechnologies.com)** | **[PTI Human Resources Intern](https://jobright.ai/jobs/info/6a0f87559f654b3359ce6a38?utm_campaign=1054&utm_source=git)** | Ventura County, CA | On Site | May 21 |
 | **[Amentum](https://www.amentum.com/)** | **[HR Projects Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f84de72b52f7225f3eb58?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | May 21 |
+| **[Convey](https://www.goconvey.com)** | **[Emerging Talent Internship](https://jobright.ai/jobs/info/6a0f821f12f8b43cf397fc10?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
