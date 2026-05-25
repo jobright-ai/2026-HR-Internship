@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a1410655fdf991ebf771194?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 25 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[AI Startup - Recruiting Operations Internship](https://jobright.ai/jobs/info/6a13ea559fdbf21f36cbad29?utm_campaign=1054&utm_source=git)** | United States | Remote | May 24 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccd09fdbf21f36cba4eb?utm_campaign=1054&utm_source=git)** | AZ Phoenix (ASM America Inc.) | On Site | May 24 |
 | ↳ | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccce9fdbf21f36cba4e7?utm_campaign=1054&utm_source=git)** | US > Arizona > Phoenix | On Site | May 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer](https://jobright.ai/jobs/info/6a103ff4619335383fb31603?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69d71c5748f0c8161d2fd092?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 22 |
 | **[Lendsqr](https://lendsqr.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1036e6619335383fb3111e?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
-| **[Hideouts](https://madlyradlabs.web.app)** | **[Summer High School Administrative Startup Intern (Remote)](https://jobright.ai/jobs/info/6a1036b883d7144289824a60?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
