@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Human Resources Internship - Employee Relations](https://jobright.ai/jobs/info/6a13a76983d71442898312fb?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 24 |
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | May 24 |
 | ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f0e9fdbf21f36cb891c?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | May 24 |
 | **[Elite Brands of Colorado](https://elite-brands.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a133939619335383fb3c730?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 24 |
 | **[Steel Dynamics Flat Roll Group](https://stld.steeldynamics.com/flat-roll/)** | **[HR Business Analyst Internship](https://jobright.ai/jobs/info/6a132e1383d7144289830390?utm_campaign=1054&utm_source=git)** | US-IN-Fort Wayne | On Site | May 24 |
 | ↳ | **[HR Business Analyst Internship](https://jobright.ai/jobs/info/6a132e1283d714428983038f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, US | On Site | May 24 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69a257da0da45516f16b9b90?utm_campaign=1054&utm_source=git)** | Breinigsville, PA | On Site | May 24 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a13077512f8b43cf398e2be?utm_campaign=1054&utm_source=git)** | United States | Remote | May 24 |
 | **[Liberate](https://www.liberateinc.com/)** | **[Summer Internships - Expression of interest](https://jobright.ai/jobs/info/6a1306fa83d714428982fcf3?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 24 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 24 |
