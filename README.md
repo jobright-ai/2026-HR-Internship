@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Explosive Testing, Fab & Operations, Onsite](https://jobright.ai/jobs/info/6a10e9a6619335383fb3545d?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | May 25 |
+| **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a147b4f554b0e12c057f32d?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 25 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/6a147061bc9bff375af012c6?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | May 25 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | May 25 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccd09fdbf21f36cba4eb?utm_campaign=1054&utm_source=git)** | AZ Phoenix (ASM America Inc.) | On Site | May 24 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Human Resources Internship - Employee Relations](https://jobright.ai/jobs/info/6a13a76983d71442898312fb?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 24 |
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | May 24 |
 | ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f0e9fdbf21f36cb891c?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | May 24 |
-| **[Elite Brands of Colorado](https://elite-brands.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a133939619335383fb3c730?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 24 |
 | **[Steel Dynamics Flat Roll Group](https://stld.steeldynamics.com/flat-roll/)** | **[HR Business Analyst Internship](https://jobright.ai/jobs/info/6a132e1383d7144289830390?utm_campaign=1054&utm_source=git)** | US-IN-Fort Wayne | On Site | May 24 |
 | ↳ | **[HR Business Analyst Internship](https://jobright.ai/jobs/info/6a132e1283d714428983038f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, US | On Site | May 24 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a13077512f8b43cf398e2be?utm_campaign=1054&utm_source=git)** | United States | Remote | May 24 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 24 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 24 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bfd1e17798f73e35e4aa92?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | May 24 |
-| **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
+| **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6a12b7d712f8b43cf398d6a4?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 24 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | May 24 |
 | **[Peter Becker Community](https://www.peterbeckercommunity.com/)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a129f7f83d714428982ebb6?utm_campaign=1054&utm_source=git)** | Peter Becker Community - Harleysville, PA 19438 | On Site | May 23 |
@@ -140,7 +141,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Drexel Human Resources Intern](https://jobright.ai/jobs/info/6a10fa59619335383fb35e64?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | May 22 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Human Resources Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/6a10875a83d7144289826d2d?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | May 22 |
 | **[Floridacentral Credit Union](https://www.floridacentralcu.com/)** | **[Intern Human Resources Coordinator - PT](https://jobright.ai/jobs/info/6a10875812f8b43cf3985b68?utm_campaign=1054&utm_source=git)** | 3333 Henderson Blvd, Tampa, FL 33609, USA | On Site | May 22 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Explosive Testing, Fab & Operations, Onsite](https://jobright.ai/jobs/info/6a10e9a6619335383fb3545d?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | May 22 |
 | **[NorthStar Memorial Group](http://nsmg.com)** | **[Social Media and HR Intern](https://jobright.ai/jobs/info/6a10848b9f654b3359cec5b5?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | May 22 |
 | **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69faedffe156000841155049?utm_campaign=1054&utm_source=git)** | Capitola, CA | On Site | May 22 |
 | **[WisdomTree](http://www.wisdomtree.com)** | **[Human Resources Intern – 2026](https://jobright.ai/jobs/info/69f4d3dca3d34b4f76f51d94?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 22 |
