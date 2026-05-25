@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a13f43f83d7144289832bb6?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 25 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[AI Startup - Recruiting Operations Internship](https://jobright.ai/jobs/info/6a13ea559fdbf21f36cbad29?utm_campaign=1054&utm_source=git)** | United States | Remote | May 24 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccd09fdbf21f36cba4eb?utm_campaign=1054&utm_source=git)** | AZ Phoenix (ASM America Inc.) | On Site | May 24 |
 | ↳ | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccce9fdbf21f36cba4e7?utm_campaign=1054&utm_source=git)** | US > Arizona > Phoenix | On Site | May 24 |
@@ -75,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 24 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 24 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bfd1e17798f73e35e4aa92?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | May 24 |
-| **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
+| **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6a12b7d712f8b43cf398d6a4?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 24 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | May 24 |
 | **[Peter Becker Community](https://www.peterbeckercommunity.com/)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a129f7f83d714428982ebb6?utm_campaign=1054&utm_source=git)** | Peter Becker Community - Harleysville, PA 19438 | On Site | May 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer](https://jobright.ai/jobs/info/6a103ff4619335383fb31603?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69d71c5748f0c8161d2fd092?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 22 |
 | **[Lendsqr](https://lendsqr.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1036e6619335383fb3111e?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
+| **[Hideouts](https://madlyradlabs.web.app)** | **[Summer High School Administrative Startup Intern (Remote)](https://jobright.ai/jobs/info/6a1036b883d7144289824a60?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
