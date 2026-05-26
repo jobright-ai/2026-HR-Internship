@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a1529a9dc845f4be5bd45e6?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 25 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Recruiting Operations Intern](https://jobright.ai/jobs/info/6a153564dc845f4be5bd47b6?utm_campaign=1054&utm_source=git)** | United States | Remote | May 25 |
 | **[Highgate](https://www.highgate.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/6a14efefc48b503aeffc035c?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 25 |
 | ↳ | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/6a14efeec48b503aeffc035b?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 25 |
 | **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | May 25 |
