@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583411?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | May 26 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583410?utm_campaign=1054&utm_source=git)** | Remote, SC | Remote | May 26 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583412?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | May 26 |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a157ec5128680351d961ce0?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 26 |
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a157cac0073182bd92aa32b?utm_campaign=1054&utm_source=git)** | Remus, MI | On Site | May 26 |
 | **[Christopher Street Project](https://christopherstreetproject.org)** | **[Summer Internship](https://jobright.ai/jobs/info/6a157af2128680351d9619a2?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
 | **[University of Michigan Credit Union](https://www.umcu.org/)** | **[Intern - Talent Team](https://jobright.ai/jobs/info/6a1579b81935fa61b3c685a4?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
@@ -106,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Squadra Ventures](https://squadra.vc/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a13ca2a12f8b43cf3990449?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | May 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0cdf230411d7417a1bd390?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | May 23 |
 | **[Akron Children's](http://www.akronchildrens.org)** | **[HR Intern - Data and Reporting](https://jobright.ai/jobs/info/6a13d2cc12f8b43cf3990921?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | May 23 |
-| **[City of New York](http://www1.nyc.gov)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a13cc5358ee291d8052d6b8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 23 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f5329b0b36ff035475119b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 23 |
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8b1f3b861c42857c4c543?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 23 |
 | **[Imprivata](http://www.imprivata.com)** | **[HR Engagement & Communications Intern](https://jobright.ai/jobs/info/6a13dc2b83d7144289832675?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | May 23 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Accuris](https://accuristech.com)** | **[Intern, HR](https://jobright.ai/jobs/info/69f3abfb6942c746fa693515?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | May 22 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Attorney Recruitment Intern](https://jobright.ai/jobs/info/6a10fb6583d7144289829b2a?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | May 22 |
 | ↳ | **[Drexel Human Resources Intern](https://jobright.ai/jobs/info/6a10fa59619335383fb35e64?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | May 22 |
+| **[Compass Group Canada](http://www.compass-canada.com)** | **[Human Resources Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/6a10875a83d7144289826d2d?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, US | On Site | May 22 |
+| **[Floridacentral Credit Union](https://www.floridacentralcu.com/)** | **[Intern Human Resources Coordinator - PT](https://jobright.ai/jobs/info/6a10875812f8b43cf3985b68?utm_campaign=1054&utm_source=git)** | 3333 Henderson Blvd, Tampa, FL 33609, USA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
