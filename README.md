@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highgate](https://www.highgate.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/6a14efefc48b503aeffc035c?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 25 |
+| ↳ | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/6a14efeec48b503aeffc035b?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 25 |
 | **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | May 25 |
 | **[Birch Hill Equity Partners](http://www.birchhillequity.com/)** | **[2027 Accelerated Recruiting (DS Summer and Co-Op Internships)](https://jobright.ai/jobs/info/6a149151bc9bff375af01830?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 25 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Explosive Testing, Fab & Operations, Onsite](https://jobright.ai/jobs/info/6a10e9a6619335383fb3545d?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | May 25 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a147b4f554b0e12c057f32d?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 25 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/6a14f2e1dc845f4be5bd379e?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | May 25 |
 | **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | May 25 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccd09fdbf21f36cba4eb?utm_campaign=1054&utm_source=git)** | AZ Phoenix (ASM America Inc.) | On Site | May 24 |
 | ↳ | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccce9fdbf21f36cba4e7?utm_campaign=1054&utm_source=git)** | US > Arizona > Phoenix | On Site | May 24 |
@@ -77,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 24 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 24 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bfd1e17798f73e35e4aa92?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | May 24 |
-| **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
+| **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6a12b7d712f8b43cf398d6a4?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 24 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | May 24 |
 | **[Peter Becker Community](https://www.peterbeckercommunity.com/)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a129f7f83d714428982ebb6?utm_campaign=1054&utm_source=git)** | Peter Becker Community - Harleysville, PA 19438 | On Site | May 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Summer Intern - Human Resources (Career Ladders, Compensation, Total Rewards)](https://jobright.ai/jobs/info/6a0b8b3a538d03366dc868ae?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 22 |
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6a10625583d7144289825d54?utm_campaign=1054&utm_source=git)** | Long Beach, California, United States | On Site | May 22 |
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f42407c78b9e45189596d5?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
-| **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Benefits Analyst– Client Services Team (Intern – Flex)](https://jobright.ai/jobs/info/6a1048f783d714428982545d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 22 |
-| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer](https://jobright.ai/jobs/info/6a103ff4619335383fb31603?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 22 |
-| **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69d71c5748f0c8161d2fd092?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
