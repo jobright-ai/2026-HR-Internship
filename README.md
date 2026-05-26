@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a150df8dc845f4be5bd3c84?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 25 |
 | **[Highgate](https://www.highgate.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/6a14efefc48b503aeffc035c?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 25 |
 | ↳ | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/6a14efeec48b503aeffc035b?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 25 |
 | **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | May 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JonnyPops](https://www.jonnypops.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a10689d69bd827926aee1d3?utm_campaign=1054&utm_source=git)** | Plymout, MN | Hybrid | May 22 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Summer Intern - Human Resources (Career Ladders, Compensation, Total Rewards)](https://jobright.ai/jobs/info/6a0b8b3a538d03366dc868ae?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 22 |
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6a10625583d7144289825d54?utm_campaign=1054&utm_source=git)** | Long Beach, California, United States | On Site | May 22 |
-| **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f42407c78b9e45189596d5?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
