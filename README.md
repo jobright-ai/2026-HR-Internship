@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a156287128680351d960d0a?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 26 |
+| **[XILO](https://www.xilo.io/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a15723c554b0e12c05827d6?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
 | **[J.P. Mascaro & Sons](http://www.jpmascaro.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a155d4d1935fa61b3c676eb?utm_campaign=1054&utm_source=git)** | AUDUBON, PA 19403 | On Site | May 26 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a155d3c554b0e12c058208e?utm_campaign=1054&utm_source=git)** | Windsor Mill, MD 21244 | On Site | May 26 |
 | **[Omnicom](https://www.omc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a155519438198796a26b1a6?utm_campaign=1054&utm_source=git)** | NEOM1919AK-NE Omaha 1919 Aksarben Drive | On Site | May 26 |
