@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6a169950a429fd279da9996f?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | May 27 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1697f41b2f6918b0e32fa8?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 27 |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a1697c0202ae849ed8d4397?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 27 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1697bb1b2f6918b0e32fa4?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 27 |
 | **[ABB](https://global.abb/group/en)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a16760d1b2f6918b0e323b4?utm_campaign=1054&utm_source=git)** | Memphis, TN | Hybrid | May 26 |
 | **[NT Concepts](http://www.ntconcepts.com/)** | **[Talent Acquisition & Facilities Intern](https://jobright.ai/jobs/info/6a166fe21935fa61b3c71881?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | May 26 |
-| **[HP](http://www.hp.com)** | **[Senior University Talent Engagement Partner - HP IQ](https://jobright.ai/jobs/info/6a166fc5a429fd279da98764?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 26 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6a166b8d128680351d96a777?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | May 26 |
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[HR Policy Intern](https://jobright.ai/jobs/info/6a166a261935fa61b3c714b6?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | May 26 |
 | **[AdMee](https://admee.ai/)** | **[Talent Coordinator Intern](https://jobright.ai/jobs/info/6a16647a1935fa61b3c713d7?utm_campaign=1054&utm_source=git)** | California, United States | Remote | May 26 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern – Human Resources Compensation & Wellness](https://jobright.ai/jobs/info/6a15fe420073182bd92aec76?utm_campaign=1054&utm_source=git)** | Waterford, Michigan, United States, US | On Site | May 26 |
 | **[TenBerke](https://tenberke.com/)** | **[Internship Talent Pool Submission](https://jobright.ai/jobs/info/6a15fd3a554b0e12c0587d92?utm_campaign=1054&utm_source=git)** | New York | On Site | May 26 |
 | **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Human Resources Intern, New York, NY](https://jobright.ai/jobs/info/6a15fb9c128680351d9664b3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 26 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a15fb3edc845f4be5bdad9e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 26 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a15f9241935fa61b3c6d366?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
 | **[OakBend Medical Center](https://www.oakbendmedcenter.org)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a15f5b8dc845f4be5bdabe5?utm_campaign=1054&utm_source=git)** | Richmond, TX | On Site | May 26 |
 | **[Jabil](https://www.jabil.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a15f1c9a429fd279da93b8b?utm_campaign=1054&utm_source=git)** | Monument, CO, US | On Site | May 26 |
@@ -94,6 +96,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/6a15e902a429fd279da9370e?utm_campaign=1054&utm_source=git)** | United States of America-Alabama-Vance | On Site | May 26 |
 | ↳ | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/6a15e902a429fd279da9370d?utm_campaign=1054&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 26 |
 | **[Ayming](https://www.ayming.fr/)** | **[HR Intern (Summer Internship)](https://jobright.ai/jobs/info/6a15d65b0073182bd92ad3f4?utm_campaign=1054&utm_source=git)** | 2603 Augusta Dr #805, Houston, TX 77057, USA | On Site | May 26 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a15d5d0a429fd279da928a7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 26 |
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15d5b40073182bd92ad3b5?utm_campaign=1054&utm_source=git)** | Gray Court, SC | On Site | May 26 |
 | **[Constellation West](https://constellationwest.com)** | **[INTERN - RESEARCHER/BD](https://jobright.ai/jobs/info/6a15d334128680351d964b5a?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | May 26 |
 | **[GEMCO Constructors](http://gem-constructors.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a15d081554b0e12c0586323?utm_campaign=1054&utm_source=git)** | Carmel, IN 46032-2535, USA | On Site | May 26 |
@@ -116,9 +119,9 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, Digital & AI (Summer 2026)](https://jobright.ai/jobs/info/6a159d8bdc845f4be5bd7327?utm_campaign=1054&utm_source=git)** | USA - Texas - Austin, US | On Site | May 26 |
 | **[Sparton](http://www.sparton.com)** | **[Human Resources-Summer Recruiting Intern](https://jobright.ai/jobs/info/69fac4ac86d5cd46527cfeed?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | May 26 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fafc8986d5cd46527d1946?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 26 |
-| **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583410?utm_campaign=1054&utm_source=git)** | Remote, SC | Remote | May 26 |
+| **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583411?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | May 26 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583410?utm_campaign=1054&utm_source=git)** | Remote, SC | Remote | May 26 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583412?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | May 26 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583411?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | May 26 |
 | **[Christopher Street Project](https://christopherstreetproject.org)** | **[Summer Internship](https://jobright.ai/jobs/info/6a157af2128680351d9619a2?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
 | **[University of Michigan Credit Union](https://www.umcu.org/)** | **[Intern - Talent Team](https://jobright.ai/jobs/info/6a1579b81935fa61b3c685a4?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
 | **[XILO](https://www.xilo.io/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a15723c554b0e12c05827d6?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 24 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 24 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bfd1e17798f73e35e4aa92?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | May 24 |
-| **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
+| **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6a12b7d712f8b43cf398d6a4?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 24 |
 | **[Peter Becker Community](https://www.peterbeckercommunity.com/)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a129f7f83d714428982ebb6?utm_campaign=1054&utm_source=git)** | Peter Becker Community - Harleysville, PA 19438 | On Site | May 23 |
-| **[AMS Fulfillment](http://www.amsfulfillment.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a129e8112f8b43cf398d244?utm_campaign=1054&utm_source=git)** | CA 28936 Avenue Williams - Valencia, CA 91355 | On Site | May 23 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a129e7f12f8b43cf398d242?utm_campaign=1054&utm_source=git)** | CA 28624 Witherspoon Office - Valencia, CA 91355 | On Site | May 23 |
-| **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1209a0619335383fb392f1?utm_campaign=1054&utm_source=git)** | Stamford, CT Office | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
