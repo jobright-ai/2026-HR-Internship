@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Paid Intern (Hourly)](https://jobright.ai/jobs/info/6a174aa4f45c6530ce9aaff1?utm_campaign=1054&utm_source=git)** | Mount Holly, NJ | On Site | May 27 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Probation Paid Intern (Hourly)](https://jobright.ai/jobs/info/6a1747c35b0a497d5210a7f6?utm_campaign=1054&utm_source=git)** | Burlington Vicinage, 49 Rancocas Road, Mt. Holly, NJ | On Site | May 27 |
+| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a174447b091c7417c4fcb6e?utm_campaign=1054&utm_source=git)** | US-KY-LOUISVILLE | On Site | May 27 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a174440b091c7417c4fcb6a?utm_campaign=1054&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 27 |
 | **[Attalon, Inc.](https://atln.com)** | **[Intern - Recruiting Coordinator](https://jobright.ai/jobs/info/6a17414bf45c6530ce9aaae2?utm_campaign=1054&utm_source=git)** | Traverse City, MI, US | On Site | May 27 |
 | **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a1740c01430333075ccf2a0?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 27 |
 | **[Megaplex](https://www.megaplextheatres.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a173e92b091c7417c4fc814?utm_campaign=1054&utm_source=git)** | Sandy, Utah, United States | On Site | May 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | May 26 |
 | **[N/a](https://actservices.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb1?utm_campaign=1054&utm_source=git)** | 1605 - Columbia, MO 65203 | On Site | May 26 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb2?utm_campaign=1054&utm_source=git)** | Chapel Hill | On Site | May 26 |
-| **[POLITICO](http://www.politico.com)** | **[HR Intern, Summer 2026 (HQ)](https://jobright.ai/jobs/info/6a15a7eb554b0e12c0584606?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | On Site | May 26 |
-| **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, Digital & AI (Summer 2026)](https://jobright.ai/jobs/info/6a159d8bdc845f4be5bd7327?utm_campaign=1054&utm_source=git)** | USA - Texas - Austin, US | On Site | May 26 |
-| **[Sparton](http://www.sparton.com)** | **[Human Resources-Summer Recruiting Intern](https://jobright.ai/jobs/info/69fac4ac86d5cd46527cfeed?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | May 26 |
-| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fafc8986d5cd46527d1946?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
