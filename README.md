@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omnicom](https://www.omc.com/)** | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5bc?utm_campaign=1054&utm_source=git)** | New York | On Site | May 27 |
+| ↳ | **[HR Intern, Corporate](https://jobright.ai/jobs/info/6a0f2e1272b52f7225f3b5ba?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | May 27 |
+| **[DIA PACKAGING, INC.](https://www.diapkg.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a16fb0a9005d858e94f4727?utm_campaign=1054&utm_source=git)** | Huntley, IL | On Site | May 27 |
+| **[Sparton](http://www.sparton.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/69fb291938179b6f1ae76307?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | May 27 |
+| **[National Education Association](http://www.nea.org)** | **[Human Resources Intern (Employee & Labor Relations)](https://jobright.ai/jobs/info/69decdc7e34484770f1a4ee7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 27 |
+| **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[Human Resources / Summer Intern](https://jobright.ai/jobs/info/6a16f70d5b0a497d52106d1b?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | May 27 |
+| **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a16f4101430333075ccbaad?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 27 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA or Baton Rouge, LA](https://jobright.ai/jobs/info/698cd158f64d441a164eb362?utm_campaign=1054&utm_source=git)** | Metairie, LA | On Site | May 27 |
+| **[Reyco Granning Suspensions](http://www.reycogranning.com/)** | **[Human Resources Intern (Fall 2026)](https://jobright.ai/jobs/info/6a16f164b091c7417c4f92d5?utm_campaign=1054&utm_source=git)** | 2070 Industrial Place SE, Canton, OH44707 | On Site | May 27 |
 | **[PSA Airlines, Inc.](http://www.psaairlines.com/)** | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a16ee805b0a497d52106b44?utm_campaign=1054&utm_source=git)** | US-NC-Charlotte | On Site | May 27 |
 | ↳ | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a16ee7f5b0a497d52106b42?utm_campaign=1054&utm_source=git)** | Charlotte, NC, US | On Site | May 27 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Manager (Unpaid Internship)](https://jobright.ai/jobs/info/6a16e629b091c7417c4f901e?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
@@ -70,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6a169950a429fd279da9996f?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | May 27 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1697f41b2f6918b0e32fa8?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 27 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1697bb1b2f6918b0e32fa4?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 27 |
+| **[HP](http://www.hp.com)** | **[Senior University Talent Engagement Partner - HP IQ](https://jobright.ai/jobs/info/6a16fbbc5b0a497d52106f6d?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 26 |
 | **[ABB](https://global.abb/group/en)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a16760d1b2f6918b0e323b4?utm_campaign=1054&utm_source=git)** | Memphis, TN | Hybrid | May 26 |
 | **[NT Concepts](http://www.ntconcepts.com/)** | **[Talent Acquisition & Facilities Intern](https://jobright.ai/jobs/info/6a166fe21935fa61b3c71881?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | May 26 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/6a166b8d128680351d96a777?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | May 26 |
@@ -79,6 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Operations Internship](https://jobright.ai/jobs/info/6a165b9b128680351d96a3e2?utm_campaign=1054&utm_source=git)** | CMO- Nashville - Nashville, TN 37209 | On Site | May 26 |
 | **[First Nations University of Canada](https://www.fnuniv.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a167755128680351d96b214?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | Hybrid | May 26 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | May 26 |
+| **[North Texas Tollway Authority](https://www.ntta.org/)** | **[HR Learning & Development - Intern](https://jobright.ai/jobs/info/6a0e154b09ecfd704b3e58b6?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 26 |
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[HR Policy Intern](https://jobright.ai/jobs/info/6a163de91935fa61b3c7026e?utm_campaign=1054&utm_source=git)** | Boise, Idaho, United States | On Site | May 26 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e5ae0c152ac7824486201?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | May 26 |
 | **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636f5128680351d968cc0?utm_campaign=1054&utm_source=git)** | Tysons, VA | On Site | May 26 |
@@ -94,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern – Human Resources Compensation & Wellness](https://jobright.ai/jobs/info/6a16091e128680351d96724b?utm_campaign=1054&utm_source=git)** | Waterford, MI | On Site | May 26 |
 | **[IAVI](https://www.iavi.org)** | **[Intern](https://jobright.ai/jobs/info/6a1608f0a429fd279da94ff0?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 26 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Human Resources / Summer Intern](https://jobright.ai/jobs/info/6a1604d7554b0e12c0588802?utm_campaign=1054&utm_source=git)** | Human Resources - Fort Wayne, Indiana | On Site | May 26 |
-| **[Primax Technologies Inc | Trystar](https://primaxpower.com)** | **[Internship - Human Resources Coordinator](https://jobright.ai/jobs/info/6a162cf8554b0e12c0589f1c?utm_campaign=1054&utm_source=git)** | Pointe-Claire, Quebec, Canada | On Site | May 26 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern – Human Resources Compensation & Wellness](https://jobright.ai/jobs/info/6a15fe420073182bd92aec76?utm_campaign=1054&utm_source=git)** | Waterford, Michigan, United States, US | On Site | May 26 |
 | **[TenBerke](https://tenberke.com/)** | **[Internship Talent Pool Submission](https://jobright.ai/jobs/info/6a15fd3a554b0e12c0587d92?utm_campaign=1054&utm_source=git)** | New York | On Site | May 26 |
 | **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Human Resources Intern, New York, NY](https://jobright.ai/jobs/info/6a15fb9c128680351d9664b3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 26 |
@@ -103,8 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a15f1c9a429fd279da93b8b?utm_campaign=1054&utm_source=git)** | Monument, CO, US | On Site | May 26 |
 | **[Unify Energy Solutions](https://unifyes.com)** | **[HR & Talent Summer Intern](https://jobright.ai/jobs/info/6a15ec0b554b0e12c05874d8?utm_campaign=1054&utm_source=git)** | Houston,TX,US | On Site | May 26 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/6a15e905a429fd279da9370f?utm_campaign=1054&utm_source=git)** | United States of America-Alabama Vance | On Site | May 26 |
-| ↳ | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/6a15e902a429fd279da9370d?utm_campaign=1054&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 26 |
-| ↳ | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/6a15e902a429fd279da9370e?utm_campaign=1054&utm_source=git)** | United States of America-Alabama-Vance | On Site | May 26 |
 | **[Ayming](https://www.ayming.fr/)** | **[HR Intern (Summer Internship)](https://jobright.ai/jobs/info/6a15d65b0073182bd92ad3f4?utm_campaign=1054&utm_source=git)** | 2603 Augusta Dr #805, Houston, TX 77057, USA | On Site | May 26 |
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15d5b40073182bd92ad3b5?utm_campaign=1054&utm_source=git)** | Gray Court, SC | On Site | May 26 |
 | **[Constellation West](https://constellationwest.com)** | **[INTERN - RESEARCHER/BD](https://jobright.ai/jobs/info/6a15d334128680351d964b5a?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | May 26 |
@@ -129,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Sparton](http://www.sparton.com)** | **[Human Resources-Summer Recruiting Intern](https://jobright.ai/jobs/info/69fac4ac86d5cd46527cfeed?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | May 26 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fafc8986d5cd46527d1946?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583411?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | May 26 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583410?utm_campaign=1054&utm_source=git)** | Remote, SC | Remote | May 26 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583412?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | May 26 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583410?utm_campaign=1054&utm_source=git)** | Remote, SC | Remote | May 26 |
 | **[Christopher Street Project](https://christopherstreetproject.org)** | **[Summer Internship](https://jobright.ai/jobs/info/6a157af2128680351d9619a2?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
 | **[University of Michigan Credit Union](https://www.umcu.org/)** | **[Intern - Talent Team](https://jobright.ai/jobs/info/6a1579b81935fa61b3c685a4?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
 | **[XILO](https://www.xilo.io/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a15723c554b0e12c05827d6?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69fabc9018b94b2515bdc1a9?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 25 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 25 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccd09fdbf21f36cba4eb?utm_campaign=1054&utm_source=git)** | AZ Phoenix (ASM America Inc.) | On Site | May 24 |
-| ↳ | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccce9fdbf21f36cba4e7?utm_campaign=1054&utm_source=git)** | US > Arizona > Phoenix | On Site | May 24 |
-| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Human Capital](https://jobright.ai/jobs/info/6a13ba14619335383fb3db93?utm_campaign=1054&utm_source=git)** | Washington | On Site | May 24 |
-| **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Human Resources Internship - Employee Relations](https://jobright.ai/jobs/info/6a13a76983d71442898312fb?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 24 |
-| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | May 24 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f0e9fdbf21f36cb891c?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | May 24 |
-| **[Steel Dynamics Flat Roll Group](https://stld.steeldynamics.com/flat-roll/)** | **[HR Business Analyst Internship](https://jobright.ai/jobs/info/6a132e1383d7144289830390?utm_campaign=1054&utm_source=git)** | US-IN-Fort Wayne | On Site | May 24 |
-| ↳ | **[HR Business Analyst Internship](https://jobright.ai/jobs/info/6a132e1283d714428983038f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, US | On Site | May 24 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a13077512f8b43cf398e2be?utm_campaign=1054&utm_source=git)** | United States | Remote | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
