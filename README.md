@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a176432f45c6530ce9ac27b?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | May 27 |
 | **[Lemay](http://lemay.com)** | **[Human Resources Intern (3 months contract)](https://jobright.ai/jobs/info/6a175ca2d6a04f21602e6281?utm_campaign=1054&utm_source=git)** | 3500 Rue Saint-Jacques, Montréal, QC H4C 1H2, Canada | Hybrid | May 27 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 27 |
 | **[Yale University](https://www.yale.edu)** | **[Human Resources Employee Engagement and Workplace Culture Internship](https://jobright.ai/jobs/info/6a175bfa1430333075cd06cd?utm_campaign=1054&utm_source=git)** | Whitney Ave, 221, US | Hybrid | May 27 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a174447b091c7417c4fcb6e?utm_campaign=1054&utm_source=git)** | US-KY-LOUISVILLE | On Site | May 27 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a174440b091c7417c4fcb6a?utm_campaign=1054&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 27 |
 | **[Attalon, Inc.](https://atln.com)** | **[Intern - Recruiting Coordinator](https://jobright.ai/jobs/info/6a17414bf45c6530ce9aaae2?utm_campaign=1054&utm_source=git)** | Traverse City, MI, US | On Site | May 27 |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a1740c01430333075ccf2a0?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 27 |
 | **[Megaplex](https://www.megaplextheatres.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a173e92b091c7417c4fc814?utm_campaign=1054&utm_source=git)** | Sandy, Utah, United States | On Site | May 27 |
 | **[Larry H Miller Sports & Entertainment](http://www.lhmse.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a173e7b5b0a497d5210a308?utm_campaign=1054&utm_source=git)** | Sandy, Utah, United States | On Site | May 27 |
 | **[Cates Control Systems](http://www.i2r.com)** | **[HR Intern (summer)](https://jobright.ai/jobs/info/6a173de59005d858e94f7c36?utm_campaign=1054&utm_source=git)** | Plano,TX,US | On Site | May 27 |
@@ -87,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Export Development Canada | Exportation et développement Canada](https://www.edc.ca/)** | **[012 EN - EDC Student / New Grad Positions - Human Resources Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1727711430333075ccdf03?utm_campaign=1054&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 27 |
 | ↳ | **[012 EN - EDC Student / New Grad Positions - Human Resources Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1725ce5b0a497d52108d92?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 27 |
 | **[Magna International](http://www.magna.com/)** | **[HR/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696abedfdb26b618950e01ee?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | May 27 |
-| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4b?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 27 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4c?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, US | On Site | May 27 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4c?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, US | On Site | May 27 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4b?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 27 |
 | **[WKS Restaurant Group](http://wksusa.com)** | **[Payroll Coordinator Intern](https://jobright.ai/jobs/info/6a1722969005d858e94f6515?utm_campaign=1054&utm_source=git)** | Cypress, CA | On Site | May 27 |
 | **[New Castle Hotels & Resorts](http://newcastlehotels.com)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a17207f1430333075ccd96e?utm_campaign=1054&utm_source=git)** | Ridgefield, CT 06877, USA | Remote | May 27 |
 | **[RST Sunbury Transport](https://www.rsttransport.com/)** | **[Human Resources Student - Irving Pulp & Paper - Summer 2026](https://jobright.ai/jobs/info/6a171caef45c6530ce9a90f0?utm_campaign=1054&utm_source=git)** | 408 Mill Street, Saint John, NB, E2M 3H1, CA | On Site | May 27 |
