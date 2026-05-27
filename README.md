@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a16266e128680351d9685b5?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a162326a429fd279da961b4?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | May 26 |
+| **[NORTHERN MONTANA HOSPITAL](http://www.NMHcare.org)** | **[Human Resource Aide - Summer Intern - Temporary - PT](https://jobright.ai/jobs/info/6a161fea128680351d9682ea?utm_campaign=1054&utm_source=git)** | Havre, MT | On Site | May 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a161a9da429fd279da9596f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/6a1611d4128680351d967700?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 26 |
 | **[Jabil](https://www.jabil.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a160cb7128680351d967430?utm_campaign=1054&utm_source=git)** | Monument, CO | On Site | May 26 |
@@ -131,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6983c6290f6f7e7a2cdd7827?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 24 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Total Rewards](https://jobright.ai/jobs/info/69d97b41b67cec4f9b0a24ac?utm_campaign=1054&utm_source=git)** | Bellevue, WA | Hybrid | May 24 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/69bfd1e17798f73e35e4aa92?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | On Site | May 24 |
-| **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
+| **[GlobeTax](https://www.globetax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d7?utm_campaign=1054&utm_source=git)** | ONE NEW YORK PLAZA 34TH FLOOR - NEW YORK, NY 10004 | On Site | May 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a12bb7a9f654b3359cf46d6?utm_campaign=1054&utm_source=git)** | Corporate Office - New York, NY 10004 | On Site | May 24 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6a12b7d712f8b43cf398d6a4?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 24 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | May 24 |
 | **[Peter Becker Community](https://www.peterbeckercommunity.com/)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a129f7f83d714428982ebb6?utm_campaign=1054&utm_source=git)** | Peter Becker Community - Harleysville, PA 19438 | On Site | May 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/6a13f3ed9f654b3359cf80a1?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | May 23 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b609fdbf21f36cb3e51?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | May 23 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b5f9fdbf21f36cb3e4f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 23 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4e4e281706a5bd2163bea?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 23 |
-| **[XLA](http://www.xla.com/)** | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a115f1183d714428982b411?utm_campaign=1054&utm_source=git)** | Washington, D.C. | Hybrid | May 23 |
-| ↳ | **[Cross-Functional Intern](https://jobright.ai/jobs/info/6a115f1083d714428982b410?utm_campaign=1054&utm_source=git)** | Virgina | Hybrid | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
