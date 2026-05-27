@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4b?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 27 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4c?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, US | On Site | May 27 |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a1723191430333075ccdaad?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 27 |
+| **[WKS Restaurant Group](http://wksusa.com)** | **[Payroll Coordinator Intern](https://jobright.ai/jobs/info/6a1722969005d858e94f6515?utm_campaign=1054&utm_source=git)** | Cypress, CA | On Site | May 27 |
+| **[New Castle Hotels & Resorts](http://newcastlehotels.com)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a17207f1430333075ccd96e?utm_campaign=1054&utm_source=git)** | Ridgefield, CT 06877, USA | Remote | May 27 |
+| **[RST Sunbury Transport](https://www.rsttransport.com/)** | **[Human Resources Student - Irving Pulp & Paper - Summer 2026](https://jobright.ai/jobs/info/6a171caef45c6530ce9a90f0?utm_campaign=1054&utm_source=git)** | 408 Mill Street, Saint John, NB, E2M 3H1, CA | On Site | May 27 |
 | **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a17169f1430333075cccd04?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | May 27 |
 | **[Building Bridges Across the River](https://bbardc.org/)** | **[Development Intern Position](https://jobright.ai/jobs/info/6a170adcb091c7417c4fa12a?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 27 |
 | **[Etegent Technologies](https://www.etegent.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a170942f45c6530ce9a81c5?utm_campaign=1054&utm_source=git)** | REMOTE,FL,US | Remote | May 27 |
@@ -129,15 +135,15 @@ For a complete list, click the following sortable link below:
 | **[OakBend Medical Center](https://www.oakbendmedcenter.org)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a15b8931935fa61b3c6a6be?utm_campaign=1054&utm_source=git)** | Richmond, TX, US | On Site | May 26 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a15b8821935fa61b3c6a6b2?utm_campaign=1054&utm_source=git)** | US-TX-Richmond | On Site | May 26 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | May 26 |
-| **[N/a](https://actservices.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb2?utm_campaign=1054&utm_source=git)** | Chapel Hill | On Site | May 26 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb1?utm_campaign=1054&utm_source=git)** | 1605 - Columbia, MO 65203 | On Site | May 26 |
+| **[N/a](https://actservices.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb1?utm_campaign=1054&utm_source=git)** | 1605 - Columbia, MO 65203 | On Site | May 26 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb2?utm_campaign=1054&utm_source=git)** | Chapel Hill | On Site | May 26 |
 | **[POLITICO](http://www.politico.com)** | **[HR Intern, Summer 2026 (HQ)](https://jobright.ai/jobs/info/6a15a7eb554b0e12c0584606?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | On Site | May 26 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, Digital & AI (Summer 2026)](https://jobright.ai/jobs/info/6a159d8bdc845f4be5bd7327?utm_campaign=1054&utm_source=git)** | USA - Texas - Austin, US | On Site | May 26 |
 | **[Sparton](http://www.sparton.com)** | **[Human Resources-Summer Recruiting Intern](https://jobright.ai/jobs/info/69fac4ac86d5cd46527cfeed?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | May 26 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fafc8986d5cd46527d1946?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 26 |
-| **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583411?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | May 26 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583412?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | May 26 |
+| **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583412?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | May 26 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583410?utm_campaign=1054&utm_source=git)** | Remote, SC | Remote | May 26 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583411?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | May 26 |
 | **[Christopher Street Project](https://christopherstreetproject.org)** | **[Summer Internship](https://jobright.ai/jobs/info/6a157af2128680351d9619a2?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
 | **[University of Michigan Credit Union](https://www.umcu.org/)** | **[Intern - Talent Team](https://jobright.ai/jobs/info/6a1579b81935fa61b3c685a4?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
 | **[XILO](https://www.xilo.io/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a15723c554b0e12c05827d6?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | May 25 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Explosive Testing, Fab & Operations, Onsite](https://jobright.ai/jobs/info/6a10e9a6619335383fb3545d?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | May 25 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a147b4f554b0e12c057f32d?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 25 |
-| **[Magna International](http://www.magna.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/696a70815fc8624185397495?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | May 25 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69fabc9018b94b2515bdc1a9?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 25 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 25 |
-| **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccd09fdbf21f36cba4eb?utm_campaign=1054&utm_source=git)** | AZ Phoenix (ASM America Inc.) | On Site | May 24 |
-| ↳ | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a13ccce9fdbf21f36cba4e7?utm_campaign=1054&utm_source=git)** | US > Arizona > Phoenix | On Site | May 24 |
-| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Human Capital](https://jobright.ai/jobs/info/6a13ba14619335383fb3db93?utm_campaign=1054&utm_source=git)** | Washington | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
