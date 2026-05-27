@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lemay](http://lemay.com)** | **[Human Resources Intern (3 months contract)](https://jobright.ai/jobs/info/6a175ca2d6a04f21602e6281?utm_campaign=1054&utm_source=git)** | 3500 Rue Saint-Jacques, Montréal, QC H4C 1H2, Canada | Hybrid | May 27 |
+| **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 27 |
+| **[Yale University](https://www.yale.edu)** | **[Human Resources Employee Engagement and Workplace Culture Internship](https://jobright.ai/jobs/info/6a175bfa1430333075cd06cd?utm_campaign=1054&utm_source=git)** | Whitney Ave, 221, US | Hybrid | May 27 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Hospitality Admin Assistant Intern - Aggie Hospitality](https://jobright.ai/jobs/info/6a175b82b091c7417c4fdde1?utm_campaign=1054&utm_source=git)** | 1228 TAMU, COLLEGE STATION, TX, 77843, US | On Site | May 27 |
+| **[Banda Group International, LLC](http://bandagroupintl.com)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6a175a821430333075cd0615?utm_campaign=1054&utm_source=git)** | Mesa, AZ | On Site | May 27 |
+| ↳ | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6a175a495b0a497d5210b804?utm_campaign=1054&utm_source=git)** | AZ Corporate Office, Mesa, AZ, US | On Site | May 27 |
+| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Care Coordinator Intern (Fall 2026)](https://jobright.ai/jobs/info/6a17583f1430333075cd04f8?utm_campaign=1054&utm_source=git)** | Medina, OH | On Site | May 27 |
+| **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 27 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Food and Beverage Staffing Internship](https://jobright.ai/jobs/info/6a174b3fd6a04f21602e522f?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | May 27 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Paid Intern (Hourly)](https://jobright.ai/jobs/info/6a174aa4f45c6530ce9aaff1?utm_campaign=1054&utm_source=git)** | Mount Holly, NJ | On Site | May 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Probation Paid Intern (Hourly)](https://jobright.ai/jobs/info/6a1747c35b0a497d5210a7f6?utm_campaign=1054&utm_source=git)** | Burlington Vicinage, 49 Rancocas Road, Mt. Holly, NJ | On Site | May 27 |
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a174447b091c7417c4fcb6e?utm_campaign=1054&utm_source=git)** | US-KY-LOUISVILLE | On Site | May 27 |
@@ -69,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Healthcare Services, Inc.](http://metropolitanhealthcareservices.com)** | **[Intern- Human Resources Coordinator](https://jobright.ai/jobs/info/6a173bf4d6a04f21602e4a57?utm_campaign=1054&utm_source=git)** | Fairfax, VA 22031 | On Site | May 27 |
 | **[beBright](https://bebright.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a173bec5b0a497d5210a1d9?utm_campaign=1054&utm_source=git)** | Minnetonka, MN, 55305, US | On Site | May 27 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Human Resources Intern - High School](https://jobright.ai/jobs/info/6a173ae31430333075cceef9?utm_campaign=1054&utm_source=git)** | Olathe, KS | On Site | May 27 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fb4ae5ffa73664aeafe63d?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | May 27 |
 | **[EY](http://www.ey.com)** | **[Human Resources Management Intern](https://jobright.ai/jobs/info/6a1739bf1430333075ccee42?utm_campaign=1054&utm_source=git)** | Johannesburg, CA | On Site | May 27 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a173295f45c6530ce9a9b71?utm_campaign=1054&utm_source=git)** | East Syracuse, NY | On Site | May 27 |
 | **[Continental Dairy Facilities Southwest, LLC](http://cdfswllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a172b2c5b0a497d521091a0?utm_campaign=1054&utm_source=git)** | Littlefield, TX | On Site | May 27 |
@@ -123,7 +131,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636ef128680351d968cb6?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | May 26 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[HR Systems and Program Management Intern (2026)](https://jobright.ai/jobs/info/6a1636db0073182bd92b1296?utm_campaign=1054&utm_source=git)** | San Jose, California, United States | On Site | May 26 |
 | ↳ | **[HR Systems and Program Management Intern (2026)](https://jobright.ai/jobs/info/6a1636d80073182bd92b1287?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 26 |
-| **[Nightingale Education Group](https://nightingaleeducationgroup.com)** | **[Recruiting Intern (Part-time)](https://jobright.ai/jobs/info/6a1635aca429fd279da967e7?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a162326a429fd279da961b4?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | May 26 |
 | **[NORTHERN MONTANA HOSPITAL](http://www.NMHcare.org)** | **[Human Resource Aide - Summer Intern - Temporary - PT](https://jobright.ai/jobs/info/6a161fea128680351d9682ea?utm_campaign=1054&utm_source=git)** | Havre, MT | On Site | May 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a161a9da429fd279da9596f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Springpoint Senior Living](https://springpointsl.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15c2d2128680351d963eae?utm_campaign=1054&utm_source=git)** | Denville, NJ 07834, USA | On Site | May 26 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Human Resources Intern](https://jobright.ai/jobs/info/6a10fa59619335383fb35e64?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | May 26 |
 | ↳ | **[Drexel Attorney Recruitment Intern](https://jobright.ai/jobs/info/6a10fb6583d7144289829b2a?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | May 26 |
-| **[Ayming](https://www.ayming.fr/)** | **[HR Intern (Summer Internship)](https://jobright.ai/jobs/info/6a15bebe0073182bd92ac3d9?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 26 |
-| **[Hour Children, Inc.](https://www.hourchildren.org)** | **[Human Resources Assistant-Intern](https://jobright.ai/jobs/info/6a15babc128680351d963c13?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 26 |
-| **[OakBend Medical Center](https://www.oakbendmedcenter.org)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a15b8931935fa61b3c6a6be?utm_campaign=1054&utm_source=git)** | Richmond, TX, US | On Site | May 26 |
-| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a15b8821935fa61b3c6a6b2?utm_campaign=1054&utm_source=git)** | US-TX-Richmond | On Site | May 26 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | May 26 |
-| **[N/a](https://actservices.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb1?utm_campaign=1054&utm_source=git)** | 1605 - Columbia, MO 65203 | On Site | May 26 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb2?utm_campaign=1054&utm_source=git)** | Chapel Hill | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
