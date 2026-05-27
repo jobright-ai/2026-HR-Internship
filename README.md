@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a1642e7128680351d9695c3?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 26 |
+| **[Boise Cascade Company](http://www.bc.com/index.html)** | **[HR Policy Intern](https://jobright.ai/jobs/info/6a163de91935fa61b3c7026e?utm_campaign=1054&utm_source=git)** | Boise, Idaho, United States | On Site | May 26 |
+| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e5ae0c152ac7824486201?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | May 26 |
 | **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636f5128680351d968cc0?utm_campaign=1054&utm_source=git)** | Tysons, VA | On Site | May 26 |
 | ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636ef128680351d968cb6?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | May 26 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[HR Systems and Program Management Intern (2026)](https://jobright.ai/jobs/info/6a1636db0073182bd92b1296?utm_campaign=1054&utm_source=git)** | San Jose, California, United States | On Site | May 26 |
@@ -80,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a15f1c9a429fd279da93b8b?utm_campaign=1054&utm_source=git)** | Monument, CO, US | On Site | May 26 |
 | **[Unify Energy Solutions](https://unifyes.com)** | **[HR & Talent Summer Intern](https://jobright.ai/jobs/info/6a15ec0b554b0e12c05874d8?utm_campaign=1054&utm_source=git)** | Houston,TX,US | On Site | May 26 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/6a15e905a429fd279da9370f?utm_campaign=1054&utm_source=git)** | United States of America-Alabama Vance | On Site | May 26 |
-| ↳ | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/6a15e902a429fd279da9370e?utm_campaign=1054&utm_source=git)** | United States of America-Alabama-Vance | On Site | May 26 |
 | ↳ | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/6a15e902a429fd279da9370d?utm_campaign=1054&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 26 |
+| ↳ | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/6a15e902a429fd279da9370e?utm_campaign=1054&utm_source=git)** | United States of America-Alabama-Vance | On Site | May 26 |
 | **[Ayming](https://www.ayming.fr/)** | **[HR Intern (Summer Internship)](https://jobright.ai/jobs/info/6a15d65b0073182bd92ad3f4?utm_campaign=1054&utm_source=git)** | 2603 Augusta Dr #805, Houston, TX 77057, USA | On Site | May 26 |
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15d5b40073182bd92ad3b5?utm_campaign=1054&utm_source=git)** | Gray Court, SC | On Site | May 26 |
 | **[Constellation West](https://constellationwest.com)** | **[INTERN - RESEARCHER/BD](https://jobright.ai/jobs/info/6a15d334128680351d964b5a?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | May 26 |
@@ -98,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[OakBend Medical Center](https://www.oakbendmedcenter.org)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a15b8931935fa61b3c6a6be?utm_campaign=1054&utm_source=git)** | Richmond, TX, US | On Site | May 26 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a15b8821935fa61b3c6a6b2?utm_campaign=1054&utm_source=git)** | US-TX-Richmond | On Site | May 26 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | May 26 |
-| **[Impact Support Services](https://actservices.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb1?utm_campaign=1054&utm_source=git)** | 1605 - Columbia, MO 65203 | On Site | May 26 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb2?utm_campaign=1054&utm_source=git)** | Chapel Hill | On Site | May 26 |
+| **[Impact Support Services](https://actservices.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb2?utm_campaign=1054&utm_source=git)** | Chapel Hill | On Site | May 26 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15b1c30073182bd92abdb1?utm_campaign=1054&utm_source=git)** | 1605 - Columbia, MO 65203 | On Site | May 26 |
 | **[POLITICO](http://www.politico.com)** | **[HR Intern, Summer 2026 (HQ)](https://jobright.ai/jobs/info/6a15a7eb554b0e12c0584606?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | On Site | May 26 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, Digital & AI (Summer 2026)](https://jobright.ai/jobs/info/6a159d8bdc845f4be5bd7327?utm_campaign=1054&utm_source=git)** | USA - Texas - Austin, US | On Site | May 26 |
 | **[Sparton](http://www.sparton.com)** | **[Human Resources-Summer Recruiting Intern](https://jobright.ai/jobs/info/69fac4ac86d5cd46527cfeed?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | May 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69f5329b0b36ff035475119b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 23 |
 | **[Vast](https://www.vastspace.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/69d8b1f3b861c42857c4c543?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 23 |
 | **[Imprivata](http://www.imprivata.com)** | **[HR Engagement & Communications Intern](https://jobright.ai/jobs/info/6a13dc2b83d7144289832675?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | May 23 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6983b375348f733a5c36edab?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | May 23 |
-| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f52a1712f2811ab5a636af?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | May 23 |
-| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/6a0d18354d9320363687ec79?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
