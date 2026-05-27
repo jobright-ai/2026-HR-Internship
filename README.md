@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PSA Airlines, Inc.](http://www.psaairlines.com/)** | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a16ee805b0a497d52106b44?utm_campaign=1054&utm_source=git)** | US-NC-Charlotte | On Site | May 27 |
+| ↳ | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a16ee7f5b0a497d52106b42?utm_campaign=1054&utm_source=git)** | Charlotte, NC, US | On Site | May 27 |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Manager (Unpaid Internship)](https://jobright.ai/jobs/info/6a16e629b091c7417c4f901e?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
 | **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a16cfd11430333075ccae27?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddb944aba61f1417311dae?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[HR Manufacturing Sprin/Summer 2026 Intern](https://jobright.ai/jobs/info/69de58f8433ac8430e0d91e1?utm_campaign=1054&utm_source=git)** | Butler, IN | On Site | May 27 |
@@ -103,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/6a15e902a429fd279da9370d?utm_campaign=1054&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 26 |
 | ↳ | **[Internship in Human Relations: Organizational Development (International Student)](https://jobright.ai/jobs/info/6a15e902a429fd279da9370e?utm_campaign=1054&utm_source=git)** | United States of America-Alabama-Vance | On Site | May 26 |
 | **[Ayming](https://www.ayming.fr/)** | **[HR Intern (Summer Internship)](https://jobright.ai/jobs/info/6a15d65b0073182bd92ad3f4?utm_campaign=1054&utm_source=git)** | 2603 Augusta Dr #805, Houston, TX 77057, USA | On Site | May 26 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a15d5d0a429fd279da928a7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 26 |
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15d5b40073182bd92ad3b5?utm_campaign=1054&utm_source=git)** | Gray Court, SC | On Site | May 26 |
 | **[Constellation West](https://constellationwest.com)** | **[INTERN - RESEARCHER/BD](https://jobright.ai/jobs/info/6a15d334128680351d964b5a?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | May 26 |
 | **[GEMCO Constructors](http://gem-constructors.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a15d081554b0e12c0586323?utm_campaign=1054&utm_source=git)** | Carmel, IN 46032-2535, USA | On Site | May 26 |
@@ -126,9 +128,9 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, Digital & AI (Summer 2026)](https://jobright.ai/jobs/info/6a159d8bdc845f4be5bd7327?utm_campaign=1054&utm_source=git)** | USA - Texas - Austin, US | On Site | May 26 |
 | **[Sparton](http://www.sparton.com)** | **[Human Resources-Summer Recruiting Intern](https://jobright.ai/jobs/info/69fac4ac86d5cd46527cfeed?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | May 26 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fafc8986d5cd46527d1946?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 26 |
-| **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583410?utm_campaign=1054&utm_source=git)** | Remote, SC | Remote | May 26 |
+| **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583411?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | May 26 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583410?utm_campaign=1054&utm_source=git)** | Remote, SC | Remote | May 26 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583412?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | May 26 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a157f8d554b0e12c0583411?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | May 26 |
 | **[Christopher Street Project](https://christopherstreetproject.org)** | **[Summer Internship](https://jobright.ai/jobs/info/6a157af2128680351d9619a2?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
 | **[University of Michigan Credit Union](https://www.umcu.org/)** | **[Intern - Talent Team](https://jobright.ai/jobs/info/6a1579b81935fa61b3c685a4?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
 | **[XILO](https://www.xilo.io/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a15723c554b0e12c05827d6?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Steel Dynamics Flat Roll Group](https://stld.steeldynamics.com/flat-roll/)** | **[HR Business Analyst Internship](https://jobright.ai/jobs/info/6a132e1383d7144289830390?utm_campaign=1054&utm_source=git)** | US-IN-Fort Wayne | On Site | May 24 |
 | ↳ | **[HR Business Analyst Internship](https://jobright.ai/jobs/info/6a132e1283d714428983038f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, US | On Site | May 24 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a13077512f8b43cf398e2be?utm_campaign=1054&utm_source=git)** | United States | Remote | May 24 |
-| **[Liberate](https://www.liberateinc.com/)** | **[Summer Internships - Expression of interest](https://jobright.ai/jobs/info/6a1306fa83d714428982fcf3?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 24 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/698e0c3b0f6f7e7a2cea1a2f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
