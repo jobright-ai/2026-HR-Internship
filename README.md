@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6a182f01abc8f63abac7573f?utm_campaign=1054&utm_source=git)** | USA-MA-Wilmington-Jonspin | On Site | May 28 |
+| **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/6a182412c2a87d6cd3dedcd1?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | May 28 |
+| **[StickEarn](https://stickearn.com/)** | **[Recruiter Intern (Project-Based) (Remote)](https://jobright.ai/jobs/info/6a18240f54a441713ae812ba?utm_campaign=1054&utm_source=git)** | United States | Remote | May 28 |
 | **[UES](https://www.teamues.com)** | **[Intern - HR](https://jobright.ai/jobs/info/69c30c4fec22f8310ab11a21?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 28 |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a182013c2a87d6cd3dedbde?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 28 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ded88c5913ad33981406a5?utm_campaign=1054&utm_source=git)** | Manteno, IL | On Site | May 28 |
 | **[Centrum Health](https://centrumhealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18149254962c1bb4b06c30?utm_campaign=1054&utm_source=git)** | St. Louis Park, Minnesota, United States | Hybrid | May 28 |
 | **[Adaptic LLC](https://www.goadaptic.com)** | **[Recruiting Operations Intern](https://jobright.ai/jobs/info/6a18132fba12bb0249bb675d?utm_campaign=1054&utm_source=git)** | Adaptic Headquarters - Annapolis, MD 21409 US (Primary) | On Site | May 28 |
-| **[Randstad](https://www.randstad.nl)** | **[HR & Recruitment Intern - Unpaid Co-Op Opportunity Hybrid (Fall)](https://jobright.ai/jobs/info/6a17fd5281f8da15dc7d4f2b?utm_campaign=1054&utm_source=git)** | Guelph, ON, Canada | Hybrid | May 28 |
+| **[Randstad](https://www.randstad.ro/en/)** | **[HR & Recruitment Intern - Unpaid Co-Op Opportunity Hybrid (Fall)](https://jobright.ai/jobs/info/6a17fd5281f8da15dc7d4f2b?utm_campaign=1054&utm_source=git)** | Guelph, ON, Canada | Hybrid | May 28 |
 | **[UW Credit Union](http://uwcu.org/)** | **[Intern](https://jobright.ai/jobs/info/6a17f9cdac2d34081458a7f6?utm_campaign=1054&utm_source=git)** | Wayne, PA | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a17f9b0ac2d34081458a7a4?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a17f9ab54962c1bb4b05fdc?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 28 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[PSA Airlines, Inc.](http://www.psaairlines.com/)** | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a172783b091c7417c4fb5fb?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[Export Development Canada | Exportation et développement Canada](https://www.edc.ca/)** | **[012 EN - EDC Student / New Grad Positions - Human Resources Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1727711430333075ccdf03?utm_campaign=1054&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 27 |
 | ↳ | **[012 EN - EDC Student / New Grad Positions - Human Resources Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1725ce5b0a497d52108d92?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 27 |
-| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4c?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, US | On Site | May 27 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4b?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 27 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4b?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 27 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4c?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, US | On Site | May 27 |
 | **[WKS Restaurant Group](http://wksusa.com)** | **[Payroll Coordinator Intern](https://jobright.ai/jobs/info/6a1722969005d858e94f6515?utm_campaign=1054&utm_source=git)** | Cypress, CA | On Site | May 27 |
 | **[New Castle Hotels & Resorts](http://newcastlehotels.com)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a17207f1430333075ccd96e?utm_campaign=1054&utm_source=git)** | Ridgefield, CT 06877, USA | Remote | May 27 |
 | **[RST Sunbury Transport](https://www.rsttransport.com/)** | **[Human Resources Student - Irving Pulp & Paper - Summer 2026](https://jobright.ai/jobs/info/6a171caef45c6530ce9a90f0?utm_campaign=1054&utm_source=git)** | 408 Mill Street, Saint John, NB, E2M 3H1, CA | On Site | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a16760d1b2f6918b0e323b4?utm_campaign=1054&utm_source=git)** | Memphis, TN | Hybrid | May 26 |
 | **[NT Concepts](http://www.ntconcepts.com/)** | **[Talent Acquisition & Facilities Intern](https://jobright.ai/jobs/info/6a166fe21935fa61b3c71881?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | May 26 |
 | **[Pebl](https://hellopebl.com/)** | **[Benefits Operations Experience Intern](https://jobright.ai/jobs/info/6a161b040073182bd92b025c?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 26 |
-| **[Boise Cascade Company](http://www.bc.com/index.html)** | **[HR Policy Intern](https://jobright.ai/jobs/info/6a166a261935fa61b3c714b6?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | May 26 |
-| **[RePublic Schools](https://republiccharterschools.org)** | **[Summer Operations Internship](https://jobright.ai/jobs/info/6a16b185128680351d96c8b5?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
