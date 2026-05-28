@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a17e97d54962c1bb4b057ea?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 28 |
+| **[Terranea Resort](http://www.terranea.com)** | **[Intern](https://jobright.ai/jobs/info/6a17f6e80800ed5b56bdad94?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 28 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a17f6d33c1a380237ac003f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 28 |
+| **[HealthEdge](http://www.healthedge.com)** | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a17f56c54962c1bb4b05b9c?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 28 |
+| **[Pact](http://www.pactworld.org/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a17f2ca81f8da15dc7d4519?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 28 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Internship](https://jobright.ai/jobs/info/6a17e138da08264614c91229?utm_campaign=1054&utm_source=git)** | Marina del Rey, CA | Remote | May 27 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Talent Acquisiton Intern](https://jobright.ai/jobs/info/6a17d905da08264614c90ae2?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | May 27 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Recruiting & Talent Acquisition Internship](https://jobright.ai/jobs/info/6a17d8a3b091c7417c501c4f?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636f5128680351d968cc0?utm_campaign=1054&utm_source=git)** | Tysons, VA | On Site | May 26 |
 | ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636ef128680351d968cb6?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | May 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a162326a429fd279da961b4?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | May 26 |
-| **[NORTHERN MONTANA HOSPITAL](http://www.NMHcare.org)** | **[Human Resource Aide - Summer Intern - Temporary - PT](https://jobright.ai/jobs/info/6a161fea128680351d9682ea?utm_campaign=1054&utm_source=git)** | Havre, MT | On Site | May 26 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a161a9da429fd279da9596f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 26 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/6a1611d4128680351d967700?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
