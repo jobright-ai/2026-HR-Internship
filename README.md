@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a183d38c2a87d6cd3dee6e8?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 28 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6a182f01abc8f63abac7573f?utm_campaign=1054&utm_source=git)** | USA-MA-Wilmington-Jonspin | On Site | May 28 |
 | **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/6a182412c2a87d6cd3dedcd1?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | May 28 |
 | **[StickEarn](https://stickearn.com/)** | **[Recruiter Intern (Project-Based) (Remote)](https://jobright.ai/jobs/info/6a18240f54a441713ae812ba?utm_campaign=1054&utm_source=git)** | United States | Remote | May 28 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Douglas County Visiting Nurses](https://www.kansasvna.org)** | **[Human Resources Intern- Summer 2026](https://jobright.ai/jobs/info/6a17be5e81fe455c705ab558?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | May 27 |
 | ↳ | **[Human Resources Intern- Summer 2026](https://jobright.ai/jobs/info/6a1772639005d858e94fa2a1?utm_campaign=1054&utm_source=git)** | Lawrence, Kansas 66044, USA | On Site | May 27 |
 | **[SimpliFed](https://www.simplifed.com)** | **[Clinical Operations Summer Intern](https://jobright.ai/jobs/info/6a176aebb091c7417c4fe4b7?utm_campaign=1054&utm_source=git)** | Ithaca NY | Remote | May 27 |
-| **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a176432f45c6530ce9ac27b?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | May 27 |
 | **[Lemay](http://lemay.com)** | **[Human Resources Intern (3 months contract)](https://jobright.ai/jobs/info/6a175ca2d6a04f21602e6281?utm_campaign=1054&utm_source=git)** | 3500 Rue Saint-Jacques, Montréal, QC H4C 1H2, Canada | Hybrid | May 27 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 27 |
 | **[Yale University](https://www.yale.edu)** | **[Human Resources Employee Engagement and Workplace Culture Internship](https://jobright.ai/jobs/info/6a175bfa1430333075cd06cd?utm_campaign=1054&utm_source=git)** | Whitney Ave, 221, US | Hybrid | May 27 |
@@ -112,8 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Lemay](http://lemay.com)** | **[Human Resources Intern (3 months contract)](https://jobright.ai/jobs/info/6a17804d9005d858e94fa769?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Probation Paid Intern (Hourly)](https://jobright.ai/jobs/info/6a1747c35b0a497d5210a7f6?utm_campaign=1054&utm_source=git)** | Burlington Vicinage, 49 Rancocas Road, Mt. Holly, NJ | On Site | May 27 |
 | **[Sysco Canada Inc.](http://www.sysco.ca)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a178cf41430333075cd25bd?utm_campaign=1054&utm_source=git)** | Ontario, Canada | On Site | May 27 |
-| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a174447b091c7417c4fcb6e?utm_campaign=1054&utm_source=git)** | US-KY-LOUISVILLE | On Site | May 27 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a174440b091c7417c4fcb6a?utm_campaign=1054&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 27 |
+| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a174440b091c7417c4fcb6a?utm_campaign=1054&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 27 |
 | **[Attalon, Inc.](https://atln.com)** | **[Intern - Recruiting Coordinator](https://jobright.ai/jobs/info/6a17414bf45c6530ce9aaae2?utm_campaign=1054&utm_source=git)** | Traverse City, MI, US | On Site | May 27 |
 | **[Megaplex](https://www.megaplextheatres.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a173e92b091c7417c4fc814?utm_campaign=1054&utm_source=git)** | Sandy, Utah, United States | On Site | May 27 |
 | **[Larry H Miller Sports & Entertainment](http://www.lhmse.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a173e7b5b0a497d5210a308?utm_campaign=1054&utm_source=git)** | Sandy, Utah, United States | On Site | May 27 |
@@ -129,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[PSA Airlines, Inc.](http://www.psaairlines.com/)** | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a172783b091c7417c4fb5fb?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[Export Development Canada | Exportation et développement Canada](https://www.edc.ca/)** | **[012 EN - EDC Student / New Grad Positions - Human Resources Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1727711430333075ccdf03?utm_campaign=1054&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 27 |
 | ↳ | **[012 EN - EDC Student / New Grad Positions - Human Resources Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1725ce5b0a497d52108d92?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 27 |
-| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4b?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 27 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4c?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, US | On Site | May 27 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4c?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, US | On Site | May 27 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4b?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 27 |
 | **[WKS Restaurant Group](http://wksusa.com)** | **[Payroll Coordinator Intern](https://jobright.ai/jobs/info/6a1722969005d858e94f6515?utm_campaign=1054&utm_source=git)** | Cypress, CA | On Site | May 27 |
 | **[New Castle Hotels & Resorts](http://newcastlehotels.com)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a17207f1430333075ccd96e?utm_campaign=1054&utm_source=git)** | Ridgefield, CT 06877, USA | Remote | May 27 |
 | **[RST Sunbury Transport](https://www.rsttransport.com/)** | **[Human Resources Student - Irving Pulp & Paper - Summer 2026](https://jobright.ai/jobs/info/6a171caef45c6530ce9a90f0?utm_campaign=1054&utm_source=git)** | 408 Mill Street, Saint John, NB, E2M 3H1, CA | On Site | May 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a16760d1b2f6918b0e323b4?utm_campaign=1054&utm_source=git)** | Memphis, TN | Hybrid | May 26 |
 | **[NT Concepts](http://www.ntconcepts.com/)** | **[Talent Acquisition & Facilities Intern](https://jobright.ai/jobs/info/6a166fe21935fa61b3c71881?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | May 26 |
 | **[Pebl](https://hellopebl.com/)** | **[Benefits Operations Experience Intern](https://jobright.ai/jobs/info/6a161b040073182bd92b025c?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 26 |
+| **[Boise Cascade Company](http://www.bc.com/index.html)** | **[HR Policy Intern](https://jobright.ai/jobs/info/6a166a261935fa61b3c714b6?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
