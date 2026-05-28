@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Butterball Farms, Inc.](https://butterballfarms.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6a17a0c95b0a497d5210df5a?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | May 27 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting (Intern-Volunteer)](https://jobright.ai/jobs/info/6a17911ab091c7417c4ffe34?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | May 27 |
 | **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a1786c681fe455c705a98e0?utm_campaign=1054&utm_source=git)** | Seattle, Washington, United States | On Site | May 27 |
 | ↳ | **[HR Summer Intern](https://jobright.ai/jobs/info/6a1786b581fe455c705a98d9?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | May 27 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Hospitality Admin Assistant Intern - Aggie Hospitality](https://jobright.ai/jobs/info/6a175b82b091c7417c4fdde1?utm_campaign=1054&utm_source=git)** | 1228 TAMU, COLLEGE STATION, TX, 77843, US | On Site | May 27 |
 | **[Banda Group International, LLC](http://bandagroupintl.com)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6a175a821430333075cd0615?utm_campaign=1054&utm_source=git)** | Mesa, AZ | On Site | May 27 |
 | ↳ | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6a175a495b0a497d5210b804?utm_campaign=1054&utm_source=git)** | AZ Corporate Office, Mesa, AZ, US | On Site | May 27 |
-| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Care Coordinator Intern (Fall 2026)](https://jobright.ai/jobs/info/6a17583f1430333075cd04f8?utm_campaign=1054&utm_source=git)** | Medina, OH | On Site | May 27 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 27 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Food and Beverage Staffing Internship](https://jobright.ai/jobs/info/6a174b3fd6a04f21602e522f?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | May 27 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Paid Intern (Hourly)](https://jobright.ai/jobs/info/6a174aa4f45c6530ce9aaff1?utm_campaign=1054&utm_source=git)** | Mount Holly, NJ | On Site | May 27 |
@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[PSA Airlines, Inc.](http://www.psaairlines.com/)** | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a172783b091c7417c4fb5fb?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[Export Development Canada | Exportation et développement Canada](https://www.edc.ca/)** | **[012 EN - EDC Student / New Grad Positions - Human Resources Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1727711430333075ccdf03?utm_campaign=1054&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 27 |
 | ↳ | **[012 EN - EDC Student / New Grad Positions - Human Resources Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1725ce5b0a497d52108d92?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 27 |
-| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4b?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 27 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4c?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, US | On Site | May 27 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4c?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, US | On Site | May 27 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4b?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 27 |
 | **[WKS Restaurant Group](http://wksusa.com)** | **[Payroll Coordinator Intern](https://jobright.ai/jobs/info/6a1722969005d858e94f6515?utm_campaign=1054&utm_source=git)** | Cypress, CA | On Site | May 27 |
 | **[New Castle Hotels & Resorts](http://newcastlehotels.com)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a17207f1430333075ccd96e?utm_campaign=1054&utm_source=git)** | Ridgefield, CT 06877, USA | Remote | May 27 |
 | **[RST Sunbury Transport](https://www.rsttransport.com/)** | **[Human Resources Student - Irving Pulp & Paper - Summer 2026](https://jobright.ai/jobs/info/6a171caef45c6530ce9a90f0?utm_campaign=1054&utm_source=git)** | 408 Mill Street, Saint John, NB, E2M 3H1, CA | On Site | May 27 |
