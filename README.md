@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delaware North](http://www.delawarenorth.com/)** | **[Talent Acquisiton Intern](https://jobright.ai/jobs/info/6a17d905da08264614c90ae2?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | May 27 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Recruiting & Talent Acquisition Internship](https://jobright.ai/jobs/info/6a17d8a3b091c7417c501c4f?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
+| **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a17d7e9da08264614c90aaf?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[Sun Auto Tire & Service](https://sun.auto/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a17cda781fe455c705abf25?utm_campaign=1054&utm_source=git)** | US-TX-Richmond | On Site | May 27 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a17cda481fe455c705abf23?utm_campaign=1054&utm_source=git)** | Richmond, TX, US | On Site | May 27 |
 | **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a17cd6d81fe455c705abf0a?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a161a9da429fd279da9596f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/6a1611d4128680351d967700?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 26 |
 | **[Jabil](https://www.jabil.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a160cb7128680351d967430?utm_campaign=1054&utm_source=git)** | Monument, CO | On Site | May 26 |
-| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern – Human Resources Compensation & Wellness](https://jobright.ai/jobs/info/6a16091e128680351d96724b?utm_campaign=1054&utm_source=git)** | Waterford, MI | On Site | May 26 |
-| **[SchoolSpring](http://www.schoolspring.com)** | **[Human Resources / Summer Intern](https://jobright.ai/jobs/info/6a1604d7554b0e12c0588802?utm_campaign=1054&utm_source=git)** | Human Resources - Fort Wayne, Indiana | On Site | May 26 |
-| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern – Human Resources Compensation & Wellness](https://jobright.ai/jobs/info/6a15fe420073182bd92aec76?utm_campaign=1054&utm_source=git)** | Waterford, Michigan, United States, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
