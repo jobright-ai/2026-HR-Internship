@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a1786c681fe455c705a98e0?utm_campaign=1054&utm_source=git)** | Seattle, Washington, United States | On Site | May 27 |
+| ↳ | **[HR Summer Intern](https://jobright.ai/jobs/info/6a1786b581fe455c705a98d9?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | May 27 |
+| **[GIDCOMP](https://gidcomp.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1781995b0a497d5210cf49?utm_campaign=1054&utm_source=git)** | Canada | Remote | May 27 |
+| **[Aurora Organic Dairy](http://www.auroraorganic.com/)** | **[Recruiting and HR Operations Intern](https://jobright.ai/jobs/info/6a1780dd1430333075cd1b97?utm_campaign=1054&utm_source=git)** | Boulder, CO, US | On Site | May 27 |
+| **[Selene Finance LP](https://seleneadvantage.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/6a177b4b1430333075cd1a18?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | May 27 |
 | **[Pretium Enterprise Services, India](www.pretium.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/6a1779e15b0a497d5210cd03?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | May 27 |
 | **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a17783181fe455c705a94a9?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 27 |
 | **[Douglas County Visiting Nurses](https://www.kansasvna.org)** | **[Human Resources Intern- Summer 2026](https://jobright.ai/jobs/info/6a1772639005d858e94fa2a1?utm_campaign=1054&utm_source=git)** | Lawrence, Kansas 66044, USA | On Site | May 27 |
@@ -72,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69e8992e7820c036924e0cc2?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 27 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Food and Beverage Staffing Internship](https://jobright.ai/jobs/info/6a174b3fd6a04f21602e522f?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | May 27 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Paid Intern (Hourly)](https://jobright.ai/jobs/info/6a174aa4f45c6530ce9aaff1?utm_campaign=1054&utm_source=git)** | Mount Holly, NJ | On Site | May 27 |
+| **[Lemay](http://lemay.com)** | **[Human Resources Intern (3 months contract)](https://jobright.ai/jobs/info/6a17804d9005d858e94fa769?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Probation Paid Intern (Hourly)](https://jobright.ai/jobs/info/6a1747c35b0a497d5210a7f6?utm_campaign=1054&utm_source=git)** | Burlington Vicinage, 49 Rancocas Road, Mt. Holly, NJ | On Site | May 27 |
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a174447b091c7417c4fcb6e?utm_campaign=1054&utm_source=git)** | US-KY-LOUISVILLE | On Site | May 27 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a174440b091c7417c4fcb6a?utm_campaign=1054&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15d5b40073182bd92ad3b5?utm_campaign=1054&utm_source=git)** | Gray Court, SC | On Site | May 26 |
 | **[Constellation West](https://constellationwest.com)** | **[INTERN - RESEARCHER/BD](https://jobright.ai/jobs/info/6a15d334128680351d964b5a?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | May 26 |
 | **[GEMCO Constructors](http://gem-constructors.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a15d081554b0e12c0586323?utm_campaign=1054&utm_source=git)** | Carmel, IN 46032-2535, USA | On Site | May 26 |
-| **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Payroll Coordinator Internship](https://jobright.ai/jobs/info/69faedcc18b94b2515bddbd4?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | May 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern RSW Fort Myers Airport](https://jobright.ai/jobs/info/69fad956d21cf86d1e3cd39a?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | May 26 |
-| **[PECO FOODS INC](https://pecofoods.com/)** | **[Summer Intern - HR (Training & Development)](https://jobright.ai/jobs/info/6a15ccd60073182bd92acf65?utm_campaign=1054&utm_source=git)** | Batesville, Arkansas, United States | On Site | May 26 |
-| **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Human Resources Intern, New York, NY](https://jobright.ai/jobs/info/6a15c4c00073182bd92ac62e?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | May 26 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | May 26 |
-| **[Springpoint Senior Living](https://springpointsl.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15c2d2128680351d963eae?utm_campaign=1054&utm_source=git)** | Denville, NJ 07834, USA | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
