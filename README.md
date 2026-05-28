@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sun Auto Tire & Service](https://sun.auto/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a17cda781fe455c705abf25?utm_campaign=1054&utm_source=git)** | US-TX-Richmond | On Site | May 27 |
+| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a17cda481fe455c705abf23?utm_campaign=1054&utm_source=git)** | Richmond, TX, US | On Site | May 27 |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a17cd6d81fe455c705abf0a?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 27 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17cd2e5b0a497d5210f73f?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 27 |
+| **[Miller Sports + Entertainment](https://millerse.com/)** | **[People & Culture Intern (Full-Time; June-Dec)](https://jobright.ai/jobs/info/6a17cc84b091c7417c5019aa?utm_campaign=1054&utm_source=git)** | Sandy, UT | On Site | May 27 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a17cb7bf45c6530ce9afb7b?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 27 |
+| ↳ | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a17cb77f45c6530ce9afb79?utm_campaign=1054&utm_source=git)** | US-DC-Washington | On Site | May 27 |
+| **[CommunityAmerica Credit Union](https://www.communityamerica.com/)** | **[Recruiting Intern - Corporate](https://jobright.ai/jobs/info/6a17c86281fe455c705abcc0?utm_campaign=1054&utm_source=git)** | Tippecanoe County, IN | On Site | May 27 |
 | **[Highlight](http://highlighttech.com/)** | **[Advancement Program Intern](https://jobright.ai/jobs/info/6a17c1a21430333075cd3cf8?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | May 27 |
 | **[AdMee](https://admee.ai/)** | **[Talent Coordinator Intern](https://jobright.ai/jobs/info/6a17b0de81fe455c705ab186?utm_campaign=1054&utm_source=git)** | LA Metro Area | Remote | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting, Vehicle Software (Summer 2026)](https://jobright.ai/jobs/info/6a17ae621430333075cd3439?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern – Human Resources Compensation & Wellness](https://jobright.ai/jobs/info/6a16091e128680351d96724b?utm_campaign=1054&utm_source=git)** | Waterford, MI | On Site | May 26 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Human Resources / Summer Intern](https://jobright.ai/jobs/info/6a1604d7554b0e12c0588802?utm_campaign=1054&utm_source=git)** | Human Resources - Fort Wayne, Indiana | On Site | May 26 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern – Human Resources Compensation & Wellness](https://jobright.ai/jobs/info/6a15fe420073182bd92aec76?utm_campaign=1054&utm_source=git)** | Waterford, Michigan, United States, US | On Site | May 26 |
-| **[TenBerke](https://tenberke.com/)** | **[Internship Talent Pool Submission](https://jobright.ai/jobs/info/6a15fd3a554b0e12c0587d92?utm_campaign=1054&utm_source=git)** | New York | On Site | May 26 |
-| **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Human Resources Intern, New York, NY](https://jobright.ai/jobs/info/6a15fb9c128680351d9664b3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 26 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a15f9241935fa61b3c6d366?utm_campaign=1054&utm_source=git)** | United States | Remote | May 26 |
-| **[OakBend Medical Center](https://www.oakbendmedcenter.org)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a15f5b8dc845f4be5bdabe5?utm_campaign=1054&utm_source=git)** | Richmond, TX | On Site | May 26 |
-| **[Jabil](https://www.jabil.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a15f1c9a429fd279da93b8b?utm_campaign=1054&utm_source=git)** | Monument, CO, US | On Site | May 26 |
-| **[Unify Energy Solutions](https://unifyes.com)** | **[HR & Talent Summer Intern](https://jobright.ai/jobs/info/6a15ec0b554b0e12c05874d8?utm_campaign=1054&utm_source=git)** | Houston,TX,US | On Site | May 26 |
-| **[Ayming](https://www.ayming.fr/)** | **[HR Intern (Summer Internship)](https://jobright.ai/jobs/info/6a15d65b0073182bd92ad3f4?utm_campaign=1054&utm_source=git)** | 2603 Augusta Dr #805, Houston, TX 77057, USA | On Site | May 26 |
-| **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a15d5b40073182bd92ad3b5?utm_campaign=1054&utm_source=git)** | Gray Court, SC | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
