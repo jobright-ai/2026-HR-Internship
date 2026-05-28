@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a17e97d54962c1bb4b057ea?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 28 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Internship](https://jobright.ai/jobs/info/6a17e138da08264614c91229?utm_campaign=1054&utm_source=git)** | Marina del Rey, CA | Remote | May 27 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Talent Acquisiton Intern](https://jobright.ai/jobs/info/6a17d905da08264614c90ae2?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | May 27 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Recruiting & Talent Acquisition Internship](https://jobright.ai/jobs/info/6a17d8a3b091c7417c501c4f?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
 | **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a17d7e9da08264614c90aaf?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[Sun Auto Tire & Service](https://sun.auto/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a17cda781fe455c705abf25?utm_campaign=1054&utm_source=git)** | US-TX-Richmond | On Site | May 27 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a17cda481fe455c705abf23?utm_campaign=1054&utm_source=git)** | Richmond, TX, US | On Site | May 27 |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a17cd6d81fe455c705abf0a?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 27 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17cd2e5b0a497d5210f73f?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 27 |
 | **[Miller Sports + Entertainment](https://millerse.com/)** | **[People & Culture Intern (Full-Time; June-Dec)](https://jobright.ai/jobs/info/6a17cc84b091c7417c5019aa?utm_campaign=1054&utm_source=git)** | Sandy, UT | On Site | May 27 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a17cb7bf45c6530ce9afb7b?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NORTHERN MONTANA HOSPITAL](http://www.NMHcare.org)** | **[Human Resource Aide - Summer Intern - Temporary - PT](https://jobright.ai/jobs/info/6a161fea128680351d9682ea?utm_campaign=1054&utm_source=git)** | Havre, MT | On Site | May 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a161a9da429fd279da9596f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery](https://jobright.ai/jobs/info/6a1611d4128680351d967700?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 26 |
-| **[Jabil](https://www.jabil.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a160cb7128680351d967430?utm_campaign=1054&utm_source=git)** | Monument, CO | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
