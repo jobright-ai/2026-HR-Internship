@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Terranea Resort](http://www.terranea.com)** | **[Intern](https://jobright.ai/jobs/info/6a17f6e80800ed5b56bdad94?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 28 |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a18057d81f8da15dc7d51ae?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 28 |
+| **[Randstad](https://www.randstad.nl)** | **[HR & Recruitment Intern - Unpaid Co-Op Opportunity Hybrid (Fall)](https://jobright.ai/jobs/info/6a17fd5281f8da15dc7d4f2b?utm_campaign=1054&utm_source=git)** | Guelph, ON, Canada | Hybrid | May 28 |
+| **[UW Credit Union](http://uwcu.org/)** | **[Intern](https://jobright.ai/jobs/info/6a17f9cdac2d34081458a7f6?utm_campaign=1054&utm_source=git)** | Wayne, PA | On Site | May 28 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a17f9b0ac2d34081458a7a4?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 28 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a17f9ab54962c1bb4b05fdc?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 28 |
+| **[beBright](https://bebright.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17f770c8110e28b75b16dc?utm_campaign=1054&utm_source=git)** | Minnetonka, MN | On Site | May 28 |
+| **[Terranea Resort](http://www.terranea.com)** | **[Intern](https://jobright.ai/jobs/info/6a17f73481f8da15dc7d4718?utm_campaign=1054&utm_source=git)** | Wayne, PA | On Site | May 28 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a17f6e80800ed5b56bdad94?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a17f6d33c1a380237ac003f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 28 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a17f56c54962c1bb4b05b9c?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 28 |
 | **[Pact](http://www.pactworld.org/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a17f2ca81f8da15dc7d4519?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RePublic Schools](https://republiccharterschools.org)** | **[Summer Operations Internship](https://jobright.ai/jobs/info/6a16b185128680351d96c8b5?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | May 26 |
 | ↳ | **[Summer Operations Internship](https://jobright.ai/jobs/info/6a165b9b128680351d96a3e2?utm_campaign=1054&utm_source=git)** | CMO- Nashville - Nashville, TN 37209 | On Site | May 26 |
 | **[First Nations University of Canada](https://www.fnuniv.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a167755128680351d96b214?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | Hybrid | May 26 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | May 26 |
-| **[North Texas Tollway Authority](https://www.ntta.org/)** | **[HR Learning & Development - Intern](https://jobright.ai/jobs/info/6a0e154b09ecfd704b3e58b6?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 26 |
-| **[Boise Cascade Company](http://www.bc.com/index.html)** | **[HR Policy Intern](https://jobright.ai/jobs/info/6a163de91935fa61b3c7026e?utm_campaign=1054&utm_source=git)** | Boise, Idaho, United States | On Site | May 26 |
-| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0e5ae0c152ac7824486201?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | May 26 |
-| **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636f5128680351d968cc0?utm_campaign=1054&utm_source=git)** | Tysons, VA | On Site | May 26 |
-| ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636ef128680351d968cb6?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | May 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a162326a429fd279da961b4?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
