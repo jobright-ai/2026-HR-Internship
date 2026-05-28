@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a18057d81f8da15dc7d51ae?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 28 |
 | **[Randstad](https://www.randstad.nl)** | **[HR & Recruitment Intern - Unpaid Co-Op Opportunity Hybrid (Fall)](https://jobright.ai/jobs/info/6a17fd5281f8da15dc7d4f2b?utm_campaign=1054&utm_source=git)** | Guelph, ON, Canada | Hybrid | May 28 |
 | **[UW Credit Union](http://uwcu.org/)** | **[Intern](https://jobright.ai/jobs/info/6a17f9cdac2d34081458a7f6?utm_campaign=1054&utm_source=git)** | Wayne, PA | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a17f9b0ac2d34081458a7a4?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 28 |
@@ -123,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[PSA Airlines, Inc.](http://www.psaairlines.com/)** | **[Human Resources Talent Systems Intern](https://jobright.ai/jobs/info/6a172783b091c7417c4fb5fb?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[Export Development Canada | Exportation et développement Canada](https://www.edc.ca/)** | **[012 EN - EDC Student / New Grad Positions - Human Resources Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1727711430333075ccdf03?utm_campaign=1054&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 27 |
 | ↳ | **[012 EN - EDC Student / New Grad Positions - Human Resources Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1725ce5b0a497d52108d92?utm_campaign=1054&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 27 |
-| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4b?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 27 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4c?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, US | On Site | May 27 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4c?utm_campaign=1054&utm_source=git)** | East Syracuse, NY, US | On Site | May 27 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17243f1430333075ccdb4b?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 27 |
 | **[WKS Restaurant Group](http://wksusa.com)** | **[Payroll Coordinator Intern](https://jobright.ai/jobs/info/6a1722969005d858e94f6515?utm_campaign=1054&utm_source=git)** | Cypress, CA | On Site | May 27 |
 | **[New Castle Hotels & Resorts](http://newcastlehotels.com)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a17207f1430333075ccd96e?utm_campaign=1054&utm_source=git)** | Ridgefield, CT 06877, USA | Remote | May 27 |
 | **[RST Sunbury Transport](https://www.rsttransport.com/)** | **[Human Resources Student - Irving Pulp & Paper - Summer 2026](https://jobright.ai/jobs/info/6a171caef45c6530ce9a90f0?utm_campaign=1054&utm_source=git)** | 408 Mill Street, Saint John, NB, E2M 3H1, CA | On Site | May 27 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[HR Policy Intern](https://jobright.ai/jobs/info/6a166a261935fa61b3c714b6?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | May 26 |
 | **[RePublic Schools](https://republiccharterschools.org)** | **[Summer Operations Internship](https://jobright.ai/jobs/info/6a16b185128680351d96c8b5?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | May 26 |
 | ↳ | **[Summer Operations Internship](https://jobright.ai/jobs/info/6a165b9b128680351d96a3e2?utm_campaign=1054&utm_source=git)** | CMO- Nashville - Nashville, TN 37209 | On Site | May 26 |
-| **[First Nations University of Canada](https://www.fnuniv.ca/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a167755128680351d96b214?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | Hybrid | May 26 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | May 26 |
+| **[North Texas Tollway Authority](https://www.ntta.org/)** | **[HR Learning & Development - Intern](https://jobright.ai/jobs/info/6a0e154b09ecfd704b3e58b6?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
