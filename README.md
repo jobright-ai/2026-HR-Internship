@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Hood Packaging Corporation](http://hoodpkg.com)** | **[6 month contract - HR intern](https://jobright.ai/jobs/info/6a189156abc8f63abac7a070?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 28 |
 | ↳ | **[6 month contract - HR Intern](https://jobright.ai/jobs/info/6a189092dbc80963f934554d?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 28 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6a18bab154a441713ae87764?utm_campaign=1054&utm_source=git)** | Wilmington, MA | On Site | May 28 |
+| **[KIHOMAC](https://kihomac.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a19004154a441713ae89dfd?utm_campaign=1054&utm_source=git)** | Byron, GA | On Site | May 28 |
 | **[Essendant](http://www.essendant.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a188dfa6243320e8d165b75?utm_campaign=1054&utm_source=git)** | Lincolnshire, Illinois, United States | On Site | May 28 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a18886bdbc80963f93451b6?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 28 |
 | ↳ | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a188867dbc80963f93451af?utm_campaign=1054&utm_source=git)** | San Jose, California, United States | On Site | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dexter](https://dextergroup.com)** | **[HR Information Systems Intern (Remote)](https://jobright.ai/jobs/info/6a18d4c117492d3a389b9f96?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
 | **[Jockey International, Inc.](http://www.jockey.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18dcb3abc8f63abac7cf29?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | May 27 |
 | **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a1786c681fe455c705a98e0?utm_campaign=1054&utm_source=git)** | Seattle, Washington, United States | On Site | May 27 |
-| ↳ | **[HR Summer Intern](https://jobright.ai/jobs/info/6a1786b581fe455c705a98d9?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
