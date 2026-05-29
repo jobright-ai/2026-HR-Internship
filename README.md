@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a19561cfee8f34024353adb?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 29 |
 | **[Aperture Venture Studio](https://www.linkedin.com/redir/suspicious-page?url=www%2eapertureventurestudio%2ecom)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1951c254a441713ae8c010?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | May 29 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a194aa135b73c4d92f32103?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Remote | May 29 |
 | **[Guerbet](http://www.guerbet.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1949eb9111f771d1a053be?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | May 29 |
@@ -72,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Gilbane Building](https://www.gilbaneco.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5c?utm_campaign=1054&utm_source=git)** | US-OH-Cleveland | On Site | May 28 |
 | ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5b?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | May 28 |
 | **[Auto-Chlor System](https://www.autochlor.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a18cf1c6243320e8d1681de?utm_campaign=1054&utm_source=git)** | Mountain View, CA 94043, USA | On Site | May 28 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 28 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 28 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 28 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 28 |
 | **[Legends Global](http://legends.net)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18c999abc8f63abac7c3d7?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 28 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Manager Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a18c84317492d3a389b9b86?utm_campaign=1054&utm_source=git)** | United States | Remote | May 28 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a18c841abc8f63abac7c308?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 28 |
@@ -120,16 +119,16 @@ For a complete list, click the following sortable link below:
 | **[Wagman](http://wagman.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a18601917492d3a389b5622?utm_campaign=1054&utm_source=git)** | York, PA | On Site | May 28 |
 | **[ITA International](http://ita-intl.com/)** | **[Summer Intern - Growth Support](https://jobright.ai/jobs/info/6a185c4b54a441713ae837b4?utm_campaign=1054&utm_source=git)** | Newport News, VA, US | On Site | May 28 |
 | ↳ | **[Summer Intern - Growth Support](https://jobright.ai/jobs/info/6a0d7948528eaa34a446f871?utm_campaign=1054&utm_source=git)** | US-VA-Newport News | On Site | May 28 |
-| ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a185c2c17492d3a389b519d?utm_campaign=1054&utm_source=git)** | Newport News, VA, US | On Site | May 28 |
 | ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a185c2c17492d3a389b519c?utm_campaign=1054&utm_source=git)** | US-VA-Newport News | On Site | May 28 |
+| ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a185c2c17492d3a389b519d?utm_campaign=1054&utm_source=git)** | Newport News, VA, US | On Site | May 28 |
 | **[OakBend Medical Center](https://www.oakbendmedcenter.org)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185b83c2a87d6cd3defec2?utm_campaign=1054&utm_source=git)** | US-TX-Richmond | On Site | May 28 |
 | **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a185aeddbc80963f9342986?utm_campaign=1054&utm_source=git)** | US-VA-Chantilly | On Site | May 28 |
 | ↳ | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a185ae6dbc80963f9342981?utm_campaign=1054&utm_source=git)** | Chantilly, VA, US | On Site | May 28 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a746243320e8d1630a8?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a726243320e8d1630a7?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a57c2a87d6cd3defb85?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 28 |
-| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f934274e?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
-| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f9342750?utm_campaign=1054&utm_source=git)** | US | Remote | May 28 |
+| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f9342750?utm_campaign=1054&utm_source=git)** | US | Remote | May 28 |
+| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f934274e?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
 | **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a18594aabc8f63abac7701f?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 28 |
 | ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a185949abc8f63abac7701c?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 28 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a1858bedbc80963f9342490?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 28 |
@@ -147,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ded88c5913ad33981406a5?utm_campaign=1054&utm_source=git)** | Manteno, IL | On Site | May 28 |
 | **[Centrum Health](https://centrumhealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18149254962c1bb4b06c30?utm_campaign=1054&utm_source=git)** | St. Louis Park, Minnesota, United States | Hybrid | May 28 |
 | **[Adaptic LLC](https://www.goadaptic.com)** | **[Recruiting Operations Intern](https://jobright.ai/jobs/info/6a18132fba12bb0249bb675d?utm_campaign=1054&utm_source=git)** | Adaptic Headquarters - Annapolis, MD 21409 US (Primary) | On Site | May 28 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Career Development](https://jobright.ai/jobs/info/6a195ed59111f771d1a05b4e?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | May 28 |
 | **[UW Credit Union](http://uwcu.org/)** | **[Intern](https://jobright.ai/jobs/info/6a1856046243320e8d162a20?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 28 |
 | **[Terranea Resort](http://www.terranea.com)** | **[Intern](https://jobright.ai/jobs/info/6a188d5fabc8f63abac79ea2?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | May 28 |
 | **[Pact](http://www.pactworld.org/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a18b383abc8f63abac7b6e3?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 28 |
