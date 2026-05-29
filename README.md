@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a19ab9a6b135014dbc850d2?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 29 |
+| **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a19aaea6b135014dbc85065?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | May 29 |
+| ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a19aae96b135014dbc85063?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 29 |
+| **[Elite Dental Partners](http://www.elitedentalpartners.com/)** | **[Human Resources Intern- Summer](https://jobright.ai/jobs/info/69fcc0d96b788e7e7a5c23a8?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | May 29 |
+| **[Balm Creative](http://balmcreativeco.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6a19a017e24ef36525825f34?utm_campaign=1054&utm_source=git)** | United States | Remote | May 29 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69c4441a33eecf3107947339?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | May 29 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (GMPT) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c4d47ed5a1016e98dc3134?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[Aperture Venture Studio](https://www.linkedin.com/redir/suspicious-page?url=www%2eapertureventurestudio%2ecom)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1951c254a441713ae8c010?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | May 29 |
 | **[Carnivore Meat Company](https://www.carnivoremeat.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18954717492d3a389b7bb4?utm_campaign=1054&utm_source=git)** | Green Bay,WI,US | On Site | May 29 |
@@ -98,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Astera Labs](https://www.asteralabs.com)** | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a18886bdbc80963f93451b6?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 28 |
 | ↳ | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a188867dbc80963f93451af?utm_campaign=1054&utm_source=git)** | San Jose, California, United States | On Site | May 28 |
 | **[Hood Packaging Corporation](http://hoodpkg.com)** | **[6 month contract - HR intern](https://jobright.ai/jobs/info/6a1881efabc8f63abac792aa?utm_campaign=1054&utm_source=git)** | Montréal, QC, CA | On Site | May 28 |
-| **[Viatris](https://www.viatris.com/en)** | **[Intern, People Insights](https://jobright.ai/jobs/info/6a19989dc2a87d6cd3df9a67?utm_campaign=1054&utm_source=git)** | United States | Remote | May 28 |
 | **[Motivation Compliance & Training, Inc.](https://www.motivation-inc.com/)** | **[Labor Standards and Compliance Intern](https://jobright.ai/jobs/info/6a187d2317492d3a389b6a80?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | May 28 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[HR internship](https://jobright.ai/jobs/info/6a187befc2a87d6cd3df1976?utm_campaign=1054&utm_source=git)** | Dallas, US | On Site | May 28 |
 | **[Lightera](https://lightera.com)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/69fbedfec39b9a66c0c54e62?utm_campaign=1054&utm_source=git)** | Norcross, GA | On Site | May 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pact](http://www.pactworld.org/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a18b383abc8f63abac7b6e3?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | May 28 |
 | **[beBright](https://bebright.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a17f770c8110e28b75b16dc?utm_campaign=1054&utm_source=git)** | Minnetonka, MN | On Site | May 28 |
 | **[Joint Commission](http://www.jointcommission.org)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6a1882bfdbc80963f93448ce?utm_campaign=1054&utm_source=git)** | Downers Grove, IL | On Site | May 28 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Internship](https://jobright.ai/jobs/info/6a17e138da08264614c91229?utm_campaign=1054&utm_source=git)** | Marina del Rey, CA | Remote | May 27 |
-| **[Delaware North](http://www.delawarenorth.com/)** | **[Talent Acquisiton Intern](https://jobright.ai/jobs/info/6a17d905da08264614c90ae2?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | May 27 |
-| **[Miller Sports + Entertainment](https://millerse.com/)** | **[People & Culture Intern (Full-Time; June-Dec)](https://jobright.ai/jobs/info/6a17cc84b091c7417c5019aa?utm_campaign=1054&utm_source=git)** | Sandy, UT | On Site | May 27 |
-| **[AdMee](https://admee.ai/)** | **[Talent Coordinator Intern](https://jobright.ai/jobs/info/6a17b0de81fe455c705ab186?utm_campaign=1054&utm_source=git)** | LA Metro Area | Remote | May 27 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting, Vehicle Software (Summer 2026)](https://jobright.ai/jobs/info/6a17ae621430333075cd3439?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
