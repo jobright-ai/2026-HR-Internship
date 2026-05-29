@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auto-Chlor System](https://www.autochlor.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a193f88c2a87d6cd3df81f4?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | May 29 |
+| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a1939abc2a87d6cd3df811d?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 29 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Explosive Testing, Fab & Operations, Onsite](https://jobright.ai/jobs/info/6a10e9a6619335383fb3545d?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | May 28 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product & People Operations Intern](https://jobright.ai/jobs/info/6a19055dabc8f63abac7e1e9?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | May 28 |
 | **[Aramark UK](aramark.co.uk)** | **[2026 Aramark Internship Program- Human Resources- LSU - LSU Athletic Venues and Events](https://jobright.ai/jobs/info/6a18f8946243320e8d16988b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, US, 70802 | On Site | May 28 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a161a9da429fd279da9596f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 28 |
@@ -122,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a746243320e8d1630a8?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a726243320e8d1630a7?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a57c2a87d6cd3defb85?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 28 |
-| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f9342750?utm_campaign=1054&utm_source=git)** | US | Remote | May 28 |
-| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f934274e?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
+| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f934274e?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
+| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f9342750?utm_campaign=1054&utm_source=git)** | US | Remote | May 28 |
 | **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a18594aabc8f63abac7701f?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 28 |
 | ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a185949abc8f63abac7701c?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 28 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a1858bedbc80963f9342490?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, People Analytics (Summer 2026)](https://jobright.ai/jobs/info/6a17ad30b091c7417c500ab3?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 27 |
 | **[Aurora Organic Dairy](http://www.auroraorganic.com/)** | **[Recruiting and HR Operations Intern](https://jobright.ai/jobs/info/6a17a75f1430333075cd2f44?utm_campaign=1054&utm_source=git)** | Boulder, CO | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Fall 2026)](https://jobright.ai/jobs/info/6a17bed5b091c7417c501106?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | May 27 |
-| **[Dexter](https://dextergroup.com)** | **[HR Information Systems Intern (Remote)](https://jobright.ai/jobs/info/6a18d4c117492d3a389b9f96?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
-| **[Jockey International, Inc.](http://www.jockey.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18dcb3abc8f63abac7cf29?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | May 27 |
-| **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a1786c681fe455c705a98e0?utm_campaign=1054&utm_source=git)** | Seattle, Washington, United States | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
