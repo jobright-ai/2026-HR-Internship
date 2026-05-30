@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SetPoint Medical](http://www.setpointmedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1a37219111f771d1a0b581?utm_campaign=1054&utm_source=git)** | Valencia,CA,US | On Site | May 29 |
+| **[RK Logistics Group](http://www.rklogisticsgroup.com)** | **[HR Intern (Mon-Fri 10:00am - 2:30pm)](https://jobright.ai/jobs/info/6a1a36a96b135014dbc89141?utm_campaign=1054&utm_source=git)** | Fremont,CA,US | On Site | May 29 |
+| **[Integrity](https://www.integrity.com)** | **[Recruiting Engagement Internship](https://jobright.ai/jobs/info/6a1a3198e24ef3652582a621?utm_campaign=1054&utm_source=git)** | Norfolk, NE | On Site | May 29 |
+| **[Blue Diamond Growers](https://bluediamondgrowers.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a1a2f729111f771d1a0b3b2?utm_campaign=1054&utm_source=git)** | Sacramento, CA, US | Hybrid | May 29 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1a2b7d547e292ae139753a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | May 29 |
 | **[Covenant Health](http://www.covenanthealth.com)** | **[INTERN](https://jobright.ai/jobs/info/6a1a1fb5547e292ae1397093?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | May 29 |
 | **[Integrity](https://www.integrity.com)** | **[Recruiting Engagement Internship](https://jobright.ai/jobs/info/6a1a1bbb6b135014dbc88608?utm_campaign=1054&utm_source=git)** | Norfolk, NE | On Site | May 29 |
@@ -94,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5b?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | May 28 |
 | **[JFS Altius Farms](https://altiusfarms.com/)** | **[Refugee Resettlement Employment Services - Internship](https://jobright.ai/jobs/info/6a1a093bc2a87d6cd3dfcf85?utm_campaign=1054&utm_source=git)** | Tamarac, FL | Hybrid | May 28 |
 | **[Auto-Chlor System](https://www.autochlor.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a18cf1c6243320e8d1681de?utm_campaign=1054&utm_source=git)** | Mountain View, CA 94043, USA | On Site | May 28 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 28 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 28 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 28 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 28 |
 | **[Legends Global](http://legends.net)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18c999abc8f63abac7c3d7?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 28 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Manager Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a18c84317492d3a389b9b86?utm_campaign=1054&utm_source=git)** | United States | Remote | May 28 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a18c841abc8f63abac7c308?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 28 |
@@ -141,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a746243320e8d1630a8?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a726243320e8d1630a7?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a57c2a87d6cd3defb85?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 28 |
-| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f934274e?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
-| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f9342750?utm_campaign=1054&utm_source=git)** | US | Remote | May 28 |
+| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f9342750?utm_campaign=1054&utm_source=git)** | US | Remote | May 28 |
+| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f934274e?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
 | **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a18594aabc8f63abac7701f?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 28 |
 | ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a185949abc8f63abac7701c?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 28 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a1858bedbc80963f9342490?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Space Kinetic Corp.](https://spacekinetic.com/)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/6a184b886243320e8d16200d?utm_campaign=1054&utm_source=git)** | El Segundo, California | On Site | May 28 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship HR - Learning & Development](https://jobright.ai/jobs/info/6a184a8e54a441713ae81ffc?utm_campaign=1054&utm_source=git)** | Headquarters International, NL | Hybrid | May 28 |
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fc434bae09801097afaa93?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | May 28 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6a182f01abc8f63abac7573f?utm_campaign=1054&utm_source=git)** | USA-MA-Wilmington-Jonspin | On Site | May 28 |
-| **[StickEarn](https://stickearn.com/)** | **[Recruiter Intern (Project-Based) (Remote)](https://jobright.ai/jobs/info/6a18240f54a441713ae812ba?utm_campaign=1054&utm_source=git)** | United States | Remote | May 28 |
-| **[UES](https://www.teamues.com)** | **[Intern - HR](https://jobright.ai/jobs/info/69c30c4fec22f8310ab11a21?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | May 28 |
-| **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ded88c5913ad33981406a5?utm_campaign=1054&utm_source=git)** | Manteno, IL | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
