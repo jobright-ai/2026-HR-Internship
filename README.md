@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition - San Francisco （Intern / Contract）](https://jobright.ai/jobs/info/69aa4de72ebd316bece21104?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | May 30 |
+| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fe319652e2b44f558af147?utm_campaign=1054&utm_source=git)** | Flex-N-Gate Shelby, 52674 Shelby Parkway, Shelby Township, Michigan, United States of America | On Site | May 30 |
+| **[Fruit of the Loom, Inc.](https://www.fotlinc.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a063fb97c753c287f70108d?utm_campaign=1054&utm_source=git)** | US-KY-Bowling Green | On Site | May 30 |
+| **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/6a1aba682b206f3955eb6083?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | May 30 |
 | **[Blue Diamond Growers](https://bluediamondgrowers.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a1a2f729111f771d1a0b3b2?utm_campaign=1054&utm_source=git)** | Sacramento, CA, US | Hybrid | May 29 |
 | **[Eulerity](https://www.eulerity.com)** | **[Recruiting Intern, Summer 2026](https://jobright.ai/jobs/info/6a1a54102b206f3955eb430d?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | May 29 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a1a464c9111f771d1a0b9ef?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | May 29 |
@@ -135,8 +139,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6a187794c2a87d6cd3df17b8?utm_campaign=1054&utm_source=git)** | US-TX-North Richland Hills | On Site | May 28 |
 | ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6a187793c2a87d6cd3df17b4?utm_campaign=1054&utm_source=git)** | US-KS-Overland Park | On Site | May 28 |
 | **[NOV](https://www.nov.com/)** | **[Community Investment Program Intern](https://jobright.ai/jobs/info/6a13b39712f8b43cf398fbfd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 28 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a18744517492d3a389b655c?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a18744517492d3a389b655d?utm_campaign=1054&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a18744517492d3a389b655d?utm_campaign=1054&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a18744517492d3a389b655c?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[EFCO Forming & Shoring Solutions](http://www.efcoforms.com/index.html)** | **[Human Resources - File Management Intern](https://jobright.ai/jobs/info/69d8c1bdb67cec4f9b09ebcd?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | May 28 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a186bde6243320e8d16439b?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 28 |
 | **[Magnet Forensics](http://magnetforensics.com)** | **[HR Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbdf3160b250eb1baf6f?utm_campaign=1054&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Framatome](http://www.framatome.com)** | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a18594aabc8f63abac7701f?utm_campaign=1054&utm_source=git)** | US-VA-Lynchburg | On Site | May 28 |
 | ↳ | **[HR Talent Management Intern](https://jobright.ai/jobs/info/6a185949abc8f63abac7701c?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, US | On Site | May 28 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6a1858bedbc80963f9342490?utm_campaign=1054&utm_source=git)** | US-MD-Nottingham | On Site | May 28 |
-| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6a1858bddbc80963f934248e?utm_campaign=1054&utm_source=git)** | Nottingham, MD, US | On Site | May 28 |
-| **[CJ 4DPLEX](https://www.cj4dx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1858836243320e8d162bbb?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | May 28 |
-| **[Space Kinetic Corp.](https://spacekinetic.com/)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/6a1878f8dbc80963f9344551?utm_campaign=1054&utm_source=git)** | El Segundo, CA | On Site | May 28 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/69a6c8671fc3d83b78091f2b?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
