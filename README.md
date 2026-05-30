@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/6a07e3388f3e371eb617b52f?utm_campaign=1054&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | May 30 |
 | **[Helping Hands Family - Autism Services](https://hhfamily.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69e16519d612782e611486fc?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | May 30 |
 | **[Elite Dental Partners](http://www.elitedentalpartners.com/)** | **[Human Resources Intern- Summer](https://jobright.ai/jobs/info/6a1ad4b76b135014dbc8c46d?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | May 30 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/69f8f3b781706a5bd216f7b1?utm_campaign=1054&utm_source=git)** | San Antonio, TX, US | Hybrid | May 30 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/6a187794c2a87d6cd3df17b8?utm_campaign=1054&utm_source=git)** | US-TX-North Richland Hills | On Site | May 28 |
 | ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6a187793c2a87d6cd3df17b4?utm_campaign=1054&utm_source=git)** | US-KS-Overland Park | On Site | May 28 |
 | **[NOV](https://www.nov.com/)** | **[Community Investment Program Intern](https://jobright.ai/jobs/info/6a13b39712f8b43cf398fbfd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 28 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a18744517492d3a389b655c?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a18744517492d3a389b655d?utm_campaign=1054&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a18744517492d3a389b655d?utm_campaign=1054&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a18744517492d3a389b655c?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[EFCO Forming & Shoring Solutions](http://www.efcoforms.com/index.html)** | **[Human Resources - File Management Intern](https://jobright.ai/jobs/info/69d8c1bdb67cec4f9b09ebcd?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | May 28 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a186bde6243320e8d16439b?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 28 |
 | **[Magnet Forensics](http://magnetforensics.com)** | **[HR Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbdf3160b250eb1baf6f?utm_campaign=1054&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 28 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a746243320e8d1630a8?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a726243320e8d1630a7?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a57c2a87d6cd3defb85?utm_campaign=1054&utm_source=git)** | US-NY-East Syracuse | On Site | May 28 |
-| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f9342750?utm_campaign=1054&utm_source=git)** | US | Remote | May 28 |
-| ↳ | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f934274e?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
+| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a185999dbc80963f934274e?utm_campaign=1054&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
