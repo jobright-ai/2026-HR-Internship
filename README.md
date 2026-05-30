@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources (Year-round)](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | May 30 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c276?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 30 |
+| ↳ | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c275?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 30 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | Hybrid | May 30 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/6a1b0d4b6b135014dbc8d647?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
 | **[FreshDirect](http://freshdirect.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a11ef9983d714428982ccd7?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | May 30 |
@@ -93,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Xpress, Inc.](https://www.usxpress.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a19cdb42b206f3955eb0ad5?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | May 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/69c4f0936f4f855eeda7b297?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | May 29 |
 | **[Ashley Global Retail](https://www.ashleyfurniture.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a19c4ca6b135014dbc8610e?utm_campaign=1054&utm_source=git)** | Arcadia, Wisconsin, United States | On Site | May 29 |
+| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS)](https://jobright.ai/jobs/info/6a0f2da680bf0430c7631486?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[NORTHERN MONTANA HOSPITAL](http://www.NMHcare.org)** | **[Human Resource Aide - Summer Intern - Temporary - PT](https://jobright.ai/jobs/info/6a19bc0f6b135014dbc85a76?utm_campaign=1054&utm_source=git)** | Havre, MT | On Site | May 29 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a19aaea6b135014dbc85065?utm_campaign=1054&utm_source=git)** | Santa Barbara | On Site | May 29 |
 | ↳ | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a19aae96b135014dbc85063?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, US | On Site | May 29 |
@@ -112,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5b?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | May 28 |
 | **[JFS Altius Farms](https://altiusfarms.com/)** | **[Refugee Resettlement Employment Services - Internship](https://jobright.ai/jobs/info/6a1a093bc2a87d6cd3dfcf85?utm_campaign=1054&utm_source=git)** | Tamarac, FL | Hybrid | May 28 |
 | **[Auto-Chlor System](https://www.autochlor.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a18cf1c6243320e8d1681de?utm_campaign=1054&utm_source=git)** | Mountain View, CA 94043, USA | On Site | May 28 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 28 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 28 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 28 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 28 |
 | **[Legends Global](http://legends.net)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18c999abc8f63abac7c3d7?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 28 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Manager Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a18c84317492d3a389b9b86?utm_campaign=1054&utm_source=git)** | United States | Remote | May 28 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a18c841abc8f63abac7c308?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magnet Forensics](http://magnetforensics.com)** | **[HR Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbdf3160b250eb1baf6f?utm_campaign=1054&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 28 |
 | **[TIFEC](https://osv-tifec.wd5.myworkdayjobs.com/TIFEC)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69f6a0eadb88714bcdfb73f5?utm_campaign=1054&utm_source=git)** | Leawood, KS | On Site | May 28 |
 | **[Wagman](http://wagman.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a18601917492d3a389b5622?utm_campaign=1054&utm_source=git)** | York, PA | On Site | May 28 |
-| **[OakBend Medical Center](https://www.oakbendmedcenter.org)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185b83c2a87d6cd3defec2?utm_campaign=1054&utm_source=git)** | US-TX-Richmond | On Site | May 28 |
-| **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a185aeddbc80963f9342986?utm_campaign=1054&utm_source=git)** | US-VA-Chantilly | On Site | May 28 |
-| ↳ | **[Staffing Operations Analyst Intern](https://jobright.ai/jobs/info/6a185ae6dbc80963f9342981?utm_campaign=1054&utm_source=git)** | Chantilly, VA, US | On Site | May 28 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a185a746243320e8d1630a8?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
