@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kwik Lok Corporation](https://www.kwiklok.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1b4e4d2b206f3955eb8d4a?utm_campaign=1054&utm_source=git)** | Yakima, WA | On Site | May 30 |
 | **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/69cadd41aa3c2c1995e31199?utm_campaign=1054&utm_source=git)** | El Segundo, California, United States | On Site | May 30 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Operations Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a1b5c64547e292ae139d17b?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
-| **[Kwik Lok Corporation](https://www.kwiklok.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1b4e4d2b206f3955eb8d4a?utm_campaign=1054&utm_source=git)** | Yakima, WA | On Site | May 30 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources (Year-round)](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | May 30 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c276?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 30 |
 | ↳ | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c275?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 30 |
