@@ -61,8 +61,8 @@ For a complete list, click the following sortable link below:
 | **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/69cadd41aa3c2c1995e31199?utm_campaign=1054&utm_source=git)** | El Segundo, California, United States | On Site | May 30 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Operations Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a1b5c64547e292ae139d17b?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources (Year-round)](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | May 30 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c276?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 30 |
-| ↳ | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c275?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 30 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c275?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 30 |
+| ↳ | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c276?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 30 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, North Country, RO](https://jobright.ai/jobs/info/69c496e733eecf310794fa47?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | Hybrid | May 30 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/6a1b0d4b6b135014dbc8d647?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
 | **[FreshDirect](http://freshdirect.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a11ef9983d714428982ccd7?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | May 30 |
@@ -119,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5b?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | May 28 |
 | **[JFS Altius Farms](https://altiusfarms.com/)** | **[Refugee Resettlement Employment Services - Internship](https://jobright.ai/jobs/info/6a1a093bc2a87d6cd3dfcf85?utm_campaign=1054&utm_source=git)** | Tamarac, FL | Hybrid | May 28 |
 | **[Auto-Chlor System](https://www.autochlor.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a18cf1c6243320e8d1681de?utm_campaign=1054&utm_source=git)** | Mountain View, CA 94043, USA | On Site | May 28 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 28 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 28 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 28 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 28 |
 | **[Legends Global](http://legends.net)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18c999abc8f63abac7c3d7?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 28 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a18c841abc8f63abac7c308?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 28 |
 | **[IMPACT, Inc. - Milwaukee, WI](https://www.impactinc.org/)** | **[IMPACT Connect Intern](https://jobright.ai/jobs/info/6a18c6d854a441713ae880e7?utm_campaign=1054&utm_source=git)** | 6737 West Washington Street suite 2225, Milwaukee, WI 53214, USA | Hybrid | May 28 |
