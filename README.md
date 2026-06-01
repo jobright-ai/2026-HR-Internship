@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall People Operations Intern](https://jobright.ai/jobs/info/6a1d3139c2a87d6cd3e0ab88?utm_campaign=1054&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 01 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - Campus Recruiter (full time / Aug - Apr)](https://jobright.ai/jobs/info/6a1d2f58c2a87d6cd3e0ab3a?utm_campaign=1054&utm_source=git)** | Riverton, UT, United States | Hybrid | Jun 01 |
+| **[Greenpoint Metals, Inc.](https://www.greenpointmetals.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a1d2a80c2a87d6cd3e0aa2d?utm_campaign=1054&utm_source=git)** | GPMFranklin - Franklin, OH 45005 | On Site | May 31 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern - Campus Recruiter (full time / Aug - Apr)](https://jobright.ai/jobs/info/6a1d28eb6b135014dbc9535f?utm_campaign=1054&utm_source=git)** | 3740 W Market Center Dr, Bluffdale, UT, 84065, US | Hybrid | May 31 |
 | **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636ef128680351d968cb6?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | May 31 |
 | ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636f5128680351d968cc0?utm_campaign=1054&utm_source=git)** | Tysons, VA | On Site | May 31 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a1ccf6a9111f771d1a16514?utm_campaign=1054&utm_source=git)** | New York City | Hybrid | May 31 |
@@ -65,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 31 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 31 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Volunteer Experience and Recruitment Intern (Fall)](https://jobright.ai/jobs/info/6a1c602d6b135014dbc9264d?utm_campaign=1054&utm_source=git)** | United States | Remote | May 31 |
-| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | May 31 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | May 31 |
+| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | May 31 |
 | ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 31 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | May 31 |
 | **[Smartly](http://smartly.io)** | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a1c4115547e292ae13a0785?utm_campaign=1054&utm_source=git)** | New York | Hybrid | May 31 |
 | ↳ | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a1c4111547e292ae13a077e?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 31 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa00962ebd316bece1bf05?utm_campaign=1054&utm_source=git)** | Newaygo, Michigan, US | On Site | May 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KIHOMAC](https://kihomac.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a19004154a441713ae89dfd?utm_campaign=1054&utm_source=git)** | Byron, GA | On Site | May 28 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a18886bdbc80963f93451b6?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 28 |
 | ↳ | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a188867dbc80963f93451af?utm_campaign=1054&utm_source=git)** | San Jose, California, United States | On Site | May 28 |
-| **[Hood Packaging Corporation](http://hoodpkg.com)** | **[6 month contract - HR intern](https://jobright.ai/jobs/info/6a1881efabc8f63abac792aa?utm_campaign=1054&utm_source=git)** | Montréal, QC, CA | On Site | May 28 |
-| **[Motivation Compliance & Training, Inc.](https://www.motivation-inc.com/)** | **[Labor Standards and Compliance Intern](https://jobright.ai/jobs/info/6a187d2317492d3a389b6a80?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | May 28 |
-| **[The Beck Group](http://www.beckgroup.com)** | **[HR internship](https://jobright.ai/jobs/info/6a187befc2a87d6cd3df1976?utm_campaign=1054&utm_source=git)** | Dallas, US | On Site | May 28 |
-| **[Lightera](https://lightera.com)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/69fbedfec39b9a66c0c54e62?utm_campaign=1054&utm_source=git)** | Norcross, GA | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
