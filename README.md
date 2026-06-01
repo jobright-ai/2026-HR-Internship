@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IndieFolio](https://www.indiefolio.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1d47dcc2a87d6cd3e0b0ca?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall People Operations Intern](https://jobright.ai/jobs/info/6a1d3139c2a87d6cd3e0ab88?utm_campaign=1054&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 01 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - Campus Recruiter (full time / Aug - Apr)](https://jobright.ai/jobs/info/6a1d2f58c2a87d6cd3e0ab3a?utm_campaign=1054&utm_source=git)** | Riverton, UT, United States | Hybrid | Jun 01 |
 | **[Greenpoint Metals, Inc.](https://www.greenpointmetals.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a1d2a80c2a87d6cd3e0aa2d?utm_campaign=1054&utm_source=git)** | GPMFranklin - Franklin, OH 45005 | On Site | May 31 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 31 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Volunteer Experience and Recruitment Intern (Fall)](https://jobright.ai/jobs/info/6a1c602d6b135014dbc9264d?utm_campaign=1054&utm_source=git)** | United States | Remote | May 31 |
 | **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 31 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | May 31 |
 | ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | May 31 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | May 31 |
 | **[Smartly](http://smartly.io)** | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a1c4115547e292ae13a0785?utm_campaign=1054&utm_source=git)** | New York | Hybrid | May 31 |
 | ↳ | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a1c4111547e292ae13a077e?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 31 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa00962ebd316bece1bf05?utm_campaign=1054&utm_source=git)** | Newaygo, Michigan, US | On Site | May 31 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a161a9da429fd279da9596f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 28 |
 | **[TORQ Coatings](www.torqcoatings.com)** | **[Talent Acquistion Intern](https://jobright.ai/jobs/info/6a18f790abc8f63abac7db89?utm_campaign=1054&utm_source=git)** | Lombard, IL | On Site | May 28 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Compensation Center of Excellence Internship](https://jobright.ai/jobs/info/6a18f08e17492d3a389bada2?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | May 28 |
-| **[Gilbane Building](https://www.gilbaneco.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5c?utm_campaign=1054&utm_source=git)** | US-OH-Cleveland | On Site | May 28 |
-| ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5b?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | May 28 |
+| **[Gilbane Building](https://www.gilbaneco.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5b?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | May 28 |
+| ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5c?utm_campaign=1054&utm_source=git)** | US-OH-Cleveland | On Site | May 28 |
 | **[JFS Altius Farms](https://altiusfarms.com/)** | **[Refugee Resettlement Employment Services - Internship](https://jobright.ai/jobs/info/6a1a093bc2a87d6cd3dfcf85?utm_campaign=1054&utm_source=git)** | Tamarac, FL | Hybrid | May 28 |
 | **[Auto-Chlor System](https://www.autochlor.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a18cf1c6243320e8d1681de?utm_campaign=1054&utm_source=git)** | Mountain View, CA 94043, USA | On Site | May 28 |
 | **[Legends Global](http://legends.net)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18c999abc8f63abac7c3d7?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6a18bab154a441713ae87764?utm_campaign=1054&utm_source=git)** | Wilmington, MA | On Site | May 28 |
 | **[KIHOMAC](https://kihomac.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a19004154a441713ae89dfd?utm_campaign=1054&utm_source=git)** | Byron, GA | On Site | May 28 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a18886bdbc80963f93451b6?utm_campaign=1054&utm_source=git)** | San Jose | On Site | May 28 |
-| ↳ | **[Talent Management Intern (2026)](https://jobright.ai/jobs/info/6a188867dbc80963f93451af?utm_campaign=1054&utm_source=git)** | San Jose, California, United States | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
