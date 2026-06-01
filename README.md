@@ -67,12 +67,12 @@ For a complete list, click the following sortable link below:
 | **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a1ccf6a9111f771d1a16514?utm_campaign=1054&utm_source=git)** | New York City | Hybrid | May 31 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a186bde6243320e8d16439b?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 31 |
 | **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- HRIS Implementation](https://jobright.ai/jobs/info/6a0e523e47fea1610bca9503?utm_campaign=1054&utm_source=git)** | 411 West 8th Street, Odessa, TX, United States | On Site | May 31 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 31 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 31 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 31 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 31 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Volunteer Experience and Recruitment Intern (Fall)](https://jobright.ai/jobs/info/6a1c602d6b135014dbc9264d?utm_campaign=1054&utm_source=git)** | United States | Remote | May 31 |
-| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 31 |
+| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | May 31 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 31 |
 | ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | May 31 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | May 31 |
 | **[Smartly](http://smartly.io)** | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a1c4115547e292ae13a0785?utm_campaign=1054&utm_source=git)** | New York | Hybrid | May 31 |
 | ↳ | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a1c4111547e292ae13a077e?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 31 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa00962ebd316bece1bf05?utm_campaign=1054&utm_source=git)** | Newaygo, Michigan, US | On Site | May 31 |
