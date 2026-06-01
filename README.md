@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636ef128680351d968cb6?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | May 31 |
+| ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636f5128680351d968cc0?utm_campaign=1054&utm_source=git)** | Tysons, VA | On Site | May 31 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a1ccf6a9111f771d1a16514?utm_campaign=1054&utm_source=git)** | New York City | Hybrid | May 31 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a186bde6243320e8d16439b?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 31 |
 | **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- HRIS Implementation](https://jobright.ai/jobs/info/6a0e523e47fea1610bca9503?utm_campaign=1054&utm_source=git)** | 411 West 8th Street, Odessa, TX, United States | On Site | May 31 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 31 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 31 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 31 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 31 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Volunteer Experience and Recruitment Intern (Fall)](https://jobright.ai/jobs/info/6a1c602d6b135014dbc9264d?utm_campaign=1054&utm_source=git)** | United States | Remote | May 31 |
-| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 31 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | May 31 |
+| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | May 31 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 31 |
 | ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | May 31 |
 | **[Smartly](http://smartly.io)** | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a1c4115547e292ae13a0785?utm_campaign=1054&utm_source=git)** | New York | Hybrid | May 31 |
 | ↳ | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a1c4111547e292ae13a077e?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 31 |
@@ -77,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/6a0239b53053db70a1175a8c?utm_campaign=1054&utm_source=git)** | San Antonio, TX | Hybrid | May 30 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/6a0bd7b7538d03366dc891d3?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 30 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources (Year-round)](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | May 30 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c275?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 30 |
-| ↳ | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c276?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 30 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c276?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 30 |
+| ↳ | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c275?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 30 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/6a1b0d4b6b135014dbc8d647?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
 | **[FreshDirect](http://freshdirect.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a11ef9983d714428982ccd7?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | May 30 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/6a07e3388f3e371eb617b52f?utm_campaign=1054&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | May 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motivation Compliance & Training, Inc.](https://www.motivation-inc.com/)** | **[Labor Standards and Compliance Intern](https://jobright.ai/jobs/info/6a187d2317492d3a389b6a80?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | May 28 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[HR internship](https://jobright.ai/jobs/info/6a187befc2a87d6cd3df1976?utm_campaign=1054&utm_source=git)** | Dallas, US | On Site | May 28 |
 | **[Lightera](https://lightera.com)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/69fbedfec39b9a66c0c54e62?utm_campaign=1054&utm_source=git)** | Norcross, GA | On Site | May 28 |
-| **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[Human Resources Intern - unpaid](https://jobright.ai/jobs/info/6a187897abc8f63abac78f6a?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 28 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6a1877ababc8f63abac78ee4?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
