@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Athena](https://athenapsych.com)** | **[HR Intern (Unpaid)](https://jobright.ai/jobs/info/6a1e8fad09442629a68540b6?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 02 |
 | **[Advanced Behavioral Health Inc.](https://www.abhmaryland.com/)** | **[HR Internship (Fall 2026)](https://jobright.ai/jobs/info/6a1e804509442629a6853e3a?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Jun 02 |
 | **[McKinney](http://mckinney.com)** | **[Talent Operations, Data & AI Intern](https://jobright.ai/jobs/info/6a1e598c09442629a68535d0?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Jun 01 |
 | ↳ | **[Talent Operations, Data & AI Intern](https://jobright.ai/jobs/info/6a1e598909442629a68535cf?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 01 |
 | **[TRIUMPH](https://www.triumphgroup.com/)** | **[Human Resources/Office Intern](https://jobright.ai/jobs/info/6a1dfca4e24ef3652583b58b?utm_campaign=1054&utm_source=git)** | Redmond, WA, US, 98053 | On Site | Jun 01 |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b609fdbf21f36cb3e51?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | Jun 01 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b5f9fdbf21f36cb3e4f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a1e3a719111f771d1a1dde6?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | Jun 01 |
 | **[ArcelorMittal](https://corporate.arcelormittal.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1e4928dce5db1256d0e469?utm_campaign=1054&utm_source=git)** | 2800 Kay Bailey Hutchison, Portland, 78374, US | On Site | Jun 01 |
 | **[ArcelorMittal Brasil](https://brasil.arcelormittal.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1e4253c5277c00c647eeb2?utm_campaign=1054&utm_source=git)** | PORTLAND, TX, United States | On Site | Jun 01 |
-| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a06f78e4a0a6a7e7d81ced1?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | Jun 01 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a1e3a719111f771d1a1dde5?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a1e3a719111f771d1a1dde6?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | Jun 01 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern - Campus Recruiter (full time / Aug - Apr)](https://jobright.ai/jobs/info/6a1e3ed19111f771d1a1dfae?utm_campaign=1054&utm_source=git)** | Riverton, UT | Hybrid | Jun 01 |
 | **[Farmers Home Furniture](https://farmershomefurniture.com/)** | **[Intern - Headquarters](https://jobright.ai/jobs/info/6a1d9d1b6b135014dbc971d5?utm_campaign=1054&utm_source=git)** | Dublin, USA | On Site | Jun 01 |
 | **[ArcelorMittal](https://corporate.arcelormittal.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1e37fb6b135014dbc9b3c5?utm_campaign=1054&utm_source=git)** | Portland, TX | On Site | Jun 01 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities of Onondaga County](https://www.ccoc.us/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1d9f1db524ae49285a72f9?utm_campaign=1054&utm_source=git)** | US-NY-Syracuse | On Site | Jun 01 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1d9f22b524ae49285a72fb?utm_campaign=1054&utm_source=git)** | Syracuse, NY, US | On Site | Jun 01 |
 | **[Avalon](https://avalon.com.ua)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6a1dd50a3e538a28c204c43f?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Jun 01 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 01 |
-| ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde0b524ae49285a8163?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 01 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde0b524ae49285a8163?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 01 |
+| ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 01 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Health & Benefits Internship – (Fall 2026) – Toronto](https://jobright.ai/jobs/info/6a1de7f8b524ae49285a969f?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 01 |
 | **[Branch](https://www.ourbranch.com)** | **[People Intern](https://jobright.ai/jobs/info/6a1dca386b135014dbc985a8?utm_campaign=1054&utm_source=git)** | Branch HQ | Remote | Jun 01 |
 | **[EFCO Forming & Shoring Solutions](http://www.efcoforms.com/index.html)** | **[Human Resources - File Management Intern](https://jobright.ai/jobs/info/6a1dc96de24ef36525839d3c?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Jun 01 |
@@ -127,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a1ccf6a9111f771d1a16514?utm_campaign=1054&utm_source=git)** | New York City | Hybrid | May 31 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a186bde6243320e8d16439b?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | May 31 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa16f52ebd316bece1d2fc?utm_campaign=1054&utm_source=git)** | Newaygo, MI | On Site | May 31 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 31 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 31 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | May 31 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | May 31 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Volunteer Experience and Recruitment Intern (Fall)](https://jobright.ai/jobs/info/6a1c602d6b135014dbc9264d?utm_campaign=1054&utm_source=git)** | United States | Remote | May 31 |
 | **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 31 |
 | ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | May 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/6a1aba682b206f3955eb6083?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | May 30 |
 | **[Eulerity](https://www.eulerity.com)** | **[Recruiting Intern, Summer 2026](https://jobright.ai/jobs/info/6a1a54102b206f3955eb430d?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | May 29 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a1a464c9111f771d1a0b9ef?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | May 29 |
-| **[SetPoint Medical](http://www.setpointmedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1a37219111f771d1a0b581?utm_campaign=1054&utm_source=git)** | Valencia,CA,US | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
