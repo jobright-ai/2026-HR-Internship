@@ -63,7 +63,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Operations, Data & AI Intern](https://jobright.ai/jobs/info/6a1e598909442629a68535cf?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 01 |
 | **[TRIUMPH](https://www.triumphgroup.com/)** | **[Human Resources/Office Intern](https://jobright.ai/jobs/info/6a1dfca4e24ef3652583b58b?utm_campaign=1054&utm_source=git)** | Redmond, WA, US, 98053 | On Site | Jun 01 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b609fdbf21f36cb3e51?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | Jun 01 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b5f9fdbf21f36cb3e4f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6893afaf4c7e851b90adf8b3?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a1e3a719111f771d1a1dde6?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | Jun 01 |
 | **[ArcelorMittal](https://corporate.arcelormittal.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1e4928dce5db1256d0e469?utm_campaign=1054&utm_source=git)** | 2800 Kay Bailey Hutchison, Portland, 78374, US | On Site | Jun 01 |
 | **[ArcelorMittal Brasil](https://brasil.arcelormittal.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1e4253c5277c00c647eeb2?utm_campaign=1054&utm_source=git)** | PORTLAND, TX, United States | On Site | Jun 01 |
@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities of Onondaga County](https://www.ccoc.us/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1d9f1db524ae49285a72f9?utm_campaign=1054&utm_source=git)** | US-NY-Syracuse | On Site | Jun 01 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1d9f22b524ae49285a72fb?utm_campaign=1054&utm_source=git)** | Syracuse, NY, US | On Site | Jun 01 |
 | **[Avalon](https://avalon.com.ua)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6a1dd50a3e538a28c204c43f?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Jun 01 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde0b524ae49285a8163?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 01 |
-| ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 01 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 01 |
+| ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde0b524ae49285a8163?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 01 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Health & Benefits Internship – (Fall 2026) – Toronto](https://jobright.ai/jobs/info/6a1de7f8b524ae49285a969f?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 01 |
 | **[Branch](https://www.ourbranch.com)** | **[People Intern](https://jobright.ai/jobs/info/6a1dca386b135014dbc985a8?utm_campaign=1054&utm_source=git)** | Branch HQ | Remote | Jun 01 |
 | **[EFCO Forming & Shoring Solutions](http://www.efcoforms.com/index.html)** | **[Human Resources - File Management Intern](https://jobright.ai/jobs/info/6a1dc96de24ef36525839d3c?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Jun 01 |
@@ -145,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/69cadd41aa3c2c1995e31199?utm_campaign=1054&utm_source=git)** | El Segundo, California, United States | On Site | May 30 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/6a0bd7b7538d03366dc891d3?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 30 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Human Resources (Year-round)](https://jobright.ai/jobs/info/69c704adaa3c2c1995e14751?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | May 30 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c276?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 30 |
-| ↳ | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c275?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 30 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c275?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | May 30 |
+| ↳ | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a1b1b95547e292ae139c276?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | May 30 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/6a1b0d4b6b135014dbc8d647?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
 | **[FreshDirect](http://freshdirect.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a11ef9983d714428982ccd7?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | May 30 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery Global PMO office](https://jobright.ai/jobs/info/6a07e3388f3e371eb617b52f?utm_campaign=1054&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | May 30 |
