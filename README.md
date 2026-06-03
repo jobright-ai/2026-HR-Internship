@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Human Resources Intern, New York, NY](https://jobright.ai/jobs/info/6a15fb9c128680351d9664b3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 02 |
+| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f46f309442629a68590de?utm_campaign=1054&utm_source=git)** | US-CA-Murrieta | On Site | Jun 02 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1f46f309442629a68590df?utm_campaign=1054&utm_source=git)** | Murrieta, CA, US | On Site | Jun 02 |
+| **[Alsum Produce, Inc.](http://alsum.com/)** | **[HUMAN RESOURCE INTERN](https://jobright.ai/jobs/info/6a1f851c09442629a685b0a6?utm_campaign=1054&utm_source=git)** | Friesland, WI | On Site | Jun 02 |
+| **[Quanterix](http://www.quanterix.com)** | **[Summer Internship: Human Resources Coordinator](https://jobright.ai/jobs/info/6a1f80ea804915678116a93f?utm_campaign=1054&utm_source=git)** | Billerica, MA | On Site | Jun 02 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern - Human Resources Department](https://jobright.ai/jobs/info/6a1f762409442629a685ad34?utm_campaign=1054&utm_source=git)** | Davie, FL | On Site | Jun 02 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Internship 2025 - 2026](https://jobright.ai/jobs/info/6a1f52a0b61b2c65b37b14bc?utm_campaign=1054&utm_source=git)** | FL_Miami_218069, US | On Site | Jun 02 |
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/6a1f6db0dce5db1256d15746?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Jun 02 |
@@ -65,14 +70,13 @@ For a complete list, click the following sortable link below:
 | **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/6a1f59318049156781169289?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | Jun 02 |
 | **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f21fdc5277c00c6483ae1?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Jun 02 |
 | **[Dessert Holdings](https://www.dessertholdings.com/)** | **[HR Intern - Document Organization](https://jobright.ai/jobs/info/6a1f56eea507373dff6c0249?utm_campaign=1054&utm_source=git)** | St. Paul, MN, United States | On Site | Jun 02 |
+| **[BEAR Construction Company](http://bearcc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1f7f2ca507373dff6c18b2?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL | On Site | Jun 02 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a1f54acc5277c00c6485416?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Jun 02 |
 | **[Chemelex](https://www.chemelex.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f51e5c5277c00c64852a5?utm_campaign=1054&utm_source=git)** | Redwood City, CA, USA | On Site | Jun 02 |
 | **[Schurz Communications](https://www.schurz.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a0f80709f654b3359ce6611?utm_campaign=1054&utm_source=git)** | Mishawaka, IN | On Site | Jun 02 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Human Resources Intern - Ontario](https://jobright.ai/jobs/info/6a1f490f8049156781168a23?utm_campaign=1054&utm_source=git)** | Canada, Ontario, Mississauga, CA | On Site | Jun 02 |
 | ↳ | **[Talent Acquisition Intern - Calgary](https://jobright.ai/jobs/info/6a1f4909a507373dff6bfafc?utm_campaign=1054&utm_source=git)** | Canada, Alberta, Calgary, CA | On Site | Jun 02 |
 | ↳ | **[Human Resources Intern - Western Canada](https://jobright.ai/jobs/info/6a1f4908c5277c00c6484ef4?utm_campaign=1054&utm_source=git)** | Canada, Alberta, Calgary, CA | On Site | Jun 02 |
-| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f46f309442629a68590df?utm_campaign=1054&utm_source=git)** | Murrieta, CA, US | On Site | Jun 02 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1f46f309442629a68590de?utm_campaign=1054&utm_source=git)** | US-CA-Murrieta | On Site | Jun 02 |
 | **[Omnicom](https://www.omc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f38f9c5277c00c64844b5?utm_campaign=1054&utm_source=git)** | NEOM1919AK-NE Omaha 1919 Aksarben Drive | On Site | Jun 02 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1f38f8c5277c00c64844b4?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Jun 02 |
 | **[Mesabi Metallics](https://www.mesabimetallics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1f3496c5277c00c6484280?utm_campaign=1054&utm_source=git)** | Nashwauk, MN | On Site | Jun 02 |
@@ -98,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a041505f811a04369607ab0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Thea Energy](https://www.thea.energy)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/6a1ee779dce5db1256d10985?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | Jun 02 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 02 |
-| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f0e9fdbf21f36cb891c?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 02 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 02 |
+| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a07040c4a0a6a7e7d820607?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 02 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f0e9fdbf21f36cb891c?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 02 |
 | **[City+Ventures](https://city-ventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1ee3b1b61b2c65b37ad5b5?utm_campaign=1054&utm_source=git)** | La Vista, NE | On Site | Jun 02 |
 | **[Pathfinder Bank](http://pathfinderbank.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a031181ed6a637463f4c655?utm_campaign=1054&utm_source=git)** | Oswego, NY | On Site | Jun 02 |
 | **[Minnesota State Fair](http://mnstatefair.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a1ec266a507373dff6bb627?utm_campaign=1054&utm_source=git)** | SAINT PAUL, MN 55108-3003, USA | On Site | Jun 02 |
@@ -118,7 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Operations, Data & AI Intern](https://jobright.ai/jobs/info/6a1e598909442629a68535cf?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 01 |
 | **[GFL Environmental Inc.](https://gflenv.com)** | **[Talent Acquisition Intern (Corporate & Field Recruitment)](https://jobright.ai/jobs/info/6a1eb6cac5277c00c64805a4?utm_campaign=1054&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jun 01 |
 | **[TRIUMPH](https://www.triumphgroup.com/)** | **[Human Resources/Office Intern](https://jobright.ai/jobs/info/6a1dfca4e24ef3652583b58b?utm_campaign=1054&utm_source=git)** | Redmond, WA, US, 98053 | On Site | Jun 01 |
-| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b5f9fdbf21f36cb3e4f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a1e3a719111f771d1a1dde5?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a1e3a719111f771d1a1dde6?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | Jun 01 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b609fdbf21f36cb3e51?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | Jun 01 |
 | **[ArcelorMittal](https://corporate.arcelormittal.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1e4928dce5db1256d0e469?utm_campaign=1054&utm_source=git)** | 2800 Kay Bailey Hutchison, Portland, 78374, US | On Site | Jun 01 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Human Resources Intern- Supply Chain](https://jobright.ai/jobs/info/6a1dec5eb524ae49285a9928?utm_campaign=1054&utm_source=git)** | Aurora, CO | On Site | Jun 01 |
 | **[GFL Environmental Inc.](https://gflenv.com)** | **[Talent Acquisition Intern (Corporate & Field Recruitment)](https://jobright.ai/jobs/info/6a1de9d03e538a28c204cef1?utm_campaign=1054&utm_source=git)** | Vaughan, Ontario, CA | On Site | Jun 01 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1de8b2b524ae49285a9757?utm_campaign=1054&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Jun 01 |
-| **[Eulerity](https://www.eulerity.com)** | **[Product & People Operations Intern](https://jobright.ai/jobs/info/6a18bf3f54a441713ae87c6c?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 01 |
-| ↳ | **[Product & People Operations Intern](https://jobright.ai/jobs/info/6a18bf4154a441713ae87c6e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 01 |
+| **[Eulerity](https://www.eulerity.com)** | **[Product & People Operations Intern](https://jobright.ai/jobs/info/6a18bf4154a441713ae87c6e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 01 |
+| ↳ | **[Product & People Operations Intern](https://jobright.ai/jobs/info/6a18bf3f54a441713ae87c6c?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 01 |
 | **[Elite Dental Partners](http://www.elitedentalpartners.com/)** | **[Human Resources Intern- Summer](https://jobright.ai/jobs/info/6a1ad4b76b135014dbc8c46d?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 01 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care Multi-Disciplinary Team Assistant](https://jobright.ai/jobs/info/6a1dba673e538a28c204b72b?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jun 01 |
-| **[Catholic Charities of Onondaga County](https://www.ccoc.us/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1d9f22b524ae49285a72fb?utm_campaign=1054&utm_source=git)** | Syracuse, NY, US | On Site | Jun 01 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1d9f1db524ae49285a72f9?utm_campaign=1054&utm_source=git)** | US-NY-Syracuse | On Site | Jun 01 |
+| **[Catholic Charities of Onondaga County](https://www.ccoc.us/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1d9f1db524ae49285a72f9?utm_campaign=1054&utm_source=git)** | US-NY-Syracuse | On Site | Jun 01 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1d9f22b524ae49285a72fb?utm_campaign=1054&utm_source=git)** | Syracuse, NY, US | On Site | Jun 01 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, HR - Organizational Learning & Development (Fall 2026)](https://jobright.ai/jobs/info/6a1eb63280491567811641e4?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 01 |
-| **[Avalon](https://avalon.com.ua)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6a1dd50a3e538a28c204c43f?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Jun 01 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 01 |
-| ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde0b524ae49285a8163?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 01 |
-| **[Branch](https://www.ourbranch.com)** | **[People Intern](https://jobright.ai/jobs/info/6a1dca386b135014dbc985a8?utm_campaign=1054&utm_source=git)** | Branch HQ | Remote | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
