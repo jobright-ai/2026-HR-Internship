@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Airways](http://www.rjet.com)** | **[LIFT Academy Admissions Intern - Fall 2026](https://jobright.ai/jobs/info/6a0395f8f3d6cc51d6378571?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 03 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a036e3e6c07461fe1703aaf?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 03 |
 | ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a037fe76c07461fe1704b17?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jun 03 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a109dc812f8b43cf3986644?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Minnesota State Fair](http://mnstatefair.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a1fb86ea507373dff6c2d66?utm_campaign=1054&utm_source=git)** | SAINT PAUL, MN 55108-3003, USA | On Site | Jun 02 |
 | **[Generac](https://www.generac.com)** | **[Intern Human Resources- Talent Acquisition](https://jobright.ai/jobs/info/6a1f900dc5277c00c64872b3?utm_campaign=1054&utm_source=git)** | Waukesha, WI - USA, US | On Site | Jun 02 |
 | **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Human Resources Intern, New York, NY](https://jobright.ai/jobs/info/6a15fb9c128680351d9664b3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 02 |
-| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f46f309442629a68590df?utm_campaign=1054&utm_source=git)** | Murrieta, CA, US | On Site | Jun 02 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1f46f309442629a68590de?utm_campaign=1054&utm_source=git)** | US-CA-Murrieta | On Site | Jun 02 |
+| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f46f309442629a68590de?utm_campaign=1054&utm_source=git)** | US-CA-Murrieta | On Site | Jun 02 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1f46f309442629a68590df?utm_campaign=1054&utm_source=git)** | Murrieta, CA, US | On Site | Jun 02 |
 | **[Alsum Produce, Inc.](http://alsum.com/)** | **[HUMAN RESOURCE INTERN](https://jobright.ai/jobs/info/6a1f851c09442629a685b0a6?utm_campaign=1054&utm_source=git)** | Friesland, WI | On Site | Jun 02 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern - Human Resources Department](https://jobright.ai/jobs/info/6a1f762409442629a685ad34?utm_campaign=1054&utm_source=git)** | Davie, FL | On Site | Jun 02 |
 | **[Quanterix](http://www.quanterix.com)** | **[Summer Internship: Human Resources Coordinator](https://jobright.ai/jobs/info/6a1f80ea804915678116a93f?utm_campaign=1054&utm_source=git)** | Billerica, MA | On Site | Jun 02 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a041505f811a04369607ab0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Thea Energy](https://www.thea.energy)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/6a1ee779dce5db1256d10985?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | Jun 02 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 02 |
-| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 02 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a07040c4a0a6a7e7d820607?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 02 |
+| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 02 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 02 |
 | **[Talpa Supermercados](https://supermercadostalpa.com/)** | **[Internship – Human Resources & Recruiting (Bilingual English/Spanish Required)](https://jobright.ai/jobs/info/6a1fab13804915678116ba8e?utm_campaign=1054&utm_source=git)** | Stone Mountain, GA | Hybrid | Jun 02 |
 | **[City+Ventures](https://city-ventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1ee3b1b61b2c65b37ad5b5?utm_campaign=1054&utm_source=git)** | La Vista, NE | On Site | Jun 02 |
 | **[Pathfinder Bank](http://pathfinderbank.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a031181ed6a637463f4c655?utm_campaign=1054&utm_source=git)** | Oswego, NY | On Site | Jun 02 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Events and Volunteer Program Intern](https://jobright.ai/jobs/info/6a1eb6ef804915678116424d?utm_campaign=1054&utm_source=git)** | Chicago, IL 60614, USA | On Site | Jun 02 |
 | ↳ | **[Volunteer Program Internship](https://jobright.ai/jobs/info/6a1eb6ecdce5db1256d0f9a6?utm_campaign=1054&utm_source=git)** | Chicago, IL 60614, USA | On Site | Jun 02 |
 | **[Entrata](https://www.entrata.com/)** | **[Talent Coordinator Intern](https://jobright.ai/jobs/info/6a1eb0a309442629a6854760?utm_campaign=1054&utm_source=git)** | Lehi, Utah | Hybrid | Jun 02 |
-| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 02 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 02 |
+| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 02 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 02 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Campus Recruitment Programs & Engagement - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a020abac2ffb31f453695e3?utm_campaign=1054&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jun 02 |
 | ↳ | **[Campus Recruitment Programs & Engagement - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a030928ed6a637463f4bb48?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 02 |
 | **[Advanced Behavioral Health Inc.](https://www.abhmaryland.com/)** | **[HR Internship (Fall 2026)](https://jobright.ai/jobs/info/6a1e804509442629a6853e3a?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Jun 02 |
@@ -138,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[GFL Environmental Inc.](https://gflenv.com)** | **[Talent Acquisition Intern (Corporate & Field Recruitment)](https://jobright.ai/jobs/info/6a1eb6cac5277c00c64805a4?utm_campaign=1054&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jun 01 |
 | **[TRIUMPH](https://www.triumphgroup.com/)** | **[Human Resources/Office Intern](https://jobright.ai/jobs/info/6a1dfca4e24ef3652583b58b?utm_campaign=1054&utm_source=git)** | Redmond, WA, US, 98053 | On Site | Jun 01 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b5f9fdbf21f36cb3e4f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a06f78e4a0a6a7e7d81ced1?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | Jun 01 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b609fdbf21f36cb3e51?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | Jun 01 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a1e3a719111f771d1a1dde6?utm_campaign=1054&utm_source=git)** | Think Academy US Online | On Site | Jun 01 |
 | **[ArcelorMittal](https://corporate.arcelormittal.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1e4928dce5db1256d0e469?utm_campaign=1054&utm_source=git)** | 2800 Kay Bailey Hutchison, Portland, 78374, US | On Site | Jun 01 |
 | **[ArcelorMittal Brasil](https://brasil.arcelormittal.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1e4253c5277c00c647eeb2?utm_campaign=1054&utm_source=git)** | PORTLAND, TX, United States | On Site | Jun 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a1dfa84b524ae49285a9f8b?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Jun 01 |
 | **[Dominican University](https://www.dom.edu)** | **[Campus Visit Intern – Campus Experience Team](https://jobright.ai/jobs/info/6a1df56d3e538a28c204d4ad?utm_campaign=1054&utm_source=git)** | River Forest, IL | On Site | Jun 01 |
 | **[Talpa Supermercados](https://supermercadostalpa.com/)** | **[Internship – Human Resources & Recruiting (Bilingual English/Spanish Required)](https://jobright.ai/jobs/info/6a1df3e79111f771d1a1c428?utm_campaign=1054&utm_source=git)** | Stone Mountain | Hybrid | Jun 01 |
-| **[Atlas Real Estate](http://www.RealAtlas.com)** | **[Talent & Culture - Summer Intern](https://jobright.ai/jobs/info/6a1df1bce24ef3652583b0ae?utm_campaign=1054&utm_source=git)** | Denver,CO,US | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
