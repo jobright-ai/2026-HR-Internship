@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/69cadd41aa3c2c1995e31199?utm_campaign=1054&utm_source=git)** | El Segundo, California, United States | On Site | Jun 04 |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at Arizona State University, Tempe Campus](https://jobright.ai/jobs/info/6a04c5217c753c287f6f2fe6?utm_campaign=1054&utm_source=git)** | Arizona, United States | On Site | Jun 04 |
+| **[Jobster](https://www.jobster.com)** | **[Talent Acquisition Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a216178902d19201c7b7389?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Jun 04 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a2158a3c00e701fe836e15d?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | Jun 04 |
 | **[Generac](https://www.generac.com)** | **[Intern Human Resources- Talent Acquisition](https://jobright.ai/jobs/info/6a1f900dc5277c00c64872b3?utm_campaign=1054&utm_source=git)** | Waukesha, WI - USA, US | On Site | Jun 04 |
 | **[Devz AI Technologies Inc](https://www.devz.ai)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a21441eca8f0b365d7a58e9?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Jun 04 |
@@ -85,9 +88,9 @@ For a complete list, click the following sortable link below:
 | **[ASUS](https://www.asus.com)** | **[Human Resources Intern (Summer Internship)](https://jobright.ai/jobs/info/6a208bebca8f0b365d7a1e4d?utm_campaign=1054&utm_source=git)** | Fremont, California | On Site | Jun 03 |
 | **[Vaniam Group](https://vaniamgroup.com/)** | **[Intern - People Operations](https://jobright.ai/jobs/info/6a208a66ca8f0b365d7a1d2d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 03 |
 | **[Tapestry 360 Health](https://tap360health.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2081f7338c012305119964?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 03 |
-| **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a03abfa8ecfd93cd9c10c2d?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | Jun 03 |
+| **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a05f1276c07461fe171a60c?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
+| ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636ef128680351d968cb6?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | Jun 03 |
 | ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636f5128680351d968cc0?utm_campaign=1054&utm_source=git)** | Tysons, VA | On Site | Jun 03 |
-| ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a05f1276c07461fe171a60c?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | **[North Dakota Office of Management and Budget](http://www.nd.gov/omb)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a20d4a4c00e701fe836bdf9?utm_campaign=1054&utm_source=git)** | Bismarck, ND | Hybrid | Jun 03 |
 | **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a205217338c01230511843c?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 03 |
 | **[AXIS (AXIS Capital)](http://www.axiscapital.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a205783902d19201c7b19d7?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 03 |
@@ -100,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69fe448cad691a11f34ec7fe?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a036e3e6c07461fe1703aaf?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 03 |
 | ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a037fe76c07461fe1704b17?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jun 03 |
-| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a109dc812f8b43cf3986644?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a06fdc64a0a6a7e7d81e7bb?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
+| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a06fdc64a0a6a7e7d81e7bb?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a109dc812f8b43cf3986644?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a03661bf3d6cc51d63762e1?utm_campaign=1054&utm_source=git)** | Lake Charles, LA | On Site | Jun 03 |
 | **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/69cab96da8c1822476e1f8c4?utm_campaign=1054&utm_source=git)** | Lehi, UT | Remote | Jun 03 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a03782d6c07461fe17044a0?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jun 03 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[MEM](https://www.mem-ins.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a0311d86c07461fe1700706?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Jun 02 |
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/69de506236823d1b42580534?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 02 |
 | **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[HR Internship 26' – Generalist and Business Partnering](https://jobright.ai/jobs/info/6a1efef8b61b2c65b37ae0db?utm_campaign=1054&utm_source=git)** | AIR Office, NL | On Site | Jun 02 |
-| **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Recruiter Intern](https://jobright.ai/jobs/info/6a1f0eb180491567811663b3?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Jun 02 |
 | **[City+Ventures](https://city-ventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1ef07a09442629a6855d0e?utm_campaign=1054&utm_source=git)** | La Vista, NE | On Site | Jun 02 |
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a041505f811a04369607ab0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Thea Energy](https://www.thea.energy)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/6a1ee779dce5db1256d10985?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | Jun 02 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 02 |
-| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 02 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 02 |
+| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a07040c4a0a6a7e7d820607?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 02 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f0e9fdbf21f36cb891c?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 02 |
 | **[Talpa Supermercados](https://supermercadostalpa.com/)** | **[Internship – Human Resources & Recruiting (Bilingual English/Spanish Required)](https://jobright.ai/jobs/info/6a1fab13804915678116ba8e?utm_campaign=1054&utm_source=git)** | Stone Mountain, GA | Hybrid | Jun 02 |
-| **[City+Ventures](https://city-ventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1ee3b1b61b2c65b37ad5b5?utm_campaign=1054&utm_source=git)** | La Vista, NE | On Site | Jun 02 |
-| **[MedicalPositioning](https://medicalpositioning.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a1ec223a507373dff6bb60d?utm_campaign=1054&utm_source=git)** | Morton, MN 56270, USA | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
