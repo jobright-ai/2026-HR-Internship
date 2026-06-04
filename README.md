@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Vaniam Group](https://vaniamgroup.com/)** | **[Intern - People Operations](https://jobright.ai/jobs/info/6a208a66ca8f0b365d7a1d2d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 03 |
 | **[Tapestry 360 Health](https://tap360health.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2081f7338c012305119964?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 03 |
 | **[Alarm.com](http://www.alarm.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a05f1276c07461fe171a60c?utm_campaign=1054&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
-| ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636ef128680351d968cb6?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | Jun 03 |
 | ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636f5128680351d968cc0?utm_campaign=1054&utm_source=git)** | Tysons, VA | On Site | Jun 03 |
+| ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a1636ef128680351d968cb6?utm_campaign=1054&utm_source=git)** | Tysons, Virginia | On Site | Jun 03 |
 | **[North Dakota Office of Management and Budget](http://www.nd.gov/omb)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a20d4a4c00e701fe836bdf9?utm_campaign=1054&utm_source=git)** | Bismarck, ND | Hybrid | Jun 03 |
 | **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a205217338c01230511843c?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 03 |
 | **[AXIS (AXIS Capital)](http://www.axiscapital.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a205783902d19201c7b19d7?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 03 |
@@ -150,8 +150,8 @@ For a complete list, click the following sortable link below:
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a041505f811a04369607ab0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Thea Energy](https://www.thea.energy)** | **[People Team (HR) Intern](https://jobright.ai/jobs/info/6a1ee779dce5db1256d10985?utm_campaign=1054&utm_source=git)** | Kearny, NJ | On Site | Jun 02 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6975e054206da320f49fe7eb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 02 |
-| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f0e9fdbf21f36cb891c?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 02 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 02 |
+| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 02 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 02 |
 | **[Talpa Supermercados](https://supermercadostalpa.com/)** | **[Internship – Human Resources & Recruiting (Bilingual English/Spanish Required)](https://jobright.ai/jobs/info/6a1fab13804915678116ba8e?utm_campaign=1054&utm_source=git)** | Stone Mountain, GA | Hybrid | Jun 02 |
 | **[City+Ventures](https://city-ventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a1ee3b1b61b2c65b37ad5b5?utm_campaign=1054&utm_source=git)** | La Vista, NE | On Site | Jun 02 |
 | **[MedicalPositioning](https://medicalpositioning.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a1ec223a507373dff6bb60d?utm_campaign=1054&utm_source=git)** | Morton, MN 56270, USA | On Site | Jun 02 |
