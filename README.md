@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
+| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
 | **[Greene Thumb Landscape Inc.](https://www.greenethumbup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a259ab36624e500cad0f67f?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 07 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2588cd6624e500cad0f52b?utm_campaign=1054&utm_source=git)** | East Granby, CT | On Site | Jun 07 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 07 |
@@ -112,7 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/69d3196c0b098b7a6708bd11?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jun 05 |
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a22caae14de9460dc8431ff?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 05 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a186bde6243320e8d16439b?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 05 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0704469f57175bd581ecd4?utm_campaign=1054&utm_source=git)** | New York City | Hybrid | Jun 05 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a1ccf6a9111f771d1a16514?utm_campaign=1054&utm_source=git)** | New York City | Hybrid | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a065779f3d6cc51d6392add?utm_campaign=1054&utm_source=git)** | Metamora, OH | On Site | Jun 05 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Human Resources Intern - Cranberry Township, PA](https://jobright.ai/jobs/info/69ce4a3c54f00230c6cfdffc?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Jun 05 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/69af610e6b21de023e608874?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Jun 05 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 People Development Intern](https://jobright.ai/jobs/info/6a2194517c30cc2cc5169a36?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jun 04 |
 | ↳ | **[Fall 2026 Associate Experience Intern](https://jobright.ai/jobs/info/6a2191317c30cc2cc5169906?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jun 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/6a04d60a7c753c287f6f3e78?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Jun 04 |
-| **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a06ff441f7fa33581c98fcc?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 04 |
-| ↳ | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a0489d3bc4184089f23c16d?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 04 |
+| **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a0489d3bc4184089f23c16d?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 04 |
 | ↳ | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a17169f1430333075cccd04?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Jun 04 |
-| **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a04fb14bc4184089f2418c4?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
-| ↳ | **[HR Summer Intern](https://jobright.ai/jobs/info/6a071adb078fec52738a915d?utm_campaign=1054&utm_source=git)** | Greater Seattle area | On Site | Jun 04 |
+| ↳ | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a06ff441f7fa33581c98fcc?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
