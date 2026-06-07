@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinisa Solutions](www.sinisasolutions.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a24c695d46c0f7996087731?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 06 |
 | **[val's services](https://www.linkedin.com/company/108859510)** | **[HR Intern](https://jobright.ai/jobs/info/6a24b879d46c0f79960875a2?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jun 06 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a24b871d46c0f799608759b?utm_campaign=1054&utm_source=git)** | Murrieta, CA | On Site | Jun 06 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[*Internal Candidates Only* Student Assistant - FI$Cal Intern](https://jobright.ai/jobs/info/6a246f8ad46c0f7996086f6e?utm_campaign=1054&utm_source=git)** | Sacramento, CA 95819, USA | On Site | Jun 06 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Becker Global America](https://www.beckersmcusa.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a244b396624e500cad0d907?utm_campaign=1054&utm_source=git)** | Bristol, VA, 24212, United States | On Site | Jun 06 |
 | **[OPmobility](https://www.opmobility.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1e42b7b61b2c65b37ab0ea?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jun 06 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/69eb66df58811370cb1392bb?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Jun 06 |
-| **[Netrolynx AI](https://www.netrolynx.ai)** | **[HR Intern](https://jobright.ai/jobs/info/6a242db414de9460dc846378?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 06 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Supervisor Trainee Internship Fall 2026](https://jobright.ai/jobs/info/697aa5409d60e431a16c3c4d?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jun 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/6a072bf6078fec52738ab6c6?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 06 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2027](https://jobright.ai/jobs/info/6a079549939a5f01db951ecd?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jun 06 |
@@ -142,19 +142,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 People Development Intern](https://jobright.ai/jobs/info/6a2194517c30cc2cc5169a36?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jun 04 |
 | ↳ | **[Fall 2026 Associate Experience Intern](https://jobright.ai/jobs/info/6a2191317c30cc2cc5169906?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jun 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/6a04d60a7c753c287f6f3e78?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Jun 04 |
-| **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a06ff441f7fa33581c98fcc?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 04 |
+| **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a17169f1430333075cccd04?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Jun 04 |
+| ↳ | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a06ff441f7fa33581c98fcc?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 04 |
 | ↳ | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a0489d3bc4184089f23c16d?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 04 |
-| ↳ | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a17169f1430333075cccd04?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Jun 04 |
-| **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a071adb078fec52738a915d?utm_campaign=1054&utm_source=git)** | Greater Seattle area | On Site | Jun 04 |
-| ↳ | **[HR Summer Intern](https://jobright.ai/jobs/info/6a1786c681fe455c705a98e0?utm_campaign=1054&utm_source=git)** | Seattle, Washington, United States | On Site | Jun 04 |
-| ↳ | **[HR Summer Intern](https://jobright.ai/jobs/info/6a1786b581fe455c705a98d9?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
+| **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a1786c681fe455c705a98e0?utm_campaign=1054&utm_source=git)** | Seattle, Washington, United States | On Site | Jun 04 |
 | ↳ | **[HR Summer Intern](https://jobright.ai/jobs/info/6a04fb14bc4184089f2418c4?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
+| ↳ | **[HR Summer Intern](https://jobright.ai/jobs/info/6a071adb078fec52738a915d?utm_campaign=1054&utm_source=git)** | Greater Seattle area | On Site | Jun 04 |
+| ↳ | **[HR Summer Intern](https://jobright.ai/jobs/info/6a1786b581fe455c705a98d9?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
 | **[Smartly](http://smartly.io)** | **[Workplace Experience Intern](https://jobright.ai/jobs/info/6a04ba49bc4184089f23e1be?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | ↳ | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a0504f422395b6dc6da336c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 04 |
-| ↳ | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a04e1faf3d6cc51d63841a5?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 04 |
 | ↳ | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a1c4115547e292ae13a0785?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 04 |
 | ↳ | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a06fc074a0a6a7e7d81de32?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 04 |
 | ↳ | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a1c4111547e292ae13a077e?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 04 |
+| ↳ | **[Compensation & People Analytics Intern](https://jobright.ai/jobs/info/6a04e1faf3d6cc51d63841a5?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 04 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Jun 04 |
 | **[Enchantment Resort](https://www.enchantmentresort.com)** | **[Internship Opportunities (Current & Future, Temporary-Seasonal)](https://jobright.ai/jobs/info/69e6de50e0cd471b2f127b9b?utm_campaign=1054&utm_source=git)** | Irvington, VA | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
