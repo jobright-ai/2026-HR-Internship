@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Alloy Corporation](https://universalalloy.com/)** | **[HUMAN RESOURCES COLLEGE INTERN](https://jobright.ai/jobs/info/6a26ced312f0202342260848?utm_campaign=1054&utm_source=git)** | Canton, GA | On Site | Jun 08 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a26be2330042e7539084c56?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jun 08 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - HR Service Center](https://jobright.ai/jobs/info/6a26808af6f7e33c4484b7e9?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | Hybrid | Jun 08 |
 | **[Jobster](https://www.jobster.com)** | **[Talent Acquisition Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26acc4f55a2916f26acc69?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
+| **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/6a26c82a4ec8d737d6dfbc4e?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Talent Acquisition & Global Mobility (8 months)](https://jobright.ai/jobs/info/6a268a98da383237c5215ae7?utm_campaign=1054&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Talent Acquisition & Global Mobility (8 months)](https://jobright.ai/jobs/info/6a267e636d665572632df9e3?utm_campaign=1054&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[HR Compensation and Compliance Specialist (internship to hire) (temporarily unpaid)](https://jobright.ai/jobs/info/6a2663a4d46c0f7996089fe6?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | Jun 07 |
@@ -122,7 +124,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/6a22d7ea4239a4353887cd88?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Jun 05 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/69d3196c0b098b7a6708bd11?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jun 05 |
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a22caae14de9460dc8431ff?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 05 |
-| **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a186bde6243320e8d16439b?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 05 |
+| **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a05f8036c07461fe171abc1?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 05 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a1ccf6a9111f771d1a16514?utm_campaign=1054&utm_source=git)** | New York City | Hybrid | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a065779f3d6cc51d6392add?utm_campaign=1054&utm_source=git)** | Metamora, OH | On Site | Jun 05 |
 | **[Grail Talent](http://grail-talent.com)** | **[Junior Recruiter Internship - Remote (US)](https://jobright.ai/jobs/info/6a26b3762056260dd6e82bf2?utm_campaign=1054&utm_source=git)** | 490 8th Ave, New York, USA, 10001-1806, US | Remote | Jun 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern PRN/Days](https://jobright.ai/jobs/info/6978a72088e2b47213bcc64d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 04 |
 | **[Buckner International](https://www.buckner.org/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a21c0e7c00e701fe83708a7?utm_campaign=1054&utm_source=git)** | Dallas, Texas, United States | Hybrid | Jun 04 |
 | **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69fd3e9c6b788e7e7a5c605f?utm_campaign=1054&utm_source=git)** | Princeton, NJ, US | On Site | Jun 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6a04d7074373b07358a373d1?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | Jun 04 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Nonqualified Retirement Plan Team Summer Intern (Service & Operations)](https://jobright.ai/jobs/info/6a060c25320bff2205ea74f0?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | Hybrid | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
