@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - HR Service Center](https://jobright.ai/jobs/info/6a26808af6f7e33c4484b7e9?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | Hybrid | Jun 08 |
+| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Talent Acquisition & Global Mobility (8 months)](https://jobright.ai/jobs/info/6a267e636d665572632df9e3?utm_campaign=1054&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[HR Compensation and Compliance Specialist (internship to hire) (temporarily unpaid)](https://jobright.ai/jobs/info/6a2663a4d46c0f7996089fe6?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | Jun 07 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a265802dedf78312c7b1c7a?utm_campaign=1054&utm_source=git)** | Tampa, Flor, US | On Site | Jun 07 |
 | ↳ | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a264c9e4239a4353888395e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 07 |
 | **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jun 07 |
-| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
-| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
+| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
+| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a25b86714de9460dc8486b8?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 07 |
 | **[Greene Thumb Landscape Inc.](https://www.greenethumbup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a259ab36624e500cad0f67f?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 07 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2588cd6624e500cad0f52b?utm_campaign=1054&utm_source=git)** | East Granby, CT | On Site | Jun 07 |
@@ -107,22 +109,23 @@ For a complete list, click the following sortable link below:
 | **[Drake Hotel Properties](http://www.thedrake.ca)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2366e24239a4353887e0e8?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 05 |
 | **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2369a94239a4353887e178?utm_campaign=1054&utm_source=git)** | MGH Huntersville Hourly, Huntersville, NC, US | On Site | Jun 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/6a06164af3d6cc51d638ee95?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Jun 05 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/6a10fd629f654b3359cef2f9?utm_campaign=1054&utm_source=git)** | Smyrna, TN, US | On Site | Jun 05 |
-| ↳ | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c230836fe79d861a067?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Jun 05 |
-| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Employee Health Intern](https://jobright.ai/jobs/info/6a22cbaddedf78312c7aac0f?utm_campaign=1054&utm_source=git)** | Olathe Hospital, US | On Site | Jun 05 |
-| ↳ | **[Employee Health Intern](https://jobright.ai/jobs/info/6a22cbaddedf78312c7aac0e?utm_campaign=1054&utm_source=git)** | Kansas City, KS, US | On Site | Jun 05 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c230836fe79d861a067?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Jun 05 |
+| ↳ | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/6a10fd629f654b3359cef2f9?utm_campaign=1054&utm_source=git)** | Smyrna, TN, US | On Site | Jun 05 |
+| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Employee Health Intern](https://jobright.ai/jobs/info/6a22cbaddedf78312c7aac0e?utm_campaign=1054&utm_source=git)** | Kansas City, KS, US | On Site | Jun 05 |
+| ↳ | **[Employee Health Intern](https://jobright.ai/jobs/info/6a22cbaddedf78312c7aac0f?utm_campaign=1054&utm_source=git)** | Olathe Hospital, US | On Site | Jun 05 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Stage Coordonnateur.trice Talent et culture (H/F/D)](https://jobright.ai/jobs/info/6a06e8a5b897ee41d283136c?utm_campaign=1054&utm_source=git)** | Mont-Tremblant, Quebec, Canada | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/6a0d7446528eaa34a446f5f8?utm_campaign=1054&utm_source=git)** | Simi Valley, CA, United States | On Site | Jun 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern- Montpelier, VT](https://jobright.ai/jobs/info/6a22d9f7dedf78312c7aaf72?utm_campaign=1054&utm_source=git)** | Barre, VT | On Site | Jun 05 |
 | ↳ | **[Fall 2026 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/6a22d7ea4239a4353887cd88?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Jun 05 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/69d3196c0b098b7a6708bd11?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jun 05 |
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a22caae14de9460dc8431ff?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 05 |
-| **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0704469f57175bd581ecd4?utm_campaign=1054&utm_source=git)** | New York City | Hybrid | Jun 05 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a186bde6243320e8d16439b?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 05 |
+| **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a05f8036c07461fe171abc1?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 05 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a1ccf6a9111f771d1a16514?utm_campaign=1054&utm_source=git)** | New York City | Hybrid | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a065779f3d6cc51d6392add?utm_campaign=1054&utm_source=git)** | Metamora, OH | On Site | Jun 05 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Human Resources Intern - Cranberry Township, PA](https://jobright.ai/jobs/info/69ce4a3c54f00230c6cfdffc?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Jun 05 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/69af610e6b21de023e608874?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Jun 05 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a065ac7320bff2205eabf82?utm_campaign=1054&utm_source=git)** | Bunnell, FL | On Site | Jun 05 |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[General Internship (Title 1)](https://jobright.ai/jobs/info/6a267f51f7fb48017f2bc6bb?utm_campaign=1054&utm_source=git)** | Title One - South Bend, Indiana | On Site | Jun 05 |
 | **[Metro One Security](http://metroonelpsg.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a22764ed1ab07243c7f81bd?utm_campaign=1054&utm_source=git)** | Morristown, NJ 07960, USA | On Site | Jun 05 |
 | **[Truveta](https://www.truveta.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6a050de3bc4184089f2424dd?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | On Site | Jun 05 |
 | **[Minnesota State Fair](http://mnstatefair.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a22753b4576ad60e9a7a467?utm_campaign=1054&utm_source=git)** | SAINT PAUL, MN 55108-3003, USA | On Site | Jun 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[People Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21a37a4bdf8a5a96bd6d88?utm_campaign=1054&utm_source=git)** | South San Francisco, California, USA | On Site | Jun 04 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Associate Experience Intern](https://jobright.ai/jobs/info/6a21a2b4ca8f0b365d7a760f?utm_campaign=1054&utm_source=git)** | Knoxville, TN, US | On Site | Jun 04 |
 | ↳ | **[Fall 2026 People Development Intern](https://jobright.ai/jobs/info/6a2194584bdf8a5a96bd66f4?utm_campaign=1054&utm_source=git)** | Knoxville, TN, US | On Site | Jun 04 |
-| ↳ | **[Fall 2026 People Development Intern](https://jobright.ai/jobs/info/6a2194517c30cc2cc5169a36?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jun 04 |
-| ↳ | **[Fall 2026 Associate Experience Intern](https://jobright.ai/jobs/info/6a2191317c30cc2cc5169906?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jun 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/6a04d60a7c753c287f6f3e78?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
