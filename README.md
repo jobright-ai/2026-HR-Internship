@@ -74,9 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Grail Talent](http://grail-talent.com)** | **[Junior Recruiter Internship - Remote (US)](https://jobright.ai/jobs/info/6a273b8c7d827633afff9892?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jun 08 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Development & Engagement Intern](https://jobright.ai/jobs/info/6a272e5830042e7539087a90?utm_campaign=1054&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 08 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a272e3a30042e7539087a7d?utm_campaign=1054&utm_source=git)** | Waterbury, CT | On Site | Jun 08 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1bf7b79e36d3a847ecb2b?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Jun 08 |
-| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1c05175f7ff1cd81015fd?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Jun 08 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1c05175f7ff1cd81015fd?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Jun 08 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd12f0202342263fc0?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Jun 08 |
+| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1bf7b79e36d3a847ecb2b?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Jun 08 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd7d827633afffa168?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Jun 08 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a272139ca77fd3096d25872?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Jun 08 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a273bcf2056260dd6e860f6?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 08 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[USC Marshall School of Business](https://www.marshall.usc.edu/)** | **[Fall 2026 - GA - Recruiting](https://jobright.ai/jobs/info/6a2371656624e500cad0bb02?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Jun 05 |
 | **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a22de5bd46c0f7996083cc4?utm_campaign=1054&utm_source=git)** | McLean , VA | Hybrid | Jun 05 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/6a066ff5f3d6cc51d63939ec?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 05 |
-| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Human Resources Intern - 2026](https://jobright.ai/jobs/info/6a0eda0912f8b43cf3979eaf?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 05 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69e7c671f8fa2f3ec32a9798?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Jun 05 |
+| ↳ | **[Talent Operations Intern](https://jobright.ai/jobs/info/69e7c671f8fa2f3ec32a9798?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Jun 05 |
 | **[Drake Hotel Properties](http://www.thedrake.ca)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2366e24239a4353887e0e8?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 05 |
 | **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2369a94239a4353887e178?utm_campaign=1054&utm_source=git)** | MGH Huntersville Hourly, Huntersville, NC, US | On Site | Jun 05 |
+| **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/6a06164af3d6cc51d638ee95?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
