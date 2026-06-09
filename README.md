@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wesleyan University](http://wesleyan.edu)** | **[Temporary Career Development Intern](https://jobright.ai/jobs/info/6a0ca5970411d7417a1baabd?utm_campaign=1054&utm_source=git)** | Middletown, CT (Main Campus), US | Hybrid | Jun 08 |
+| **[American Realty Advisors](http://www.aracapital.com/)** | **[HR-Intern](https://jobright.ai/jobs/info/6a278b921dbd8437bebc6ed9?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
+| **[Sinisa Solutions](www.sinisasolutions.com)** | **[Human Resources Internship - Unpaid](https://jobright.ai/jobs/info/6a278b311dbd8437bebc6ec4?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[American Realty Advisors](http://www.aracapital.com/)** | **[HR-Intern](https://jobright.ai/jobs/info/6a2784a43877102eafa2d63b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA 90071, USA | On Site | Jun 08 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Recruiting Marketing Internship](https://jobright.ai/jobs/info/6a272ef04ec8d737d6dfe701?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, US | On Site | Jun 08 |
 | **[UC Health](http://uchealth.com/)** | **[Digital Health Systems Intern, Full Time, First Shift](https://jobright.ai/jobs/info/6a275b472056260dd6e86b2c?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jun 08 |
@@ -92,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Motivation Compliance & Training, Inc.](https://www.motivation-inc.com/)** | **[Labor Standards and Compliance Intern](https://jobright.ai/jobs/info/6a187d2317492d3a389b6a80?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jun 08 |
 | **[Physicians East](http://physicianseast.com)** | **[Operations Intern - Human Resources (Recruiting Focus)](https://jobright.ai/jobs/info/6a26f01830042e7539085f6e?utm_campaign=1054&utm_source=git)** | Greenville, NC, US | On Site | Jun 08 |
 | **[Mestek, Inc.](http://mestek.com)** | **[Summer HR Intern - Part Time](https://jobright.ai/jobs/info/6a26eef330042e7539085eec?utm_campaign=1054&utm_source=git)** | 260 N. ELM ST., WESTFIELD, MA01085 | On Site | Jun 08 |
-| **[Lemontree Healthcare](https://lemontreehealthcare.com/)** | **[HR Intern - Summer - 6 weeks](https://jobright.ai/jobs/info/6a26ee7012f02023422616ab?utm_campaign=1054&utm_source=git)** | Tysons, VA, US | On Site | Jun 08 |
 | **[Physicians East](http://physicianseast.com)** | **[Operations Intern - Human Resources (Recruiting Focus)](https://jobright.ai/jobs/info/6a26e7eeca77fd3096d23fac?utm_campaign=1054&utm_source=git)** | Greenville, NC | On Site | Jun 08 |
 | **[Find Me](https://fyndme.net)** | **[Human Resources Intern - Unpaid](https://jobright.ai/jobs/info/6a26e6174ec8d737d6dfc745?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - HR/Strategic Communications](https://jobright.ai/jobs/info/6a26d55e4ec8d737d6dfc0ec?utm_campaign=1054&utm_source=git)** | Canonsburg PA - Canonsburg, PA 15317 | On Site | Jun 08 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a265802dedf78312c7b1c7a?utm_campaign=1054&utm_source=git)** | Tampa, Flor, US | On Site | Jun 07 |
 | ↳ | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a264c9e4239a4353888395e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 07 |
 | **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jun 07 |
-| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
-| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
+| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
+| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a25b86714de9460dc8486b8?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 07 |
 | **[Greene Thumb Landscape](https://www.greenethumbup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a259ab36624e500cad0f67f?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 07 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2588cd6624e500cad0f52b?utm_campaign=1054&utm_source=git)** | East Granby, CT | On Site | Jun 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/69e7c671f8fa2f3ec32a9798?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Jun 05 |
 | **[Drake Hotel Properties](http://www.thedrake.ca)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2366e24239a4353887e0e8?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 05 |
 | **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2369a94239a4353887e178?utm_campaign=1054&utm_source=git)** | MGH Huntersville Hourly, Huntersville, NC, US | On Site | Jun 05 |
-| **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/6a06164af3d6cc51d638ee95?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Jun 05 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Talent Management Paid Intern](https://jobright.ai/jobs/info/6a26ee807d827633afff7737?utm_campaign=1054&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
