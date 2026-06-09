@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ITW Automotive](https://www.itwautomotive.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a235a7d4239a4353887df04?utm_campaign=1054&utm_source=git)** | Richton Park, IL | On Site | Jun 08 |
+| **[Harrison Energy Partners](http://harrisonenergy.com)** | **[Intern](https://jobright.ai/jobs/info/6a154c2f554b0e12c0581a6f?utm_campaign=1054&utm_source=git)** | Fort Smith, Arkansas, 72901 | On Site | Jun 08 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Temporary Career Development Intern](https://jobright.ai/jobs/info/6a0ca5970411d7417a1baabd?utm_campaign=1054&utm_source=git)** | Middletown, CT (Main Campus), US | Hybrid | Jun 08 |
 | **[American Realty Advisors](http://www.aracapital.com/)** | **[HR-Intern](https://jobright.ai/jobs/info/6a278b921dbd8437bebc6ed9?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | **[Sinisa Solutions](www.sinisasolutions.com)** | **[Human Resources Internship - Unpaid](https://jobright.ai/jobs/info/6a278b311dbd8437bebc6ec4?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
@@ -68,14 +70,13 @@ For a complete list, click the following sortable link below:
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Employee Relations (4 Months)](https://jobright.ai/jobs/info/6a27454d30042e7539088349?utm_campaign=1054&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jun 08 |
 | **[Blue Star Partners](https://www.bluestarpartners.com/)** | **[HR Talent Recruiter Summer Intern](https://jobright.ai/jobs/info/6a273f6e7d827633afff9b2e?utm_campaign=1054&utm_source=git)** | Remote - Chicago, IL | Remote | Jun 08 |
-| **[Matriosh](Matriosh.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a273f59ca77fd3096d265a3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Core4ce](https://www.core4ce.com/)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/6a273be212f02023422637a0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Grail Talent](http://grail-talent.com)** | **[Junior Recruiter Internship - Remote (US)](https://jobright.ai/jobs/info/6a273b8c7d827633afff9892?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jun 08 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Development & Engagement Intern](https://jobright.ai/jobs/info/6a272e5830042e7539087a90?utm_campaign=1054&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 08 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a272e3a30042e7539087a7d?utm_campaign=1054&utm_source=git)** | Waterbury, CT | On Site | Jun 08 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1bf7b79e36d3a847ecb2b?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Jun 08 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd12f0202342263fc0?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Jun 08 |
 | ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1c05175f7ff1cd81015fd?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Jun 08 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd12f0202342263fc0?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Jun 08 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd7d827633afffa168?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Jun 08 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a272139ca77fd3096d25872?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Jun 08 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a273bcf2056260dd6e860f6?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 08 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Talent Management Paid Intern](https://jobright.ai/jobs/info/6a2389aad46c0f7996085104?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 05 |
 | **[Hut 8](https://hut8.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a236532d46c0f7996084b73?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 05 |
 | **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a23c60f757ade085b6af17d?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Jun 05 |
-| **[ITW Automotive](https://www.itwautomotive.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a235a7d4239a4353887df04?utm_campaign=1054&utm_source=git)** | Richton Park, IL | On Site | Jun 05 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a05fa1abc4184089f24995b?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 05 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a2731d72056260dd6e85e78?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 05 |
 | **[S&S Activewear](https://www.ssactivewear.com)** | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/6a2380474239a4353887e4cf?utm_campaign=1054&utm_source=git)** | Reading, PA | On Site | Jun 05 |
