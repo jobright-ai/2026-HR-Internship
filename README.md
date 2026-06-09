@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UC Health](http://uchealth.com/)** | **[Digital Health Systems Intern, Full Time, First Shift](https://jobright.ai/jobs/info/6a275b472056260dd6e86b2c?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jun 08 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[HR Intern (Hybrid 32 hours/week M-Th; In-Office M-W)](https://jobright.ai/jobs/info/6a2749ccca77fd3096d269bc?utm_campaign=1054&utm_source=git)** | Livonia, MI | Hybrid | Jun 08 |
 | **[IKO North America](https://www.iko.com)** | **[HR/Safety Intern](https://jobright.ai/jobs/info/6a273ec712f0202342263986?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, US | On Site | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Employee Relations (4 Months)](https://jobright.ai/jobs/info/6a27454d30042e7539088349?utm_campaign=1054&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Matriosh](Matriosh.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a273f59ca77fd3096d265a3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Core4ce](https://www.core4ce.com/)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/6a273be212f02023422637a0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Grail Talent](http://grail-talent.com)** | **[Junior Recruiter Internship - Remote (US)](https://jobright.ai/jobs/info/6a273b8c7d827633afff9892?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jun 08 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Summer 2026)](https://jobright.ai/jobs/info/6a2738dfca77fd3096d26287?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Jun 08 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Recruiting Marketing Internship](https://jobright.ai/jobs/info/6a272ef04ec8d737d6dfe701?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, US | On Site | Jun 08 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Development & Engagement Intern](https://jobright.ai/jobs/info/6a272e5830042e7539087a90?utm_campaign=1054&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 08 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a272e3a30042e7539087a7d?utm_campaign=1054&utm_source=git)** | Waterbury, CT | On Site | Jun 08 |
@@ -108,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a265802dedf78312c7b1c7a?utm_campaign=1054&utm_source=git)** | Tampa, Flor, US | On Site | Jun 07 |
 | ↳ | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a264c9e4239a4353888395e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 07 |
 | **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jun 07 |
-| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
-| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
+| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
+| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a25b86714de9460dc8486b8?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 07 |
 | **[Greene Thumb Landscape](https://www.greenethumbup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a259ab36624e500cad0f67f?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 07 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2588cd6624e500cad0f52b?utm_campaign=1054&utm_source=git)** | East Granby, CT | On Site | Jun 07 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2369a94239a4353887e178?utm_campaign=1054&utm_source=git)** | MGH Huntersville Hourly, Huntersville, NC, US | On Site | Jun 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/6a06164af3d6cc51d638ee95?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Jun 05 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Talent Management Paid Intern](https://jobright.ai/jobs/info/6a26ee807d827633afff7737?utm_campaign=1054&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jun 05 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/6a10fd629f654b3359cef2f9?utm_campaign=1054&utm_source=git)** | Smyrna, TN, US | On Site | Jun 05 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c230836fe79d861a067?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
