@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USfalcon](http://www.usfalcon.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a2842f3fd37e62bb47a7e9e?utm_campaign=1054&utm_source=git)** | Cary, North Carolina, United States | On Site | Jun 09 |
+| **[Gasser Chair](http://gasserchair.com)** | **[HR Learning & Development Intern](https://jobright.ai/jobs/info/6a2841c3883c0d3be6540c61?utm_campaign=1054&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | Jun 09 |
 | **[Granite Partners](http://Granite.com)** | **[HR AI & Data Analytics Intern](https://jobright.ai/jobs/info/6a283de61dbd8437bebc9d58?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Hybrid | Jun 09 |
 | **[Geisinger](https://www.geisinger.org)** | **[Health Services Wellness Internship, Geisinger Health Plan (Northeastern Pennsylvania resident)](https://jobright.ai/jobs/info/6a283c587061b51a3a5f45c3?utm_campaign=1054&utm_source=git)** | Work from Home, US | Hybrid | Jun 09 |
 | **[ECS](https://shopecs.com/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a282be32d6c332ee52e4168?utm_campaign=1054&utm_source=git)** | 2750 Prosperity Ave Ste 600, Fairfax, VA22031 | On Site | Jun 09 |
@@ -85,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Core4ce](https://www.core4ce.com/)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/6a273be212f02023422637a0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Grail Talent](http://grail-talent.com)** | **[Junior Recruiter Internship - Remote (US)](https://jobright.ai/jobs/info/6a273b8c7d827633afff9892?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jun 08 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Development & Engagement Intern](https://jobright.ai/jobs/info/6a272e5830042e7539087a90?utm_campaign=1054&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 08 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd12f0202342263fc0?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Jun 08 |
-| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1c05175f7ff1cd81015fd?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Jun 08 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1c05175f7ff1cd81015fd?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Jun 08 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd12f0202342263fc0?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Jun 08 |
 | ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1bf7b79e36d3a847ecb2b?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Jun 08 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd7d827633afffa168?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Jun 08 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a272139ca77fd3096d25872?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Jun 08 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a265802dedf78312c7b1c7a?utm_campaign=1054&utm_source=git)** | Tampa, Flor, US | On Site | Jun 07 |
 | ↳ | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a264c9e4239a4353888395e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 07 |
 | **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jun 07 |
-| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
-| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
+| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
+| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a25b86714de9460dc8486b8?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 07 |
 | **[Greene Thumb Landscape](https://www.greenethumbup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a259ab36624e500cad0f67f?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 07 |
 | **[Gushcloud International](http://gushcloud.com)** | **[Talent Manager Intern](https://jobright.ai/jobs/info/6a28398e883c0d3be6540675?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 07 |
@@ -128,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 07 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b478d33b74eb1e2c81cc6b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jun 07 |
 | ↳ | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 07 |
-| **[Fry's Electronics](http://www.frys.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a24d849dedf78312c7af3e4?utm_campaign=1054&utm_source=git)** | Lutz | On Site | Jun 06 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[*Internal Candidates Only* Student Assistant - FI$Cal Intern](https://jobright.ai/jobs/info/6a246f8ad46c0f7996086f6e?utm_campaign=1054&utm_source=git)** | Sacramento, CA 95819, USA | On Site | Jun 06 |
 | **[Pisces Healthcare Solutions](https://www.pisceshealth.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a246e1214de9460dc846a45?utm_campaign=1054&utm_source=git)** | Winchester,VA,US | On Site | Jun 06 |
 | **[POM Wonderful](http://www.pomwonderful.com)** | **[Wonderful Scholar Summer Internship, Human Resources](https://jobright.ai/jobs/info/69cf20f6398fb071abf8c701?utm_campaign=1054&utm_source=git)** | Del Rey, CA | On Site | Jun 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety & Workers’ Compensation Internship – Summer '26 (MON-FRI)](https://jobright.ai/jobs/info/6a2338c8dedf78312c7abc43?utm_campaign=1054&utm_source=git)** | Lockport, IL | On Site | Jun 05 |
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a23522114de9460dc844255?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Jun 05 |
 | **[USC Marshall School of Business](https://www.marshall.usc.edu/)** | **[Fall 2026 - GA - Recruiting](https://jobright.ai/jobs/info/6a2371656624e500cad0bb02?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Jun 05 |
-| **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a22de5bd46c0f7996083cc4?utm_campaign=1054&utm_source=git)** | McLean , VA | Hybrid | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
