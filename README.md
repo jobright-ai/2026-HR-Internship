@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Granite Partners](http://Granite.com)** | **[HR AI & Data Analytics Intern](https://jobright.ai/jobs/info/6a283de61dbd8437bebc9d58?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Hybrid | Jun 09 |
+| **[Geisinger](https://www.geisinger.org)** | **[Health Services Wellness Internship, Geisinger Health Plan (Northeastern Pennsylvania resident)](https://jobright.ai/jobs/info/6a283c587061b51a3a5f45c3?utm_campaign=1054&utm_source=git)** | Work from Home, US | Hybrid | Jun 09 |
 | **[ECS](https://shopecs.com/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a282be32d6c332ee52e4168?utm_campaign=1054&utm_source=git)** | 2750 Prosperity Ave Ste 600, Fairfax, VA22031 | On Site | Jun 09 |
 | **[Hutchens Law Firm LLP](https://hutchenslawfirm.com/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6a2825ea883c0d3be653fdf9?utm_campaign=1054&utm_source=git)** | Fayetteville, NC, USA | On Site | Jun 09 |
 | **[DSPolitical](https://www.dspolitical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a28237d2d6c332ee52e3d34?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jun 09 |
 | **[elliquence](https://www.elliquence.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a282377fd37e62bb47a6ede?utm_campaign=1054&utm_source=git)** | BALDWIN, NY | On Site | Jun 09 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a282070883c0d3be653fa72?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Jun 09 |
 | **[Alnylam Pharmaceuticals](http://www.alnylam.com)** | **[Intern, HR (AI & People Analytics Focus) Job Details / alnylampha](https://jobright.ai/jobs/info/6a280ea77061b51a3a5f3013?utm_campaign=1054&utm_source=git)** | Cambridge, MA, US, 02142 | On Site | Jun 09 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Exam Development Unit, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0ba53b22d0d34036c8e840?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 09 |
 | **[Holtec International](https://holtecinternational.com/)** | **[Human Resource Intern Job Details / Holtec International](https://jobright.ai/jobs/info/6a280cdc2d6c332ee52e33ef?utm_campaign=1054&utm_source=git)** | East Pittsburgh, PA, US | On Site | Jun 09 |
 | **[CHAGEE USA](https://www.chagee.us/)** | **[HR Intern](https://jobright.ai/jobs/info/6a0ba54222d0d34036c8e844?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Jun 09 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69f91409b1fc847fc1aea950?utm_campaign=1054&utm_source=git)** | Davenport, IA, USA | On Site | Jun 09 |
@@ -82,9 +85,9 @@ For a complete list, click the following sortable link below:
 | **[Core4ce](https://www.core4ce.com/)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/6a273be212f02023422637a0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Grail Talent](http://grail-talent.com)** | **[Junior Recruiter Internship - Remote (US)](https://jobright.ai/jobs/info/6a273b8c7d827633afff9892?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jun 08 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Development & Engagement Intern](https://jobright.ai/jobs/info/6a272e5830042e7539087a90?utm_campaign=1054&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 08 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1bf7b79e36d3a847ecb2b?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Jun 08 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd12f0202342263fc0?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Jun 08 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd12f0202342263fc0?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Jun 08 |
 | ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1c05175f7ff1cd81015fd?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Jun 08 |
+| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1bf7b79e36d3a847ecb2b?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Jun 08 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd7d827633afffa168?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Jun 08 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a272139ca77fd3096d25872?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Jun 08 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a273bcf2056260dd6e860f6?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 08 |
@@ -102,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Motivation Compliance & Training, Inc.](https://www.motivation-inc.com/)** | **[Labor Standards and Compliance Intern](https://jobright.ai/jobs/info/6a187d2317492d3a389b6a80?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jun 08 |
 | **[Physicians East](http://physicianseast.com)** | **[Operations Intern - Human Resources (Recruiting Focus)](https://jobright.ai/jobs/info/6a26f01830042e7539085f6e?utm_campaign=1054&utm_source=git)** | Greenville, NC, US | On Site | Jun 08 |
 | **[Mestek, Inc.](http://mestek.com)** | **[Summer HR Intern - Part Time](https://jobright.ai/jobs/info/6a26eef330042e7539085eec?utm_campaign=1054&utm_source=git)** | 260 N. ELM ST., WESTFIELD, MA01085 | On Site | Jun 08 |
+| **[Find Me](https://fyndme.net)** | **[Human Resources Intern - Unpaid](https://jobright.ai/jobs/info/6a282fd0fd37e62bb47a7530?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - HR/Strategic Communications](https://jobright.ai/jobs/info/6a26d55e4ec8d737d6dfc0ec?utm_campaign=1054&utm_source=git)** | Canonsburg PA - Canonsburg, PA 15317 | On Site | Jun 08 |
 | **[Total Warehouse](https://www.totalwarehouse.com)** | **[Recruitment Sourcer Intern (3 Month Contract)](https://jobright.ai/jobs/info/6a26df137d827633afff723e?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Jun 08 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a26be2330042e7539084c56?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jun 08 |
@@ -119,6 +123,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a25b86714de9460dc8486b8?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 07 |
 | **[Greene Thumb Landscape](https://www.greenethumbup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a259ab36624e500cad0f67f?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 07 |
+| **[Gushcloud International](http://gushcloud.com)** | **[Talent Manager Intern](https://jobright.ai/jobs/info/6a28398e883c0d3be6540675?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 07 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2588cd6624e500cad0f52b?utm_campaign=1054&utm_source=git)** | East Granby, CT | On Site | Jun 07 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 07 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b478d33b74eb1e2c81cc6b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jun 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mission Linen Supply](https://www.missionlinen.com)** | **[Recruiting Intern - PAID](https://jobright.ai/jobs/info/6a23522114de9460dc844255?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA | On Site | Jun 05 |
 | **[USC Marshall School of Business](https://www.marshall.usc.edu/)** | **[Fall 2026 - GA - Recruiting](https://jobright.ai/jobs/info/6a2371656624e500cad0bb02?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Jun 05 |
 | **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a22de5bd46c0f7996083cc4?utm_campaign=1054&utm_source=git)** | McLean , VA | Hybrid | Jun 05 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/6a066ff5f3d6cc51d63939ec?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 05 |
-| ↳ | **[Talent Operations Intern](https://jobright.ai/jobs/info/69e7c671f8fa2f3ec32a9798?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Jun 05 |
-| **[Drake Hotel Properties](http://www.thedrake.ca)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2366e24239a4353887e0e8?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 05 |
-| **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2369a94239a4353887e178?utm_campaign=1054&utm_source=git)** | MGH Huntersville Hourly, Huntersville, NC, US | On Site | Jun 05 |
-| **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/6a06164af3d6cc51d638ee95?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
