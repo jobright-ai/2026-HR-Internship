@@ -69,10 +69,12 @@ For a complete list, click the following sortable link below:
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Recruiting Marketing Internship](https://jobright.ai/jobs/info/6a272ef04ec8d737d6dfe701?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, US | On Site | Jun 08 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Development & Engagement Intern](https://jobright.ai/jobs/info/6a272e5830042e7539087a90?utm_campaign=1054&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 08 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a272e3a30042e7539087a7d?utm_campaign=1054&utm_source=git)** | Waterbury, CT | On Site | Jun 08 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1c05175f7ff1cd81015fd?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Jun 08 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd12f0202342263fc0?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Jun 08 |
+| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1bf7b79e36d3a847ecb2b?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Jun 08 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd7d827633afffa168?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Jun 08 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a272139ca77fd3096d25872?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Jun 08 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1bf7b79e36d3a847ecb2b?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Jun 08 |
-| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1c05175f7ff1cd81015fd?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Jun 08 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a273bcf2056260dd6e860f6?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 08 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a273bcf2056260dd6e860f6?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 08 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a273bcc2056260dd6e860f5?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jun 08 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a273bc47d827633afff98b6?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Jun 08 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a271e7630042e7539087234?utm_campaign=1054&utm_source=git)** | Monticello, NY | On Site | Jun 08 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Physicians East](http://physicianseast.com)** | **[Operations Intern - Human Resources (Recruiting Focus)](https://jobright.ai/jobs/info/6a26f01830042e7539085f6e?utm_campaign=1054&utm_source=git)** | Greenville, NC, US | On Site | Jun 08 |
 | **[Mestek, Inc.](http://mestek.com)** | **[Summer HR Intern - Part Time](https://jobright.ai/jobs/info/6a26eef330042e7539085eec?utm_campaign=1054&utm_source=git)** | 260 N. ELM ST., WESTFIELD, MA01085 | On Site | Jun 08 |
 | **[Lemontree Healthcare](https://lemontreehealthcare.com/)** | **[HR Intern - Summer - 6 weeks](https://jobright.ai/jobs/info/6a26ee7012f02023422616ab?utm_campaign=1054&utm_source=git)** | Tysons, VA, US | On Site | Jun 08 |
-| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a0cdf230411d7417a1bd390?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | Jun 08 |
 | **[Physicians East](http://physicianseast.com)** | **[Operations Intern - Human Resources (Recruiting Focus)](https://jobright.ai/jobs/info/6a26e7eeca77fd3096d23fac?utm_campaign=1054&utm_source=git)** | Greenville, NC | On Site | Jun 08 |
 | **[Find Me](https://fyndme.net)** | **[Human Resources Intern - Unpaid](https://jobright.ai/jobs/info/6a26e6174ec8d737d6dfc745?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - HR/Strategic Communications](https://jobright.ai/jobs/info/6a26d55e4ec8d737d6dfc0ec?utm_campaign=1054&utm_source=git)** | Canonsburg PA - Canonsburg, PA 15317 | On Site | Jun 08 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2369a94239a4353887e178?utm_campaign=1054&utm_source=git)** | MGH Huntersville Hourly, Huntersville, NC, US | On Site | Jun 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/6a06164af3d6cc51d638ee95?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Jun 05 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Talent Management Paid Intern](https://jobright.ai/jobs/info/6a26ee807d827633afff7737?utm_campaign=1054&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jun 05 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c230836fe79d861a067?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Jun 05 |
-| ↳ | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/6a10fd629f654b3359cef2f9?utm_campaign=1054&utm_source=git)** | Smyrna, TN, US | On Site | Jun 05 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/6a10fd629f654b3359cef2f9?utm_campaign=1054&utm_source=git)** | Smyrna, TN, US | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
