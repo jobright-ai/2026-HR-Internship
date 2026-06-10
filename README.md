@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Singleton Construction, LLC](https://www.singletonconstruction.net/)** | **[Internship Summer 2026](https://jobright.ai/jobs/info/6a295065d3ec8317fe13d429?utm_campaign=1054&utm_source=git)** | Lancaster, OH | On Site | Jun 10 |
 | **[Akron Children's](http://www.akronchildrens.org)** | **[HR Intern - Data and Reporting](https://jobright.ai/jobs/info/6a291a7c883c0d3be6545ca4?utm_campaign=1054&utm_source=git)** | US:OH:Akron | On Site | Jun 10 |
 | **[PNY Technologies](http://www.pny.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0cbdefa235d749afa8ffc1?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, US | On Site | Jun 10 |
 | **[Compassus](https://www.compassus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2141dcc00e701fe836dbc2?utm_campaign=1054&utm_source=git)** | Brentwood, TN, US | On Site | Jun 10 |
@@ -80,9 +81,9 @@ For a complete list, click the following sortable link below:
 | **[McAsphalt Industries Limited](https://mcasphalt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a21a31e338c01230511f2b0?utm_campaign=1054&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Jun 09 |
 | **[Camfil, USA](http://www.Camfil.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a288b6e883c0d3be6542b0d?utm_campaign=1054&utm_source=git)** | Crystal Lake, IL | On Site | Jun 09 |
 | **[American Flowform and Machining](https://americanflowform.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a287df240ac8e32932a1fd2?utm_campaign=1054&utm_source=git)** | Billerica, MA | On Site | Jun 09 |
-| **[Per Scholas](http://www.perscholas.org/)** | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a287217fd37e62bb47a92c4?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 09 |
-| ↳ | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a2871207061b51a3a5f5cd2?utm_campaign=1054&utm_source=git)** | Columbus, OH | Remote | Jun 09 |
-| ↳ | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a2871101dbd8437bebcb2ae?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Jun 09 |
+| **[Per Scholas](http://www.perscholas.org/)** | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a294d800c4972328e7e29ea?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Jun 09 |
+| ↳ | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a294d7d2cde2824469bb650?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jun 09 |
+| ↳ | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a287217fd37e62bb47a92c4?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[PTS College Intern, Human Resources](https://jobright.ai/jobs/info/6a2869dd1dbd8437bebcb08c?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Jun 09 |
 | **[ECS](https://www.ecstech.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a2893957061b51a3a5f6b9b?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Jun 09 |
 | **[GFL Environmental Inc.](https://gflenv.com)** | **[Bilingual Talent Acquisition Intern (Field Recruitment)](https://jobright.ai/jobs/info/6a2858927061b51a3a5f5182?utm_campaign=1054&utm_source=git)** | Vaughan, Ontario, CA | On Site | Jun 09 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a265802dedf78312c7b1c7a?utm_campaign=1054&utm_source=git)** | Tampa, Flor, US | On Site | Jun 07 |
 | ↳ | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a264c9e4239a4353888395e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 07 |
 | **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jun 07 |
-| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
-| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
-| **[Greene Thumb Landscape](https://www.greenethumbup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a259ab36624e500cad0f67f?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 07 |
+| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
+| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
