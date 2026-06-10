@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern Job Details / J.E. Dunn Construction Group Inc P](https://jobright.ai/jobs/info/6a291ed91dbd8437bebcf0e6?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | Jun 10 |
 | **[Base-2 Solutions](https://www.base-2solutions.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a29069b7061b51a3a5f9383?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 09 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/6a28ea6e40ac8e32932a446d?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jun 09 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Talent Acquisition - Austin (26-27)](https://jobright.ai/jobs/info/6a28e50d40ac8e32932a42c7?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | Jun 09 |
@@ -115,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[Core4ce](https://www.core4ce.com/)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/6a273be212f02023422637a0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Grail Talent](http://grail-talent.com)** | **[Junior Recruiter Internship - Remote (US)](https://jobright.ai/jobs/info/6a273b8c7d827633afff9892?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jun 08 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Development & Engagement Intern](https://jobright.ai/jobs/info/6a272e5830042e7539087a90?utm_campaign=1054&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 08 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1bf7b79e36d3a847ecb2b?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Jun 08 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1c05175f7ff1cd81015fd?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Jun 08 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd12f0202342263fc0?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Jun 08 |
-| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1c05175f7ff1cd81015fd?utm_campaign=1054&utm_source=git)** | Revere Hotel Boston Common - Boston, MA | On Site | Jun 08 |
+| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/69c1bf7b79e36d3a847ecb2b?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Jun 08 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2754bd7d827633afffa168?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Jun 08 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a284a6dfd37e62bb47a81f7?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jun 08 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a272139ca77fd3096d25872?utm_campaign=1054&utm_source=git)** | Manteno, Illinois | On Site | Jun 08 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Motivation Compliance & Training, Inc.](https://www.motivation-inc.com/)** | **[Labor Standards and Compliance Intern](https://jobright.ai/jobs/info/6a187d2317492d3a389b6a80?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jun 08 |
 | **[Physicians East](http://physicianseast.com)** | **[Operations Intern - Human Resources (Recruiting Focus)](https://jobright.ai/jobs/info/6a26f01830042e7539085f6e?utm_campaign=1054&utm_source=git)** | Greenville, NC, US | On Site | Jun 08 |
 | **[Mestek, Inc.](http://mestek.com)** | **[Summer HR Intern - Part Time](https://jobright.ai/jobs/info/6a26eef330042e7539085eec?utm_campaign=1054&utm_source=git)** | 260 N. ELM ST., WESTFIELD, MA01085 | On Site | Jun 08 |
-| **[Find Me](https://fyndme.net)** | **[Human Resources Intern - Unpaid](https://jobright.ai/jobs/info/6a282fd0fd37e62bb47a7530?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - HR/Strategic Communications](https://jobright.ai/jobs/info/6a26d55e4ec8d737d6dfc0ec?utm_campaign=1054&utm_source=git)** | Canonsburg PA - Canonsburg, PA 15317 | On Site | Jun 08 |
 | **[Total Warehouse](https://www.totalwarehouse.com)** | **[Recruitment Sourcer Intern (3 Month Contract)](https://jobright.ai/jobs/info/6a26df137d827633afff723e?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Jun 08 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a26be2330042e7539084c56?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jun 08 |
