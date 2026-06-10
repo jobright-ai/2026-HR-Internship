@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Manager Intern](https://jobright.ai/jobs/info/6a2897a140ac8e32932a2924?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Camfil, USA](http://www.Camfil.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a288b6e883c0d3be6542b0d?utm_campaign=1054&utm_source=git)** | Crystal Lake, IL | On Site | Jun 09 |
 | **[American Flowform and Machining](https://americanflowform.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a287df240ac8e32932a1fd2?utm_campaign=1054&utm_source=git)** | Billerica, MA | On Site | Jun 09 |
 | **[Gasser Chair](http://gasserchair.com)** | **[HR Learning & Development Intern](https://jobright.ai/jobs/info/6a287a00883c0d3be6542541?utm_campaign=1054&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | Jun 09 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a2871101dbd8437bebcb2ae?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Jun 09 |
 | ↳ | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a286fe8883c0d3be6541fe1?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jun 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[PTS College Intern, Human Resources](https://jobright.ai/jobs/info/6a2869dd1dbd8437bebcb08c?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Jun 09 |
+| **[ECS](https://www.ecstech.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a2893957061b51a3a5f6b9b?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Jun 09 |
 | **[GFL Environmental Inc.](https://gflenv.com)** | **[Bilingual Talent Acquisition Intern (Field Recruitment)](https://jobright.ai/jobs/info/6a2858927061b51a3a5f5182?utm_campaign=1054&utm_source=git)** | Vaughan, Ontario, CA | On Site | Jun 09 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2857b840ac8e32932a0d08?utm_campaign=1054&utm_source=git)** | Palm Bay, FL | On Site | Jun 09 |
 | **[JDC (The Joint)](http://www.jdc.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a28574dfd37e62bb47a870d?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Jun 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2027](https://jobright.ai/jobs/info/6a079549939a5f01db951ecd?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jun 06 |
 | **[INNIO Group](https://www.innio.com/en/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69959029ce78e77b4fd9b6d1?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jun 06 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a0ea5f880bf0430c762e23b?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | Jun 06 |
-| **[Zipline](https://getzipline.com)** | **[People Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a250a7ededf78312c7af92c?utm_campaign=1054&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 06 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/6a0652b5bc4184089f24e805?utm_campaign=1054&utm_source=git)** | Simi Valley, CA | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
