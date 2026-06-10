@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern (Temporary Role) - FT - Days - Talent Development @ MV](https://jobright.ai/jobs/info/6a28ea6e40ac8e32932a446d?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jun 09 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Talent Acquisition - Austin (26-27)](https://jobright.ai/jobs/info/6a28e50d40ac8e32932a42c7?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | Jun 09 |
 | **[GFL Environmental Inc.](https://gflenv.com)** | **[Bilingual Talent Acquisition Intern (Field Recruitment)](https://jobright.ai/jobs/info/6a28d5142d6c332ee52e859e?utm_campaign=1054&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jun 09 |
 | **[Gasser Chair](http://gasserchair.com)** | **[HR Learning & Development Intern](https://jobright.ai/jobs/info/6a28ce43883c0d3be6544297?utm_campaign=1054&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | Jun 09 |
 | **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Recruiter Intern (Remote - Bilingual Mandarin)](https://jobright.ai/jobs/info/6a28c5f0fd37e62bb47ab06b?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | Remote | Jun 09 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a265802dedf78312c7b1c7a?utm_campaign=1054&utm_source=git)** | Tampa, Flor, US | On Site | Jun 07 |
 | ↳ | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a264c9e4239a4353888395e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 07 |
 | **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jun 07 |
-| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
-| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
+| **[Eulerity](https://www.eulerity.com)** | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
+| ↳ | **[Internship, HR and Recruiting](https://jobright.ai/jobs/info/6a25b42b757ade085b6b20c2?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Jun 07 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a25b86714de9460dc8486b8?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 07 |
 | **[Greene Thumb Landscape](https://www.greenethumbup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a259ab36624e500cad0f67f?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 07 |
 | **[Gushcloud International](http://gushcloud.com)** | **[Talent Manager Intern](https://jobright.ai/jobs/info/6a28398e883c0d3be6540675?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 07 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b478d33b74eb1e2c81cc6b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jun 07 |
 | ↳ | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 07 |
-| **[NorthBay Health](https://www.northbay.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a23a631757ade085b6aeb94?utm_campaign=1054&utm_source=git)** | Fairfield, CA | On Site | Jun 06 |
-| **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[*Internal Candidates Only* Student Assistant - FI$Cal Intern](https://jobright.ai/jobs/info/6a246f8ad46c0f7996086f6e?utm_campaign=1054&utm_source=git)** | Sacramento, CA 95819, USA | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
