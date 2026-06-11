@@ -70,9 +70,9 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Jun 10 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[2026 Summer Learning  - College Intern HR](https://jobright.ai/jobs/info/6a29af03c07d4b6ae1c4237a?utm_campaign=1054&utm_source=git)** | Central Office - Lowell, Massachusetts | On Site | Jun 10 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a29ab212cde2824469bdd85?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 10 |
-| **[Omnicom](https://www.omc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69efa851e624fe645d5327c4?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Jun 10 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1f38f9c5277c00c64844b5?utm_campaign=1054&utm_source=git)** | NEOM1919AK-NE Omaha 1919 Aksarben Drive | On Site | Jun 10 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1f38f8c5277c00c64844b4?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Jun 10 |
+| **[Omnicom](https://www.omc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f38f8c5277c00c64844b4?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Jun 10 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a155519438198796a26b1a6?utm_campaign=1054&utm_source=git)** | NEOM1919AK-NE Omaha 1919 Aksarben Drive | On Site | Jun 10 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/69efa851e624fe645d5327c4?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Jun 10 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jun 10 |
 | **[Packaging Corporation of America](https://packagingcorp.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/6a299dcf0c4972328e7e4acd?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Jun 10 |
 | **[Find Me](https://fyndme.net)** | **[HR Recruitment Intern (Unpaid) - Application Design and Development Focus](https://jobright.ai/jobs/info/6a299bdfd3ec8317fe13f390?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 10 |
@@ -82,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Generac](https://www.generac.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a298e3b0c4972328e7e4203?utm_campaign=1054&utm_source=git)** | Sussex, WI - USA, US | On Site | Jun 10 |
 | **[Space Kinetic Corp.](https://spacekinetic.com/)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/6a184b886243320e8d16200d?utm_campaign=1054&utm_source=git)** | El Segundo, California | On Site | Jun 10 |
 | **[MEM](https://www.mem-ins.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a28db76883c0d3be6544715?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Jun 10 |
-| **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0fab6812f8b43cf3980eed?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 10 |
+| **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdf28a235d749afa9146a?utm_campaign=1054&utm_source=git)** | New York City | On Site | Jun 10 |
+| ↳ | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0fab6812f8b43cf3980eed?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 10 |
 | ↳ | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a20ded7338c01230511bec3?utm_campaign=1054&utm_source=git)** | New York City | On Site | Jun 10 |
-| ↳ | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdf28a235d749afa9146a?utm_campaign=1054&utm_source=git)** | New York City | On Site | Jun 10 |
 | **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Recruiter Intern (Remote - Bilingual Mandarin)](https://jobright.ai/jobs/info/6a2984fd495d985b99423e39?utm_campaign=1054&utm_source=git)** | Houston, TX | Remote | Jun 10 |
 | **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdb2f963f7a67d95dc4bc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0d00b0963f7a67d95ddd2a?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Jun 10 |
