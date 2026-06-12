@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Intern (Unpaid internship)](https://jobright.ai/jobs/info/6a2c7963fc0644749054a3f4?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 12 |
+| ↳ | **[Hiring Intern](https://jobright.ai/jobs/info/6a2c78ebd3ec94183f4bd459?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 12 |
 | **[Trojan Battery Company](http://www.trojanbattery.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2c7477a1d15e3c552fbf3e?utm_campaign=1054&utm_source=git)** | Santa Fe Springs - Clark St, CA, USA, US | On Site | Jun 12 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2c73e9c260bb1b8ae1684a?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 12 |
 | ↳ | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2c73e9c260bb1b8ae16848?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 12 |
@@ -128,13 +130,12 @@ For a complete list, click the following sortable link below:
 | **[IKO North America](https://www.iko.com)** | **[HR/HSE Intern](https://jobright.ai/jobs/info/6a29a9ad0c4972328e7e4fc0?utm_campaign=1054&utm_source=git)** | Chester, SC, US | On Site | Jun 10 |
 | **[CASE Management Consulting, LLC](https://www.casemc.com/)** | **[Human Resources & Talent Acquisition Intern](https://jobright.ai/jobs/info/6a29e106c07d4b6ae1c4376d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 10 |
 | **[OPmobility](https://www.opmobility.com)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a29db8d2cde2824469bf19e?utm_campaign=1054&utm_source=git)** | Michigan, United States | On Site | Jun 10 |
-| **[PNY Technologies](http://www.pny.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0ced0d4d9320363687d98c?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Jun 10 |
 | **[Summit](https://www.summithq.com/)** | **[People Operations (HR) Intern](https://jobright.ai/jobs/info/6a29c94c0c4972328e7e5c61?utm_campaign=1054&utm_source=git)** | Remote (United States) | Remote | Jun 10 |
 | **[Sentrex Health Solutions](https://sentrex.com/patient-programs)** | **[Case Manager Summer Intern - Fixed-Term (Remote)](https://jobright.ai/jobs/info/6a29c8ff2cde2824469be96e?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jun 10 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a29ab212cde2824469bdd85?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 10 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Jun 10 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[2026 Summer Learning  - College Intern HR](https://jobright.ai/jobs/info/6a29af03c07d4b6ae1c4237a?utm_campaign=1054&utm_source=git)** | Central Office - Lowell, Massachusetts | On Site | Jun 10 |
-| **[Omnicom](https://www.omc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f38f9c5277c00c64844b5?utm_campaign=1054&utm_source=git)** | NEOM1919AK-NE Omaha 1919 Aksarben Drive | On Site | Jun 10 |
+| **[Omnicom](https://www.omc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a155519438198796a26b1a6?utm_campaign=1054&utm_source=git)** | NEOM1919AK-NE Omaha 1919 Aksarben Drive | On Site | Jun 10 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jun 10 |
 | **[Packaging Corporation of America](https://packagingcorp.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/6a299dcf0c4972328e7e4acd?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Jun 10 |
 | ↳ | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/6a2997340c4972328e7e45a1?utm_campaign=1054&utm_source=git)** | DeRidder, LA 70634, USA | On Site | Jun 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susan G. Komen](http://www.komen.org)** | **[Development & Engagement Intern](https://jobright.ai/jobs/info/6a272e5830042e7539087a90?utm_campaign=1054&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 10 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op - Spring 2027](https://jobright.ai/jobs/info/6a0cb13a538d03366dc90071?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jun 10 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience & Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d10dca235d749afa93200?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Jun 10 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Personnel Services Intern, Bureau of Center for Population Health Data Science Administration](https://jobright.ai/jobs/info/6a2953a5d3ec8317fe13d50f?utm_campaign=1054&utm_source=git)** | 125 Worth Street, Nyc | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
