@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EFCO Forming & Shoring Solutions](http://www.efcoforms.com/index.html)** | **[Human Resources - File Management Intern](https://jobright.ai/jobs/info/6a2b89d91de59e0682a89b54?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Jun 11 |
 | **[Triple Ring Technologies](http://tripleringtech.com/)** | **[AI & People Operations Intern](https://jobright.ai/jobs/info/6a2b30c50ad4053b108cb30a?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Jun 11 |
 | **[SMOORE](https://www.smoorecig.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2b68061de59e0682a89681?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jun 11 |
 | **[HORIZONES](http://www.horizonesconsulting.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2b3fac2cde2824469c5e70?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jun 11 |
@@ -75,10 +76,11 @@ For a complete list, click the following sortable link below:
 | **[Continental](http://www.continentaltire.com)** | **[Intern - Human Resources & Internal Communications, Year-Round](https://jobright.ai/jobs/info/6a2b002bc07d4b6ae1c489c7?utm_campaign=1054&utm_source=git)** | 733 South Cleveland Massillon Road, Fairlawn, Ohio, United States | Hybrid | Jun 11 |
 | **[Marand Builders, Inc.](https://www.marandbuilders.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2ae0709bf7365df089ae06?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jun 11 |
 | **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern](https://jobright.ai/jobs/info/6a2afa462cde2824469c43c0?utm_campaign=1054&utm_source=git)** | Whitesboro, NY | On Site | Jun 11 |
+| **[Akron Children's](http://www.akronchildrens.org)** | **[HR Intern - Data and Reporting](https://jobright.ai/jobs/info/6a13d2cc12f8b43cf3990921?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Jun 11 |
 | **[Contemporary Amperex Technology USA Inc](http://www.catl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2aee429bf7365df089b41e?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jun 11 |
 | **[Contemporary Amperex Technology Kentucky LLC](http://www.catl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2ae8571de59e0682a86af1?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Jun 11 |
-| **[Mobile Communications America](http://callmc.com)** | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/6a29b1d00c4972328e7e52fd?utm_campaign=1054&utm_source=git)** | Spartanburg, SC, US | Hybrid | Jun 11 |
-| ↳ | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/6a29b1ce0c4972328e7e52fb?utm_campaign=1054&utm_source=git)** | Charlotte, NC, US | Hybrid | Jun 11 |
+| **[Mobile Communications America](http://callmc.com)** | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/6a29b1ce0c4972328e7e52fb?utm_campaign=1054&utm_source=git)** | Charlotte, NC, US | Hybrid | Jun 11 |
+| ↳ | **[DoD SkillBridge Internship – Talent Acquisition / HR Specialist](https://jobright.ai/jobs/info/6a29b1d00c4972328e7e52fd?utm_campaign=1054&utm_source=git)** | Spartanburg, SC, US | Hybrid | Jun 11 |
 | **[UPS](https://about.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | On Site | Jun 11 |
 | ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d45dc2e63cea7a8b6591c4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jun 11 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Finance & Timekeeping Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69d73129e63cea7a8b66ebe5?utm_campaign=1054&utm_source=git)** | Staten Island, NY | On Site | Jun 11 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - HR Service Center Job Details / SRP](https://jobright.ai/jobs/info/6a2a1feb495d985b994270b9?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | Hybrid | Jun 10 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Intern](https://jobright.ai/jobs/info/6a2a1953c07d4b6ae1c43dcc?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Jun 10 |
 | **[Greystone Programs, Inc.](https://www.greystoneprograms.org/)** | **[Business Office Intern - Human Services](https://jobright.ai/jobs/info/6a2a28b9d3ec8317fe142552?utm_campaign=1054&utm_source=git)** | Hopewell Junction, NY 12533 | On Site | Jun 10 |
-| **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a2a2ef80c4972328e7e782b?utm_campaign=1054&utm_source=git)** | TELECOMMUTE | On Site | Jun 10 |
-| ↳ | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a2a4c9b0c4972328e7e822e?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Jun 10 |
+| **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a2a4c9b0c4972328e7e822e?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Jun 10 |
+| ↳ | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a2a2ef80c4972328e7e782b?utm_campaign=1054&utm_source=git)** | TELECOMMUTE | On Site | Jun 10 |
 | **[Kinexus Group](https://www.kinexus.org)** | **[Intern - JMG Pathways](https://jobright.ai/jobs/info/6a2a2ef20c4972328e7e7809?utm_campaign=1054&utm_source=git)** | Benton Harbor, MI | On Site | Jun 10 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a264c9e4239a4353888395e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 10 |
 | **[IKO North America](https://www.iko.com)** | **[HR/HSE Intern](https://jobright.ai/jobs/info/6a29a9ad0c4972328e7e4fc0?utm_campaign=1054&utm_source=git)** | Chester, SC, US | On Site | Jun 10 |
@@ -112,9 +114,9 @@ For a complete list, click the following sortable link below:
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a29ab212cde2824469bdd85?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 10 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Jun 10 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[2026 Summer Learning  - College Intern HR](https://jobright.ai/jobs/info/6a29af03c07d4b6ae1c4237a?utm_campaign=1054&utm_source=git)** | Central Office - Lowell, Massachusetts | On Site | Jun 10 |
-| **[Omnicom](https://www.omc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a155519438198796a26b1a6?utm_campaign=1054&utm_source=git)** | NEOM1919AK-NE Omaha 1919 Aksarben Drive | On Site | Jun 10 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a1f38f8c5277c00c64844b4?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Jun 10 |
+| **[Omnicom](https://www.omc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f38f8c5277c00c64844b4?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Jun 10 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/69efa851e624fe645d5327c4?utm_campaign=1054&utm_source=git)** | Omaha, Nebraska | On Site | Jun 10 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a155519438198796a26b1a6?utm_campaign=1054&utm_source=git)** | NEOM1919AK-NE Omaha 1919 Aksarben Drive | On Site | Jun 10 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jun 10 |
 | **[Packaging Corporation of America](https://packagingcorp.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/6a299dcf0c4972328e7e4acd?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Jun 10 |
 | **[Find Me](https://fyndme.net)** | **[HR Recruitment Intern (Unpaid) - Application Design and Development Focus](https://jobright.ai/jobs/info/6a299bdfd3ec8317fe13f390?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Recruiter Intern (Remote - Bilingual Mandarin)](https://jobright.ai/jobs/info/6a28c5f0fd37e62bb47ab06b?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | Remote | Jun 09 |
 | **[Alstom](https://www.alstom.com/)** | **[HR Intern Job Details / Alstom](https://jobright.ai/jobs/info/6a28bea840ac8e32932a360b?utm_campaign=1054&utm_source=git)** | Hornell, NY, US | On Site | Jun 09 |
 | **[Garney](http://garney.com)** | **[Talent Acquisition Intern Job Details / Garney Construction](https://jobright.ai/jobs/info/6a28bce02d6c332ee52e7d1d?utm_campaign=1054&utm_source=git)** | Winter Garden, FL, US, 34787 | On Site | Jun 09 |
-| **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a28cefafd37e62bb47ab427?utm_campaign=1054&utm_source=git)** | Arcadia, WI | On Site | Jun 09 |
-| **[Cohen Veterans Network](https://www.cohenveteransnetwork.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a285e4c7061b51a3a5f5401?utm_campaign=1054&utm_source=git)** | Stamford, Connecticut, United States | Hybrid | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
