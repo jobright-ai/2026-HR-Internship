@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/6a02613dc4b08448a0b26092?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jun 13 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69fd188f432a3c4da8e01cb0?utm_campaign=1054&utm_source=git)** | Denver, CO, US | On Site | Jun 13 |
-| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69fd188d432a3c4da8e01caf?utm_campaign=1054&utm_source=git)** | San Antonio, TX, US | On Site | Jun 13 |
-| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69fd188f432a3c4da8e01cb1?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 13 |
+| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d95e519f97a42dc9c21125?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jun 13 |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69fd188d432a3c4da8e01caf?utm_campaign=1054&utm_source=git)** | San Antonio, TX, US | On Site | Jun 13 |
+| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69fd188f432a3c4da8e01cb0?utm_campaign=1054&utm_source=git)** | Denver, CO, US | On Site | Jun 13 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69fd1891432a3c4da8e01cb2?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO, US | On Site | Jun 13 |
+| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69fd188f432a3c4da8e01cb1?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 13 |
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/6a1099f369bd827926aef6d1?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jun 13 |
 | **[Worley](https://www.worley.com)** | **[HR (People) Intern](https://jobright.ai/jobs/info/6a10e0aa69bd827926af0da4?utm_campaign=1054&utm_source=git)** | CAN-AB-Edmonton | On Site | Jun 13 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6a2cd2b9d3ec94183f4be6f5?utm_campaign=1054&utm_source=git)** | Orange, CA | On Site | Jun 12 |
@@ -71,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Naapbooks Limited](http://www.naapbooks.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a2c8621a1d15e3c552fc4f7?utm_campaign=1054&utm_source=git)** | Branch, LA | On Site | Jun 12 |
 | **[SHoP Architects](http://shoparc.com)** | **[Expression of Interest - Internship](https://jobright.ai/jobs/info/6a2c81ccd3ec94183f4bd5b5?utm_campaign=1054&utm_source=git)** | New York, NY 10279 US (Primary) | On Site | Jun 12 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Intern (Unpaid internship)](https://jobright.ai/jobs/info/6a2c7963fc0644749054a3f4?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 12 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2c73e9c260bb1b8ae1684a?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 12 |
-| ↳ | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2c73e9c260bb1b8ae16848?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 12 |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2c73e9c260bb1b8ae16848?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 12 |
+| ↳ | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2c73e9c260bb1b8ae1684a?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 12 |
 | **[GenScript](http://www.genscript.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a2c67a4f1751b183c818501?utm_campaign=1054&utm_source=git)** | Piscataway, New Jersey, United States | On Site | Jun 12 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a2c70a2fc06447490549f31?utm_campaign=1054&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Summer Intern, HR (Washington, DC)](https://jobright.ai/jobs/info/6a2c7011f1751b183c81880b?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jun 12 |
