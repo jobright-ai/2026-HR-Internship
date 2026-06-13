@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/6a1099f369bd827926aef6d1?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jun 13 |
+| **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jun 13 |
 | **[Worley](https://www.worley.com)** | **[HR (People) Intern](https://jobright.ai/jobs/info/6a10e0aa69bd827926af0da4?utm_campaign=1054&utm_source=git)** | CAN-AB-Edmonton | On Site | Jun 13 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6a2cd2b9d3ec94183f4be6f5?utm_campaign=1054&utm_source=git)** | Orange, CA | On Site | Jun 12 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2cb99ba1d15e3c552fcfb4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 12 |
