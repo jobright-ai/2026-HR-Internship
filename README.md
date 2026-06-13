@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2cb99ba1d15e3c552fcfb4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 12 |
+| **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Summer Internship: Human Resources - Recruiting](https://jobright.ai/jobs/info/6a2cb4bea1d15e3c552fcf3a?utm_campaign=1054&utm_source=git)** | Denton, TX | On Site | Jun 12 |
 | **[Trojan Battery Company](http://www.trojanbattery.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2c7477a1d15e3c552fbf3e?utm_campaign=1054&utm_source=git)** | Santa Fe Springs - Clark St, CA, USA, US | On Site | Jun 12 |
 | **[Naapbooks Limited](http://www.naapbooks.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a2c8621a1d15e3c552fc4f7?utm_campaign=1054&utm_source=git)** | Branch, LA | On Site | Jun 12 |
 | **[SHoP Architects](http://shoparc.com)** | **[Expression of Interest - Internship](https://jobright.ai/jobs/info/6a2c81ccd3ec94183f4bd5b5?utm_campaign=1054&utm_source=git)** | New York, NY 10279 US (Primary) | On Site | Jun 12 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Richland Library](https://www.richlandlibrary.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a2c3493d3ec94183f4bbaf8?utm_campaign=1054&utm_source=git)** | Columbia, South Carolina, United States | On Site | Jun 12 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29ad0ab4ec4779fffa028?utm_campaign=1054&utm_source=git)** | Arden, NC | On Site | Jun 12 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/69f2793c8d8d624381aa0f3d?utm_campaign=1054&utm_source=git)** | Arden - North Carolina - USA, US | On Site | Jun 12 |
+| **[Modine Manufacturing Company](http://www.modine.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fafdf619335383fb2ea55?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Jun 12 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bbe8cc45e08b3dc1f7af10?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Jun 12 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Summer Intern - Human Resources (Career Ladders, Compensation, Total Rewards)](https://jobright.ai/jobs/info/6a0b8b3a538d03366dc868ae?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jun 12 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a2c2f4ec260bb1b8ae14e67?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Jun 12 |
@@ -127,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - HR Service Center Job Details / SRP](https://jobright.ai/jobs/info/6a2a1feb495d985b994270b9?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | Hybrid | Jun 10 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Intern](https://jobright.ai/jobs/info/6a2a1953c07d4b6ae1c43dcc?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Jun 10 |
 | **[Greystone Programs, Inc.](https://www.greystoneprograms.org/)** | **[Business Office Intern - Human Services](https://jobright.ai/jobs/info/6a2a28b9d3ec8317fe142552?utm_campaign=1054&utm_source=git)** | Hopewell Junction, NY 12533 | On Site | Jun 10 |
-| **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a2a4c9b0c4972328e7e822e?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Jun 10 |
-| ↳ | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a2a2ef80c4972328e7e782b?utm_campaign=1054&utm_source=git)** | TELECOMMUTE | On Site | Jun 10 |
+| **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a2a2ef80c4972328e7e782b?utm_campaign=1054&utm_source=git)** | TELECOMMUTE | On Site | Jun 10 |
+| ↳ | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a2a4c9b0c4972328e7e822e?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Jun 10 |
 | **[Kinexus Group](https://www.kinexus.org)** | **[Intern - JMG Pathways](https://jobright.ai/jobs/info/6a2a2ef20c4972328e7e7809?utm_campaign=1054&utm_source=git)** | Benton Harbor, MI | On Site | Jun 10 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Payroll Student Internship](https://jobright.ai/jobs/info/6a264c9e4239a4353888395e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jun 10 |
 | **[IKO North America](https://www.iko.com)** | **[HR/HSE Intern](https://jobright.ai/jobs/info/6a29a9ad0c4972328e7e4fc0?utm_campaign=1054&utm_source=git)** | Chester, SC, US | On Site | Jun 10 |
@@ -139,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a29ab212cde2824469bdd85?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 10 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Jun 10 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[2026 Summer Learning  - College Intern HR](https://jobright.ai/jobs/info/6a29af03c07d4b6ae1c4237a?utm_campaign=1054&utm_source=git)** | Central Office - Lowell, Massachusetts | On Site | Jun 10 |
-| **[Omnicom](https://www.omc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f38f9c5277c00c64844b5?utm_campaign=1054&utm_source=git)** | NEOM1919AK-NE Omaha 1919 Aksarben Drive | On Site | Jun 10 |
+| **[Omnicom](https://www.omc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a155519438198796a26b1a6?utm_campaign=1054&utm_source=git)** | NEOM1919AK-NE Omaha 1919 Aksarben Drive | On Site | Jun 10 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jun 10 |
 | **[Packaging Corporation of America](https://packagingcorp.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/6a299dcf0c4972328e7e4acd?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Jun 10 |
 | ↳ | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/6a2997340c4972328e7e45a1?utm_campaign=1054&utm_source=git)** | DeRidder, LA 70634, USA | On Site | Jun 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Personnel Services Intern, Bureau of Center for Population Health Data Science Administration](https://jobright.ai/jobs/info/6a2a4b6ed3ec8317fe1430df?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Jun 10 |
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Human Resource Intern (Clayton, MO)](https://jobright.ai/jobs/info/6a29a1e0495d985b99424d5c?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Jun 10 |
 | **[OPmobility](https://www.opmobility.com)** | **[HR Intern](https://jobright.ai/jobs/info/69ef95d2fbe0994a40eb7208?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jun 10 |
-| **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Recruiting Intern (Part Time) (Clayton, MO)](https://jobright.ai/jobs/info/6a2a4a1e495d985b9942863c?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Jun 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Internship Pompano](https://jobright.ai/jobs/info/6a21a8934bdf8a5a96bd70ec?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Jun 10 |
-| **[Rocket Lab](https://rocketlabcorp.com)** | **[People & Culture Intern Fall 2026](https://jobright.ai/jobs/info/6a0d15780411d7417a1bf1c8?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
