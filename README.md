@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/6a1099f369bd827926aef6d1?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jun 13 |
+| **[Worley](https://www.worley.com)** | **[HR (People) Intern](https://jobright.ai/jobs/info/6a10e0aa69bd827926af0da4?utm_campaign=1054&utm_source=git)** | CAN-AB-Edmonton | On Site | Jun 13 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6a2cd2b9d3ec94183f4be6f5?utm_campaign=1054&utm_source=git)** | Orange, CA | On Site | Jun 12 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2cb99ba1d15e3c552fcfb4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Summer Internship: Human Resources - Recruiting](https://jobright.ai/jobs/info/6a2cb4bea1d15e3c552fcf3a?utm_campaign=1054&utm_source=git)** | Denton, TX | On Site | Jun 12 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Naapbooks Limited](http://www.naapbooks.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a2c8621a1d15e3c552fc4f7?utm_campaign=1054&utm_source=git)** | Branch, LA | On Site | Jun 12 |
 | **[SHoP Architects](http://shoparc.com)** | **[Expression of Interest - Internship](https://jobright.ai/jobs/info/6a2c81ccd3ec94183f4bd5b5?utm_campaign=1054&utm_source=git)** | New York, NY 10279 US (Primary) | On Site | Jun 12 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Intern (Unpaid internship)](https://jobright.ai/jobs/info/6a2c7963fc0644749054a3f4?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 12 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2c73e9c260bb1b8ae16848?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 12 |
-| ↳ | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2c73e9c260bb1b8ae1684a?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 12 |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2c73e9c260bb1b8ae1684a?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 12 |
+| ↳ | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a2c73e9c260bb1b8ae16848?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 12 |
 | **[GenScript](http://www.genscript.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a2c67a4f1751b183c818501?utm_campaign=1054&utm_source=git)** | Piscataway, New Jersey, United States | On Site | Jun 12 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a2c70a2fc06447490549f31?utm_campaign=1054&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Summer Intern, HR (Washington, DC)](https://jobright.ai/jobs/info/6a2c7011f1751b183c81880b?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jun 12 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fafdf619335383fb2ea55?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Jun 12 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bbe8cc45e08b3dc1f7af10?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Jun 12 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Summer Intern - Human Resources (Career Ladders, Compensation, Total Rewards)](https://jobright.ai/jobs/info/6a0b8b3a538d03366dc868ae?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jun 12 |
-| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a2c2f4ec260bb1b8ae14e67?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Jun 12 |
 | **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6a0f501483d714428981e891?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[JD.COM](http://corporate.jd.com)** | **[JD Young HR Business Partner Internship](https://jobright.ai/jobs/info/6a0facff80bf0430c7635aaf?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Jun 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69d71c5748f0c8161d2fd092?utm_campaign=1054&utm_source=git)** | San Jose, CA | Remote | Jun 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0d00b0963f7a67d95ddd2a?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Jun 10 |
 | **[Eillien's Candies, Inc](https://eilliens.com/)** | **[BILINGUAL HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6a28b41140ac8e32932a32d1?utm_campaign=1054&utm_source=git)** | Main Location - Green Bay, WI 54304 | On Site | Jun 10 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Personnel Services Intern, Bureau of Center for Population Health Data Science Administration](https://jobright.ai/jobs/info/6a2a4b6ed3ec8317fe1430df?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Jun 10 |
-| **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Human Resource Intern (Clayton, MO)](https://jobright.ai/jobs/info/6a29a1e0495d985b99424d5c?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
