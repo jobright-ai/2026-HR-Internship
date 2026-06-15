@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Campus Recruitment Intern](https://jobright.ai/jobs/info/6a304f0389f8f147d3734b82?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 15 |
+| **[Bank of Hope](http://bankofhope.com)** | **[HR Coordinator Intern](https://jobright.ai/jobs/info/6a304a2343732c05812e19d2?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 15 |
+| **[OASYS, INC.](https://oasys-inc.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a3043d9eace377055eb55c6?utm_campaign=1054&utm_source=git)** | Huntsville,AL,US | On Site | Jun 15 |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6a2d7e0a7cd40a338fae8e0c?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Jun 15 |
+| **[Virtual IP](https://virtualipus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a303dc089f8f147d37344e9?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 15 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Talent Acquisition Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a303180524fd5657fe0f73a?utm_campaign=1054&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Jun 15 |
 | **[Qloron Pvt Ltd](https://www.qloron.com)** | **[IT Recruiter Intern](https://jobright.ai/jobs/info/6a302db2afabbe533fb89867?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6a302858524fd5657fe0f231?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 15 |
@@ -78,20 +83,19 @@ For a complete list, click the following sortable link below:
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Employee Relations Intern](https://jobright.ai/jobs/info/6a2e9139fc0644749054dcd3?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Jun 14 |
 | ↳ | **[Benefit Intern](https://jobright.ai/jobs/info/6a2e9123d3ec94183f4c0f48?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Jun 14 |
 | **[YMCA of Greater Houston](https://ymcahouston.org/)** | **[Internship - Corporate Paid Trafficked Persons Assisted Program](https://jobright.ai/jobs/info/6a2e8b10fc0644749054dc5b?utm_campaign=1054&utm_source=git)** | Houston, TX 77082, USA | On Site | Jun 14 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4cce381706a5bd21631e4?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | Jun 14 |
-| ↳ | **[Human Resources Campus Intern Job Details / J.E. Dunn Construction Group Inc P](https://jobright.ai/jobs/info/6a291ed91dbd8437bebcf0e6?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | Jun 14 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern Job Details / J.E. Dunn Construction Group Inc P](https://jobright.ai/jobs/info/6a291ed91dbd8437bebcf0e6?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | Jun 14 |
+| ↳ | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4cce381706a5bd21631e4?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | Jun 14 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f52a1712f2811ab5a636af?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jun 13 |
 | **[Eulerity](https://www.eulerity.com)** | **[HR and Recruiting Intern](https://jobright.ai/jobs/info/6a2e0d44fc0644749054d37f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 13 |
 | **[SHoP Architects](http://shoparc.com)** | **[Expression of Interest - Internship](https://jobright.ai/jobs/info/6a2def50d3ec94183f4c0238?utm_campaign=1054&utm_source=git)** | New York, NY 10279 US (Primary) | On Site | Jun 13 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a11148d83d714428982a590?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Jun 13 |
-| ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696a6bfa5fc862418539706b?utm_campaign=1054&utm_source=git)** | Troy, Michigan, US | On Site | Jun 13 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a10ab589f654b3359ced56d?utm_campaign=1054&utm_source=git)** | Bowling Green, Kentucky, US | On Site | Jun 13 |
+| ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696a6bfa5fc862418539706b?utm_campaign=1054&utm_source=git)** | Troy, Michigan, US | On Site | Jun 13 |
 | **[Worley](https://www.worley.com)** | **[HR (People) Intern](https://jobright.ai/jobs/info/6a10fa649fdbf21f36cb20e6?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jun 13 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f529910b36ff0354750cf5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jun 13 |
-| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d95e519f97a42dc9c21125?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jun 13 |
+| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/6a02613dc4b08448a0b26092?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jun 13 |
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f42407c78b9e45189596d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 13 |
 | ↳ | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jun 13 |
-| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6a2d7e0a7cd40a338fae8e0c?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Jun 13 |
 | **[Worley](https://www.worley.com)** | **[HR (People) Intern](https://jobright.ai/jobs/info/6a10e0aa69bd827926af0da4?utm_campaign=1054&utm_source=git)** | CAN-AB-Edmonton | On Site | Jun 13 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6a2cd2b9d3ec94183f4be6f5?utm_campaign=1054&utm_source=git)** | Orange, CA | On Site | Jun 12 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Summer Intern - Human Resources (Career Ladders, Compensation, Total Rewards)](https://jobright.ai/jobs/info/6a2f6f5c093df201d07add01?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jun 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2a3cd42cde2824469c0fd2?utm_campaign=1054&utm_source=git)** | Los Angeles | On Site | Jun 10 |
 | **[Dessert Holdings](https://www.dessertholdings.com/)** | **[HR Intern - Document Organization](https://jobright.ai/jobs/info/6a2a39292cde2824469c0ef5?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Jun 10 |
 | **[Life Alive Café](https://www.lifealive.com)** | **[Payroll and HRIS Analyst Intern](https://jobright.ai/jobs/info/6a29cd402cde2824469beba8?utm_campaign=1054&utm_source=git)** | Cambridge, Massachusetts, United States | Remote | Jun 10 |
-| **[State of Florida](http://www.myflorida.com)** | **[HUMAN RESOURCE MANAGEMENT INTERNSHIP Job Details / State of Florida](https://jobright.ai/jobs/info/6a2a2376495d985b99427310?utm_campaign=1054&utm_source=git)** | TALLAHASSEE, FL, US, 32301 | On Site | Jun 10 |
-| **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[People & Places Intern Job Details / JLR](https://jobright.ai/jobs/info/6a2a21be495d985b99427190?utm_campaign=1054&utm_source=git)** | Mahwah, NJ, US | Hybrid | Jun 10 |
-| **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a29fb6c495d985b99426b1f?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jun 10 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - HR Service Center Job Details / SRP](https://jobright.ai/jobs/info/6a2a1feb495d985b994270b9?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | Hybrid | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
