@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of Hope](http://bankofhope.com)** | **[HR Coordinator Intern](https://jobright.ai/jobs/info/6a304a2343732c05812e19d2?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 15 |
+| **[Tesla](https://www.tesla.com)** | **[Technical Recruiter, AI & Robotics, North America Internship Team](https://jobright.ai/jobs/info/6a307010093df201d07b1701?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Jun 15 |
 | **[TruAmerica Multifamily](https://www.truamerica.com/)** | **[People Operations Sytsem Coordinator (Internship)](https://jobright.ai/jobs/info/6a306ab4524fd5657fe10d24?utm_campaign=1054&utm_source=git)** | Los Angeles, CA 90067, USA | On Site | Jun 15 |
 | **[Toronto International Film Festival](http://www.tiff.net)** | **[Volunteers Intern](https://jobright.ai/jobs/info/6a30595d43732c05812e1daf?utm_campaign=1054&utm_source=git)** | Toronto, ON, CA | On Site | Jun 15 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6a302854524fd5657fe0f230?utm_campaign=1054&utm_source=git)** | Denver, CO, US | On Site | Jun 15 |
-| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6a302858524fd5657fe0f231?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 15 |
-| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6a302852524fd5657fe0f22e?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO, US | On Site | Jun 15 |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6a302852524fd5657fe0f22e?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO, US | On Site | Jun 15 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6a302852524fd5657fe0f22f?utm_campaign=1054&utm_source=git)** | San Antonio, TX, US | On Site | Jun 15 |
+| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6a302858524fd5657fe0f231?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 15 |
+| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6a302854524fd5657fe0f230?utm_campaign=1054&utm_source=git)** | Denver, CO, US | On Site | Jun 15 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Campus Recruitment Intern](https://jobright.ai/jobs/info/6a304f0389f8f147d3734b82?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 15 |
-| **[Bank of Hope](http://bankofhope.com)** | **[HR Coordinator Intern](https://jobright.ai/jobs/info/6a304a2343732c05812e19d2?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 15 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6a2d7e0a7cd40a338fae8e0c?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Jun 15 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Talent Acquisition Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a303180524fd5657fe0f73a?utm_campaign=1054&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Jun 15 |
 | **[Qloron Pvt Ltd](https://www.qloron.com)** | **[IT Recruiter Intern](https://jobright.ai/jobs/info/6a302db2afabbe533fb89867?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 15 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Employee Relations Intern](https://jobright.ai/jobs/info/6a2e9139fc0644749054dcd3?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Jun 14 |
 | ↳ | **[Benefit Intern](https://jobright.ai/jobs/info/6a2e9123d3ec94183f4c0f48?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Jun 14 |
 | **[YMCA of Greater Houston](https://ymcahouston.org/)** | **[Internship - Corporate Paid Trafficked Persons Assisted Program](https://jobright.ai/jobs/info/6a2e8b10fc0644749054dc5b?utm_campaign=1054&utm_source=git)** | Houston, TX 77082, USA | On Site | Jun 14 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern Job Details / J.E. Dunn Construction Group Inc P](https://jobright.ai/jobs/info/6a291ed91dbd8437bebcf0e6?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | Jun 14 |
-| ↳ | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4cce381706a5bd21631e4?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | Jun 14 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Human Resources Campus Intern](https://jobright.ai/jobs/info/69f4cce381706a5bd21631e4?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | Jun 14 |
+| ↳ | **[Human Resources Campus Intern Job Details / J.E. Dunn Construction Group Inc P](https://jobright.ai/jobs/info/6a291ed91dbd8437bebcf0e6?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US, 64106 | On Site | Jun 14 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f52a1712f2811ab5a636af?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jun 13 |
 | **[Eulerity](https://www.eulerity.com)** | **[HR and Recruiting Intern](https://jobright.ai/jobs/info/6a2e0d44fc0644749054d37f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 13 |
 | **[SHoP Architects](http://shoparc.com)** | **[Expression of Interest - Internship](https://jobright.ai/jobs/info/6a2def50d3ec94183f4c0238?utm_campaign=1054&utm_source=git)** | New York, NY 10279 US (Primary) | On Site | Jun 13 |
@@ -93,7 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696a6bfa5fc862418539706b?utm_campaign=1054&utm_source=git)** | Troy, Michigan, US | On Site | Jun 13 |
 | **[Worley](https://www.worley.com)** | **[HR (People) Intern](https://jobright.ai/jobs/info/6a10fa649fdbf21f36cb20e6?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jun 13 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f529910b36ff0354750cf5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jun 13 |
-| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/6a02613dc4b08448a0b26092?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jun 13 |
+| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d95e519f97a42dc9c21125?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jun 13 |
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f42407c78b9e45189596d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 13 |
 | ↳ | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jun 13 |
 | **[Worley](https://www.worley.com)** | **[HR (People) Intern](https://jobright.ai/jobs/info/6a10e0aa69bd827926af0da4?utm_campaign=1054&utm_source=git)** | CAN-AB-Edmonton | On Site | Jun 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2a3cd42cde2824469c0fd2?utm_campaign=1054&utm_source=git)** | Los Angeles | On Site | Jun 10 |
 | **[Dessert Holdings](https://www.dessertholdings.com/)** | **[HR Intern - Document Organization](https://jobright.ai/jobs/info/6a2a39292cde2824469c0ef5?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Jun 10 |
 | **[Life Alive Café](https://www.lifealive.com)** | **[Payroll and HRIS Analyst Intern](https://jobright.ai/jobs/info/6a29cd402cde2824469beba8?utm_campaign=1054&utm_source=git)** | Cambridge, Massachusetts, United States | Remote | Jun 10 |
-| **[State of Florida](http://www.myflorida.com)** | **[HUMAN RESOURCE MANAGEMENT INTERNSHIP Job Details / State of Florida](https://jobright.ai/jobs/info/6a2a2376495d985b99427310?utm_campaign=1054&utm_source=git)** | TALLAHASSEE, FL, US, 32301 | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
