@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great Deals E-Commerce Corp.](https://www.greatdealscorp.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a335a90ce501060b5ced304?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 17 |
+| **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a335926649fdf16292f1cde?utm_campaign=1054&utm_source=git)** | Smithfield,RI,US | On Site | Jun 17 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Casework Intern - UNPAID](https://jobright.ai/jobs/info/6a33509929c90c607e4db0ad?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jun 17 |
 | **[Mitsubishi Electric Automotive America, Inc.](http://www.meaa-mea.com/)** | **[Human Resources Intern Job Details / Mitsubishi Electric Automotive](https://jobright.ai/jobs/info/6a3340c77f3fdd180d4c6269?utm_campaign=1054&utm_source=git)** | Mason, OH, US | On Site | Jun 17 |
 | **[OPAL Fuels](https://opalfuels.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a331f73649fdf16292f0ebf?utm_campaign=1054&utm_source=git)** | White Plains, NY | On Site | Jun 17 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/6a331ea8f6b55d12c7917ddd?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
 | **[Colas Western Canada Inc.](https://www.colascanada.ca/en)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a335018910b734910714b2f?utm_campaign=1054&utm_source=git)** | Acheson, Alberta, Canada | On Site | Jun 17 |
-| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f0e9fdbf21f36cb891c?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fc338c012305122085?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
+| **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
 | ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fb338c012305122084?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fc338c012305122085?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
 | **[IPG](http://taratape.com)** | **[Human Resources Intern - Part-Time](https://jobright.ai/jobs/info/6a3311fd7f3fdd180d4c55f2?utm_campaign=1054&utm_source=git)** | 100 Paramount Dr, Sarasota, FL 34232, USA | On Site | Jun 17 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Jun 17 |
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/6a310d1789f8f147d37377f5?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Remote | Jun 17 |
@@ -91,15 +93,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4eece501060b5ce9d80?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ec649fdf16292ee342?utm_campaign=1054&utm_source=git)** | Sacramento, CA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d8649fdf16292ee33d?utm_campaign=1054&utm_source=git)** | Frankfort, KY | Remote | Jun 17 |
-| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7ce501060b5ce9d7d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7f6b55d12c791524c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Remote | Jun 17 |
+| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7ce501060b5ce9d7d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4cf29c90c607e4d797d?utm_campaign=1054&utm_source=git)** | Salem, OR | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ca910b734910711376?utm_campaign=1054&utm_source=git)** | Charleston, WV | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4c8910b734910711375?utm_campaign=1054&utm_source=git)** | Annapolis, MD | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4c6ce501060b5ce9d7a?utm_campaign=1054&utm_source=git)** | St Paul, MN | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4c529c90c607e4d7975?utm_campaign=1054&utm_source=git)** | Springfield, IL | Remote | Jun 17 |
-| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4bf7f3fdd180d4c2f46?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4bf910b73491071136f?utm_campaign=1054&utm_source=git)** | San Juan, TX | Remote | Jun 17 |
+| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4bf7f3fdd180d4c2f46?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4be7f3fdd180d4c2f44?utm_campaign=1054&utm_source=git)** | Concord, NH | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4bdce501060b5ce9d75?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4b9910b73491071136a?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Jun 17 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Innocence Project](http://www.innocenceproject.org)** | **[People & Culture Fall Intern 2026](https://jobright.ai/jobs/info/6a3186a259588169700151cb?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jun 16 |
 | **[Hood Packaging Corporation](http://hoodpkg.com)** | **[Bilingual Intern - 6 month contract](https://jobright.ai/jobs/info/6a3179e5c477a5075f48d1ba?utm_campaign=1054&utm_source=git)** | Montréal, QC, CA | On Site | Jun 16 |
 | **[Diligence Gestion de Patrimoine | Gestion de patrimoine Manuvie inc.](https://en.financierediligence.ca)** | **[Conseiller en placement junior](https://jobright.ai/jobs/info/6a319ff60ff23769fdb1f3b6?utm_campaign=1054&utm_source=git)** | Québec, Quebec, Canada | On Site | Jun 16 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c230836fe79d861a067?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Jun 16 |
-| ↳ | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/6a10fd629f654b3359cef2f9?utm_campaign=1054&utm_source=git)** | Smyrna, TN, US | On Site | Jun 16 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/6a10fd629f654b3359cef2f9?utm_campaign=1054&utm_source=git)** | Smyrna, TN, US | On Site | Jun 16 |
+| ↳ | **[Health, Safety, and HR Trainee / Intern](https://jobright.ai/jobs/info/69a09c230836fe79d861a067?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Jun 16 |
 | **[UHY-US](https://uhy-us.com/)** | **[Resource Solutions - Intern](https://jobright.ai/jobs/info/6a316a8bc477a5075f48ccfe?utm_campaign=1054&utm_source=git)** | Atlanta, GA, US | On Site | Jun 16 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jun 16 |
 | **[Rho](https://rho.co)** | **[Talent Engineering Intern](https://jobright.ai/jobs/info/6a31667135e80310003a6c8e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[ClimeCo](https://climeco.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a31631ac477a5075f48caee?utm_campaign=1054&utm_source=git)** | Fully Remote | Remote | Jun 16 |
 | ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6a316319c477a5075f48caed?utm_campaign=1054&utm_source=git)** | USA | Remote | Jun 16 |
 | **[Hood Packaging Corporation](http://hoodpkg.com)** | **[Bilingual Intern - 6 month contract](https://jobright.ai/jobs/info/6a319c3f2ee3ac1b4beeffb5?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 16 |
-| **[Ascend Rehab Services, Inc.](https://www.ascendrehabinc.com/)** | **[HR Operations Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a31627b0ff23769fdb1db8c?utm_campaign=1054&utm_source=git)** | Union City, CA | On Site | Jun 16 |
-| **[MyPath](https://www.mypathcompanies.com/)** | **[People & Culture Management Intern](https://jobright.ai/jobs/info/6a3153c80ff23769fdb1d5c4?utm_campaign=1054&utm_source=git)** | Oconomowoc, WI, US | Hybrid | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
