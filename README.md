@@ -83,17 +83,16 @@ For a complete list, click the following sortable link below:
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a33ad5d649fdf16292f28ca?utm_campaign=1054&utm_source=git)** | Smithfield,RI,US | On Site | Jun 18 |
 | **[IPG](http://taratape.com)** | **[Human Resources Intern - Part-Time](https://jobright.ai/jobs/info/6a3311fd7f3fdd180d4c55f2?utm_campaign=1054&utm_source=git)** | 100 Paramount Dr, Sarasota, FL 34232, USA | On Site | Jun 18 |
 | **[Austin Pets Alive!](http://www.austinpetsalive.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a339742ce501060b5cedbb0?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jun 17 |
-| **[County of San Luis Obispo](https://www.slocounty.ca.gov/)** | **[Human Resources Administrative Officer](https://jobright.ai/jobs/info/6a339a75649fdf16292f26d6?utm_campaign=1054&utm_source=git)** | San Luis Obispo, CA | On Site | Jun 17 |
 | **[Great Deals E-Commerce Corp.](https://www.greatdealscorp.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a335a90ce501060b5ced304?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 17 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Casework Intern - UNPAID](https://jobright.ai/jobs/info/6a33509929c90c607e4db0ad?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jun 17 |
 | **[Mitsubishi Electric Automotive America, Inc.](http://www.meaa-mea.com/)** | **[Human Resources Intern Job Details / Mitsubishi Electric Automotive](https://jobright.ai/jobs/info/6a3340c77f3fdd180d4c6269?utm_campaign=1054&utm_source=git)** | Mason, OH, US | On Site | Jun 17 |
 | **[OPAL Fuels](https://opalfuels.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a331f73649fdf16292f0ebf?utm_campaign=1054&utm_source=git)** | White Plains, NY | On Site | Jun 17 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/6a331ea8f6b55d12c7917ddd?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a041505f811a04369607ab0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 17 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a07040c4a0a6a7e7d820607?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fc338c012305122085?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
 | ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fb338c012305122084?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fc338c012305122085?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
 | ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a07040c4a0a6a7e7d820607?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
 | **[Aspire Allergy & Sinus](https://www.aspireallergy.com/)** | **[HR Ops Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/6a3430dbce501060b5cefde7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 17 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Jun 17 |
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/6a310d1789f8f147d37377f5?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Remote | Jun 17 |
@@ -121,15 +120,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ee910b73491071138d?utm_campaign=1054&utm_source=git)** | Richmond, VA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ec649fdf16292ee342?utm_campaign=1054&utm_source=git)** | Sacramento, CA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d8649fdf16292ee33d?utm_campaign=1054&utm_source=git)** | Frankfort, KY | Remote | Jun 17 |
-| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7ce501060b5ce9d7d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7f6b55d12c791524c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Remote | Jun 17 |
+| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7ce501060b5ce9d7d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4cf29c90c607e4d797d?utm_campaign=1054&utm_source=git)** | Salem, OR | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ca910b734910711376?utm_campaign=1054&utm_source=git)** | Charleston, WV | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4c8910b734910711375?utm_campaign=1054&utm_source=git)** | Annapolis, MD | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4c6ce501060b5ce9d7a?utm_campaign=1054&utm_source=git)** | St Paul, MN | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4c529c90c607e4d7975?utm_campaign=1054&utm_source=git)** | Springfield, IL | Remote | Jun 17 |
-| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4bf910b73491071136f?utm_campaign=1054&utm_source=git)** | San Juan, TX | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4bf7f3fdd180d4c2f46?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | Remote | Jun 17 |
+| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4bf910b73491071136f?utm_campaign=1054&utm_source=git)** | San Juan, TX | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4be7f3fdd180d4c2f44?utm_campaign=1054&utm_source=git)** | Concord, NH | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4bdce501060b5ce9d75?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4b9910b73491071136a?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Jun 17 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Biocytogen](https://biocytogen.com)** | **[Human Resources Intern (Full-Time)](https://jobright.ai/jobs/info/6a323354e7b7d514a3bd7317?utm_campaign=1054&utm_source=git)** | Waltham, Massachusetts, United States | On Site | Jun 16 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[Receptionist & Human Resources Assistant Internship](https://jobright.ai/jobs/info/6a322bfae7b7d514a3bd71e6?utm_campaign=1054&utm_source=git)** | Toronto, Ontario | On Site | Jun 16 |
 | **[University of Florida](https://www.ufl.edu)** | **[2026 Fall Employee Relations Internship](https://jobright.ai/jobs/info/6a3312f6910b734910713c1c?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Jun 16 |
-| **[Ryder System, Inc.](https://ryder.com/ryderventures)** | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a31e515e7b7d514a3bd616e?utm_campaign=1054&utm_source=git)** | USA - Nationwide Remote USA, US | Remote | Jun 16 |
+| **[Ryder System, Inc.](https://ryder.com/ryderventures)** | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a31e515e7b7d514a3bd616f?utm_campaign=1054&utm_source=git)** | USA - Remote FL, US | Remote | Jun 16 |
+| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a31e515e7b7d514a3bd616e?utm_campaign=1054&utm_source=git)** | USA - Nationwide Remote USA, US | Remote | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
