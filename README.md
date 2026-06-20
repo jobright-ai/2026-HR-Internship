@@ -113,10 +113,10 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Electric Automotive America, Inc.](http://www.meaa-mea.com/)** | **[Human Resources Intern Job Details / Mitsubishi Electric Automotive](https://jobright.ai/jobs/info/6a3340c77f3fdd180d4c6269?utm_campaign=1054&utm_source=git)** | Mason, OH, US | On Site | Jun 17 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/6a331ea8f6b55d12c7917ddd?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a041505f811a04369607ab0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 17 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a07040c4a0a6a7e7d820607?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
 | ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fc338c012305122085?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
 | ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fb338c012305122084?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
 | **[Aspire Allergy & Sinus](https://www.aspireallergy.com/)** | **[HR Ops Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/6a3430dbce501060b5cefde7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 17 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Jun 17 |
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/6a310d1789f8f147d37377f5?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Remote | Jun 17 |
@@ -143,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ee910b73491071138d?utm_campaign=1054&utm_source=git)** | Richmond, VA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ec649fdf16292ee342?utm_campaign=1054&utm_source=git)** | Sacramento, CA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d8649fdf16292ee33d?utm_campaign=1054&utm_source=git)** | Frankfort, KY | Remote | Jun 17 |
-| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7f6b55d12c791524c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7ce501060b5ce9d7d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Jun 17 |
+| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7f6b55d12c791524c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4cf29c90c607e4d797d?utm_campaign=1054&utm_source=git)** | Salem, OR | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ca910b734910711376?utm_campaign=1054&utm_source=git)** | Charleston, WV | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4c8910b734910711375?utm_campaign=1054&utm_source=git)** | Annapolis, MD | Remote | Jun 17 |
