@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a35c6c17f3fdd180d4cea9f?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 19 |
 | **[Credit Genie](https://creditgenie.com)** | **[Workplace Experience Coordinator - Internship](https://jobright.ai/jobs/info/6a35a15729c90c607e4e3159?utm_campaign=1054&utm_source=git)** | Plymouth Meeting, PA | On Site | Jun 19 |
 | ↳ | **[Workplace Experience Coordinator - Internship](https://jobright.ai/jobs/info/6a35a06229c90c607e4e310c?utm_campaign=1054&utm_source=git)** | Plymouth Meeting, PA | On Site | Jun 19 |
 | **[Interac Corp.](http://www.interac.ca)** | **[People & Culture Intern, DEI & Learning](https://jobright.ai/jobs/info/6a359599649fdf16292f99ef?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Germantown Athletic Club](https://www.germantownathleticclub.org)** | **[HR Intern](https://jobright.ai/jobs/info/6a34c32e7f3fdd180d4cba34?utm_campaign=1054&utm_source=git)** | Hall City, FL | On Site | Jun 18 |
 | **[Cornish Seal Sanctuary](https://sealsanctuary.sealifetrust.org/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a3464261232144fb155fd81?utm_campaign=1054&utm_source=git)** | Goshen, NY, US | On Site | Jun 18 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Operations Intern (Unpaid internship)](https://jobright.ai/jobs/info/6a345c99f6b55d12c791c780?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 18 |
-| **[Festo](https://www.festo.com/us/en)** | **[Human Resources Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a345c4d649fdf16292f5973?utm_campaign=1054&utm_source=git)** | Islandia, FL, US | On Site | Jun 18 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[People & Culture - Recruitment & Hiring Intern](https://jobright.ai/jobs/info/6a345999ce501060b5cf0ce7?utm_campaign=1054&utm_source=git)** | New York, NY 10003 | On Site | Jun 18 |
 | **[GAINS](https://gainsystems.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a3457a1ce501060b5cf0c1f?utm_campaign=1054&utm_source=git)** | Remote, United States | Remote | Jun 18 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Intern (unpaid internship)](https://jobright.ai/jobs/info/6a3450daf6b55d12c791c1d7?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 18 |
@@ -109,10 +109,10 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Electric Automotive America, Inc.](http://www.meaa-mea.com/)** | **[Human Resources Intern Job Details / Mitsubishi Electric Automotive](https://jobright.ai/jobs/info/6a3340c77f3fdd180d4c6269?utm_campaign=1054&utm_source=git)** | Mason, OH, US | On Site | Jun 17 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/6a331ea8f6b55d12c7917ddd?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a041505f811a04369607ab0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 17 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fb338c012305122084?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fc338c012305122085?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
 | ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a07040c4a0a6a7e7d820607?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f0e9fdbf21f36cb891c?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fc338c012305122085?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fb338c012305122084?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
 | **[Aspire Allergy & Sinus](https://www.aspireallergy.com/)** | **[HR Ops Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/6a3430dbce501060b5cefde7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 17 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Jun 17 |
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/6a310d1789f8f147d37377f5?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Remote | Jun 17 |
@@ -135,12 +135,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4fa649fdf16292ee349?utm_campaign=1054&utm_source=git)** | Des Moines, IA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4f97f3fdd180d4c2f55?utm_campaign=1054&utm_source=git)** | Gu Oidak, AZ | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ef649fdf16292ee345?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | Remote | Jun 17 |
-| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ee910b73491071138d?utm_campaign=1054&utm_source=git)** | Richmond, VA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4eece501060b5ce9d80?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Jun 17 |
+| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ee910b73491071138d?utm_campaign=1054&utm_source=git)** | Richmond, VA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ec649fdf16292ee342?utm_campaign=1054&utm_source=git)** | Sacramento, CA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d8649fdf16292ee33d?utm_campaign=1054&utm_source=git)** | Frankfort, KY | Remote | Jun 17 |
-| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7f6b55d12c791524c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7ce501060b5ce9d7d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Jun 17 |
+| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4d7f6b55d12c791524c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4cf29c90c607e4d797d?utm_campaign=1054&utm_source=git)** | Salem, OR | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ca910b734910711376?utm_campaign=1054&utm_source=git)** | Charleston, WV | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4c8910b734910711375?utm_campaign=1054&utm_source=git)** | Annapolis, MD | Remote | Jun 17 |
