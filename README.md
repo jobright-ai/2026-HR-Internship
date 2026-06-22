@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4fa649fdf16292ee349?utm_campaign=1054&utm_source=git)** | Des Moines, IA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4f97f3fdd180d4c2f55?utm_campaign=1054&utm_source=git)** | Gu Oidak, AZ | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ef649fdf16292ee345?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | Remote | Jun 17 |
-| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ee910b73491071138d?utm_campaign=1054&utm_source=git)** | Richmond, VA | Remote | Jun 17 |
+| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4eece501060b5ce9d80?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
