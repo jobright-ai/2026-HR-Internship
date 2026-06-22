@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PACCAR](http://www.paccar.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a388f8f1232144fb1568c64?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US, 98033 | On Site | Jun 21 |
 | **[FreshDirect](http://freshdirect.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a11ef9983d714428982ccd7?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Jun 21 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa00962ebd316bece1bf05?utm_campaign=1054&utm_source=git)** | Newaygo, Michigan, US | On Site | Jun 21 |
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Human Resource Intern (Clayton, MO)](https://jobright.ai/jobs/info/6a37f4e21232144fb156816e?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Jun 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b50ef6b55d12c7915263?utm_campaign=1054&utm_source=git)** | Jackson, MS | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4fa649fdf16292ee349?utm_campaign=1054&utm_source=git)** | Des Moines, IA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4f97f3fdd180d4c2f55?utm_campaign=1054&utm_source=git)** | Gu Oidak, AZ | Remote | Jun 17 |
-| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ef649fdf16292ee345?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | Remote | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
