@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Operations Intern (Unpaid internship)](https://jobright.ai/jobs/info/6a345c99f6b55d12c791c780?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[People & Culture - Recruitment & Hiring Intern](https://jobright.ai/jobs/info/6a345999ce501060b5cf0ce7?utm_campaign=1054&utm_source=git)** | New York, NY 10003 | On Site | Jun 18 |
 | **[GAINS](https://gainsystems.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a3457a1ce501060b5cf0c1f?utm_campaign=1054&utm_source=git)** | Remote, United States | Remote | Jun 18 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Intern (unpaid internship)](https://jobright.ai/jobs/info/6a3450daf6b55d12c791c1d7?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jun 18 |
 | **[OASYS, INC.](https://oasys-inc.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a332a9b7f3fdd180d4c5dd4?utm_campaign=1054&utm_source=git)** | Huntsville, AL, US | On Site | Jun 18 |
 | **[Pressley Ridge](https://www.pressleyridge.org/)** | **[Intern Paid](https://jobright.ai/jobs/info/6a343d6f1232144fb155ef6b?utm_campaign=1054&utm_source=git)** | Dover, Delaware, United States | On Site | Jun 18 |
@@ -131,9 +130,9 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Electric Automotive America, Inc.](http://www.meaa-mea.com/)** | **[Human Resources Intern Job Details / Mitsubishi Electric Automotive](https://jobright.ai/jobs/info/6a3340c77f3fdd180d4c6269?utm_campaign=1054&utm_source=git)** | Mason, OH, US | On Site | Jun 17 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/6a331ea8f6b55d12c7917ddd?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
 | **[Kiva](http://kiva.org)** | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a041505f811a04369607ab0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 17 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a07040c4a0a6a7e7d820607?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
 | ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fc338c012305122085?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
-| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a133f109fdbf21f36cb891d?utm_campaign=1054&utm_source=git)** | U.S. Remote | Remote | Jun 17 |
+| ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a0275bb3053db70a1178138?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
 | ↳ | **[Alumni & Ambassador: Communities Intern](https://jobright.ai/jobs/info/6a21f6fb338c012305122084?utm_campaign=1054&utm_source=git)** | U.S Remote | Remote | Jun 17 |
 | **[Aspire Allergy & Sinus](https://www.aspireallergy.com/)** | **[HR Ops Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/6a3430dbce501060b5cefde7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 17 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Jun 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4fa649fdf16292ee349?utm_campaign=1054&utm_source=git)** | Des Moines, IA | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4f97f3fdd180d4c2f55?utm_campaign=1054&utm_source=git)** | Gu Oidak, AZ | Remote | Jun 17 |
 | ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4ef649fdf16292ee345?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | Remote | Jun 17 |
+| ↳ | **[Research Intern - REMOTE](https://jobright.ai/jobs/info/6a32b4eece501060b5ce9d80?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
