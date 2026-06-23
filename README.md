@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate - Internship](https://jobright.ai/jobs/info/6a3aa003797099171917ad8a?utm_campaign=1054&utm_source=git)** | Fort Myers, FL 33912, USA | On Site | Jun 23 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer College Intern](https://jobright.ai/jobs/info/6a3a7c75797099171917a396?utm_campaign=1054&utm_source=git)** | MANHATTAN | On Site | Jun 23 |
+| ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/6a3a7c7e797099171917a398?utm_campaign=1054&utm_source=git)** | 421 East 26th Street, New York, NY | On Site | Jun 23 |
+| ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/6a3a7c80797099171917a39a?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Jun 23 |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS, Moline Foster Care Multi-Disciplinary Team Assistant](https://jobright.ai/jobs/info/6a3187b5e7b7d514a3bd3e8d?utm_campaign=1054&utm_source=git)** | 4646 38th Ave, Moline, IL 61265, USA | On Site | Jun 23 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Administrative Assistant, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/6a3a94e8649fdf1629304a7a?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 23 |
 | **[PACE Southeast Michigan](https://www.pacesemi.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3a8c53dd879c60912af4ff?utm_campaign=1054&utm_source=git)** | Southfield, MI, US | Hybrid | Jun 23 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer College Intern](https://jobright.ai/jobs/info/6a3a87b606a4fd4b1fabdabf?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/6a3a87b31232144fb156ecd7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 23 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer College Intern](https://jobright.ai/jobs/info/6a3a7c80797099171917a39a?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Jun 23 |
-| ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/6a3a7c7e797099171917a398?utm_campaign=1054&utm_source=git)** | 421 East 26th Street, New York, NY | On Site | Jun 23 |
-| ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/6a3a7c75797099171917a396?utm_campaign=1054&utm_source=git)** | MANHATTAN | On Site | Jun 23 |
 | **[Pathfinder Bank](http://pathfinderbank.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a2127334bdf8a5a96bd4d89?utm_campaign=1054&utm_source=git)** | Oswego,NY,US | On Site | Jun 23 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 23 |
-| ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde0b524ae49285a8163?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 23 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde0b524ae49285a8163?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 23 |
+| ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 23 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship HR - Learning & Development](https://jobright.ai/jobs/info/6a3a611406a4fd4b1fabd4dc?utm_campaign=1054&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 23 |
 | **[DiligenceVault](http://www.diligencevault.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3a607c797099171917a12f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 23 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a399015649fdf162930197f?utm_campaign=1054&utm_source=git)** | Huntington, WV, US | On Site | Jun 23 |
@@ -94,24 +97,23 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf106a4fd4b1faba601?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf006a4fd4b1faba5fe?utm_campaign=1054&utm_source=git)** | Midland, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf006a4fd4b1faba600?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | Jun 22 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cef06a4fd4b1faba5fc?utm_campaign=1054&utm_source=git)** | El Paso, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cef06a4fd4b1faba5fb?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | Jun 22 |
+| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cef06a4fd4b1faba5fc?utm_campaign=1054&utm_source=git)** | El Paso, Texas | Hybrid | Jun 22 |
 | **[EDSA, Inc.](http://www.edsaplan.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a28fabf1dbd8437bebce5a5?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 22 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Jun 22 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jun 22 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jun 22 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Jun 22 |
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture (Career Compass & Talent Ecosystem)](https://jobright.ai/jobs/info/6a396bcc6484fb75f2b31743?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jun 22 |
 | **[OPAL Fuels](https://opalfuels.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a331f73649fdf16292f0ebf?utm_campaign=1054&utm_source=git)** | White Plains, NY | On Site | Jun 22 |
 | **[MarshBerry](http://marshberry.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a39635ff6b55d12c79279fc?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jun 22 |
 | **[US Anesthesia Partners](http://www.usap.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a394fd8214ae004c7a1dd8f?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Jun 22 |
 | **[Lakeshore Management](http://www.lakeshoremhc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a394bdb1232144fb156a5e4?utm_campaign=1054&utm_source=git)** | Colonial Village HR - ORLANDO, FL 32817 | On Site | Jun 22 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3949f706a4fd4b1fab91bf?utm_campaign=1054&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 22 |
-| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 22 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 22 |
+| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 22 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 22 |
 | ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Jun 22 |
 | **[Restaurant Brands International](http://rbi.com/en)** | **[Curious About RBI’s Leadership Development Program? Let’s Chat Over Coffee!](https://jobright.ai/jobs/info/6a3940246484fb75f2b30518?utm_campaign=1054&utm_source=git)** | Corp - Miami Corporate Office, US | Remote | Jun 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6a2f8020b9f4dd0b4d51c834?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jun 22 |
 | **[Marand Builders, Inc.](https://www.marandbuilders.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2ae0709bf7365df089ae06?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jun 22 |
-| **[Seltzer Group Partners](https://www.seltzergrouppartners.com)** | **[Benefits Broker Intern (Fall Semester)](https://jobright.ai/jobs/info/6a2b1be11de59e0682a880e2?utm_campaign=1054&utm_source=git)** | Bethlehem, PA | On Site | Jun 22 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall People Operations Intern](https://jobright.ai/jobs/info/6a1d65fc3e538a28c20497d2?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
 | **[e-Careers](https://www.e-careers.com/)** | **[Junior HR Talent Coordinator](https://jobright.ai/jobs/info/6a390fd1f6b55d12c792650c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa16f52ebd316bece1d2fc?utm_campaign=1054&utm_source=git)** | Newaygo, MI | On Site | Jun 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ste. Genevieve County Memorial Hospital](http://www.stegenevievehospital.org/)** | **[HUMAN RESOURCES INTERN - TEMPORARY PART TIME](https://jobright.ai/jobs/info/6a34a19129c90c607e4e000c?utm_campaign=1054&utm_source=git)** | Ste. Genevieve, MO | On Site | Jun 18 |
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a349d4229c90c607e4dff91?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 18 |
 | **[Cornish Seal Sanctuary](https://sealsanctuary.sealifetrust.org/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a3464261232144fb155fd81?utm_campaign=1054&utm_source=git)** | Goshen, NY, US | On Site | Jun 18 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Operations Intern (Unpaid internship)](https://jobright.ai/jobs/info/6a345c99f6b55d12c791c780?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 18 |
-| **[Kids in the Game](http://kidsinthegame.com/)** | **[People & Culture - Recruitment & Hiring Intern](https://jobright.ai/jobs/info/6a345999ce501060b5cf0ce7?utm_campaign=1054&utm_source=git)** | New York, NY 10003 | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
