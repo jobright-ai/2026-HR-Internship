@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Human Resources/Recruitment Intern - Fall 2026](https://jobright.ai/jobs/info/6a39cfa5649fdf1629302f1e?utm_campaign=1054&utm_source=git)** | Wake County, NC | Remote | Jun 22 |
 | **[BWXT](http://www.bwxt.com/)** | **[Human Resources Intern, NOG-B (Year-Round)](https://jobright.ai/jobs/info/6a39bf086484fb75f2b33825?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Jun 22 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a39b7e506a4fd4b1fabbcaf?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | Hybrid | Jun 22 |
 | **[TiriVelo Inc](www.TiriVelo.ca)** | **[Operations & Partnerships Coordinator Intern](https://jobright.ai/jobs/info/6a39b07c6484fb75f2b3332f?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | Remote | Jun 22 |
@@ -69,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a39a1ca649fdf1629302167?utm_campaign=1054&utm_source=git)** | Salem, MA 01970, USA | On Site | Jun 22 |
 | **[Floridacentral Credit Union](https://www.floridacentralcu.com/)** | **[Intern Human Resources Coordinator - PT](https://jobright.ai/jobs/info/6a399ea1214ae004c7a1faf2?utm_campaign=1054&utm_source=git)** | 3333 Henderson Blvd, Tampa, FL 33609, USA | On Site | Jun 22 |
 | **[CivicScience](http://civicscience.com)** | **[People Operations / Human Resources Intern](https://jobright.ai/jobs/info/69fe7ee17714cd50b91015ac?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 22 |
-| **[Phoenix International Holdings, Inc.](http://www.phnx-international.com)** | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c643?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD, US | On Site | Jun 22 |
-| ↳ | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c641?utm_campaign=1054&utm_source=git)** | Largo, MD, US | On Site | Jun 22 |
+| **[Phoenix International Holdings, Inc.](http://www.phnx-international.com)** | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c641?utm_campaign=1054&utm_source=git)** | Largo, MD, US | On Site | Jun 22 |
+| ↳ | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c643?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD, US | On Site | Jun 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Human Resources/Recruitment Intern - Fall 2026](https://jobright.ai/jobs/info/6a399d7df6b55d12c792935a?utm_campaign=1054&utm_source=git)** | Wake County, NC, US | Remote | Jun 22 |
 | **[Advanced Behavioral Health](https://www.abhmaryland.com)** | **[HR Internship (Fall 2026)](https://jobright.ai/jobs/info/6a399b88214ae004c7a1f96c?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Jun 22 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a29ab212cde2824469bdd85?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aspire Allergy & Sinus](https://www.aspireallergy.com/)** | **[HR Ops Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/6a34104b29c90c607e4dd107?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 18 |
 | **[Ste. Genevieve County Memorial Hospital](http://www.stegenevievehospital.org/)** | **[HUMAN RESOURCES INTERN - TEMPORARY PART TIME](https://jobright.ai/jobs/info/6a340a83649fdf16292f3ae9?utm_campaign=1054&utm_source=git)** | Ste. Genevieve, MO, US | On Site | Jun 18 |
 | **[Selene Finance LP](https://seleneadvantage.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/6a177b4b1430333075cd1a18?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jun 18 |
-| **[Baptist Memorial Health Care](https://www.baptistonline.org/locations/restorative-care)** | **[Intern-Career Development](https://jobright.ai/jobs/info/6a0848fc6186f46859886d51?utm_campaign=1054&utm_source=git)** | 350 North Humphreys Boulevard, Memphis, TN, 38120, US | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
