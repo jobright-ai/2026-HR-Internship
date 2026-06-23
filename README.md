@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BWXT](http://www.bwxt.com/)** | **[Human Resources Intern, NOG-B (Year-Round)](https://jobright.ai/jobs/info/6a39bf086484fb75f2b33825?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Jun 22 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a39b7e506a4fd4b1fabbcaf?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | Hybrid | Jun 22 |
 | **[TiriVelo Inc](www.TiriVelo.ca)** | **[Operations & Partnerships Coordinator Intern](https://jobright.ai/jobs/info/6a39b07c6484fb75f2b3332f?utm_campaign=1054&utm_source=git)** | Etobicoke, Ontario, Canada | Remote | Jun 22 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, People Analytics (Fall 2026)](https://jobright.ai/jobs/info/6a39af6406a4fd4b1fabb9d8?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 22 |
 | **[CNU's Center For American Studies](http://cnu.edu/cas/)** | **[SkillBridge Human Resources Training and Development Intern - Transitioning Services Members Only (Cohort 3 - Starting September 1, 2026)](https://jobright.ai/jobs/info/6a39a952214ae004c7a1ffa1?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Jun 22 |
@@ -81,13 +83,13 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cfb06a4fd4b1faba60d?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf406a4fd4b1faba608?utm_campaign=1054&utm_source=git)** | Fort Worth, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf106a4fd4b1faba601?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | Jun 22 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf006a4fd4b1faba600?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf006a4fd4b1faba5fe?utm_campaign=1054&utm_source=git)** | Midland, Texas | Hybrid | Jun 22 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cef06a4fd4b1faba5fb?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | Jun 22 |
+| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf006a4fd4b1faba600?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cef06a4fd4b1faba5fc?utm_campaign=1054&utm_source=git)** | El Paso, Texas | Hybrid | Jun 22 |
+| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cef06a4fd4b1faba5fb?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | Jun 22 |
 | **[EDSA, Inc.](http://www.edsaplan.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a28fabf1dbd8437bebce5a5?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 22 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jun 22 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Jun 22 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Jun 22 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jun 22 |
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture (Career Compass & Talent Ecosystem)](https://jobright.ai/jobs/info/6a396bcc6484fb75f2b31743?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jun 22 |
 | **[OPAL Fuels](https://opalfuels.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a331f73649fdf16292f0ebf?utm_campaign=1054&utm_source=git)** | White Plains, NY | On Site | Jun 22 |
 | **[MarshBerry](http://marshberry.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a39635ff6b55d12c79279fc?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jun 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ste. Genevieve County Memorial Hospital](http://www.stegenevievehospital.org/)** | **[HUMAN RESOURCES INTERN - TEMPORARY PART TIME](https://jobright.ai/jobs/info/6a340a83649fdf16292f3ae9?utm_campaign=1054&utm_source=git)** | Ste. Genevieve, MO, US | On Site | Jun 18 |
 | **[Selene Finance LP](https://seleneadvantage.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/6a177b4b1430333075cd1a18?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jun 18 |
 | **[Baptist Memorial Health Care](https://www.baptistonline.org/locations/restorative-care)** | **[Intern-Career Development](https://jobright.ai/jobs/info/6a0848fc6186f46859886d51?utm_campaign=1054&utm_source=git)** | 350 North Humphreys Boulevard, Memphis, TN, 38120, US | On Site | Jun 18 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Employment Services Intern - UNPAID](https://jobright.ai/jobs/info/6a33e59df6b55d12c7919e88?utm_campaign=1054&utm_source=git)** | Atlanta, GA USA, US | Hybrid | Jun 18 |
-| **[ASME (The American Society of Mechanical Engineers)](https://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/6a3095c1eace377055eb70f5?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
