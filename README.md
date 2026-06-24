@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Workforce Operations Intern (Time & Attendance)](https://jobright.ai/jobs/info/6a3b2667649fdf162930772a?utm_campaign=1054&utm_source=git)** | Tucson, AZ | Hybrid | Jun 23 |
 | **[PSECU](http://psecu.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3aee52dbedbf5680c71dbc?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, US | On Site | Jun 23 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Manager Intern (Unpaid internship)](https://jobright.ai/jobs/info/6a3b12a1dbedbf5680c72b35?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 23 |
 | **[Fé. soul communication & research](http://www.fesoulconversation.be)** | **[Internship Interest](https://jobright.ai/jobs/info/6a3b03f906a4fd4b1fac0029?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Jun 23 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Lakeshore Management](http://www.lakeshoremhc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a394bdb1232144fb156a5e4?utm_campaign=1054&utm_source=git)** | Colonial Village HR - ORLANDO, FL 32817 | On Site | Jun 22 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3949f706a4fd4b1fab91bf?utm_campaign=1054&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 22 |
 | **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 22 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 22 |
 | ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Jun 22 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 22 |
 | **[Restaurant Brands International](http://rbi.com/en)** | **[Curious About RBI’s Leadership Development Program? Let’s Chat Over Coffee!](https://jobright.ai/jobs/info/6a3940246484fb75f2b30518?utm_campaign=1054&utm_source=git)** | Corp - Miami Corporate Office, US | Remote | Jun 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6a2f8020b9f4dd0b4d51c834?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jun 22 |
 | **[Marand Builders, Inc.](https://www.marandbuilders.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2ae0709bf7365df089ae06?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jun 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UES](https://www.teamues.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a34c5c4649fdf16292f717f?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jun 19 |
 | **[SPX Technologies](https://www.spx.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a351dff1232144fb1562059?utm_campaign=1054&utm_source=git)** | Cuba, MO | On Site | Jun 19 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
