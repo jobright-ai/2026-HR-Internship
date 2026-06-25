@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Hickory NC](https://jobright.ai/jobs/info/6a3d79ce4d047136e0933c74?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jun 25 |
+| ↳ | **[Case Manager Intern/Asheville NC](https://jobright.ai/jobs/info/6a3d79ca78237a036d5e18a6?utm_campaign=1054&utm_source=git)** | Asheville, NC 28801, USA | Hybrid | Jun 25 |
+| ↳ | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a3d79c9122f340d29cf0c1e?utm_campaign=1054&utm_source=git)** | Forest City, NC 28043, USA | Hybrid | Jun 25 |
+| **[KLS Martin Group](https://www.klsmartin.com/de/)** | **[Human Resources Intern (34581)](https://jobright.ai/jobs/info/6a3d775c882f121f56a379ed?utm_campaign=1054&utm_source=git)** | Corporate Office - Jacksonville, FL 32246 | On Site | Jun 25 |
 | **[StackAdapt](https://www.stackadapt.com)** | **[People Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3d6d558bfad862bc99d011?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jun 25 |
 | ↳ | **[People Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3d6670122f340d29cf0598?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 25 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Administrative Support Intern (Unpaid Intern)](https://jobright.ai/jobs/info/6a3d3bb6122f340d29cef9e8?utm_campaign=1054&utm_source=git)** | Orange County, California, United States | On Site | Jun 25 |
@@ -65,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at Arizona State University, Tempe Campus](https://jobright.ai/jobs/info/6a28e51dfd37e62bb47abb91?utm_campaign=1054&utm_source=git)** | Arizona, United States | On Site | Jun 25 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Jun 25 |
 | **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2a5bab495d985b99428a4f?utm_campaign=1054&utm_source=git)** | Lehi, UT | Remote | Jun 25 |
-| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a037897ed6a637463f50307?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a2158a3c00e701fe836e15d?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | Jun 25 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/69d20367cfdc6132f9448445?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jun 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6a2f8020b9f4dd0b4d51c834?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jun 24 |
@@ -87,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/6a037fe76c07461fe1704b17?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jun 24 |
 | **[Merlin Entertainments](https://www.merlinentertainments.biz)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a341907649fdf16292f3f58?utm_campaign=1054&utm_source=git)** | Goshen, NY | On Site | Jun 24 |
 | **[Eulerity](https://www.eulerity.com)** | **[Recruitment Intern - AI & Automation](https://jobright.ai/jobs/info/6a3bac018bfad862bc997b93?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
-| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
+| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
 | **[CUPSHE](https://www.cupshe.com/)** | **[HR & Admin Intern](https://jobright.ai/jobs/info/6a3b7772dbedbf5680c73c03?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Jun 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Workforce Operations Intern (Time & Attendance)](https://jobright.ai/jobs/info/6a3b2667649fdf162930772a?utm_campaign=1054&utm_source=git)** | Tucson, AZ | Hybrid | Jun 23 |
 | **[PSECU](http://psecu.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3aee52dbedbf5680c71dbc?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, US | On Site | Jun 23 |
@@ -114,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[DiligenceVault](http://www.diligencevault.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3a607c797099171917a12f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 23 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a399015649fdf162930197f?utm_campaign=1054&utm_source=git)** | Huntington, WV, US | On Site | Jun 23 |
 | **[Eulerity](https://www.eulerity.com)** | **[Recruitment Intern - AI & Automation](https://jobright.ai/jobs/info/6a39f81b214ae004c7a211ed?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Jun 22 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer College Intern](https://jobright.ai/jobs/info/6a3c99de8bfad862bc99ae27?utm_campaign=1054&utm_source=git)** | 421 East 26th Street NY NY | On Site | Jun 22 |
-| ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/6a3c99dd8bfad862bc99ae26?utm_campaign=1054&utm_source=git)** | MANHATTAN | On Site | Jun 22 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer College Intern](https://jobright.ai/jobs/info/6a3c99dd8bfad862bc99ae26?utm_campaign=1054&utm_source=git)** | MANHATTAN | On Site | Jun 22 |
+| ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/6a3c99de8bfad862bc99ae27?utm_campaign=1054&utm_source=git)** | 421 East 26th Street NY NY | On Site | Jun 22 |
 | **[Interac Corp.](http://www.interac.ca)** | **[People & Culture Intern, Talent Programs](https://jobright.ai/jobs/info/6a3986176484fb75f2b32346?utm_campaign=1054&utm_source=git)** | Toronto, Canada | Hybrid | Jun 22 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Human Resources/Recruitment Intern - Fall 2026](https://jobright.ai/jobs/info/6a39cfa5649fdf1629302f1e?utm_campaign=1054&utm_source=git)** | Wake County, NC | Remote | Jun 22 |
 | **[BWXT](http://www.bwxt.com/)** | **[Human Resources Intern, NOG-B (Year-Round)](https://jobright.ai/jobs/info/6a39bf086484fb75f2b33825?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Jun 22 |
@@ -126,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[BWXT](http://www.bwxt.com/)** | **[Human Resources Intern, NOG-B (Year-Round)](https://jobright.ai/jobs/info/6a39a1d4214ae004c7a1fc78?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Jun 22 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a39a1ca649fdf1629302167?utm_campaign=1054&utm_source=git)** | Salem, MA 01970, USA | On Site | Jun 22 |
 | **[CivicScience](http://civicscience.com)** | **[People Operations / Human Resources Intern](https://jobright.ai/jobs/info/69fe7ee17714cd50b91015ac?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 22 |
-| **[Phoenix International Holdings, Inc.](http://www.phnx-international.com)** | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c643?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD, US | On Site | Jun 22 |
-| ↳ | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c641?utm_campaign=1054&utm_source=git)** | Largo, MD, US | On Site | Jun 22 |
+| **[Phoenix International Holdings, Inc.](http://www.phnx-international.com)** | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c641?utm_campaign=1054&utm_source=git)** | Largo, MD, US | On Site | Jun 22 |
+| ↳ | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c643?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD, US | On Site | Jun 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Human Resources/Recruitment Intern - Fall 2026](https://jobright.ai/jobs/info/6a399d7df6b55d12c792935a?utm_campaign=1054&utm_source=git)** | Wake County, NC, US | Remote | Jun 22 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a29ab212cde2824469bdd85?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 22 |
 | **[J&G International Inc.](https://www.linkedin.com/company/108722076)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a39958a649fdf1629301b5e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 22 |
@@ -135,26 +138,23 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cfb06a4fd4b1faba60d?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf406a4fd4b1faba608?utm_campaign=1054&utm_source=git)** | Fort Worth, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf106a4fd4b1faba601?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | Jun 22 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf006a4fd4b1faba5fe?utm_campaign=1054&utm_source=git)** | Midland, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf006a4fd4b1faba600?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | Jun 22 |
+| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf006a4fd4b1faba5fe?utm_campaign=1054&utm_source=git)** | Midland, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cef06a4fd4b1faba5fb?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cef06a4fd4b1faba5fc?utm_campaign=1054&utm_source=git)** | El Paso, Texas | Hybrid | Jun 22 |
 | **[EDSA, Inc.](http://www.edsaplan.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a28fabf1dbd8437bebce5a5?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 22 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jun 22 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Jun 22 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Jun 22 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jun 22 |
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture (Career Compass & Talent Ecosystem)](https://jobright.ai/jobs/info/6a396bcc6484fb75f2b31743?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jun 22 |
 | **[OPAL Fuels](https://opalfuels.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a331f73649fdf16292f0ebf?utm_campaign=1054&utm_source=git)** | White Plains, NY | On Site | Jun 22 |
 | **[MarshBerry](http://marshberry.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a39635ff6b55d12c79279fc?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jun 22 |
 | **[US Anesthesia Partners](http://www.usap.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a394fd8214ae004c7a1dd8f?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Jun 22 |
 | **[Lakeshore Management](http://www.lakeshoremhc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a394bdb1232144fb156a5e4?utm_campaign=1054&utm_source=git)** | Colonial Village HR - ORLANDO, FL 32817 | On Site | Jun 22 |
-| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 22 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Jun 22 |
+| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Jun 22 |
 | ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 22 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 22 |
 | **[Restaurant Brands International](http://rbi.com/en)** | **[Curious About RBI’s Leadership Development Program? Let’s Chat Over Coffee!](https://jobright.ai/jobs/info/6a3940246484fb75f2b30518?utm_campaign=1054&utm_source=git)** | Corp - Miami Corporate Office, US | Remote | Jun 22 |
 | **[Marand Builders, Inc.](https://www.marandbuilders.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2ae0709bf7365df089ae06?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jun 22 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall People Operations Intern](https://jobright.ai/jobs/info/6a1d65fc3e538a28c20497d2?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
 | **[e-Careers](https://www.e-careers.com/)** | **[Junior HR Talent Coordinator](https://jobright.ai/jobs/info/6a390fd1f6b55d12c792650c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 22 |
-| **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa16f52ebd316bece1d2fc?utm_campaign=1054&utm_source=git)** | Newaygo, MI | On Site | Jun 21 |
-| **[FreshDirect](http://freshdirect.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a11ef9983d714428982ccd7?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Jun 21 |
-| **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa00962ebd316bece1bf05?utm_campaign=1054&utm_source=git)** | Newaygo, Michigan, US | On Site | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
