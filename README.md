@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[El Camino Health](https://www.elcaminohealth.org )** | **[Administrative Intern - 0.8 - Days - Talent Development @ MV (Temp Role)](https://jobright.ai/jobs/info/6a3c5d9f982bb239f812f813?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Jun 24 |
 | **[Giant Noise](http://giantnoise.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a3c0605882f121f56a32fe1?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jun 24 |
 | **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Employee Experience Internship](https://jobright.ai/jobs/info/6a3c39488bfad862bc99998b?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 | **[LCI](http://www.lcindustries.com/)** | **[Community Outreach and Candidate Engagement Intern](https://jobright.ai/jobs/info/6a3bd213122f340d29ceb709?utm_campaign=1054&utm_source=git)** | Durham, North Carolina, United States | Remote | Jun 24 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c24f88bfad862bc99941e?utm_campaign=1054&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 24 |
 | **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c2225d261407de97fc84a?utm_campaign=1054&utm_source=git)** | McLean , VA | Hybrid | Jun 24 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources Business Partner / Coordinator (Fall 2026)](https://jobright.ai/jobs/info/6a04143622395b6dc6d9a18f?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 24 |
 | **[Pillar ABA LLC](https://pillaraba.org)** | **[Clinical Admin Intern](https://jobright.ai/jobs/info/6a3bfd67982bb239f812dd40?utm_campaign=1054&utm_source=git)** | Exton, PA | On Site | Jun 24 |
 | **[Goodwill of North Georgia](https://goodwillng.org)** | **[HR Intern](https://jobright.ai/jobs/info/6a3bf030122f340d29cebd61?utm_campaign=1054&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jun 24 |
 | **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f21fdc5277c00c6483ae1?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Jun 24 |
@@ -127,9 +127,9 @@ For a complete list, click the following sortable link below:
 | **[MarshBerry](http://marshberry.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a39635ff6b55d12c79279fc?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jun 22 |
 | **[US Anesthesia Partners](http://www.usap.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a394fd8214ae004c7a1dd8f?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Jun 22 |
 | **[Lakeshore Management](http://www.lakeshoremhc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a394bdb1232144fb156a5e4?utm_campaign=1054&utm_source=git)** | Colonial Village HR - ORLANDO, FL 32817 | On Site | Jun 22 |
-| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 22 |
+| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 22 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 22 |
 | ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce3619335383fb2e174?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Jun 22 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ce9619335383fb2e176?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 22 |
 | **[Restaurant Brands International](http://rbi.com/en)** | **[Curious About RBI’s Leadership Development Program? Let’s Chat Over Coffee!](https://jobright.ai/jobs/info/6a3940246484fb75f2b30518?utm_campaign=1054&utm_source=git)** | Corp - Miami Corporate Office, US | Remote | Jun 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6a2f8020b9f4dd0b4d51c834?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jun 22 |
 | **[Marand Builders, Inc.](https://www.marandbuilders.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2ae0709bf7365df089ae06?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jun 22 |
