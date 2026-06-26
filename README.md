@@ -145,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[BWXT](http://www.bwxt.com/)** | **[Human Resources Intern, NOG-B (Year-Round)](https://jobright.ai/jobs/info/6a39a1d4214ae004c7a1fc78?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Jun 22 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a39a1ca649fdf1629302167?utm_campaign=1054&utm_source=git)** | Salem, MA 01970, USA | On Site | Jun 22 |
 | **[CivicScience](http://civicscience.com)** | **[People Operations / Human Resources Intern](https://jobright.ai/jobs/info/69fe7ee17714cd50b91015ac?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 22 |
-| **[Phoenix International Holdings, Inc.](http://www.phnx-international.com)** | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c643?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD, US | On Site | Jun 22 |
-| ↳ | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c641?utm_campaign=1054&utm_source=git)** | Largo, MD, US | On Site | Jun 22 |
+| **[Phoenix International Holdings, Inc.](http://www.phnx-international.com)** | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c641?utm_campaign=1054&utm_source=git)** | Largo, MD, US | On Site | Jun 22 |
+| ↳ | **[HUMAN RESOURCES (HR) INTERN ENTRY LEVEL](https://jobright.ai/jobs/info/6a399d931232144fb156c643?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD, US | On Site | Jun 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Human Resources/Recruitment Intern - Fall 2026](https://jobright.ai/jobs/info/6a399d7df6b55d12c792935a?utm_campaign=1054&utm_source=git)** | Wake County, NC, US | Remote | Jun 22 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a29ab212cde2824469bdd85?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 22 |
 | **[J&G International Inc.](https://www.linkedin.com/company/108722076)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a39958a649fdf1629301b5e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 22 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf006a4fd4b1faba600?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cef06a4fd4b1faba5fc?utm_campaign=1054&utm_source=git)** | El Paso, Texas | Hybrid | Jun 22 |
 | **[EDSA, Inc.](http://www.edsaplan.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a28fabf1dbd8437bebce5a5?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 22 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jun 22 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
