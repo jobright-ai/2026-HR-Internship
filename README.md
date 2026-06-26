@@ -82,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3d6670122f340d29cf0598?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 25 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Administrative Support Intern (Unpaid Intern)](https://jobright.ai/jobs/info/6a3d3bb6122f340d29cef9e8?utm_campaign=1054&utm_source=git)** | Orange County, California, United States | On Site | Jun 25 |
 | **[Louisiana Blue](https://www.bcbsla.com/)** | **[CW Human Resources Compensation Analyst Intern](https://jobright.ai/jobs/info/6a3d3747d261407de97ff5fc?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, US | Hybrid | Jun 25 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at Arizona State University, Tempe Campus](https://jobright.ai/jobs/info/6a28e51dfd37e62bb47abb91?utm_campaign=1054&utm_source=git)** | Arizona, United States | On Site | Jun 25 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Jun 25 |
 | **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2a5bab495d985b99428a4f?utm_campaign=1054&utm_source=git)** | Lehi, UT | Remote | Jun 25 |
 | **[ASM](https://www.asm.com)** | **[Talent Insights Intern (Spring 2027)](https://jobright.ai/jobs/info/6a2158a3c00e701fe836e15d?utm_campaign=1054&utm_source=git)** | Greater Phoenix Area | On Site | Jun 25 |
@@ -108,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/69de506236823d1b42580534?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Merlin Entertainments](https://www.merlinentertainments.biz)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a341907649fdf16292f3f58?utm_campaign=1054&utm_source=git)** | Goshen, NY | On Site | Jun 24 |
 | **[Eulerity](https://www.eulerity.com)** | **[Recruitment Intern - AI & Automation](https://jobright.ai/jobs/info/6a3bac018bfad862bc997b93?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
-| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
+| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
 | **[CUPSHE](https://www.cupshe.com/)** | **[HR & Admin Intern](https://jobright.ai/jobs/info/6a3b7772dbedbf5680c73c03?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Jun 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Workforce Operations Intern (Time & Attendance)](https://jobright.ai/jobs/info/6a3b2667649fdf162930772a?utm_campaign=1054&utm_source=git)** | Tucson, AZ | Hybrid | Jun 23 |
 | **[PSECU](http://psecu.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3aee52dbedbf5680c71dbc?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, US | On Site | Jun 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cef06a4fd4b1faba5fc?utm_campaign=1054&utm_source=git)** | El Paso, Texas | Hybrid | Jun 22 |
 | **[EDSA, Inc.](http://www.edsaplan.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a28fabf1dbd8437bebce5a5?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 22 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jun 22 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
