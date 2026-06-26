@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cydecor, Inc.](http://www.cydecor.com)** | **[SkillBridge Military Internship – Talent Acquisition & Workforce Planning](https://jobright.ai/jobs/info/6a3daede122f340d29cf1c54?utm_campaign=1054&utm_source=git)** | Arlington, Virginia, VA | Hybrid | Jun 25 |
 | **[Atlantic Constructors, Inc.](https://acibuilds.com)** | **[Recruiting Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a3da89e8bfad862bc99e262?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jun 25 |
 | **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/6a3da400882f121f56a386ee?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | Remote | Jun 25 |
 | **[Private Company](https://www.linkedin.com/company/110382752)** | **[Full-Time Intern](https://jobright.ai/jobs/info/6a3da196d261407de98015fb?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jun 25 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/69de506236823d1b42580534?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Merlin Entertainments](https://www.merlinentertainments.biz)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a341907649fdf16292f3f58?utm_campaign=1054&utm_source=git)** | Goshen, NY | On Site | Jun 24 |
 | **[Eulerity](https://www.eulerity.com)** | **[Recruitment Intern - AI & Automation](https://jobright.ai/jobs/info/6a3bac018bfad862bc997b93?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
-| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
+| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
 | **[CUPSHE](https://www.cupshe.com/)** | **[HR & Admin Intern](https://jobright.ai/jobs/info/6a3b7772dbedbf5680c73c03?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Jun 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Workforce Operations Intern (Time & Attendance)](https://jobright.ai/jobs/info/6a3b2667649fdf162930772a?utm_campaign=1054&utm_source=git)** | Tucson, AZ | Hybrid | Jun 23 |
 | **[PSECU](http://psecu.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3aee52dbedbf5680c71dbc?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, US | On Site | Jun 23 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[DiligenceVault](http://www.diligencevault.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3a607c797099171917a12f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 23 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a399015649fdf162930197f?utm_campaign=1054&utm_source=git)** | Huntington, WV, US | On Site | Jun 23 |
 | **[Eulerity](https://www.eulerity.com)** | **[Recruitment Intern - AI & Automation](https://jobright.ai/jobs/info/6a39f81b214ae004c7a211ed?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Jun 22 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer College Intern](https://jobright.ai/jobs/info/6a3c99dd8bfad862bc99ae26?utm_campaign=1054&utm_source=git)** | MANHATTAN | On Site | Jun 22 |
-| ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/6a3c99de8bfad862bc99ae27?utm_campaign=1054&utm_source=git)** | 421 East 26th Street NY NY | On Site | Jun 22 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer College Intern](https://jobright.ai/jobs/info/6a3c99de8bfad862bc99ae27?utm_campaign=1054&utm_source=git)** | 421 East 26th Street NY NY | On Site | Jun 22 |
+| ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/6a3c99dd8bfad862bc99ae26?utm_campaign=1054&utm_source=git)** | MANHATTAN | On Site | Jun 22 |
 | **[Interac Corp.](http://www.interac.ca)** | **[People & Culture Intern, Talent Programs](https://jobright.ai/jobs/info/6a3986176484fb75f2b32346?utm_campaign=1054&utm_source=git)** | Toronto, Canada | Hybrid | Jun 22 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Human Resources/Recruitment Intern - Fall 2026](https://jobright.ai/jobs/info/6a39cfa5649fdf1629302f1e?utm_campaign=1054&utm_source=git)** | Wake County, NC | Remote | Jun 22 |
 | **[BWXT](http://www.bwxt.com/)** | **[Human Resources Intern, NOG-B (Year-Round)](https://jobright.ai/jobs/info/6a39bf086484fb75f2b33825?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Jun 22 |
@@ -148,8 +149,7 @@ For a complete list, click the following sortable link below:
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a29ab212cde2824469bdd85?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 22 |
 | **[J&G International Inc.](https://www.linkedin.com/company/108722076)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a39958a649fdf1629301b5e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 22 |
 | **[RTI International](http://www.rti.org)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a398c9a214ae004c7a1f3e9?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 22 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cfb06a4fd4b1faba60d?utm_campaign=1054&utm_source=git)** | Houston, Texas | Hybrid | Jun 22 |
-| ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf406a4fd4b1faba608?utm_campaign=1054&utm_source=git)** | Fort Worth, Texas | Hybrid | Jun 22 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf406a4fd4b1faba608?utm_campaign=1054&utm_source=git)** | Fort Worth, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf106a4fd4b1faba601?utm_campaign=1054&utm_source=git)** | Austin, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cf006a4fd4b1faba600?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Hybrid | Jun 22 |
 | ↳ | **[Enrollment Intern - (Immediate Opening)](https://jobright.ai/jobs/info/6a397cef06a4fd4b1faba5fc?utm_campaign=1054&utm_source=git)** | El Paso, Texas | Hybrid | Jun 22 |
