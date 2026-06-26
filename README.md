@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3e8fd578237a036d5e45c7?utm_campaign=1054&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a21db9dc00e701fe837148d?utm_campaign=1054&utm_source=git)** | AL, Birmingham, US | On Site | Jun 26 |
 | **[Festo](https://www.festo.com/us/en)** | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jun 26 |
 | **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3588247f3fdd180d4cdda6?utm_campaign=1054&utm_source=git)** | Redmond, WA | On Site | Jun 26 |
 | **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a228e8264b4892bbbfb5e43?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 26 |
@@ -135,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Administrative Assistant, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/6a3a94e8649fdf1629304a7a?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 23 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer College Intern](https://jobright.ai/jobs/info/6a3a87b606a4fd4b1fabdabf?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/6a3a87b31232144fb156ecd7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 23 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 23 |
-| ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde0b524ae49285a8163?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 23 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde0b524ae49285a8163?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jun 23 |
+| ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jun 23 |
 | **[DiligenceVault](http://www.diligencevault.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3a607c797099171917a12f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 23 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a399015649fdf162930197f?utm_campaign=1054&utm_source=git)** | Huntington, WV, US | On Site | Jun 23 |
 | **[Eulerity](https://www.eulerity.com)** | **[Recruitment Intern - AI & Automation](https://jobright.ai/jobs/info/6a39f81b214ae004c7a211ed?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Jun 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a29ab212cde2824469bdd85?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 22 |
 | **[J&G International Inc.](https://www.linkedin.com/company/108722076)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6a39958a649fdf1629301b5e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 22 |
 | **[RTI International](http://www.rti.org)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a398c9a214ae004c7a1f3e9?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 22 |
-| **[EDSA, Inc.](http://www.edsaplan.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/6a28fabf1dbd8437bebce5a5?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 22 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811a?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
