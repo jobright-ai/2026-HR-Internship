@@ -58,10 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Birmingham](https://jobright.ai/jobs/info/6a33ccfff6b55d12c7919b52?utm_campaign=1054&utm_source=git)** | Birmingham, AL 35209 | On Site | Jun 27 |
+| **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a23c60f757ade085b6af17d?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Jun 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/6a3ff7aad528ac2915f9623b?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Jun 27 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a2731d72056260dd6e85e78?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jun 27 |
 | **[NIL Academy](https://www.linkedin.com/company/109192007)** | **[Affiliate Recruitment Intern](https://jobright.ai/jobs/info/6a4007603bfa967791ebfd83?utm_campaign=1054&utm_source=git)** | Florida, United States | On Site | Jun 27 |
-| **[Zone 5 Technologies](https://www.zone5tech.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2bb63d2cde2824469c70ea?utm_campaign=1054&utm_source=git)** | San Luis Obispo, California | On Site | Jun 27 |
+| **[Zone 5 Technologies](https://www.zone5tech.com)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/6a314207c477a5075f48be57?utm_campaign=1054&utm_source=git)** | San Luis Obispo, CA | On Site | Jun 27 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2bb63d2cde2824469c70ea?utm_campaign=1054&utm_source=git)** | San Luis Obispo, California | On Site | Jun 27 |
 | **[Hut 8](https://hut8.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a236532d46c0f7996084b73?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 27 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - Volunteer Services](https://jobright.ai/jobs/info/6a3e01aa8bfad862bc99ef28?utm_campaign=1054&utm_source=git)** | St Paul, MN, US | On Site | Jun 26 |
 | **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3ef70fce7cce40b3422966?utm_campaign=1054&utm_source=git)** | South Carolina, United States | On Site | Jun 26 |
@@ -89,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a2c6e517cd40a338fae65e3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Volunteer Services Intern](https://jobright.ai/jobs/info/6a3e001f8bfad862bc99eec4?utm_campaign=1054&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Central Health](https://www.centralhealth.net/)** | **[People Department Intern](https://jobright.ai/jobs/info/6a3d9344882f121f56a382df?utm_campaign=1054&utm_source=git)** | Austin, TX, US | On Site | Jun 25 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Jun 25 |
-| ↳ | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a0aeef30411d7417a1abc7a?utm_campaign=1054&utm_source=git)** | METAMORA, OH, United States | On Site | Jun 25 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a0aeef30411d7417a1abc7a?utm_campaign=1054&utm_source=git)** | METAMORA, OH, United States | On Site | Jun 25 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Jun 25 |
 | **[Cydecor, Inc.](http://www.cydecor.com)** | **[SkillBridge Military Internship – Talent Acquisition & Workforce Planning](https://jobright.ai/jobs/info/6a3daede122f340d29cf1c54?utm_campaign=1054&utm_source=git)** | Arlington, Virginia, VA | Hybrid | Jun 25 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Jun 25 |
 | **[Cydecor, Inc.](http://www.cydecor.com)** | **[SkillBridge Military Internship - Talent Acquisition & Workforce with Security Clearance](https://jobright.ai/jobs/info/6a3e7bb2122f340d29cf35a9?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Jun 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Intern - Volunteer Services](https://jobright.ai/jobs/info/6a3abe5a1232144fb156fcf8?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, US | On Site | Jun 23 |
 | **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[People Experience Intern](https://jobright.ai/jobs/info/6a1dd8713e538a28c204c5c4?utm_campaign=1054&utm_source=git)** | US | Remote | Jun 23 |
 | **[InterContinental Chicago Magnificent Mile](https://www.icchicagohotel.com/)** | **[People & Culture Intern - InterContinental Boston](https://jobright.ai/jobs/info/6a3ab22b1232144fb156f811?utm_campaign=1054&utm_source=git)** | 510 Atlantic Ave, Boston, MA, 02210, US | On Site | Jun 23 |
-| **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[People & Culture Intern - InterContinental Boston](https://jobright.ai/jobs/info/6a3ab06106a4fd4b1fabe52e?utm_campaign=1054&utm_source=git)** | 510 Atlantic Ave, Boston, MA, 02210, US | On Site | Jun 23 |
-| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS, Moline Foster Care Multi-Disciplinary Team Assistant](https://jobright.ai/jobs/info/6a1dba673e538a28c204b72b?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
