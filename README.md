@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Jun 28 |
 | **[McKinney](http://mckinney.com)** | **[Talent Operations, Intern](https://jobright.ai/jobs/info/6a410e0916b1493953283d01?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Jun 28 |
 | ↳ | **[Talent Operations, Intern](https://jobright.ai/jobs/info/6a410e0816b1493953283d00?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Birmingham](https://jobright.ai/jobs/info/6a33ccfff6b55d12c7919b52?utm_campaign=1054&utm_source=git)** | Birmingham, AL 35209 | On Site | Jun 27 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/69de506236823d1b42580534?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Merlin Entertainments](https://www.merlinentertainments.biz)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a341907649fdf16292f3f58?utm_campaign=1054&utm_source=git)** | Goshen, NY | On Site | Jun 24 |
 | **[Eulerity](https://www.eulerity.com)** | **[Recruitment Intern - AI & Automation](https://jobright.ai/jobs/info/6a3bac018bfad862bc997b93?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
-| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
+| **[Xsolla](http://www.xsolla.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a14c890738a270c8bfa8ac1?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a024713df52f1450d849532?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Jun 24 |
 | **[CUPSHE](https://www.cupshe.com/)** | **[HR & Admin Intern](https://jobright.ai/jobs/info/6a3b7772dbedbf5680c73c03?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Jun 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Workforce Operations Intern (Time & Attendance)](https://jobright.ai/jobs/info/6a3b2667649fdf162930772a?utm_campaign=1054&utm_source=git)** | Tucson, AZ | Hybrid | Jun 23 |
 | **[PSECU](http://psecu.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3aee52dbedbf5680c71dbc?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, US | On Site | Jun 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3af6e4649fdf1629306aa2?utm_campaign=1054&utm_source=git)** | 2087 Williams Industrial Blvd, Rock Hill, SC29730 | On Site | Jun 23 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall People Operations Intern](https://jobright.ai/jobs/info/6a1d7dd66b135014dbc9660f?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jun 23 |
 | **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate - Internship](https://jobright.ai/jobs/info/6a3aa003797099171917ad8a?utm_campaign=1054&utm_source=git)** | Fort Myers, FL 33912, USA | On Site | Jun 23 |
-| **[Sapphire Stream Technology](https://www.sapphirestreamtech.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3b009c797099171917cc74?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
