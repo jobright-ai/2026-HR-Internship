@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinney](http://mckinney.com)** | **[Talent Operations, Intern](https://jobright.ai/jobs/info/6a410e0916b1493953283d01?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Jun 28 |
+| ↳ | **[Talent Operations, Intern](https://jobright.ai/jobs/info/6a410e0816b1493953283d00?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Birmingham](https://jobright.ai/jobs/info/6a33ccfff6b55d12c7919b52?utm_campaign=1054&utm_source=git)** | Birmingham, AL 35209 | On Site | Jun 27 |
 | **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a23c60f757ade085b6af17d?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Jun 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/6a3ff7aad528ac2915f9623b?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Jun 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall People Operations Intern](https://jobright.ai/jobs/info/6a1d7dd66b135014dbc9660f?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jun 23 |
 | **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate - Internship](https://jobright.ai/jobs/info/6a3aa003797099171917ad8a?utm_campaign=1054&utm_source=git)** | Fort Myers, FL 33912, USA | On Site | Jun 23 |
 | **[Sapphire Stream Technology](https://www.sapphirestreamtech.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3b009c797099171917cc74?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jun 23 |
-| **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Intern - Volunteer Services](https://jobright.ai/jobs/info/6a3abe5a1232144fb156fcf8?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, US | On Site | Jun 23 |
-| **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[People Experience Intern](https://jobright.ai/jobs/info/6a1dd8713e538a28c204c5c4?utm_campaign=1054&utm_source=git)** | US | Remote | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
