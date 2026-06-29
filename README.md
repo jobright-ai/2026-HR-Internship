@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Jun 28 |
+| **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69b43f8706c1ba00c54574b7?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
+| ↳ | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Jun 28 |
 | **[McKinney](http://mckinney.com)** | **[Talent Operations, Intern](https://jobright.ai/jobs/info/6a410e0916b1493953283d01?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Jun 28 |
 | ↳ | **[Talent Operations, Intern](https://jobright.ai/jobs/info/6a410e0816b1493953283d00?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/6a28fca21dbd8437bebce626?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jun 28 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Birmingham](https://jobright.ai/jobs/info/6a33ccfff6b55d12c7919b52?utm_campaign=1054&utm_source=git)** | Birmingham, AL 35209 | On Site | Jun 27 |
 | **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a23c60f757ade085b6af17d?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Jun 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/6a3ff7aad528ac2915f9623b?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Jun 27 |
@@ -67,7 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Zone 5 Technologies](https://www.zone5tech.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2bb63d2cde2824469c70ea?utm_campaign=1054&utm_source=git)** | San Luis Obispo, California | On Site | Jun 27 |
 | ↳ | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/6a314207c477a5075f48be57?utm_campaign=1054&utm_source=git)** | San Luis Obispo, CA | On Site | Jun 27 |
 | **[Hut 8](https://hut8.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a236532d46c0f7996084b73?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 27 |
+| **[The Branden Center](https://yipinstitute.org/branden-center)** | **[Corporate Intern (Human Resources, Marketing, Development, Technology)](https://jobright.ai/jobs/info/6a3f80734d047136e0939666?utm_campaign=1054&utm_source=git)** | Mount Prospect, IL | On Site | Jun 27 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - Volunteer Services](https://jobright.ai/jobs/info/6a3e01aa8bfad862bc99ef28?utm_campaign=1054&utm_source=git)** | St Paul, MN, US | On Site | Jun 26 |
+| **[Zipline](https://www.zipline.com/)** | **[People Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21b05bc00e701fe836ffb0?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Jun 26 |
 | **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3ef70fce7cce40b3422966?utm_campaign=1054&utm_source=git)** | South Carolina, United States | On Site | Jun 26 |
 | **[BeaconMedaes](http://www.beaconmedaes.com/)** | **[Human Resources Intern Job Details / our company](https://jobright.ai/jobs/info/6a3ee6bace7cce40b34225d4?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Jun 26 |
 | **[Allied Digestive Health](https://www.allieddigestivehealth.com)** | **[Intern](https://jobright.ai/jobs/info/6a3d67b78bfad862bc99ce34?utm_campaign=1054&utm_source=git)** | West Long Branch, NJ | On Site | Jun 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSECU](http://psecu.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3aee52dbedbf5680c71dbc?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, US | On Site | Jun 23 |
 | **[Fé. soul communication & research](http://www.fesoulconversation.be)** | **[Internship Interest](https://jobright.ai/jobs/info/6a3b03f906a4fd4b1fac0029?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Jun 23 |
 | **[PSA BDP](https://psabdp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3aca68dbedbf5680c71156?utm_campaign=1054&utm_source=git)** | Houston - Houston, TX 77032 US (Primary) | On Site | Jun 23 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3af6e4649fdf1629306aa2?utm_campaign=1054&utm_source=git)** | 2087 Williams Industrial Blvd, Rock Hill, SC29730 | On Site | Jun 23 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall People Operations Intern](https://jobright.ai/jobs/info/6a1d7dd66b135014dbc9660f?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jun 23 |
-| **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate - Internship](https://jobright.ai/jobs/info/6a3aa003797099171917ad8a?utm_campaign=1054&utm_source=git)** | Fort Myers, FL 33912, USA | On Site | Jun 23 |
-| **[Sapphire Stream Technology](https://www.sapphirestreamtech.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3b009c797099171917cc74?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
