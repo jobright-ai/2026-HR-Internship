@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Global Wellness Specialist Intern](https://jobright.ai/jobs/info/6a42de1d6a9c2774b3fa7ad3?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 29 |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Intern (Hybrid)](https://jobright.ai/jobs/info/6a42d86ea5e15b106837a6c6?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jun 29 |
+| ↳ | **[Intern (Remote)](https://jobright.ai/jobs/info/6a42d86c6c326942b4e8464c?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jun 29 |
 | **[RRD](https://www.rrd.com/)** | **[H0338 Intern](https://jobright.ai/jobs/info/6a42d2646faf756060968205?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Jun 29 |
 | **[Darling Ingredients](http://darlingii.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a42c4b36faf756060967ea3?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a2c6e517cd40a338fae65e3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LMCU](https://www.lmcu.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a3c7a3ed261407de97fdcd0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jun 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6a2f8020b9f4dd0b4d51c834?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jun 24 |
 | ↳ | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69fabc9018b94b2515bdc1a9?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 24 |
-| ↳ | **[HR Human Resources Intern](https://jobright.ai/jobs/info/6a29c7770c4972328e7e5afa?utm_campaign=1054&utm_source=git)** | San Antonio, TX, US | Hybrid | Jun 24 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Employee Experience & Talent Development Intern](https://jobright.ai/jobs/info/6a3d855dd261407de9800daa?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| **[Giant Noise](http://giantnoise.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a3c0605882f121f56a32fe1?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
