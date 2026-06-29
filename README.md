@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RRD](https://www.rrd.com/)** | **[Intern Operations/HR](https://jobright.ai/jobs/info/6a42b5556c326942b4e83d31?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Jun 29 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a2c6e517cd40a338fae65e3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
+| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a42b8bd6c326942b4e83e50?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
 | **[3 Brasseurs | 3 Brewers Canada](www.3brasseurs.ca)** | **[HR Intern](https://jobright.ai/jobs/info/6a429d0a1cc9cc2b12fec270?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Jun 29 |
 | **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jun 29 |
 | **[Flagship Facility Services, Inc.](https://flagshipinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4290d11cc9cc2b12febfa2?utm_campaign=1054&utm_source=git)** | Southlake, TX | On Site | Jun 29 |
@@ -65,9 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 29 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b776a9c2774b3fa5c6c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b75ff87fd527f983fd1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b606a9c2774b3fa5c62?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[Elevate Infrastructure](https://elevaterenewableenergy.com)** | **[Summer Intern - HR Operations](https://jobright.ai/jobs/info/6a4248666a9c2774b3fa5be7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 29 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/6a2e2d11d3ec94183f4c096f?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Jun 28 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Supervisor Trainee Internship Fall 2026](https://jobright.ai/jobs/info/6a2a6b17d3ec8317fe143940?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jun 28 |
@@ -111,11 +111,10 @@ For a complete list, click the following sortable link below:
 | **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a228e8264b4892bbbfb5e43?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 26 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Human Resources Internship - Early Careers](https://jobright.ai/jobs/info/6a3e480978237a036d5e3a9d?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jun 26 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a3e1e948bfad862bc99f1f1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 25 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a2c6e517cd40a338fae65e3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Volunteer Services Intern](https://jobright.ai/jobs/info/6a3e001f8bfad862bc99eec4?utm_campaign=1054&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Central Health](https://www.centralhealth.net/)** | **[People Department Intern](https://jobright.ai/jobs/info/6a3d9344882f121f56a382df?utm_campaign=1054&utm_source=git)** | Austin, TX, US | On Site | Jun 25 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Jun 25 |
-| ↳ | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a0aeef30411d7417a1abc7a?utm_campaign=1054&utm_source=git)** | METAMORA, OH, United States | On Site | Jun 25 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a0aeef30411d7417a1abc7a?utm_campaign=1054&utm_source=git)** | METAMORA, OH, United States | On Site | Jun 25 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Jun 25 |
 | **[Cydecor, Inc.](http://www.cydecor.com)** | **[SkillBridge Military Internship – Talent Acquisition & Workforce Planning](https://jobright.ai/jobs/info/6a3daede122f340d29cf1c54?utm_campaign=1054&utm_source=git)** | Arlington, Virginia, VA | Hybrid | Jun 25 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Jun 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/6a29f5fc0c4972328e7e6907?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Giant Noise](http://giantnoise.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a3c0605882f121f56a32fe1?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jun 24 |
 | **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Employee Experience Internship](https://jobright.ai/jobs/info/6a3c39488bfad862bc99998b?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Recruiting Intern - Corporate](https://jobright.ai/jobs/info/6a033ebaf3d6cc51d6374d6c?utm_campaign=1054&utm_source=git)** | Tippecanoe County, IN | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
