@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jun 29 |
+| **[Flagship Facility Services, Inc.](https://flagshipinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4290d11cc9cc2b12febfa2?utm_campaign=1054&utm_source=git)** | Southlake, TX | On Site | Jun 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Global Wellness Specialist Intern](https://jobright.ai/jobs/info/6a428eef1cc9cc2b12febf5f?utm_campaign=1054&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | Hybrid | Jun 29 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b776a9c2774b3fa5c6c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b75ff87fd527f983fd1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
+| ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b606a9c2774b3fa5c62?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[Elevate Infrastructure](https://elevaterenewableenergy.com)** | **[Summer Intern - HR Operations](https://jobright.ai/jobs/info/6a4248666a9c2774b3fa5be7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 29 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/6a2e2d11d3ec94183f4c096f?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Jun 28 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Supervisor Trainee Internship Fall 2026](https://jobright.ai/jobs/info/6a2a6b17d3ec8317fe143940?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jun 28 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69b43f8706c1ba00c54574b7?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
 | ↳ | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Jun 28 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2027](https://jobright.ai/jobs/info/6a079549939a5f01db951ecd?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jun 28 |
@@ -95,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[BeaconMedaes](http://www.beaconmedaes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3eada34d047136e09372e1?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Jun 26 |
 | **[True Health](https://mytruehealth.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3ea908122f340d29cf4055?utm_campaign=1054&utm_source=git)** | Sanford, FL, US | On Site | Jun 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern- Montpelier, VT](https://jobright.ai/jobs/info/6a22d9f7dedf78312c7aaf72?utm_campaign=1054&utm_source=git)** | Barre, VT | On Site | Jun 26 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a065779f3d6cc51d6392add?utm_campaign=1054&utm_source=git)** | Metamora, OH | On Site | Jun 26 |
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6a3e9b52122f340d29cf3c60?utm_campaign=1054&utm_source=git)** | Wilmington, MA | On Site | Jun 26 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Stage Coordonnateur.trice Talent et culture (H/F/D)](https://jobright.ai/jobs/info/6a06e8a5b897ee41d283136c?utm_campaign=1054&utm_source=git)** | Mont-Tremblant, Quebec, Canada | On Site | Jun 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a21db9dc00e701fe837148d?utm_campaign=1054&utm_source=git)** | AL, Birmingham, US | On Site | Jun 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Recruiting Intern - Corporate](https://jobright.ai/jobs/info/6a033ebaf3d6cc51d6374d6c?utm_campaign=1054&utm_source=git)** | Tippecanoe County, IN | On Site | Jun 24 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jun 24 |
 | **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c2225d261407de97fc84a?utm_campaign=1054&utm_source=git)** | McLean , VA | Hybrid | Jun 24 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources Business Partner / Coordinator (Fall 2026)](https://jobright.ai/jobs/info/6a04143622395b6dc6d9a18f?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 24 |
-| **[Republic Airways](http://www.rjet.com)** | **[LIFT Academy Admissions Intern - Fall 2026](https://jobright.ai/jobs/info/6a0395f8f3d6cc51d6378571?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 24 |
-| **[Pillar ABA LLC](https://pillaraba.org)** | **[Clinical Admin Intern](https://jobright.ai/jobs/info/6a3bfd67982bb239f812dd40?utm_campaign=1054&utm_source=git)** | Exton, PA | On Site | Jun 24 |
-| **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f21fdc5277c00c6483ae1?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
