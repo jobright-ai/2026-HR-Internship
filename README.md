@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eulerity](https://www.eulerity.com)** | **[Technical Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a42ec1d6a9c2774b3fa7d83?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 29 |
+| **[RRD](https://www.rrd.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a42ea206faf756060968799?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Jun 29 |
+| **[Eulerity](https://www.eulerity.com)** | **[Technical Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a42dfe31cc9cc2b12fed312?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Jun 29 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Campus Recruiting](https://jobright.ai/jobs/info/6a42de8f1cc9cc2b12fed2dd?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jun 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Global Wellness Specialist Intern](https://jobright.ai/jobs/info/6a42de1d6a9c2774b3fa7ad3?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 29 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Intern (Hybrid)](https://jobright.ai/jobs/info/6a42d86ea5e15b106837a6c6?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jun 29 |
 | ↳ | **[Intern (Remote)](https://jobright.ai/jobs/info/6a42d86c6c326942b4e8464c?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jun 29 |
-| **[RRD](https://www.rrd.com/)** | **[H0338 Intern](https://jobright.ai/jobs/info/6a42d2646faf756060968205?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Jun 29 |
+| **[XtalPi Inc.](http://www.xtalpi.com/)** | **[HR Intern (Talent Acquisition Focus)](https://jobright.ai/jobs/info/6a42eb436c326942b4e84a2c?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jun 29 |
 | **[Darling Ingredients](http://darlingii.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a42c4b36faf756060967ea3?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a2c6e517cd40a338fae65e3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a42b8bd6c326942b4e83e50?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
@@ -126,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/6a29f5fc0c4972328e7e6907?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 25 |
 | **[Atlantic Constructors, Inc.](https://acibuilds.com)** | **[Recruiting Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a3da89e8bfad862bc99e262?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jun 25 |
 | **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/6a3da400882f121f56a386ee?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | Remote | Jun 25 |
-| **[Private Company](https://www.linkedin.com/company/110382752)** | **[Full-Time Intern](https://jobright.ai/jobs/info/6a3da196d261407de98015fb?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jun 25 |
 | **[HSAD North America](http://hsadusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d9e784d047136e0934709?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Jun 25 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Resume Specialist (Intern) - PLV Campus](https://jobright.ai/jobs/info/6a3d9674122f340d29cf1667?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jun 25 |
 | **[True Health](https://mytruehealth.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d9565882f121f56a383b0?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jun 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/69d20367cfdc6132f9448445?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jun 25 |
 | **[Private Company](https://www.linkedin.com/company/110382752)** | **[Full-Time Intern](https://jobright.ai/jobs/info/6a4247a8557b3862f15e0b43?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | On Site | Jun 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/69d3196c0b098b7a6708bd11?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jun 25 |
-| **[LMCU](https://www.lmcu.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a3c7a3ed261407de97fdcd0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jun 25 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6a2f8020b9f4dd0b4d51c834?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jun 24 |
-| ↳ | **[Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/69fabc9018b94b2515bdc1a9?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
