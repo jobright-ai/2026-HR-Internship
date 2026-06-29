@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[3 Brasseurs | 3 Brewers Canada](www.3brasseurs.ca)** | **[HR Intern](https://jobright.ai/jobs/info/6a429d0a1cc9cc2b12fec270?utm_campaign=1054&utm_source=git)** | Montreal, QC | On Site | Jun 29 |
 | **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jun 29 |
 | **[Flagship Facility Services, Inc.](https://flagshipinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4290d11cc9cc2b12febfa2?utm_campaign=1054&utm_source=git)** | Southlake, TX | On Site | Jun 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Global Wellness Specialist Intern](https://jobright.ai/jobs/info/6a428eef1cc9cc2b12febf5f?utm_campaign=1054&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | Hybrid | Jun 29 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b776a9c2774b3fa5c6c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b75ff87fd527f983fd1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b606a9c2774b3fa5c62?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[Elevate Infrastructure](https://elevaterenewableenergy.com)** | **[Summer Intern - HR Operations](https://jobright.ai/jobs/info/6a4248666a9c2774b3fa5be7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Employee Experience Internship](https://jobright.ai/jobs/info/6a3c39488bfad862bc99998b?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Recruiting Intern - Corporate](https://jobright.ai/jobs/info/6a033ebaf3d6cc51d6374d6c?utm_campaign=1054&utm_source=git)** | Tippecanoe County, IN | On Site | Jun 24 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jun 24 |
-| **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c2225d261407de97fc84a?utm_campaign=1054&utm_source=git)** | McLean , VA | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
