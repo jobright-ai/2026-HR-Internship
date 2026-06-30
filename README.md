@@ -84,9 +84,10 @@ For a complete list, click the following sortable link below:
 | **[Flagship Facility Services, Inc.](https://flagshipinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4290d11cc9cc2b12febfa2?utm_campaign=1054&utm_source=git)** | Southlake, TX | On Site | Jun 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Global Wellness Specialist Intern](https://jobright.ai/jobs/info/6a428eef1cc9cc2b12febf5f?utm_campaign=1054&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | Hybrid | Jun 29 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 29 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6a4376a0c8bca56ab2247c7a?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jun 29 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b776a9c2774b3fa5c6c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b75ff87fd527f983fd1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | **[Elevate Infrastructure](https://elevaterenewableenergy.com)** | **[Summer Intern - HR Operations](https://jobright.ai/jobs/info/6a4248666a9c2774b3fa5be7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 29 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/6a2e2d11d3ec94183f4c096f?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Jun 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a3d79c9122f340d29cf0c1e?utm_campaign=1054&utm_source=git)** | Forest City, NC 28043, USA | Hybrid | Jun 25 |
 | **[KLS Martin Group](https://www.klsmartin.com/de/)** | **[Human Resources Intern (34581)](https://jobright.ai/jobs/info/6a3d775c882f121f56a379ed?utm_campaign=1054&utm_source=git)** | Corporate Office - Jacksonville, FL 32246 | On Site | Jun 25 |
 | **[StackAdapt](https://www.stackadapt.com)** | **[People Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3d6d558bfad862bc99d011?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jun 25 |
-| ↳ | **[People Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3d6670122f340d29cf0598?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
