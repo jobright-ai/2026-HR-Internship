@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at Arizona State University, Tempe Campus](https://jobright.ai/jobs/info/6a444013b156014e414bc035?utm_campaign=1054&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | Hybrid | Jun 30 |
+| **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3588247f3fdd180d4cdda6?utm_campaign=1054&utm_source=git)** | Redmond, WA | On Site | Jun 30 |
+| **[BestDrive by Continental](https://www.linkedin.com/company/104946179)** | **[BestDrive Recruiting Intern](https://jobright.ai/jobs/info/6a4436a157ffc22029406b96?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Jun 30 |
 | **[Safe Harbor](https://www.safeharborsc.org)** | **[Volunteer Engagement Intern (Fall 2026-Unpaid)](https://jobright.ai/jobs/info/6a44296265e80d3c99f2bdab?utm_campaign=1054&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jun 30 |
 | **[Pieper Electric, Inc.](http://pieperpower.com)** | **[Internship](https://jobright.ai/jobs/info/6a4427ceef17a815538a3310?utm_campaign=1054&utm_source=git)** | 5477 South Westridge Court, New Berlin, WI,53151 | On Site | Jun 30 |
 | **[Youth Crisis Center](https://youthcrisiscenter.org)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6a442720b156014e414bbad1?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, US | On Site | Jun 30 |
@@ -110,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 29 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b776a9c2774b3fa5c6c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | **[Elevate Infrastructure](https://elevaterenewableenergy.com)** | **[Summer Intern - HR Operations](https://jobright.ai/jobs/info/6a4248666a9c2774b3fa5be7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 29 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/6a2e2d11d3ec94183f4c096f?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Jun 28 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Supervisor Trainee Internship Fall 2026](https://jobright.ai/jobs/info/6a2a6b17d3ec8317fe143940?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jun 28 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Stage Coordonnateur.trice Talent et culture (H/F/D)](https://jobright.ai/jobs/info/6a06e8a5b897ee41d283136c?utm_campaign=1054&utm_source=git)** | Mont-Tremblant, Quebec, Canada | On Site | Jun 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a21db9dc00e701fe837148d?utm_campaign=1054&utm_source=git)** | AL, Birmingham, US | On Site | Jun 26 |
 | **[Festo](https://www.festo.com/us/en)** | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jun 26 |
-| **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3588247f3fdd180d4cdda6?utm_campaign=1054&utm_source=git)** | Redmond, WA | On Site | Jun 26 |
 | **[Sungrow](https://sungrowpower.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a228e8264b4892bbbfb5e43?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 26 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Human Resources Internship - Early Careers](https://jobright.ai/jobs/info/6a3e480978237a036d5e3a9d?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jun 26 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a3e1e948bfad862bc99f1f1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 25 |
-| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Volunteer Services Intern](https://jobright.ai/jobs/info/6a3e001f8bfad862bc99eec4?utm_campaign=1054&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
