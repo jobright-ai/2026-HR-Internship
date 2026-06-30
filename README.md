@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[HR Intern (Hybrid 32 hours/week M-Th; In-Office M-W)](https://jobright.ai/jobs/info/6a2749ccca77fd3096d269bc?utm_campaign=1054&utm_source=git)** | Livonia, MI | Hybrid | Jun 30 |
+| **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Resume Specialist (Intern) - NYC campus](https://jobright.ai/jobs/info/6a43d9ba65e80d3c99f29d9c?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jun 30 |
+| **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - Facilities Corporate Internship Program](https://jobright.ai/jobs/info/6a43d271b156014e414b8f64?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 30 |
+| **[IKO North America](https://www.iko.com)** | **[HR/Safety Intern](https://jobright.ai/jobs/info/6a273ec712f0202342263986?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, US | On Site | Jun 30 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a43bc0c65e80d3c99f28ca8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 30 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jun 30 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jun 30 |
@@ -89,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 29 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b776a9c2774b3fa5c6c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b75ff87fd527f983fd1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | **[Elevate Infrastructure](https://elevaterenewableenergy.com)** | **[Summer Intern - HR Operations](https://jobright.ai/jobs/info/6a4248666a9c2774b3fa5be7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 29 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/6a2e2d11d3ec94183f4c096f?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Jun 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Constellium](http://constellium.com)** | **[EHSS Intern](https://jobright.ai/jobs/info/6a3d8b944d047136e09341e5?utm_campaign=1054&utm_source=git)** | Bowling Green Metro | On Site | Jun 25 |
 | **[BWXT](http://www.bwxt.com/)** | **[Human Resources Intern - One Year Term (Year-Round)](https://jobright.ai/jobs/info/6a39bf086484fb75f2b33825?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Jun 25 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, Organizational Development](https://jobright.ai/jobs/info/6a3d7fc74d047136e0933e06?utm_campaign=1054&utm_source=git)** | Secaucus, NJ | Hybrid | Jun 25 |
-| **[Bci Miami](https://www.bcimiami.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d7d74882f121f56a37be7?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jun 25 |
-| **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Hickory NC](https://jobright.ai/jobs/info/6a3d79ce4d047136e0933c74?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jun 25 |
-| ↳ | **[Case Manager Intern/Asheville NC](https://jobright.ai/jobs/info/6a3d79ca78237a036d5e18a6?utm_campaign=1054&utm_source=git)** | Asheville, NC 28801, USA | Hybrid | Jun 25 |
-| ↳ | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a3d79c9122f340d29cf0c1e?utm_campaign=1054&utm_source=git)** | Forest City, NC 28043, USA | Hybrid | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
