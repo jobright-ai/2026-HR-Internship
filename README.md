@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44008c0153061b8b3dee25?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 30 |
-| **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture](https://jobright.ai/jobs/info/6a43f7a665e80d3c99f2b13f?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jun 30 |
+| **[Inspirato](http://www.inspirato.com)** | **[Intern, Human Resources (Office Administration)](https://jobright.ai/jobs/info/6a44132357ffc220294062f7?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 30 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a4412420153061b8b3df2b6?utm_campaign=1054&utm_source=git)** | 180 W Brooks, NORMAN, OK, 73019, US | On Site | Jun 30 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a441204b156014e414bb58f?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 30 |
+| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid)](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ | On Site | Jun 30 |
+| **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44089aef17a815538a2a4d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA 19103, USA | On Site | Jun 30 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44008c0153061b8b3dee25?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 30 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a43f13357ffc22029405aef?utm_campaign=1054&utm_source=git)** | Altamonte Springs,FL,US | On Site | Jun 30 |
+| **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture](https://jobright.ai/jobs/info/6a43f7a665e80d3c99f2b13f?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jun 30 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a43f1320153061b8b3deaeb?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 30 |
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture (Career Compass & Talent Ecosystem)](https://jobright.ai/jobs/info/6a396bcc6484fb75f2b31743?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jun 30 |
 | **[Pure Earth](https://www.pureearth.org/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a43eb7665e80d3c99f2adc8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 30 |
@@ -70,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a43bc0c65e80d3c99f28ca8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jun 30 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jun 30 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jun 30 |
-| **[Target](https://www.target.com)** | **[Current Interns Only-ETL R100 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742c8bca56ab224698c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jun 29 |
-| ↳ | **[Current Interns Only-ETL R200 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742cbf92c7bcd36f099?utm_campaign=1054&utm_source=git)** | Dublin, CA | On Site | Jun 29 |
+| **[Target](https://www.target.com)** | **[Current Interns Only-ETL R200 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742cbf92c7bcd36f099?utm_campaign=1054&utm_source=git)** | Dublin, CA | On Site | Jun 29 |
+| ↳ | **[Current Interns Only-ETL R100 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742c8bca56ab224698c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jun 29 |
 | ↳ | **[Current Interns Only-ETL R400 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433740e09ecb49596436b4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[goodr](https://goodr.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a4308b36c326942b4e84fda?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[Target](https://www.target.com)** | **[Current Interns Only-ETL R300 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433709501d340b4a82e8f4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
@@ -99,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 29 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b776a9c2774b3fa5c6c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b75ff87fd527f983fd1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | **[Elevate Infrastructure](https://elevaterenewableenergy.com)** | **[Summer Intern - HR Operations](https://jobright.ai/jobs/info/6a4248666a9c2774b3fa5be7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 29 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/6a2e2d11d3ec94183f4c096f?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Jun 28 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Supervisor Trainee Internship Fall 2026](https://jobright.ai/jobs/info/6a2a6b17d3ec8317fe143940?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jun 28 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a3e1e948bfad862bc99f1f1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 25 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Volunteer Services Intern](https://jobright.ai/jobs/info/6a3e001f8bfad862bc99eec4?utm_campaign=1054&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Central Health](https://www.centralhealth.net/)** | **[People Department Intern](https://jobright.ai/jobs/info/6a3d9344882f121f56a382df?utm_campaign=1054&utm_source=git)** | Austin, TX, US | On Site | Jun 25 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Jun 25 |
-| ↳ | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a0aeef30411d7417a1abc7a?utm_campaign=1054&utm_source=git)** | METAMORA, OH, United States | On Site | Jun 25 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a0aeef30411d7417a1abc7a?utm_campaign=1054&utm_source=git)** | METAMORA, OH, United States | On Site | Jun 25 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Jun 25 |
 | **[Cydecor, Inc.](http://www.cydecor.com)** | **[SkillBridge Military Internship – Talent Acquisition & Workforce Planning](https://jobright.ai/jobs/info/6a3daede122f340d29cf1c54?utm_campaign=1054&utm_source=git)** | Arlington, Virginia, VA | Hybrid | Jun 25 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Jun 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/6a29f5fc0c4972328e7e6907?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 25 |
-| **[Atlantic Constructors, Inc.](https://acibuilds.com)** | **[Recruiting Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a3da89e8bfad862bc99e262?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jun 25 |
-| **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/6a3da400882f121f56a386ee?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States | Remote | Jun 25 |
-| **[HSAD North America](http://hsadusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d9e784d047136e0934709?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Jun 25 |
-| **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Resume Specialist (Intern) - PLV Campus](https://jobright.ai/jobs/info/6a3d9674122f340d29cf1667?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jun 25 |
-| **[Constellium](http://constellium.com)** | **[EHSS Intern](https://jobright.ai/jobs/info/6a3d9479122f340d29cf15a6?utm_campaign=1054&utm_source=git)** | Bowling Green | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
