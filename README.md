@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RRD](https://www.rrd.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a42f7d1ff87fd527f9863f6?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Jun 29 |
 | **[Eulerity](https://www.eulerity.com)** | **[Technical Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a42ec1d6a9c2774b3fa7d83?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 29 |
 | **[RRD](https://www.rrd.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a42ea206faf756060968799?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Jun 29 |
 | **[Eulerity](https://www.eulerity.com)** | **[Technical Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a42dfe31cc9cc2b12fed312?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Jun 29 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a3e1e948bfad862bc99f1f1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 25 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Volunteer Services Intern](https://jobright.ai/jobs/info/6a3e001f8bfad862bc99eec4?utm_campaign=1054&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Central Health](https://www.centralhealth.net/)** | **[People Department Intern](https://jobright.ai/jobs/info/6a3d9344882f121f56a382df?utm_campaign=1054&utm_source=git)** | Austin, TX, US | On Site | Jun 25 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a0aeef30411d7417a1abc7a?utm_campaign=1054&utm_source=git)** | METAMORA, OH, United States | On Site | Jun 25 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Jun 25 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Jun 25 |
+| ↳ | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a0aeef30411d7417a1abc7a?utm_campaign=1054&utm_source=git)** | METAMORA, OH, United States | On Site | Jun 25 |
 | **[Cydecor, Inc.](http://www.cydecor.com)** | **[SkillBridge Military Internship – Talent Acquisition & Workforce Planning](https://jobright.ai/jobs/info/6a3daede122f340d29cf1c54?utm_campaign=1054&utm_source=git)** | Arlington, Virginia, VA | Hybrid | Jun 25 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Jun 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Denver)](https://jobright.ai/jobs/info/6a29f5fc0c4972328e7e6907?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/6a331ea8f6b55d12c7917ddd?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jun 25 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/69d20367cfdc6132f9448445?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jun 25 |
 | **[Private Company](https://www.linkedin.com/company/110382752)** | **[Full-Time Intern](https://jobright.ai/jobs/info/6a4247a8557b3862f15e0b43?utm_campaign=1054&utm_source=git)** | Arlington, VA, US | On Site | Jun 25 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/69d3196c0b098b7a6708bd11?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
