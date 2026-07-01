@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hengst Filtration | North America](https://www.hengst.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a458c7648d2f00f2a86dedd?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jul 01 |
 | **[Frontier Airlines](http://www.flyfrontier.com)** | **[2026 Summer Intern, Human Resources (Talent Acquisition)](https://jobright.ai/jobs/info/6a457b0d4f64ba41dcb4d83d?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 01 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Talent Acquisition Intern ( For Academic Credit)](https://jobright.ai/jobs/info/6a457b9e48d2f00f2a86db90?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 01 |
 | **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4572a148d2f00f2a86d980?utm_campaign=1054&utm_source=git)** | New York City Hybrid - 4 days per week in office | Hybrid | Jul 01 |
@@ -134,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 29 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b776a9c2774b3fa5c6c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b75ff87fd527f983fd1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b606a9c2774b3fa5c62?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[Elevate Infrastructure](https://elevaterenewableenergy.com)** | **[Summer Intern - HR Operations](https://jobright.ai/jobs/info/6a4248666a9c2774b3fa5be7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hut 8](https://hut8.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a236532d46c0f7996084b73?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 27 |
 | **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69efe30c58811370cb149251?utm_campaign=1054&utm_source=git)** | Princeton, NJ | On Site | Jun 27 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - Volunteer Services](https://jobright.ai/jobs/info/6a3e01aa8bfad862bc99ef28?utm_campaign=1054&utm_source=git)** | St Paul, MN, US | On Site | Jun 26 |
-| **[Zipline](https://www.zipline.com/)** | **[People Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21b05bc00e701fe836ffb0?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
