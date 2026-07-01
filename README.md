@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[CHAGEE USA](https://www.chagee.us/)** | **[HR Intern](https://jobright.ai/jobs/info/6a0ba54222d0d34036c8e844?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Jun 30 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jun 30 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jun 30 |
-| **[Target](https://www.target.com)** | **[Current Interns Only-ETL R200 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742cbf92c7bcd36f099?utm_campaign=1054&utm_source=git)** | Dublin, CA | On Site | Jun 29 |
-| ↳ | **[Current Interns Only-ETL R100 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742c8bca56ab224698c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jun 29 |
+| **[Target](https://www.target.com)** | **[Current Interns Only-ETL R100 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742c8bca56ab224698c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jun 29 |
+| ↳ | **[Current Interns Only-ETL R200 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742cbf92c7bcd36f099?utm_campaign=1054&utm_source=git)** | Dublin, CA | On Site | Jun 29 |
 | ↳ | **[Current Interns Only-ETL R400 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433740e09ecb49596436b4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[goodr](https://goodr.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a4308b36c326942b4e84fda?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[Target](https://www.target.com)** | **[Current Interns Only-ETL R300 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433709501d340b4a82e8f4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
