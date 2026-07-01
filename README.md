@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Birmingham](https://jobright.ai/jobs/info/6a44b7a7105260150b72272d?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Jun 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Talent Intern](https://jobright.ai/jobs/info/6a4449bb0153061b8b3e0053?utm_campaign=1054&utm_source=git)** | 3201 N Garden Dr, Lehi, UT, 84048, US | On Site | Jun 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Talent Intern](https://jobright.ai/jobs/info/6a4481e265e80d3c99f2cc57?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 30 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Learning & Development Intern – 8-12 months](https://jobright.ai/jobs/info/6a44b67db156014e414bcfb3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 30 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2027 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/6a4479ea105260150b72200b?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Jun 30 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Economic Empowerment – Refugee Services Intern](https://jobright.ai/jobs/info/6a4477d9b156014e414bc8bb?utm_campaign=1054&utm_source=git)** | Bridgeport, CT | Hybrid | Jun 30 |
 | **[Pieper Electric, Inc.](http://pieperpower.com)** | **[Internship](https://jobright.ai/jobs/info/6a4427ceef17a815538a3310?utm_campaign=1054&utm_source=git)** | 5477 South Westridge Court, New Berlin, WI,53151 | On Site | Jun 30 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 29 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b776a9c2774b3fa5c6c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b75ff87fd527f983fd1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
+| ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | **[Elevate Infrastructure](https://elevaterenewableenergy.com)** | **[Summer Intern - HR Operations](https://jobright.ai/jobs/info/6a4248666a9c2774b3fa5be7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 29 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/6a2e2d11d3ec94183f4c096f?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Jun 28 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Supervisor Trainee Internship Fall 2026](https://jobright.ai/jobs/info/6a2a6b17d3ec8317fe143940?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jun 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/6a22d7ea4239a4353887cd88?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Jun 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a21d768338c012305120f7b?utm_campaign=1054&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jun 26 |
 | **[Start Corporation](www.startcorp.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3eaee0d261407de9804154?utm_campaign=1054&utm_source=git)** | Houma, LA | On Site | Jun 26 |
-| **[BeaconMedaes](http://www.beaconmedaes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3eada34d047136e09372e1?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Jun 26 |
-| **[True Health](https://mytruehealth.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3ea908122f340d29cf4055?utm_campaign=1054&utm_source=git)** | Sanford, FL, US | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
