@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a45cf904f64ba41dcb4e517?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Jul 01 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/6a45cb8b0dd56c76cc2f4512?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jul 01 |
 | **[TRDI Incorporated](https://trdi.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6a4595d948d2f00f2a86e0ce?utm_campaign=1054&utm_source=git)** | San Antonio, Texas, United States | On Site | Jul 01 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[HRO-2026-1i – Human Resources Intern](https://jobright.ai/jobs/info/6a4594fbc2d11a6a46669a3b?utm_campaign=1054&utm_source=git)** | Trenton, NJ | On Site | Jul 01 |
@@ -141,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa3b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 29 |
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources - Systems Intern](https://jobright.ai/jobs/info/69b42f013b74eb1e2c8147d8?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b776a9c2774b3fa5c6c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b75ff87fd527f983fd1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Recruiter Internship](https://jobright.ai/jobs/info/6a424b75557b3862f15e0c05?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b606a9c2774b3fa5c62?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[Elevate Infrastructure](https://elevaterenewableenergy.com)** | **[Summer Intern - HR Operations](https://jobright.ai/jobs/info/6a4248666a9c2774b3fa5be7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Birmingham](https://jobright.ai/jobs/info/6a33ccfff6b55d12c7919b52?utm_campaign=1054&utm_source=git)** | Birmingham, AL 35209 | On Site | Jun 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/6a06164af3d6cc51d638ee95?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Jun 27 |
 | **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a23c60f757ade085b6af17d?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Jun 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/6a3ff7aad528ac2915f9623b?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
