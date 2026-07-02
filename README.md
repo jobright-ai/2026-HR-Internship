@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Manager Intern (unpaid)](https://jobright.ai/jobs/info/6a46c0238204a812e98c9c2d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 02 |
+| **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Talent Acquisition Marketing Intern](https://jobright.ai/jobs/info/6a46bcce971cd25b06f8ffba?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, US | On Site | Jul 02 |
+| **[Continental](http://www.benecke-kaliko.com)** | **[Intern - BestDrive Recruiting, Year-Round](https://jobright.ai/jobs/info/6a46ba440dd56c76cc2faa7b?utm_campaign=1054&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Jul 02 |
 | **[Plains](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46b251971cd25b06f8fcf7?utm_campaign=1054&utm_source=git)** | Calgary, AB, CA | On Site | Jul 02 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Intern](https://jobright.ai/jobs/info/6a2a1953c07d4b6ae1c43dcc?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Jul 02 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 02 |
@@ -84,10 +87,10 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a45f8f80dd56c76cc2f578c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jul 01 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/6a45cb8b0dd56c76cc2f4512?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jul 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a43b1510ad88b0a1a9993a6?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | Jul 01 |
+| **[LMCU](https://www.lmcu.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a3c7a3ed261407de97fdcd0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jul 01 |
 | **[TRDI Incorporated](https://trdi.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6a4595d948d2f00f2a86e0ce?utm_campaign=1054&utm_source=git)** | San Antonio, Texas, United States | On Site | Jul 01 |
 | **[LMCU](https://www.lmcu.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a46258107627158752a072b?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, US | On Site | Jul 01 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[HRO-2026-1i – Human Resources Intern](https://jobright.ai/jobs/info/6a4594fbc2d11a6a46669a3b?utm_campaign=1054&utm_source=git)** | Trenton, NJ | On Site | Jul 01 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Intern - Unpaid Internship](https://jobright.ai/jobs/info/6a45913b3dbab558e29a1a9e?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 01 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Talent Acquisition Internship ( For Academic Credit)](https://jobright.ai/jobs/info/6a457b9e48d2f00f2a86db90?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 01 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Performance Enablement Intern](https://jobright.ai/jobs/info/6a456afa4f64ba41dcb4d51a?utm_campaign=1054&utm_source=git)** | US - CO, Westminster | On Site | Jul 01 |
 | **[Hengst Filtration | North America](https://www.hengst.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a458c7648d2f00f2a86dedd?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jul 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6a2d7e0a7cd40a338fae8e0c?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Jun 29 |
 | **[RRD](https://www.rrd.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a42f7d1ff87fd527f9863f6?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Jun 29 |
 | **[Eulerity](https://www.eulerity.com)** | **[Technical Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a42ec1d6a9c2774b3fa7d83?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 29 |
-| **[RRD](https://www.rrd.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a42ea206faf756060968799?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Jun 29 |
-| **[Eulerity](https://www.eulerity.com)** | **[Technical Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a42dfe31cc9cc2b12fed312?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Jun 29 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Campus Recruiting](https://jobright.ai/jobs/info/6a42de8f1cc9cc2b12fed2dd?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
