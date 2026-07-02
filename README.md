@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plains](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46b251971cd25b06f8fcf7?utm_campaign=1054&utm_source=git)** | Calgary, AB, CA | On Site | Jul 02 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Intern](https://jobright.ai/jobs/info/6a2a1953c07d4b6ae1c43dcc?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Jul 02 |
-| **[Plains](https://www.plains.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a46a906971cd25b06f8fa0e?utm_campaign=1054&utm_source=git)** | Calgary, AB, CA | On Site | Jul 02 |
-| **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6a469948c2d11a6a4666fc71?utm_campaign=1054&utm_source=git)** | Depew, NY, US | On Site | Jul 02 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 02 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 02 |
+| **[Applied Innovation](https://www.appliedinnovation.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46b2428204a812e98c991f?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jul 02 |
 | **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdb2f963f7a67d95dc4bc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a2126aa338c01230511d2e7?utm_campaign=1054&utm_source=git)** | Southlake,TX,US | Hybrid | Jul 02 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Finance & Timekeeping Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69d73129e63cea7a8b66ebe5?utm_campaign=1054&utm_source=git)** | Staten Island, NY | On Site | Jul 02 |
@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/6a45cb8b0dd56c76cc2f4512?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jul 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a43b1510ad88b0a1a9993a6?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | Jul 01 |
 | **[TRDI Incorporated](https://trdi.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6a4595d948d2f00f2a86e0ce?utm_campaign=1054&utm_source=git)** | San Antonio, Texas, United States | On Site | Jul 01 |
+| **[LMCU](https://www.lmcu.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a46258107627158752a072b?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, US | On Site | Jul 01 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[HRO-2026-1i – Human Resources Intern](https://jobright.ai/jobs/info/6a4594fbc2d11a6a46669a3b?utm_campaign=1054&utm_source=git)** | Trenton, NJ | On Site | Jul 01 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Intern - Unpaid Internship](https://jobright.ai/jobs/info/6a45913b3dbab558e29a1a9e?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 01 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Talent Acquisition Internship ( For Academic Credit)](https://jobright.ai/jobs/info/6a457b9e48d2f00f2a86db90?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RRD](https://www.rrd.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a42ea206faf756060968799?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Jun 29 |
 | **[Eulerity](https://www.eulerity.com)** | **[Technical Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a42dfe31cc9cc2b12fed312?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Jun 29 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - Campus Recruiting](https://jobright.ai/jobs/info/6a42de8f1cc9cc2b12fed2dd?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jun 29 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Global Wellness Specialist Intern](https://jobright.ai/jobs/info/6a42de1d6a9c2774b3fa7ad3?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
