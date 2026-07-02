@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shimmick Corporation](http://www.shimmick.com)** | **[Intern](https://jobright.ai/jobs/info/6a2a1953c07d4b6ae1c43dcc?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Jul 02 |
+| **[Plains](https://www.plains.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a46a906971cd25b06f8fa0e?utm_campaign=1054&utm_source=git)** | Calgary, AB, CA | On Site | Jul 02 |
+| **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6a469948c2d11a6a4666fc71?utm_campaign=1054&utm_source=git)** | Depew, NY, US | On Site | Jul 02 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 02 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 02 |
 | **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdb2f963f7a67d95dc4bc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a2126aa338c01230511d2e7?utm_campaign=1054&utm_source=git)** | Southlake,TX,US | Hybrid | Jul 02 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Finance & Timekeeping Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69d73129e63cea7a8b66ebe5?utm_campaign=1054&utm_source=git)** | Staten Island, NY | On Site | Jul 02 |
 | **[Granite Partners](http://Granite.com)** | **[HR AI & Data Analytics Intern](https://jobright.ai/jobs/info/6a2bb0b3c07d4b6ae1c4b29d?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Jul 02 |
 | **[UPS](https://about.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d45dc2e63cea7a8b6591c4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 02 |
 | ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | Remote | Jul 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eulerity](https://www.eulerity.com)** | **[Technical Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a42dfe31cc9cc2b12fed312?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Jun 29 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - Campus Recruiting](https://jobright.ai/jobs/info/6a42de8f1cc9cc2b12fed2dd?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jun 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Global Wellness Specialist Intern](https://jobright.ai/jobs/info/6a42de1d6a9c2774b3fa7ad3?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 29 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Intern (Hybrid)](https://jobright.ai/jobs/info/6a42d86ea5e15b106837a6c6?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jun 29 |
-| ↳ | **[Intern (Remote)](https://jobright.ai/jobs/info/6a42d86c6c326942b4e8464c?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jun 29 |
-| **[XtalPi Inc.](http://www.xtalpi.com/)** | **[HR Intern (Talent Acquisition Focus)](https://jobright.ai/jobs/info/6a42eb436c326942b4e84a2c?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jun 29 |
-| **[Darling Ingredients](http://darlingii.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a42c4b36faf756060967ea3?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
