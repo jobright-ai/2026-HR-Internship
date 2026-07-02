@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a2126aa338c01230511d2e7?utm_campaign=1054&utm_source=git)** | Southlake,TX,US | Hybrid | Jul 01 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting, Vehicle Software (Fall 2026)](https://jobright.ai/jobs/info/6a45fe1e076271587529f3f0?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Jul 01 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a45f8f80dd56c76cc2f578c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jul 01 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/6a45cb8b0dd56c76cc2f4512?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jul 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McKinney](http://mckinney.com)** | **[Talent Operations, Intern](https://jobright.ai/jobs/info/6a410e0916b1493953283d01?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Jun 28 |
 | ↳ | **[Talent Operations, Intern](https://jobright.ai/jobs/info/6a410e0816b1493953283d00?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/6a28fca21dbd8437bebce626?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jun 28 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Birmingham](https://jobright.ai/jobs/info/6a33ccfff6b55d12c7919b52?utm_campaign=1054&utm_source=git)** | Birmingham, AL 35209 | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
