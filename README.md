@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/6a4429340153061b8b3df92d?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Jun 30 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a44613a0153061b8b3e03e7?utm_campaign=1054&utm_source=git)** | Norman, OK | On Site | Jun 30 |
 | **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44089aef17a815538a2a4d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA 19103, USA | On Site | Jun 30 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44008c0153061b8b3dee25?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 30 |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Intern, Distribution Center Recruiting (Part-Time) - 2026](https://jobright.ai/jobs/info/6a46162b971cd25b06f8b1ec?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, United States of America | On Site | Jun 30 |
+| **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44008c0153061b8b3dee25?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 30 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a43f13357ffc22029405aef?utm_campaign=1054&utm_source=git)** | Altamonte Springs,FL,US | On Site | Jun 30 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a43f1320153061b8b3deaeb?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 30 |
-| **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture (Career Compass & Talent Ecosystem)](https://jobright.ai/jobs/info/6a396bcc6484fb75f2b31743?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
