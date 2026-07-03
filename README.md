@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://upstateinsurance.com)** | **[Human Resources Leadership Development Program (HRLDP) Internship - Summer 2027](https://jobright.ai/jobs/info/6a47350bc2d11a6a46671c87?utm_campaign=1054&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 02 |
 | **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a4412edef17a815538a2d70?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 02 |
 | **[Unigen Corporation](https://www.unigen.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a470be53dbab558e29a9975?utm_campaign=1054&utm_source=git)** | Newark, CA, US | On Site | Jul 02 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Forest City NC](https://jobright.ai/jobs/info/6a47083cc2d11a6a4667161f?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jul 02 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46d33c0dd56c76cc2fb160?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 02 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[HRIS Fellow](https://jobright.ai/jobs/info/6a46cd548204a812e98c9fcd?utm_campaign=1054&utm_source=git)** | Godley, TX | Remote | Jul 02 |
 | **[City of Georgetown](https://www.georgetowntexas.gov)** | **[Organizational Development Intern (Fall, 2026)](https://jobright.ai/jobs/info/6a46c9e14f64ba41dcb54d85?utm_campaign=1054&utm_source=git)** | City Hall, US | On Site | Jul 02 |
+| **[BestDrive by Continental](https://www.linkedin.com/company/104946179)** | **[Intern - BestDrive Recruiting, Year-Round](https://jobright.ai/jobs/info/6a4736d94f64ba41dcb5644e?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Jul 02 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Manager Intern (unpaid)](https://jobright.ai/jobs/info/6a46c0238204a812e98c9c2d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 02 |
 | **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Talent Acquisition Marketing Intern](https://jobright.ai/jobs/info/6a46bcce971cd25b06f8ffba?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, US | On Site | Jul 02 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[Intern - BestDrive Recruiting, Year-Round](https://jobright.ai/jobs/info/6a46ba440dd56c76cc2faa7b?utm_campaign=1054&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Jul 02 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Jul 02 |
 | **[Bosch](http://www.bosch.com)** | **[Sr. HR Service Intern (July 2026/Year Round)](https://jobright.ai/jobs/info/6a466703971cd25b06f8e8e3?utm_campaign=1054&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | On Site | Jul 02 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 02 |
-| **[Precision Castparts](https://www.pccenergy.com/)** | **[Human Resources Co-Op - Spring 2027](https://jobright.ai/jobs/info/6a471ebd8204a812e98cb036?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jul 02 |
 | **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a29fb6c495d985b99426b1f?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jul 02 |
 | **[Brkthru](https://brkthru.com)** | **[Organizational Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a46508b971cd25b06f8d3ef?utm_campaign=1054&utm_source=git)** | Remote, Michigan | Remote | Jul 02 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a464d288204a812e98c705d?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid, US | Remote | Jul 02 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jun 30 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jun 30 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Intern, Distribution Center Recruiting (Part-Time) - 2026](https://jobright.ai/jobs/info/6a46162b971cd25b06f8b1ec?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, US | On Site | Jun 30 |
-| **[Target](https://www.target.com)** | **[Current Interns Only-ETL R200 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742cbf92c7bcd36f099?utm_campaign=1054&utm_source=git)** | Dublin, CA | On Site | Jun 29 |
-| ↳ | **[Current Interns Only-ETL R100 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742c8bca56ab224698c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jun 29 |
+| **[Target](https://www.target.com)** | **[Current Interns Only-ETL R100 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742c8bca56ab224698c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
