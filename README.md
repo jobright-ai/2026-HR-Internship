@@ -124,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Performance Enablement Intern](https://jobright.ai/jobs/info/6a456afa4f64ba41dcb4d51a?utm_campaign=1054&utm_source=git)** | US - CO, Westminster | On Site | Jul 01 |
 | **[Hengst Filtration | North America](https://www.hengst.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a458c7648d2f00f2a86dedd?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jul 01 |
 | **[Frontier Airlines](http://www.flyfrontier.com)** | **[2026 Summer Intern, Human Resources (Talent Acquisition)](https://jobright.ai/jobs/info/6a457b0d4f64ba41dcb4d83d?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 01 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Internship](https://jobright.ai/jobs/info/6a45a4a43dbab558e29a1e1a?utm_campaign=1054&utm_source=git)** | Marina del Rey, CA | Remote | Jul 01 |
 | **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4572a148d2f00f2a86d980?utm_campaign=1054&utm_source=git)** | New York City Hybrid - 4 days per week in office | Hybrid | Jul 01 |
 | **[Bonnell Aluminum](https://bonnellaluminum.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a45697a0dd56c76cc2f359a?utm_campaign=1054&utm_source=git)** | Elkhart, IN, United States | On Site | Jul 01 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a2c6e517cd40a338fae65e3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jul 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/6a4429340153061b8b3df92d?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Jun 30 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a44613a0153061b8b3e03e7?utm_campaign=1054&utm_source=git)** | Norman, OK | On Site | Jun 30 |
 | **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44089aef17a815538a2a4d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA 19103, USA | On Site | Jun 30 |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Intern, Distribution Center Recruiting (Part-Time) - 2026](https://jobright.ai/jobs/info/6a46162b971cd25b06f8b1ec?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, United States of America | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
