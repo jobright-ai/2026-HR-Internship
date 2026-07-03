@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 03 |
 | **[HII](https://hii.com)** | **[FOREMAN SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b1785d7b097d2df384a5?utm_campaign=1054&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | **[Conscious Modeling and Talent Agency](https://www.linkedin.com/company/109865184)** | **[Motivated Assistant for Social Media Talent Scout Internship](https://jobright.ai/jobs/info/6a47afc13dbab558e29ab031?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | Remote | Jul 03 |
 | **[UPS](https://sustainability.ups.com/the-ups-foundation/)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | Remote | Jul 03 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[PACCAR](http://www.paccar.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4781504f64ba41dcb56f63?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US | On Site | Jul 03 |
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[Human Resource Grad Intern](https://jobright.ai/jobs/info/69dd5a3261f6ed54321fcf47?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Jul 03 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a47754d3dbab558e29aa8cf?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 03 |
+| **[TRDI](https://trdi.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6a47d3563dbab558e29ab40e?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jul 02 |
 | **[SpaceX](https://www.spacex.com)** | **[Recruiting Coordinator, Intern Program- Temporary](https://jobright.ai/jobs/info/6a4751b4971cd25b06f91bb3?utm_campaign=1054&utm_source=git)** | Hawthorne, CA | On Site | Jul 02 |
 | **[AMOREPACIFIC](https://ventures.amorepacific.com/index.do)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a475137c2d11a6a46672108?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
 | **[Travelers](https://upstateinsurance.com)** | **[Human Resources Leadership Development Program (HRLDP) Internship - Summer 2027](https://jobright.ai/jobs/info/6a47350bc2d11a6a46671c87?utm_campaign=1054&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 02 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Talent Acquisition Marketing Intern](https://jobright.ai/jobs/info/6a46bcce971cd25b06f8ffba?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, US | On Site | Jul 02 |
 | **[Continental](http://www.continentaltire.com)** | **[Intern - BestDrive Recruiting, Year-Round](https://jobright.ai/jobs/info/6a46ba440dd56c76cc2faa7b?utm_campaign=1054&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Jul 02 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Intern](https://jobright.ai/jobs/info/6a2a1953c07d4b6ae1c43dcc?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Jul 02 |
-| **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 02 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b751cc9cc2b12feb5cc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 02 |
 | **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdb2f963f7a67d95dc4bc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Sapphire Stream Technology](https://www.sapphirestreamtech.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3b009c797099171917cc74?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jul 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a43f1320153061b8b3deaeb?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 30 |
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture (Career Compass & Talent Ecosystem)](https://jobright.ai/jobs/info/6a396bcc6484fb75f2b31743?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jun 30 |
 | **[Pure Earth](https://www.pureearth.org/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a43eb7665e80d3c99f2adc8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 30 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Exam Development Unit, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0ba53b22d0d34036c8e840?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
