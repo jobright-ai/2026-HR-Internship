@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University Co-op](https://www.universitycoop.com/)** | **[People Experience Intern](https://jobright.ai/jobs/info/6a3576af649fdf16292f91a3?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jul 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a480019971cd25b06f93470?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Jul 03 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 03 |
 | **[HII](https://hii.com)** | **[FOREMAN SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b1785d7b097d2df384a5?utm_campaign=1054&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | **[Conscious Modeling and Talent Agency](https://www.linkedin.com/company/109865184)** | **[Motivated Assistant for Social Media Talent Scout Internship](https://jobright.ai/jobs/info/6a47afc13dbab558e29ab031?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | Remote | Jul 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44089aef17a815538a2a4d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA 19103, USA | On Site | Jun 30 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Intern, Distribution Center Recruiting (Part-Time) - 2026](https://jobright.ai/jobs/info/6a46162b971cd25b06f8b1ec?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, United States of America | On Site | Jun 30 |
 | **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44008c0153061b8b3dee25?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 30 |
-| **[Everstory Partners](http://www.everstorypartners.com)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a43f13357ffc22029405aef?utm_campaign=1054&utm_source=git)** | Altamonte Springs,FL,US | On Site | Jun 30 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a43f1320153061b8b3deaeb?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
