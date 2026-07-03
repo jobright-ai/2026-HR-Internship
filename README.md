@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a4412edef17a815538a2d70?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 02 |
 | **[Unigen Corporation](https://www.unigen.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a470be53dbab558e29a9975?utm_campaign=1054&utm_source=git)** | Newark, CA, US | On Site | Jul 02 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Forest City NC](https://jobright.ai/jobs/info/6a47083cc2d11a6a4667161f?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jul 02 |
-| **[Baker Group](http://thebakergroup.com)** | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a4706ecc2d11a6a466715e3?utm_campaign=1054&utm_source=git)** | Ankeny, IA | On Site | Jul 02 |
-| ↳ | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a46ff5f3dbab558e29a9750?utm_campaign=1054&utm_source=git)** | Des Moines Metro | On Site | Jul 02 |
+| **[Baker Group](http://thebakergroup.com)** | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a46ff5f3dbab558e29a9750?utm_campaign=1054&utm_source=git)** | Des Moines Metro | On Site | Jul 02 |
 | **[Cohen Veterans Network](https://www.cohenveteransnetwork.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a469e768204a812e98c93d8?utm_campaign=1054&utm_source=git)** | Stamford, Connecticut, United States | Remote | Jul 02 |
+| **[Baker Group](http://thebakergroup.com)** | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a4706ecc2d11a6a466715e3?utm_campaign=1054&utm_source=git)** | Ankeny, IA | On Site | Jul 02 |
 | **[Accelint](https://accelint.com)** | **[Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/6a46e654c2d11a6a46670f57?utm_campaign=1054&utm_source=git)** | Saint Paul, MN | On Site | Jul 02 |
 | **[Plains](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46d7ab971cd25b06f906f0?utm_campaign=1054&utm_source=git)** | Calgary, AB, CA | On Site | Jul 02 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46d33c0dd56c76cc2fb160?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 02 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Jul 02 |
 | **[Bosch](http://www.bosch.com)** | **[Sr. HR Service Intern (July 2026/Year Round)](https://jobright.ai/jobs/info/6a466703971cd25b06f8e8e3?utm_campaign=1054&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | On Site | Jul 02 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 02 |
+| **[Precision Castparts](https://www.pccenergy.com/)** | **[Human Resources Co-Op - Spring 2027](https://jobright.ai/jobs/info/6a471ebd8204a812e98cb036?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jul 02 |
 | **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a29fb6c495d985b99426b1f?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jul 02 |
 | **[Brkthru](https://brkthru.com)** | **[Organizational Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a46508b971cd25b06f8d3ef?utm_campaign=1054&utm_source=git)** | Remote, Michigan | Remote | Jul 02 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a464d288204a812e98c705d?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid, US | Remote | Jul 02 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jun 30 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jun 30 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Intern, Distribution Center Recruiting (Part-Time) - 2026](https://jobright.ai/jobs/info/6a46162b971cd25b06f8b1ec?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, US | On Site | Jun 30 |
-| **[Target](https://www.target.com)** | **[Current Interns Only-ETL R100 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742c8bca56ab224698c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jun 29 |
-| ↳ | **[Current Interns Only-ETL R200 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742cbf92c7bcd36f099?utm_campaign=1054&utm_source=git)** | Dublin, CA | On Site | Jun 29 |
-| ↳ | **[Current Interns Only-ETL R400 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433740e09ecb49596436b4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| **[goodr](https://goodr.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a4308b36c326942b4e84fda?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
+| **[Target](https://www.target.com)** | **[Current Interns Only-ETL R200 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742cbf92c7bcd36f099?utm_campaign=1054&utm_source=git)** | Dublin, CA | On Site | Jun 29 |
+| ↳ | **[Current Interns Only-ETL R100 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742c8bca56ab224698c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
