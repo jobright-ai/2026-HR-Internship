@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Group](http://thebakergroup.com)** | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a46ff5f3dbab558e29a9750?utm_campaign=1054&utm_source=git)** | Des Moines Metro | On Site | Jul 02 |
 | **[Accelint](https://accelint.com)** | **[Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/6a46e654c2d11a6a46670f57?utm_campaign=1054&utm_source=git)** | Saint Paul, MN | On Site | Jul 02 |
 | **[Plains](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46d7ab971cd25b06f906f0?utm_campaign=1054&utm_source=git)** | Calgary, AB, CA | On Site | Jul 02 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46d33c0dd56c76cc2fb160?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 02 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jun 30 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jun 30 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Intern, Distribution Center Recruiting (Part-Time) - 2026](https://jobright.ai/jobs/info/6a46162b971cd25b06f8b1ec?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, US | On Site | Jun 30 |
-| **[Target](https://www.target.com)** | **[Current Interns Only-ETL R100 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742c8bca56ab224698c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jun 29 |
-| ↳ | **[Current Interns Only-ETL R200 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742cbf92c7bcd36f099?utm_campaign=1054&utm_source=git)** | Dublin, CA | On Site | Jun 29 |
+| **[Target](https://www.target.com)** | **[Current Interns Only-ETL R200 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742cbf92c7bcd36f099?utm_campaign=1054&utm_source=git)** | Dublin, CA | On Site | Jun 29 |
+| ↳ | **[Current Interns Only-ETL R100 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742c8bca56ab224698c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jun 29 |
 | ↳ | **[Current Interns Only-ETL R400 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433740e09ecb49596436b4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[goodr](https://goodr.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a4308b36c326942b4e84fda?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[Target](https://www.target.com)** | **[Current Interns Only-ETL R300 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433709501d340b4a82e8f4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Global Wellness Specialist Intern](https://jobright.ai/jobs/info/6a428eef1cc9cc2b12febf5f?utm_campaign=1054&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | Hybrid | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a432f67e09ecb49596429ef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Human Resource Intern (St. Louis, MO)](https://jobright.ai/jobs/info/6a434b72b0f2553559ecfb19?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jun 29 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Recruiter Internship](https://jobright.ai/jobs/info/6a432f31cbf92c7bcd36e4f1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
