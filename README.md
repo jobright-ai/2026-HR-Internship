@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SpaceX](https://www.spacex.com)** | **[Recruiting Coordinator, Intern Program- Temporary](https://jobright.ai/jobs/info/6a4751b4971cd25b06f91bb3?utm_campaign=1054&utm_source=git)** | Hawthorne, CA | On Site | Jul 02 |
+| **[AMOREPACIFIC](https://ventures.amorepacific.com/index.do)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a475137c2d11a6a46672108?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
 | **[Travelers](https://upstateinsurance.com)** | **[Human Resources Leadership Development Program (HRLDP) Internship - Summer 2027](https://jobright.ai/jobs/info/6a47350bc2d11a6a46671c87?utm_campaign=1054&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 02 |
 | **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a4412edef17a815538a2d70?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 02 |
 | **[Unigen Corporation](https://www.unigen.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a470be53dbab558e29a9975?utm_campaign=1054&utm_source=git)** | Newark, CA, US | On Site | Jul 02 |
@@ -131,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Pieper Electric, Inc.](http://pieperpower.com)** | **[Internship](https://jobright.ai/jobs/info/6a4427ceef17a815538a3310?utm_campaign=1054&utm_source=git)** | 5477 South Westridge Court, New Berlin, WI,53151 | On Site | Jun 30 |
 | **[IQVIA](https://www.iqvia.com)** | **[Intern, Advisory Services](https://jobright.ai/jobs/info/6a44709cb156014e414bc807?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 30 |
 | **[Inspirato](http://www.inspirato.com)** | **[Intern, Human Resources (Office Administration)](https://jobright.ai/jobs/info/6a44132357ffc220294062f7?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 30 |
-| **[BestDrive by Continental](https://www.linkedin.com/company/104946179)** | **[BestDrive Recruiting Intern](https://jobright.ai/jobs/info/6a4436a157ffc22029406b96?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Jun 30 |
 | **[Safe Harbor](https://www.safeharborsc.org)** | **[Volunteer Engagement Intern (Fall 2026-Unpaid)](https://jobright.ai/jobs/info/6a44296265e80d3c99f2bdab?utm_campaign=1054&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jun 30 |
 | **[Youth Crisis Center](https://youthcrisiscenter.org)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6a442720b156014e414bbad1?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, US | On Site | Jun 30 |
 | **[RONA](http://www.rona.ca/en)** | **[Internship, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a44266e65e80d3c99f2bc90?utm_campaign=1054&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Jun 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jun 30 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jun 30 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Intern, Distribution Center Recruiting (Part-Time) - 2026](https://jobright.ai/jobs/info/6a46162b971cd25b06f8b1ec?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, US | On Site | Jun 30 |
-| **[Target](https://www.target.com)** | **[Current Interns Only-ETL R100 Summer 2026 Intern Posting](https://jobright.ai/jobs/info/6a433742c8bca56ab224698c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
