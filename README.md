@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[Human Resource Grad Intern](https://jobright.ai/jobs/info/69dd5a3261f6ed54321fcf47?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Jul 03 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a47754d3dbab558e29aa8cf?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 03 |
 | **[SpaceX](https://www.spacex.com)** | **[Recruiting Coordinator, Intern Program- Temporary](https://jobright.ai/jobs/info/6a4751b4971cd25b06f91bb3?utm_campaign=1054&utm_source=git)** | Hawthorne, CA | On Site | Jul 02 |
 | **[AMOREPACIFIC](https://ventures.amorepacific.com/index.do)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a475137c2d11a6a46672108?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
 | **[Travelers](https://upstateinsurance.com)** | **[Human Resources Leadership Development Program (HRLDP) Internship - Summer 2027](https://jobright.ai/jobs/info/6a47350bc2d11a6a46671c87?utm_campaign=1054&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 02 |
 | **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a4412edef17a815538a2d70?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 02 |
+| **[Travis County](https://www.traviscountytx.gov)** | **[Administrative Student Intern (Voter Registration)](https://jobright.ai/jobs/info/6a44214e105260150b720e1e?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Jul 02 |
 | **[Unigen Corporation](https://www.unigen.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a470be53dbab558e29a9975?utm_campaign=1054&utm_source=git)** | Newark, CA, US | On Site | Jul 02 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Forest City NC](https://jobright.ai/jobs/info/6a47083cc2d11a6a4667161f?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jul 02 |
 | **[Baker Group](http://thebakergroup.com)** | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a46ff5f3dbab558e29a9750?utm_campaign=1054&utm_source=git)** | Des Moines Metro | On Site | Jul 02 |
@@ -136,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Safe Harbor](https://www.safeharborsc.org)** | **[Volunteer Engagement Intern (Fall 2026-Unpaid)](https://jobright.ai/jobs/info/6a44296265e80d3c99f2bdab?utm_campaign=1054&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jun 30 |
 | **[Youth Crisis Center](https://youthcrisiscenter.org)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6a442720b156014e414bbad1?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, US | On Site | Jun 30 |
 | **[RONA](http://www.rona.ca/en)** | **[Internship, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a44266e65e80d3c99f2bc90?utm_campaign=1054&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Jun 30 |
-| **[Travis County](https://www.traviscountytx.gov)** | **[Administrative Student Intern (Voter Registration)](https://jobright.ai/jobs/info/6a44214e105260150b720e1e?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Jun 30 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[BestDrive Recruiting Intern](https://jobright.ai/jobs/info/6a441661ef17a815538a2e4c?utm_campaign=1054&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | On Site | Jun 30 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a4412420153061b8b3df2b6?utm_campaign=1054&utm_source=git)** | 180 W Brooks, NORMAN, OK, 73019, US | On Site | Jun 30 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a441204b156014e414bb58f?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IKO North America](https://www.iko.com)** | **[HR/Safety Intern](https://jobright.ai/jobs/info/6a273ec712f0202342263986?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, US | On Site | Jun 30 |
 | **[CHAGEE USA](https://www.chagee.us/)** | **[HR Intern](https://jobright.ai/jobs/info/6a0ba54222d0d34036c8e844?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Jun 30 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jun 30 |
-| **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jun 30 |
-| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Intern, Distribution Center Recruiting (Part-Time) - 2026](https://jobright.ai/jobs/info/6a46162b971cd25b06f8b1ec?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, US | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
