@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a4870ab4f64ba41dcb58f66?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Jul 03 |
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Volunteer Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a4325bb3a9004648946ad83?utm_campaign=1054&utm_source=git)** | Dallas, Texas | On Site | Jul 03 |
 | **[Austin Pets Alive!](http://www.austinpetsalive.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a339742ce501060b5cedbb0?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jul 03 |
 | **[Geotab](http://www.geotab.com/)** | **[Campus Talent Acquisition Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a4815bd5d7b097d2df39331?utm_campaign=1054&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jul 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a441204b156014e414bb58f?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 30 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid)](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ | On Site | Jun 30 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/6a4429340153061b8b3df92d?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Jun 30 |
-| **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a44613a0153061b8b3e03e7?utm_campaign=1054&utm_source=git)** | Norman, OK | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
