@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Corporate Insurance, Fire Protection & Safety Risk Programs Job Details / SRP](https://jobright.ai/jobs/info/6a4938735d7b097d2df3ae1f?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 04 |
 | **[LUNARTECH](https://lunartech.ai)** | **[Recruiter & Talent Operations Internship](https://jobright.ai/jobs/info/6a491ddbc2d11a6a46675503?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 04 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29ad0ab4ec4779fffa028?utm_campaign=1054&utm_source=git)** | Arden, NC | On Site | Jul 04 |
+| **[GenScript](http://www.genscript.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a2c67a4f1751b183c818501?utm_campaign=1054&utm_source=git)** | Piscataway, New Jersey, United States | On Site | Jul 04 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fafdf619335383fb2ea55?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Jul 04 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f2793c8d8d624381aa0f3d?utm_campaign=1054&utm_source=git)** | Arden - North Carolina - USA, US | On Site | Jul 04 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f529910b36ff0354750cf5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jul 04 |
@@ -122,8 +124,7 @@ For a complete list, click the following sortable link below:
 | **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a29fb6c495d985b99426b1f?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jul 02 |
 | **[Brkthru](https://brkthru.com)** | **[Organizational Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a46508b971cd25b06f8d3ef?utm_campaign=1054&utm_source=git)** | Remote, Michigan | Remote | Jul 02 |
 | **[Electric Machinery Company - WEG Group](http://www.electricmachinery.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a464085971cd25b06f8cf76?utm_campaign=1054&utm_source=git)** | Minneapolis,MN,US | On Site | Jul 02 |
-| **[Compassus](https://www.compassus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a0c3f2322d0d34036c92302?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Jul 02 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2141dcc00e701fe836dbc2?utm_campaign=1054&utm_source=git)** | Brentwood, TN, US | On Site | Jul 02 |
+| **[Compassus](https://www.compassus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2141dcc00e701fe836dbc2?utm_campaign=1054&utm_source=git)** | Brentwood, TN, US | On Site | Jul 02 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2027 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/6a46348b3dbab558e29a5492?utm_campaign=1054&utm_source=git)** | Peoria, Illinois, US | On Site | Jul 02 |
 | **[City of Georgetown](https://www.georgetowntexas.gov)** | **[Organizational Development Intern (Fall, 2026)](https://jobright.ai/jobs/info/6a46c9e14f64ba41dcb54d85?utm_campaign=1054&utm_source=git)** | City Hall, United States of America | On Site | Jul 02 |
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture](https://jobright.ai/jobs/info/6a43f7a665e80d3c99f2b13f?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jul 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Talent Intern](https://jobright.ai/jobs/info/6a4481e265e80d3c99f2cc57?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 30 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Learning & Development Intern – 8-12 months](https://jobright.ai/jobs/info/6a44b67db156014e414bcfb3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 30 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Economic Empowerment – Refugee Services Intern](https://jobright.ai/jobs/info/6a4477d9b156014e414bc8bb?utm_campaign=1054&utm_source=git)** | Bridgeport, CT | Hybrid | Jun 30 |
-| **[Pieper Electric, Inc.](http://pieperpower.com)** | **[Internship](https://jobright.ai/jobs/info/6a4427ceef17a815538a3310?utm_campaign=1054&utm_source=git)** | 5477 South Westridge Court, New Berlin, WI,53151 | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
