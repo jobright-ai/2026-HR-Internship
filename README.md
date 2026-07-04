@@ -118,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture](https://jobright.ai/jobs/info/6a43f7a665e80d3c99f2b13f?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jul 02 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a46283e3dbab558e29a4be5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 02 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting, Vehicle Software (Fall 2026)](https://jobright.ai/jobs/info/6a45fe1e076271587529f3f0?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Jul 01 |
+| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 01 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/6a45cb8b0dd56c76cc2f4512?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jul 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a43b1510ad88b0a1a9993a6?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | Jul 01 |
 | **[LMCU](https://www.lmcu.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a3c7a3ed261407de97fdcd0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jul 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a4412420153061b8b3df2b6?utm_campaign=1054&utm_source=git)** | 180 W Brooks, NORMAN, OK, 73019, US | On Site | Jun 30 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a441204b156014e414bb58f?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 30 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid)](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ | On Site | Jun 30 |
-| **[Day & Zimmermann](http://dayzim.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/6a4429340153061b8b3df92d?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
