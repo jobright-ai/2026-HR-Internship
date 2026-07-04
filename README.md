@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture](https://jobright.ai/jobs/info/6a43f7a665e80d3c99f2b13f?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jul 02 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a46283e3dbab558e29a4be5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 02 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting, Vehicle Software (Fall 2026)](https://jobright.ai/jobs/info/6a45fe1e076271587529f3f0?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Jul 01 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a45f8f80dd56c76cc2f578c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Jul 01 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/6a45cb8b0dd56c76cc2f4512?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jul 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a43b1510ad88b0a1a9993a6?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | Jul 01 |
 | **[LMCU](https://www.lmcu.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a3c7a3ed261407de97fdcd0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jul 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a44613a0153061b8b3e03e7?utm_campaign=1054&utm_source=git)** | Norman, OK | On Site | Jun 30 |
 | **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44089aef17a815538a2a4d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA 19103, USA | On Site | Jun 30 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Intern, Distribution Center Recruiting (Part-Time) - 2026](https://jobright.ai/jobs/info/6a46162b971cd25b06f8b1ec?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, United States of America | On Site | Jun 30 |
+| **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44008c0153061b8b3dee25?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
