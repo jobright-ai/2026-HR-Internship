@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin Pets Alive!](http://www.austinpetsalive.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a339742ce501060b5cedbb0?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jul 03 |
 | **[Geotab](http://www.geotab.com/)** | **[Campus Talent Acquisition Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a4815bd5d7b097d2df39331?utm_campaign=1054&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jul 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a21db9dc00e701fe837148d?utm_campaign=1054&utm_source=git)** | AL, Birmingham, US | On Site | Jul 03 |
 | **[University Co-op](https://www.universitycoop.com/)** | **[People Experience Intern](https://jobright.ai/jobs/info/6a3576af649fdf16292f91a3?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jul 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a44613a0153061b8b3e03e7?utm_campaign=1054&utm_source=git)** | Norman, OK | On Site | Jun 30 |
 | **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44089aef17a815538a2a4d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA 19103, USA | On Site | Jun 30 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Intern, Distribution Center Recruiting (Part-Time) - 2026](https://jobright.ai/jobs/info/6a46162b971cd25b06f8b1ec?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, United States of America | On Site | Jun 30 |
-| **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44008c0153061b8b3dee25?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
