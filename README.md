@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DSPolitical](https://www.dspolitical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a365f9a29c90c607e4e4a9c?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jul 03 |
+| **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a2126aa338c01230511d2e7?utm_campaign=1054&utm_source=git)** | Southlake,TX,US | Hybrid | Jul 03 |
 | **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a4870ab4f64ba41dcb58f66?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Jul 03 |
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Volunteer Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a4325bb3a9004648946ad83?utm_campaign=1054&utm_source=git)** | Dallas, Texas | On Site | Jul 03 |
 | **[Austin Pets Alive!](http://www.austinpetsalive.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a339742ce501060b5cedbb0?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jul 03 |
@@ -100,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdb2f963f7a67d95dc4bc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Sapphire Stream Technology](https://www.sapphirestreamtech.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3b009c797099171917cc74?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jul 02 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Talent Acquisition Internship ( For Academic Credit)](https://jobright.ai/jobs/info/6a457b9e48d2f00f2a86db90?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 02 |
-| **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a2126aa338c01230511d2e7?utm_campaign=1054&utm_source=git)** | Southlake,TX,US | Hybrid | Jul 02 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Finance & Timekeeping Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69d73129e63cea7a8b66ebe5?utm_campaign=1054&utm_source=git)** | Staten Island, NY | On Site | Jul 02 |
 | **[Granite Partners](http://Granite.com)** | **[HR AI & Data Analytics Intern](https://jobright.ai/jobs/info/6a2bb0b3c07d4b6ae1c4b29d?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Jul 02 |
 | **[UPS](https://sustainability.ups.com/the-ups-foundation/)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d45dc2e63cea7a8b6591c4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Continental](http://www.continentaltire.com)** | **[BestDrive Recruiting Intern](https://jobright.ai/jobs/info/6a441661ef17a815538a2e4c?utm_campaign=1054&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | On Site | Jun 30 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a4412420153061b8b3df2b6?utm_campaign=1054&utm_source=git)** | 180 W Brooks, NORMAN, OK, 73019, US | On Site | Jun 30 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a441204b156014e414bb58f?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 30 |
-| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid)](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
