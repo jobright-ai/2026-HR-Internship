@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f2793c8d8d624381aa0f3d?utm_campaign=1054&utm_source=git)** | Arden - North Carolina - USA, US | On Site | Jul 04 |
 | **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6a0f501483d714428981e891?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 04 |
 | **[DSPolitical](https://www.dspolitical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a365f9a29c90c607e4e4a9c?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jul 03 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a2126aa338c01230511d2e7?utm_campaign=1054&utm_source=git)** | Southlake,TX,US | Hybrid | Jul 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Youth Crisis Center](https://youthcrisiscenter.org)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6a442720b156014e414bbad1?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, US | On Site | Jun 30 |
 | **[RONA](http://www.rona.ca/en)** | **[Internship, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a44266e65e80d3c99f2bc90?utm_campaign=1054&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Jun 30 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[BestDrive Recruiting Intern](https://jobright.ai/jobs/info/6a441661ef17a815538a2e4c?utm_campaign=1054&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | On Site | Jun 30 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a4412420153061b8b3df2b6?utm_campaign=1054&utm_source=git)** | 180 W Brooks, NORMAN, OK, 73019, US | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
