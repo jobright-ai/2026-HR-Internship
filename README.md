@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modine Manufacturing Company](http://www.modine.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fafdf619335383fb2ea55?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Jul 04 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f2793c8d8d624381aa0f3d?utm_campaign=1054&utm_source=git)** | Arden - North Carolina - USA, US | On Site | Jul 04 |
 | **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6a0f501483d714428981e891?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 04 |
 | **[DSPolitical](https://www.dspolitical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a365f9a29c90c607e4e4a9c?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jul 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Safe Harbor](https://www.safeharborsc.org)** | **[Volunteer Engagement Intern (Fall 2026-Unpaid)](https://jobright.ai/jobs/info/6a44296265e80d3c99f2bdab?utm_campaign=1054&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jun 30 |
 | **[Youth Crisis Center](https://youthcrisiscenter.org)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6a442720b156014e414bbad1?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, US | On Site | Jun 30 |
 | **[RONA](http://www.rona.ca/en)** | **[Internship, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a44266e65e80d3c99f2bc90?utm_campaign=1054&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Jun 30 |
-| **[Continental](http://www.benecke-kaliko.com)** | **[BestDrive Recruiting Intern](https://jobright.ai/jobs/info/6a441661ef17a815538a2e4c?utm_campaign=1054&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
