@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pure Earth](https://www.pureearth.org/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a43eb7665e80d3c99f2adc8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 04 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Resume Specialist (Intern) - PLV Campus](https://jobright.ai/jobs/info/6a3d9674122f340d29cf1667?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jul 04 |
 | ↳ | **[Resume Specialist (Intern) - NYC campus](https://jobright.ai/jobs/info/6a43d9ba65e80d3c99f29d9c?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jul 04 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Corporate Insurance, Fire Protection & Safety Risk Programs Job Details / SRP](https://jobright.ai/jobs/info/6a4938735d7b097d2df3ae1f?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 04 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Communications Intern-UNV Human Resources Section-Remote](https://jobright.ai/jobs/info/6a451e1a2dfd1f741d104bb9?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | Jul 03 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 03 |
 | **[HII](https://hii.com)** | **[FOREMAN SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b1785d7b097d2df384a5?utm_campaign=1054&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
-| **[Conscious Modeling and Talent Agency](https://www.linkedin.com/company/109865184)** | **[Motivated Assistant for Social Media Talent Scout Internship](https://jobright.ai/jobs/info/6a47afc13dbab558e29ab031?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | Remote | Jul 03 |
 | **[UPS](https://sustainability.ups.com/the-ups-foundation/)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | Remote | Jul 03 |
 | ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d4155acfdc6132f945757a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/69f3221c1f90bd6ae23cdaa0?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jul 03 |
