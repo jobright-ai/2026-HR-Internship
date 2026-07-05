@@ -57,26 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PACCAR](http://www.paccar.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4781504f64ba41dcb56f63?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US, 98033 | On Site | Jul 05 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6a2a2a1b1de59e0682a831de?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Jul 05 |
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f42407c78b9e45189596d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 05 |
 | ↳ | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jul 05 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Talent Acquisition/HR Intern](https://jobright.ai/jobs/info/6a379bbff6b55d12c79246ae?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | Hybrid | Jul 05 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef867cd40a338faead43?utm_campaign=1054&utm_source=git)** | Aloft Tampa Downtown - Tampa, FL, US | On Site | Jul 05 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef847cd40a338faead41?utm_campaign=1054&utm_source=git)** | Kimpton Brice Hotel - Savannah, GA, US | On Site | Jul 05 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef877cd40a338faead44?utm_campaign=1054&utm_source=git)** | Doubletree Pittsburgh Cranberry - Mars, PA, US | On Site | Jul 05 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef847cd40a338faead40?utm_campaign=1054&utm_source=git)** | Embassy Suites Atlanta - Atlanta, GA, US | On Site | Jul 05 |
-| ↳ | **[Internship - Front Office](https://jobright.ai/jobs/info/6a49d496c2d11a6a466763a9?utm_campaign=1054&utm_source=git)** | Houston Grand Hotel - River Oaks - Houston, TX, United States of America | On Site | Jul 05 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef837cd40a338faead3f?utm_campaign=1054&utm_source=git)** | The Madison Hotel - Washington, D.C., US | On Site | Jul 05 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef9fc260bb1b8ae1ac3b?utm_campaign=1054&utm_source=git)** | Chateau Elan Winery and Resort - Braselton, GA, US | On Site | Jul 05 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef7e7cd40a338faead3b?utm_campaign=1054&utm_source=git)** | The Moran - Houston, TX, US | On Site | Jul 05 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef7f7cd40a338faead3c?utm_campaign=1054&utm_source=git)** | The Kartrite Resort - Monticello, NY, US | On Site | Jul 05 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef837cd40a338faead3f?utm_campaign=1054&utm_source=git)** | The Madison Hotel - Washington, D.C., US | On Site | Jul 05 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef807cd40a338faead3e?utm_campaign=1054&utm_source=git)** | HEI Hotels and Resorts - Corporate Office - Norwalk, CT, US | On Site | Jul 05 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef867cd40a338faead43?utm_campaign=1054&utm_source=git)** | Aloft Tampa Downtown - Tampa, FL, US | On Site | Jul 05 |
+| ↳ | **[Internship - Front Office](https://jobright.ai/jobs/info/6a49d496c2d11a6a466763a9?utm_campaign=1054&utm_source=git)** | Houston Grand Hotel - River Oaks - Houston, TX, United States of America | On Site | Jul 05 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef7f7cd40a338faead3d?utm_campaign=1054&utm_source=git)** | Homewood Suites Orlando Theme Parks - Orlando, FL, US | On Site | Jul 05 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef847cd40a338faead40?utm_campaign=1054&utm_source=git)** | Embassy Suites Atlanta - Atlanta, GA, US | On Site | Jul 05 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef847cd40a338faead41?utm_campaign=1054&utm_source=git)** | Kimpton Brice Hotel - Savannah, GA, US | On Site | Jul 05 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef7f7cd40a338faead3c?utm_campaign=1054&utm_source=git)** | The Kartrite Resort - Monticello, NY, US | On Site | Jul 05 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef7e7cd40a338faead3b?utm_campaign=1054&utm_source=git)** | The Moran - Houston, TX, US | On Site | Jul 05 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef9fc260bb1b8ae1ac3b?utm_campaign=1054&utm_source=git)** | Chateau Elan Winery and Resort - Braselton, GA, US | On Site | Jul 05 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef877cd40a338faead44?utm_campaign=1054&utm_source=git)** | Doubletree Pittsburgh Cranberry - Mars, PA, US | On Site | Jul 05 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef857cd40a338faead42?utm_campaign=1054&utm_source=git)** | Hilton Garden Inn Lake Buena Vista - Orlando, FL, US | On Site | Jul 05 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a2126aa338c01230511d2e7?utm_campaign=1054&utm_source=git)** | Southlake,TX,US | Hybrid | Jul 04 |
 | **[Pure Earth](https://www.pureearth.org/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a43eb7665e80d3c99f2adc8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 04 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Resume Specialist (Intern) - PLV Campus](https://jobright.ai/jobs/info/6a3d9674122f340d29cf1667?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jul 04 |
 | ↳ | **[Resume Specialist (Intern) - NYC campus](https://jobright.ai/jobs/info/6a43d9ba65e80d3c99f29d9c?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jul 04 |
+| **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Resource Management Intern](https://jobright.ai/jobs/info/698145d649964d25b5e42996?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ | On Site | Jul 04 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Corporate Insurance, Fire Protection & Safety Risk Programs Job Details / SRP](https://jobright.ai/jobs/info/6a4938735d7b097d2df3ae1f?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 04 |
 | **[LUNARTECH](https://lunartech.ai)** | **[Recruiter & Talent Operations Internship](https://jobright.ai/jobs/info/6a491ddbc2d11a6a46675503?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 04 |
 | **[LMCU](https://www.lmcu.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a3c7a3ed261407de97fdcd0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jul 04 |
@@ -103,7 +105,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d4155acfdc6132f945757a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/69f3221c1f90bd6ae23cdaa0?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jul 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3218eec477a5075f49078a?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jul 03 |
-| **[PACCAR](http://www.paccar.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4781504f64ba41dcb56f63?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US | On Site | Jul 03 |
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[Human Resource Grad Intern](https://jobright.ai/jobs/info/69dd5a3261f6ed54321fcf47?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Jul 03 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a47754d3dbab558e29aa8cf?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 03 |
 | **[TRDI](https://trdi.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6a47d3563dbab558e29ab40e?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jul 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Performance Enablement Intern](https://jobright.ai/jobs/info/6a456afa4f64ba41dcb4d51a?utm_campaign=1054&utm_source=git)** | US - CO, Westminster | On Site | Jul 01 |
 | **[Hengst Filtration | North America](https://www.hengst.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a458c7648d2f00f2a86dedd?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jul 01 |
 | **[Frontier Airlines](http://www.flyfrontier.com)** | **[2026 Summer Intern, Human Resources (Talent Acquisition)](https://jobright.ai/jobs/info/6a457b0d4f64ba41dcb4d83d?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 01 |
-| **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4572a148d2f00f2a86d980?utm_campaign=1054&utm_source=git)** | New York City Hybrid - 4 days per week in office | Hybrid | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
