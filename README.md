@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Baltimore](http://www.ubalt.edu/)** | **[Job Development Recruitment Specialist, Career & Internship Center, 30 hours per week, grant-funded](https://jobright.ai/jobs/info/6a4bd68bc2d11a6a46678e15?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Jul 06 |
+| **[Coppin State University](http://www.coppin.edu/)** | **[Job Development Recruitment Specialist, Career & Internship Center, 30 hours per week, grant-funded](https://jobright.ai/jobs/info/6a4bd512c2d11a6a46678dba?utm_campaign=1054&utm_source=git)** | University of Baltimore, United States of America | On Site | Jul 06 |
+| **[Ohio Department of Education and Workforce](http://education.ohio.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4bd2455d7b097d2df3e48c?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 06 |
+| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4bc4356189f64e437efb0e?utm_campaign=1054&utm_source=git)** | Ohio Department of Education25 South Front StreetColumbus43215-4104 | On Site | Jul 06 |
+| **[UPS](https://sustainability.ups.com/the-ups-foundation/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4bc333971cd25b06f982e2?utm_campaign=1054&utm_source=git)** | US - COMMERCE CITY (CODEN), United States of America | On Site | Jul 06 |
 | **[Uncle Giuseppe's Marketplace](https://uncleg.com)** | **[Intern (HR)](https://jobright.ai/jobs/info/6a4bc1a6971cd25b06f982ab?utm_campaign=1054&utm_source=git)** | Melville, NY 11747, USA | On Site | Jul 06 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a298223495d985b99423d85?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 06 |
 | ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 06 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a4bcdf74f64ba41dcb5d39b?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 06 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a2126aa338c01230511d2e7?utm_campaign=1054&utm_source=git)** | Southlake,TX,US | Hybrid | Jul 06 |
 | **[Pony.ai](https://www.pony.ai)** | **[HR Intern](https://jobright.ai/jobs/info/6a4b58535d7b097d2df3d28a?utm_campaign=1054&utm_source=git)** | Fremont, California, United States | On Site | Jul 06 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a4b555a6189f64e437eec21?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Jul 06 |
@@ -73,11 +79,9 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f42407c78b9e45189596d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 05 |
 | ↳ | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jul 05 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Talent Acquisition/HR Intern](https://jobright.ai/jobs/info/6a379bbff6b55d12c79246ae?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | Hybrid | Jul 05 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef857cd40a338faead42?utm_campaign=1054&utm_source=git)** | Hilton Garden Inn Lake Buena Vista - Orlando, FL, US | On Site | Jul 05 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef7f7cd40a338faead3c?utm_campaign=1054&utm_source=git)** | The Kartrite Resort - Monticello, NY, US | On Site | Jul 05 |
-| ↳ | **[Internship - Front Office](https://jobright.ai/jobs/info/6a49d496c2d11a6a466763a9?utm_campaign=1054&utm_source=git)** | Houston Grand Hotel - River Oaks - Houston, TX, United States of America | On Site | Jul 05 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship - Front Office](https://jobright.ai/jobs/info/6a49d496c2d11a6a466763a9?utm_campaign=1054&utm_source=git)** | Houston Grand Hotel - River Oaks - Houston, TX, United States of America | On Site | Jul 05 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef857cd40a338faead42?utm_campaign=1054&utm_source=git)** | Hilton Garden Inn Lake Buena Vista - Orlando, FL, US | On Site | Jul 05 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef9fc260bb1b8ae1ac3b?utm_campaign=1054&utm_source=git)** | Chateau Elan Winery and Resort - Braselton, GA, US | On Site | Jul 05 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef807cd40a338faead3e?utm_campaign=1054&utm_source=git)** | HEI Hotels and Resorts - Corporate Office - Norwalk, CT, US | On Site | Jul 05 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef847cd40a338faead41?utm_campaign=1054&utm_source=git)** | Kimpton Brice Hotel - Savannah, GA, US | On Site | Jul 05 |
 | **[Pure Earth](https://www.pureearth.org/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a43eb7665e80d3c99f2adc8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 04 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Resume Specialist (Intern) - PLV Campus](https://jobright.ai/jobs/info/6a3d9674122f340d29cf1667?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jul 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture](https://jobright.ai/jobs/info/6a43f7a665e80d3c99f2b13f?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jul 02 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a46283e3dbab558e29a4be5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 02 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting, Vehicle Software (Fall 2026)](https://jobright.ai/jobs/info/6a45fe1e076271587529f3f0?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Jul 01 |
-| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/69bd006bb10602456281cdef?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 01 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/6a45cb8b0dd56c76cc2f4512?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jul 01 |
-| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a43b1510ad88b0a1a9993a6?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | Jul 01 |
-| **[TRDI Incorporated](https://trdi.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6a4595d948d2f00f2a86e0ce?utm_campaign=1054&utm_source=git)** | San Antonio, Texas, United States | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
