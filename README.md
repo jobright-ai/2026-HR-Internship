@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty Mutual Canada](http://www.libertymutualcanada.com)** | **[Human Resources Intern (6-Month Contract)](https://jobright.ai/jobs/info/6a4c17b36189f64e437f1198?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
+| **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a4c11824f64ba41dcb5e580?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 06 |
+| **[WELL Health Diagnostic Centres](https://welldiagnostics.ca)** | **[Temporary - HR Intern](https://jobright.ai/jobs/info/6a4c0f984eb370649b27c10c?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 06 |
+| **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a4c0eb06189f64e437f0e47?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Jul 06 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a399015649fdf162930197f?utm_campaign=1054&utm_source=git)** | Huntington, WV, US | On Site | Jul 06 |
 | **[UPS](https://sustainability.ups.com/the-ups-foundation/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4bc333971cd25b06f982e2?utm_campaign=1054&utm_source=git)** | US - COMMERCE CITY (CODEN), United States of America | On Site | Jul 06 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jul 06 |
 | **[Aramark UK](aramark.co.uk)** | **[Human Resources Intern - LSU Athletic Venues and Events](https://jobright.ai/jobs/info/6a4bdec64eb370649b27b5bf?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 06 |
@@ -83,9 +88,9 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f42407c78b9e45189596d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 05 |
 | ↳ | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jul 05 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Talent Acquisition/HR Intern](https://jobright.ai/jobs/info/6a379bbff6b55d12c79246ae?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | Hybrid | Jul 05 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship - Front Office](https://jobright.ai/jobs/info/6a49d496c2d11a6a466763a9?utm_campaign=1054&utm_source=git)** | Houston Grand Hotel - River Oaks - Houston, TX, United States of America | On Site | Jul 05 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef847cd40a338faead41?utm_campaign=1054&utm_source=git)** | Kimpton Brice Hotel - Savannah, GA, US | On Site | Jul 05 |
+| ↳ | **[Internship - Front Office](https://jobright.ai/jobs/info/6a49d496c2d11a6a466763a9?utm_campaign=1054&utm_source=git)** | Houston Grand Hotel - River Oaks - Houston, TX, United States of America | On Site | Jul 05 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef857cd40a338faead42?utm_campaign=1054&utm_source=git)** | Hilton Garden Inn Lake Buena Vista - Orlando, FL, US | On Site | Jul 05 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef847cd40a338faead41?utm_campaign=1054&utm_source=git)** | Kimpton Brice Hotel - Savannah, GA, US | On Site | Jul 05 |
 | **[Pure Earth](https://www.pureearth.org/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a43eb7665e80d3c99f2adc8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 04 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Resume Specialist (Intern) - PLV Campus](https://jobright.ai/jobs/info/6a3d9674122f340d29cf1667?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jul 04 |
 | ↳ | **[Resume Specialist (Intern) - NYC campus](https://jobright.ai/jobs/info/6a43d9ba65e80d3c99f29d9c?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jul 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 02 |
 | **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a29fb6c495d985b99426b1f?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jul 02 |
 | **[Brkthru](https://brkthru.com)** | **[Organizational Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a46508b971cd25b06f8d3ef?utm_campaign=1054&utm_source=git)** | Remote, Michigan | Remote | Jul 02 |
-| **[Electric Machinery Company - WEG Group](http://www.electricmachinery.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a464085971cd25b06f8cf76?utm_campaign=1054&utm_source=git)** | Minneapolis,MN,US | On Site | Jul 02 |
-| **[Compassus](https://www.compassus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a2141dcc00e701fe836dbc2?utm_campaign=1054&utm_source=git)** | Brentwood, TN, US | On Site | Jul 02 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2027 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/6a46348b3dbab558e29a5492?utm_campaign=1054&utm_source=git)** | Peoria, Illinois, US | On Site | Jul 02 |
-| **[City of Georgetown](https://www.georgetowntexas.gov)** | **[Organizational Development Intern (Fall, 2026)](https://jobright.ai/jobs/info/6a46c9e14f64ba41dcb54d85?utm_campaign=1054&utm_source=git)** | City Hall, United States of America | On Site | Jul 02 |
-| **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Intern / VIE – People Development & Culture](https://jobright.ai/jobs/info/6a43f7a665e80d3c99f2b13f?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
