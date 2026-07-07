@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TeamViewer](https://www.teamviewer.com)** | **[Internship - Recruiting Coordinator (In Office in Midtown Tampa)](https://jobright.ai/jobs/info/6a4d79ce35e45603c4bb40ed?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Jul 07 |
+| **[Klue](http://klue.com)** | **[Program Management Associate, Intern](https://jobright.ai/jobs/info/6a4d7811d27b2c4dda9b7c17?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia | Hybrid | Jul 07 |
 | **[Frenchman's Creek Beach and Country Club](https://www.frenchmanscreek.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4d6763d27b2c4dda9b789e?utm_campaign=1054&utm_source=git)** | Palm Beach Gardens, FL, United States | On Site | Jul 07 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Interviewer Intern (unpaid internship)](https://jobright.ai/jobs/info/6a4d6644d27b2c4dda9b7826?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 07 |
 | ↳ | **[Interview Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a4d66200209ea6fd6852242?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 07 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[PSA BDP](https://psabdp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3aca68dbedbf5680c71156?utm_campaign=1054&utm_source=git)** | Houston, TX 77032, United States | On Site | Jul 07 |
 | **[Accelint](https://accelint.com)** | **[Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/6a46e654c2d11a6a46670f57?utm_campaign=1054&utm_source=git)** | Saint Paul, MN | On Site | Jul 07 |
 | **[Vinfen](http://www.vinfen.org)** | **[Paid Intern HR](https://jobright.ai/jobs/info/6a4d50e33122a76a8fd550a9?utm_campaign=1054&utm_source=git)** | Cambridge, MA, United States | Remote | Jul 07 |
-| **[Four Seasons](http://www.fourseasons.com)** | **[Talent Acquisition Summer Intern Part-Time](https://jobright.ai/jobs/info/6a4d501fd27b2c4dda9b7144?utm_campaign=1054&utm_source=git)** | Houston, United States | Hybrid | Jul 07 |
 | **[Blaze Credit Union](http://www.blazecu.com)** | **[Human Resources Intern-Fall 2026](https://jobright.ai/jobs/info/6a4d4ec50209ea6fd6851bba?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 07 |
 | **[Ionbond - IHI Group](http://www.ionbond.com)** | **[Recruitment and Onboarding Internship](https://jobright.ai/jobs/info/6a4d3e270209ea6fd6851763?utm_campaign=1054&utm_source=git)** | Madison Heights, MI, United States | On Site | Jul 07 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Talent Acquisition Intern - Fall 2026](https://jobright.ai/jobs/info/6a4d33fad27b2c4dda9b6a9f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 07 |
@@ -81,8 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Jul 07 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid)](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union , NJ | On Site | Jul 07 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/6a02613dc4b08448a0b26092?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jul 07 |
-| **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/6a3091e6eace377055eb6fd5?utm_campaign=1054&utm_source=git)** | Livingston, NJ | Remote | Jul 07 |
+| **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/6a3091e6eace377055eb6fd5?utm_campaign=1054&utm_source=git)** | Livingston, NJ, United States | Remote | Jul 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Partner](https://jobright.ai/jobs/info/6a4c83e5c643fd23fed3a87e?utm_campaign=1054&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Jul 07 |
+| **[The Village of St Edward](https://www.vased.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4d6b16d27b2c4dda9b79cd?utm_campaign=1054&utm_source=git)** | Fairlawn, OH, United States | On Site | Jul 06 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a39a1ca649fdf1629302167?utm_campaign=1054&utm_source=git)** | Salem, MA 01970, USA | On Site | Jul 06 |
 | **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44008c0153061b8b3dee25?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jul 06 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44089aef17a815538a2a4d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA 19103, USA | On Site | Jul 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Forest City NC](https://jobright.ai/jobs/info/6a47083cc2d11a6a4667161f?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jul 02 |
 | **[Baker Group](http://thebakergroup.com)** | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a46ff5f3dbab558e29a9750?utm_campaign=1054&utm_source=git)** | Des Moines Metro | On Site | Jul 02 |
 | ↳ | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a4706ecc2d11a6a466715e3?utm_campaign=1054&utm_source=git)** | Ankeny, IA | On Site | Jul 02 |
-| **[Plains](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46d7ab971cd25b06f906f0?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 02 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a464d288204a812e98c705d?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid, United States of America | Remote | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
