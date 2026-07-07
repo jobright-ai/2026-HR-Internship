@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jul 05 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Talent Acquisition/HR Intern](https://jobright.ai/jobs/info/6a379bbff6b55d12c79246ae?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | Hybrid | Jul 05 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef857cd40a338faead42?utm_campaign=1054&utm_source=git)** | Hilton Garden Inn Lake Buena Vista - Orlando, FL, US | On Site | Jul 05 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef847cd40a338faead41?utm_campaign=1054&utm_source=git)** | Kimpton Brice Hotel - Savannah, GA, US | On Site | Jul 05 |
 | ↳ | **[Internship - Front Office](https://jobright.ai/jobs/info/6a49d496c2d11a6a466763a9?utm_campaign=1054&utm_source=git)** | Houston Grand Hotel - River Oaks - Houston, TX, United States of America | On Site | Jul 05 |
+| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/6a2eef847cd40a338faead41?utm_campaign=1054&utm_source=git)** | Kimpton Brice Hotel - Savannah, GA, US | On Site | Jul 05 |
 | **[Pure Earth](https://www.pureearth.org/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a43eb7665e80d3c99f2adc8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 04 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Resume Specialist (Intern) - PLV Campus](https://jobright.ai/jobs/info/6a3d9674122f340d29cf1667?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jul 04 |
 | ↳ | **[Resume Specialist (Intern) - NYC campus](https://jobright.ai/jobs/info/6a43d9ba65e80d3c99f29d9c?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jul 04 |
@@ -127,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a47754d3dbab558e29aa8cf?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 03 |
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[HR/Accounting/Administration Intern](https://jobright.ai/jobs/info/6a4b4ffcc2d11a6a46677a03?utm_campaign=1054&utm_source=git)** | Laurel, MD | Hybrid | Jul 02 |
 | **[TRDI](https://trdi.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6a47d3563dbab558e29ab40e?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jul 02 |
-| **[SpaceX](https://www.spacex.com)** | **[Recruiting Coordinator, Intern Program- Temporary](https://jobright.ai/jobs/info/6a4751b4971cd25b06f91bb3?utm_campaign=1054&utm_source=git)** | Hawthorne, CA | On Site | Jul 02 |
 | **[AMOREPACIFIC](https://ventures.amorepacific.com/index.do)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a475137c2d11a6a46672108?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
 | **[Travelers](https://upstateinsurance.com)** | **[Human Resources Leadership Development Program (HRLDP) Internship - Summer 2027](https://jobright.ai/jobs/info/6a47350bc2d11a6a46671c87?utm_campaign=1054&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 02 |
 | **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a4412edef17a815538a2d70?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Jul 02 |
 | **[Bosch](http://www.bosch.com)** | **[Sr. HR Service Intern (July 2026/Year Round)](https://jobright.ai/jobs/info/6a466703971cd25b06f8e8e3?utm_campaign=1054&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | On Site | Jul 02 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 02 |
+| **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a29fb6c495d985b99426b1f?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
