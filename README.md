@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Resume Specialist (Intern) - NYC campus](https://jobright.ai/jobs/info/6a43d9ba65e80d3c99f29d9c?utm_campaign=1054&utm_source=git)** | New York, NY 10038, USA | On Site | Jul 04 |
 | **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Resource Management Intern](https://jobright.ai/jobs/info/698145d649964d25b5e42996?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ | On Site | Jul 04 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Corporate Insurance, Fire Protection & Safety Risk Programs Job Details / SRP](https://jobright.ai/jobs/info/6a4938735d7b097d2df3ae1f?utm_campaign=1054&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 04 |
-| **[LUNARTECH](https://lunartech.ai)** | **[Recruiter & Talent Operations Internship](https://jobright.ai/jobs/info/6a491ddbc2d11a6a46675503?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 04 |
 | **[LMCU](https://www.lmcu.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a3c7a3ed261407de97fdcd0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jul 04 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29ad0ab4ec4779fffa028?utm_campaign=1054&utm_source=git)** | Arden, NC | On Site | Jul 04 |
 | **[GenScript](http://www.genscript.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a2c67a4f1751b183c818501?utm_campaign=1054&utm_source=git)** | Piscataway, New Jersey, United States | On Site | Jul 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Bosch](http://www.bosch.com)** | **[Sr. HR Service Intern (July 2026/Year Round)](https://jobright.ai/jobs/info/6a466703971cd25b06f8e8e3?utm_campaign=1054&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | On Site | Jul 02 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 02 |
 | **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a29fb6c495d985b99426b1f?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jul 02 |
+| **[Brkthru](https://brkthru.com)** | **[Organizational Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a46508b971cd25b06f8d3ef?utm_campaign=1054&utm_source=git)** | Remote, Michigan | Remote | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
