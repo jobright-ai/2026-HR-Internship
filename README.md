@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/6a3091e6eace377055eb6fd5?utm_campaign=1054&utm_source=git)** | Livingston, NJ | Remote | Jul 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Partner](https://jobright.ai/jobs/info/6a4c83e5c643fd23fed3a87e?utm_campaign=1054&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Jul 07 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a39a1ca649fdf1629302167?utm_campaign=1054&utm_source=git)** | Salem, MA 01970, USA | On Site | Jul 06 |
 | **[honeygrow](http://www.honeygrow.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a44008c0153061b8b3dee25?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jul 06 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Uncle Giuseppe's Marketplace](https://uncleg.com)** | **[Intern (HR)](https://jobright.ai/jobs/info/6a4bc1a6971cd25b06f982ab?utm_campaign=1054&utm_source=git)** | Melville, NY 11747, USA | On Site | Jul 06 |
 | **[DeZURIK](http://www.dezurik.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a2f851e89f8f147d37321a9?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a298223495d985b99423d85?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 06 |
-| ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 06 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a2126aa338c01230511d2e7?utm_campaign=1054&utm_source=git)** | Southlake,TX,US | Hybrid | Jul 06 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 06 |
 | **[Pony.ai](https://www.pony.ai)** | **[HR Intern](https://jobright.ai/jobs/info/6a4b58535d7b097d2df3d28a?utm_campaign=1054&utm_source=git)** | Fremont, California, United States | On Site | Jul 06 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a4b555a6189f64e437eec21?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Jul 06 |
 | **[Cydecor, Inc.](http://www.cydecor.com)** | **[SkillBridge Military Internship – Talent Acquisition & Workforce Planning](https://jobright.ai/jobs/info/6a3daede122f340d29cf1c54?utm_campaign=1054&utm_source=git)** | Arlington, Virginia, VA | Hybrid | Jul 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a29fb6c495d985b99426b1f?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jul 02 |
 | **[Brkthru](https://brkthru.com)** | **[Organizational Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a46508b971cd25b06f8d3ef?utm_campaign=1054&utm_source=git)** | Remote, Michigan | Remote | Jul 02 |
 | **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Talent Acquisition Marketing Intern](https://jobright.ai/jobs/info/6a46bcce971cd25b06f8ffba?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 02 |
-| **[Electric Machinery Company - WEG Group](http://www.electricmachinery.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a464085971cd25b06f8cf76?utm_campaign=1054&utm_source=git)** | Minneapolis,MN,US | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
