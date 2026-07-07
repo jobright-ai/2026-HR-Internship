@@ -111,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Austin Pets Alive!](http://www.austinpetsalive.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a339742ce501060b5cedbb0?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jul 03 |
 | **[Geotab](http://www.geotab.com/)** | **[Campus Talent Acquisition Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a4815bd5d7b097d2df39331?utm_campaign=1054&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jul 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a21db9dc00e701fe837148d?utm_campaign=1054&utm_source=git)** | AL, Birmingham, US | On Site | Jul 03 |
-| **[LMCU](https://www.lmcu.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a46258107627158752a072b?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, US | On Site | Jul 03 |
 | **[University Co-op](https://www.universitycoop.com/)** | **[People Experience Intern](https://jobright.ai/jobs/info/6a3576af649fdf16292f91a3?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jul 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a480019971cd25b06f93470?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Jul 03 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Communications Intern-UNV Human Resources Section-Remote](https://jobright.ai/jobs/info/6a451e1a2dfd1f741d104bb9?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | Jul 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 02 |
 | **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a29fb6c495d985b99426b1f?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jul 02 |
 | **[Brkthru](https://brkthru.com)** | **[Organizational Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a46508b971cd25b06f8d3ef?utm_campaign=1054&utm_source=git)** | Remote, Michigan | Remote | Jul 02 |
+| **[Electric Machinery Company - WEG Group](http://www.electricmachinery.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a464085971cd25b06f8cf76?utm_campaign=1054&utm_source=git)** | Minneapolis,MN,US | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
