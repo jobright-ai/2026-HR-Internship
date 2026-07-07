@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[IT Recruiter Intern](https://jobright.ai/jobs/info/6a4d5f5599523700cbff5699?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 07 |
+| **[PSA BDP](https://psabdp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3aca68dbedbf5680c71156?utm_campaign=1054&utm_source=git)** | Houston, TX 77032, United States | On Site | Jul 07 |
+| **[The AES Corporation](https://www.aes.com)** | **[Workforce Planning Intern](https://jobright.ai/jobs/info/6a4d5c043122a76a8fd552dd?utm_campaign=1054&utm_source=git)** | US, Arlington, VA, United States of America | Hybrid | Jul 07 |
+| **[Accelint](https://accelint.com)** | **[Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/6a46e654c2d11a6a46670f57?utm_campaign=1054&utm_source=git)** | Saint Paul, MN | On Site | Jul 07 |
+| **[Vinfen](http://www.vinfen.org)** | **[Paid Intern HR](https://jobright.ai/jobs/info/6a4d50e33122a76a8fd550a9?utm_campaign=1054&utm_source=git)** | Cambridge, MA, United States | Remote | Jul 07 |
 | **[Four Seasons](http://www.fourseasons.com)** | **[Talent Acquisition Summer Intern Part-Time](https://jobright.ai/jobs/info/6a4d501fd27b2c4dda9b7144?utm_campaign=1054&utm_source=git)** | Houston, United States | Hybrid | Jul 07 |
 | **[Blaze Credit Union](http://www.blazecu.com)** | **[Human Resources Intern-Fall 2026](https://jobright.ai/jobs/info/6a4d4ec50209ea6fd6851bba?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 07 |
 | **[Ionbond - IHI Group](http://www.ionbond.com)** | **[Recruitment and Onboarding Internship](https://jobright.ai/jobs/info/6a4d3e270209ea6fd6851763?utm_campaign=1054&utm_source=git)** | Madison Heights, MI, United States | On Site | Jul 07 |
@@ -69,9 +74,10 @@ For a complete list, click the following sortable link below:
 | **[Nueces Electric Cooperative](https://nueceselectric.org/)** | **[HR/Communications Internship](https://jobright.ai/jobs/info/6a4d0e413122a76a8fd53f81?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX, United States | On Site | Jul 07 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Admissions Counselor Intern](https://jobright.ai/jobs/info/6a4d267435e45603c4bb2c88?utm_campaign=1054&utm_source=git)** | Eugene, OR, United States | Hybrid | Jul 07 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Campus Recruitment Intern](https://jobright.ai/jobs/info/6a4d013a3122a76a8fd53c81?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Jul 07 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4d53683122a76a8fd55132?utm_campaign=1054&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 07 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Jul 07 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid)](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union , NJ | On Site | Jul 07 |
-| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/6a02613dc4b08448a0b26092?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jul 07 |
+| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d95e519f97a42dc9c21125?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jul 07 |
 | **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/6a3091e6eace377055eb6fd5?utm_campaign=1054&utm_source=git)** | Livingston, NJ | Remote | Jul 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Partner](https://jobright.ai/jobs/info/6a4c83e5c643fd23fed3a87e?utm_campaign=1054&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Jul 07 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a39a1ca649fdf1629302167?utm_campaign=1054&utm_source=git)** | Salem, MA 01970, USA | On Site | Jul 06 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Baker Group](http://thebakergroup.com)** | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a46ff5f3dbab558e29a9750?utm_campaign=1054&utm_source=git)** | Des Moines Metro | On Site | Jul 02 |
 | ↳ | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a4706ecc2d11a6a466715e3?utm_campaign=1054&utm_source=git)** | Ankeny, IA | On Site | Jul 02 |
 | **[Plains](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46d7ab971cd25b06f906f0?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 02 |
-| **[Accelint](https://accelint.com)** | **[Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/6a46e654c2d11a6a46670f57?utm_campaign=1054&utm_source=git)** | Saint Paul, MN | On Site | Jul 02 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a464d288204a812e98c705d?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid, United States of America | Remote | Jul 02 |
 | **[Plains](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46d33c0dd56c76cc2fb160?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 02 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[HRIS Fellow](https://jobright.ai/jobs/info/6a46cd548204a812e98c9fcd?utm_campaign=1054&utm_source=git)** | Godley, TX | Remote | Jul 02 |
 | **[BestDrive by Continental](https://www.linkedin.com/company/104946179)** | **[Intern - BestDrive Recruiting, Year-Round](https://jobright.ai/jobs/info/6a4736d94f64ba41dcb5644e?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Jul 02 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Hiring Manager Intern (unpaid)](https://jobright.ai/jobs/info/6a46c0238204a812e98c9c2d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 02 |
-| **[Continental](http://www.continentaltire.com)** | **[Intern - BestDrive Recruiting, Year-Round](https://jobright.ai/jobs/info/6a46ba440dd56c76cc2faa7b?utm_campaign=1054&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Jul 02 |
-| **[Shimmick Corporation](http://www.shimmick.com)** | **[Intern](https://jobright.ai/jobs/info/6a2a1953c07d4b6ae1c43dcc?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Jul 02 |
-| **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Talent Acquisition Internship (For Academic Credit)](https://jobright.ai/jobs/info/6a457b9e48d2f00f2a86db90?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 02 |
-| **[Baker Group](https://www.bakergrouprealty.com)** | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a4bb5cb971cd25b06f97f9d?utm_campaign=1054&utm_source=git)** | Ankeny, IA, US | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
