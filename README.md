@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peabody Essex Museum](http://www.pem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a39a1ca649fdf1629302167?utm_campaign=1054&utm_source=git)** | Salem, MA 01970, USA | On Site | Jul 06 |
 | **[Liberty Mutual Canada](http://www.libertymutualcanada.com)** | **[Human Resources Intern (6-Month Contract)](https://jobright.ai/jobs/info/6a4c17b36189f64e437f1198?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
 | **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a4c11824f64ba41dcb5e580?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 06 |
 | **[WELL Health Diagnostic Centres](https://welldiagnostics.ca)** | **[Temporary - HR Intern](https://jobright.ai/jobs/info/6a4c0f984eb370649b27c10c?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bosch](http://www.bosch.com)** | **[Sr. HR Service Intern (July 2026/Year Round)](https://jobright.ai/jobs/info/6a466703971cd25b06f8e8e3?utm_campaign=1054&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | On Site | Jul 02 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 02 |
 | **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a29fb6c495d985b99426b1f?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jul 02 |
-| **[Brkthru](https://brkthru.com)** | **[Organizational Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a46508b971cd25b06f8d3ef?utm_campaign=1054&utm_source=git)** | Remote, Michigan | Remote | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
