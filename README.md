@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Talent Acquisition Intern - Fall 2026](https://jobright.ai/jobs/info/6a4d33fad27b2c4dda9b6a9f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 07 |
+| **[Aramark UK](aramark.co.uk)** | **[Human Resources Intern - LSU Athletic Venues and Events Job Details / Aramark](https://jobright.ai/jobs/info/6a4d307899523700cbff4bd9?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 07 |
+| **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[Workers' Rights Clinic Internship (Fall 2026, Non-legal)](https://jobright.ai/jobs/info/6a4d2981d27b2c4dda9b66eb?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[Peckham, Inc.](https://www.peckham.org/)** | **[Human Resources Intern - Learning and Development](https://jobright.ai/jobs/info/6a4d16ce99523700cbff442c?utm_campaign=1054&utm_source=git)** | Lansing, MI, United States | Hybrid | Jul 07 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Talent Acquisition Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4d1324c643fd23fed3b8cc?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, United States | On Site | Jul 07 |
 | **[Nueces Electric Cooperative](https://nueceselectric.org/)** | **[HR/Communications Internship](https://jobright.ai/jobs/info/6a4d0e413122a76a8fd53f81?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX, United States | On Site | Jul 07 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Admissions Counselor Intern](https://jobright.ai/jobs/info/6a4d267435e45603c4bb2c88?utm_campaign=1054&utm_source=git)** | Eugene, OR, United States | Hybrid | Jul 07 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Campus Recruitment Intern](https://jobright.ai/jobs/info/6a4d013a3122a76a8fd53c81?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Jul 07 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Jul 07 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid)](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union , NJ | On Site | Jul 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phamily](https://phamily.com/)** | **[HR, AI Automation Intern](https://jobright.ai/jobs/info/6a0cdb2f963f7a67d95dc4bc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Sapphire Stream Technology](https://www.sapphirestreamtech.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3b009c797099171917cc74?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Jul 02 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Talent Acquisition Internship ( For Academic Credit)](https://jobright.ai/jobs/info/6a457b9e48d2f00f2a86db90?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 02 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Finance & Timekeeping Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69d73129e63cea7a8b66ebe5?utm_campaign=1054&utm_source=git)** | Staten Island, NY | On Site | Jul 02 |
-| **[Ulnooweg Education Centre](http://www.ulnoowegeducation.ca/)** | **[People & Organizational Culture Intern (co-op term)](https://jobright.ai/jobs/info/6a4d103f3122a76a8fd54058?utm_campaign=1054&utm_source=git)** | Millbrook, Nova Scotia, Canada | Remote | Jul 02 |
-| **[Granite Partners](http://Granite.com)** | **[HR AI & Data Analytics Intern](https://jobright.ai/jobs/info/6a2bb0b3c07d4b6ae1c4b29d?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Jul 02 |
-| **[UPS](https://about.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d45dc2e63cea7a8b6591c4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
