@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blaze Credit Union](http://www.blazecu.com)** | **[Human Resources Intern-Fall 2026](https://jobright.ai/jobs/info/6a4d4ec50209ea6fd6851bba?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 08 |
+| **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a349d4229c90c607e4dff91?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 08 |
 | **[International Civil Aviation Organization](http://icao.int)** | **[Communications Intern-UNV Human Resources Section-Remote](https://jobright.ai/jobs/info/6a4dec843122a76a8fd56bae?utm_campaign=1054&utm_source=git)** | KS, United States | Remote | Jul 07 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Chattanooga, TN (Fall 2026)](https://jobright.ai/jobs/info/6a4dc38735e45603c4bb4b5d?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | On Site | Jul 07 |
 | **[Spoonful Media & Development](https://addalittlesugar.us/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a4dbb5ed27b2c4dda9b86e1?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 07 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[PROJXON](www.projxon.com)** | **[IT Recruiter Intern](https://jobright.ai/jobs/info/6a4d5f5599523700cbff5699?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 07 |
 | **[PSA BDP](https://psabdp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3aca68dbedbf5680c71156?utm_campaign=1054&utm_source=git)** | Houston, TX 77032, United States | On Site | Jul 07 |
 | **[Accelint](https://accelint.com)** | **[Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/6a46e654c2d11a6a46670f57?utm_campaign=1054&utm_source=git)** | Saint Paul, MN | On Site | Jul 07 |
-| **[Blaze Credit Union](http://www.blazecu.com)** | **[Human Resources Intern-Fall 2026](https://jobright.ai/jobs/info/6a4d4ec50209ea6fd6851bba?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 07 |
 | **[Ionbond - IHI Group](http://www.ionbond.com)** | **[Recruitment and Onboarding Internship](https://jobright.ai/jobs/info/6a4d3e270209ea6fd6851763?utm_campaign=1054&utm_source=git)** | Madison Heights, MI, United States | On Site | Jul 07 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Talent Acquisition Intern - Fall 2026](https://jobright.ai/jobs/info/6a4d33fad27b2c4dda9b6a9f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 07 |
 | **[Aramark UK](aramark.co.uk)** | **[Human Resources Intern - LSU Athletic Venues and Events Job Details / Aramark](https://jobright.ai/jobs/info/6a4d307899523700cbff4bd9?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/69f3221c1f90bd6ae23cdaa0?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jul 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3218eec477a5075f49078a?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jul 03 |
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[Human Resource Grad Intern](https://jobright.ai/jobs/info/69dd5a3261f6ed54321fcf47?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Jul 03 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a47754d3dbab558e29aa8cf?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
