@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a4da8183122a76a8fd5634d?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 07 |
+| **[The Golf Club at Newcastle](https://newcastlegolf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4da2a64c6c9f7a619f8594?utm_campaign=1054&utm_source=git)** | 13201 NE Bel Red Rd, Bellevue, WA 98005, USA | On Site | Jul 07 |
 | **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate - Internship](https://jobright.ai/jobs/info/6a3aa003797099171917ad8a?utm_campaign=1054&utm_source=git)** | Fort Myers, FL 33912, USA | On Site | Jul 07 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4d9eac35e45603c4bb46e7?utm_campaign=1054&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
 | **[Vinfen](http://www.vinfen.org)** | **[Paid Intern HR](https://jobright.ai/jobs/info/6a4d50e33122a76a8fd550a9?utm_campaign=1054&utm_source=git)** | Cambridge, MA, United States | Remote | Jul 07 |
 | **[Rogers Machinery Company, Inc.](http://rogers-machinery.com)** | **[HR Intern - Corporate](https://jobright.ai/jobs/info/6a4d94a14c6c9f7a619f835f?utm_campaign=1054&utm_source=git)** | Portland, OR 97224, USA | Remote | Jul 07 |
-| **[Nueces Electric Cooperative](https://nueceselectric.org/)** | **[HR/Communications Internship](https://jobright.ai/jobs/info/6a4d0e413122a76a8fd53f81?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX, United States | On Site | Jul 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a4d85a00209ea6fd68529dc?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Jul 07 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Internship - Recruiting Coordinator (In Office in Midtown Tampa)](https://jobright.ai/jobs/info/6a4d79ce35e45603c4bb40ed?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Jul 07 |
 | **[Klue](http://klue.com)** | **[Program Management Associate, Intern](https://jobright.ai/jobs/info/6a4d7811d27b2c4dda9b7c17?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia | Hybrid | Jul 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AMOREPACIFIC](https://ventures.amorepacific.com/index.do)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a475137c2d11a6a46672108?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
 | **[Travelers](https://upstateinsurance.com)** | **[Human Resources Leadership Development Program (HRLDP) Internship - Summer 2027](https://jobright.ai/jobs/info/6a47350bc2d11a6a46671c87?utm_campaign=1054&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 02 |
 | **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a4412edef17a815538a2d70?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 02 |
-| **[Precision Castparts](https://www.pccfasteners.com/ )** | **[Human Resources Co-Op - Spring 2027](https://jobright.ai/jobs/info/6a4c63e54f64ba41dcb5f460?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
