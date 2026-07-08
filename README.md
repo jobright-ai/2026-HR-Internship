@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rogers Machinery Company, Inc.](http://rogers-machinery.com)** | **[HR Intern - Corporate](https://jobright.ai/jobs/info/6a4d94a14c6c9f7a619f835f?utm_campaign=1054&utm_source=git)** | Portland, OR 97224, USA | Remote | Jul 07 |
+| **[Nueces Electric Cooperative](https://nueceselectric.org/)** | **[HR/Communications Internship](https://jobright.ai/jobs/info/6a4d0e413122a76a8fd53f81?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX, United States | On Site | Jul 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a4d85a00209ea6fd68529dc?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Jul 07 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Internship - Recruiting Coordinator (In Office in Midtown Tampa)](https://jobright.ai/jobs/info/6a4d79ce35e45603c4bb40ed?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Jul 07 |
 | **[Klue](http://klue.com)** | **[Program Management Associate, Intern](https://jobright.ai/jobs/info/6a4d7811d27b2c4dda9b7c17?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia | Hybrid | Jul 07 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Peckham, Inc.](https://www.peckham.org/)** | **[Human Resources Intern - Learning and Development](https://jobright.ai/jobs/info/6a4d16ce99523700cbff442c?utm_campaign=1054&utm_source=git)** | Lansing, MI, United States | Hybrid | Jul 07 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Talent Acquisition Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4d1324c643fd23fed3b8cc?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, United States | On Site | Jul 07 |
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/69de506236823d1b42580534?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 07 |
-| **[Nueces Electric Cooperative](https://nueceselectric.org/)** | **[HR/Communications Internship](https://jobright.ai/jobs/info/6a4d0e413122a76a8fd53f81?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX, United States | On Site | Jul 07 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Admissions Counselor Intern](https://jobright.ai/jobs/info/6a4d267435e45603c4bb2c88?utm_campaign=1054&utm_source=git)** | Eugene, OR, United States | Hybrid | Jul 07 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Campus Recruitment Intern](https://jobright.ai/jobs/info/6a4d013a3122a76a8fd53c81?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Jul 07 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4d53683122a76a8fd55132?utm_campaign=1054&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](https://www.pccfasteners.com/ )** | **[Human Resources Co-Op - Spring 2027](https://jobright.ai/jobs/info/6a4c63e54f64ba41dcb5f460?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jul 02 |
 | **[Travis County](https://www.traviscountytx.gov)** | **[Administrative Student Intern (Voter Registration)](https://jobright.ai/jobs/info/6a44214e105260150b720e1e?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Jul 02 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Forest City NC](https://jobright.ai/jobs/info/6a47083cc2d11a6a4667161f?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jul 02 |
-| **[Baker Group](http://thebakergroup.com)** | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a46ff5f3dbab558e29a9750?utm_campaign=1054&utm_source=git)** | Des Moines Metro | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
