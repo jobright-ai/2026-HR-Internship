@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Civil Aviation Organization](http://icao.int)** | **[Communications Intern-UNV Human Resources Section-Remote](https://jobright.ai/jobs/info/6a4dec843122a76a8fd56bae?utm_campaign=1054&utm_source=git)** | KS, United States | Remote | Jul 07 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Chattanooga, TN (Fall 2026)](https://jobright.ai/jobs/info/6a4dc38735e45603c4bb4b5d?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | On Site | Jul 07 |
 | **[Spoonful Media & Development](https://addalittlesugar.us/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a4dbb5ed27b2c4dda9b86e1?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 07 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4d9eac35e45603c4bb46e7?utm_campaign=1054&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3218eec477a5075f49078a?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jul 03 |
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[Human Resource Grad Intern](https://jobright.ai/jobs/info/69dd5a3261f6ed54321fcf47?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Jul 03 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a47754d3dbab558e29aa8cf?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 03 |
-| **[Avid Technology Professionals](http://www.avidtec.com/)** | **[HR/Accounting/Administration Intern](https://jobright.ai/jobs/info/6a4b4ffcc2d11a6a46677a03?utm_campaign=1054&utm_source=git)** | Laurel, MD | Hybrid | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
