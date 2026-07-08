@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a4d85a00209ea6fd68529dc?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Jul 07 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Internship - Recruiting Coordinator (In Office in Midtown Tampa)](https://jobright.ai/jobs/info/6a4d79ce35e45603c4bb40ed?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Jul 07 |
 | **[Klue](http://klue.com)** | **[Program Management Associate, Intern](https://jobright.ai/jobs/info/6a4d7811d27b2c4dda9b7c17?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia | Hybrid | Jul 07 |
 | **[Frenchman's Creek Beach and Country Club](https://www.frenchmanscreek.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4d6763d27b2c4dda9b789e?utm_campaign=1054&utm_source=git)** | Palm Beach Gardens, FL, United States | On Site | Jul 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travis County](https://www.traviscountytx.gov)** | **[Administrative Student Intern (Voter Registration)](https://jobright.ai/jobs/info/6a44214e105260150b720e1e?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Jul 02 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Forest City NC](https://jobright.ai/jobs/info/6a47083cc2d11a6a4667161f?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jul 02 |
 | **[Baker Group](http://thebakergroup.com)** | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a46ff5f3dbab558e29a9750?utm_campaign=1054&utm_source=git)** | Des Moines Metro | On Site | Jul 02 |
-| ↳ | **[Talent Outreach-Intern Program Coordinator](https://jobright.ai/jobs/info/6a4706ecc2d11a6a466715e3?utm_campaign=1054&utm_source=git)** | Ankeny, IA | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
