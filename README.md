@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate - Internship](https://jobright.ai/jobs/info/6a3aa003797099171917ad8a?utm_campaign=1054&utm_source=git)** | Fort Myers, FL 33912, USA | On Site | Jul 07 |
+| **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4d9eac35e45603c4bb46e7?utm_campaign=1054&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
+| **[Vinfen](http://www.vinfen.org)** | **[Paid Intern HR](https://jobright.ai/jobs/info/6a4d50e33122a76a8fd550a9?utm_campaign=1054&utm_source=git)** | Cambridge, MA, United States | Remote | Jul 07 |
 | **[Rogers Machinery Company, Inc.](http://rogers-machinery.com)** | **[HR Intern - Corporate](https://jobright.ai/jobs/info/6a4d94a14c6c9f7a619f835f?utm_campaign=1054&utm_source=git)** | Portland, OR 97224, USA | Remote | Jul 07 |
 | **[Nueces Electric Cooperative](https://nueceselectric.org/)** | **[HR/Communications Internship](https://jobright.ai/jobs/info/6a4d0e413122a76a8fd53f81?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX, United States | On Site | Jul 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a4d85a00209ea6fd68529dc?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Jul 07 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[PROJXON](www.projxon.com)** | **[IT Recruiter Intern](https://jobright.ai/jobs/info/6a4d5f5599523700cbff5699?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 07 |
 | **[PSA BDP](https://psabdp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3aca68dbedbf5680c71156?utm_campaign=1054&utm_source=git)** | Houston, TX 77032, United States | On Site | Jul 07 |
 | **[Accelint](https://accelint.com)** | **[Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/6a46e654c2d11a6a46670f57?utm_campaign=1054&utm_source=git)** | Saint Paul, MN | On Site | Jul 07 |
-| **[Vinfen](http://www.vinfen.org)** | **[Paid Intern HR](https://jobright.ai/jobs/info/6a4d50e33122a76a8fd550a9?utm_campaign=1054&utm_source=git)** | Cambridge, MA, United States | Remote | Jul 07 |
 | **[Blaze Credit Union](http://www.blazecu.com)** | **[Human Resources Intern-Fall 2026](https://jobright.ai/jobs/info/6a4d4ec50209ea6fd6851bba?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 07 |
 | **[Ionbond - IHI Group](http://www.ionbond.com)** | **[Recruitment and Onboarding Internship](https://jobright.ai/jobs/info/6a4d3e270209ea6fd6851763?utm_campaign=1054&utm_source=git)** | Madison Heights, MI, United States | On Site | Jul 07 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Talent Acquisition Intern - Fall 2026](https://jobright.ai/jobs/info/6a4d33fad27b2c4dda9b6a9f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 07 |
@@ -83,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4d53683122a76a8fd55132?utm_campaign=1054&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 07 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Jul 07 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid)](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union , NJ | On Site | Jul 07 |
-| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/6a02613dc4b08448a0b26092?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jul 07 |
+| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d95e519f97a42dc9c21125?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jul 07 |
 | **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/6a3091e6eace377055eb6fd5?utm_campaign=1054&utm_source=git)** | Livingston, NJ, United States | Remote | Jul 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Partner](https://jobright.ai/jobs/info/6a4c83e5c643fd23fed3a87e?utm_campaign=1054&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Jul 07 |
 | **[The Village of St Edward](https://www.vased.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4d6b16d27b2c4dda9b79cd?utm_campaign=1054&utm_source=git)** | Fairlawn, OH, United States | On Site | Jul 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://upstateinsurance.com)** | **[Human Resources Leadership Development Program (HRLDP) Internship - Summer 2027](https://jobright.ai/jobs/info/6a47350bc2d11a6a46671c87?utm_campaign=1054&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 02 |
 | **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a4412edef17a815538a2d70?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 02 |
 | **[Precision Castparts](https://www.pccfasteners.com/ )** | **[Human Resources Co-Op - Spring 2027](https://jobright.ai/jobs/info/6a4c63e54f64ba41dcb5f460?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jul 02 |
-| **[Travis County](https://www.traviscountytx.gov)** | **[Administrative Student Intern (Voter Registration)](https://jobright.ai/jobs/info/6a44214e105260150b720e1e?utm_campaign=1054&utm_source=git)** | Texas, United States | Hybrid | Jul 02 |
-| **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Forest City NC](https://jobright.ai/jobs/info/6a47083cc2d11a6a4667161f?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
