@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a4da8183122a76a8fd5634d?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 07 |
+| **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Chattanooga, TN (Fall 2026)](https://jobright.ai/jobs/info/6a4dc38735e45603c4bb4b5d?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | On Site | Jul 07 |
+| **[Spoonful Media & Development](https://addalittlesugar.us/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a4dbb5ed27b2c4dda9b86e1?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 07 |
+| **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4d9eac35e45603c4bb46e7?utm_campaign=1054&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
+| **[Nueces Electric Cooperative](https://nueceselectric.org/)** | **[HR/Communications Internship](https://jobright.ai/jobs/info/6a4db70c3122a76a8fd564de?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX, United States | On Site | Jul 07 |
 | **[The Golf Club at Newcastle](https://newcastlegolf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4da2a64c6c9f7a619f8594?utm_campaign=1054&utm_source=git)** | 13201 NE Bel Red Rd, Bellevue, WA 98005, USA | On Site | Jul 07 |
 | **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate - Internship](https://jobright.ai/jobs/info/6a3aa003797099171917ad8a?utm_campaign=1054&utm_source=git)** | Fort Myers, FL 33912, USA | On Site | Jul 07 |
-| **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4d9eac35e45603c4bb46e7?utm_campaign=1054&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
 | **[Vinfen](http://www.vinfen.org)** | **[Paid Intern HR](https://jobright.ai/jobs/info/6a4d50e33122a76a8fd550a9?utm_campaign=1054&utm_source=git)** | Cambridge, MA, United States | Remote | Jul 07 |
 | **[Rogers Machinery Company, Inc.](http://rogers-machinery.com)** | **[HR Intern - Corporate](https://jobright.ai/jobs/info/6a4d94a14c6c9f7a619f835f?utm_campaign=1054&utm_source=git)** | Portland, OR 97224, USA | Remote | Jul 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a4d85a00209ea6fd68529dc?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Jul 07 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Peckham, Inc.](https://www.peckham.org/)** | **[Human Resources Intern - Learning and Development](https://jobright.ai/jobs/info/6a4d16ce99523700cbff442c?utm_campaign=1054&utm_source=git)** | Lansing, MI, United States | Hybrid | Jul 07 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Talent Acquisition Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4d1324c643fd23fed3b8cc?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, United States | On Site | Jul 07 |
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/69de506236823d1b42580534?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 07 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, People & Culture - Fall 2026](https://jobright.ai/jobs/info/6a4dc2b00209ea6fd6853180?utm_campaign=1054&utm_source=git)** | Burbank, CA, United States | On Site | Jul 07 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Admissions Counselor Intern](https://jobright.ai/jobs/info/6a4d267435e45603c4bb2c88?utm_campaign=1054&utm_source=git)** | Eugene, OR, United States | Hybrid | Jul 07 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Campus Recruitment Intern](https://jobright.ai/jobs/info/6a4d013a3122a76a8fd53c81?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Jul 07 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4d53683122a76a8fd55132?utm_campaign=1054&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[Human Resource Grad Intern](https://jobright.ai/jobs/info/69dd5a3261f6ed54321fcf47?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Jul 03 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a47754d3dbab558e29aa8cf?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 03 |
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[HR/Accounting/Administration Intern](https://jobright.ai/jobs/info/6a4b4ffcc2d11a6a46677a03?utm_campaign=1054&utm_source=git)** | Laurel, MD | Hybrid | Jul 02 |
-| **[AMOREPACIFIC](https://ventures.amorepacific.com/index.do)** | **[Human Resources Administrative Intern](https://jobright.ai/jobs/info/6a475137c2d11a6a46672108?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
-| **[Travelers](https://upstateinsurance.com)** | **[Human Resources Leadership Development Program (HRLDP) Internship - Summer 2027](https://jobright.ai/jobs/info/6a47350bc2d11a6a46671c87?utm_campaign=1054&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 02 |
-| **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a4412edef17a815538a2d70?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
