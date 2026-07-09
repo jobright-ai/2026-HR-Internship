@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spooky Nook Sports](http://spookynooksports.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4ed3411544d7246c0d4607?utm_campaign=1054&utm_source=git)** | Manheim, PA, United States | On Site | Jul 08 |
+| **[Foundant](https://www.foundant.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4ed0701544d7246c0d44bf?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 08 |
+| **[Americare Senior Living](https://www.americareusa.net/)** | **[Recruiting Intern - Home Office](https://jobright.ai/jobs/info/6a4ec9e59469c0662034cad3?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | Remote | Jul 08 |
 | **[Aramark UK](aramark.co.uk)** | **[Human Resources Intern - Western Kentucky Univ.](https://jobright.ai/jobs/info/6a4eba5afc327f422fef3fd8?utm_campaign=1054&utm_source=git)** | Bowling Green, KY, United States | On Site | Jul 08 |
-| **[Nueces Electric Cooperative](https://nueceselectric.org/)** | **[HR/Communications Internship](https://jobright.ai/jobs/info/6a4eb3f30ea38951a6ff432d?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX, United States | On Site | Jul 08 |
-| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Now Hiring: Part-Time Human Resources Assistant (Intern)](https://jobright.ai/jobs/info/6a4eb30a397d8d353c28a02f?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Jul 08 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Internship](https://jobright.ai/jobs/info/6a4ece561544d7246c0d444b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 08 |
 | **[Giant Noise](http://giantnoise.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a3c0605882f121f56a32fe1?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 08 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0bb4d522d0d34036c8f323?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US, 98033 | On Site | Jul 08 |
 | ↳ | **[Talent Acquisition Intern Job Details / PACCAR](https://jobright.ai/jobs/info/6a32968129c90c607e4d7239?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US, 98033 | On Site | Jul 08 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Chattanooga, TN (Fall 2026)](https://jobright.ai/jobs/info/6a4dc38735e45603c4bb4b5d?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | On Site | Jul 07 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4d9eac35e45603c4bb46e7?utm_campaign=1054&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
 | **[Klue](http://klue.com)** | **[Program Management Associate, Intern](https://jobright.ai/jobs/info/6a4d7811d27b2c4dda9b7c17?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia | Hybrid | Jul 07 |
+| **[Ace Beverage Group](https://www.acebeveragegroup.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a4ec7ac15b4965afd5849d3?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 07 |
 | **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate - Internship](https://jobright.ai/jobs/info/6a3aa003797099171917ad8a?utm_campaign=1054&utm_source=git)** | Fort Myers, FL 33912, USA | On Site | Jul 07 |
 | **[Vinfen](http://www.vinfen.org)** | **[Paid Intern HR](https://jobright.ai/jobs/info/6a4d50e33122a76a8fd550a9?utm_campaign=1054&utm_source=git)** | Cambridge, MA, United States | Remote | Jul 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a4d85a00209ea6fd68529dc?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Jul 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LMCU](https://www.lmcu.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6a3c7a3ed261407de97fdcd0?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jul 04 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f29ad0ab4ec4779fffa028?utm_campaign=1054&utm_source=git)** | Arden, NC | On Site | Jul 04 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0fafdf619335383fb2ea55?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Jul 04 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f2793c8d8d624381aa0f3d?utm_campaign=1054&utm_source=git)** | Arden - North Carolina - USA, US | On Site | Jul 04 |
-| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f529910b36ff0354750cf5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jul 04 |
-| **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Resource Management Intern](https://jobright.ai/jobs/info/69810d907f40342e15d9e8b1?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, New Jersey, United States | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
