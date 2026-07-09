@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Central Health](https://www.centralhealth.net/)** | **[People Department Intern](https://jobright.ai/jobs/info/6a4fbf53397d8d353c28c5ce?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Jul 09 |
+| **[Baptist Memorial Health Care](https://www.baptistonline.org/locations/restorative-care)** | **[Intern-Career Development](https://jobright.ai/jobs/info/6a0848fc6186f46859886d51?utm_campaign=1054&utm_source=git)** | 350 North Humphreys Boulevard, Memphis, TN, 38120, US | On Site | Jul 09 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Talent Management Paid Intern – Executive Development & Talent Insights](https://jobright.ai/jobs/info/6a4fbebe9469c0662034eac0?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 09 |
 | **[AKRS Equipment](https://www.akrs.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a4fb6c2f57ed168c3416761?utm_campaign=1054&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 09 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Recruiting Intern Summer 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Jul 09 |
 | **[Foundant](https://www.foundant.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4ed0701544d7246c0d44bf?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 09 |
@@ -70,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Internship](https://jobright.ai/jobs/info/6a4ece561544d7246c0d444b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 08 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0be4fe4d93203636874db2?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Jul 08 |
 | **[Giant Noise](http://giantnoise.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a3c0605882f121f56a32fe1?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 08 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern Job Details / PACCAR](https://jobright.ai/jobs/info/6a32968129c90c607e4d7239?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US, 98033 | On Site | Jul 08 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0bb4d522d0d34036c8f323?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US, 98033 | On Site | Jul 08 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a0bb4d522d0d34036c8f323?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US, 98033 | On Site | Jul 08 |
+| ↳ | **[Talent Acquisition Intern Job Details / PACCAR](https://jobright.ai/jobs/info/6a32968129c90c607e4d7239?utm_campaign=1054&utm_source=git)** | Kirkland, WA, US, 98033 | On Site | Jul 08 |
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/6a310d1789f8f147d37377f5?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Remote | Jul 08 |
 | **[Tencent](https://www.tencent.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4e8c03fc327f422fef3392?utm_campaign=1054&utm_source=git)** | US-California-Palo Alto, United States of America | On Site | Jul 08 |
 | **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a4e40800ea38951a6ff27c0?utm_campaign=1054&utm_source=git)** | Chicago, United States | On Site | Jul 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ICM](http://www.icm.co.uk)** | **[HR Intern](https://jobright.ai/jobs/info/6a4b6a205d7b097d2df3d45a?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jul 05 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6a25f802d46c0f799608921e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 05 |
 | ↳ | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6a2a2a1b1de59e0682a831de?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Jul 05 |
-| **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f42407c78b9e45189596d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 05 |
-| ↳ | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jul 05 |
-| **[AST SpaceMobile](https://ast-science.com)** | **[Talent Acquisition/HR Intern](https://jobright.ai/jobs/info/6a379bbff6b55d12c79246ae?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | Hybrid | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
