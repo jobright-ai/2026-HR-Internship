@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4ff376f57ed168c34176ef?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 09 |
+| **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Asheville NC](https://jobright.ai/jobs/info/6a3d79ca78237a036d5e18a6?utm_campaign=1054&utm_source=git)** | Asheville, NC 28801, USA | Hybrid | Jul 09 |
+| ↳ | **[Case Manager Intern/Hickory NC](https://jobright.ai/jobs/info/6a3d79ce4d047136e0933c74?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jul 09 |
+| ↳ | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a3d79c9122f340d29cf0c1e?utm_campaign=1054&utm_source=git)** | Forest City, NC 28043, USA | Hybrid | Jul 09 |
+| **[KLS Martin Group](https://www.klsmartin.com/de/)** | **[Human Resources Intern (34581)](https://jobright.ai/jobs/info/6a3d775c882f121f56a379ed?utm_campaign=1054&utm_source=git)** | Jacksonville, FL 32246, United States | On Site | Jul 09 |
+| **[Compass Group Canada](http://www.compass-canada.com)** | **[E 15 Internship](https://jobright.ai/jobs/info/6a5008351544d7246c0d77df?utm_campaign=1054&utm_source=git)** | BLOOMINGTON, IN, US | On Site | Jul 09 |
+| **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Work-Based Learning Experience - Intern (3291)](https://jobright.ai/jobs/info/6a500822397d8d353c28da33?utm_campaign=1054&utm_source=git)** | Miami, FL 33142, United States | On Site | Jul 09 |
+| **[StackAdapt](https://www.stackadapt.com)** | **[People Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3d6d558bfad862bc99d011?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jul 09 |
+| **[UPS](https://www.i-parcel.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4bc333971cd25b06f982e2?utm_campaign=1054&utm_source=git)** | US - COMMERCE CITY (CODEN), United States of America | On Site | Jul 09 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a4fec961544d7246c0d70e2?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 09 |
 | **[Fidelity Bank / Oklahoma Fidelity Bank](http://fidelitybank.com)** | **[Human Resources Recruiting Intern](https://jobright.ai/jobs/info/6a4fec46f57ed168c3417541?utm_campaign=1054&utm_source=git)** | Wichita, KS, United States | On Site | Jul 09 |
 | **[Wolseley Canada Inc.](https://wolseleyinc.ca/)** | **[HR Intern/Co-op (4 month - Burlington,ON )](https://jobright.ai/jobs/info/6a4fec2c4649561ec08af923?utm_campaign=1054&utm_source=git)** | Burlington, ON, Canada | Hybrid | Jul 09 |
 | **[Bridgewell](https://bridgewell.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4fe9c41544d7246c0d6fda?utm_campaign=1054&utm_source=git)** | Peabody, MA, United States | On Site | Jul 09 |
+| **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/6a307c95524fd5657fe113bb?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Remote | Jul 09 |
 | **[PSA BDP](https://psabdp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3aca68dbedbf5680c71156?utm_campaign=1054&utm_source=git)** | Houston, TX 77032 US (Primary) | On Site | Jul 09 |
 | **[RCX Sports](https://rcxsports.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a4fe296397d8d353c28cf9f?utm_campaign=1054&utm_source=git)** | Remote, USA | Remote | Jul 09 |
 | **[Flagship Facility Services, Inc.](https://flagshipinc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a4fd9c2fc327f422fef6c66?utm_campaign=1054&utm_source=git)** | TX - SOUTHLAKE, United States of America | On Site | Jul 09 |
@@ -141,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[WELL Health Diagnostic Centres](https://welldiagnostics.ca)** | **[Temporary - HR Intern](https://jobright.ai/jobs/info/6a4c0f984eb370649b27c10c?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 06 |
 | **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a4c0eb06189f64e437f0e47?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Jul 06 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a399015649fdf162930197f?utm_campaign=1054&utm_source=git)** | Huntington, WV, US | On Site | Jul 06 |
-| **[UPS](https://www.i-parcel.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4bc333971cd25b06f982e2?utm_campaign=1054&utm_source=git)** | US - COMMERCE CITY (CODEN), United States of America | On Site | Jul 06 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jul 06 |
 | **[Aramark UK](aramark.co.uk)** | **[Human Resources Intern - LSU Athletic Venues and Events](https://jobright.ai/jobs/info/6a4bdec64eb370649b27b5bf?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 06 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Scholar Recruitment Intern](https://jobright.ai/jobs/info/6a432e9fe09ecb4959642694?utm_campaign=1054&utm_source=git)** | Central Management Office Dallas | On Site | Jul 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4bc4356189f64e437efb0e?utm_campaign=1054&utm_source=git)** | Ohio Department of Education25 South Front StreetColumbus43215-4104 | On Site | Jul 06 |
 | **[Uncle Giuseppe's Marketplace](https://uncleg.com)** | **[Intern (HR)](https://jobright.ai/jobs/info/6a4bc1a6971cd25b06f982ab?utm_campaign=1054&utm_source=git)** | Melville, NY 11747, USA | On Site | Jul 06 |
 | **[DeZURIK](http://www.dezurik.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a2f851e89f8f147d37321a9?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 06 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a298223495d985b99423d85?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 06 |
-| **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a2126aa338c01230511d2e7?utm_campaign=1054&utm_source=git)** | Southlake,TX,US | Hybrid | Jul 06 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 06 |
-| **[Pony.ai](https://www.pony.ai)** | **[HR Intern](https://jobright.ai/jobs/info/6a4b58535d7b097d2df3d28a?utm_campaign=1054&utm_source=git)** | Fremont, California, United States | On Site | Jul 06 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a4b555a6189f64e437eec21?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Jul 06 |
-| **[Cydecor, Inc.](http://www.cydecor.com)** | **[SkillBridge Military Internship – Talent Acquisition & Workforce Planning](https://jobright.ai/jobs/info/6a3daede122f340d29cf1c54?utm_campaign=1054&utm_source=git)** | Arlington, Virginia, VA | Hybrid | Jul 05 |
-| **[CUPSHE](https://www.cupshe.com/)** | **[HR and Admin Intern](https://jobright.ai/jobs/info/6a4b1ce8f9cbb100d1ab545e?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
