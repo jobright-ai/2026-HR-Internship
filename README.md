@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Technical Recruiter, North America Internship Team](https://jobright.ai/jobs/info/6a508c8b80c681315dfafd18?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 09 |
 | **[Balanced Body](https://www.pilates.com/)** | **[HR Administrative Assistant Internship](https://jobright.ai/jobs/info/6a505216397d8d353c28e7d4?utm_campaign=1054&utm_source=git)** | Sacramento, CA, United States | On Site | Jul 09 |
 | **[Lakeshore Management](http://www.lakeshoremhc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a394bdb1232144fb156a5e4?utm_campaign=1054&utm_source=git)** | Orlando, FL, United States | On Site | Jul 09 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[E 15 Internship](https://jobright.ai/jobs/info/6a5040569469c06620350ad1?utm_campaign=1054&utm_source=git)** | Bloomington, IN, United States | On Site | Jul 09 |
@@ -115,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health System KY & IN](https://www.baptisthealth.com/)** | **[Summer Intern - Workday HRIS](https://jobright.ai/jobs/info/6a4e3df015b4965afd582946?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Jul 08 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Talent Acquisition Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4e3d2b1544d7246c0d2195?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, United States | On Site | Jul 08 |
 | **[Bioventus](https://www.bioventus.com)** | **[DOD SkillBridge Military Intern - Human Resource Generalist](https://jobright.ai/jobs/info/6a4e317efc327f422fef20ac?utm_campaign=1054&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 08 |
-| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/6a02613dc4b08448a0b26092?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jul 08 |
+| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety – Summer 2026 Intern](https://jobright.ai/jobs/info/69d95e519f97a42dc9c21125?utm_campaign=1054&utm_source=git)** | DALLAS,TX,US | On Site | Jul 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbee7433ac8430e0d69c8?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Talent Acquisition Internship (For Academic Credit)](https://jobright.ai/jobs/info/6a4e217ffc327f422fef1e45?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 08 |
 | **[CNU's Center For American Studies](http://cnu.edu/cas/)** | **[SkillBridge Human Resources Training and Development Intern - Transitioning Services Members Only - (Cohort 1 - Starting January 4, 2027)](https://jobright.ai/jobs/info/6a4e32f6397d8d353c2882ac?utm_campaign=1054&utm_source=git)** | Newport News, VA, United States | On Site | Jul 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a4c11824f64ba41dcb5e580?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 06 |
 | **[WELL Health Diagnostic Centres](https://welldiagnostics.ca)** | **[Temporary - HR Intern](https://jobright.ai/jobs/info/6a4c0f984eb370649b27c10c?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 06 |
 | **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[Total Compensation Benchmarking Intern](https://jobright.ai/jobs/info/6a4c0eb06189f64e437f0e47?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Jul 06 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a399015649fdf162930197f?utm_campaign=1054&utm_source=git)** | Huntington, WV, US | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
