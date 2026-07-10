@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Triple Ring Technologies](http://tripleringtech.com/)** | **[AI & People Operations Intern](https://jobright.ai/jobs/info/6a50dba401740136c2141faf?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Jul 10 |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at UCSB or SDSU](https://jobright.ai/jobs/info/6a5014594649561ec08b0318?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, United States | Hybrid | Jul 10 |
 | **[UES](https://www.teamues.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a34c5c4649fdf16292f717f?utm_campaign=1054&utm_source=git)** | Orlando, FL, United States | On Site | Jul 10 |
 | **[Tesla](https://www.tesla.com)** | **[Technical Recruiter, North America Internship Team](https://jobright.ai/jobs/info/6a508c8b80c681315dfafd18?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 09 |
 | **[Balanced Body](https://www.pilates.com/)** | **[HR Administrative Assistant Internship](https://jobright.ai/jobs/info/6a505216397d8d353c28e7d4?utm_campaign=1054&utm_source=git)** | Sacramento, CA, United States | On Site | Jul 09 |
 | **[Lakeshore Management](http://www.lakeshoremhc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a394bdb1232144fb156a5e4?utm_campaign=1054&utm_source=git)** | Orlando, FL, United States | On Site | Jul 09 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[E 15 Internship](https://jobright.ai/jobs/info/6a5040569469c06620350ad1?utm_campaign=1054&utm_source=git)** | Bloomington, IN, United States | On Site | Jul 09 |
 | **[Pieper Electric, Inc.](http://pieperpower.com)** | **[Intern](https://jobright.ai/jobs/info/6a503fe91544d7246c0d83ab?utm_campaign=1054&utm_source=git)** | New Berlin, WI, United States | On Site | Jul 09 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at UCSB or SDSU](https://jobright.ai/jobs/info/6a5014594649561ec08b0318?utm_campaign=1054&utm_source=git)** | Home Based, CA, Los Angeles, CA, 90013, US | Remote | Jul 09 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[HR Intern - Talent Acquisition](https://jobright.ai/jobs/info/6a503b7a4649561ec08b0bd0?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Jul 09 |
 | **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/6a3da400882f121f56a386ee?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | Remote | Jul 09 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[E 15 Internship](https://jobright.ai/jobs/info/6a5027ed397d8d353c28e1cb?utm_campaign=1054&utm_source=git)** | 701 East 17th Street, BLOOMINGTON, IN, 47408, US | On Site | Jul 09 |
@@ -81,11 +82,11 @@ For a complete list, click the following sortable link below:
 | **[UPS](https://www.i-parcel.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4bc333971cd25b06f982e2?utm_campaign=1054&utm_source=git)** | US - COMMERCE CITY (CODEN), United States of America | On Site | Jul 09 |
 | **[Contemporary Amperex Technology USA Inc](http://www.catl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2aee429bf7365df089b41e?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Jul 09 |
 | **[AKRS Equipment](https://www.akrs.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a4fb6c2f57ed168c3416761?utm_campaign=1054&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 09 |
-| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a4fec961544d7246c0d70e2?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 09 |
+| **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a4fec961544d7246c0d70e2?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 09 |
 | **[Fidelity Bank / Oklahoma Fidelity Bank](http://fidelitybank.com)** | **[Human Resources Recruiting Intern](https://jobright.ai/jobs/info/6a4fec46f57ed168c3417541?utm_campaign=1054&utm_source=git)** | Wichita, KS, United States | On Site | Jul 09 |
 | **[Wolseley Canada Inc.](https://wolseleyinc.ca/)** | **[HR Intern/Co-op (4 month - Burlington,ON )](https://jobright.ai/jobs/info/6a4fec2c4649561ec08af923?utm_campaign=1054&utm_source=git)** | Burlington, ON, Canada | Hybrid | Jul 09 |
 | **[Bridgewell](https://bridgewell.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4fe9c41544d7246c0d6fda?utm_campaign=1054&utm_source=git)** | Peabody, MA, United States | On Site | Jul 09 |
-| **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/6a307c95524fd5657fe113bb?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Remote | Jul 09 |
+| **[ASME (The American Society of Mechanical Engineers)](https://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/6a307c95524fd5657fe113bb?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Remote | Jul 09 |
 | **[RCX Sports](https://rcxsports.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a4fe296397d8d353c28cf9f?utm_campaign=1054&utm_source=git)** | Remote, USA | Remote | Jul 09 |
 | **[PSA BDP](https://psabdp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3aca68dbedbf5680c71156?utm_campaign=1054&utm_source=git)** | Houston, TX 77032 US (Primary) | On Site | Jul 09 |
 | **[Flagship Facility Services, Inc.](https://flagshipinc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a4fd9c2fc327f422fef6c66?utm_campaign=1054&utm_source=git)** | TX - SOUTHLAKE, United States of America | On Site | Jul 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid)](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union , NJ | On Site | Jul 07 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a067185bc4184089f24fb66?utm_campaign=1054&utm_source=git)** | Southlake, TX | Hybrid | Jul 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Partner](https://jobright.ai/jobs/info/6a4c83e5c643fd23fed3a87e?utm_campaign=1054&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Jul 07 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, People & Culture - Fall 2026](https://jobright.ai/jobs/info/6a509d2ed5d2a327b664bfe6?utm_campaign=1054&utm_source=git)** | Burbank, CA, United States | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
