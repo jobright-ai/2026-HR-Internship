@@ -73,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a51cfc7ae4052672fe9b372?utm_campaign=1054&utm_source=git)** | Calgary, Canada | On Site | Jul 10 |
 | **[Valbruna Group USA](https://www.valbrunastainless.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a51c66b78e364789ca5c9d8?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 10 |
 | **[Eulerity](https://www.eulerity.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a3191d42ee3ac1b4beefa80?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 10 |
-| **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a51d5148d7d3e6cf1cc3904?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 10 |
+| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a51d5148d7d3e6cf1cc3904?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 10 |
 | **[The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology](https://wertheim.scripps.ufl.edu/)** | **[Human Resources Intern - Jupiter, FL](https://jobright.ai/jobs/info/6a51c99ebf63b66c7997caab?utm_campaign=1054&utm_source=git)** | Palm Beach, FL, United States | On Site | Jul 10 |
 | **[Honkamp, P.C.](http://honkamp.com)** | **[Human Resources Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51c332bf63b66c7997c49d?utm_campaign=1054&utm_source=git)** | Dubuque, IA, United States | On Site | Jul 10 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[IT Intern Fall Recruitment - MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/6a519c1957513b72e0c6585f?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jul 10 |
@@ -85,18 +85,18 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a51c124bf63b66c7997c185?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 10 |
 | **[Steel Dynamics Flat Roll Group](https://stld.steeldynamics.com/flat-roll/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a51b9e78d7d3e6cf1cc1c8b?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 10 |
 | **[MEM](https://www.mem-ins.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d4?utm_campaign=1054&utm_source=git)** | Omaha, NE, USA | Remote | Jul 10 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d6?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | Jul 10 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | Jul 10 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | Jul 10 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a3de90e4d047136e0935444?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | Jul 10 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a3de90c4d047136e0935443?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | Jul 10 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a3de90a4d047136e093543f?utm_campaign=1054&utm_source=git)** | Missouri, USA | Remote | Jul 10 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024556238f143e835327d9?utm_campaign=1054&utm_source=git)** | Missouri, USA | Remote | Jul 10 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a02455a238f143e835327da?utm_campaign=1054&utm_source=git)** | Kansas City, MO, USA | Remote | Jul 10 |
-| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a3de90a4d047136e0935440?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | Jul 10 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a3de9084d047136e093543d?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | Jul 10 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d5?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | Jul 10 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a3de90a4d047136e0935440?utm_campaign=1054&utm_source=git)** | St. Louis, MO, USA | Remote | Jul 10 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024556238f143e835327d9?utm_campaign=1054&utm_source=git)** | Missouri, USA | Remote | Jul 10 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a3de90c4d047136e0935443?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | Jul 10 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d6?utm_campaign=1054&utm_source=git)** | Columbia, MO, USA | Remote | Jul 10 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a3de90a4d047136e0935441?utm_campaign=1054&utm_source=git)** | Springfield, MO, USA | Remote | Jul 10 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a3de90a4d047136e093543f?utm_campaign=1054&utm_source=git)** | Missouri, USA | Remote | Jul 10 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a3de90e4d047136e0935444?utm_campaign=1054&utm_source=git)** | Illinois, USA | Remote | Jul 10 |
 | ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a3de9104d047136e0935447?utm_campaign=1054&utm_source=git)** | Kansas City, MO, USA | Remote | Jul 10 |
+| ↳ | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6a024553238f143e835327d3?utm_campaign=1054&utm_source=git)** | Iowa, USA | Remote | Jul 10 |
 | **[Leons](https://www.leonsdigital.com)** | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/6a51b39f02522b5b722e9d37?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 10 |
 | **[Urban League of Broward County](https://www.ulbroward.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5195348d7d3e6cf1cc06ad?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL 33311, USA | On Site | Jul 10 |
 | ↳ | **[Workforce Program Intern](https://jobright.ai/jobs/info/6a519d4778e364789ca5a7b5?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL 33311, USA | On Site | Jul 10 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[AppDirect](http://www.appdirect.com)** | **[Benefits & Payroll Intern (6 months)](https://jobright.ai/jobs/info/6a50fbce57513b72e0c62c1a?utm_campaign=1054&utm_source=git)** | Montreal, Canada | On Site | Jul 10 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern (Fall Semester)](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 10 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA or Baton Rouge, LA](https://jobright.ai/jobs/info/6a50ea3a02522b5b722e5dc6?utm_campaign=1054&utm_source=git)** | 13 Metairie - Metairie, LA 70005, United States | On Site | Jul 10 |
-| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 10 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 10 |
+| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 10 |
+| ↳ | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 10 |
 | **[Triple Ring Technologies](http://tripleringtech.com/)** | **[AI & People Operations Intern](https://jobright.ai/jobs/info/6a50dba401740136c2141faf?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Jul 10 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at UCSB or SDSU](https://jobright.ai/jobs/info/6a5014594649561ec08b0318?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, United States | Hybrid | Jul 10 |
 | **[Robert's Hawaii, Inc.](https://robertshawaii.com)** | **[Internship Opportunity](https://jobright.ai/jobs/info/695a29909f1b381eb272c562?utm_campaign=1054&utm_source=git)** | Honolulu, Hawaii, United States | Hybrid | Jul 10 |
@@ -138,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Case Manager Intern/Hickory NC](https://jobright.ai/jobs/info/6a3d79ce4d047136e0933c74?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jul 09 |
 | ↳ | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a3d79c9122f340d29cf0c1e?utm_campaign=1054&utm_source=git)** | Forest City, NC 28043, USA | Hybrid | Jul 09 |
 | **[KLS Martin Group](https://www.klsmartin.com/de/)** | **[Human Resources Intern (34581)](https://jobright.ai/jobs/info/6a3d775c882f121f56a379ed?utm_campaign=1054&utm_source=git)** | Jacksonville, FL 32246, United States | On Site | Jul 09 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a50263e4649561ec08b07f6?utm_campaign=1054&utm_source=git)** | Newark, DE, United States | On Site | Jul 09 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[E 15 Internship](https://jobright.ai/jobs/info/6a5008351544d7246c0d77df?utm_campaign=1054&utm_source=git)** | BLOOMINGTON, IN, US | On Site | Jul 09 |
 | **[The AES Corporation](https://www.aes.com)** | **[Workforce Planning Intern](https://jobright.ai/jobs/info/6a4d5c043122a76a8fd552dd?utm_campaign=1054&utm_source=git)** | US, Arlington, VA, United States of America | Hybrid | Jul 09 |
 | **[StackAdapt](https://www.stackadapt.com)** | **[People Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3d6d558bfad862bc99d011?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jul 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Central Health](https://www.centralhealth.net/)** | **[People Department Intern](https://jobright.ai/jobs/info/6a4fbf53397d8d353c28c5ce?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Jul 09 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Recruiting Intern Summer 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Jul 09 |
 | **[Foundant](https://www.foundant.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4ed0701544d7246c0d44bf?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 09 |
+| **[Bridgewell](https://bridgewell.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a51c976ae4052672fe9ad27?utm_campaign=1054&utm_source=git)** | Peabody, MA, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
