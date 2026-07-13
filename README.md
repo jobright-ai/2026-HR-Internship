@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | USA-New Jersey-Middlesex County, United States of America | On Site | Jul 13 |
+| **[Magnet Forensics](http://magnetforensics.com)** | **[HR Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a553ce6268af95237bea3b5?utm_campaign=1054&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Jul 13 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55332ef2c46727285f08dc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 13 |
 | **[New England Heritage Properties](http://heritageprop.net)** | **[Part Time Summer Internship](https://jobright.ai/jobs/info/6a552a60ae07d60a8d00f5c7?utm_campaign=1054&utm_source=git)** | Lowell, MA, United States | On Site | Jul 13 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (GMPT) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30c935093df201d07b2a47?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Finance & Timekeeping Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a54f2364119652ff3862555?utm_campaign=1054&utm_source=git)** | Staten Island, NY, United States | On Site | Jul 13 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Nomination Specialist intern/Volunteer](https://jobright.ai/jobs/info/6a54ecaff2c46727285eeabd?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a54ea8af2c46727285eea11?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a54e05fb361d54aceab79af?utm_campaign=1054&utm_source=git)** | Lafayette, IN, United States | On Site | Jul 13 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Tiffin, OH] (Unpaid, Fall 2026)](https://jobright.ai/jobs/info/6a54e04b8b24713fc151b597?utm_campaign=1054&utm_source=git)** | Tiffin, OH, United States | On Site | Jul 13 |
 | **[Jean Martin](https://www.jeanmartin.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a54e035b361d54aceab7989?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[HRO-2026-1i – Human Resources Intern](https://jobright.ai/jobs/info/6a4594fbc2d11a6a46669a3b?utm_campaign=1054&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 11 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a52580ae726ec56126a2a9b?utm_campaign=1054&utm_source=git)** | Ithaca, NY, United States | On Site | Jul 11 |
 | **[Lip Ink International](https://www.lipink.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5255408ef95364ead8de87?utm_campaign=1054&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a5237e8d007ee02d95f68fe?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
