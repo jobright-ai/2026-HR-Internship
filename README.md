@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/6a550672377f983ce8a97414?utm_campaign=1054&utm_source=git)** | Omaha Riverfront | Hybrid | Jul 13 |
+| **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa00962ebd316bece1bf05?utm_campaign=1054&utm_source=git)** | Newaygo, Michigan, US | On Site | Jul 13 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Work-Based Learning Experience - Intern (3318)](https://jobright.ai/jobs/info/6a54f9ca268af95237be86a7?utm_campaign=1054&utm_source=git)** | Miami, FL 33142 | On Site | Jul 13 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a51c124bf63b66c7997c185?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Finance & Timekeeping Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a54f2364119652ff3862555?utm_campaign=1054&utm_source=git)** | Staten Island, NY, United States | On Site | Jul 13 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Hideouts](https://madlyradlabs.web.app)** | **[Summer High School Administrative Startup Intern (Remote)](https://jobright.ai/jobs/info/6a546fa1e726ec56126aa449?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Family Guidance Centers, Inc.](https://www.fgcinc.org/)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/6a546d788ef95364ead958a3?utm_campaign=1054&utm_source=git)** | Family Guidance Center of Alabama Main office (F) - Montgomery, AL 36116 | On Site | Jul 12 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[HRIS Fellow](https://jobright.ai/jobs/info/6a546cdf8a74e077472fbc51?utm_campaign=1054&utm_source=git)** | Godley, TX, United States | Remote | Jul 12 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a54649a8a74e077472fb9ed?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 12 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5435e88a74e077472fb0b9?utm_campaign=1054&utm_source=git)** | Logan, UT, United States | On Site | Jul 12 |
 | ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5435b5c8eb0843027af264?utm_campaign=1054&utm_source=git)** | Vancouver, Canada | On Site | Jul 12 |
 | **[Inspirato](http://www.inspirato.com)** | **[Intern, Human Resources (Office Administration)](https://jobright.ai/jobs/info/6a44132357ffc220294062f7?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Jul 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Volunteer Management](https://jobright.ai/jobs/info/6a51d03cbf63b66c7997d342?utm_campaign=1054&utm_source=git)** | Kansas City - Kansas City, MO 64129 | On Site | Jul 10 |
 | **[Hut 8](https://hut8.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a51d00bae4052672fe9b422?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | On Site | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a51cfc7ae4052672fe9b372?utm_campaign=1054&utm_source=git)** | Calgary, Canada | On Site | Jul 10 |
-| **[Valbruna Group USA](https://www.valbrunastainless.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a51c66b78e364789ca5c9d8?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
