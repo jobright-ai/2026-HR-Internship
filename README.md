@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a554fe2ae07d60a8d01077a?utm_campaign=1054&utm_source=git)** | Edmonton, Canada | On Site | Jul 13 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Talent Acquisition Internship - $20/h](https://jobright.ai/jobs/info/6a55d473fdf4fa71202b6079?utm_campaign=1054&utm_source=git)** | Henderson, NV, United States | On Site | Jul 13 |
 | **[Rocket Internet SE](https://www.rocket-internet.com/)** | **[Intern in Recruiting and HR Development (m/f/d)](https://jobright.ai/jobs/info/6a55d470ef22935f2e3f7fc2?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55d269fdf4fa71202b5ea5?utm_campaign=1054&utm_source=git)** | Bozeman, MT, United States | On Site | Jul 13 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/6a55579a377f983ce8a9983e?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a556baaae07d60a8d01160d?utm_campaign=1054&utm_source=git)** | Boulder, CO, United States | On Site | Jul 13 |
 | **[xLight Inc.](https://www.xlight.com/)** | **[HR/IT Intern](https://jobright.ai/jobs/info/6a555058377f983ce8a99550?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area, United States | On Site | Jul 13 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a554fe2ae07d60a8d01077a?utm_campaign=1054&utm_source=git)** | Edmonton, AB, Canada | On Site | Jul 13 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a554fd4f2c46727285f15a5?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 13 |
 | **[SubCom](http://subcom.com)** | **[Human Resources Intern (6627)](https://jobright.ai/jobs/info/6a554ec1ae07d60a8d010709?utm_campaign=1054&utm_source=git)** | Newington, NH, United States | On Site | Jul 13 |
 | **[Steel Dynamics Flat Roll Group](https://stld.steeldynamics.com/flat-roll/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a554dff4119652ff3864ce1?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 13 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Fact Finders Pro](https://www.FactFindersPro.com)** | **[Technical Recruiter (Intern Trainee-Role-Unpaid)](https://jobright.ai/jobs/info/6a555b234119652ff3865316?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | Remote | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5557af2084cd792b477e96?utm_campaign=1054&utm_source=git)** | Laval, Canada | On Site | Jul 13 |
 | **[National Endowment for Financial Education](http://www.nefe.org/)** | **[Intern, Organizational Effectiveness & Talent Development](https://jobright.ai/jobs/info/6a555cf0ae07d60a8d010d6d?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | Remote | Jul 13 |
-| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a5477348576ec69c015342c?utm_campaign=1054&utm_source=git)** | New York, NY, United States of America | On Site | Jul 13 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jul 13 |
+| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jul 13 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a5477348576ec69c015342c?utm_campaign=1054&utm_source=git)** | New York, NY, United States of America | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a28f00e2d6c332ee52e8dfc?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Work-Based Learning Experience - Intern (3318)](https://jobright.ai/jobs/info/6a54f9ca268af95237be86a7?utm_campaign=1054&utm_source=git)** | Miami, FL 33142 | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
