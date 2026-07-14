@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/6a560460f7517b519ad52ea3?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55f81b21f64463ad351384?utm_campaign=1054&utm_source=git)** | Lexington, KY, United States | On Site | Jul 14 |
 | **[AppDirect](http://www.appdirect.com)** | **[Benefits & Payroll Intern (6 months)](https://jobright.ai/jobs/info/6a50fbce57513b72e0c62c1a?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | Hybrid | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55f7f7392ae330b30e8599?utm_campaign=1054&utm_source=git)** | Mississauga, Canada | On Site | Jul 14 |
 | **[Diverse Health](https://mydiversehealth.com)** | **[Human Resources & Talent Operations Intern (Graduate Level)](https://jobright.ai/jobs/info/6a55f5a5392ae330b30e83de?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
 | **[XILO](https://www.xilo.io/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a55efc6e9b77f668bd5f98b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Carter Support Services](https://cartersupportservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a55ef53efb06a45240d204c?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Jul 14 |
-| **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 14 |
-| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 14 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a554fd4f2c46727285f15a5?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 14 |
-| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a399015649fdf162930197f?utm_campaign=1054&utm_source=git)** | Huntington, WV, US | On Site | Jul 14 |
+| **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 14 |
+| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 14 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a399015649fdf162930197f?utm_campaign=1054&utm_source=git)** | Huntington, WV, US | On Site | Jul 14 |
+| ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/6a554fd4f2c46727285f15a5?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a554fe2ae07d60a8d01077a?utm_campaign=1054&utm_source=git)** | Edmonton, Canada | On Site | Jul 13 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Talent Acquisition Internship - $20/h](https://jobright.ai/jobs/info/6a55d473fdf4fa71202b6079?utm_campaign=1054&utm_source=git)** | Henderson, NV, United States | On Site | Jul 13 |
 | **[Rocket Internet SE](https://www.rocket-internet.com/)** | **[Intern in Recruiting and HR Development (m/f/d)](https://jobright.ai/jobs/info/6a55d470ef22935f2e3f7fc2?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 13 |
@@ -85,6 +86,9 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a432f67e09ecb49596429ef?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Organizational Development Director Intern/Volunteer](https://jobright.ai/jobs/info/6a55cb94fdf4fa71202b52e8?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (GMPT) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432f11cbf92c7bcd36e484?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5604b7efb06a45240d3150?utm_campaign=1054&utm_source=git)** | Burlington, VT, United States | On Site | Jul 13 |
+| ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a560452f7517b519ad52e8a?utm_campaign=1054&utm_source=git)** | Québec City, Canada | On Site | Jul 13 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Recruiter Internship](https://jobright.ai/jobs/info/6a432f31cbf92c7bcd36e4f1?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a55bce314f1040fa611b489?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55a461ef22935f2e3f585c?utm_campaign=1054&utm_source=git)** | Gatineau, Canada | On Site | Jul 13 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a55a09478611229b823d6f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Family Guidance Centers, Inc.](https://www.fgcinc.org/)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/6a546d788ef95364ead958a3?utm_campaign=1054&utm_source=git)** | Family Guidance Center of Alabama Main office (F) - Montgomery, AL 36116 | On Site | Jul 12 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[HRIS Fellow](https://jobright.ai/jobs/info/6a546cdf8a74e077472fbc51?utm_campaign=1054&utm_source=git)** | Godley, TX, United States | Remote | Jul 12 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5435e88a74e077472fb0b9?utm_campaign=1054&utm_source=git)** | Logan, UT, United States | On Site | Jul 12 |
-| ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5435b5c8eb0843027af264?utm_campaign=1054&utm_source=git)** | Vancouver, Canada | On Site | Jul 12 |
-| **[Inspirato](http://www.inspirato.com)** | **[Intern, Human Resources (Office Administration)](https://jobright.ai/jobs/info/6a44132357ffc220294062f7?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Jul 12 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Nomination Specialist intern/Volunteer](https://jobright.ai/jobs/info/6a5417c08a74e077472faa27?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 12 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment - Program Development Specialist Intern (CHSS)](https://jobright.ai/jobs/info/6a53eabe8ef95364ead93cfd?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
