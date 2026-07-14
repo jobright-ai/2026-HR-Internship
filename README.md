@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a55bce314f1040fa611b489?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55a461ef22935f2e3f585c?utm_campaign=1054&utm_source=git)** | Gatineau, Canada | On Site | Jul 13 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a55a09478611229b823d6f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | **[Xerox](https://www.xerox.com/)** | **[Connection Belonging & Impact Intern](https://jobright.ai/jobs/info/6a559b40c8c68410daa529b8?utm_campaign=1054&utm_source=git)** | Oak Brook, IL, United States | On Site | Jul 13 |
@@ -87,14 +88,15 @@ For a complete list, click the following sortable link below:
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Volunteer Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a552a1ff2c46727285f0339?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Jul 13 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a5529f8f2c46727285f02fb?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jul 13 |
 | **[The AES Corporation](https://www.aes.com)** | **[Workforce Planning Intern](https://jobright.ai/jobs/info/6a4d5c043122a76a8fd552dd?utm_campaign=1054&utm_source=git)** | US, Arlington, VA, United States of America | Hybrid | Jul 13 |
+| **[JPA Vietvalues](https://vvic.vn/)** | **[Internship Program](https://jobright.ai/jobs/info/6a55be4714f1040fa611b57b?utm_campaign=1054&utm_source=git)** | Game Creek, AK, United States | Remote | Jul 13 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Interviewer Intern](https://jobright.ai/jobs/info/6a5524a34119652ff3863a4e?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 13 |
 | ↳ | **[Interview Intern](https://jobright.ai/jobs/info/6a551ff0f2c46727285efeeb?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Cristo Rey Jesuit High School](https://www.cristorey.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55182f377f983ce8a97bac?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[Fact Finders Pro](https://www.FactFindersPro.com)** | **[Technical Recruiter (Intern Trainee-Role-Unpaid)](https://jobright.ai/jobs/info/6a555b234119652ff3865316?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | Remote | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5557af2084cd792b477e96?utm_campaign=1054&utm_source=git)** | Laval, Canada | On Site | Jul 13 |
 | **[National Endowment for Financial Education](http://www.nefe.org/)** | **[Intern, Organizational Effectiveness & Talent Development](https://jobright.ai/jobs/info/6a555cf0ae07d60a8d010d6d?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | Remote | Jul 13 |
-| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jul 13 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a5477348576ec69c015342c?utm_campaign=1054&utm_source=git)** | New York, NY, United States of America | On Site | Jul 13 |
+| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a5477348576ec69c015342c?utm_campaign=1054&utm_source=git)** | New York, NY, United States of America | On Site | Jul 13 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a28f00e2d6c332ee52e8dfc?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Work-Based Learning Experience - Intern (3318)](https://jobright.ai/jobs/info/6a54f9ca268af95237be86a7?utm_campaign=1054&utm_source=git)** | Miami, FL 33142 | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a5331eed007ee02d95fa93a?utm_campaign=1054&utm_source=git)** | San Francisco, United States | On Site | Jul 11 |
 | **[Summit](https://www.summithq.com/)** | **[People Operations (HR) Intern](https://jobright.ai/jobs/info/6a53186b9fbdab22fe13e3c6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 11 |
 | **[The HR Innovator Group](https://hrinnovatorsgroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a5315979fbdab22fe13e30f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 11 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a52e44dd007ee02d95f97c8?utm_campaign=1054&utm_source=git)** | Binghamton, NY, United States | On Site | Jul 11 |
-| **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a52dc0f9fbdab22fe13d4f5?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
