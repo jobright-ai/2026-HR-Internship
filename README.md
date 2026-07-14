@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall People Operations Intern](https://jobright.ai/jobs/info/6a5048c3397d8d353c28e731?utm_campaign=1054&utm_source=git)** | Calabasas, CA, USA | On Site | Jul 14 |
+| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[HR Intern (Hybrid 32 hours/week M-Th; In-Office M-W)](https://jobright.ai/jobs/info/6a5617aaf7517b519ad53be1?utm_campaign=1054&utm_source=git)** | Livonia, MI, United States | Hybrid | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5613f5e9b77f668bd6157d?utm_campaign=1054&utm_source=git)** | Surrey, Canada | On Site | Jul 14 |
 | **[Kinexus Group](https://www.kinexus.org)** | **[Intern - JMG Pathways](https://jobright.ai/jobs/info/6a560eb310c4d945d8647650?utm_campaign=1054&utm_source=git)** | Benton Harbor, MI, United States | On Site | Jul 14 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/6a560460f7517b519ad52ea3?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Fact Finders Pro](https://www.FactFindersPro.com)** | **[Technical Recruiter (Intern Trainee-Role-Unpaid)](https://jobright.ai/jobs/info/6a555b234119652ff3865316?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | Remote | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5557af2084cd792b477e96?utm_campaign=1054&utm_source=git)** | Laval, Canada | On Site | Jul 13 |
 | **[National Endowment for Financial Education](http://www.nefe.org/)** | **[Intern, Organizational Effectiveness & Talent Development](https://jobright.ai/jobs/info/6a555cf0ae07d60a8d010d6d?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | Remote | Jul 13 |
-| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jul 13 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a5477348576ec69c015342c?utm_campaign=1054&utm_source=git)** | New York, NY, United States of America | On Site | Jul 13 |
+| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a5477348576ec69c015342c?utm_campaign=1054&utm_source=git)** | New York, NY, United States of America | On Site | Jul 13 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a28f00e2d6c332ee52e8dfc?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Work-Based Learning Experience - Intern (3318)](https://jobright.ai/jobs/info/6a54f9ca268af95237be86a7?utm_campaign=1054&utm_source=git)** | Miami, FL 33142 | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KKR](http://www.kkr.com)** | **[2026 Off-Cycle Intern - Human Capital](https://jobright.ai/jobs/info/6a548dc7e726ec56126aaa59?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Jul 13 |
 | **[Debut](http://debutbiotech.com)** | **[Debut Internship Talent Pool](https://jobright.ai/jobs/info/6a548a5ae726ec56126aa995?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 12 |
 | **[Lorimer Ventures](https://www.lorimerventures.com/)** | **[Benefits & Payroll Intern (6 months)](https://jobright.ai/jobs/info/6a54820ac8eb0843027b01f6?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 12 |
-| **[Hideouts](https://madlyradlabs.web.app)** | **[Summer High School Administrative Startup Intern (Remote)](https://jobright.ai/jobs/info/6a546fa1e726ec56126aa449?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 12 |
-| **[Family Guidance Centers, Inc.](https://www.fgcinc.org/)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/6a546d788ef95364ead958a3?utm_campaign=1054&utm_source=git)** | Family Guidance Center of Alabama Main office (F) - Montgomery, AL 36116 | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
