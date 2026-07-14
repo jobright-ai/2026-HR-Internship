@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | USA-New Jersey-Middlesex County, United States of America | On Site | Jul 13 |
 | **[Matriosh](Matriosh.com)** | **[HR Intern (Remote, USA)](https://jobright.ai/jobs/info/6a557ff2f2c46727285f28df?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/6a55579a377f983ce8a9983e?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a556baaae07d60a8d01160d?utm_campaign=1054&utm_source=git)** | Boulder, CO, United States | On Site | Jul 13 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5546d12084cd792b4775fd?utm_campaign=1054&utm_source=git)** | Lutz, FL, United States | Hybrid | Jul 13 |
 | **[JD.COM](http://corporate.jd.com)** | **[JD Young HR Business Partner Internship](https://jobright.ai/jobs/info/6a50edea8d7d3e6cf1cbd7c7?utm_campaign=1054&utm_source=git)** | City of Industry, CA, United States | On Site | Jul 13 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Tiffin, OH] (Unpaid, Fall 2026)](https://jobright.ai/jobs/info/6a54e04b8b24713fc151b597?utm_campaign=1054&utm_source=git)** | Tiffin, OH, United States | On Site | Jul 13 |
-| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | USA-New Jersey-Middlesex County, United States of America | On Site | Jul 13 |
 | **[Magnet Forensics](http://magnetforensics.com)** | **[HR Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a553ce6268af95237bea3b5?utm_campaign=1054&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Jul 13 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55332ef2c46727285f08dc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 13 |
