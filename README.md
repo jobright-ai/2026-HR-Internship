@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xerox](https://www.xerox.com/)** | **[Connection Belonging & Impact Intern](https://jobright.ai/jobs/info/6a559b40c8c68410daa529b8?utm_campaign=1054&utm_source=git)** | Oak Brook, IL, United States | On Site | Jul 13 |
+| **[Master Center for Addiction Medicine](https://mastercenter.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a559b2d7ab5da6d2628f3b0?utm_campaign=1054&utm_source=git)** | Glen Allen, VA, United States | On Site | Jul 13 |
+| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a5597184119652ff386663b?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 13 |
+| **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/6a5594d52084cd792b47937b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 13 |
+| **[New England Heritage Properties](http://heritageprop.net)** | **[Part Time Summer Internship](https://jobright.ai/jobs/info/6a552a60ae07d60a8d00f5c7?utm_campaign=1054&utm_source=git)** | Lowell, MA, United States | On Site | Jul 13 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | USA-New Jersey-Middlesex County, United States of America | On Site | Jul 13 |
 | **[Matriosh](Matriosh.com)** | **[HR Intern (Remote, USA)](https://jobright.ai/jobs/info/6a557ff2f2c46727285f28df?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/6a55579a377f983ce8a9983e?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a556baaae07d60a8d01160d?utm_campaign=1054&utm_source=git)** | Boulder, CO, United States | On Site | Jul 13 |
-| **[xLight Inc.](https://www.xlight.com/)** | **[HR/IT Intern](https://jobright.ai/jobs/info/6a555058377f983ce8a99550?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 13 |
+| **[xLight Inc.](https://www.xlight.com/)** | **[HR/IT Intern](https://jobright.ai/jobs/info/6a555058377f983ce8a99550?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a554fe2ae07d60a8d01077a?utm_campaign=1054&utm_source=git)** | Edmonton, AB, Canada | On Site | Jul 13 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a554fd4f2c46727285f15a5?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 13 |
 | **[SubCom](http://subcom.com)** | **[Human Resources Intern (6627)](https://jobright.ai/jobs/info/6a554ec1ae07d60a8d010709?utm_campaign=1054&utm_source=git)** | Newington, NH, United States | On Site | Jul 13 |
@@ -77,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Magnet Forensics](http://magnetforensics.com)** | **[HR Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a553ce6268af95237bea3b5?utm_campaign=1054&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Jul 13 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55332ef2c46727285f08dc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 13 |
-| **[New England Heritage Properties](http://heritageprop.net)** | **[Part Time Summer Internship](https://jobright.ai/jobs/info/6a552a60ae07d60a8d00f5c7?utm_campaign=1054&utm_source=git)** | Lowell, MA, United States | On Site | Jul 13 |
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Volunteer Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a552a1ff2c46727285f0339?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Jul 13 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Human Resources Business Partner, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a5529f8f2c46727285f02fb?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jul 13 |
 | **[The AES Corporation](https://www.aes.com)** | **[Workforce Planning Intern](https://jobright.ai/jobs/info/6a4d5c043122a76a8fd552dd?utm_campaign=1054&utm_source=git)** | US, Arlington, VA, United States of America | Hybrid | Jul 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a52dc0f9fbdab22fe13d4f5?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 11 |
 | **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a52d6579fbdab22fe13d391?utm_campaign=1054&utm_source=git)** | Milpitas, CA, United States | On Site | Jul 11 |
 | **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a52d48f8a74e077472f63f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 11 |
-| **[National MS Society](http://www.nationalmssociety.org)** | **[Special Events/Development Intern](https://jobright.ai/jobs/info/6a52c724d007ee02d95f90e2?utm_campaign=1054&utm_source=git)** | Woodbridge Township, NJ, United States | On Site | Jul 11 |
-| **[Relief International](https://www.ri.org)** | **[HR Intern: Support Refugee Application Process – Afghanistan](https://jobright.ai/jobs/info/6a52c624e726ec56126a474f?utm_campaign=1054&utm_source=git)** | 1101 14th St NW, Washington, DC 20005, USA | Remote | Jul 11 |
-| **[ParallelDots](http://www.paralleldots.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a52c1b79fbdab22fe13cd85?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 11 |
-| **[Crown Medical, Inc.](https://crownmedical-inc.com/)** | **[Human Resource Specialist – Talent Acquisition](https://jobright.ai/jobs/info/6a52bf91d007ee02d95f8d41?utm_campaign=1054&utm_source=git)** | Santa Ana, CA, United States | Hybrid | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
