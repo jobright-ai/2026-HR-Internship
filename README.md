@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55a461ef22935f2e3f585c?utm_campaign=1054&utm_source=git)** | Gatineau, Canada | On Site | Jul 13 |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a55a09478611229b823d6f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | **[Xerox](https://www.xerox.com/)** | **[Connection Belonging & Impact Intern](https://jobright.ai/jobs/info/6a559b40c8c68410daa529b8?utm_campaign=1054&utm_source=git)** | Oak Brook, IL, United States | On Site | Jul 13 |
 | **[Master Center for Addiction Medicine](https://mastercenter.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a559b2d7ab5da6d2628f3b0?utm_campaign=1054&utm_source=git)** | Glen Allen, VA, United States | On Site | Jul 13 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a5597184119652ff386663b?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The HR Innovator Group](https://hrinnovatorsgroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a5315979fbdab22fe13e30f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 11 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a52e44dd007ee02d95f97c8?utm_campaign=1054&utm_source=git)** | Binghamton, NY, United States | On Site | Jul 11 |
 | **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a52dc0f9fbdab22fe13d4f5?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 11 |
-| **[SERES AUTO_USA](https://www.driveseres.com/)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/6a52d6579fbdab22fe13d391?utm_campaign=1054&utm_source=git)** | Milpitas, CA, United States | On Site | Jul 11 |
-| **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a52d48f8a74e077472f63f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
