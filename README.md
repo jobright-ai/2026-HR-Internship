@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matriosh](Matriosh.com)** | **[HR Intern (Remote, USA)](https://jobright.ai/jobs/info/6a557ff2f2c46727285f28df?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/6a55579a377f983ce8a9983e?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 13 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a556baaae07d60a8d01160d?utm_campaign=1054&utm_source=git)** | Boulder, CO, United States | On Site | Jul 13 |
 | **[xLight Inc.](https://www.xlight.com/)** | **[HR/IT Intern](https://jobright.ai/jobs/info/6a555058377f983ce8a99550?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a554fe2ae07d60a8d01077a?utm_campaign=1054&utm_source=git)** | Edmonton, AB, Canada | On Site | Jul 13 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a554fd4f2c46727285f15a5?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 13 |
@@ -85,10 +87,11 @@ For a complete list, click the following sortable link below:
 | **[Fact Finders Pro](https://www.FactFindersPro.com)** | **[Technical Recruiter (Intern Trainee-Role-Unpaid)](https://jobright.ai/jobs/info/6a555b234119652ff3865316?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | Remote | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5557af2084cd792b477e96?utm_campaign=1054&utm_source=git)** | Laval, Canada | On Site | Jul 13 |
 | **[National Endowment for Financial Education](http://www.nefe.org/)** | **[Intern, Organizational Effectiveness & Talent Development](https://jobright.ai/jobs/info/6a555cf0ae07d60a8d010d6d?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | Remote | Jul 13 |
-| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a5477348576ec69c015342c?utm_campaign=1054&utm_source=git)** | New York, NY, United States of America | On Site | Jul 13 |
-| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jul 13 |
+| **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Jul 13 |
+| ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a5477348576ec69c015342c?utm_campaign=1054&utm_source=git)** | New York, NY, United States of America | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a28f00e2d6c332ee52e8dfc?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Work-Based Learning Experience - Intern (3318)](https://jobright.ai/jobs/info/6a54f9ca268af95237be86a7?utm_campaign=1054&utm_source=git)** | Miami, FL 33142 | On Site | Jul 13 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbec04d3bec4144b4dc58?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | **[Gallup](http://www.gallup.com)** | **[Talent Analyst Intern](https://jobright.ai/jobs/info/6a550672377f983ce8a97414?utm_campaign=1054&utm_source=git)** | Omaha Riverfront | Hybrid | Jul 13 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa00962ebd316bece1bf05?utm_campaign=1054&utm_source=git)** | Newaygo, Michigan, US | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbee7433ac8430e0d69c8?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Relief International](https://www.ri.org)** | **[HR Intern: Support Refugee Application Process – Afghanistan](https://jobright.ai/jobs/info/6a52c624e726ec56126a474f?utm_campaign=1054&utm_source=git)** | 1101 14th St NW, Washington, DC 20005, USA | Remote | Jul 11 |
 | **[ParallelDots](http://www.paralleldots.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a52c1b79fbdab22fe13cd85?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Crown Medical, Inc.](https://crownmedical-inc.com/)** | **[Human Resource Specialist – Talent Acquisition](https://jobright.ai/jobs/info/6a52bf91d007ee02d95f8d41?utm_campaign=1054&utm_source=git)** | Santa Ana, CA, United States | Hybrid | Jul 11 |
-| **[PSA BDP](https://psabdp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3aca68dbedbf5680c71156?utm_campaign=1054&utm_source=git)** | Houston - Houston, TX 77032 US (Primary) | On Site | Jul 11 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[High School Health & Safety Internship](https://jobright.ai/jobs/info/6a52ba068a74e077472f5c02?utm_campaign=1054&utm_source=git)** | New Haven, IN, United States | On Site | Jul 11 |
-| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a52ad7d8ef95364ead8f60f?utm_campaign=1054&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
