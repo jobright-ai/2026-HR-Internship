@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56ef04efb06a45240d8b7a?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a56d90553b3962b910b2eff?utm_campaign=1054&utm_source=git)** | Gainesville, FL, United States | On Site | Jul 14 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA or Baton Rouge, LA](https://jobright.ai/jobs/info/6a50ea3a02522b5b722e5dc6?utm_campaign=1054&utm_source=git)** | Metairie, LA, United States | On Site | Jul 14 |
 | **[TRDI Incorporated](https://trdi.org/)** | **[Intern-00 HR](https://jobright.ai/jobs/info/6a569d00f7517b519ad56dcf?utm_campaign=1054&utm_source=git)** | San Antonio, Texas, United States | On Site | Jul 14 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Internet Brands](http://www.internetbrands.com)** | **[HR & Recruiting Operations Intern (Part-Time)](https://jobright.ai/jobs/info/6a564311efb06a45240d48a5?utm_campaign=1054&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 14 |
 | **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a56529510c4d945d8648da1?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jul 14 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6a564f8df7517b519ad54e3c?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | On Site | Jul 14 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a51b49178e364789ca5b497?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Jul 14 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Jul 14 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Jul 14 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a51b49178e364789ca5b497?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Jul 14 |
 | **[Elixir MultiNational](https://elixirmultinational.us/)** | **[HR Intern](https://jobright.ai/jobs/info/6a564ab7efb06a45240d4dc4?utm_campaign=1054&utm_source=git)** | Dallas, Dallas, TX, United States | Remote | Jul 14 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/6a564787f7517b519ad54976?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Jul 14 |
 | **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5645d110c4d945d864870b?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Central Operation Intern (HR Operation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3218eec477a5075f49078a?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Employee Relations Intern](https://jobright.ai/jobs/info/6a55579a377f983ce8a9983e?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a556baaae07d60a8d01160d?utm_campaign=1054&utm_source=git)** | Boulder, CO, United States | On Site | Jul 13 |
-| **[xLight Inc.](https://www.xlight.com/)** | **[HR/IT Intern](https://jobright.ai/jobs/info/6a555058377f983ce8a99550?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
