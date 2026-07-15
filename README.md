@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a57e3523330ca6f993c1cba?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 15 |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a57e2749f1f56462cf67215?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jul 15 |
+| **[Central Health](https://www.centralhealth.net/)** | **[People Department Intern](https://jobright.ai/jobs/info/6a4fbf53397d8d353c28c5ce?utm_campaign=1054&utm_source=git)** | Austin, TX, US | On Site | Jul 15 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, HR - Organizational Learning & Development (Fall 2026)](https://jobright.ai/jobs/info/6a57df163330ca6f993c1b46?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 15 |
+| **[Turnberry](https://www.turnberry.com)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a57b4c0e9b77f668bd6a1f7?utm_campaign=1054&utm_source=git)** | Aventura, FL, United States | On Site | Jul 15 |
 | **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[People & Culture / Operations Intern](https://jobright.ai/jobs/info/6a57d731f7517b519ad5d8e3?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 15 |
 | **[Hana Technologies Inc.](https://www.hanaoh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a57d64a21f64463ad35c6cf?utm_campaign=1054&utm_source=git)** | Solon, OH, United States | On Site | Jul 15 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern- Fall 2026](https://jobright.ai/jobs/info/6a57b7aba791c6211bf007e1?utm_campaign=1054&utm_source=git)** | Bronx Zoo | On Site | Jul 15 |
@@ -72,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Mountain Capital Partners](http://www.mcp.ski)** | **[People Team Intern](https://jobright.ai/jobs/info/6a57b9e9efb06a45240dcd42?utm_campaign=1054&utm_source=git)** | Mountain Capital Partners - Durango, CO 81301 | On Site | Jul 15 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Organizational Development Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a57b894f7517b519ad5ca2e?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
 | **[SmartSimple Software](http://www.smartsimple.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a57b63cefb06a45240dca51?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 15 |
-| **[Turnberry](https://www.turnberry.com)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a57b4c0e9b77f668bd6a1f7?utm_campaign=1054&utm_source=git)** | Aventura, FL, United States | On Site | Jul 15 |
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[HR/Recruitment Intern](https://jobright.ai/jobs/info/6a57b10810c4d945d8650344?utm_campaign=1054&utm_source=git)** | DALLAS, TX, United States | On Site | Jul 15 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Workforce Operations Intern (Time & Attendance)](https://jobright.ai/jobs/info/6a57b10221f64463ad35b2bf?utm_campaign=1054&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 15 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6a57b021a791c6211bf00297?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Jul 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AppDirect](http://www.appdirect.com)** | **[Benefits & Payroll Intern (6 months)](https://jobright.ai/jobs/info/6a50fbce57513b72e0c62c1a?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | Hybrid | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55f7f7392ae330b30e8599?utm_campaign=1054&utm_source=git)** | Mississauga, Canada | On Site | Jul 14 |
 | **[Diverse Health](https://mydiversehealth.com)** | **[Human Resources & Talent Operations Intern (Graduate Level)](https://jobright.ai/jobs/info/6a55f5a5392ae330b30e83de?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
-| **[XILO](https://www.xilo.io/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a55efc6e9b77f668bd5f98b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
-| **[Carter Support Services](https://cartersupportservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a55ef53efb06a45240d204c?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Jul 14 |
-| **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 14 |
-| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
