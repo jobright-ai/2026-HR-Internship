@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[HR Projects Intern](https://jobright.ai/jobs/info/6a568fb2f7517b519ad567fc?utm_campaign=1054&utm_source=git)** | Allentown, PA, United States | Hybrid | Jul 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Payroll Analyst Project Intern (HROP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a572a3a21f64463ad35822b?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 15 |
+| ↳ | **[Leave of Absence Analyst Project Intern (HROP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a572a4853b3962b910b3cee?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 15 |
+| **[Bel](https://www.groupe-bel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a574d06367e61670f5aef21?utm_campaign=1054&utm_source=git)** | Nampa, ID, United States | On Site | Jul 15 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter - Intern (Unpaid)](https://jobright.ai/jobs/info/6a574ad110c4d945d864d9e7?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Jul 15 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Birmingham](https://jobright.ai/jobs/info/6a44b7a7105260150b72272d?utm_campaign=1054&utm_source=git)** | 05 Birmingham - Birmingham, AL 35209 | On Site | Jul 15 |
 | **[OSF HealthCare](http://www.osfhealthcare.org)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a56a43defb06a45240d7577?utm_campaign=1054&utm_source=git)** | Peoria, IL, United States | On Site | Jul 15 |
 | **[Four Hands](https://fourhands.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a572a9ae9b77f668bd66f13?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Jul 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Leave of Absence Analyst Project Intern (HROP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a572a4853b3962b910b3cee?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 14 |
-| ↳ | **[Payroll Analyst Project Intern (HROP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a572a3a21f64463ad35822b?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 14 |
 | **[Foundant](https://www.foundant.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4ed0701544d7246c0d44bf?utm_campaign=1054&utm_source=git)** | Bozeman, MT, United States | Remote | Jul 14 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Internship](https://jobright.ai/jobs/info/6a5710dd21f64463ad357c60?utm_campaign=1054&utm_source=git)** | Marina del Rey, CA, United States | Remote | Jul 14 |
 | **[Checkbook](https://www.checkbook.io)** | **[Checkbook Internship Talent Pool](https://jobright.ai/jobs/info/6a57060ce9b77f668bd66754?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Remote | Jul 14 |
@@ -110,9 +112,8 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a18cc9b6243320e8d16811b?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Jul 14 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a51b49178e364789ca5b497?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Jul 14 |
 | **[Elixir MultiNational](https://elixirmultinational.us/)** | **[HR Intern](https://jobright.ai/jobs/info/6a564ab7efb06a45240d4dc4?utm_campaign=1054&utm_source=git)** | Dallas, Dallas, TX, United States | Remote | Jul 14 |
-| **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/6a564787f7517b519ad54976?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Jul 14 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall People Operations Intern](https://jobright.ai/jobs/info/6a1d7dd66b135014dbc9660f?utm_campaign=1054&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 14 |
 | **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5645d110c4d945d864870b?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 14 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall People Operations Intern](https://jobright.ai/jobs/info/6a52d7de9fbdab22fe13d3d3?utm_campaign=1054&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a56302810c4d945d8647fd0?utm_campaign=1054&utm_source=git)** | Fayetteville, AR, United States | On Site | Jul 14 |
 | ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a56301ce9b77f668bd61bec?utm_campaign=1054&utm_source=git)** | East Lansing, MI, United States | On Site | Jul 14 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Organizational Development Director Volunteer/Intern](https://jobright.ai/jobs/info/6a562e1af7517b519ad540c2?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Recruiter Internship](https://jobright.ai/jobs/info/6a432f31cbf92c7bcd36e4f1?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[Appco Group North America](http://www.appcogroup.com/)** | **[Summer Internship with Appco Group US / HR & Recruitment](https://jobright.ai/jobs/info/6a55bce314f1040fa611b489?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55a461ef22935f2e3f585c?utm_campaign=1054&utm_source=git)** | Gatineau, Canada | On Site | Jul 13 |
-| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a55a09478611229b823d6f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
