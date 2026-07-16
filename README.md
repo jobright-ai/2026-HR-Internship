@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 16 |
+| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Human Resources Internship - Head of HR & Project Management](https://jobright.ai/jobs/info/6a58ebc2856af468ab0009f2?utm_campaign=1054&utm_source=git)** | Charleston, SC, United States | On Site | Jul 16 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Armstrong Fluid Technology](http://armstrongfluidtechnology.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a57b94910c4d945d86508e4?utm_campaign=1054&utm_source=git)** | North Tonawanda, New York, United States | On Site | Jul 16 |
 | **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[People Experience Intern](https://jobright.ai/jobs/info/6a58d948856af468ab0002d6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Jul 16 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Jul 16 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Jul 16 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Human Capital](https://jobright.ai/jobs/info/6a58d4a3c8e3a473cb8a32ff?utm_campaign=1054&utm_source=git)** | Washington | On Site | Jul 16 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a58d32a856af468abffff5f?utm_campaign=1054&utm_source=git)** | Athens, GA, United States | On Site | Jul 16 |
 | **[Astemo Ltd.](https://www.hitachiastemo.com)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/6a58d00b4da96a42cfd8d24c?utm_campaign=1054&utm_source=git)** | Greenfield, Indiana, United States of America | On Site | Jul 16 |
+| **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2a5bab495d985b99428a4f?utm_campaign=1054&utm_source=git)** | Lehi, UT, United States | On Site | Jul 16 |
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT Academy Admissions Intern - Fall 2026](https://jobright.ai/jobs/info/6a0395f8f3d6cc51d6378571?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 16 |
 | **[TenBerke](https://tenberke.com/)** | **[Internship Talent Pool Submission](https://jobright.ai/jobs/info/6a58c87ec8e3a473cb8a2e49?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[AI Intern - Human Resources](https://jobright.ai/jobs/info/6a58be05686b4755d1e0c092?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 16 |
@@ -103,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a57e2749f1f56462cf67215?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jul 15 |
 | **[Central Health](https://www.centralhealth.net/)** | **[People Department Intern](https://jobright.ai/jobs/info/6a4fbf53397d8d353c28c5ce?utm_campaign=1054&utm_source=git)** | Austin, TX, US | On Site | Jul 15 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, HR - Organizational Learning & Development (Fall 2026)](https://jobright.ai/jobs/info/6a57df163330ca6f993c1b46?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 15 |
-| **[Turnberry](https://www.turnberry.com)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a57b4c0e9b77f668bd6a1f7?utm_campaign=1054&utm_source=git)** | Aventura, FL, United States | On Site | Jul 15 |
 | **[Hana Technologies Inc.](https://www.hanaoh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a57d64a21f64463ad35c6cf?utm_campaign=1054&utm_source=git)** | Solon, OH, United States | On Site | Jul 15 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern- Fall 2026](https://jobright.ai/jobs/info/6a57b7aba791c6211bf007e1?utm_campaign=1054&utm_source=git)** | Bronx Zoo | On Site | Jul 15 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | USA-New Jersey-Middlesex County, United States of America | On Site | Jul 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Volunteer Program Internship](https://jobright.ai/jobs/info/6a56a1c810c4d945d864afa5?utm_campaign=1054&utm_source=git)** | Chicago, IL 60614, USA | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a56a10110c4d945d864af25?utm_campaign=1054&utm_source=git)** | Urbana, IL, United States | On Site | Jul 14 |
 | **[Base-2 Solutions](https://www.base-2solutions.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a569f6053b3962b910b182e?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/6a560460f7517b519ad52ea3?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jul 14 |
-| **[BestDrive by Continental](https://www.linkedin.com/company/104946179)** | **[Intern - Recruiter, Year-Round - BestDrive](https://jobright.ai/jobs/info/6a5699f810c4d945d864aa32?utm_campaign=1054&utm_source=git)** | Fort Mill, SC, United States | Hybrid | Jul 14 |
-| **[Definity](https://definityfirst.com/)** | **[IT Recruiter Intern](https://jobright.ai/jobs/info/6a56983953b3962b910b1341?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Volunteer Coordination Intern (Unpaid)](https://jobright.ai/jobs/info/6a56790621f64463ad354b90?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
