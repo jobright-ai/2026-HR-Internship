@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Value Group People Office](https://jobright.ai/jobs/info/6a58f98d4da96a42cfd8e4c0?utm_campaign=1054&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Jul 16 |
+| **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Human Resources Internship - Head of HR & Project Management](https://jobright.ai/jobs/info/6a58f3e163a8f619507bf65c?utm_campaign=1054&utm_source=git)** | Charleston, SC, United States | On Site | Jul 16 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Head of HR & Project Management](https://jobright.ai/jobs/info/6a58efa8856af468ab000c98?utm_campaign=1054&utm_source=git)** | Charleston, SC, United States | On Site | Jul 16 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 16 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Human Resources Internship - Head of HR & Project Management](https://jobright.ai/jobs/info/6a58ebc2856af468ab0009f2?utm_campaign=1054&utm_source=git)** | Charleston, SC, United States | On Site | Jul 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
@@ -85,13 +88,14 @@ For a complete list, click the following sortable link below:
 | **[City of New York](https://www.nyc.gov)** | **[Personnel Services Intern, Bureau of Center for Population Health Data Science Administration](https://jobright.ai/jobs/info/6a58322c72fe7a7b98dcd6ba?utm_campaign=1054&utm_source=git)** | New York City, NY, United States | On Site | Jul 15 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern Job Details / PCL Construction](https://jobright.ai/jobs/info/6a582b873330ca6f993c3965?utm_campaign=1054&utm_source=git)** | Bellevue, WA, US | On Site | Jul 15 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Union, NJ](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Jul 15 |
+| **[Skyhawks Sports - Treasure Valley](www.skyhawks.com/boise)** | **[Hiring & Coach Recruiting Coordinator Intern](https://jobright.ai/jobs/info/6a58ef174da96a42cfd8e16f?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Jul 15 |
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a58298b68d16a30e2412028?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Jul 15 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/6a581da79838a11e5d836ec7?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 15 |
 | **[Newegg](https://www.newegg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a58857372fe7a7b98dcf287?utm_campaign=1054&utm_source=git)** | Diamond Bar, CA, United States | On Site | Jul 15 |
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5811b53330ca6f993c326a?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Jul 15 |
 | **[Metro One Security](http://metroonelpsg.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a58108e72fe7a7b98dccd61?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 15 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5810203330ca6f993c31e7?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Jul 15 |
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6a5810208f51964c04046bb1?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 15 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5810203330ca6f993c31e7?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Jul 15 |
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6a58101768d16a30e241196c?utm_campaign=1054&utm_source=git)** | Plano, TX 75074, USA | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a580e5a3330ca6f993c314e?utm_campaign=1054&utm_source=git)** | Berkeley, CA, United States | On Site | Jul 15 |
 | ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a580e4c8f51964c04046b09?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ, United States | On Site | Jul 15 |
@@ -113,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | USA-New Jersey-Middlesex County, United States of America | On Site | Jul 15 |
 | **[PSA BDP](https://psabdp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3aca68dbedbf5680c71156?utm_campaign=1054&utm_source=git)** | Houston - Houston, TX 77032 US (Primary) | On Site | Jul 15 |
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/6a57cd4010c4d945d86511a1?utm_campaign=1054&utm_source=git)** | Chula Vista, CA, United States | On Site | Jul 15 |
-| **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f21fdc5277c00c6483ae1?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Jul 15 |
+| **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a563cf321f64463ad35327b?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Jul 15 |
 | **[Baptist Health System KY & IN](https://www.baptisthealth.com/)** | **[Summer Intern - Workday HRIS](https://jobright.ai/jobs/info/6a4e3df015b4965afd582946?utm_campaign=1054&utm_source=git)** | Kentucky, United States | Remote | Jul 15 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6a57bb67efb06a45240dce65?utm_campaign=1054&utm_source=git)** | Omni Service Center, 4001 Maple Ave, Dallas, TX, United States | On Site | Jul 15 |
 | **[Ergodyne](https://www.ergodyne.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a57bafea791c6211bf00a95?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IAMPACT MGMT](iampactmgmt.com)** | **[Talent Manager Intern (Influencer)](https://jobright.ai/jobs/info/6a56acfbefb06a45240d780b?utm_campaign=1054&utm_source=git)** | LA Metro Area | Remote | Jul 14 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6a51c53802522b5b722eb36e?utm_campaign=1054&utm_source=git)** | Paramus, NJ, United States | Hybrid | Jul 14 |
 | ↳ | **[Intern - Human Resources (Retail HR Support)](https://jobright.ai/jobs/info/6a2d7e0a7cd40a338fae8e0c?utm_campaign=1054&utm_source=git)** | Paramus, NJ | Hybrid | Jul 14 |
-| **[Ergodyne](https://www.ergodyne.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56a5ed53b3962b910b1c6a?utm_campaign=1054&utm_source=git)** | Greater Minneapolis-St. Paul Area, United States | On Site | Jul 14 |
-| **[PAWS Chicago](https://www.pawschicago.org)** | **[Volunteer Program Internship](https://jobright.ai/jobs/info/6a56a1c810c4d945d864afa5?utm_campaign=1054&utm_source=git)** | Chicago, IL 60614, USA | On Site | Jul 14 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a56a10110c4d945d864af25?utm_campaign=1054&utm_source=git)** | Urbana, IL, United States | On Site | Jul 14 |
-| **[Base-2 Solutions](https://www.base-2solutions.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a569f6053b3962b910b182e?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
