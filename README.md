@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Acutis Diagnostics](https://www.acutis.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5836d472fe7a7b98dcd764?utm_campaign=1054&utm_source=git)** | Hicksville, NY, United States | On Site | Jul 15 |
 | **[City of New York](https://www.nyc.gov)** | **[Personnel Services Intern, Bureau of Center for Population Health Data Science Administration](https://jobright.ai/jobs/info/6a58322c72fe7a7b98dcd6ba?utm_campaign=1054&utm_source=git)** | New York City, NY, United States | On Site | Jul 15 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern Job Details / PCL Construction](https://jobright.ai/jobs/info/6a582b873330ca6f993c3965?utm_campaign=1054&utm_source=git)** | Bellevue, WA, US | On Site | Jul 15 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Union, NJ](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Jul 15 |
@@ -66,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com)** | **[Learning Enablement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/6a5815c09f1f56462cf688bb?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 15 |
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5811b53330ca6f993c326a?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Jul 15 |
 | **[Metro One Security](http://metroonelpsg.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a58108e72fe7a7b98dccd61?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 15 |
-| ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6a5810208f51964c04046bb1?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 15 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5810203330ca6f993c31e7?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Jul 15 |
+| ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6a5810208f51964c04046bb1?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 15 |
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6a58101768d16a30e241196c?utm_campaign=1054&utm_source=git)** | Plano, TX 75074, USA | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a580e5a3330ca6f993c314e?utm_campaign=1054&utm_source=git)** | Berkeley, CA, United States | On Site | Jul 15 |
 | ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a580e4c8f51964c04046b09?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ, United States | On Site | Jul 15 |
@@ -107,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a57a9eef7517b519ad5bb0c?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Jul 15 |
 | **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6a57a9a0e9b77f668bd69594?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS, Moline Foster Care Multi-Disciplinary Team Assistant](https://jobright.ai/jobs/info/6a1dba673e538a28c204b72b?utm_campaign=1054&utm_source=git)** | Moline, IL, United States | On Site | Jul 15 |
-| **[PSECU](http://psecu.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a5102f778e364789ca57f5b?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | Hybrid | Jul 15 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a3aee52dbedbf5680c71dbc?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, US | On Site | Jul 15 |
+| **[PSECU](http://psecu.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a3aee52dbedbf5680c71dbc?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, US | On Site | Jul 15 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5102f778e364789ca57f5b?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | Hybrid | Jul 15 |
 | **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate - Internship](https://jobright.ai/jobs/info/6a3aa003797099171917ad8a?utm_campaign=1054&utm_source=git)** | Fort Myers, FL 33912, USA | On Site | Jul 15 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Jul 15 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/6a576472f7517b519ad5a19b?utm_campaign=1054&utm_source=git)** | Waterloo, IA, United States | On Site | Jul 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Restaurant Brands International](http://rbi.com/en)** | **[Curious About RBI’s Leadership Development Program? Let’s Chat Over Coffee!](https://jobright.ai/jobs/info/6a3940246484fb75f2b30518?utm_campaign=1054&utm_source=git)** | Corp - Miami Corporate Office, US | Remote | Jul 14 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[HRIS Fellow](https://jobright.ai/jobs/info/6a546cdf8a74e077472fbc51?utm_campaign=1054&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 14 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources/Talent Development Internship - Fall 2026](https://jobright.ai/jobs/info/6a56645153b3962b910afd0d?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Jul 14 |
+| **[CivicScience](http://civicscience.com)** | **[People Operations / Human Resources Intern](https://jobright.ai/jobs/info/6a56605f21f64463ad354082?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
