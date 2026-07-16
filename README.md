@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a589b179838a11e5d839629?utm_campaign=1054&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Jul 16 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[2026 SkillBridge Intern *Open to Active Duty US Military Only*  (US Remote)](https://jobright.ai/jobs/info/6a57f07372fe7a7b98dcbee9?utm_campaign=1054&utm_source=git)** | Remote, United States of America | Remote | Jul 16 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6a588cc468d16a30e2414006?utm_campaign=1054&utm_source=git)** | Edina, MN, US | On Site | Jul 16 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a587ee43330ca6f993c5207?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 15 |
 | ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5354f79fbdab22fe13f12a?utm_campaign=1054&utm_source=git)** | Halifax, Canada | On Site | Jul 15 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6a585dd83330ca6f993c42e2?utm_campaign=1054&utm_source=git)** | Owatonna, MN, United States | On Site | Jul 15 |
-| **[Hermès](https://www.hermes.com)** | **[Learning Enablement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/6a5815c09f1f56462cf688bb?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 15 |
+| **[Hermès](https://www.hermes.com)** | **[Learning Enablement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/6a5811389838a11e5d836bcf?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 15 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a585cf272fe7a7b98dcddb2?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 15 |
 | **[City of New York](https://www.nyc.gov)** | **[Personnel Services Intern, Bureau of Center for Population Health Data Science Administration](https://jobright.ai/jobs/info/6a58322c72fe7a7b98dcd6ba?utm_campaign=1054&utm_source=git)** | New York City, NY, United States | On Site | Jul 15 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern Job Details / PCL Construction](https://jobright.ai/jobs/info/6a582b873330ca6f993c3965?utm_campaign=1054&utm_source=git)** | Bellevue, WA, US | On Site | Jul 15 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Newegg](https://www.newegg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a58857372fe7a7b98dcf287?utm_campaign=1054&utm_source=git)** | Diamond Bar, CA, United States | On Site | Jul 15 |
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5811b53330ca6f993c326a?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Jul 15 |
 | **[Metro One Security](http://metroonelpsg.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a58108e72fe7a7b98dccd61?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 15 |
-| ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6a5810208f51964c04046bb1?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 15 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5810203330ca6f993c31e7?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Jul 15 |
+| ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6a5810208f51964c04046bb1?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 15 |
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6a58101768d16a30e241196c?utm_campaign=1054&utm_source=git)** | Plano, TX 75074, USA | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a580e5a3330ca6f993c314e?utm_campaign=1054&utm_source=git)** | Berkeley, CA, United States | On Site | Jul 15 |
 | ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a580e4c8f51964c04046b09?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ, United States | On Site | Jul 15 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Metro One Security](http://metroonelpsg.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a57f4888f51964c04045fcf?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 15 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a57f4208f51964c04045fc8?utm_campaign=1054&utm_source=git)** | Atlanta, GA 30314, United States | On Site | Jul 15 |
 | **[Clarity Care, Inc.](https://www.claritycare.org)** | **[Recruiter Intern](https://jobright.ai/jobs/info/6a57f2dd8f51964c04045ea6?utm_campaign=1054&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 15 |
-| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[2026 SkillBridge Intern *Open to Active Duty US Military Only*  (US Remote)](https://jobright.ai/jobs/info/6a57f07372fe7a7b98dcbee9?utm_campaign=1054&utm_source=git)** | Remote, United States of America | Remote | Jul 15 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Intern (Year-round) - New York](https://jobright.ai/jobs/info/6a57ae4df7517b519ad5c18a?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern – (Scheduler / Risk Manager) (Active Duty Service Members)](https://jobright.ai/jobs/info/6a57bd4ea791c6211bf00c39?utm_campaign=1054&utm_source=git)** | Huntsville, AL, United States | On Site | Jul 15 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a57eb6968d16a30e241074d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Laurel House](https://www.laurel-house.org)** | **[Intern Opportunities](https://jobright.ai/jobs/info/6a568224e9b77f668bd63cfb?utm_campaign=1054&utm_source=git)** | East Norriton, PA, United States | On Site | Jul 14 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Jul 14 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Human Resources/Talent Development Internship - Fall 2026](https://jobright.ai/jobs/info/6a567b7c21f64463ad354c88?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Jul 14 |
-| **[Restaurant Brands International](http://rbi.com/en)** | **[Curious About RBI’s Leadership Development Program? Let’s Chat Over Coffee! (Canada)](https://jobright.ai/jobs/info/6a5514f9268af95237be926d?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
