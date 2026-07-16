@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a587ee43330ca6f993c5207?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 15 |
+| ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5354f79fbdab22fe13f12a?utm_campaign=1054&utm_source=git)** | Halifax, Canada | On Site | Jul 15 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6a585dd83330ca6f993c42e2?utm_campaign=1054&utm_source=git)** | Owatonna, MN, United States | On Site | Jul 15 |
 | **[Hermès](https://www.hermes.com)** | **[Learning Enablement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/6a5815c09f1f56462cf688bb?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 15 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a585cf272fe7a7b98dcddb2?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 15 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/6a581da79838a11e5d836ec7?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 15 |
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5811b53330ca6f993c326a?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Jul 15 |
 | **[Metro One Security](http://metroonelpsg.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a58108e72fe7a7b98dccd61?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 15 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5810203330ca6f993c31e7?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Jul 15 |
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6a5810208f51964c04046bb1?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 15 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5810203330ca6f993c31e7?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Jul 15 |
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6a58101768d16a30e241196c?utm_campaign=1054&utm_source=git)** | Plano, TX 75074, USA | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a580e5a3330ca6f993c314e?utm_campaign=1054&utm_source=git)** | Berkeley, CA, United States | On Site | Jul 15 |
 | ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a580e4c8f51964c04046b09?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ, United States | On Site | Jul 15 |
@@ -93,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | USA-New Jersey-Middlesex County, United States of America | On Site | Jul 15 |
 | **[PSA BDP](https://psabdp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3aca68dbedbf5680c71156?utm_campaign=1054&utm_source=git)** | Houston - Houston, TX 77032 US (Primary) | On Site | Jul 15 |
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/6a57cd4010c4d945d86511a1?utm_campaign=1054&utm_source=git)** | Chula Vista, CA, United States | On Site | Jul 15 |
-| **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f21fdc5277c00c6483ae1?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Jul 15 |
+| **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a563cf321f64463ad35327b?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Jul 15 |
 | **[Baptist Health System KY & IN](https://www.baptisthealth.com/)** | **[Summer Intern - Workday HRIS](https://jobright.ai/jobs/info/6a4e3df015b4965afd582946?utm_campaign=1054&utm_source=git)** | Kentucky, United States | Remote | Jul 15 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6a57bb67efb06a45240dce65?utm_campaign=1054&utm_source=git)** | Omni Service Center, 4001 Maple Ave, Dallas, TX, United States | On Site | Jul 15 |
 | **[Ergodyne](https://www.ergodyne.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a57bafea791c6211bf00a95?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Restaurant Brands International](http://rbi.com/en)** | **[Curious About RBI’s Leadership Development Program? Let’s Chat Over Coffee! (Canada)](https://jobright.ai/jobs/info/6a5514f9268af95237be926d?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 14 |
 | **[Bosch](http://www.bosch.com)** | **[Talent Acquisition Coordinator Intern (6 months)](https://jobright.ai/jobs/info/6a56702df7517b519ad55bd2?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI, United States | Hybrid | Jul 14 |
 | **[Restaurant Brands International](http://rbi.com/en)** | **[Curious About RBI’s Leadership Development Program? Let’s Chat Over Coffee!](https://jobright.ai/jobs/info/6a3940246484fb75f2b30518?utm_campaign=1054&utm_source=git)** | Corp - Miami Corporate Office, US | Remote | Jul 14 |
-| **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[HRIS Fellow](https://jobright.ai/jobs/info/6a546cdf8a74e077472fbc51?utm_campaign=1054&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 14 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources/Talent Development Internship - Fall 2026](https://jobright.ai/jobs/info/6a56645153b3962b910afd0d?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
