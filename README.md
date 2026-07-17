@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accelint](https://accelint.com)** | **[Internship (Recruiting/HR)](https://jobright.ai/jobs/info/6a46e654c2d11a6a46670f57?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 16 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a59982b686b4755d1e113f5?utm_campaign=1054&utm_source=git)** | Amherst, MA, United States | On Site | Jul 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/6a560460f7517b519ad52ea3?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a5982c9c8e3a473cb8a76ba?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 16 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Corporate HR Intern - Part Time](https://jobright.ai/jobs/info/6a591679c8e3a473cb8a4ecc?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a594da3856af468ab0031e5?utm_campaign=1054&utm_source=git)** | Dutton Drive, TX | On Site | Jul 16 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Housing Assistant Intern](https://jobright.ai/jobs/info/6a5911a94da96a42cfd8ef4f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 16 |
+| **[Shimmick Corporation](http://www.shimmick.com)** | **[Intern](https://jobright.ai/jobs/info/6a2a1953c07d4b6ae1c43dcc?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Jul 16 |
 | **[SOLX](https://solx-energy.com/)** | **[2027-Human Resources Intern](https://jobright.ai/jobs/info/6a593e973ac7627fe9ffe2f4?utm_campaign=1054&utm_source=git)** | Aguadilla, PR, United States | On Site | Jul 16 |
 | **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a5939444da96a42cfd8fd72?utm_campaign=1054&utm_source=git)** | Kentwood, Michigan, United States | On Site | Jul 16 |
 | **[Project C Foundation - We Care For Your Mental Health](https://www.projectcfoundation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a59383b63a8f619507c0f70?utm_campaign=1054&utm_source=git)** | America, IA, United States | Remote | Jul 16 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Armstrong Fluid Technology](http://armstrongfluidtechnology.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a57b94910c4d945d86508e4?utm_campaign=1054&utm_source=git)** | North Tonawanda, New York, United States | On Site | Jul 16 |
 | **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[People Experience Intern](https://jobright.ai/jobs/info/6a58d948856af468ab0002d6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 16 |
-| **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Jul 16 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Jul 16 |
+| **[Camaco](http://www.camacollc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Jul 16 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Jul 16 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af5890749500645093d673?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Jul 16 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Human Capital](https://jobright.ai/jobs/info/6a58d4a3c8e3a473cb8a32ff?utm_campaign=1054&utm_source=git)** | Washington | On Site | Jul 16 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Talent Acquisition (Fall 2026)](https://jobright.ai/jobs/info/6a58ff084da96a42cfd8e620?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 16 |
@@ -143,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern- Fall 2026](https://jobright.ai/jobs/info/6a57b7aba791c6211bf007e1?utm_campaign=1054&utm_source=git)** | Bronx Zoo | On Site | Jul 15 |
 | **[PSA BDP](https://psabdp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3aca68dbedbf5680c71156?utm_campaign=1054&utm_source=git)** | Houston - Houston, TX 77032 US (Primary) | On Site | Jul 15 |
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/6a57cd4010c4d945d86511a1?utm_campaign=1054&utm_source=git)** | Chula Vista, CA, United States | On Site | Jul 15 |
-| **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a563cf321f64463ad35327b?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Jul 15 |
+| **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a1f21fdc5277c00c6483ae1?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Jul 15 |
 | **[Baptist Health System KY & IN](https://www.baptisthealth.com/)** | **[Summer Intern - Workday HRIS](https://jobright.ai/jobs/info/6a4e3df015b4965afd582946?utm_campaign=1054&utm_source=git)** | Kentucky, United States | Remote | Jul 15 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6a57bb67efb06a45240dce65?utm_campaign=1054&utm_source=git)** | Omni Service Center, 4001 Maple Ave, Dallas, TX, United States | On Site | Jul 15 |
 | **[Ergodyne](https://www.ergodyne.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a57bafea791c6211bf00a95?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6a57b021a791c6211bf00297?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Jul 15 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Intern, Human Resources Management - Fall 2026](https://jobright.ai/jobs/info/6a57ab7410c4d945d864fa92?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Jul 15 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a57a9eef7517b519ad5bb0c?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Jul 15 |
-| **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6a57a9a0e9b77f668bd69594?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
-| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS, Moline Foster Care Multi-Disciplinary Team Assistant](https://jobright.ai/jobs/info/6a1dba673e538a28c204b72b?utm_campaign=1054&utm_source=git)** | Moline, IL, United States | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
