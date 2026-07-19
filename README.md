@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Recruiting Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9c3856af468ab005a19?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | ↳ | **[Volunteer/Intern: Board Recruitment Director](https://jobright.ai/jobs/info/6a59e9be63a8f619507c4149?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | ↳ | **[Recruiting Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9b0c8e3a473cb8a8c76?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
-| ↳ | **[Volunteer / Intern High School Mentor Liaison](https://jobright.ai/jobs/info/6a59e9aa3ac7627fe9001181?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | ↳ | **[HR/Talent Intern (Unpaid)](https://jobright.ai/jobs/info/6a59e9aa63a8f619507c4136?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
+| ↳ | **[Volunteer / Intern High School Mentor Liaison](https://jobright.ai/jobs/info/6a59e9aa3ac7627fe9001181?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | ↳ | **[Volunteer / Intern Mentoring Program Coordinator](https://jobright.ai/jobs/info/6a59e99b63a8f619507c4121?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | **[IPG](http://taratape.com)** | **[Human Resources Intern - Part-Time](https://jobright.ai/jobs/info/6a59b824c8e3a473cb8a8318?utm_campaign=1054&utm_source=git)** | 100 Paramount Dr, Sarasota, FL 34232, USA | On Site | Jul 17 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a513b9778e364789ca59fba?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 16 |
