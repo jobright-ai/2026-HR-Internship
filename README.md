@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/6a57fe123330ca6f993c2937?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 19 |
+| ↳ | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Jul 19 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Events and Volunteer Program Intern](https://jobright.ai/jobs/info/6a5ce4ffc8e3a473cb8b32fe?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 19 |
 | **[Hut 8](https://hut8.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a236532d46c0f7996084b73?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 19 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a51d00bae4052672fe9b422?utm_campaign=1054&utm_source=git)** | Miami, United States | On Site | Jul 19 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Fall/Spring Labor Relations Intern](https://jobright.ai/jobs/info/6a59d253c8e3a473cb8a8766?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 18 |
 | **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3ef70fce7cce40b3422966?utm_campaign=1054&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 18 |
 | **[BMW Group US](http://www.bmwusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5bbbbc686b4755d1e1a3b8?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Jul 18 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a510f3578e364789ca5869c?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 18 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a2731d72056260dd6e85e78?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jul 18 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a2731d72056260dd6e85e78?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | On Site | Jul 18 |
+| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a510f3578e364789ca5869c?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6a04d7074373b07358a373d1?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | Jul 18 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5bae54c8e3a473cb8b0a4c?utm_campaign=1054&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 18 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[HRIS Fellow](https://jobright.ai/jobs/info/6a5bad2663a8f619507cbc4d?utm_campaign=1054&utm_source=git)** | Godley TX Location - Godley, TX 76044 | Remote | Jul 18 |
@@ -85,9 +87,9 @@ For a complete list, click the following sortable link below:
 | **[Asia Society](http://asiasociety.org)** | **[People and Culture Intern, Endowment](https://jobright.ai/jobs/info/6a5b75154da96a42cfd9a613?utm_campaign=1054&utm_source=git)** | New York - New York , NY 10021 | On Site | Jul 18 |
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[AI Intern - Human Resources](https://jobright.ai/jobs/info/6a58be05686b4755d1e0c092?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | **[The Village of St Edward](https://www.vased.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a509ff72e2ceb72963b4008?utm_campaign=1054&utm_source=git)** | Fairlawn, OH, United States | On Site | Jul 18 |
-| **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a58f1404da96a42cfd8e2a1?utm_campaign=1054&utm_source=git)** | Cedar Bluff, VA, 24609, US | On Site | Jul 18 |
-| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 18 |
+| **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 18 |
 | ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 18 |
+| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a58f1404da96a42cfd8e2a1?utm_campaign=1054&utm_source=git)** | Cedar Bluff, VA, 24609, US | On Site | Jul 18 |
 | ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a5927b9686b4755d1e0ec14?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 18 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5b21c963a8f619507ca66a?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6a5b1431c8e3a473cb8aeac6?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jul 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer / Intern Mentoring Program Coordinator](https://jobright.ai/jobs/info/6a59e99b63a8f619507c4121?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | **[IPG](http://taratape.com)** | **[Human Resources Intern - Part-Time](https://jobright.ai/jobs/info/6a59b824c8e3a473cb8a8318?utm_campaign=1054&utm_source=git)** | 100 Paramount Dr, Sarasota, FL 34232, USA | On Site | Jul 17 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a513b9778e364789ca59fba?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 16 |
-| **[CB&S Bank](http://cbsbank.com/)** | **[Summer Internship Opportunities](https://jobright.ai/jobs/info/6a5c6e2a686b4755d1e1bc4c?utm_campaign=1054&utm_source=git)** | 200 Jackson Avenue South, Russellville, AL, USA | On Site | Jul 16 |
-| **[Accelint](https://accelint.com)** | **[Internship (Recruiting/HR)](https://jobright.ai/jobs/info/6a46e654c2d11a6a46670f57?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
