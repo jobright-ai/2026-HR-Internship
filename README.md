@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Assessment Team (Immediate Opening)](https://jobright.ai/jobs/info/6a57cca910c4d945d865112f?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | Jul 19 |
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/6a5d125a4da96a42cfd9da7d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69b43f8706c1ba00c54574b7?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jul 19 |
 | ↳ | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Jul 19 |
@@ -90,9 +91,9 @@ For a complete list, click the following sortable link below:
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[AI Intern - Human Resources](https://jobright.ai/jobs/info/6a58be05686b4755d1e0c092?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | **[The Village of St Edward](https://www.vased.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a509ff72e2ceb72963b4008?utm_campaign=1054&utm_source=git)** | Fairlawn, OH, United States | On Site | Jul 18 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a58f1404da96a42cfd8e2a1?utm_campaign=1054&utm_source=git)** | Cedar Bluff, VA, 24609, US | On Site | Jul 18 |
-| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a5927b9686b4755d1e0ec14?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 18 |
 | ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 18 |
 | ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 18 |
+| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a5927b9686b4755d1e0ec14?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 18 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5b21c963a8f619507ca66a?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6a5b1431c8e3a473cb8aeac6?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jul 17 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Hickory NC](https://jobright.ai/jobs/info/6a5b06afc8e3a473cb8ae8f0?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, United States | Hybrid | Jul 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer/Intern: Board Recruitment Director](https://jobright.ai/jobs/info/6a59e9be63a8f619507c4149?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | ↳ | **[Recruiting Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9b0c8e3a473cb8a8c76?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | ↳ | **[HR/Talent Intern (Unpaid)](https://jobright.ai/jobs/info/6a59e9aa63a8f619507c4136?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
-| ↳ | **[Volunteer / Intern High School Mentor Liaison](https://jobright.ai/jobs/info/6a59e9aa3ac7627fe9001181?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
