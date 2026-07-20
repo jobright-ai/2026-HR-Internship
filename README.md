@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dominican University](https://www.dom.edu)** | **[Campus Visit Intern – Campus Experience Team](https://jobright.ai/jobs/info/6a5daa08856af468ab011f81?utm_campaign=1054&utm_source=git)** | River Forest, IL, United States | On Site | Jul 19 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/6a5da8d6856af468ab011e4b?utm_campaign=1054&utm_source=git)** | Portsmouth, NH, United States | On Site | Jul 19 |
+| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Human Resources & Office Services Intern](https://jobright.ai/jobs/info/6a5da8c1c8e3a473cb8b5260?utm_campaign=1054&utm_source=git)** | 1126 Kilburn Avenue, Rockford, IL,61101 | On Site | Jul 19 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/6a5da8ad63a8f619507d03f4?utm_campaign=1054&utm_source=git)** | 325 Corporate Drive, 4th Floor, Portsmouth, NH,03801 | On Site | Jul 19 |
+| ↳ | **[HR Intern-Corporate](https://jobright.ai/jobs/info/6a5da894686b4755d1e1ea60?utm_campaign=1054&utm_source=git)** | 325 Corporate Drive, 4th Floor, Portsmouth, NH,03801 | On Site | Jul 19 |
+| **[Reyco Granning Suspensions](http://www.reycogranning.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5da82a63a8f619507d036b?utm_campaign=1054&utm_source=git)** | 565 Pin Oak Drive, Somerset, KY,42503 | On Site | Jul 19 |
+| **[ECS](https://shopecs.com/)** | **[Benefits Intern](https://jobright.ai/jobs/info/6a5da7f979547a520df5e972?utm_campaign=1054&utm_source=git)** | VA, United States | Remote | Jul 19 |
+| **[JPS Composite Materials](https://jpscm.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a5da67b856af468ab011b78?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5da6313ac7627fe900d256?utm_campaign=1054&utm_source=git)** | 580 Sabal Palm Road, Miami, FL,33137 | On Site | Jul 19 |
 | **[Contemporary Amperex Technology USA Inc](http://www.catl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2aee429bf7365df089b41e?utm_campaign=1054&utm_source=git)** | Milpitas, CA, United States | Hybrid | Jul 19 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Assessment Team (Immediate Opening)](https://jobright.ai/jobs/info/6a57cca910c4d945d865112f?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Hybrid | Jul 19 |
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/6a5d125a4da96a42cfd9da7d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69b43f8706c1ba00c54574b7?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jul 19 |
-| ↳ | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Jul 19 |
 | ↳ | **[Talent Intern](https://jobright.ai/jobs/info/6a57fe123330ca6f993c2937?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 19 |
+| ↳ | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Jul 19 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Events and Volunteer Program Intern](https://jobright.ai/jobs/info/6a5ce4ffc8e3a473cb8b32fe?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 19 |
 | **[Hut 8](https://hut8.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a236532d46c0f7996084b73?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 19 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a51d00bae4052672fe9b422?utm_campaign=1054&utm_source=git)** | Miami, United States | On Site | Jul 19 |
@@ -92,9 +101,9 @@ For a complete list, click the following sortable link below:
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[AI Intern - Human Resources](https://jobright.ai/jobs/info/6a58be05686b4755d1e0c092?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | **[The Village of St Edward](https://www.vased.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a509ff72e2ceb72963b4008?utm_campaign=1054&utm_source=git)** | Fairlawn, OH, United States | On Site | Jul 18 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a5927b9686b4755d1e0ec14?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 18 |
+| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 18 |
 | ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a58f1404da96a42cfd8e2a1?utm_campaign=1054&utm_source=git)** | Cedar Bluff, VA, 24609, US | On Site | Jul 18 |
 | ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a469653971cd25b06f8f57e?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, 23322, US | On Site | Jul 18 |
-| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 18 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5b21c963a8f619507ca66a?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6a5b1431c8e3a473cb8aeac6?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jul 17 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Hickory NC](https://jobright.ai/jobs/info/6a5b06afc8e3a473cb8ae8f0?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, United States | Hybrid | Jul 17 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neuberger](http://www.nb.com)** | **[Undergraduate &amp; Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a5a05c063a8f619507c4c85?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jul 17 |
 | **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4572a148d2f00f2a86d980?utm_campaign=1054&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 17 |
 | **[Constellium](http://constellium.com)** | **[EHSS Intern](https://jobright.ai/jobs/info/6a3d8b944d047136e09341e5?utm_campaign=1054&utm_source=git)** | Bowling Green Metro | On Site | Jul 17 |
-| ↳ | **[EHSS Intern](https://jobright.ai/jobs/info/6a3d9479122f340d29cf15a6?utm_campaign=1054&utm_source=git)** | Bowling Green, KY, United States | On Site | Jul 17 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Nomination Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a59ed39686b4755d1e12634?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
-| ↳ | **[Board Recruitment Director Intern/Volunteer](https://jobright.ai/jobs/info/6a59eb863ac7627fe90012d3?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a59eb1363a8f619507c423f?utm_campaign=1054&utm_source=git)** | Newark, DE, United States | On Site | Jul 17 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/ Volunteer Organizational Development Specialist](https://jobright.ai/jobs/info/6a59e9d663a8f619507c416e?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
-| ↳ | **[Recruiting Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9c3856af468ab005a19?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
-| ↳ | **[Volunteer/Intern: Board Recruitment Director](https://jobright.ai/jobs/info/6a59e9be63a8f619507c4149?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
-| ↳ | **[Recruiting Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9b0c8e3a473cb8a8c76?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
-| ↳ | **[Volunteer / Intern High School Mentor Liaison](https://jobright.ai/jobs/info/6a59e9aa3ac7627fe9001181?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
