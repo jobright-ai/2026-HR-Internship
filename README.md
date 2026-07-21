@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a46283e3dbab558e29a4be5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Jul 21 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5600c710c4d945d86468d5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Jul 21 |
+| **[Xerox](https://www.xerox.com/)** | **[Connection Belonging & Impact Intern](https://jobright.ai/jobs/info/6a5f55156e0c3c7c7d3d6514?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
+| **[Prolific](https://www.prolific.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6a5f544c193b511309677e02?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| **[BAE Systems](http://www.baesystems.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6a5f5309f68dd368023e5f0a?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | Hybrid | Jul 21 |
+| **[Tacoma Rescue Mission](https://www.trm.org/)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/6a55d02aef22935f2e3f78de?utm_campaign=1054&utm_source=git)** | Tacoma, WA, United States | On Site | Jul 21 |
+| **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5600c710c4d945d86468d5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Jul 21 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 21 |
+| ↳ | **[Human Resources Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a46283e3dbab558e29a4be5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Jul 21 |
 | **[Foundant](https://www.foundant.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4ed0701544d7246c0d44bf?utm_campaign=1054&utm_source=git)** | Bozeman, MT, United States | Remote | Jul 21 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Intern Year-Round - Paris](https://jobright.ai/jobs/info/6a5f1a1ef29acc1a1174a68a?utm_campaign=1054&utm_source=git)** | 3500 SW LOOP 286, Paris 75460, United States | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5f16a6f29acc1a1174a5aa?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | On Site | Jul 20 |
@@ -70,7 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business/Functional Analyst Intern - Fall Recruitment MD/DC/VA (Remote)](https://jobright.ai/jobs/info/6a5e8b9e050c423c792f0090?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Remote | Jul 20 |
 | **[Floridacentral Credit Union](https://www.floridacentralcu.com/)** | **[Intern Human Resources Coordinator - PT](https://jobright.ai/jobs/info/6a5efad827bf767ea68f9409?utm_campaign=1054&utm_source=git)** | 3333 Henderson Blvd, Tampa, FL 33609, USA | On Site | Jul 20 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Recruiter Internship](https://jobright.ai/jobs/info/6a5ef86f270e3033b04604b5?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 20 |
-| **[Advantage Solutions](https://youradv.com)** | **[MBA Intern – HR PMO / Project Management Office](https://jobright.ai/jobs/info/6a5eea42f3674a0545d2b4d6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 20 |
+| **[Advantage Solutions](https://youradv.com)** | **[MBA Intern – HR PMO / Project Management Office (part time)](https://jobright.ai/jobs/info/6a5eea42f3674a0545d2b4d6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 20 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Internship / Human Resources Intern](https://jobright.ai/jobs/info/6a5ee143270e3033b046011c?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 20 |
 | **[Relief International](https://www.ri.org)** | **[Human Resources (Organizational Development &Training) Intern](https://jobright.ai/jobs/info/6a5352e78a74e077472f80be?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Jul 20 |
 | **[Plains](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46d7ab971cd25b06f906f0?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 20 |
@@ -120,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Intern](https://jobright.ai/jobs/info/6a57fe123330ca6f993c2937?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 19 |
 | ↳ | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Jul 19 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Events and Volunteer Program Intern](https://jobright.ai/jobs/info/6a5ce4ffc8e3a473cb8b32fe?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 19 |
-| **[Hut 8](https://hut8.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a51d00bae4052672fe9b422?utm_campaign=1054&utm_source=git)** | Miami, United States | On Site | Jul 19 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a236532d46c0f7996084b73?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 19 |
+| **[Hut 8](https://hut8.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a236532d46c0f7996084b73?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 19 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a51d00bae4052672fe9b422?utm_campaign=1054&utm_source=git)** | Miami, United States | On Site | Jul 19 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/6a28fca21dbd8437bebce626?utm_campaign=1054&utm_source=git)** | Portsmouth, NH, United States | On Site | Jul 19 |
 | **[Eulerity](https://www.eulerity.com)** | **[Technical Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a42ec1d6a9c2774b3fa7d83?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 19 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Volunteer Experience and Recruitment Intern (Fall)](https://jobright.ai/jobs/info/6a5c861b856af468ab00f365?utm_campaign=1054&utm_source=git)** | Northwest Arkansas, United States | Hybrid | Jul 19 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[AI Intern - Human Resources](https://jobright.ai/jobs/info/6a58be05686b4755d1e0c092?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | **[The Village of St Edward](https://www.vased.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a509ff72e2ceb72963b4008?utm_campaign=1054&utm_source=git)** | Fairlawn, OH, United States | On Site | Jul 18 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a58f1404da96a42cfd8e2a1?utm_campaign=1054&utm_source=git)** | Cedar Bluff, VA, 24609, US | On Site | Jul 18 |
-| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a5927b9686b4755d1e0ec14?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 18 |
 | ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a55336fae07d60a8d00fb69?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 18 |
+| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/6a5927b9686b4755d1e0ec14?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 18 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5b21c963a8f619507ca66a?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6a5b1431c8e3a473cb8aeac6?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jul 17 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Hickory NC](https://jobright.ai/jobs/info/6a5b06afc8e3a473cb8ae8f0?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, United States | Hybrid | Jul 17 |
-| **[City of Starkville](http://www.cityofstarkville.org/)** | **[Human Resources Intern - Starting Fall 2026](https://jobright.ai/jobs/info/6a5b06ad686b4755d1e1809f?utm_campaign=1054&utm_source=git)** | Starkville, MS 39759, USA | On Site | Jul 17 |
-| **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Forest City NC](https://jobright.ai/jobs/info/6a5b0690c8e3a473cb8ae8d3?utm_campaign=1054&utm_source=git)** | Hickory, NC 28601, USA | Hybrid | Jul 17 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5b05db4da96a42cfd98c98?utm_campaign=1054&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 17 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern-Atlanta](https://jobright.ai/jobs/info/6a5ae7aac8e3a473cb8adf1b?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
