@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/6a3da400882f121f56a386ee?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | Remote | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a52035c8d7d3e6cf1cc518b?utm_campaign=1054&utm_source=git)** | Morgantown, WV, United States | On Site | Jul 22 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Bilingual Change Management Intern- (9 Month Contract)](https://jobright.ai/jobs/info/6a606839a4b66100689cb289?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jul 21 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Organizational Development Specialist Volunteer/intern](https://jobright.ai/jobs/info/6a60637ecf6cf477a0560bd1?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
@@ -128,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a55cc5a2ce8bf79a13a1063?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, United States of America | On Site | Jul 21 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jul 21 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Internship / Human Resources Intern](https://jobright.ai/jobs/info/6a5ee143270e3033b046011c?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 21 |
-| **[Grunley Construction Company, Inc.](http://grunley.com)** | **[2026 Fall HR Intern](https://jobright.ai/jobs/info/6a5f6bd18c7fd835513b8ded?utm_campaign=1054&utm_source=git)** | Rockville, MD, United States | On Site | Jul 21 |
+| **[Grunley Construction Company, Inc.](http://grunley.com)** | **[2026 Fall HR Intern](https://jobright.ai/jobs/info/6a5f6c488c7fd835513b8e09?utm_campaign=1054&utm_source=git)** | Rockville, MD, United States | On Site | Jul 21 |
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[City of Virginia Beach Skillbridge Internship](https://jobright.ai/jobs/info/6a5f78178c7fd835513b917c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Board Recruitment Director](https://jobright.ai/jobs/info/6a59e9be63a8f619507c4149?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[Jean Martin](https://www.jeanmartin.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a54e035b361d54aceab7989?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
@@ -139,13 +140,13 @@ For a complete list, click the following sortable link below:
 | **[Prolific](https://www.prolific.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6a5f544c193b511309677e02?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6a5f5309f68dd368023e5f0a?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | Hybrid | Jul 21 |
 | **[Tacoma Rescue Mission](https://www.trm.org/)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/6a55d02aef22935f2e3f78de?utm_campaign=1054&utm_source=git)** | Tacoma, WA, United States | On Site | Jul 21 |
-| **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a46283e3dbab558e29a4be5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Jul 21 |
+| **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 21 |
+| ↳ | **[Human Resources Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a46283e3dbab558e29a4be5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Jul 21 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5600c710c4d945d86468d5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Jul 21 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 21 |
 | **[Foundant](https://www.foundant.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4ed0701544d7246c0d44bf?utm_campaign=1054&utm_source=git)** | Bozeman, MT, United States | Remote | Jul 21 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Intern Year-Round - Paris](https://jobright.ai/jobs/info/6a5f1a1ef29acc1a1174a68a?utm_campaign=1054&utm_source=git)** | 3500 SW LOOP 286, Paris 75460, United States | On Site | Jul 21 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5f16a6270e3033b0460a66?utm_campaign=1054&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 20 |
-| ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5f16a6f29acc1a1174a5aa?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | On Site | Jul 20 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5f16a6f29acc1a1174a5aa?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | On Site | Jul 20 |
+| ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5f16a6270e3033b0460a66?utm_campaign=1054&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 20 |
 | ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5f16a0f29acc1a1174a5a8?utm_campaign=1054&utm_source=git)** | Waterloo, IA, United States | On Site | Jul 20 |
 | **[Massachusetts Port Authority](https://www.massport.com)** | **[Labor Relations Intern](https://jobright.ai/jobs/info/6a5f10eff3674a0545d2bac9?utm_campaign=1054&utm_source=git)** | 65 1 Harborside Drive, Boston, MA, 02128, US | On Site | Jul 20 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Risk Management Analyst Intern MD/DC/VA - Fall Recruitment (Remote)](https://jobright.ai/jobs/info/6a5ea890f3674a0545d2a7ba?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Remote | Jul 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Relief International](https://www.ri.org)** | **[Human Resources (Organizational Development &Training) Intern](https://jobright.ai/jobs/info/6a5352e78a74e077472f80be?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Jul 20 |
 | **[Plains](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a46d7ab971cd25b06f906f0?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 20 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Fall Internship - Training & Development (Remote)](https://jobright.ai/jobs/info/6a5e8058f29acc1a11747dbc?utm_campaign=1054&utm_source=git)** | AZ, United States | Remote | Jul 20 |
-| **[American Plastics](https://www.americanplasticsllc.com/)** | **[Human Resources Paid Intern Part Time](https://jobright.ai/jobs/info/6a5ec5b1470d4126fdeabfbd?utm_campaign=1054&utm_source=git)** | Sycamore, OH, United States | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
