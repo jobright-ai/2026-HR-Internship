@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lucid Motors](http://lucidmotors.com)** | **[HR & Internal Communications Intern](https://jobright.ai/jobs/info/6a6007ff193b51130967c164?utm_campaign=1054&utm_source=git)** | Amsterdam, NH, United States | Hybrid | Jul 21 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5ffc366e0c3c7c7d3da530?utm_campaign=1054&utm_source=git)** | Mesa, AZ, United States | On Site | Jul 21 |
 | **[Amphenol Industrial Operations](http://amphenol-industrial.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5ffb9c33ef5c58b4001562?utm_campaign=1054&utm_source=git)** | Mesa, AZ, United States | On Site | Jul 21 |
 | **[Synergy Cooperative](https://synergycoop.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56859a10c4d945d864a368?utm_campaign=1054&utm_source=git)** | Ridgeland, Wisconsin, United States | On Site | Jul 21 |
@@ -65,15 +66,15 @@ For a complete list, click the following sortable link below:
 | **[Colorado Department of Transportation](https://www.codot.gov/)** | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/6a5fde4433ef5c58b4000b04?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Jul 21 |
 | **[TQI Solutions](https://www.tqiinc.com)** | **[Human Resources & Recruiting SkillBridge Intern](https://jobright.ai/jobs/info/6a5fdce233ef5c58b4000a73?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 21 |
 | **[Morgan State University](https://www.morgan.edu/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5fd8faf68dd368023e90b9?utm_campaign=1054&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 21 |
-| **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a12099f619335383fb392ee?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Jul 21 |
+| **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0704764a0a6a7e7d8209e2?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Jul 21 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a51e09fae4052672fe9c5e1?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Jul 21 |
 | **[Grail Talent](http://grail-talent.com)** | **[Influencer Talent Internship](https://jobright.ai/jobs/info/6a5fd708193b51130967afc7?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Jul 21 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/6a5fd6fe33ef5c58b40005d9?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55d269fdf4fa71202b5ea5?utm_campaign=1054&utm_source=git)** | Bozeman, MT, United States | On Site | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Nomination Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a5512124119652ff386317b?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
-| **[SubCom](http://subcom.com)** | **[Human Resources Intern (6627)](https://jobright.ai/jobs/info/6a554ec1ae07d60a8d010709?utm_campaign=1054&utm_source=git)** | Newington, NH, United States | On Site | Jul 21 |
+| **[SubCom](http://subcom.com)** | **[Human Resources Intern (6627)](https://jobright.ai/jobs/info/6a1f25bfdce5db1256d12cef?utm_campaign=1054&utm_source=git)** | Newington Shattuck Way - Newington, NH 03801 | On Site | Jul 21 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5dfbe4270e3033b045b77b?utm_campaign=1054&utm_source=git)** | Newington Shattuck Way - Newington, NH 03801 | On Site | Jul 21 |
-| ↳ | **[Human Resources Intern (6627)](https://jobright.ai/jobs/info/6a1f25bfdce5db1256d12cef?utm_campaign=1054&utm_source=git)** | Newington Shattuck Way - Newington, NH 03801 | On Site | Jul 21 |
+| ↳ | **[Human Resources Intern (6627)](https://jobright.ai/jobs/info/6a554ec1ae07d60a8d010709?utm_campaign=1054&utm_source=git)** | Newington, NH, United States | On Site | Jul 21 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Benefits Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f2bb0f20036bc6312de?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/6a5fbaa8f68dd368023e848a?utm_campaign=1054&utm_source=git)** | North Hollywood, CA, United States | On Site | Jul 21 |
 | ↳ | **[Intern HR](https://jobright.ai/jobs/info/6a0d7446528eaa34a446f5f8?utm_campaign=1054&utm_source=git)** | Simi Valley, CA, United States | On Site | Jul 21 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Life Tree Pharmacy](https://www.lifetreecares.com)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a5f690d6e0c3c7c7d3d6c37?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 21 |
 | **[Crane Currency](http://www.cranecurrency.com/)** | **[HR Internship](https://jobright.ai/jobs/info/6a5f69188c7fd835513b8d2a?utm_campaign=1054&utm_source=git)** | Nashua, NH, United States | On Site | Jul 21 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Casework Intern (Fall 2026-UNPAID)](https://jobright.ai/jobs/info/6a5f7b3633ef5c58b4ffe1d7?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 21 |
-| **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jul 21 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a55cc5a2ce8bf79a13a1063?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, United States of America | On Site | Jul 21 |
+| **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a55cc5a2ce8bf79a13a1063?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, United States of America | On Site | Jul 21 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Jul 21 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Internship / Human Resources Intern](https://jobright.ai/jobs/info/6a5ee143270e3033b046011c?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 21 |
 | **[Grunley Construction Company, Inc.](http://grunley.com)** | **[2026 Fall HR Intern](https://jobright.ai/jobs/info/6a5f6c488c7fd835513b8e09?utm_campaign=1054&utm_source=git)** | Rockville, MD, United States | On Site | Jul 21 |
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[City of Virginia Beach Skillbridge Internship](https://jobright.ai/jobs/info/6a5f78178c7fd835513b917c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Prolific](https://www.prolific.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6a5f544c193b511309677e02?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6a5f5309f68dd368023e5f0a?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | Hybrid | Jul 21 |
 | **[Tacoma Rescue Mission](https://www.trm.org/)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/6a55d02aef22935f2e3f78de?utm_campaign=1054&utm_source=git)** | Tacoma, WA, United States | On Site | Jul 21 |
-| **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 21 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5600c710c4d945d86468d5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Jul 21 |
+| **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5600c710c4d945d86468d5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Jul 21 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 21 |
 | ↳ | **[Human Resources Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a46283e3dbab558e29a4be5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Jul 21 |
 | **[Foundant](https://www.foundant.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4ed0701544d7246c0d44bf?utm_campaign=1054&utm_source=git)** | Bozeman, MT, United States | Remote | Jul 21 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Intern Year-Round - Paris](https://jobright.ai/jobs/info/6a5f1a1ef29acc1a1174a68a?utm_campaign=1054&utm_source=git)** | 3500 SW LOOP 286, Paris 75460, United States | On Site | Jul 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources Intern - Golden Valley](https://jobright.ai/jobs/info/6a5dc08563a8f619507d0897?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Jul 19 |
 | **[Dominican University](http://www.dom.edu/)** | **[Campus Visit Intern – Campus Experience Team](https://jobright.ai/jobs/info/6a5daa08856af468ab011f81?utm_campaign=1054&utm_source=git)** | River Forest, IL, United States | On Site | Jul 19 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/6a5da8d6856af468ab011e4b?utm_campaign=1054&utm_source=git)** | Portsmouth, NH, United States | On Site | Jul 19 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Human Resources & Office Services Intern](https://jobright.ai/jobs/info/6a5da8c1c8e3a473cb8b5260?utm_campaign=1054&utm_source=git)** | 1126 Kilburn Avenue, Rockford, IL,61101 | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
