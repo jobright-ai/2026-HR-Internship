@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5290029fbdab22fe13c228?utm_campaign=1054&utm_source=git)** | Eugene, OR, United States | On Site | Jul 22 |
+| **[Leons](https://www.leonsdigital.com)** | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/6a51b39f02522b5b722e9d37?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 22 |
+| **[Mountain Capital Partners](http://www.mcp.ski)** | **[People Team Intern](https://jobright.ai/jobs/info/6a619be77196365a6f00b875?utm_campaign=1054&utm_source=git)** | Durango, CO, United States | On Site | Jul 22 |
 | **[Eversource Energy](https://www.eversource.com/)** | **[Intern, University Relations (15-20 hours per week)](https://jobright.ai/jobs/info/6a61467e7196365a6f00a00c?utm_campaign=1054&utm_source=git)** | Berlin, CT, United States | On Site | Jul 22 |
 | **[The PAM Firm, Inc](https://thepamfirm.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a5be551c8e3a473cb8b113f?utm_campaign=1054&utm_source=git)** | Long Beach, CA, United States | Remote | Jul 22 |
+| **[Terros Health](https://www.terroshealth.org/)** | **[HR Intern (P/T)](https://jobright.ai/jobs/info/6a61b7d37196365a6f00bf8d?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a54e05fb361d54aceab79af?utm_campaign=1054&utm_source=git)** | Lafayette, IN, United States | On Site | Jul 22 |
 | **[Lactalis USA](https://www.linkedin.com/company/107499148)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a61839deaa37f43e7588f81?utm_campaign=1054&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 22 |
 | **[Dominican University](http://www.dom.edu/)** | **[Campus Visit Intern – Campus Experience Team](https://jobright.ai/jobs/info/6a5daa08856af468ab011f81?utm_campaign=1054&utm_source=git)** | River Forest, IL, United States | On Site | Jul 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5ffc366e0c3c7c7d3da530?utm_campaign=1054&utm_source=git)** | Mesa, AZ, United States | On Site | Jul 21 |
 | **[Amphenol Industrial Operations](http://amphenol-industrial.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5ffb9c33ef5c58b4001562?utm_campaign=1054&utm_source=git)** | Mesa, AZ, United States | On Site | Jul 21 |
 | **[Synergy Cooperative](https://synergycoop.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56859a10c4d945d864a368?utm_campaign=1054&utm_source=git)** | Ridgeland, Wisconsin, United States | On Site | Jul 21 |
-| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Insurance Agent Recruiting Intern – Spring 2027-Spring 2028](https://jobright.ai/jobs/info/6a5fed286e0c3c7c7d3d9e86?utm_campaign=1054&utm_source=git)** | West Des Moines, IA, United States | On Site | Jul 21 |
-| **[Lip Ink International](https://www.lipink.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5255408ef95364ead8de87?utm_campaign=1054&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 21 |
-| **[Colorado Department of Transportation](https://www.codot.gov/)** | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/6a5fde4433ef5c58b4000b04?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Jul 21 |
-| **[TQI Solutions](https://www.tqiinc.com)** | **[Human Resources & Recruiting SkillBridge Intern](https://jobright.ai/jobs/info/6a5fdce233ef5c58b4000a73?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
