@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a54e05fb361d54aceab79af?utm_campaign=1054&utm_source=git)** | Lafayette, IN, United States | On Site | Jul 22 |
 | **[Lactalis USA](https://www.linkedin.com/company/107499148)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a61839deaa37f43e7588f81?utm_campaign=1054&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 22 |
 | **[Dominican University](http://www.dom.edu/)** | **[Campus Visit Intern – Campus Experience Team](https://jobright.ai/jobs/info/6a5daa08856af468ab011f81?utm_campaign=1054&utm_source=git)** | River Forest, IL, United States | On Site | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a56a10110c4d945d864af25?utm_campaign=1054&utm_source=git)** | Urbana, IL, United States | On Site | Jul 22 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Housing Assistant Intern](https://jobright.ai/jobs/info/6a5911a94da96a42cfd8ef4f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a60c355e3f5ff347d7c5824?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 22 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Learning & Development Intern – 8-12 months](https://jobright.ai/jobs/info/6a44b67db156014e414bcfb3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jul 22 |
-| **[IKO North America](https://www.iko.com)** | **[HR/Safety Intern](https://jobright.ai/jobs/info/6a5728fd10c4d945d864d2a1?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Jul 22 |
-| ↳ | **[HR/Safety Intern](https://jobright.ai/jobs/info/6a273ec712f0202342263986?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, US | On Site | Jul 22 |
+| **[IKO North America](https://www.iko.com)** | **[HR/Safety Intern](https://jobright.ai/jobs/info/6a273ec712f0202342263986?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, US | On Site | Jul 22 |
+| ↳ | **[HR/Safety Intern](https://jobright.ai/jobs/info/6a5728fd10c4d945d864d2a1?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Jul 22 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a53518a8576ec69c014f62f?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[Quality Home Care Michigan](https://qualityhomec.com/)** | **[Internship Program (Recruitment Internship - US Based Remote)](https://jobright.ai/jobs/info/6a60b2fba4c799127e993ba3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Per Scholas](https://www.perscholas.org)** | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a29c6721de59e0682a81729?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | Remote | Jul 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado Department of Transportation](https://www.codot.gov/)** | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/6a5fde4433ef5c58b4000b04?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Jul 21 |
 | **[TQI Solutions](https://www.tqiinc.com)** | **[Human Resources & Recruiting SkillBridge Intern](https://jobright.ai/jobs/info/6a5fdce233ef5c58b4000a73?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 21 |
 | **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a51e09fae4052672fe9c5e1?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Jul 21 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a0704764a0a6a7e7d8209e2?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
