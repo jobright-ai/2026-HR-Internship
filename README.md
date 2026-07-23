@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United States Cold Storage, Inc.](http://www.uscold.com/)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6a6268b01e089c0cc884c5ee?utm_campaign=1054&utm_source=git)** | Covington, TN, United States | On Site | Jul 23 |
+| **[Shepherd Insurance](http://www.shepherdins.com/)** | **[Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/6a626706f805ef6ff4232b3d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 23 |
+| **[Lannon Stone Products](https://lannonstone.net)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6264771e089c0cc884c3f7?utm_campaign=1054&utm_source=git)** | Sussex, WI, United States | On Site | Jul 23 |
+| **[Loc Performance](http://www.locperformance.com)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6a6262b907e15f1ab0e45f8b?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI, United States | On Site | Jul 23 |
 | **[Lannon Stone Products](https://lannonstone.net)** | **[HR Intern](https://jobright.ai/jobs/info/6a626183846162391c935843?utm_campaign=1054&utm_source=git)** | Sussex, WI, United States | On Site | Jul 23 |
 | **[NTA Talent Agency](https://ntatalent.com)** | **[NTA Talent Agency NYC Student Internship](https://jobright.ai/jobs/info/6a626167f805ef6ff423285c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
 | **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Talent Acquisition Marketing Intern](https://jobright.ai/jobs/info/6a625be61e089c0cc884bf73?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 23 |
@@ -75,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[McKinney](http://mckinney.com)** | **[Talent Operations, Intern](https://jobright.ai/jobs/info/6a51aca9ae4052672fe98db6?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a62255ed5caab4af8bac250?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Jul 23 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a621da91e089c0cc884a8c2?utm_campaign=1054&utm_source=git)** | Brillion, WI, United States | On Site | Jul 23 |
-| **[UPS](https://about.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | Remote | Jul 23 |
-| ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/6a5238bf8a74e077472f39ca?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 23 |
+| **[UPS](https://about.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/6a5238bf8a74e077472f39ca?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 23 |
+| ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | Remote | Jul 23 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56ef04efb06a45240d8b7a?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Jul 23 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Jul 23 |
 | **[Dallas Zoo](https://dallaszoo.com)** | **[Volunteer Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a552a1ff2c46727285f0339?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Jul 23 |
@@ -85,9 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Per Scholas](https://www.perscholas.org)** | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a29c68f2cde2824469be759?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 23 |
 | ↳ | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a294d800c4972328e7e29ea?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Remote | Jul 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/6a5d317d4da96a42cfd9dedb?utm_campaign=1054&utm_source=git)** | Rockaway, NJ, United States | On Site | Jul 23 |
-| **[Renaissance Jewel](https://renaissancejewel.com/)** | **[HR Operations & Audit Intern](https://jobright.ai/jobs/info/6a6236c3f805ef6ff4231725?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Jul 23 |
-| **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Jul 23 |
-| ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jul 23 |
+| **[Festo](https://www.festo.com/us/en)** | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jul 23 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Jul 23 |
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/6a5d125a4da96a42cfd9da7d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 23 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a510f3578e364789ca5869c?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a61deff11edf44d79162c14?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a60dd4811edf44d7915e328?utm_campaign=1054&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Jul 22 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Talent Acquisition Intern Fall 2026](https://jobright.ai/jobs/info/6a60dc307196365a6f0082f0?utm_campaign=1054&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 22 |
 | **[Find Me](http://fyndme.co)** | **[HR Recruitment Intern (Unpaid) - Application Design and Development Focus](https://jobright.ai/jobs/info/6a60d21be3f5ff347d7c5b8e?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 22 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Housing Assistant Intern](https://jobright.ai/jobs/info/6a5911a94da96a42cfd8ef4f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 22 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a60c355e3f5ff347d7c5824?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 22 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Learning & Development Intern – 8-12 months](https://jobright.ai/jobs/info/6a44b67db156014e414bcfb3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
