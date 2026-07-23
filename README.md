@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/6a5d125a4da96a42cfd9da7d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 23 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a510f3578e364789ca5869c?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a61deff11edf44d79162c14?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 23 |
 | **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4572a148d2f00f2a86d980?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 23 |
@@ -100,7 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern (Case Management)](https://jobright.ai/jobs/info/6a60f0a6eaa37f43e75867a8?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 22 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Human Capital, Fall Internship](https://jobright.ai/jobs/info/6a614862d51f6101c8fbadfc?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Jul 22 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Search and Advisory](https://jobright.ai/jobs/info/6a5fc263b0f20036bc632f66?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 22 |
-| **[Valence Surface Technologies](http://www.ValenceST.com)** | **[Intern](https://jobright.ai/jobs/info/6a60f278d51f6101c8fb99b2?utm_campaign=1054&utm_source=git)** | The Woodlands, TX, United States | On Site | Jul 22 |
+| **[Valence Surface Technologies](http://www.valencesurfacetech.com/)** | **[Intern](https://jobright.ai/jobs/info/6a60f278d51f6101c8fb99b2?utm_campaign=1054&utm_source=git)** | The Woodlands, TX, United States | On Site | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a556baaae07d60a8d01160d?utm_campaign=1054&utm_source=git)** | Boulder, CO, United States | On Site | Jul 22 |
 | **[Sterling Seacrest Pritchard](https://sspins.com)** | **[Summer 2027 Risk Management Intern - Birmingham](https://jobright.ai/jobs/info/6a614445eaa37f43e7587ad5?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | On Site | Jul 22 |
 | **[American Plastics](https://www.americanplasticsllc.com/)** | **[Human Resources Paid Intern Part Time](https://jobright.ai/jobs/info/6a5ec5b1470d4126fdeabfbd?utm_campaign=1054&utm_source=git)** | Sycamore, OH, United States | On Site | Jul 22 |
@@ -127,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[Learning & Development Intern – 8-12 months](https://jobright.ai/jobs/info/6a44b67db156014e414bcfb3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jul 22 |
 | **[IKO North America](https://www.iko.com)** | **[HR/Safety Intern](https://jobright.ai/jobs/info/6a273ec712f0202342263986?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, US | On Site | Jul 22 |
 | ↳ | **[HR/Safety Intern](https://jobright.ai/jobs/info/6a5728fd10c4d945d864d2a1?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Jul 22 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a53518a8576ec69c014f62f?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
+| **[Bank of China USA](https://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a53518a8576ec69c014f62f?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[Quality Home Care Michigan](https://qualityhomec.com/)** | **[Internship Program (Recruitment Internship - US Based Remote)](https://jobright.ai/jobs/info/6a60b2fba4c799127e993ba3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Per Scholas](https://www.perscholas.org)** | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a29c6721de59e0682a81729?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | Remote | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a53e168d007ee02d95fceda?utm_campaign=1054&utm_source=git)** | Fargo, ND, United States | On Site | Jul 22 |
@@ -135,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 fall term](https://jobright.ai/jobs/info/6a60980071c79e639619bc79?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Remote | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a6088d3a4b66100689cb7fb?utm_campaign=1054&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 22 |
 | **[Rocket Internet SE](https://www.rocket-internet.com/)** | **[Intern in Recruiting and HR Development (m/f/d)](https://jobright.ai/jobs/info/6a608878193c4d692385e6ca?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 22 |
-| **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/6a3da400882f121f56a386ee?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | Remote | Jul 22 |
+| **[Glint Tech Solutions](https://glinttechsolutions.com)** | **[Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/6a3da400882f121f56a386ee?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | Remote | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a52035c8d7d3e6cf1cc518b?utm_campaign=1054&utm_source=git)** | Morgantown, WV, United States | On Site | Jul 22 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Bilingual Change Management Intern- (9 Month Contract)](https://jobright.ai/jobs/info/6a606839a4b66100689cb289?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jul 21 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Organizational Development Specialist Volunteer/intern](https://jobright.ai/jobs/info/6a60637ecf6cf477a0560bd1?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a52dc0f9fbdab22fe13d4f5?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 21 |
 | **[CIEE - Centro de Integração Empresa-Escola](https://portal.ciee.org.br/)** | **[Hiring Events Coordinator, Internship Placements](https://jobright.ai/jobs/info/6a602466193b51130967c7d7?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
 | **[CIEE College Study Abroad](https://www.ciee.org/go-abroad/college-study-abroad?utm_campaign=sa-social-organic&utm_medium=social&utm_source=linkedin&utm_content=linkedin_profile)** | **[Hiring Events Coordinator, Internship Placements](https://jobright.ai/jobs/info/6a601e8eb0f20036bc634db3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a60182733ef5c58b4001ca0?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
