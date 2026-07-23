@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lactalis USA](https://www.linkedin.com/company/107499148)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a61839deaa37f43e7588f81?utm_campaign=1054&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 22 |
+| **[Dominican University](http://www.dom.edu/)** | **[Campus Visit Intern – Campus Experience Team](https://jobright.ai/jobs/info/6a5daa08856af468ab011f81?utm_campaign=1054&utm_source=git)** | River Forest, IL, United States | On Site | Jul 22 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a56a10110c4d945d864af25?utm_campaign=1054&utm_source=git)** | Urbana, IL, United States | On Site | Jul 22 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Organizational Development Director Intern/Volunteer](https://jobright.ai/jobs/info/6a54ddc831f2d15a8d813b33?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
 | **[OmniCable](https://www.omnicable.com)** | **[Employee Experience & Communications Intern](https://jobright.ai/jobs/info/6a6133bfeaa37f43e7587372?utm_campaign=1054&utm_source=git)** | West Chester, PA, United States | Remote | Jul 22 |
 | **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/6a5385959fbdab22fe13fa6f?utm_campaign=1054&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 22 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Colorado Department of Transportation](https://www.codot.gov/)** | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/6a5fde4433ef5c58b4000b04?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Jul 21 |
 | **[TQI Solutions](https://www.tqiinc.com)** | **[Human Resources & Recruiting SkillBridge Intern](https://jobright.ai/jobs/info/6a5fdce233ef5c58b4000a73?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 21 |
 | **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a51e09fae4052672fe9c5e1?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Jul 21 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a12099f619335383fb392ee?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Jul 21 |
-| **[Grail Talent](http://grail-talent.com)** | **[Influencer Talent Internship](https://jobright.ai/jobs/info/6a5fd708193b51130967afc7?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Jul 21 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/6a5fd6fe33ef5c58b40005d9?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Jul 21 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55d269fdf4fa71202b5ea5?utm_campaign=1054&utm_source=git)** | Bozeman, MT, United States | On Site | Jul 21 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a0704764a0a6a7e7d8209e2?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
