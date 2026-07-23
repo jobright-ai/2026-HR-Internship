@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DULCEDO Management](https://www.dulcedo.com)** | **[Talent Agent Assistant Internship](https://jobright.ai/jobs/info/6a621937c28982326de94aca?utm_campaign=1054&utm_source=git)** | Ontario, Canada | Hybrid | Jul 23 |
 | **[FIRST](https://firstagency.com/)** | **[People Engagement Intern (Hybrid - NY office)](https://jobright.ai/jobs/info/6a62115a846162391c933beb?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 23 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/Volunteer Human Resources Associate](https://jobright.ai/jobs/info/6a528e68d007ee02d95f81bf?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | **[Per Scholas](https://www.perscholas.org)** | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a29c68f2cde2824469be759?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 23 |
 | ↳ | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a294d800c4972328e7e29ea?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Remote | Jul 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/6a5d317d4da96a42cfd9dedb?utm_campaign=1054&utm_source=git)** | Rockaway, NJ, United States | On Site | Jul 23 |
-| **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Jul 23 |
-| ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jul 23 |
+| **[Festo](https://www.festo.com/us/en)** | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jul 23 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Jul 23 |
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/6a5d125a4da96a42cfd9da7d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 23 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a620adaf3a0803d5a433ff3?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jul 23 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a510f3578e364789ca5869c?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CMCO Brasil](https://www.cmco.com/pt-br/)** | **[Intern](https://jobright.ai/jobs/info/6a6041bfa4b66100689ca9fa?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | On Site | Jul 21 |
 | **[CIEE Council on International Educational Exchange](https://www.ciee.org/)** | **[Hiring Events Coordinator, Internship Placements](https://jobright.ai/jobs/info/6a60228d8c7fd835513bcdc0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Steel Dynamics Flat Roll Group](https://stld.steeldynamics.com/flat-roll/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a554dff4119652ff3864ce1?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 21 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55cfbdfdf4fa71202b5903?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
