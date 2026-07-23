@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a623b42d5caab4af8bac966?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 23 |
 | **[Visionary Broadband](https://www.vcn.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a623824f805ef6ff423175d?utm_campaign=1054&utm_source=git)** | Gillette, WY, United States | On Site | Jul 23 |
 | **[FIRST](https://firstagency.com/)** | **[People Engagement Intern (Hybrid - NY office)](https://jobright.ai/jobs/info/6a62115a846162391c933beb?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 23 |
-| **[Estes Express Lines](http://www.estes-express.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a62352e07e15f1ab0e44d2c?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5f16a6270e3033b0460a66?utm_campaign=1054&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 23 |
 | **[Hamister Group, LLC](http://www.hamistergroup.com)** | **[HR Intern (part-time)](https://jobright.ai/jobs/info/6a622db5846162391c934492?utm_campaign=1054&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 23 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/6a560460f7517b519ad52ea3?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a294d800c4972328e7e29ea?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Remote | Jul 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/6a5d317d4da96a42cfd9dedb?utm_campaign=1054&utm_source=git)** | Rockaway, NJ, United States | On Site | Jul 23 |
 | **[Renaissance Jewel](https://renaissancejewel.com/)** | **[HR Operations & Audit Intern](https://jobright.ai/jobs/info/6a6236c3f805ef6ff4231725?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Jul 23 |
-| **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Jul 23 |
-| ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jul 23 |
+| **[Festo](https://www.festo.com/us/en)** | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jul 23 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Jul 23 |
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/6a5d125a4da96a42cfd9da7d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 23 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a620adaf3a0803d5a433ff3?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jul 23 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a510f3578e364789ca5869c?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 23 |
@@ -88,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4572a148d2f00f2a86d980?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5604b7efb06a45240d3150?utm_campaign=1054&utm_source=git)** | Burlington, VT, United States | On Site | Jul 23 |
 | **[City+Ventures](https://city-ventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a61d69ad51f6101c8fbd623?utm_campaign=1054&utm_source=git)** | La Vista, NE, United States | On Site | Jul 23 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Intensive Case Management Internship (ICM)](https://jobright.ai/jobs/info/6a5923114da96a42cfd8f4b4?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT USA, United States of America | On Site | Jul 23 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6a564f8df7517b519ad54e3c?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | On Site | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a61cad1ab14335fc0f19ab0?utm_campaign=1054&utm_source=git)** | Manhattan, KS, United States | On Site | Jul 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6a613c447196365a6f009a0f?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Per Scholas](https://www.perscholas.org)** | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a29c6721de59e0682a81729?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | Remote | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a53e168d007ee02d95fceda?utm_campaign=1054&utm_source=git)** | Fargo, ND, United States | On Site | Jul 22 |
 | **[ECI](http://www.eci.com)** | **[Intern/Co-Op](https://jobright.ai/jobs/info/6a609d2e129b652e9cd2966c?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 22 |
-| **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 fall term](https://jobright.ai/jobs/info/6a60980071c79e639619bc79?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Remote | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
