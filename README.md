@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dallas College](https://www.dcccd.edu)** | **[Employee Experience and Engagement Intern](https://jobright.ai/jobs/info/6a61300bab9bd46763249ca2?utm_campaign=1054&utm_source=git)** | Bill J Priest Center, United States of America | On Site | Jul 22 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55332ef2c46727285f08dc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 22 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Employee Experience Internship](https://jobright.ai/jobs/info/6a3c39488bfad862bc99998b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[Daxko](https://www.daxko.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a6156daeaa37f43e7588254?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | Hybrid | Jul 22 |
 | **[THE·TEAM](http://the.team)** | **[Fall 2026 Internship - Talent Strategy, Creators](https://jobright.ai/jobs/info/6a614928ab9bd4676324a956?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 22 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Internship](https://jobright.ai/jobs/info/6a61492011edf44d7916010f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 22 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6a613c447196365a6f009a0f?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Jul 22 |
 | **[Koa Sports League](http://www.koasports.org/)** | **[Fall 2026- Operations and Human Resources Intern](https://jobright.ai/jobs/info/6a6136e4ab9bd46763249fd2?utm_campaign=1054&utm_source=git)** | Rockville, MD, United States | Hybrid | Jul 22 |
 | **[OmniCable](https://www.omnicable.com)** | **[Employee Experience & Communications Intern](https://jobright.ai/jobs/info/6a6133bfeaa37f43e7587372?utm_campaign=1054&utm_source=git)** | West Chester, PA, United States | Remote | Jul 22 |
-| **[Dallas College](https://www.dcccd.edu)** | **[Employee Experience and Engagement Intern](https://jobright.ai/jobs/info/6a61300bab9bd46763249ca2?utm_campaign=1054&utm_source=git)** | Bill J Priest Center, United States of America | On Site | Jul 22 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (HR Leadership & Culture)](https://jobright.ai/jobs/info/6a612ed1ab9bd46763249be7?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 22 |
 | ↳ | **[College Intern (Case Management)](https://jobright.ai/jobs/info/6a60f0a6eaa37f43e75867a8?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 22 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Human Capital, Fall Internship](https://jobright.ai/jobs/info/6a614862d51f6101c8fbadfc?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Jul 22 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/6a5fd6fe33ef5c58b40005d9?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55d269fdf4fa71202b5ea5?utm_campaign=1054&utm_source=git)** | Bozeman, MT, United States | On Site | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Nomination Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a5512124119652ff386317b?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
-| **[SubCom](http://subcom.com)** | **[Human Resources Intern (6627)](https://jobright.ai/jobs/info/6a1f25bfdce5db1256d12cef?utm_campaign=1054&utm_source=git)** | Newington Shattuck Way - Newington, NH 03801 | On Site | Jul 21 |
+| **[SubCom](http://subcom.com)** | **[Human Resources Intern (6627)](https://jobright.ai/jobs/info/6a554ec1ae07d60a8d010709?utm_campaign=1054&utm_source=git)** | Newington, NH, United States | On Site | Jul 21 |
+| ↳ | **[Human Resources Intern (6627)](https://jobright.ai/jobs/info/6a1f25bfdce5db1256d12cef?utm_campaign=1054&utm_source=git)** | Newington Shattuck Way - Newington, NH 03801 | On Site | Jul 21 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5dfbe4270e3033b045b77b?utm_campaign=1054&utm_source=git)** | Newington Shattuck Way - Newington, NH 03801 | On Site | Jul 21 |
-| ↳ | **[Human Resources Intern (6627)](https://jobright.ai/jobs/info/6a554ec1ae07d60a8d010709?utm_campaign=1054&utm_source=git)** | Newington, NH, United States | On Site | Jul 21 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Benefits Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f2bb0f20036bc6312de?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 21 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/6a0d7446528eaa34a446f5f8?utm_campaign=1054&utm_source=git)** | Simi Valley, CA, United States | On Site | Jul 21 |
-| ↳ | **[Intern HR](https://jobright.ai/jobs/info/6a5fbaa8f68dd368023e848a?utm_campaign=1054&utm_source=git)** | North Hollywood, CA, United States | On Site | Jul 21 |
-| **[Kent Moore Cabinets Ltd](https://www.kmc.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5fc3c733ef5c58b4ffffaf?utm_campaign=1054&utm_source=git)** | Bryan, TX, United States | On Site | Jul 21 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6a585dd83330ca6f993c42e2?utm_campaign=1054&utm_source=git)** | Owatonna, MN, United States | On Site | Jul 21 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/6a5fbaa8f68dd368023e848a?utm_campaign=1054&utm_source=git)** | North Hollywood, CA, United States | On Site | Jul 21 |
+| ↳ | **[Intern HR](https://jobright.ai/jobs/info/6a0d7446528eaa34a446f5f8?utm_campaign=1054&utm_source=git)** | Simi Valley, CA, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
