@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a510f3578e364789ca5869c?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 23 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a61deff11edf44d79162c14?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 23 |
+| **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4572a148d2f00f2a86d980?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5604b7efb06a45240d3150?utm_campaign=1054&utm_source=git)** | Burlington, VT, United States | On Site | Jul 23 |
 | **[City+Ventures](https://city-ventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a61d69ad51f6101c8fbd623?utm_campaign=1054&utm_source=git)** | La Vista, NE, United States | On Site | Jul 23 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6a564f8df7517b519ad54e3c?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | On Site | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a61cad1ab14335fc0f19ab0?utm_campaign=1054&utm_source=git)** | Manhattan, KS, United States | On Site | Jul 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6a613c447196365a6f009a0f?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Jul 23 |
-| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a55a09478611229b823d6f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
+| **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a55a09478611229b823d6f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5290029fbdab22fe13c228?utm_campaign=1054&utm_source=git)** | Eugene, OR, United States | On Site | Jul 22 |
 | **[Leons](https://www.leonsdigital.com)** | **[HR Payroll Project Intern. ON](https://jobright.ai/jobs/info/6a51b39f02522b5b722e9d37?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 22 |
 | **[Mountain Capital Partners](http://www.mcp.ski)** | **[People Team Intern](https://jobright.ai/jobs/info/6a619be77196365a6f00b875?utm_campaign=1054&utm_source=git)** | Durango, CO, United States | On Site | Jul 22 |
@@ -85,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a55332ef2c46727285f08dc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 22 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Employee Experience Internship](https://jobright.ai/jobs/info/6a3c39488bfad862bc99998b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[Daxko](https://www.daxko.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a6156daeaa37f43e7588254?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | Hybrid | Jul 22 |
-| **[THE·TEAM](http://the.team)** | **[Fall 2026 Internship - Talent Strategy, Creators](https://jobright.ai/jobs/info/6a614928ab9bd4676324a956?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 22 |
+| **[THE·TEAM](https://the.team/)** | **[Fall 2026 Internship - Talent Strategy, Creators](https://jobright.ai/jobs/info/6a614928ab9bd4676324a956?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 22 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Internship](https://jobright.ai/jobs/info/6a61492011edf44d7916010f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 22 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a5c02c463a8f619507cc713?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Jul 22 |
 | **[Accelint](https://accelint.com)** | **[Internship (Recruiting/HR)](https://jobright.ai/jobs/info/6a46e654c2d11a6a46670f57?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CIEE - Centro de Integração Empresa-Escola](https://portal.ciee.org.br/)** | **[Hiring Events Coordinator, Internship Placements](https://jobright.ai/jobs/info/6a602466193b51130967c7d7?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
 | **[CIEE College Study Abroad](https://www.ciee.org/go-abroad/college-study-abroad?utm_campaign=sa-social-organic&utm_medium=social&utm_source=linkedin&utm_content=linkedin_profile)** | **[Hiring Events Coordinator, Internship Placements](https://jobright.ai/jobs/info/6a601e8eb0f20036bc634db3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a60182733ef5c58b4001ca0?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Jul 21 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, HR Program and Product Management Support (Spring 2027)](https://jobright.ai/jobs/info/6a6011d9b0f20036bc634ae7?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 21 |
-| ↳ | **[Co-op, HR Program and Product Management Support (Summer 2027)](https://jobright.ai/jobs/info/6a60116c33ef5c58b4001a8d?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 21 |
-| **[Morgan State University](https://www.morgan.edu/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5fd8faf68dd368023e90b9?utm_campaign=1054&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
