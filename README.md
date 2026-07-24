@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Child Development, Inc.](www.cfcscc.org)** | **[Human Resources Technician](https://jobright.ai/jobs/info/6a50af22d5d2a327b664d1cd?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 24 |
+| **[Aging Services of North Central Massachusetts](https://www.agingservicesma.org)** | **[Case Management Intern](https://jobright.ai/jobs/info/6a631b45185082502f4850f9?utm_campaign=1054&utm_source=git)** | Leominster, MA, United States | On Site | Jul 24 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a62255ed5caab4af8bac250?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Jul 24 |
+| ↳ | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a0aeef30411d7417a1abc7a?utm_campaign=1054&utm_source=git)** | METAMORA, OH, United States | On Site | Jul 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e857d27bf767ea68f741a?utm_campaign=1054&utm_source=git)** | USA LEWISBURG OH TFD | On Site | Jul 24 |
+| ↳ | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a51de7578e364789ca5e0d3?utm_campaign=1054&utm_source=git)** | Metamora, OH, United States | On Site | Jul 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Jul 24 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6279bad5caab4af8bae1e4?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Jul 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Refugee Economic Empowerment Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5590e82084cd792b4792fb?utm_campaign=1054&utm_source=git)** | Silver Spring, MD, United States | Hybrid | Jul 23 |
 | **[ParallelDots](http://www.paralleldots.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a6304617c70964cbb0550b7?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Four Hands](https://fourhands.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6a572a9ae9b77f668bd66f13?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Jul 23 |
@@ -69,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5b05db4da96a42cfd98c98?utm_campaign=1054&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 23 |
 | **[Urban Science](http://urbanscience.com/)** | **[HR Intern - Long Beach, CA](https://jobright.ai/jobs/info/6a6279d8846162391c9360bd?utm_campaign=1054&utm_source=git)** | Long Beach, CA, United States | Hybrid | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a62c2401ed5b0056a9389a6?utm_campaign=1054&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 23 |
-| **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a1e3a719111f771d1a1dde5?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jul 23 |
+| **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b5f9fdbf21f36cb3e4f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jul 23 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a55a09478611229b823d6f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[College Intern (Case Management)](https://jobright.ai/jobs/info/6a60f0a6eaa37f43e75867a8?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 23 |
 | **[University Hospitals](https://www.uhhospitals.org/)** | **[Research Internship](https://jobright.ai/jobs/info/6a62b5541e089c0cc884df3f?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 23 |
@@ -85,12 +93,6 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a52034f02522b5b722edc47?utm_campaign=1054&utm_source=git)** | State College, PA, United States | On Site | Jul 23 |
 | **[Peek Pavement Marking](http://peeksafety.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a62808607e15f1ab0e46c2a?utm_campaign=1054&utm_source=git)** | Phenix City, AL, United States | On Site | Jul 23 |
 | **[Kristen Distributing Company, Inc.](https://www.kristendistributing.com/)** | **[Human Resources Internship / Fall 2026 / Unpaid](https://jobright.ai/jobs/info/6a627d49c28982326de970e9?utm_campaign=1054&utm_source=git)** | Bryan, TX, United States | On Site | Jul 23 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Jul 23 |
-| ↳ | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a51de7578e364789ca5e0d3?utm_campaign=1054&utm_source=git)** | Metamora, OH, United States | On Site | Jul 23 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a62255ed5caab4af8bac250?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Jul 23 |
-| ↳ | **[Human Resources Intern (Metamora, OH)](https://jobright.ai/jobs/info/6a0aeef30411d7417a1abc7a?utm_campaign=1054&utm_source=git)** | METAMORA, OH, United States | On Site | Jul 23 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6279bad5caab4af8bae1e4?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Jul 23 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e857d27bf767ea68f741a?utm_campaign=1054&utm_source=git)** | USA LEWISBURG OH TFD | On Site | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a595fe0686b4755d1e1044e?utm_campaign=1054&utm_source=git)** | Blacksburg, VA, United States | On Site | Jul 23 |
 | **[Baylor University](http://www.baylor.edu)** | **[Student Worker - Baylor Eats Student HR Intern - BC](https://jobright.ai/jobs/info/6a6279e5f805ef6ff4233118?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Jul 23 |
 | **[Amphenol Industrial Operations](http://amphenol-industrial.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5ffb9c33ef5c58b4001562?utm_campaign=1054&utm_source=git)** | Mesa, AZ, United States | On Site | Jul 23 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Per Scholas](https://www.perscholas.org)** | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a29c68f2cde2824469be759?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 23 |
 | ↳ | **[Intern, Competitive Analysis Research](https://jobright.ai/jobs/info/6a294d800c4972328e7e29ea?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Remote | Jul 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/6a5d317d4da96a42cfd9dedb?utm_campaign=1054&utm_source=git)** | Rockaway, NJ, United States | On Site | Jul 23 |
-| **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Jul 23 |
-| ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jul 23 |
+| **[Festo](https://www.festo.com/us/en)** | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Jul 23 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Jul 23 |
 | **[Significance](https://significanceinc.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/6a5d125a4da96a42cfd9da7d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 23 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a510f3578e364789ca5869c?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a61deff11edf44d79162c14?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Workforce Development Intern, Hendrick Clinic Bone & Joint](https://jobright.ai/jobs/info/6a616693d51f6101c8fbb7e2?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 22 |
 | **[Debut](http://debutbiotech.com)** | **[Debut Internship Talent Pool](https://jobright.ai/jobs/info/6a548a5ae726ec56126aa995?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 22 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Workforce Development Intern, Hendrick Clinic Referral & Scheduling](https://jobright.ai/jobs/info/6a6164f97196365a6f00aaae?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 22 |
-| **[Lemontree Healthcare](https://lemontreehealthcare.com/)** | **[HR Intern PRN](https://jobright.ai/jobs/info/6a616340eaa37f43e7588603?utm_campaign=1054&utm_source=git)** | Tysons, VA, United States | On Site | Jul 22 |
-| **[Dallas College](https://www.dcccd.edu)** | **[Employee Experience and Engagement Intern](https://jobright.ai/jobs/info/6a61300bab9bd46763249ca2?utm_campaign=1054&utm_source=git)** | Bill J Priest Center, United States of America | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
