@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5b05db4da96a42cfd98c98?utm_campaign=1054&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 23 |
 | **[Urban Science](http://urbanscience.com/)** | **[HR Intern - Long Beach, CA](https://jobright.ai/jobs/info/6a6279d8846162391c9360bd?utm_campaign=1054&utm_source=git)** | Long Beach, CA, United States | Hybrid | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a62c2401ed5b0056a9389a6?utm_campaign=1054&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 23 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[College Intern (Case Management)](https://jobright.ai/jobs/info/6a60f0a6eaa37f43e75867a8?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 23 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Talent Acquisition Marketing Intern](https://jobright.ai/jobs/info/6a625be61e089c0cc884bf73?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 23 |
 | **[Allianz Technology](https://www.allianz-technology.ch)** | **[People & Culture Intern (part-time) - 2026/2027 Academic Year](https://jobright.ai/jobs/info/6a6255e7f805ef6ff42322f7?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Jul 23 |
 | **[Allianz](https://www.allianz.com/)** | **[People & Culture Intern (part-time) - 2026/2027 Academic Year](https://jobright.ai/jobs/info/6a624ef507e15f1ab0e4578d?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Jul 23 |
+| **[BHC](bhc.com)** | **[People and Culture Fall Intern](https://jobright.ai/jobs/info/6a622969f805ef6ff42312ff?utm_campaign=1054&utm_source=git)** | The Cooper, United States of America | On Site | Jul 23 |
 | **[Sugino Corp.](https://www.suginocorp.com)** | **[Human Resources Assistant Intern (On Site)](https://jobright.ai/jobs/info/6a6245a8846162391c934d92?utm_campaign=1054&utm_source=git)** | Littleton, MA, United States | On Site | Jul 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Internship Miami Lakes](https://jobright.ai/jobs/info/6a50c0575165966a1161b8da?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Jul 23 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0d02c10411d7417a1beb41?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Jul 23 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Hamister Group, LLC](http://www.hamistergroup.com)** | **[HR Intern (part-time)](https://jobright.ai/jobs/info/6a622db5846162391c934492?utm_campaign=1054&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 23 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/6a560460f7517b519ad52ea3?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
 | **[University of Nebraska Foundation](https://nufoundation.org/)** | **[Talent Management and Human Resources Intern](https://jobright.ai/jobs/info/6a622a041e089c0cc884add3?utm_campaign=1054&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 23 |
-| **[BHC](bhc.com)** | **[People and Culture Fall Intern](https://jobright.ai/jobs/info/6a622969f805ef6ff42312ff?utm_campaign=1054&utm_source=git)** | The Cooper, United States of America | On Site | Jul 23 |
 | **[McKinney](http://mckinney.com)** | **[Talent Operations, Intern](https://jobright.ai/jobs/info/6a51aca9ae4052672fe98db6?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a62255ed5caab4af8bac250?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Jul 23 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a621da91e089c0cc884a8c2?utm_campaign=1054&utm_source=git)** | Brillion, WI, United States | On Site | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Search and Advisory](https://jobright.ai/jobs/info/6a5fc263b0f20036bc632f66?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 22 |
 | **[Valence Surface Technologies](http://www.valencesurfacetech.com/)** | **[Intern](https://jobright.ai/jobs/info/6a60f278d51f6101c8fb99b2?utm_campaign=1054&utm_source=git)** | The Woodlands, TX, United States | On Site | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a556baaae07d60a8d01160d?utm_campaign=1054&utm_source=git)** | Boulder, CO, United States | On Site | Jul 22 |
-| **[Sterling Seacrest Pritchard](https://sspins.com)** | **[Summer 2027 Risk Management Intern - Birmingham](https://jobright.ai/jobs/info/6a614445eaa37f43e7587ad5?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
