@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bosch](http://www.bosch.com)** | **[Talent Acquisition Coordinator Intern (6 months)](https://jobright.ai/jobs/info/6a56702df7517b519ad55bd2?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI, United States | Hybrid | Jul 28 |
 | **[Summit](https://www.summithq.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a68e2d4b22f1b56a602967c?utm_campaign=1054&utm_source=git)** | Woodridge, IL, United States | On Site | Jul 28 |
 | **[Lannon Stone Products](https://lannonstone.net)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a68e21f5d01972698ee511d?utm_campaign=1054&utm_source=git)** | Sussex, WI, United States | On Site | Jul 28 |
 | **[PROJXON](www.projxon.com)** | **[HR Recruiter MAIO (Intern)](https://jobright.ai/jobs/info/6a68e10205bae84301b591c3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 28 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Recruiter Internship](https://jobright.ai/jobs/info/6a432f31cbf92c7bcd36e4f1?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Aebly Media](https://www.aeblymedia.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6835a26eaf5519573a5cbc?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[HR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a682efd457b63423812116e?utm_campaign=1054&utm_source=git)** | Newark, NJ, United States | On Site | Jul 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68154e5d2a117fb9cee9de?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 27 |
-| ↳ | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68155b3b5e6b116a551ff8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68155b3b5e6b116a551ff8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
+| ↳ | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68154e5d2a117fb9cee9de?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 27 |
 | **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a68133a872eb74f9eadc51a?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | Remote | Jul 27 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Benefits Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f2bb0f20036bc6312de?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 27 |
 | **[Precision Castparts](http://precast.com)** | **[HR Intern (Incotec)](https://jobright.ai/jobs/info/6a680af3d0fb4c3df393fe0b?utm_campaign=1054&utm_source=git)** | Mojave, CA, United States | On Site | Jul 27 |
@@ -140,14 +141,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5684b9e9b77f668bd63f20?utm_campaign=1054&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 26 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a432f67e09ecb49596429ef?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6a5b1431c8e3a473cb8aeac6?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jul 26 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3af6e4649fdf1629306aa2?utm_campaign=1054&utm_source=git)** | 2087 Williams Industrial Blvd, Rock Hill, SC29730 | On Site | Jul 26 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e1af4270e3033b045bf4b?utm_campaign=1054&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 26 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e1af4270e3033b045bf4b?utm_campaign=1054&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 26 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3af6e4649fdf1629306aa2?utm_campaign=1054&utm_source=git)** | 2087 Williams Industrial Blvd, Rock Hill, SC29730 | On Site | Jul 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6a2a2a1b1de59e0682a831de?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Jul 26 |
 | ↳ | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6a588cc468d16a30e2414006?utm_campaign=1054&utm_source=git)** | Edina, MN, US | On Site | Jul 26 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f52a1712f2811ab5a636af?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jul 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6a51db138d7d3e6cf1cc3e38?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 26 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f529910b36ff0354750cf5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jul 26 |
-| **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Benefit Intern](https://jobright.ai/jobs/info/6a5da859686b4755d1e1ea2a?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op/Internship](https://jobright.ai/jobs/info/6a65efe68d53603449608ee7?utm_campaign=1054&utm_source=git)** | Northfield, NH, United States | On Site | Jul 26 |
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jul 26 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a51e79678e364789ca5e97a?utm_campaign=1054&utm_source=git)** | Chapel Hill, NC, United States | On Site | Jul 26 |
