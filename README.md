@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics and Systems](https://jobright.ai/jobs/info/6a68a96668652d68b31496c9?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | Remote | Jul 28 |
 | **[Netrolynx AI](https://www.netrolynx.ai)** | **[HR Intern](https://jobright.ai/jobs/info/6a68a72268652d68b314962c?utm_campaign=1054&utm_source=git)** | Gillette, WY, United States | On Site | Jul 28 |
 | **[Diverse Health](https://mydiversehealth.com)** | **[Human Resources & Talent Operations Intern (Graduate Level)](https://jobright.ai/jobs/info/6a55f5a5392ae330b30e83de?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Wasserman](https://the.team/)** | **[Fall 2026 Internship - Talent Strategy, Creators](https://jobright.ai/jobs/info/6a663e330c8e2b4f36dd4edf?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 28 |
+| **[GCA](https://www.gcanext.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69797c610791bc1d72302379?utm_campaign=1054&utm_source=git)** | Stafford, VA 22554 | On Site | Jul 28 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a589b179838a11e5d839629?utm_campaign=1054&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Jul 28 |
 | **[EAC Network](https://eac-network.org/)** | **[Recruitment Intern (Remote)](https://jobright.ai/jobs/info/6a55ce0eef22935f2e3f7515?utm_campaign=1054&utm_source=git)** | Garden City, NY, United States | Remote | Jul 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/6a55ce9505c65f7c8f4c7e71?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Jul 27 |
@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Recruiter Internship](https://jobright.ai/jobs/info/6a432f31cbf92c7bcd36e4f1?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Aebly Media](https://www.aeblymedia.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6835a26eaf5519573a5cbc?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[HR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a682efd457b63423812116e?utm_campaign=1054&utm_source=git)** | Newark, NJ, United States | On Site | Jul 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68154e5d2a117fb9cee9de?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 27 |
-| ↳ | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68155b3b5e6b116a551ff8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68155b3b5e6b116a551ff8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
+| ↳ | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68154e5d2a117fb9cee9de?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 27 |
 | **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a68133a872eb74f9eadc51a?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | Remote | Jul 27 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Benefits Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f2bb0f20036bc6312de?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 27 |
 | **[Precision Castparts](http://precast.com)** | **[HR Intern (Incotec)](https://jobright.ai/jobs/info/6a680af3d0fb4c3df393fe0b?utm_campaign=1054&utm_source=git)** | Mojave, CA, United States | On Site | Jul 27 |
