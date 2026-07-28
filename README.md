@@ -57,15 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a69166c36d36c1ff2998170?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Jul 28 |
 | **[Advantage Solutions](https://youradv.com)** | **[MBA Intern – HR PMO / Project Management Office (part time)](https://jobright.ai/jobs/info/6a691f41ceb2691dfb2077bf?utm_campaign=1054&utm_source=git)** | Greater St. Louis | Hybrid | Jul 28 |
+| **[Parkland Corporation](https://www.parkland.ca/)** | **[Talent Acquisition Intern (September 2026)](https://jobright.ai/jobs/info/6a690b595d01972698ee6129?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 28 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, HR Learning and Development](https://jobright.ai/jobs/info/6a6919e93b549b0b531d3f08?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Remote | Jul 28 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6919caceb2691dfb20766a?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Jul 28 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship - HR Intern, Talent Acquisition (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/6a691678ceb2691dfb2074ce?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Remote | Jul 28 |
-| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a69166c36d36c1ff2998170?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Jul 28 |
 | **[Design Interactive](http://designinteractive.net)** | **[Internship Opportunities](https://jobright.ai/jobs/info/6a56847ef7517b519ad56472?utm_campaign=1054&utm_source=git)** | Orlando, FL, United States | On Site | Jul 28 |
 | **[Advanced MedAesthetic Partners](https://weramp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a690ef205bae84301b5a37c?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Jul 28 |
 | **[Kapitus](https://kapitus.com/)** | **[Intern, People & Culture Operations](https://jobright.ai/jobs/info/6a690bf236d36c1ff2997c6a?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Jul 28 |
-| **[Parkland Corporation](https://www.parkland.ca/)** | **[Talent Acquisition Intern (September 2026)](https://jobright.ai/jobs/info/6a690b595d01972698ee6129?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 28 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[HR Intern](https://jobright.ai/jobs/info/6a6907c3ceb2691dfb206e4a?utm_campaign=1054&utm_source=git)** | Sussex, WI, United States | On Site | Jul 28 |
 | **[Bridgewell](https://bridgewell.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6900953b549b0b531d34ea?utm_campaign=1054&utm_source=git)** | Peabody, MA, United States | On Site | Jul 28 |
 | **[Circle K](http://www.circlek.com)** | **[Human Resource College Internship](https://jobright.ai/jobs/info/6a68beeb68652d68b3149f84?utm_campaign=1054&utm_source=git)** | Corona, CA, United States | On Site | Jul 28 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Recruiter Internship](https://jobright.ai/jobs/info/6a432f31cbf92c7bcd36e4f1?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Aebly Media](https://www.aeblymedia.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6835a26eaf5519573a5cbc?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[HR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a682efd457b63423812116e?utm_campaign=1054&utm_source=git)** | Newark, NJ, United States | On Site | Jul 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68154e5d2a117fb9cee9de?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 27 |
-| ↳ | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68155b3b5e6b116a551ff8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68155b3b5e6b116a551ff8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
+| ↳ | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68154e5d2a117fb9cee9de?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 27 |
 | **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a68133a872eb74f9eadc51a?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | Remote | Jul 27 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Benefits Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f2bb0f20036bc6312de?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 27 |
 | **[Precision Castparts](http://precast.com)** | **[HR Intern (Incotec)](https://jobright.ai/jobs/info/6a680af3d0fb4c3df393fe0b?utm_campaign=1054&utm_source=git)** | Mojave, CA, United States | On Site | Jul 27 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5684b9e9b77f668bd63f20?utm_campaign=1054&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 26 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a432f67e09ecb49596429ef?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6a5b1431c8e3a473cb8aeac6?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jul 26 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e1af4270e3033b045bf4b?utm_campaign=1054&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 26 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3af6e4649fdf1629306aa2?utm_campaign=1054&utm_source=git)** | 2087 Williams Industrial Blvd, Rock Hill, SC29730 | On Site | Jul 26 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3af6e4649fdf1629306aa2?utm_campaign=1054&utm_source=git)** | 2087 Williams Industrial Blvd, Rock Hill, SC29730 | On Site | Jul 26 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e1af4270e3033b045bf4b?utm_campaign=1054&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
