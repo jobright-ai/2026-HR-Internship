@@ -123,8 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5684b9e9b77f668bd63f20?utm_campaign=1054&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 26 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a432f67e09ecb49596429ef?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6a5b1431c8e3a473cb8aeac6?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Jul 26 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e1af4270e3033b045bf4b?utm_campaign=1054&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 26 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3af6e4649fdf1629306aa2?utm_campaign=1054&utm_source=git)** | 2087 Williams Industrial Blvd, Rock Hill, SC29730 | On Site | Jul 26 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3af6e4649fdf1629306aa2?utm_campaign=1054&utm_source=git)** | 2087 Williams Industrial Blvd, Rock Hill, SC29730 | On Site | Jul 26 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e1af4270e3033b045bf4b?utm_campaign=1054&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6a2a2a1b1de59e0682a831de?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Jul 26 |
 | ↳ | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6a588cc468d16a30e2414006?utm_campaign=1054&utm_source=git)** | Edina, MN, US | On Site | Jul 26 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f52a1712f2811ab5a636af?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jul 26 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[High School Health & Safety Internship](https://jobright.ai/jobs/info/6a52e0aa9fbdab22fe13d658?utm_campaign=1054&utm_source=git)** | New Haven, IN, United States | On Site | Jul 25 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Talent Acquisition (Fall 2026)](https://jobright.ai/jobs/info/6a4e3d2b1544d7246c0d2195?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, United States | On Site | Jul 25 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a58d32a856af468abffff5f?utm_campaign=1054&utm_source=git)** | Athens, GA, United States | On Site | Jul 25 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/69f2793c8d8d624381aa0f3d?utm_campaign=1054&utm_source=git)** | Arden - North Carolina - USA, US | On Site | Jul 25 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a5877369f1f56462cf6a062?utm_campaign=1054&utm_source=git)** | North Carolina, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
