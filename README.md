@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI, United States | On Site | Jul 29 |
 | **[BRG Communications](https://brgcommunications.com/)** | **[Full-Time Paid Intern (Fall)](https://jobright.ai/jobs/info/6a6a128e48355b3f12beed7e?utm_campaign=1054&utm_source=git)** | Alexandria, VA, United States | Hybrid | Jul 29 |
+| **[FIRST](https://firstagency.com/)** | **[People Engagement Intern (Hybrid - NY office)](https://jobright.ai/jobs/info/6a67d6f2d0fb4c3df393ef19?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jul 29 |
+| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Talent Acquisition Intern - Fall 2026](https://jobright.ai/jobs/info/6a509d755165966a11619afa?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Jul 29 |
+| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI, United States | On Site | Jul 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Organizational Development Director Volunteer/Intern](https://jobright.ai/jobs/info/6a562e1af7517b519ad540c2?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
 | **[Koino](https://www.koinocapital.com)** | **[Talent Aqcuisition Intern](https://jobright.ai/jobs/info/6a6a08678693c23e7fb784ff?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 29 |
 | **[MDA Space](https://mda.space/en/)** | **[Human Resources Intern (bilingual)](https://jobright.ai/jobs/info/6a300cb443732c05812e03cd?utm_campaign=1054&utm_source=git)** | Sainte-Anne-de-Bellevue, Quebec, Canada | On Site | Jul 29 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6a61358311edf44d7915f735?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 27 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Retirement Program, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a67baa35d2a117fb9cecef8?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[Allevio](https://www.alleviocare.com)** | **[Credentialing and Licensing Intern](https://jobright.ai/jobs/info/6a55472a268af95237bea7bd?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 27 |
-| **[FIRST](https://firstagency.com/)** | **[People Engagement Intern (Hybrid - NY office)](https://jobright.ai/jobs/info/6a67d6f2d0fb4c3df393ef19?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jul 27 |
 | **[Wasserman](https://the.team/)** | **[Fall 2026 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/6a67bea73b5e6b116a550542?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/6a5fd6fe33ef5c58b40005d9?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Jul 27 |
 | **[Eulerity](https://www.eulerity.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a67805d3b5e6b116a54ef82?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Management Intern (Human Resources)](https://jobright.ai/jobs/info/6a67a3cf872eb74f9eada141?utm_campaign=1054&utm_source=git)** | Solana Beach, CA, United States | On Site | Jul 27 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, HR Program and Product Management Support (Summer 2027)](https://jobright.ai/jobs/info/6a60116c33ef5c58b4001a8d?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 27 |
 | **[AppDirect](http://www.appdirect.com)** | **[Benefits & Payroll Intern (6 months)](https://jobright.ai/jobs/info/6a50fbce57513b72e0c62c1a?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | On Site | Jul 27 |
-| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS, Moline Foster Care Multi-Disciplinary Team Assistant](https://jobright.ai/jobs/info/6a1dba673e538a28c204b72b?utm_campaign=1054&utm_source=git)** | Moline, IL, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
