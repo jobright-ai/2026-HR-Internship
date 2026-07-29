@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Nomination Specialist intern/Volunteer](https://jobright.ai/jobs/info/6a5417c08a74e077472faa27?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
 | **[LeadVaultAI](https://leadvault.gethireddigital.com/)** | **[Tech Recruiter (Internship)](https://jobright.ai/jobs/info/6a69f12048355b3f12bee37a?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 29 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Internship - Recruiting Coordinator (In Office in Midtown Tampa)](https://jobright.ai/jobs/info/6a4d79ce35e45603c4bb40ed?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Hybrid | Jul 29 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Talent Acquisition (Fall 2026)](https://jobright.ai/jobs/info/6a4e3d2b1544d7246c0d2195?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, United States | On Site | Jul 29 |
@@ -68,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6a6972dd2baf19558c923779?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56ef04efb06a45240d8b7a?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Jul 28 |
 | **[Universal Alloy Corporation](https://universalalloy.com/)** | **[HUMAN RESOURCES COLLEGE INTERN](https://jobright.ai/jobs/info/6a549defc8eb0843027b0757?utm_campaign=1054&utm_source=git)** | Canton, GA, United States | On Site | Jul 28 |
-| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a69140805bae84301b5a5bf?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Jul 28 |
+| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6919caceb2691dfb20766a?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Jul 28 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, HR Learning and Development](https://jobright.ai/jobs/info/6a6919e93b549b0b531d3f08?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Remote | Jul 28 |
 | **[Textron Aviation](http://txtav.com)** | **[2026 Fall Human Resources Intern](https://jobright.ai/jobs/info/6a69526d3b549b0b531d510b?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Jul 28 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Workforce Development Intern, Hendrick Clinic Bone & Joint](https://jobright.ai/jobs/info/6a616693d51f6101c8fbb7e2?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 28 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Recruiter Internship](https://jobright.ai/jobs/info/6a432f31cbf92c7bcd36e4f1?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Aebly Media](https://www.aeblymedia.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6835a26eaf5519573a5cbc?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[HR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a682efd457b63423812116e?utm_campaign=1054&utm_source=git)** | Newark, NJ, United States | On Site | Jul 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68154e5d2a117fb9cee9de?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 27 |
-| ↳ | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68155b3b5e6b116a551ff8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68155b3b5e6b116a551ff8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
+| ↳ | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68154e5d2a117fb9cee9de?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 27 |
 | **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a68133a872eb74f9eadc51a?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | Remote | Jul 27 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Benefits Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f2bb0f20036bc6312de?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 27 |
 | **[Precision Castparts](http://precast.com)** | **[HR Intern (Incotec)](https://jobright.ai/jobs/info/6a680af3d0fb4c3df393fe0b?utm_campaign=1054&utm_source=git)** | Mojave, CA, United States | On Site | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Structural-Builders and Restorations (S-BR)](https://www.structuralbr.com)** | **[Administrative and HR Intern](https://jobright.ai/jobs/info/6a678dea2bf1fb2b71925bd4?utm_campaign=1054&utm_source=git)** | Opa-Locka, FL, United States | On Site | Jul 27 |
 | **[American Society for Clinical Pathology (ASCP)](https://www.ascp.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6784dad0fb4c3df393d2ef?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 27 |
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/6a57cd4010c4d945d86511a1?utm_campaign=1054&utm_source=git)** | Chula Vista, CA, United States | On Site | Jul 27 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Finance & Timekeeping Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a54f2364119652ff3862555?utm_campaign=1054&utm_source=git)** | Staten Island, NY, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
