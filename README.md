@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a6a600948355b3f12bf09b1?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 29 |
+| **[Fé. soul communication & research](http://www.fesoulconversation.be)** | **[Internship Interest](https://jobright.ai/jobs/info/6a3b03f906a4fd4b1fac0029?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Jul 29 |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6a5c9116c69119640fde53?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 29 |
+| **[UPS](http://www.ups.com)** | **[HR Intern / Coop](https://jobright.ai/jobs/info/6a6a578948355b3f12bf06f9?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 29 |
 | **[Axon](https://www.axon.com)** | **[Render ATL - Leadership Development Internship 2027](https://jobright.ai/jobs/info/6a6a4570c63ba56308f523cc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 29 |
 | **[Hiossen](https://hiossen.com)** | **[HR Intern (Ridgefield Park, NJ)](https://jobright.ai/jobs/info/6a6a406b0b42f866b619794f?utm_campaign=1054&utm_source=git)** | Ridgefield Park, NJ, United States | On Site | Jul 29 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship - HR Intern, Talent Acquisition (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/6a691678ceb2691dfb2074ce?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Remote | Jul 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New England Heritage Properties](http://heritageprop.net)** | **[Part Time Summer Internship](https://jobright.ai/jobs/info/6a552a60ae07d60a8d00f5c7?utm_campaign=1054&utm_source=git)** | Lowell, MA, United States | On Site | Jul 27 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6a678fc9872eb74f9ead9be5?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | Remote | Jul 27 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Human Resources Records Intern Fall 2026 - UNPAID](https://jobright.ai/jobs/info/6a67ac43d0fb4c3df393e2c7?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 27 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Human Resources Records Intern Fall 2026 - UNPAID](https://jobright.ai/jobs/info/6a67aaff2bda4d284285527a?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 27 |
-| **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern – HR Communications/Data](https://jobright.ai/jobs/info/6a678eb83b5e6b116a54f60c?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 27 |
-| **[XtalPi Inc.](http://www.xtalpi.com/)** | **[HR Intern (Talent Acquisition Focus)](https://jobright.ai/jobs/info/6a42eb436c326942b4e84a2c?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Jul 27 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Management Intern (Human Resources)](https://jobright.ai/jobs/info/6a67a3cf872eb74f9eada141?utm_campaign=1054&utm_source=git)** | Solana Beach, CA, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
