@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Talent Acquisition (Fall 2026)](https://jobright.ai/jobs/info/6a4e3d2b1544d7246c0d2195?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, United States | On Site | Jul 29 |
 | **[Advanced MedAesthetic Partners](https://weramp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a69b941c63ba56308f4fa57?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Jul 29 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[People Operations Internship](https://jobright.ai/jobs/info/6a69a3085165f0383c150348?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Recruiting Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9ad4da96a42cfd92f2b?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
@@ -65,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6a6972dd2baf19558c923779?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56ef04efb06a45240d8b7a?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Jul 28 |
 | **[Universal Alloy Corporation](https://universalalloy.com/)** | **[HUMAN RESOURCES COLLEGE INTERN](https://jobright.ai/jobs/info/6a549defc8eb0843027b0757?utm_campaign=1054&utm_source=git)** | Canton, GA, United States | On Site | Jul 28 |
-| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a69140805bae84301b5a5bf?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Jul 28 |
+| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6919caceb2691dfb20766a?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Jul 28 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, HR Learning and Development](https://jobright.ai/jobs/info/6a6919e93b549b0b531d3f08?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Remote | Jul 28 |
 | **[Textron Aviation](http://txtav.com)** | **[2026 Fall Human Resources Intern](https://jobright.ai/jobs/info/6a69526d3b549b0b531d510b?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Jul 28 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Workforce Development Intern, Hendrick Clinic Bone & Joint](https://jobright.ai/jobs/info/6a616693d51f6101c8fbb7e2?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eulerity](https://www.eulerity.com)** | **[Technical Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a42dfe31cc9cc2b12fed312?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Jul 27 |
 | ↳ | **[Technical Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a42ec1d6a9c2774b3fa7d83?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 27 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Internship - Head of HR & Project Management](https://jobright.ai/jobs/info/6a58efa8856af468ab000c98?utm_campaign=1054&utm_source=git)** | Charleston, SC, United States | On Site | Jul 27 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Nomination Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9b2c8e3a473cb8a8c7a?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
