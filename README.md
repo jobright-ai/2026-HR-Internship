@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI, United States | On Site | Jul 29 |
+| **[BRG Communications](https://brgcommunications.com/)** | **[Full-Time Paid Intern (Fall)](https://jobright.ai/jobs/info/6a6a128e48355b3f12beed7e?utm_campaign=1054&utm_source=git)** | Alexandria, VA, United States | Hybrid | Jul 29 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Organizational Development Director Volunteer/Intern](https://jobright.ai/jobs/info/6a562e1af7517b519ad540c2?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
 | **[Koino](https://www.koinocapital.com)** | **[Talent Aqcuisition Intern](https://jobright.ai/jobs/info/6a6a08678693c23e7fb784ff?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 29 |
 | **[MDA Space](https://mda.space/en/)** | **[Human Resources Intern (bilingual)](https://jobright.ai/jobs/info/6a300cb443732c05812e03cd?utm_campaign=1054&utm_source=git)** | Sainte-Anne-de-Bellevue, Quebec, Canada | On Site | Jul 29 |
 | **[Textron](http://textron.com)** | **[2026 Fall Human Resources Intern](https://jobright.ai/jobs/info/6a6a041619d76667a2abd21d?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Jul 29 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS, Moline Foster Care Multi-Disciplinary Team Assistant](https://jobright.ai/jobs/info/6a65ccf0979290281c7088e1?utm_campaign=1054&utm_source=git)** | Moline, IL, United States | On Site | Jul 28 |
 | **[BKF Engineers](http://bkf.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a69389c36d36c1ff2998d61?utm_campaign=1054&utm_source=git)** | Pleasanton, CA, United States | On Site | Jul 28 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship - HR Intern, Talent Acquisition (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/6a691678ceb2691dfb2074ce?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Remote | Jul 28 |
-| **[Kapitus](https://kapitus.com/)** | **[Intern, People & Culture Operations](https://jobright.ai/jobs/info/6a690bf236d36c1ff2997c6a?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Jul 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall Management Trainee Internship - Provo](https://jobright.ai/jobs/info/6a69352136d36c1ff2998cbf?utm_campaign=1054&utm_source=git)** | Provo, UT, United States | On Site | Jul 28 |
 | ↳ | **[Fall Management Trainee Internship - St George Utah](https://jobright.ai/jobs/info/6a6931a9b22f1b56a602b49b?utm_campaign=1054&utm_source=git)** | St. George, UT, United States | On Site | Jul 28 |
 | **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a69166c36d36c1ff2998170?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Jul 28 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jul 28 |
 | ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a5fb29b33ef5c58b4fff7bf?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 28 |
 | **[YMCA of Greater Fort Wayne](http://www.fwymca.org)** | **[Workforce Development Intern](https://jobright.ai/jobs/info/6a698a2078007e2966881dab?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 28 |
-| **[Netrolynx AI](https://www.netrolynx.ai)** | **[HR Intern](https://jobright.ai/jobs/info/6a68a72268652d68b314962c?utm_campaign=1054&utm_source=git)** | Gillette, WY, United States | On Site | Jul 28 |
 | **[Diverse Health](https://mydiversehealth.com)** | **[Human Resources & Talent Operations Intern (Graduate Level)](https://jobright.ai/jobs/info/6a55f5a5392ae330b30e83de?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 28 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[HR Intern](https://jobright.ai/jobs/info/6a698a0a4e046878af69c461?utm_campaign=1054&utm_source=git)** | Sussex, WI, United States | On Site | Jul 28 |
 | **[Wasserman](https://the.team/)** | **[Fall 2026 Internship - Talent Strategy, Creators](https://jobright.ai/jobs/info/6a663e330c8e2b4f36dd4edf?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 28 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[HR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a682efd457b63423812116e?utm_campaign=1054&utm_source=git)** | Newark, NJ, United States | On Site | Jul 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68155b3b5e6b116a551ff8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
 | ↳ | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68154e5d2a117fb9cee9de?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 27 |
-| **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a68133a872eb74f9eadc51a?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | Remote | Jul 27 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Benefits Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f2bb0f20036bc6312de?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 27 |
 | **[Precision Castparts](http://precast.com)** | **[HR Intern (Incotec)](https://jobright.ai/jobs/info/6a680af3d0fb4c3df393fe0b?utm_campaign=1054&utm_source=git)** | Mojave, CA, United States | On Site | Jul 27 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5c1f0c63a8f619507cca9e?utm_campaign=1054&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Jul 27 |
