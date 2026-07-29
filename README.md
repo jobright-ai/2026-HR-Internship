@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Recruiting Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9ad4da96a42cfd92f2b?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Fall Human Resources Intern](https://jobright.ai/jobs/info/6a69520a05bae84301b5bb13?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Jul 28 |
 | **[The Boring Company](http://www.boringcompany.com)** | **[Human Resources (HR) Internship](https://jobright.ai/jobs/info/6a6974d6436a9228dd005572?utm_campaign=1054&utm_source=git)** | Bastrop, TX, United States | On Site | Jul 28 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6a6972dd2baf19558c923779?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Fall Human Resources Intern](https://jobright.ai/jobs/info/6a69520a05bae84301b5bb13?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Jul 28 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56ef04efb06a45240d8b7a?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Jul 28 |
 | **[Universal Alloy Corporation](https://universalalloy.com/)** | **[HUMAN RESOURCES COLLEGE INTERN](https://jobright.ai/jobs/info/6a549defc8eb0843027b0757?utm_campaign=1054&utm_source=git)** | Canton, GA, United States | On Site | Jul 28 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6919caceb2691dfb20766a?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Jul 28 |
@@ -103,8 +104,10 @@ For a complete list, click the following sortable link below:
 | **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - MEDICAL BILLING AND CODING - TRAINING PROGRAM (CREDENTIALING AND ENROLLMENT INTERNSHIP)](https://jobright.ai/jobs/info/6a55f6ea392ae330b30e84a0?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Jul 28 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, US | On Site | Jul 28 |
 | ↳ | **[2027 Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a5fb29b33ef5c58b4fff7bf?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 28 |
+| **[YMCA of Greater Fort Wayne](http://www.fwymca.org)** | **[Workforce Development Intern](https://jobright.ai/jobs/info/6a698a2078007e2966881dab?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 28 |
 | **[Netrolynx AI](https://www.netrolynx.ai)** | **[HR Intern](https://jobright.ai/jobs/info/6a68a72268652d68b314962c?utm_campaign=1054&utm_source=git)** | Gillette, WY, United States | On Site | Jul 28 |
 | **[Diverse Health](https://mydiversehealth.com)** | **[Human Resources & Talent Operations Intern (Graduate Level)](https://jobright.ai/jobs/info/6a55f5a5392ae330b30e83de?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 28 |
+| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[HR Intern](https://jobright.ai/jobs/info/6a698a0a4e046878af69c461?utm_campaign=1054&utm_source=git)** | Sussex, WI, United States | On Site | Jul 28 |
 | **[Wasserman](https://the.team/)** | **[Fall 2026 Internship - Talent Strategy, Creators](https://jobright.ai/jobs/info/6a663e330c8e2b4f36dd4edf?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 28 |
 | **[GCA](https://www.gcanext.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69797c610791bc1d72302379?utm_campaign=1054&utm_source=git)** | Stafford, VA 22554 | On Site | Jul 28 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a589b179838a11e5d839629?utm_campaign=1054&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Jul 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Nomination Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9b2c8e3a473cb8a8c7a?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6983b2eb348f733a5c36ec1a?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 27 |
 | ↳ | **[2027 Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/6a564f8df7517b519ad54e3c?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | On Site | Jul 27 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Organizational Development Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfc03cd1632418bec019?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Nomination Specialist intern/Volunteer](https://jobright.ai/jobs/info/6a54ecaff2c46727285eeabd?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Human Resources (Fall 2026)](https://jobright.ai/jobs/info/6a674f785d2a117fb9ceae30?utm_campaign=1054&utm_source=git)** | Altamonte Springs, FL, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
