@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metro One Security](http://metroonelpsg.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a6ada82acb0a61f9dbbd0e1?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Jul 29 |
+| **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Asheville NC](https://jobright.ai/jobs/info/6a6ad8ce57120971bf3a2f79?utm_campaign=1054&utm_source=git)** | Asheville, NC, United States | Hybrid | Jul 29 |
+| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a62a9e207e15f1ab0e47884?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Cherry Hill, NJ](https://jobright.ai/jobs/info/6a574ad110c4d945d864d9e7?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Jul 29 |
 | **[City of New York](https://www.nyc.gov)** | **[Personnel Services Intern, Bureau of Center for Population Health Data Science Administration](https://jobright.ai/jobs/info/6a58322c72fe7a7b98dcd6ba?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a6a7de648355b3f12bf13d0?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | Hybrid | Jul 29 |
-| **[Metro One Security](http://metroonelpsg.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5810203330ca6f993c31e7?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Jul 29 |
 | **[Blackstraw](https://www.blackstraw.ai/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a6a9e0348355b3f12bf1caa?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Television Labor Relations JD Intern, Fall 2026](https://jobright.ai/jobs/info/6a6a90650b42f866b61995f1?utm_campaign=1054&utm_source=git)** | Burbank, CA, United States | Hybrid | Jul 29 |
 | **[PROJXON](www.projxon.com)** | **[MIP Recruiter Program (Internship)](https://jobright.ai/jobs/info/6a6a8f410b42f866b61995d6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 29 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Hana Technologies Inc.](https://www.hanaoh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a57d64a21f64463ad35c6cf?utm_campaign=1054&utm_source=git)** | Solon, OH, United States | On Site | Jul 29 |
 | **[Heads Up](https://www.headsupclubs.org)** | **[Fall Intern - Director of HR](https://jobright.ai/jobs/info/6a6a61d919d76667a2abf4b9?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Fé. soul communication & research](http://www.fesoulconversation.be)** | **[Internship Interest](https://jobright.ai/jobs/info/6a3b03f906a4fd4b1fac0029?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Jul 29 |
-| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6a5c9116c69119640fde53?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Axon](https://www.axon.com)** | **[Render ATL - Leadership Development Internship 2027](https://jobright.ai/jobs/info/6a6a4570c63ba56308f523cc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 29 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship - HR Intern, Talent Acquisition (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/6a691678ceb2691dfb2074ce?utm_campaign=1054&utm_source=git)** | North Carolina, United States | Remote | Jul 29 |
 | **[Alleghany Highlands Community Services](http://www.ahcsb.org)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/6a6a2b7d0b42f866b61971da?utm_campaign=1054&utm_source=git)** | Covington, VA, United States | On Site | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Recruiter Internship](https://jobright.ai/jobs/info/6a432f31cbf92c7bcd36e4f1?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[HR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a682efd457b63423812116e?utm_campaign=1054&utm_source=git)** | Newark, NJ, United States | On Site | Jul 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68154e5d2a117fb9cee9de?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Jul 27 |
-| ↳ | **[Talent Acquisition Partner Intern (Product & Design) - 2026 Fall](https://jobright.ai/jobs/info/6a68155b3b5e6b116a551ff8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
