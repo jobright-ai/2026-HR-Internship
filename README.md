@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Vantage Plastics](https://vantageplastics.com)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a6b63975c54bc4752ce8a53?utm_campaign=1054&utm_source=git)** | Bay City, MI, United States | On Site | Jul 30 |
-| **[New York Life](https://www.newyorklife.com/amn)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/6a6b5f9fc00ae03109f837f0?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 30 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)](https://jobright.ai/jobs/info/6a6b59ac57120971bf3a641e?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 30 |
 | **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a6b59805c54bc4752ce86aa?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 30 |
 | **[Metallus Inc.](https://metallus.com)** | **[Labor Relations Intern Job Details / Metallus](https://jobright.ai/jobs/info/6a6b46b35c54bc4752ce810b?utm_campaign=1054&utm_source=git)** | Canton, OH, United States | On Site | Jul 30 |
@@ -71,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/6a6b24ff57120971bf3a51a4?utm_campaign=1054&utm_source=git)** | Chula Vista, CA, United States | On Site | Jul 30 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6b24bdca1f9338465f8a2f?utm_campaign=1054&utm_source=git)** | Oak Creek, WI, United States | On Site | Jul 30 |
 | **[Mentor Technical Group](https://www.mentortg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6b24a932f9300c3a3dd26b?utm_campaign=1054&utm_source=git)** | Caguas, PR, Puerto Rico | Hybrid | Jul 30 |
-| **[Quality Home Care Michigan](https://qualityhomec.com/)** | **[Internship Program (Recruitment Internship - US Based Remote)](https://jobright.ai/jobs/info/6a5216408a74e077472f3034?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Quality Home Care Michigan](https://qualityhomec.com/)** | **[Internship Program (Recruitment Internship - US Based Remote)](https://jobright.ai/jobs/info/6a6b2436c00ae03109f822d3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Fall Internship - Training & Development (Remote)](https://jobright.ai/jobs/info/6a6b242357120971bf3a5055?utm_campaign=1054&utm_source=git)** | Naperville, IL, United States | Remote | Jul 30 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Employee Experience Internship](https://jobright.ai/jobs/info/6a6b237eca1f9338465f8858?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
 | **[Fé. soul communication & research](http://www.fesoulconversation.be)** | **[Internship Interest](https://jobright.ai/jobs/info/6a6b229957120971bf3a4e27?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Jul 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[People & Culture Recruitment & Hiring Internship](https://jobright.ai/jobs/info/6a68de365d01972698ee4f36?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[WHSmith North America](http://www.marshallretailgroup.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a68ddaa05bae84301b58feb?utm_campaign=1054&utm_source=git)** | Las Vegas, NV, United States | On Site | Jul 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[People Operations Internship](https://jobright.ai/jobs/info/6a68c5955d01972698ee42fb?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
+| **[Marcus Corporation](http://www.marcuscorp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a68c089e53d5546ebf5978b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
