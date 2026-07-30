@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Television Labor Relations JD Intern, Fall 2026](https://jobright.ai/jobs/info/6a6a90650b42f866b61995f1?utm_campaign=1054&utm_source=git)** | Burbank, CA, United States | Hybrid | Jul 29 |
+| **[PROJXON](www.projxon.com)** | **[MIP Recruiter Program (Internship)](https://jobright.ai/jobs/info/6a6a8f410b42f866b61995d6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS, Moline Foster Care Multi-Disciplinary Team Assistant](https://jobright.ai/jobs/info/6a65ccf0979290281c7088e1?utm_campaign=1054&utm_source=git)** | Moline, IL, United States | On Site | Jul 29 |
 | **[Hiossen](https://hiossen.com)** | **[HR Intern (Ridgefield Park, NJ)](https://jobright.ai/jobs/info/6a6a406b0b42f866b619794f?utm_campaign=1054&utm_source=git)** | Ridgefield Park, NJ, United States | On Site | Jul 29 |
 | **[Metro One Security](http://metroonelpsg.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a57f4888f51964c04045fcf?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 29 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a349d4229c90c607e4dff91?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 29 |
 | **[International Institute of New England](https://iine.org/)** | **[Fall 2026 Resource Center Internship](https://jobright.ai/jobs/info/6a6a26dc48355b3f12bef4c8?utm_campaign=1054&utm_source=git)** | Lowell, MA, United States | Hybrid | Jul 29 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/ Volunteer Organizational Development Specialist](https://jobright.ai/jobs/info/6a59e9d663a8f619507c416e?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
+| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Talent Acquisition Intern - Fall 2026](https://jobright.ai/jobs/info/6a4d33fad27b2c4dda9b6a9f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 29 |
 | **[BRG Communications](https://brgcommunications.com/)** | **[Full-Time Paid Intern (Fall)](https://jobright.ai/jobs/info/6a6a128e48355b3f12beed7e?utm_campaign=1054&utm_source=git)** | Alexandria, VA, United States | Hybrid | Jul 29 |
 | **[FIRST](https://firstagency.com/)** | **[People Engagement Intern (Hybrid - NY office)](https://jobright.ai/jobs/info/6a67d6f2d0fb4c3df393ef19?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jul 29 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Talent Acquisition Intern - Fall 2026](https://jobright.ai/jobs/info/6a509d755165966a11619afa?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Jul 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Benefits Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f2bb0f20036bc6312de?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 27 |
 | **[Precision Castparts](http://precast.com)** | **[HR Intern (Incotec)](https://jobright.ai/jobs/info/6a680af3d0fb4c3df393fe0b?utm_campaign=1054&utm_source=git)** | Mojave, CA, United States | On Site | Jul 27 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5c1f0c63a8f619507cca9e?utm_campaign=1054&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Jul 27 |
-| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6a61358311edf44d7915f735?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 27 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Retirement Program, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a67baa35d2a117fb9cecef8?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
-| **[Allevio](https://www.alleviocare.com)** | **[Credentialing and Licensing Intern](https://jobright.ai/jobs/info/6a55472a268af95237bea7bd?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
