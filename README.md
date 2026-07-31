@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer / Intern High School Mentor Liaison](https://jobright.ai/jobs/info/6a59e9aa3ac7627fe9001181?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
+| ↳ | **[Recruiting Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9b83ac7627fe9001190?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
+| ↳ | **[Recruiting Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9b0c8e3a473cb8a8c76?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
+| ↳ | **[Intern/ Volunteer Organizational Development Specialist](https://jobright.ai/jobs/info/6a59e9804da96a42cfd92f16?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
+| **[Health First](https://hf.org/)** | **[BPS Internship Program](https://jobright.ai/jobs/info/6a6c620f32f9300c3a3e3924?utm_campaign=1054&utm_source=git)** | Melbourne, FL, United States | On Site | Jul 31 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a5c02c463a8f619507cc713?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Jul 31 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Compensation & Benefits Intern (Spring 2027))](https://jobright.ai/jobs/info/6a6c5fa432f9300c3a3e3808?utm_campaign=1054&utm_source=git)** | Spartanburg, SC, United States | On Site | Jul 31 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - MEDICAL BILLING AND CODING - TRAINING PROGRAM (CREDENTIALING AND ENROLLMENT INTERNSHIP)](https://jobright.ai/jobs/info/6a55f6ea392ae330b30e84a0?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Jul 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MDA Space](https://mda.space/en/)** | **[Human Resources Intern (bilingual)](https://jobright.ai/jobs/info/6a300cb443732c05812e03cd?utm_campaign=1054&utm_source=git)** | Sainte-Anne-de-Bellevue, Quebec, Canada | On Site | Jul 29 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6a5da67b856af468ab011b78?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Nomination Specialist intern/Volunteer](https://jobright.ai/jobs/info/6a5417c08a74e077472faa27?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
-| **[TeamViewer](https://www.teamviewer.com)** | **[Internship - Recruiting Coordinator (In Office in Midtown Tampa)](https://jobright.ai/jobs/info/6a4d79ce35e45603c4bb40ed?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Hybrid | Jul 29 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Talent Acquisition (Fall 2026)](https://jobright.ai/jobs/info/6a4d1324c643fd23fed3b8cc?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, United States | On Site | Jul 29 |
-| ↳ | **[Intern/Co-op - Talent Acquisition (Fall 2026)](https://jobright.ai/jobs/info/6a4e3d2b1544d7246c0d2195?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, United States | On Site | Jul 29 |
-| **[New York Life](https://www.newyorklife.com/amn)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS)](https://jobright.ai/jobs/info/6a6c5f4aca1f9338465ff00f?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | Hybrid | Jul 29 |
-| ↳ | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6a6c5f5857120971bf3ab807?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
