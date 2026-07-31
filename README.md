@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Internet Brands](http://www.internetbrands.com)** | **[HR & Recruiting Operations Intern (Part-Time)](https://jobright.ai/jobs/info/6a564311efb06a45240d48a5?utm_campaign=1054&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern- Fall 2026](https://jobright.ai/jobs/info/6a6c1535ca1f9338465fdd54?utm_campaign=1054&utm_source=git)** | Bronx Zoo, New York, United States | On Site | Jul 30 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[HR Operations Intern (September 2026)](https://jobright.ai/jobs/info/6a6be484ca1f9338465fcf24?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 30 |
 | **[Eulerity](https://www.eulerity.com)** | **[Recruiting Intern - AI & Automation](https://jobright.ai/jobs/info/6a6bc5c257120971bf3a8cb5?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
@@ -107,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/6a6b24ff57120971bf3a51a4?utm_campaign=1054&utm_source=git)** | Chula Vista, CA, United States | On Site | Jul 30 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6b24bdca1f9338465f8a2f?utm_campaign=1054&utm_source=git)** | Oak Creek, WI, United States | On Site | Jul 30 |
 | **[Mentor Technical Group](https://www.mentortg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6b24a932f9300c3a3dd26b?utm_campaign=1054&utm_source=git)** | Caguas, PR, Puerto Rico | Hybrid | Jul 30 |
-| **[Quality Home Care Michigan](https://qualityhomec.com/)** | **[Internship Program (Recruitment Internship - US Based Remote)](https://jobright.ai/jobs/info/6a5216408a74e077472f3034?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Quality Home Care Michigan](https://qualityhomec.com/)** | **[Internship Program (Recruitment Internship - US Based Remote)](https://jobright.ai/jobs/info/6a6b2436c00ae03109f822d3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Fall Internship - Training & Development (Remote)](https://jobright.ai/jobs/info/6a6b242357120971bf3a5055?utm_campaign=1054&utm_source=git)** | Naperville, IL, United States | Remote | Jul 30 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Employee Experience Internship](https://jobright.ai/jobs/info/6a6b237eca1f9338465f8858?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
 | **[Fé. soul communication & research](http://www.fesoulconversation.be)** | **[Internship Interest](https://jobright.ai/jobs/info/6a6b229957120971bf3a4e27?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Jul 30 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[People Operations Internship](https://jobright.ai/jobs/info/6a69a3085165f0383c150348?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Recruiting Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9ad4da96a42cfd92f2b?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Fall Human Resources Intern](https://jobright.ai/jobs/info/6a69520a05bae84301b5bb13?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Jul 28 |
-| **[The Boring Company](http://www.boringcompany.com)** | **[Human Resources (HR) Internship](https://jobright.ai/jobs/info/6a6974d6436a9228dd005572?utm_campaign=1054&utm_source=git)** | Bastrop, TX, United States | On Site | Jul 28 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6a6972dd2baf19558c923779?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 28 |
+| **[New York Life](https://www.newyorklife.com/amn)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/6a6c2461c00ae03109f879cd?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
