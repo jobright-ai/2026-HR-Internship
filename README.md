@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Find Me](http://fyndme.co)** | **[Human Resources Intern - Unpaid](https://jobright.ai/jobs/info/6a6cf18aacb0a61f9dbc80e7?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 31 |
+| **[Nightingale College](https://nightingale.edu/)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/6a6ced2fca1f9338466017ec?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Remote | Jul 31 |
+| **[Americare Senior Living](https://www.americareusa.net/)** | **[Recruiting Intern - Home Office](https://jobright.ai/jobs/info/6a6cea77ca1f9338466016d1?utm_campaign=1054&utm_source=git)** | Tennessee, United States | Remote | Jul 31 |
+| **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Master's Level Internship - Macro MSW Leadership (Fall 2026 - Spring 2027)](https://jobright.ai/jobs/info/6a6ce5a132f9300c3a3e5da7?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 31 |
+| **[Accurate Box Company](https://www.accuratebox.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6ce44facb0a61f9dbc7b80?utm_campaign=1054&utm_source=git)** | Paterson, NJ, United States | On Site | Jul 31 |
 | **[Veradigm®](https://veradigm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cc9ce57120971bf3ad179?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | Hybrid | Jul 31 |
 | **[Amcor](http://www.amcor.com)** | **[Molding Human Resources Intern](https://jobright.ai/jobs/info/6a6cb88857120971bf3acb4b?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 31 |
 | **[Aviagen](http://www.avigen.com)** | **[HR Intern (Bilingual)](https://jobright.ai/jobs/info/6a6cd385ca1f933846600e3e?utm_campaign=1054&utm_source=git)** | Crossville, TN, United States | On Site | Jul 31 |
@@ -67,15 +72,13 @@ For a complete list, click the following sortable link below:
 | **[Vincentian](https://vcs.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cb7fa5c54bc4752ceedb5?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 31 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern (Fall Semester)](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 31 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Recruiting Intern Summer 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Jul 31 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a6ca5c857120971bf3ac4fd?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 31 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a6ca50932f9300c3a3e452a?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 31 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a5a0c2e3ac7627fe9002080?utm_campaign=1054&utm_source=git)** | Forest City, NC, United States | Hybrid | Jul 31 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a6c95545c54bc4752cee201?utm_campaign=1054&utm_source=git)** | Canada | Remote | Jul 31 |
 | **[Dant Clayton Corporation](https://dantclayton.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6c9047acb0a61f9dbc5dbc?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Jul 31 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer / Intern High School Mentor Liaison](https://jobright.ai/jobs/info/6a59e9aa3ac7627fe9001181?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 | ↳ | **[Recruiting Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9b83ac7627fe9001190?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS, Moline Foster Care Multi-Disciplinary Team Assistant](https://jobright.ai/jobs/info/6a1dba673e538a28c204b72b?utm_campaign=1054&utm_source=git)** | Moline, IL, United States | On Site | Jul 29 |
 | **[Hiossen](https://hiossen.com)** | **[HR Intern (Ridgefield Park, NJ)](https://jobright.ai/jobs/info/6a6a406b0b42f866b619794f?utm_campaign=1054&utm_source=git)** | Ridgefield Park, NJ, United States | On Site | Jul 29 |
 | **[Metro One Security](http://metroonelpsg.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6a57f4888f51964c04045fcf?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 29 |
-| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a57a9eef7517b519ad5bb0c?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Jul 29 |
-| **[Clarity Care, Inc.](https://www.claritycare.org)** | **[Recruiter Intern](https://jobright.ai/jobs/info/6a57f2dd8f51964c04045ea6?utm_campaign=1054&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 29 |
-| **[TBG Partners](http://tbg-inc.com/)** | **[2026 Internship Positions](https://jobright.ai/jobs/info/6a6a830048355b3f12bf17d2?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
