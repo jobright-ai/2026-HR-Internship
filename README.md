@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BTIG](https://www.btig.com)** | **[Internship, 2027 Summer Internship Program](https://jobright.ai/jobs/info/6a6cbb28ca1f933846600454?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| **[Acumen Fiscal Agent](https://www.acumenfiscalagent.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6ccf6157120971bf3ad3b6?utm_campaign=1054&utm_source=git)** | Mesa, AZ, United States | On Site | Jul 31 |
+| **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cca4b32f9300c3a3e520c?utm_campaign=1054&utm_source=git)** | Mason, OH, United States | On Site | Jul 31 |
+| **[Stake Center Locating](http://www.stakecenter.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a5c4f27686b4755d1e1b767?utm_campaign=1054&utm_source=git)** | Greensboro, NC, United States | On Site | Jul 31 |
+| **[Veradigm®](https://veradigm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cc9ce57120971bf3ad179?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | Hybrid | Jul 31 |
 | **[Amcor](http://www.amcor.com)** | **[Molding Human Resources Intern](https://jobright.ai/jobs/info/6a6cb88857120971bf3acb4b?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 31 |
 | **[Vincentian](https://vcs.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cb7fa5c54bc4752ceedb5?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 31 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern (Fall Semester)](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
-| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 31 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Recruiting Intern Summer 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Jul 31 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a6ca5c857120971bf3ac4fd?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 31 |
@@ -101,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[ESCOL Network, Inc.](https://www.escolnetwork.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6bb3c832f9300c3a3e064a?utm_campaign=1054&utm_source=git)** | Hialeah, FL, United States | On Site | Jul 30 |
 | **[Child and Family Focus Inc.](https://www.childandfamilyfocus.org)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a6bb107acb0a61f9dbc2500?utm_campaign=1054&utm_source=git)** | Audubon, PA, United States | On Site | Jul 30 |
 | **[Hanes Companies, Inc](https://hanescompanies.com/)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a6b785157120971bf3a6fc0?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Jul 30 |
-| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)](https://jobright.ai/jobs/info/6a6b59ac57120971bf3a641e?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 30 |
+| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)](https://jobright.ai/jobs/info/6a6b59aaca1f9338465f9cf2?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Jul 30 |
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[People Team Intern (Volunteer)](https://jobright.ai/jobs/info/6a6b9feeca1f9338465fb834?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
 | **[The Familie](https://thefamilie.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a6b9bac57120971bf3a7d84?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Jul 30 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[HRIS Fellow](https://jobright.ai/jobs/info/6a546cdf8a74e077472fbc51?utm_campaign=1054&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TBG Partners](http://tbg-inc.com/)** | **[2026 Internship Positions](https://jobright.ai/jobs/info/6a6a830048355b3f12bf17d2?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Jul 29 |
 | **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a51e09fae4052672fe9c5e1?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Jul 29 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a6a6b5d48355b3f12bf0ef8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 29 |
-| **[Volunteers of America Mid-States](https://www.voamid.org/)** | **[HR Intern](https://jobright.ai/jobs/info/6a6a67cd19d76667a2abf81a?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Jul 29 |
-| **[Hana Technologies Inc.](https://www.hanaoh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a57d64a21f64463ad35c6cf?utm_campaign=1054&utm_source=git)** | Solon, OH, United States | On Site | Jul 29 |
-| **[Heads Up](https://www.headsupclubs.org)** | **[Fall Intern - Director of HR](https://jobright.ai/jobs/info/6a6a61d919d76667a2abf4b9?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
