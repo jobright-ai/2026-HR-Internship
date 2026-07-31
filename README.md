@@ -57,19 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veradigm®](https://veradigm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cc9ce57120971bf3ad179?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | Hybrid | Jul 31 |
+| **[Amcor](http://www.amcor.com)** | **[Molding Human Resources Intern](https://jobright.ai/jobs/info/6a6cb88857120971bf3acb4b?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 31 |
 | **[Aviagen](http://www.avigen.com)** | **[HR Intern (Bilingual)](https://jobright.ai/jobs/info/6a6cd385ca1f933846600e3e?utm_campaign=1054&utm_source=git)** | Crossville, TN, United States | On Site | Jul 31 |
 | **[LifeSkills, Inc.](https://www.lifeskills.com)** | **[Internship LifeSkills (52641)](https://jobright.ai/jobs/info/6a6cd0d9acb0a61f9dbc7378?utm_campaign=1054&utm_source=git)** | Bowling Green, KY, United States | On Site | Jul 31 |
 | **[Acumen Fiscal Agent](https://www.acumenfiscalagent.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6ccf6157120971bf3ad3b6?utm_campaign=1054&utm_source=git)** | Mesa, AZ, United States | On Site | Jul 31 |
 | **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cca4b32f9300c3a3e520c?utm_campaign=1054&utm_source=git)** | Mason, OH, United States | On Site | Jul 31 |
 | **[Stake Center Locating](http://www.stakecenter.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a5c4f27686b4755d1e1b767?utm_campaign=1054&utm_source=git)** | Greensboro, NC, United States | On Site | Jul 31 |
-| **[Veradigm®](https://veradigm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cc9ce57120971bf3ad179?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | Hybrid | Jul 31 |
-| **[Amcor](http://www.amcor.com)** | **[Molding Human Resources Intern](https://jobright.ai/jobs/info/6a6cb88857120971bf3acb4b?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 31 |
 | **[Vincentian](https://vcs.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cb7fa5c54bc4752ceedb5?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 31 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern (Fall Semester)](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
-| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
+| ↳ | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 31 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Recruiting Intern Summer 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Jul 31 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a6ca5c857120971bf3ac4fd?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 31 |
@@ -135,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/6a6b24ff57120971bf3a51a4?utm_campaign=1054&utm_source=git)** | Chula Vista, CA, United States | On Site | Jul 30 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6b24bdca1f9338465f8a2f?utm_campaign=1054&utm_source=git)** | Oak Creek, WI, United States | On Site | Jul 30 |
 | **[Mentor Technical Group](https://www.mentortg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6b24a932f9300c3a3dd26b?utm_campaign=1054&utm_source=git)** | Caguas, PR, Puerto Rico | Hybrid | Jul 30 |
-| **[Quality Home Care Michigan](https://qualityhomec.com/)** | **[Internship Program (Recruitment Internship - US Based Remote)](https://jobright.ai/jobs/info/6a6b2436c00ae03109f822d3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Quality Home Care Michigan](https://qualityhomec.com/)** | **[Internship Program (Recruitment Internship - US Based Remote)](https://jobright.ai/jobs/info/6a5216408a74e077472f3034?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Fall Internship - Training & Development (Remote)](https://jobright.ai/jobs/info/6a6b242357120971bf3a5055?utm_campaign=1054&utm_source=git)** | Naperville, IL, United States | Remote | Jul 30 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Employee Experience Internship](https://jobright.ai/jobs/info/6a6b237eca1f9338465f8858?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
 | **[Fé. soul communication & research](http://www.fesoulconversation.be)** | **[Internship Interest](https://jobright.ai/jobs/info/6a6b229957120971bf3a4e27?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Jul 30 |
