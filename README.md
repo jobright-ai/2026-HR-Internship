@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, HR Program and Product Management Support (Spring 2027)](https://jobright.ai/jobs/info/6a6011d9b0f20036bc634ae7?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 01 |
 | **[K2 Medical Research](https://k2med.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a6e1e18ad0fe2053db9d577?utm_campaign=1054&utm_source=git)** | Maitland, FL, United States | On Site | Aug 01 |
 | **[Child and Family Focus Inc.](https://www.childandfamilyfocus.org)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a6d72b3020ee9240900a2c4?utm_campaign=1054&utm_source=git)** | Audubon, PA, United States | On Site | Aug 01 |
 | **[Louis Vuitton](https://www.louisvuitton.com)** | **[Talent Development Intern- Human Resources- Fall 2026](https://jobright.ai/jobs/info/6a6a901b0b42f866b61995eb?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Co-Op Intern](https://jobright.ai/jobs/info/6a6bd553acb0a61f9dbc3210?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 30 |
 | **[WellBe Senior Medical](https://www.wellbe.com)** | **[Human Resources Intern- 1099 Contractor](https://jobright.ai/jobs/info/6a6b946532f9300c3a3dfb43?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Eversource Energy](https://www.eversource.com/)** | **[Intern, University Relations (10 hours per week)](https://jobright.ai/jobs/info/6a61467e7196365a6f00a00c?utm_campaign=1054&utm_source=git)** | Berlin, CT, United States | Hybrid | Jul 30 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, HR Program and Product Management Support (Spring 2027)](https://jobright.ai/jobs/info/6a6011d9b0f20036bc634ae7?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Human Resources Intern, Chartwells Higher Ed / University of Kentucky](https://jobright.ai/jobs/info/6a6bbca157120971bf3a8a59?utm_campaign=1054&utm_source=git)** | Lexington, KY, United States | On Site | Jul 30 |
 | **[Dean Dorton](http://deandorton.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a6b76d35c54bc4752ce90fb?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 30 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Human Resources Intern, Chartwells Higher Ed / University of Kentucky](https://jobright.ai/jobs/info/6a6bb7e432f9300c3a3e085a?utm_campaign=1054&utm_source=git)** | Lexington, KY, United States | On Site | Jul 30 |
