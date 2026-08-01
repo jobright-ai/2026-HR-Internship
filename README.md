@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Child and Family Focus Inc.](https://www.childandfamilyfocus.org)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a6d72b3020ee9240900a2c4?utm_campaign=1054&utm_source=git)** | Audubon, PA, United States | On Site | Jul 31 |
+| **[Highgate](https://www.highgate.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a6d44c6ca1f933846603364?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[Cincinnati Metro](https://www.go-metro.com)** | **[Employee and Labor Relations / Legal Intern](https://jobright.ai/jobs/info/6a5e8a4367b2850e77df1e4b?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 31 |
 | **[Americare Senior Living](https://www.americareusa.net/)** | **[Recruiting Intern - Home Office](https://jobright.ai/jobs/info/6a6cea77ca1f9338466016d1?utm_campaign=1054&utm_source=git)** | Tennessee, United States | Remote | Jul 31 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6d5868ca1f933846603590?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 31 |
 | **[UES](https://www.teamues.com)** | **[Intern, Administrative (HR & Recruiting)](https://jobright.ai/jobs/info/6a6d2a465c54bc4752cf1907?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 31 |
-| **[Highgate](https://www.highgate.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a6d44c6ca1f933846603364?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[KLS Martin Group](https://www.klsmartin.com/de/)** | **[Human Resources Intern (34581)](https://jobright.ai/jobs/info/6a3d775c882f121f56a379ed?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 31 |
 | **[LVT (LiveView Technologies)](https://lvt.co/)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/6a60e66411edf44d7915e734?utm_campaign=1054&utm_source=git)** | American Fork, UT, United States | On Site | Jul 31 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[MBA HR Intern](https://jobright.ai/jobs/info/6a67faedd0fb4c3df393f9c9?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Jul 31 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/6a6b24ff57120971bf3a51a4?utm_campaign=1054&utm_source=git)** | Chula Vista, CA, United States | On Site | Jul 30 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6b24bdca1f9338465f8a2f?utm_campaign=1054&utm_source=git)** | Oak Creek, WI, United States | On Site | Jul 30 |
 | **[Mentor Technical Group](https://www.mentortg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6b24a932f9300c3a3dd26b?utm_campaign=1054&utm_source=git)** | Caguas, PR, Puerto Rico | Hybrid | Jul 30 |
-| **[Quality Home Care Michigan](https://qualityhomec.com/)** | **[Internship Program (Recruitment Internship - US Based Remote)](https://jobright.ai/jobs/info/6a5216408a74e077472f3034?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Quality Home Care Michigan](https://qualityhomec.com/)** | **[Internship Program (Recruitment Internship - US Based Remote)](https://jobright.ai/jobs/info/6a6b2436c00ae03109f822d3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Fall Internship - Training & Development (Remote)](https://jobright.ai/jobs/info/6a6b242357120971bf3a5055?utm_campaign=1054&utm_source=git)** | Naperville, IL, United States | Remote | Jul 30 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Employee Experience Internship](https://jobright.ai/jobs/info/6a6b237eca1f9338465f8858?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
 | **[Fé. soul communication & research](http://www.fesoulconversation.be)** | **[Internship Interest](https://jobright.ai/jobs/info/6a6b229957120971bf3a4e27?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Jul 30 |
 | **[Wisconsin Alumni Research Foundation (WARF)](http://www.warf.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6c510932f9300c3a3e3350?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | On Site | Jul 30 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Board Recruitment Director Intern/Volunteer](https://jobright.ai/jobs/info/6a59eb863ac7627fe90012d3?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 30 |
 | **[Cristo Rey Jesuit High School](https://www.cristorey.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55182f377f983ce8a97bac?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a621da91e089c0cc884a8c2?utm_campaign=1054&utm_source=git)** | Brillion, WI, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
