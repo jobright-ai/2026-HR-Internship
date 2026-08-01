@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6a5b91efc8e3a473cb8b0617?utm_campaign=1054&utm_source=git)** | Remus, MI, United States | On Site | Aug 01 |
+| **[K2 Medical Research](https://k2med.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a6e1e18ad0fe2053db9d577?utm_campaign=1054&utm_source=git)** | Maitland, FL, United States | On Site | Aug 01 |
 | **[JPI](http://jpi.com)** | **[Field Operations Intern – SkillBridge](https://jobright.ai/jobs/info/6a573229efb06a45240d984f?utm_campaign=1054&utm_source=git)** | Dallas Office, United States of America | On Site | Aug 01 |
 | **[Eulerity](https://www.eulerity.com)** | **[Intern - Office of the CEO](https://jobright.ai/jobs/info/6a6e06a0cd3bac13d37067c1?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a52e44dd007ee02d95f97c8?utm_campaign=1054&utm_source=git)** | Binghamton, NY, United States | On Site | Aug 01 |
@@ -94,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[BMW Group](http://www.bmwgroup.com)** | **[Compensation & Benefits Intern (Spring 2027))](https://jobright.ai/jobs/info/6a6d65ea32f9300c3a3e8142?utm_campaign=1054&utm_source=git)** | Spartanburg, SC, United States | On Site | Jul 31 |
 | **[Vincentian](https://vcs.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cb7fa5c54bc4752ceedb5?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 31 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern (Fall Semester)](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
-| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delaware Valley Regional Planning Commission](https://www.dvrpc.org/)** | **[Operations & Organizational Development Intern](https://jobright.ai/jobs/info/6a5a0caf686b4755d1e133d0?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 30 |
 | **[Carter Support Services](https://cartersupportservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a6b268532f9300c3a3dd556?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Jul 30 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a5331eed007ee02d95fa93a?utm_campaign=1054&utm_source=git)** | San Francisco, United States | On Site | Jul 30 |
-| **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/6a6b24ff57120971bf3a51a4?utm_campaign=1054&utm_source=git)** | Chula Vista, CA, United States | On Site | Jul 30 |
-| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6b24bdca1f9338465f8a2f?utm_campaign=1054&utm_source=git)** | Oak Creek, WI, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
