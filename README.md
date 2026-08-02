@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honkamp, P.C.](http://honkamp.com)** | **[Human Resources Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51c332bf63b66c7997c49d?utm_campaign=1054&utm_source=git)** | Dubuque, IA, United States | On Site | Aug 02 |
+| **[International Institute of New England](https://iine.org/)** | **[Fall 2026 Employment Services Internship](https://jobright.ai/jobs/info/6a638f6d0c8e2b4f36dce6ce?utm_campaign=1054&utm_source=git)** | Manchester, NH, United States | Hybrid | Aug 02 |
 | **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a6f4780160eda5948e8c0e4?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Aug 02 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a6ef7e8f5953013637f595a?utm_campaign=1054&utm_source=git)** | Laguna, CA, United States | On Site | Aug 02 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a6ef7e6f5953013637f5959?utm_campaign=1054&utm_source=git)** | Laguna Hills, CA, United States | On Site | Aug 02 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a6ef7e6f5953013637f5959?utm_campaign=1054&utm_source=git)** | Laguna Hills, CA, United States | On Site | Aug 02 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a6ef7e8f5953013637f595a?utm_campaign=1054&utm_source=git)** | Laguna, CA, United States | On Site | Aug 02 |
 | **[Mitsubishi Electric Automotive America, Inc.](http://www.meaa-mea.com/)** | **[Human Resources Intern Job Details / Mitsubishi Electric Automotive](https://jobright.ai/jobs/info/6a6f3cd0ad0fe2053db9f04a?utm_campaign=1054&utm_source=git)** | Mason, OH, United States | On Site | Aug 02 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Board Recruitment Director Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9ce4da96a42cfd92f4b?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5f16a6f29acc1a1174a5aa?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | On Site | Aug 01 |
@@ -69,7 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Child and Family Focus Inc.](https://www.childandfamilyfocus.org)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a6d72b3020ee9240900a2c4?utm_campaign=1054&utm_source=git)** | Audubon, PA, United States | On Site | Aug 01 |
 | **[Louis Vuitton](https://www.louisvuitton.com)** | **[Talent Development Intern- Human Resources- Fall 2026](https://jobright.ai/jobs/info/6a6a901b0b42f866b61995eb?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6a5b91efc8e3a473cb8b0617?utm_campaign=1054&utm_source=git)** | Remus, MI, United States | On Site | Aug 01 |
-| **[JPI](http://jpi.com)** | **[Field Operations Intern – SkillBridge](https://jobright.ai/jobs/info/6a573229efb06a45240d984f?utm_campaign=1054&utm_source=git)** | Dallas Office, United States of America | On Site | Aug 01 |
+| **[JPI](http://jpi.com)** | **[Field Operations Intern – SkillBridge](https://jobright.ai/jobs/info/6a18a527dbc80963f934645a?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
+| ↳ | **[Field Operations Intern – SkillBridge](https://jobright.ai/jobs/info/6a573229efb06a45240d984f?utm_campaign=1054&utm_source=git)** | Dallas Office, United States of America | On Site | Aug 01 |
 | **[Eulerity](https://www.eulerity.com)** | **[Intern - Office of the CEO](https://jobright.ai/jobs/info/6a6e06a0cd3bac13d37067c1?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
 | **[The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology](https://wertheim.scripps.ufl.edu/)** | **[Human Resources Intern - Jupiter, FL](https://jobright.ai/jobs/info/6a51c99ebf63b66c7997caab?utm_campaign=1054&utm_source=git)** | Palm Beach, FL, United States | On Site | Aug 01 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a52e44dd007ee02d95f97c8?utm_campaign=1054&utm_source=git)** | Binghamton, NY, United States | On Site | Aug 01 |
@@ -107,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern (Fall Semester)](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 31 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Recruiting Intern Summer 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Jul 31 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a5a0c2e3ac7627fe9002080?utm_campaign=1054&utm_source=git)** | Forest City, NC, United States | Hybrid | Jul 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/6a6b8df032f9300c3a3df933?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 30 |
 | ↳ | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS)](https://jobright.ai/jobs/info/6a6b8ac95c54bc4752ce99f7?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | Hybrid | Jul 30 |
 | **[Cantigny](https://cantigny.org)** | **[Human Resources Intern (Fall/Winter 2026)](https://jobright.ai/jobs/info/6a6b81b9ca1f9338465facff?utm_campaign=1054&utm_source=git)** | Wheaton, IL, United States | On Site | Jul 30 |
-| **[DULCEDO Management](https://www.dulcedo.com)** | **[Talent Agent Assistant Internship](https://jobright.ai/jobs/info/6a621937c28982326de94aca?utm_campaign=1054&utm_source=git)** | Ontario, Canada | Hybrid | Jul 30 |
-| **[North Shore Strategies](https://nsstrategy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6b77bc32f9300c3a3df004?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
-| **[Structural-Builders and Restorations (S-BR)](https://www.structuralbr.com)** | **[Administrative and HR Intern](https://jobright.ai/jobs/info/6a678dea2bf1fb2b71925bd4?utm_campaign=1054&utm_source=git)** | Opa-Locka, FL, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
