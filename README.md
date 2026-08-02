@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a6ef7e8f5953013637f595a?utm_campaign=1054&utm_source=git)** | Laguna, CA, United States | On Site | Aug 02 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a6ef7e6f5953013637f5959?utm_campaign=1054&utm_source=git)** | Laguna Hills, CA, United States | On Site | Aug 02 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Board Recruitment Director Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9ce4da96a42cfd92f4b?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
 | **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a6e9bf141b41d325296bc60?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Aug 01 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5f16a6f29acc1a1174a5aa?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | On Site | Aug 01 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern (Fall Semester)](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 31 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Recruiting Intern Summer 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Jul 31 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a5a0c2e3ac7627fe9002080?utm_campaign=1054&utm_source=git)** | Forest City, NC, United States | Hybrid | Jul 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Shore Strategies](https://nsstrategy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6b77bc32f9300c3a3df004?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
 | **[Structural-Builders and Restorations (S-BR)](https://www.structuralbr.com)** | **[Administrative and HR Intern](https://jobright.ai/jobs/info/6a678dea2bf1fb2b71925bd4?utm_campaign=1054&utm_source=git)** | Opa-Locka, FL, United States | On Site | Jul 30 |
 | **[Vantage Plastics](https://vantageplastics.com)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a6b63975c54bc4752ce8a53?utm_campaign=1054&utm_source=git)** | Bay City, MI, United States | On Site | Jul 30 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a2b9f8dc07d4b6ae1c4b0e9?utm_campaign=1054&utm_source=git)** | Pearland, TX, United States | On Site | Jul 30 |
-| **[Metallus Inc.](https://metallus.com)** | **[Labor Relations Intern Job Details / Metallus](https://jobright.ai/jobs/info/6a6b46b35c54bc4752ce810b?utm_campaign=1054&utm_source=git)** | Canton, OH, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
