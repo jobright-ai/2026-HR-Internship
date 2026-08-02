@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Human Services Job Link Intern](https://jobright.ai/jobs/info/6a6e9bf141b41d325296bc60?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Aug 01 |
 | **[Proforma Health](https://www.proformahealthinc.com/)** | **[Healthcare Recruiting & Compliance Intern (Hybrid/Onsite)](https://jobright.ai/jobs/info/6a6e8ae1c56c0956e8adb7e9?utm_campaign=1054&utm_source=git)** | Jersey City, NJ, United States | Hybrid | Aug 01 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5f16a6f29acc1a1174a5aa?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | On Site | Aug 01 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[HRIS Fellow](https://jobright.ai/jobs/info/6a5bad2663a8f619507cbc4d?utm_campaign=1054&utm_source=git)** | Godley, TX, United States | Remote | Aug 01 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6a5b91efc8e3a473cb8b0617?utm_campaign=1054&utm_source=git)** | Remus, MI, United States | On Site | Aug 01 |
 | **[JPI](http://jpi.com)** | **[Field Operations Intern – SkillBridge](https://jobright.ai/jobs/info/6a573229efb06a45240d984f?utm_campaign=1054&utm_source=git)** | Dallas Office, United States of America | On Site | Aug 01 |
 | **[Eulerity](https://www.eulerity.com)** | **[Intern - Office of the CEO](https://jobright.ai/jobs/info/6a6e06a0cd3bac13d37067c1?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
+| **[The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology](https://wertheim.scripps.ufl.edu/)** | **[Human Resources Intern - Jupiter, FL](https://jobright.ai/jobs/info/6a51c99ebf63b66c7997caab?utm_campaign=1054&utm_source=git)** | Palm Beach, FL, United States | On Site | Aug 01 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a52e44dd007ee02d95f97c8?utm_campaign=1054&utm_source=git)** | Binghamton, NY, United States | On Site | Aug 01 |
 | **[The Village of St Edward](https://www.vased.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a509ff72e2ceb72963b4008?utm_campaign=1054&utm_source=git)** | Fairlawn, OH, United States | On Site | Aug 01 |
 | **[ConocoPhillips](http://www.conocophillips.com)** | **[Intern, Human Resources 2027](https://jobright.ai/jobs/info/6a6d7e0432f9300c3a3e855c?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Jul 31 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[BMW Group](http://www.bmwgroup.com)** | **[Compensation & Benefits Intern (Spring 2027))](https://jobright.ai/jobs/info/6a6d65ea32f9300c3a3e8142?utm_campaign=1054&utm_source=git)** | Spartanburg, SC, United States | On Site | Jul 31 |
 | **[Vincentian](https://vcs.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cb7fa5c54bc4752ceedb5?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 31 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern (Fall Semester)](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
-| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
+| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
 | ↳ | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 31 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of Kentucky](https://jobright.ai/jobs/info/6a6bf4685c54bc4752cebce8?utm_campaign=1054&utm_source=git)** | Lexington, KY, United States | On Site | Jul 30 |
 | **[Morningstar](http://www.morningstar.com)** | **[Morningstar Internship Program – People & Culture Intern 2027 (Partner Link)](https://jobright.ai/jobs/info/6a6ba9f0ca1f9338465fbb54?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 30 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: immigration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f1ed87cef057612cb71a?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
-| **[City of Santa Fe Springs](https://www.santafesprings.org)** | **[Human Resources Intern (Temporary - Fall)](https://jobright.ai/jobs/info/6a6d2b36ba7efe79c2f68e00?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Jul 30 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS, Moline Foster Care Multi-Disciplinary Team Assistant](https://jobright.ai/jobs/info/6a65ccf0979290281c7088e1?utm_campaign=1054&utm_source=git)** | Moline, IL, United States | On Site | Jul 30 |
 | **[Amcor](http://www.amcor.com)** | **[Thermoforming Human Resources Intern](https://jobright.ai/jobs/info/6a6bbf0557120971bf3a8b31?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 30 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Co-Op Intern](https://jobright.ai/jobs/info/6a6bd553acb0a61f9dbc3210?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Plastics](https://vantageplastics.com)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a6b63975c54bc4752ce8a53?utm_campaign=1054&utm_source=git)** | Bay City, MI, United States | On Site | Jul 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a2b9f8dc07d4b6ae1c4b0e9?utm_campaign=1054&utm_source=git)** | Pearland, TX, United States | On Site | Jul 30 |
 | **[Metallus Inc.](https://metallus.com)** | **[Labor Relations Intern Job Details / Metallus](https://jobright.ai/jobs/info/6a6b46b35c54bc4752ce810b?utm_campaign=1054&utm_source=git)** | Canton, OH, United States | On Site | Jul 30 |
-| **[Trench Group](https://trench-group.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a4f20d8fc327f422fef5014?utm_campaign=1054&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
