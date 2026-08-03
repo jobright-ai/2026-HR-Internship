@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Summit](https://www.summithq.com/)** | **[People Operations (HR) Intern](https://jobright.ai/jobs/info/6a53186b9fbdab22fe13e3c6?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/6a5385959fbdab22fe13fa6f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[HR Manager - Internship](https://jobright.ai/jobs/info/6a5e6d8967b2850e77df11f4?utm_campaign=1054&utm_source=git)** | Bloomington, IN, United States | On Site | Aug 02 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Recruiting Intern (Spring 2027)](https://jobright.ai/jobs/info/6a6d06ea32f9300c3a3e69a0?utm_campaign=1054&utm_source=git)** | Spartanburg, SC, United States | On Site | Aug 02 |
@@ -111,10 +112,10 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6da43a66158d7ef887e65c?utm_campaign=1054&utm_source=git)** | Mason, OH, United States | On Site | Jul 31 |
 | **[Vincentian](https://vcs.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cb7fa5c54bc4752ceedb5?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 31 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern (Fall Semester)](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
-| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
-| ↳ | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| ↳ | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 31 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Recruiting Intern Summer 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Jul 31 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a5a0c2e3ac7627fe9002080?utm_campaign=1054&utm_source=git)** | Forest City, NC, United States | Hybrid | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Ops Intern](https://jobright.ai/jobs/info/6a6b92ee57120971bf3a7a2e?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 30 |
 | **[New York Life](https://www.newyorklife.com/amn)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Farmington, CT)](https://jobright.ai/jobs/info/6a6b8e0cca1f9338465fb151?utm_campaign=1054&utm_source=git)** | Farmington, CT, United States | Hybrid | Jul 30 |
 | ↳ | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Chattanooga, TN)](https://jobright.ai/jobs/info/6a6b8df7acb0a61f9dbc18ae?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | Hybrid | Jul 30 |
-| ↳ | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6a6b8df4ca1f9338465fb14b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
