@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[English Language and Literature](https://englishlanguageandliterature.com)** | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/6a70e8d571acd469eeda078d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Aug 03 |
+| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[HR Intern](https://jobright.ai/jobs/info/6a70f60b02d93145bf88d59c?utm_campaign=1054&utm_source=git)** | Sussex, WI, United States | On Site | Aug 03 |
+| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/6a70bad7cb96192a368451e9?utm_campaign=1054&utm_source=git)** | Macon, GA, United States | On Site | Aug 03 |
+| **[Boeing](https://www.boeing.com)** | **[Boeing Business Internship Program (Paid) Summer 2027 - Human Resources](https://jobright.ai/jobs/info/6a70f55ae2b7476e7b20bff9?utm_campaign=1054&utm_source=git)** | Everett, WA, United States | On Site | Aug 03 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a70f3be02d93145bf88d4b8?utm_campaign=1054&utm_source=git)** | Ontario, Canada | On Site | Aug 03 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, HR Employee Resource Group](https://jobright.ai/jobs/info/6a70e7d971acd469eeda0737?utm_campaign=1054&utm_source=git)** | Buffalo, NY, United States | Remote | Aug 03 |
-| **[English Language and Literature](https://englishlanguageandliterature.com)** | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/6a70e7361003bd7b70d6d650?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Healthcare Partnerships](https://jobright.ai/jobs/info/6a70ed0102d93145bf88d2b9?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
+| **[English Language and Literature](https://englishlanguageandliterature.com)** | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/6a70e8d571acd469eeda078d?utm_campaign=1054&utm_source=git)** | Canada | Remote | Aug 03 |
+| ↳ | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/6a70e7361003bd7b70d6d650?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[HR Intern](https://jobright.ai/jobs/info/6a70c64b71acd469eed9f92d?utm_campaign=1054&utm_source=git)** | Danbury, CT, United States | On Site | Aug 03 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Human Resources Leadership Development Program Intern (Master's)](https://jobright.ai/jobs/info/6a70df661003bd7b70d6d2d6?utm_campaign=1054&utm_source=git)** | North Chicago, IL, United States | Hybrid | Aug 03 |
 | **[AbbVie](https://www.abbvie.com)** | **[2027 Human Resources Leadership Development Program Intern (Master's)](https://jobright.ai/jobs/info/6a70de5771acd469eeda0348?utm_campaign=1054&utm_source=git)** | North Chicago, IL, United States | On Site | Aug 03 |
@@ -74,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a70c719cb96192a3684581c?utm_campaign=1054&utm_source=git)** | Jonesboro, AR, United States | On Site | Aug 03 |
 | **[Superior Ambulance Service](https://www.superiorambulance.com)** | **[HR Apprentice Intern](https://jobright.ai/jobs/info/6a70a8bf02d93145bf88b610?utm_campaign=1054&utm_source=git)** | Elmhurst, IL, United States | On Site | Aug 03 |
 | **[Quality Home Care Michigan](https://qualityhomec.com/)** | **[Internship Program (Recruitment Internship - US Based Remote)](https://jobright.ai/jobs/info/6a5e2bff67b2850e77def77f?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
-| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/6a70bad7cb96192a368451e9?utm_campaign=1054&utm_source=git)** | Macon, GA, United States | On Site | Aug 03 |
 | **[State of North Dakota](https://www.nd.gov/)** | **[Business and Benefits Administration Intern](https://jobright.ai/jobs/info/6a70ba131003bd7b70d6c267?utm_campaign=1054&utm_source=git)** | Bismarck, ND, United States | On Site | Aug 03 |
 | **[Expeditors](http://www.expeditors.com)** | **[Internship - PHX](https://jobright.ai/jobs/info/6a70b639cb96192a36845056?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 03 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a70b1f0cb96192a36844f13?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6da43a66158d7ef887e65c?utm_campaign=1054&utm_source=git)** | Mason, OH, United States | On Site | Jul 31 |
 | **[Vincentian](https://vcs.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cb7fa5c54bc4752ceedb5?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 31 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern (Fall Semester)](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
-| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
+| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| ↳ | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 31 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Recruiting Intern Summer 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Jul 31 |
-| **[King Law Offices](https://kinglawoffices.com)** | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a5a0c2e3ac7627fe9002080?utm_campaign=1054&utm_source=git)** | Forest City, NC, United States | Hybrid | Jul 31 |
-| **[Dant Clayton Corporation](https://dantclayton.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6c9047acb0a61f9dbc5dbc?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Jul 31 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer / Intern High School Mentor Liaison](https://jobright.ai/jobs/info/6a59e9aa3ac7627fe9001181?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
-| ↳ | **[Recruiting Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9b83ac7627fe9001190?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
