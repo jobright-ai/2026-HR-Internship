@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mount Hermon Camp and Conference Center](https://www.mounthermon.org)** | **[Camp Services Intern](https://jobright.ai/jobs/info/6a6fe46b41b41d325296d791?utm_campaign=1054&utm_source=git)** | Mount Hermon, CA, United States | On Site | Aug 02 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Assessment Team (Immediate Opening)](https://jobright.ai/jobs/info/6a57cca910c4d945d865112f?utm_campaign=1054&utm_source=git)** | Weslaco, TX, United States | Hybrid | Aug 02 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Events and Volunteer Program Intern](https://jobright.ai/jobs/info/6a5ce4ffc8e3a473cb8b32fe?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | **[Honkamp, P.C.](http://honkamp.com)** | **[Human Resources Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51c332bf63b66c7997c49d?utm_campaign=1054&utm_source=git)** | Dubuque, IA, United States | On Site | Aug 02 |
 | **[International Institute of New England](https://iine.org/)** | **[Fall 2026 Employment Services Internship](https://jobright.ai/jobs/info/6a638f6d0c8e2b4f36dce6ce?utm_campaign=1054&utm_source=git)** | Manchester, NH, United States | Hybrid | Aug 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York Life](https://www.newyorklife.com/amn)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Farmington, CT)](https://jobright.ai/jobs/info/6a6b8e0cca1f9338465fb151?utm_campaign=1054&utm_source=git)** | Farmington, CT, United States | Hybrid | Jul 30 |
 | ↳ | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Chattanooga, TN)](https://jobright.ai/jobs/info/6a6b8df7acb0a61f9dbc18ae?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | Hybrid | Jul 30 |
 | ↳ | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/6a6b8df4ca1f9338465fb14b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 30 |
-| ↳ | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/6a6b8df032f9300c3a3df933?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 30 |
-| ↳ | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS)](https://jobright.ai/jobs/info/6a6b8ac95c54bc4752ce99f7?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | Hybrid | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
