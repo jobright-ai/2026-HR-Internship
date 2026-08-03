@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (TikTok Shop) - 2027 Summer](https://jobright.ai/jobs/info/6a705b6f24e15f2d5de44393?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (TikTok Shop) - 2027 Summer](https://jobright.ai/jobs/info/6a706e56d4735b7dbbcce65c?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Aug 03 |
+| ↳ | **[Talent Acquisition Intern (TikTok Shop) - 2027 Summer](https://jobright.ai/jobs/info/6a705b6f24e15f2d5de44393?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
 | ↳ | **[HRBP Project Intern (TikTok LIVE) - 2026 Fall](https://jobright.ai/jobs/info/6a705b59b85a7d35acd1bc67?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
 | **[Summit](https://www.summithq.com/)** | **[People Operations (HR) Intern](https://jobright.ai/jobs/info/6a53186b9fbdab22fe13e3c6?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/6a5385959fbdab22fe13fa6f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Vincentian](https://vcs.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cb7fa5c54bc4752ceedb5?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 31 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Talent Acquisition Intern (Fall Semester)](https://jobright.ai/jobs/info/6a175bfc5b0a497d5210b8d0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a342432f6b55d12c791b39c?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a46609c3dbab558e29a6ea7?utm_campaign=1054&utm_source=git)** | Toledo, OH, US | On Site | Jul 31 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a5437bed007ee02d95fe141?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Jul 31 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a6399995c7e2d715ebacf37?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Jul 31 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Recruiting Intern Summer 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PICTON Investments](https://www.pictoninvestments.com/en)** | **[Intern, People Operations](https://jobright.ai/jobs/info/6a6b9a6aca1f9338465fb595?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 30 |
 | **[Health First](https://hf.org/)** | **[BPS Internship Program](https://jobright.ai/jobs/info/6a6b994f57120971bf3a7c96?utm_campaign=1054&utm_source=git)** | Melbourne, FL, United States | On Site | Jul 30 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[HR Ops Intern](https://jobright.ai/jobs/info/6a6b96aac00ae03109f84d34?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 30 |
-| ↳ | **[HR Ops Intern](https://jobright.ai/jobs/info/6a6b92ee57120971bf3a7a2e?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
