@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boeing](https://www.boeing.com)** | **[Boeing Business Internship Program (Paid) Summer 2027 - Human Resources](https://jobright.ai/jobs/info/6a70f55ae2b7476e7b20bff9?utm_campaign=1054&utm_source=git)** | Everett, WA, United States | On Site | Aug 03 |
+| **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Master's Level Internship - Macro MSW Leadership (Winter 2027 - Summer 2027)](https://jobright.ai/jobs/info/6a6ce5a132f9300c3a3e5da7?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Aug 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Human Resources Intern (Global Business Solutions) - 2027 Summer](https://jobright.ai/jobs/info/6a714fe671acd469eeda267c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
+| **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b5f9fdbf21f36cb3e4f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a55a09478611229b823d6f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 03 |
 | **[Abacus!](http://abacuscpas.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a714ca202d93145bf88eec2?utm_campaign=1054&utm_source=git)** | Fayetteville, AR, United States | On Site | Aug 03 |
 | **[Americare Senior Living](https://www.americareusa.net/)** | **[Recruiting Intern - Home Office](https://jobright.ai/jobs/info/6a70adf071acd469eed9ef28?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | Remote | Aug 03 |
 | **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a70dd5d357dfc6ff2b3b8f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 03 |
@@ -76,8 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Development and Vocational Training Intern (Spring 2027)](https://jobright.ai/jobs/info/6a6d08e5ca1f9338466021a1?utm_campaign=1054&utm_source=git)** | Spartanburg, SC, United States | On Site | Aug 03 |
 | **[Beezle Brands](https://beezlebrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a70fabe9a0ca4480c7d2411?utm_campaign=1054&utm_source=git)** | Frederick, MD, United States | On Site | Aug 03 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[HR Intern](https://jobright.ai/jobs/info/6a70f60b02d93145bf88d59c?utm_campaign=1054&utm_source=git)** | Sussex, WI, United States | On Site | Aug 03 |
-| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/6a70ae10e2b7476e7b20a34a?utm_campaign=1054&utm_source=git)** | Macon, GA, United States | On Site | Aug 03 |
-| **[Boeing](https://www.boeing.com)** | **[Boeing Business Internship Program (Paid) Summer 2027 - Human Resources](https://jobright.ai/jobs/info/6a70f55ae2b7476e7b20bff9?utm_campaign=1054&utm_source=git)** | Everett, WA, United States | On Site | Aug 03 |
+| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/6a70b4dc1003bd7b70d6c0c3?utm_campaign=1054&utm_source=git)** | Macon, GA, United States | On Site | Aug 03 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, HR Employee Resource Group](https://jobright.ai/jobs/info/6a70e7d971acd469eeda0737?utm_campaign=1054&utm_source=git)** | Buffalo, NY, United States | Remote | Aug 03 |
 | **[OmniCable](https://www.omnicable.com)** | **[Employee Experience & Communications Intern](https://jobright.ai/jobs/info/6a6133bfeaa37f43e7587372?utm_campaign=1054&utm_source=git)** | West Chester, PA, United States | Remote | Aug 03 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Healthcare Partnerships](https://jobright.ai/jobs/info/6a70ed0102d93145bf88d2b9?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
@@ -96,9 +99,9 @@ For a complete list, click the following sortable link below:
 | **[Expeditors](http://www.expeditors.com)** | **[Internship - PHX](https://jobright.ai/jobs/info/6a70b639cb96192a36845056?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 03 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a70b1f0cb96192a36844f13?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program – Summer 2027](https://jobright.ai/jobs/info/6a709fbb357dfc6ff2b39dcf?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Aug 03 |
-| **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa00962ebd316bece1bf05?utm_campaign=1054&utm_source=git)** | Newaygo, Michigan, US | On Site | Aug 03 |
-| ↳ | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a5a49de63a8f619507c621b?utm_campaign=1054&utm_source=git)** | Newaygo, MI, United States | On Site | Aug 03 |
-| **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a12099f619335383fb392ee?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Aug 03 |
+| **[Magna International](http://www.magna.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a5a49de63a8f619507c621b?utm_campaign=1054&utm_source=git)** | Newaygo, MI, United States | On Site | Aug 03 |
+| ↳ | **[Internship - Human Resources](https://jobright.ai/jobs/info/69aa00962ebd316bece1bf05?utm_campaign=1054&utm_source=git)** | Newaygo, Michigan, US | On Site | Aug 03 |
+| **[Lockwood™](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0704764a0a6a7e7d8209e2?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Aug 03 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a51e09fae4052672fe9c5e1?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Aug 03 |
 | **[AIR Control Concepts](https://www.aircontrolconcepts.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a70a29802d93145bf88b2a7?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 03 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e1af4270e3033b045bf4b?utm_campaign=1054&utm_source=git)** | Rock Hill, SC, United States | On Site | Aug 03 |
@@ -146,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[LVT (LiveView Technologies)](https://lvt.co/)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/6a60e66411edf44d7915e734?utm_campaign=1054&utm_source=git)** | American Fork, UT, United States | On Site | Jul 31 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[MBA HR Intern](https://jobright.ai/jobs/info/6a67faedd0fb4c3df393f9c9?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Jul 31 |
 | **[Kenneth Young Center](https://www.kennethyoung.org)** | **[HR Intern](https://jobright.ai/jobs/info/6a5a958563a8f619507c7d93?utm_campaign=1054&utm_source=git)** | Schaumburg, IL, United States | On Site | Jul 31 |
-| **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Master's Level Internship - Macro MSW Leadership (Fall 2026 - Spring 2027)](https://jobright.ai/jobs/info/6a6ce5a132f9300c3a3e5da7?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 31 |
 | **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2027 US HR Summer Internship Program](https://jobright.ai/jobs/info/6a6cfc2532f9300c3a3e65ec?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 | **[Yinlun TDI, LLC](https://yinluntdi.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a6d097c32f9300c3a3e6b42?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources Intern (Temporary - Fall)](https://jobright.ai/jobs/info/6a6d05faca1f933846602005?utm_campaign=1054&utm_source=git)** | Murphy, TX, United States | On Site | Jul 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nightingale College](https://nightingale.edu/)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/6a6ced2fca1f9338466017ec?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Remote | Jul 31 |
 | **[Accurate Box Company](https://www.accuratebox.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6ce44facb0a61f9dbc7b80?utm_campaign=1054&utm_source=git)** | Paterson, NJ, United States | On Site | Jul 31 |
 | **[Veradigm®](https://veradigm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6cc9ce57120971bf3ad179?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | Hybrid | Jul 31 |
-| **[Amcor](http://www.amcor.com)** | **[Molding Human Resources Intern](https://jobright.ai/jobs/info/6a6cb88857120971bf3acb4b?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Jul 31 |
-| **[Acumen Fiscal Agent](https://www.acumenfiscalagent.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6ccf6157120971bf3ad3b6?utm_campaign=1054&utm_source=git)** | Mesa, AZ, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
