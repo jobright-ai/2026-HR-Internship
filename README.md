@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rocket](https://www.rocketcompanies.com)** | **[Talent & Inclusion Program Intern - Fall 2026](https://jobright.ai/jobs/info/6a734c7932ebbc14ffb4e07b?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Aug 05 |
+| **[Columbus McKinnon](https://www.cmco.com)** | **[Intern Job Details / Columbus McKinnon Corporation](https://jobright.ai/jobs/info/6a736c1632ebbc14ffb4edba?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | On Site | Aug 05 |
+| **[FACC-NY | French American Chamber of Commerce - New York](https://www.faccnyc.org)** | **[Part-Time Intern - Paid](https://jobright.ai/jobs/info/6a736a951ce9647cdbca7fe8?utm_campaign=1054&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Aug 05 |
 | **[Sechan Electronics, Inc.](https://www.sechan.com)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6a7361b0e55c73319eb16dbf?utm_campaign=1054&utm_source=git)** | Lititz, PA, United States | On Site | Aug 05 |
 | **[US Acute Care Solutions](https://www.usacs.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6a73495b8dc3d52d8ed9e691?utm_campaign=1054&utm_source=git)** | Ohio, United States | Remote | Aug 05 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Adult Protective Services Program](https://jobright.ai/jobs/info/6a7356af1ce9647cdbca77d1?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
@@ -89,22 +92,21 @@ For a complete list, click the following sortable link below:
 | **[Hennig](https://hennigworldwide.com)** | **[Intern - HR Assistant](https://jobright.ai/jobs/info/6a72ba23cb96192a3684f092?utm_campaign=1054&utm_source=git)** | Machesney Park, IL, United States | On Site | Aug 04 |
 | **[PNC](http://www.pnc.com)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/6a71e0d345b6af1c30dbb2c2?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 04 |
 | **[AlphaZeta Interactive](http://www.alphazeta.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a7200e6e2b7476e7b210a1c?utm_campaign=1054&utm_source=git)** | Springfield, MO, United States | On Site | Aug 04 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern - Redmond](https://jobright.ai/jobs/info/6a72587dcb96192a3684da24?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a70dd5d357dfc6ff2b3b8f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7267c9ee751e0c79348c71?utm_campaign=1054&utm_source=git)** | Cordova, AK, United States | On Site | Aug 04 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern- Addison HR](https://jobright.ai/jobs/info/6a72355c71acd469eeda6a55?utm_campaign=1054&utm_source=git)** | Addison, IL, United States | On Site | Aug 04 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7224fcee751e0c7934712e?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 04 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a720d5471acd469eeda5945?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 04 |
-| ↳ | **[Seasonal HR Intern - Springfield, MO](https://jobright.ai/jobs/info/6a720d6871acd469eeda594b?utm_campaign=1054&utm_source=git)** | Springfield, United States | On Site | Aug 04 |
-| ↳ | **[Seasonal HR Intern- Addison HR](https://jobright.ai/jobs/info/6a72355c71acd469eeda6a55?utm_campaign=1054&utm_source=git)** | Addison, IL, United States | On Site | Aug 04 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a721f0502d93145bf892bb6?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 04 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a70f3be02d93145bf88d4b8?utm_campaign=1054&utm_source=git)** | Ontario, Canada | On Site | Aug 04 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a720d5471acd469eeda5945?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 04 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a70dd5d357dfc6ff2b3b8f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a721f0502d93145bf892bb6?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 04 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7267c9ee751e0c79348c71?utm_campaign=1054&utm_source=git)** | Cordova, AK, United States | On Site | Aug 04 |
+| ↳ | **[Seasonal HR Intern - Redmond](https://jobright.ai/jobs/info/6a72587dcb96192a3684da24?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a727ad2e2b7476e7b21395c?utm_campaign=1054&utm_source=git)** | Lathrop, CA, United States | On Site | Aug 04 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a72077ccb96192a3684b855?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 04 |
-| **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a55a09478611229b823d6f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6893afaf4c7e851b90adf8b3?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
+| ↳ | **[Seasonal HR Intern - Springfield, MO](https://jobright.ai/jobs/info/6a720d6871acd469eeda594b?utm_campaign=1054&utm_source=git)** | Springfield, United States | On Site | Aug 04 |
+| **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a117b5f9fdbf21f36cb3e4f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6a55a09478611229b823d6f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://jobright.ai/jobs/info/6a727db7cb96192a3684e4b0?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern (Onsite)](https://jobright.ai/jobs/info/6a7362568cd88e7ccbf580a8?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 04 |
-| **[Rocket](https://www.rocketcompanies.com)** | **[Talent & Inclusion Program Intern - Fall 2026](https://jobright.ai/jobs/info/6a734c7932ebbc14ffb4e07b?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Aug 04 |
 | **[Rhenus Logistics](http://www.rhenus.com/)** | **[Talent Acquisition Intern (3-Month Contract)](https://jobright.ai/jobs/info/6a735aac1ce9647cdbca7924?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 04 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Talent & Inclusion Program Intern - Fall 2026](https://jobright.ai/jobs/info/6a733a258cd88e7ccbf571b6?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Aug 04 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Human Resources Internship - Fall 2026 (Hybrid)](https://jobright.ai/jobs/info/6a72393745b6af1c30dbd634?utm_campaign=1054&utm_source=git)** | Fairfield, OH, United States | Hybrid | Aug 04 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[NOREL Service Co., Inc.](https://www.norelservice.com)** | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/6a729f95e2b7476e7b214198?utm_campaign=1054&utm_source=git)** | Littleton, MA, United States | On Site | Aug 04 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a86e2b7476e7b212757?utm_campaign=1054&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
 | **[CALSTART](http://www.calstart.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a721a6ee2b7476e7b211536?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 04 |
-| **[Virginia Wesleyan University](https://www.vwu.edu/)** | **[Graduate Intern – Esports Operations & Recruitment](https://jobright.ai/jobs/info/6a4993705d7b097d2df3b875?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 04 |
-| ↳ | **[Graduate Intern – Esports Operations & Recruitment](https://jobright.ai/jobs/info/6a574ad9efb06a45240d9dee?utm_campaign=1054&utm_source=git)** | 5817 Wesleyan Drive, Virginia Beach, VA, 23455, US | On Site | Aug 04 |
+| **[Virginia Wesleyan University](https://www.vwu.edu/)** | **[Graduate Intern – Esports Operations & Recruitment](https://jobright.ai/jobs/info/6a574ad9efb06a45240d9dee?utm_campaign=1054&utm_source=git)** | 5817 Wesleyan Drive, Virginia Beach, VA, 23455, US | On Site | Aug 04 |
+| ↳ | **[Graduate Intern – Esports Operations & Recruitment](https://jobright.ai/jobs/info/6a4993705d7b097d2df3b875?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 04 |
 | **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[HRIS Intern - Human Resources](https://jobright.ai/jobs/info/6a723cd845b6af1c30dbd7d5?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, United States | On Site | Aug 04 |
 | **[Xerox](https://www.xerox.com/)** | **[Connection Belonging & Impact Intern](https://jobright.ai/jobs/info/6a559b40c8c68410daa529b8?utm_campaign=1054&utm_source=git)** | Oak Brook, IL, United States | On Site | Aug 04 |
 | **[TMX Group](http://www.tmx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a722f13e2b7476e7b211c2c?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 04 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Human Resources/Risk Management](https://jobright.ai/jobs/info/6a7213bb02d93145bf892605?utm_campaign=1054&utm_source=git)** | Chico, CA, United States | On Site | Aug 04 |
 | **[Fire Protection Team](https://www.fpteam.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a720f13cb96192a3684bb8c?utm_campaign=1054&utm_source=git)** | Cheshire, CT, United States | On Site | Aug 04 |
 | **[Amazon](https://amazon.com)** | **[Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://jobright.ai/jobs/info/6a720ef5ee751e0c7934682d?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
-| **[Continental](https://www.continental.com)** | **[Intern - Recruiter, Year-Round - BestDrive](https://jobright.ai/jobs/info/6a568b9ce9b77f668bd641d5?utm_campaign=1054&utm_source=git)** | Fort Mill, SC, United States | Hybrid | Aug 04 |
 | **[Archdiocese of Baltimore](https://www.archbalt.org/)** | **[Internship.Human Resoures (NE)](https://jobright.ai/jobs/info/6a71f663ee751e0c79345dd4?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 04 |
 | **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a5477348576ec69c015342c?utm_campaign=1054&utm_source=git)** | New York, NY, United States of America | On Site | Aug 04 |
 | ↳ | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a0f9ced619335383fb2e179?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Aug 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Abacus!](http://abacuscpas.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a714ca202d93145bf88eec2?utm_campaign=1054&utm_source=git)** | Fayetteville, AR, United States | On Site | Aug 03 |
 | **[Americare Senior Living](https://www.americareusa.net/)** | **[Recruiting Intern - Home Office](https://jobright.ai/jobs/info/6a70adf071acd469eed9ef28?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | Remote | Aug 03 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Human Resources Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/6a713f33ee751e0c793430d4?utm_campaign=1054&utm_source=git)** | Kill Devil Hills, NC, United States | On Site | Aug 03 |
-| **[RIMOWA](http://www.rimowa.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a7123779a0ca4480c7d338d?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
