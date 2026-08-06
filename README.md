@@ -67,20 +67,20 @@ For a complete list, click the following sortable link below:
 | **[PSVirtualSales](https://www.linkedin.com/company/106884819)** | **[Leadership Internship](https://jobright.ai/jobs/info/6a73e99ee55c73319eb19b34?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Freedom Healthcare, LLC](http://www.freedomhealthcare.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a73a42b8cd88e7ccbf59c45?utm_campaign=1054&utm_source=git)** | Lake Charles, LA, United States | On Site | Aug 05 |
 | **[Continental](https://www.continental.com)** | **[HR & Internal Communications Intern](https://jobright.ai/jobs/info/6a739de08cd88e7ccbf5989b?utm_campaign=1054&utm_source=git)** | Fairlawn, OH, United States | Hybrid | Aug 05 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a737f65e55c73319eb17a90?utm_campaign=1054&utm_source=git)** | Addison, IL, United States | On Site | Aug 05 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a721f0aee751e0c79346ff4?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 05 |
-| ↳ | **[Seasonal HR Intern-Jeff St](https://jobright.ai/jobs/info/6a737f5332ebbc14ffb4f547?utm_campaign=1054&utm_source=git)** | Jefferson Hub, Illinois, United States | On Site | Aug 05 |
-| ↳ | **[Seasonal HR Intern - Springfield, MO](https://jobright.ai/jobs/info/6a720d6871acd469eeda594b?utm_campaign=1054&utm_source=git)** | Springfield, United States | On Site | Aug 05 |
-| ↳ | **[Seasonal HR Intern - Redmond](https://jobright.ai/jobs/info/6a72587dcb96192a3684da24?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Aug 05 |
-| ↳ | **[Seasonal HR Intern- Addison HR](https://jobright.ai/jobs/info/6a72355c71acd469eeda6a55?utm_campaign=1054&utm_source=git)** | Addison, IL, United States | On Site | Aug 05 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7267c9ee751e0c79348c71?utm_campaign=1054&utm_source=git)** | Cordova, AK, United States | On Site | Aug 05 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a72133c71acd469eeda5c77?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 05 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a720d5471acd469eeda5945?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 05 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7224fcee751e0c7934712e?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 05 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a70dd5d357dfc6ff2b3b8f4?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a720d5471acd469eeda5945?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 05 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a721f0aee751e0c79346ff4?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 05 |
+| ↳ | **[Seasonal HR Intern - Redmond](https://jobright.ai/jobs/info/6a72587dcb96192a3684da24?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Aug 05 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a737f65e55c73319eb17a90?utm_campaign=1054&utm_source=git)** | Addison, IL, United States | On Site | Aug 05 |
+| ↳ | **[Seasonal HR Intern-Jeff St](https://jobright.ai/jobs/info/6a737f5332ebbc14ffb4f547?utm_campaign=1054&utm_source=git)** | Jefferson Hub, Illinois, United States | On Site | Aug 05 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a727ad2e2b7476e7b21395c?utm_campaign=1054&utm_source=git)** | Lathrop, CA, United States | On Site | Aug 05 |
+| ↳ | **[Seasonal HR Intern - Springfield, MO](https://jobright.ai/jobs/info/6a720d6871acd469eeda594b?utm_campaign=1054&utm_source=git)** | Springfield, United States | On Site | Aug 05 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a72077ccb96192a3684b855?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 05 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a70f3be02d93145bf88d4b8?utm_campaign=1054&utm_source=git)** | Ontario, Canada | On Site | Aug 05 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a727ad2e2b7476e7b21395c?utm_campaign=1054&utm_source=git)** | Lathrop, CA, United States | On Site | Aug 05 |
+| ↳ | **[Seasonal HR Intern- Addison HR](https://jobright.ai/jobs/info/6a72355c71acd469eeda6a55?utm_campaign=1054&utm_source=git)** | Addison, IL, United States | On Site | Aug 05 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a73cb6a32ebbc14ffb51078?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Aug 05 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7267c9ee751e0c79348c71?utm_campaign=1054&utm_source=git)** | Cordova, AK, United States | On Site | Aug 05 |
 | ↳ | **[HR Intern - Big Sky](https://jobright.ai/jobs/info/6a7387a68cd88e7ccbf58ffb?utm_campaign=1054&utm_source=git)** | Billings, MT, United States | On Site | Aug 05 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Part-Time Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/6a7399bd6a034212ea028893?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Remote | Aug 05 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a724651cb96192a3684d10d?utm_campaign=1054&utm_source=git)** | Bethel, CT, United States | Hybrid | Aug 05 |
@@ -124,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Internet Brands](http://www.internetbrands.com)** | **[HR & Recruiting Operations Intern (Part-Time)](https://jobright.ai/jobs/info/6a564311efb06a45240d48a5?utm_campaign=1054&utm_source=git)** | El Segundo, CA, United States | On Site | Aug 05 |
 | **[du-it](https://du-it.my/index.html)** | **[Staffing Coordinator SkillBridge Internship](https://jobright.ai/jobs/info/6a740880fba916306bd97f63?utm_campaign=1054&utm_source=git)** | Halethorpe, MD, United States | On Site | Aug 05 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Aug 05 |
-| **[Bank of China USA](https://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Aug 05 |
-| ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
+| **[Bank of China USA](https://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
+| ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a1dbde1b524ae49285a8164?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Leave of Absence Analyst Project Intern (HROP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a572a4853b3962b910b3cee?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
 | **[Zipline](https://www.zipline.com/)** | **[Talent and Recruiting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a70dc1b71acd469eeda0280?utm_campaign=1054&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Payroll Analyst Project Intern (HROP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a572a3a21f64463ad35822b?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
