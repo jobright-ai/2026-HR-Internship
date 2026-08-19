@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[House-Hasson Hardware Company](http://househasson.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a84fd7be459fa3baa8617fe?utm_campaign=1054&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 18 |
+| **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a84bddfe459fa3baa8606a2?utm_campaign=1054&utm_source=git)** | Stuart, FL, United States | On Site | Aug 18 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a84a8f7e12474455273bb9a?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[Lennox](http://www.lennox.com)** | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a84a85a58ded76ad8fe89a2?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Aug 18 |
 | ↳ | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a84a182d34f700f87fb9cdc?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Aug 18 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2026 Internship](https://jobright.ai/jobs/info/6a84845f2f4f0014cae21138?utm_campaign=1054&utm_source=git)** | San Rafael, CA, United States | On Site | Aug 18 |
 | **[LiftHER Career](https://lifthercareer.com/)** | **[New Grad Analyst (Entry-Level) – Training & Fellowship](https://jobright.ai/jobs/info/6a847e122f4f0014cae20e7d?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Aug 18 |
 | ↳ | **[New Grad Analyst (Entry-Level) – Training & Fellowship](https://jobright.ai/jobs/info/6a847dfb7b33d7227625648b?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Aug 18 |
-| **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a84bddfe459fa3baa8606a2?utm_campaign=1054&utm_source=git)** | Stuart, FL, United States | On Site | Aug 18 |
 | **[Android Industries](http://www.android-ind.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5f32a164865a3d944726f5?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI, United States | Remote | Aug 18 |
 | **[Matriosh](Matriosh.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a847c0f2f4f0014cae20db0?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Enterprise Job Scheduler Intern](https://jobright.ai/jobs/info/6a847904e12474455273a79f?utm_campaign=1054&utm_source=git)** | Palm Harbor, FL, United States | Hybrid | Aug 18 |
@@ -113,26 +114,27 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova WIND HR Internship - 2027](https://jobright.ai/jobs/info/6a8365953eeac101cfa9f839?utm_campaign=1054&utm_source=git)** | Schenectady, NY, United States | On Site | Aug 17 |
 | **[We Energies](https://www.we-energies.com)** | **[Intern - HR Labor Relations](https://jobright.ai/jobs/info/6a848b752f4f0014cae21471?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 17 |
 | **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a84ba002f4f0014cae226d8?utm_campaign=1054&utm_source=git)** | Ontario, Canada | On Site | Aug 17 |
+| **[Schaeffler](https://www.schaeffler.us)** | **[Co-op/Intern - Human Resources (Stratford Campus)](https://jobright.ai/jobs/info/6a84fca1d34f700f87fbbbb9?utm_campaign=1054&utm_source=git)** | Stratford, ON, Canada | On Site | Aug 17 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6a845840e459fa3baa85dbdf?utm_campaign=1054&utm_source=git)** | Northampton, MA, United States | On Site | Aug 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a8429550b610f7a3d0e426f?utm_campaign=1054&utm_source=git)** | Sumter, SC, United States | On Site | Aug 17 |
 | **[EO](https://www.eoco.org)** | **[Intern – BVPS HR & Finance Department](https://jobright.ai/jobs/info/6a839c121081a745e971067c?utm_campaign=1054&utm_source=git)** | Bristol, VA, United States | On Site | Aug 17 |
-| **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a58298b68d16a30e2412028?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Aug 17 |
-| ↳ | **[Human Resources Intern Job Details / ZF Group](https://jobright.ai/jobs/info/6a76b4b467a1ad0bc53cb191?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Aug 17 |
+| **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern Job Details / ZF Group](https://jobright.ai/jobs/info/6a76b4b467a1ad0bc53cb191?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Aug 17 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a58298b68d16a30e2412028?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Aug 17 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Human Resources Master's Internship - Summer 2027](https://jobright.ai/jobs/info/6a8370c93eeac101cfa9fc69?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | On Site | Aug 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Operations, Employee Engagement & Ecosystem Program Support [Palo Alto, CA]](https://jobright.ai/jobs/info/6a8372d9379c304e892f7525?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Aug 17 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2027 University Undergraduate Intern - Human Resources](https://jobright.ai/jobs/info/6a833bf72dbaf907b07675c2?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Aug 17 |
 | ↳ | **[2027 University Graduate Intern - Human Resources](https://jobright.ai/jobs/info/6a7e2dd719ce4e6e9d931cd2?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Aug 17 |
 | **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Human Resources (HR) Technology Job Details / Union Pacific](https://jobright.ai/jobs/info/6a83748c9b859b227766efdb?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Aug 17 |
 | **[Loc Performance](http://www.locperformance.com)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6a8320c9b5a0ac0e84a23a12?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI, United States | On Site | Aug 17 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a721f0502d93145bf892bb6?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 17 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7224fcee751e0c7934712e?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 17 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a720d5471acd469eeda5945?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 17 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 17 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7ce2d0dc3dff2d1c0c9afb?utm_campaign=1054&utm_source=git)** | Olympic, CA, United States | Remote | Aug 17 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a72077ccb96192a3684b855?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 17 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7b8da7ecf5194164fbefbe?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Aug 17 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a766a2dbb6ca93ae56128d9?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Aug 17 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a766a2dbb6ca93ae56128d9?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Aug 17 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7e136a0cd4a0703257db3d?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 17 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a721f0502d93145bf892bb6?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 17 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7ce2d0dc3dff2d1c0c9afb?utm_campaign=1054&utm_source=git)** | Olympic, CA, United States | Remote | Aug 17 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a720d5471acd469eeda5945?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 17 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7224fcee751e0c7934712e?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 17 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7b8da7ecf5194164fbefbe?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Aug 17 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 17 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a72077ccb96192a3684b855?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6a25f802d46c0f799608921e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 17 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Health and Benefits Internship (Winter, Summer, or Fall 2027) - Montreal](https://jobright.ai/jobs/info/6a8324d89b859b227766cbda?utm_campaign=1054&utm_source=git)** | Montréal, QC, Canada | Hybrid | Aug 17 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2027](https://jobright.ai/jobs/info/69f52a1712f2811ab5a636af?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Aug 17 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6a2a2a1b1de59e0682a831de?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Aug 17 |
 | ↳ | **[2027 Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6a588cc468d16a30e2414006?utm_campaign=1054&utm_source=git)** | Edina, MN, US | On Site | Aug 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a28fbd6883c0d3be654530e?utm_campaign=1054&utm_source=git)** | Cypress, TX, United States | On Site | Aug 17 |
-| **[Love's Travel Stops](http://www.loves.com)** | **[Talent Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a830464379c304e892f455b?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 17 |
-| ↳ | **[Talent Acquisition Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8304649b859b227766bedc?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 17 |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Talent Acquisition Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8304649b859b227766bedc?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 17 |
+| ↳ | **[Talent Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a830464379c304e892f455b?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6a5b1431c8e3a473cb8aeac6?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Aug 17 |
 | **[Network Doctor](http://networkdr.com/)** | **[Jr. HR Associate Intern](https://jobright.ai/jobs/info/6a83b8e1379c304e892f8e64?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ, United States | On Site | Aug 17 |
 | **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f42407c78b9e45189596d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Shelter Management Internship](https://jobright.ai/jobs/info/6a82e7e43eeac101cfa9c77f?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | ↳ | **[Volunteer Program Internship](https://jobright.ai/jobs/info/6a82e7e3b5a0ac0e84a2278a?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Human Resources](https://jobright.ai/jobs/info/6a829912b5a0ac0e84a21901?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | On Site | Aug 17 |
-| **[Zscaler](https://www.zscaler.com)** | **[Phishing Analyst-SkillBridge Intern](https://jobright.ai/jobs/info/69f3d98f6942c746fa695791?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Aug 17 |
-| **[National Security Agency](http://www.nsa.gov/)** | **[NSA Summer 2027 Internship Program - Human Capital Management - Entry - Maryland](https://jobright.ai/jobs/info/6a802ae9927c79391ad0f5d8?utm_campaign=1054&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
