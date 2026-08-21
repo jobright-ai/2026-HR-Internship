@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Coty](https://www.coty.com/)** | **[People Analytics & Total Rewards Intern Job Details / coty](https://jobright.ai/jobs/info/6a88144b25fc4e7ae3daf3cf?utm_campaign=1054&utm_source=git)** | Amsterdam, New Hampshire, United States | On Site | Aug 21 |
 | **[Matriosh](Matriosh.com)** | **[HR Internship](https://jobright.ai/jobs/info/6a880bb8cde3717f9e9b3f78?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 21 |
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Intern -  Diversity & Inclusion - S](https://jobright.ai/jobs/info/6a87f63dd34f700f87fc72ef?utm_campaign=1054&utm_source=git)** | South Bend, IN, United States | On Site | Aug 20 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Human Resources Intern – Fall 2026](https://jobright.ai/jobs/info/6a875414680f314a29d3837d?utm_campaign=1054&utm_source=git)** | Cockeysville, MD, United States | On Site | Aug 20 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BKF Engineers](http://bkf.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a69389c36d36c1ff2998d61?utm_campaign=1054&utm_source=git)** | Pleasanton, CA, United States | On Site | Aug 19 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a298223495d985b99423d85?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Aug 19 |
 | **[PwC Canada](https://www.pwc.com/ca/en/)** | **[May 2027 - Workforce Transformation - Summer Intern - Toronto](https://jobright.ai/jobs/info/6a85b06bcc81eb647e9eeaba?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | On Site | Aug 19 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7b8da7ecf5194164fbefbe?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Aug 19 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a720d5471acd469eeda5945?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 19 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a72077ccb96192a3684b855?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
