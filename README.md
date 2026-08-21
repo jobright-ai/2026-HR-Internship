@@ -120,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Talent Acquisition Intern (September 2026)](https://jobright.ai/jobs/info/6a8703604afae74a083460e5?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 19 |
 | **[Johnson & Johnson](https://www.jnj.com)** | **[Sustainability Engagement Coop](https://jobright.ai/jobs/info/6a875f99e8b6601d12903362?utm_campaign=1054&utm_source=git)** | New Brunswick, NJ, United States | Hybrid | Aug 19 |
 | **[Hillis-Carnes Engineering Associates, Inc.](http://hcea.com)** | **[All Entry Level/Internship Positions - College Students](https://jobright.ai/jobs/info/6a876304cde3717f9e9b1c7d?utm_campaign=1054&utm_source=git)** | Sparks, MD, United States | On Site | Aug 19 |
+| **[CEC Entertainment](http://chuckecheese.com)** | **[Talent Acquisition Internship - Fall](https://jobright.ai/jobs/info/6a879545d34f700f87fc60c0?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | Hybrid | Aug 19 |
 | **[Aramark](http://www.aramark.com)** | **[Human Resources Intern- LSU - LSU Athletic Venues and Events](https://jobright.ai/jobs/info/6a8731a6d34f700f87fc4108?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, United States | On Site | Aug 19 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Summer 2027 HR Programs & Associate Experience Intern - ONSITE Carmel, IN](https://jobright.ai/jobs/info/6a85fff92f4f0014cae277c2?utm_campaign=1054&utm_source=git)** | Carmel, IN, United States | Hybrid | Aug 19 |
 | **[First Student](http://www.firststudentinc.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6a7f55efe2030208f276d2ef?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 19 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[BKF Engineers](http://bkf.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a69389c36d36c1ff2998d61?utm_campaign=1054&utm_source=git)** | Pleasanton, CA, United States | On Site | Aug 19 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a298223495d985b99423d85?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Aug 19 |
 | **[PwC Canada](https://www.pwc.com/ca/en/)** | **[May 2027 - Workforce Transformation - Summer Intern - Toronto](https://jobright.ai/jobs/info/6a85b06bcc81eb647e9eeaba?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | On Site | Aug 19 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7b8da7ecf5194164fbefbe?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Aug 19 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7224fcee751e0c7934712e?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 19 |
-| ↳ | **[Seasonal HR Intern - Englewood](https://jobright.ai/jobs/info/6a721f0aee751e0c79346ff4?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 19 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7224fcee751e0c7934712e?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 19 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a72077ccb96192a3684b855?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 19 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a720d5471acd469eeda5945?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 19 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7b8da7ecf5194164fbefbe?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Aug 19 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 19 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7ce2d0dc3dff2d1c0c9afb?utm_campaign=1054&utm_source=git)** | Olympic, CA, United States | Remote | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
