@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Intern -  Diversity & Inclusion - S](https://jobright.ai/jobs/info/6a87f63dd34f700f87fc72ef?utm_campaign=1054&utm_source=git)** | South Bend, IN, United States | On Site | Aug 20 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Human Resources Intern – Fall 2026](https://jobright.ai/jobs/info/6a875414680f314a29d3837d?utm_campaign=1054&utm_source=git)** | Cockeysville, MD, United States | On Site | Aug 20 |
+| **[Zipline](https://www.zipline.com/)** | **[Operations Experience Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8791cfe8b6601d129042c7?utm_campaign=1054&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 20 |
 | **[Midea America](https://www.midea.com/us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a87b6194afae74a08349f1f?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | Aug 20 |
 | **[Definity](https://www.definityfinancial.com/)** | **[HR Assistant – HR Shared Services (Fall 2026 Co-op)](https://jobright.ai/jobs/info/6a878e3825fc4e7ae3dadcad?utm_campaign=1054&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 20 |
-| **[Zipline](https://www.zipline.com/)** | **[Operations Experience Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8791cfe8b6601d129042c7?utm_campaign=1054&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 20 |
-| **[Definity](https://www.definityfinancial.com/)** | **[HR Assistant – HR Shared Services (Fall 2026 Co-op)](https://jobright.ai/jobs/info/6a87907cd34f700f87fc6055?utm_campaign=1054&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 20 |
+| ↳ | **[HR Assistant – HR Shared Services (Fall 2026 Co-op)](https://jobright.ai/jobs/info/6a87907cd34f700f87fc6055?utm_campaign=1054&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 20 |
 | **[PROJXON](www.projxon.com)** | **[Technical Recruiter (Intern)](https://jobright.ai/jobs/info/6a878fa8cde3717f9e9b2a7c?utm_campaign=1054&utm_source=git)** | Las Vegas Metropolitan Area, United States | Remote | Aug 20 |
 | **[Michels Corporation](http://www.michels.us)** | **[Supplier Diversity Internship](https://jobright.ai/jobs/info/6a8761d125fc4e7ae3dace75?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 20 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[A&R + Admin Internship – Fall 2026 Privée](https://jobright.ai/jobs/info/6a8726d6cde3717f9e9b06d0?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Aug 20 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a8759d225fc4e7ae3dacc0a?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 20 |
 | **[YesLiberia, Inc.](https://yesliberia.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a875783cde3717f9e9b18cc?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 20 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a875476cde3717f9e9b179a?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Human Resources Intern – Fall 2026](https://jobright.ai/jobs/info/6a875414680f314a29d3837d?utm_campaign=1054&utm_source=git)** | Cockeysville, MD, United States | On Site | Aug 20 |
 | **[The Boelter Companies](http://www.boelter.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a87539be8b6601d12902f31?utm_campaign=1054&utm_source=git)** | Waukesha, WI, United States | On Site | Aug 20 |
 | **[Vinfen](http://www.vinfen.org)** | **[Paid Intern HR](https://jobright.ai/jobs/info/6a8719064afae74a0834696c?utm_campaign=1054&utm_source=git)** | Cambridge, MA, United States | Remote | Aug 20 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Benefits Intern (Summer 2027)](https://jobright.ai/jobs/info/6a85aff374e02153f1457c2a?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 20 |
@@ -145,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[HR Intern](https://jobright.ai/jobs/info/6a7f8200e2030208f276eef6?utm_campaign=1054&utm_source=git)** | Manhattan, New York, United States | On Site | Aug 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - P&C Business Partner](https://jobright.ai/jobs/info/6a4c83e5c643fd23fed3a87e?utm_campaign=1054&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Aug 19 |
 | **[Ozarks Regional YMCA](https://www.orymca.org/)** | **[Human Resources Intern - Springfield, MO](https://jobright.ai/jobs/info/6a85e167e459fa3baa8647b4?utm_campaign=1054&utm_source=git)** | Springfield, MO, United States | On Site | Aug 19 |
-| **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Intern -  Diversity & Inclusion - S](https://jobright.ai/jobs/info/6a85df71d34f700f87fbecb6?utm_campaign=1054&utm_source=git)** | South Bend, IN, United States | On Site | Aug 19 |
 | **[Printemps New York](https://us.printemps.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a85ed86cc81eb647e9f0423?utm_campaign=1054&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 19 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a85cc244afae74a083413c8?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Aug 19 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a85c9a3cc81eb647e9ef3e8?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Aug 19 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[BKF Engineers](http://bkf.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a69389c36d36c1ff2998d61?utm_campaign=1054&utm_source=git)** | Pleasanton, CA, United States | On Site | Aug 19 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a298223495d985b99423d85?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Aug 19 |
 | **[PwC Canada](https://www.pwc.com/ca/en/)** | **[May 2027 - Workforce Transformation - Summer Intern - Toronto](https://jobright.ai/jobs/info/6a85b06bcc81eb647e9eeaba?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | On Site | Aug 19 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7b8da7ecf5194164fbefbe?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Aug 19 |
-| ↳ | **[Seasonal HR Intern - Englewood](https://jobright.ai/jobs/info/6a721f0aee751e0c79346ff4?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 19 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a72077ccb96192a3684b855?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 19 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern - Englewood](https://jobright.ai/jobs/info/6a721f0aee751e0c79346ff4?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 19 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7b8da7ecf5194164fbefbe?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Aug 19 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
