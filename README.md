@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a89b527680f314a29d3f49e?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 22 |
+| **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Recruiting Intern Summer 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri, United States | On Site | Aug 22 |
 | **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2027 US HR Summer Internship Program](https://jobright.ai/jobs/info/6a6cfc2532f9300c3a3e65ec?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 22 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Talent Acquisition Intern (September 2026)](https://jobright.ai/jobs/info/6a896d58d34f700f87fcb8a3?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 22 |
 | **[Varda Space Industries](http://varda.com)** | **[Recruiting Operations Internship - Fall 2026](https://jobright.ai/jobs/info/6a5385959fbdab22fe13fa6f?utm_campaign=1054&utm_source=git)** | El Segundo, CA, United States | On Site | Aug 22 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a887ca7d34f700f87fc8ccf?utm_campaign=1054&utm_source=git)** | Baytown, TX, United States | On Site | Aug 21 |
 | **[Amcor](http://www.amcor.com)** | **[Thermoforming Human Resources Intern](https://jobright.ai/jobs/info/6a6bbf0557120971bf3a8b31?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Aug 21 |
 | **[PICTON Investments](https://www.pictoninvestments.com/en)** | **[Intern, People Operations](https://jobright.ai/jobs/info/6a6b9a6aca1f9338465fb595?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 21 |
-| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a8863b8680f314a29d3baca?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 21 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[PROFESSIONAL INTERNSHIP - PUBLIC INFORMATION OFFICE -Onsite](https://jobright.ai/jobs/info/6a886167e8b6601d1290662c?utm_campaign=1054&utm_source=git)** | Summerville, SC, United States | On Site | Aug 21 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Chattanooga, TN)](https://jobright.ai/jobs/info/6a6b8df7acb0a61f9dbc18ae?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | Hybrid | Aug 21 |
 | ↳ | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/6a6b8df032f9300c3a3df933?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Aug 21 |
@@ -105,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Bioventus](https://www.bioventus.com)** | **[DOD SkillBridge Military Intern - Human Resource Generalist](https://jobright.ai/jobs/info/6a4e317efc327f422fef20ac?utm_campaign=1054&utm_source=git)** | Durham, NC, United States | Hybrid | Aug 21 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[HR Ops Intern](https://jobright.ai/jobs/info/6a6b92ee57120971bf3a7a2e?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a5331eed007ee02d95fa93a?utm_campaign=1054&utm_source=git)** | San Francisco, United States | On Site | Aug 21 |
-| **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
+| **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a841b54d34f700f87fb73fb?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
 | ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Aug 21 |
 | ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a8293c43eeac101cfa9b7ac?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
 | **[San Ysidro Health](https://www.syhealth.org/)** | **[Human Resources - Unpaid Intern](https://jobright.ai/jobs/info/6a88a776680f314a29d3d1ae?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | Hybrid | Aug 21 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[Human Resources Intern – Fall 2026](https://jobright.ai/jobs/info/6a875414680f314a29d3837d?utm_campaign=1054&utm_source=git)** | Cockeysville, MD, United States | On Site | Aug 20 |
 | **[The Boelter Companies](http://www.boelter.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a88592e4afae74a0834b2af?utm_campaign=1054&utm_source=git)** | Waukesha, WI, United States | On Site | Aug 20 |
 | **[Midea America](https://www.midea.com/us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a87b6194afae74a08349f1f?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | Aug 20 |
-| **[7 17 Credit Union](https://www.717cu.com/)** | **[RISK MANAGEMENT INTERN](https://jobright.ai/jobs/info/6a87671fcde3717f9e9b1eec?utm_campaign=1054&utm_source=git)** | Warren, OH, United States | On Site | Aug 20 |
 | **[Definity](https://www.definityfinancial.com/)** | **[HR Assistant – HR Shared Services (Fall 2026 Co-op)](https://jobright.ai/jobs/info/6a878e3825fc4e7ae3dadcad?utm_campaign=1054&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 20 |
 | **[Regis University](http://www.regis.edu/)** | **[Career Counselor Intern](https://jobright.ai/jobs/info/6a88ccede8b6601d12908c07?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Aug 20 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[HR Pathways Graduate Internship, Summer 2027](https://jobright.ai/jobs/info/6a888a404afae74a0834c3f7?utm_campaign=1054&utm_source=git)** | Arden Hills, MN, United States | On Site | Aug 20 |
