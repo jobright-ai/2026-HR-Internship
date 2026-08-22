@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (HR Shared Service Center)](https://jobright.ai/jobs/info/6a88d5da4afae74a0834de3c?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | On Site | Aug 21 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (HR Shared Service Center)](https://jobright.ai/jobs/info/6a88d90dcde3717f9e9b77ad?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | On Site | Aug 21 |
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[HR Pathways Graduate Internship, Summer 2027](https://jobright.ai/jobs/info/6a88c23b25fc4e7ae3db2422?utm_campaign=1054&utm_source=git)** | Arden Hills, MN, United States | On Site | Aug 21 |
 | **[Precision Castparts](http://precast.com)** | **[HR Intern/CO-OP (Incotec)](https://jobright.ai/jobs/info/6a88e94d25fc4e7ae3db2e09?utm_campaign=1054&utm_source=git)** | Mojave, CA, United States | On Site | Aug 21 |
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/6a88bc84cde3717f9e9b6e3f?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 21 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Bioventus](https://www.bioventus.com)** | **[DOD SkillBridge Military Intern - Human Resource Generalist](https://jobright.ai/jobs/info/6a4e317efc327f422fef20ac?utm_campaign=1054&utm_source=git)** | Durham, NC, United States | Hybrid | Aug 21 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[HR Ops Intern](https://jobright.ai/jobs/info/6a6b92ee57120971bf3a7a2e?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a5331eed007ee02d95fa93a?utm_campaign=1054&utm_source=git)** | San Francisco, United States | On Site | Aug 21 |
-| **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a841b54d34f700f87fb73fb?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
-| ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Aug 21 |
+| **[Festo](https://www.festo.com/us/en)** | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Aug 21 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
 | ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a8293c43eeac101cfa9b7ac?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
 | **[San Ysidro Health](https://www.syhealth.org/)** | **[Human Resources - Unpaid Intern](https://jobright.ai/jobs/info/6a88a776680f314a29d3d1ae?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | Hybrid | Aug 21 |
 | **[Maryland Wellness](https://mdwellness.org)** | **[HR Intern](https://jobright.ai/jobs/info/6a885c8ad34f700f87fc8251?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Aug 21 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI, United States | On Site | Aug 20 |
 | **[Schneider Electric](https://www.se.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a871ab225fc4e7ae3dab4d0?utm_campaign=1054&utm_source=git)** | Lexington, KY, United States | On Site | Aug 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a2b9f8dc07d4b6ae1c4b0e9?utm_campaign=1054&utm_source=git)** | Pearland, TX, United States | On Site | Aug 20 |
-| **[Gilbane Building](https://www.gilbaneco.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5c?utm_campaign=1054&utm_source=git)** | US-OH-Cleveland | On Site | Aug 20 |
-| ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5b?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Aug 20 |
+| **[Gilbane Building](https://www.gilbaneco.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5b?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Aug 20 |
+| ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5c?utm_campaign=1054&utm_source=git)** | US-OH-Cleveland | On Site | Aug 20 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Spring 2027 Co-op - HR - University Relations](https://jobright.ai/jobs/info/6a7d4b1f83621355407adc9d?utm_campaign=1054&utm_source=git)** | Fort Mill, SC, United States | On Site | Aug 20 |
 | **[Martin Luther Campus](https://www.martinluthercampus.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a870974d34f700f87fc3179?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | Remote | Aug 20 |
 | **[Fairview Health Services](http://www.fairview.org/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a86fdf225fc4e7ae3daaa53?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | Remote | Aug 20 |
