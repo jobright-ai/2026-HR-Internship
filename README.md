@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[2026 Fall PILI Intern](https://jobright.ai/jobs/info/6a8a5e0125fc4e7ae3db49fb?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Remote | Aug 22 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Student Intern - Human Resources](https://jobright.ai/jobs/info/6a83e9fb6cd9495f3107447f?utm_campaign=1054&utm_source=git)** | Edmond, OK, United States | On Site | Aug 22 |
 | **[DULCEDO Management](https://www.dulcedo.com)** | **[Talent Agent Assistant Internship](https://jobright.ai/jobs/info/6a621937c28982326de94aca?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 22 |
 | **[JPI](http://jpi.com)** | **[Field Operations Intern – SkillBridge](https://jobright.ai/jobs/info/6a573229efb06a45240d984f?utm_campaign=1054&utm_source=git)** | Dallas Office, United States of America | On Site | Aug 22 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Bioventus](https://www.bioventus.com)** | **[DOD SkillBridge Military Intern - Human Resource Generalist](https://jobright.ai/jobs/info/6a4e317efc327f422fef20ac?utm_campaign=1054&utm_source=git)** | Durham, NC, United States | Hybrid | Aug 21 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[HR Ops Intern](https://jobright.ai/jobs/info/6a6b92ee57120971bf3a7a2e?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a5331eed007ee02d95fa93a?utm_campaign=1054&utm_source=git)** | San Francisco, United States | On Site | Aug 21 |
-| **[Festo](https://www.festo.com/us/en)** | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Aug 21 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a841b54d34f700f87fb73fb?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
+| **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a841b54d34f700f87fb73fb?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
+| ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Aug 21 |
 | ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a8293c43eeac101cfa9b7ac?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
 | **[San Ysidro Health](https://www.syhealth.org/)** | **[Human Resources - Unpaid Intern](https://jobright.ai/jobs/info/6a88a776680f314a29d3d1ae?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | Hybrid | Aug 21 |
 | **[Maryland Wellness](https://mdwellness.org)** | **[HR Intern](https://jobright.ai/jobs/info/6a885c8ad34f700f87fc8251?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Aug 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Human Resources Fall Intern](https://jobright.ai/jobs/info/6a86f644cde3717f9e9af692?utm_campaign=1054&utm_source=git)** | Chillicothe, OH, United States | On Site | Aug 20 |
 | **[IBM](http://www.ibm.com)** | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6a86f994cde3717f9e9af75a?utm_campaign=1054&utm_source=git)** | Armonk, NY, United States | Hybrid | Aug 20 |
 | **[Hillis-Carnes Engineering Associates, Inc.](http://hcea.com)** | **[All Entry Level/Internship Positions - College Students](https://jobright.ai/jobs/info/6a876304cde3717f9e9b1c7d?utm_campaign=1054&utm_source=git)** | Sparks, MD, United States | On Site | Aug 20 |
-| **[PACCAR](http://www.paccar.com/)** | **[Human Resources Fall Intern](https://jobright.ai/jobs/info/6a86ed2325fc4e7ae3daa65e?utm_campaign=1054&utm_source=git)** | Chillicothe, OH, United States | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
