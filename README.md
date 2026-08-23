@@ -114,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank](https://www.eqbank.ca)** | **[HR Ops Intern](https://jobright.ai/jobs/info/6a6b92ee57120971bf3a7a2e?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a5331eed007ee02d95fa93a?utm_campaign=1054&utm_source=git)** | San Francisco, United States | On Site | Aug 21 |
 | **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a841b54d34f700f87fb73fb?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
-| ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Aug 21 |
 | ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a8293c43eeac101cfa9b7ac?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
+| ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Aug 21 |
 | **[San Ysidro Health](https://www.syhealth.org/)** | **[Human Resources - Unpaid Intern](https://jobright.ai/jobs/info/6a88a776680f314a29d3d1ae?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | Hybrid | Aug 21 |
 | **[Maryland Wellness](https://mdwellness.org)** | **[HR Intern](https://jobright.ai/jobs/info/6a885c8ad34f700f87fc8251?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Aug 21 |
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Intern -  Diversity & Inclusion - S](https://jobright.ai/jobs/info/6a87f63dd34f700f87fc72ef?utm_campaign=1054&utm_source=git)** | South Bend, IN, United States | On Site | Aug 20 |
