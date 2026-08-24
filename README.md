@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dana Incorporated](https://www.dana.com/)** | **[HR Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a8bcee8680f314a29d41e80?utm_campaign=1054&utm_source=git)** | Napoleon, OH, United States | On Site | Aug 23 |
+| **[Delta Air Lines](https://www.delta.com)** | **[Co-op, HR Analytics and Insights (Spring 2027)](https://jobright.ai/jobs/info/6a7f61f7e2030208f276d95e?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 23 |
+| **[Piper Sandler](https://pipersandler.com)** | **[2027 Campus Recruiting - Investment Banking Summer Associate - Charlotte](https://jobright.ai/jobs/info/6a8bcda84afae74a0835184b?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 23 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a8b06a8680f314a29d40c20?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 23 |
 | **[The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology](https://wertheim.scripps.ufl.edu/)** | **[Human Resources Intern - Jupiter, FL](https://jobright.ai/jobs/info/6a51c99ebf63b66c7997caab?utm_campaign=1054&utm_source=git)** | Palm Beach, FL, United States | On Site | Aug 23 |
 | **[Beautiful Lives Thrift Boutique](https://beautifullivesboutique.com)** | **[Volunteer Experience and Recruitment Intern (Fall)](https://jobright.ai/jobs/info/6a5c861b856af468ab00f365?utm_campaign=1054&utm_source=git)** | Northwest Arkansas, United States | Hybrid | Aug 23 |
@@ -99,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Lavonne's The Agency](https://lavonnestheagency.com/)** | **[Fall Talent Development Internship](https://jobright.ai/jobs/info/6a888a0ee8b6601d129074b9?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 21 |
 | **[The Dutch Group](https://www.thedutchgroup.net)** | **[Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a8883aacde3717f9e9b5a53?utm_campaign=1054&utm_source=git)** | Columbus, MS, United States | On Site | Aug 21 |
 | **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a8880c94afae74a0834c098?utm_campaign=1054&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 21 |
-| **[Delta Air Lines](https://www.delta.com)** | **[Co-op, HR Analytics and Insights (Spring 2027)](https://jobright.ai/jobs/info/6a7f61f7e2030208f276d95e?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a887ca7d34f700f87fc8ccf?utm_campaign=1054&utm_source=git)** | Baytown, TX, United States | On Site | Aug 21 |
 | **[Amcor](http://www.amcor.com)** | **[Thermoforming Human Resources Intern](https://jobright.ai/jobs/info/6a6bbf0557120971bf3a8b31?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Aug 21 |
 | **[PICTON Investments](https://www.pictoninvestments.com/en)** | **[Intern, People Operations](https://jobright.ai/jobs/info/6a6b9a6aca1f9338465fb595?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 21 |
@@ -115,9 +117,9 @@ For a complete list, click the following sortable link below:
 | **[Bioventus](https://www.bioventus.com)** | **[DOD SkillBridge Military Intern - Human Resource Generalist](https://jobright.ai/jobs/info/6a4e317efc327f422fef20ac?utm_campaign=1054&utm_source=git)** | Durham, NC, United States | Hybrid | Aug 21 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[HR Ops Intern](https://jobright.ai/jobs/info/6a6b92ee57120971bf3a7a2e?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a5331eed007ee02d95fa93a?utm_campaign=1054&utm_source=git)** | San Francisco, United States | On Site | Aug 21 |
-| **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
-| ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a8293c43eeac101cfa9b7ac?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
+| **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a841b54d34f700f87fb73fb?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
 | ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Aug 21 |
+| ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a8293c43eeac101cfa9b7ac?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
 | **[San Ysidro Health](https://www.syhealth.org/)** | **[Human Resources - Unpaid Intern](https://jobright.ai/jobs/info/6a88a776680f314a29d3d1ae?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | Hybrid | Aug 21 |
 | **[Maryland Wellness](https://mdwellness.org)** | **[HR Intern](https://jobright.ai/jobs/info/6a885c8ad34f700f87fc8251?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Aug 21 |
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Intern -  Diversity & Inclusion - S](https://jobright.ai/jobs/info/6a87f63dd34f700f87fc72ef?utm_campaign=1054&utm_source=git)** | South Bend, IN, United States | On Site | Aug 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gilbane Building](https://www.gilbaneco.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5b?utm_campaign=1054&utm_source=git)** | US-IL-Chicago | On Site | Aug 20 |
 | ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5c?utm_campaign=1054&utm_source=git)** | US-OH-Cleveland | On Site | Aug 20 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Spring 2027 Co-op - HR - University Relations](https://jobright.ai/jobs/info/6a7d4b1f83621355407adc9d?utm_campaign=1054&utm_source=git)** | Fort Mill, SC, United States | On Site | Aug 20 |
-| **[Martin Luther Campus](https://www.martinluthercampus.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a870974d34f700f87fc3179?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | Remote | Aug 20 |
-| **[Fairview Health Services](http://www.fairview.org/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a86fdf225fc4e7ae3daaa53?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | Remote | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
