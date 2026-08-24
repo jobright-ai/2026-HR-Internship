@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[A Leading North American Company](www.TheGAOGroup.com (https://www.thegaogroup.com/))** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a8b1827e8b6601d1290b9b9?utm_campaign=1054&utm_source=git)** | Edmonton, AB, Canada | On Site | Aug 23 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a8b06a8680f314a29d40c20?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 23 |
 | **[The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology](https://wertheim.scripps.ufl.edu/)** | **[Human Resources Intern - Jupiter, FL](https://jobright.ai/jobs/info/6a51c99ebf63b66c7997caab?utm_campaign=1054&utm_source=git)** | Palm Beach, FL, United States | On Site | Aug 23 |
 | **[Beautiful Lives Thrift Boutique](https://beautifullivesboutique.com)** | **[Volunteer Experience and Recruitment Intern (Fall)](https://jobright.ai/jobs/info/6a5c861b856af468ab00f365?utm_campaign=1054&utm_source=git)** | Northwest Arkansas, United States | Hybrid | Aug 23 |
@@ -116,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Bioventus](https://www.bioventus.com)** | **[DOD SkillBridge Military Intern - Human Resource Generalist](https://jobright.ai/jobs/info/6a4e317efc327f422fef20ac?utm_campaign=1054&utm_source=git)** | Durham, NC, United States | Hybrid | Aug 21 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[HR Ops Intern](https://jobright.ai/jobs/info/6a6b92ee57120971bf3a7a2e?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a5331eed007ee02d95fa93a?utm_campaign=1054&utm_source=git)** | San Francisco, United States | On Site | Aug 21 |
-| **[Festo](https://www.festo.com/us/en)** | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a8293c43eeac101cfa9b7ac?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
+| **[Festo](https://www.festo.com/us/en)** | **[HR Intern](https://jobright.ai/jobs/info/6a3c42618bfad862bc999db2?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
+| ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a8293c43eeac101cfa9b7ac?utm_campaign=1054&utm_source=git)** | Mason, IL, United States | On Site | Aug 21 |
 | ↳ | **[HR Intern Job Details / Festo SE & Co. KG](https://jobright.ai/jobs/info/6a3e75a48bfad862bc99fb03?utm_campaign=1054&utm_source=git)** | Mason, IL, US | On Site | Aug 21 |
 | **[San Ysidro Health](https://www.syhealth.org/)** | **[Human Resources - Unpaid Intern](https://jobright.ai/jobs/info/6a88a776680f314a29d3d1ae?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | Hybrid | Aug 21 |
 | **[Maryland Wellness](https://mdwellness.org)** | **[HR Intern](https://jobright.ai/jobs/info/6a885c8ad34f700f87fc8251?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Aug 21 |
@@ -125,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[Human Resources Intern – Fall 2026](https://jobright.ai/jobs/info/6a875414680f314a29d3837d?utm_campaign=1054&utm_source=git)** | Cockeysville, MD, United States | On Site | Aug 20 |
 | **[The Boelter Companies](http://www.boelter.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a88592e4afae74a0834b2af?utm_campaign=1054&utm_source=git)** | Waukesha, WI, United States | On Site | Aug 20 |
 | **[Midea America](https://www.midea.com/us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a87b6194afae74a08349f1f?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | Aug 20 |
+| **[7 17 Credit Union](https://www.717cu.com/)** | **[RISK MANAGEMENT INTERN](https://jobright.ai/jobs/info/6a87671fcde3717f9e9b1eec?utm_campaign=1054&utm_source=git)** | Warren, OH, United States | On Site | Aug 20 |
 | **[Definity](https://www.definityfinancial.com/)** | **[HR Assistant – HR Shared Services (Fall 2026 Co-op)](https://jobright.ai/jobs/info/6a878e3825fc4e7ae3dadcad?utm_campaign=1054&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 20 |
 | **[Regis University](http://www.regis.edu/)** | **[Career Counselor Intern](https://jobright.ai/jobs/info/6a88ccede8b6601d12908c07?utm_campaign=1054&utm_source=git)** | Denver, Colorado, United States | On Site | Aug 20 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[HR Pathways Graduate Internship, Summer 2027](https://jobright.ai/jobs/info/6a888a404afae74a0834c3f7?utm_campaign=1054&utm_source=git)** | Arden Hills, MN, United States | On Site | Aug 20 |
