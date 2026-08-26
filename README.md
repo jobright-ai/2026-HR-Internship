@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D.C. United](http://dcunited.com)** | **[Internship- Talent Acquisition Intern (Fall 2026)](https://jobright.ai/jobs/info/6a8e46e6ef981311b92fbcd1?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 25 |
 | **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 25 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8cc3d7cde3717f9e9bf251?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 25 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7224fcee751e0c7934712e?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 25 |
 | ↳ | **[Seasonal HR Intern - Monument/Colorado Springs](https://jobright.ai/jobs/info/6a8cd69ecde3717f9e9bf708?utm_campaign=1054&utm_source=git)** | Monument, Colorado, United States | On Site | Aug 25 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8e2e0e47679c68bf5e6f12?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 25 |
 | ↳ | **[Seasonal HR Intern - Englewood](https://jobright.ai/jobs/info/6a8c7c71d34f700f87fd0dbd?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 25 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8e2e0e47679c68bf5e6f12?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 25 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7224fcee751e0c7934712e?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 25 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8cc3d7cde3717f9e9bf251?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 25 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a8e0c0b581f2d7bfdfeac60?utm_campaign=1054&utm_source=git)** | Concord, CA, United States | On Site | Aug 25 |
 | **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a69166c36d36c1ff2998170?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Aug 25 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Community Relations](https://jobright.ai/jobs/info/6a8dfdd825fc4e7ae3dbf0f7?utm_campaign=1054&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
@@ -87,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 25 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Aug 25 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8c517acde3717f9e9bc559?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 25 |
-| **[ECI](https://eci-rx.com)** | **[Talent Sourcing Intern #0596](https://jobright.ai/jobs/info/6a8dacbf47679c68bf5e3da6?utm_campaign=1054&utm_source=git)** | Marlborough, MA, United States | Remote | Aug 25 |
+| **[ECI](https://eci-rx.com)** | **[Talent Sourcing Intern #0596](https://jobright.ai/jobs/info/6a8daceaa5639a4810326ca5?utm_campaign=1054&utm_source=git)** | Marlborough, MA, United States | Remote | Aug 25 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[2027 Summer Internship](https://jobright.ai/jobs/info/6a725b9271acd469eeda7aa5?utm_campaign=1054&utm_source=git)** | Taylor, TX, United States | On Site | Aug 25 |
 | **[Amcor](http://www.amcor.com)** | **[Intern](https://jobright.ai/jobs/info/6a8d8b2dcc0cf27068523b43?utm_campaign=1054&utm_source=git)** | Princeton, IN, United States | On Site | Aug 25 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Global Associate Recruiting Intern](https://jobright.ai/jobs/info/6a8dc470a5639a481032764f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 25 |
@@ -125,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Team Member Success Fall Internship](https://jobright.ai/jobs/info/6a8cb0bd25fc4e7ae3db9f5d?utm_campaign=1054&utm_source=git)** | Westminster, CO, United States | On Site | Aug 24 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of Minnesota - Minneapolis](https://jobright.ai/jobs/info/6a8ce518d34f700f87fd314b?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 24 |
 | **[We Energies](https://www.we-energies.com)** | **[Intern - HR Benefits](https://jobright.ai/jobs/info/6a8dc630581f2d7bfdfe8f82?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Aug 24 |
-| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[HR Projects Intern](https://jobright.ai/jobs/info/6a8db6a847679c68bf5e4139?utm_campaign=1054&utm_source=git)** | Allentown, PA, United States | Hybrid | Aug 24 |
+| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[HR Projects Intern](https://jobright.ai/jobs/info/6a8db545a5639a4810326fa6?utm_campaign=1054&utm_source=git)** | Allentown, PA, United States | Hybrid | Aug 24 |
 | **[Johnson & Johnson](https://www.jnj.com)** | **[Sustainability Engagement Coop](https://jobright.ai/jobs/info/6a8daf88cc0cf270685247ed?utm_campaign=1054&utm_source=git)** | New Brunswick, NJ, United States | Hybrid | Aug 24 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a8ccff5581f2d7bfdfe5e32?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a8ccff41d96e6541c8c31d1?utm_campaign=1054&utm_source=git)** | Texas City, TX, United States | On Site | Aug 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hospitaliti](https://www.hospitaliti.io)** | **[F&B Internship, California USA](https://jobright.ai/jobs/info/6a8c9283cde3717f9e9bdf89?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Aug 24 |
 | **[United Imaging - North America](https://www.linkedin.com/company/35672836)** | **[HR Intern](https://jobright.ai/jobs/info/6a7ae6d59ee17f276dbf4516?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Aug 24 |
 | **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a70b215e2b7476e7b20a49c?utm_campaign=1054&utm_source=git)** | Jonesboro, AR, United States | On Site | Aug 24 |
-| **[Episcopal SeniorLife Communities](https://episcopalseniorlife.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a4649adc2d11a6a4666d7d8?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
