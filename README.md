@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rozana](https://www.rozana.in)** | **[Intern- Talent Acquisition](https://jobright.ai/jobs/info/6a8e8a594b1bf45646962fd1?utm_campaign=1054&utm_source=git)** | Delhi, Michigan, United States | On Site | Aug 25 |
 | **[D.C. United](http://dcunited.com)** | **[Internship- Talent Acquisition Intern (Fall 2026)](https://jobright.ai/jobs/info/6a8e46e6ef981311b92fbcd1?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 25 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8e2e0e47679c68bf5e6f12?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 25 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 25 |
-| ↳ | **[Seasonal HR Intern - Englewood](https://jobright.ai/jobs/info/6a8c7c71d34f700f87fd0dbd?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 25 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8cc3d7cde3717f9e9bf251?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 25 |
 | ↳ | **[Seasonal HR Intern - Monument/Colorado Springs](https://jobright.ai/jobs/info/6a8cd69ecde3717f9e9bf708?utm_campaign=1054&utm_source=git)** | Monument, Colorado, United States | On Site | Aug 25 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8cc3d7cde3717f9e9bf251?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 25 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7224fcee751e0c7934712e?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 25 |
+| ↳ | **[Seasonal HR Intern - Englewood](https://jobright.ai/jobs/info/6a8c7c71d34f700f87fd0dbd?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 25 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8e2e0e47679c68bf5e6f12?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 25 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 25 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a8e0c0b581f2d7bfdfeac60?utm_campaign=1054&utm_source=git)** | Concord, CA, United States | On Site | Aug 25 |
 | **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a69166c36d36c1ff2998170?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Aug 25 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Community Relations](https://jobright.ai/jobs/info/6a8dfdd825fc4e7ae3dbf0f7?utm_campaign=1054&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Community Relations](https://jobright.ai/jobs/info/6a8e086f581f2d7bfdfeab60?utm_campaign=1054&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
 | **[Tourneau|Bucherer](http://www.tourneau.com)** | **[Human Resources Administration Intern - Part Time](https://jobright.ai/jobs/info/6a8e16f5d34f700f87fd7d9c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | ↳ | **[Talent Acquisition Intern - Part Time](https://jobright.ai/jobs/info/6a8e16f225fc4e7ae3dbfa6e?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Pension Outsourcing Internship - (Winter, Summer or Fall 2027) – Toronto](https://jobright.ai/jobs/info/6a8e2e25581f2d7bfdfeb4cc?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raymond James](https://www.raymondjames.com)** | **[2027 Clark Capital Mentoring/Internship Program](https://jobright.ai/jobs/info/6a8c9d4f1d96e6541c8c1eec?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 24 |
 | **[Hospitaliti](https://www.hospitaliti.io)** | **[F&B Internship, California USA](https://jobright.ai/jobs/info/6a8c9283cde3717f9e9bdf89?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Aug 24 |
 | **[United Imaging - North America](https://www.linkedin.com/company/35672836)** | **[HR Intern](https://jobright.ai/jobs/info/6a7ae6d59ee17f276dbf4516?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Aug 24 |
-| **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a70b215e2b7476e7b20a49c?utm_campaign=1054&utm_source=git)** | Jonesboro, AR, United States | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
