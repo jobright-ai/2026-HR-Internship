@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WOW Brand](http://www.wowpayments.com)** | **[Podcast Talent Coordinator Booking & Social Media Intern](https://jobright.ai/jobs/info/6a8f35fe3ac3a34f92d801db?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 26 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op/Intern](https://jobright.ai/jobs/info/6a8f2dc5309e5f224870ac37?utm_campaign=1054&utm_source=git)** | Tukwila, WA, United States | On Site | Aug 26 |
 | **[The Familie](https://thefamilie.com)** | **[NIL Basketball Intern](https://jobright.ai/jobs/info/6a8f21e5f841e649a7190e1d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 26 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[Québec – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad –  Winter 2027, Summer 2027 & Fall 2027 Start](https://jobright.ai/jobs/info/6a8f20b43ac3a34f92d7fc36?utm_campaign=1054&utm_source=git)** | Joliette, QC, Canada | On Site | Aug 26 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a8f1766382b237ac80c43c3?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 26 |
@@ -79,9 +81,9 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern RSW Fort Myers Airport](https://jobright.ai/jobs/info/6a8eef96309e5f224870962c?utm_campaign=1054&utm_source=git)** | Fort Myers, FL, United States | On Site | Aug 26 |
 | **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7224fcee751e0c7934712e?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 26 |
 | ↳ | **[Seasonal HR Intern - Englewood](https://jobright.ai/jobs/info/6a8c7c71d34f700f87fd0dbd?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 26 |
-| ↳ | **[Seasonal HR Intern - Monument/Colorado Springs](https://jobright.ai/jobs/info/6a8cd69ecde3717f9e9bf708?utm_campaign=1054&utm_source=git)** | Monument, Colorado, United States | On Site | Aug 26 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 26 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8cc3d7cde3717f9e9bf251?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 26 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 26 |
+| ↳ | **[Seasonal HR Intern - Monument/Colorado Springs](https://jobright.ai/jobs/info/6a8cd69ecde3717f9e9bf708?utm_campaign=1054&utm_source=git)** | Monument, Colorado, United States | On Site | Aug 26 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8e2e0e47679c68bf5e6f12?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 26 |
 | **[CALSTART](http://www.calstart.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a721a6ee2b7476e7b211536?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Amcor](http://www.amcor.com)** | **[Molding Human Resources Intern](https://jobright.ai/jobs/info/6a6cb88857120971bf3acb4b?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Aug 26 |
@@ -100,11 +102,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Game Day Intern](https://jobright.ai/jobs/info/6a8ea8404b1bf456469632a8?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | On Site | Aug 26 |
 | ↳ | **[Part-Time Game Day Intern](https://jobright.ai/jobs/info/6a8ea82e2808f771d528898c?utm_campaign=1054&utm_source=git)** | Lexington, KY, United States | On Site | Aug 26 |
 | **[Rozana](https://www.rozana.in)** | **[Intern- Talent Acquisition](https://jobright.ai/jobs/info/6a8e8a594b1bf45646962fd1?utm_campaign=1054&utm_source=git)** | Delhi, Michigan, United States | On Site | Aug 25 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Human Resources Generalist](https://jobright.ai/jobs/info/6a8ef068a10ee661e24d587b?utm_campaign=1054&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Human Resources Generalist](https://jobright.ai/jobs/info/6a8eed19d7c91d0cf446c90e?utm_campaign=1054&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
 | **[D.C. United](http://dcunited.com)** | **[Internship- Talent Acquisition Intern (Fall 2026)](https://jobright.ai/jobs/info/6a8e46e6ef981311b92fbcd1?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 25 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a8e0c0b581f2d7bfdfeac60?utm_campaign=1054&utm_source=git)** | Concord, CA, United States | On Site | Aug 25 |
 | **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a69166c36d36c1ff2998170?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Aug 25 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Community Relations](https://jobright.ai/jobs/info/6a8e086f581f2d7bfdfeab60?utm_campaign=1054&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Community Relations](https://jobright.ai/jobs/info/6a8dfdd825fc4e7ae3dbf0f7?utm_campaign=1054&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
 | **[Tourneau|Bucherer](http://www.tourneau.com)** | **[Human Resources Administration Intern - Part Time](https://jobright.ai/jobs/info/6a8e16f5d34f700f87fd7d9c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | ↳ | **[Talent Acquisition Intern - Part Time](https://jobright.ai/jobs/info/6a8e16f225fc4e7ae3dbfa6e?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Pension Outsourcing Internship - (Winter, Summer or Fall 2027) – Toronto](https://jobright.ai/jobs/info/6a8e2e25581f2d7bfdfeb4cc?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 25 |
@@ -127,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 25 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Aug 25 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8c517acde3717f9e9bc559?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 25 |
-| **[ECI](https://eci-rx.com)** | **[Talent Sourcing Intern #0596](https://jobright.ai/jobs/info/6a8daddd581f2d7bfdfe850d?utm_campaign=1054&utm_source=git)** | Marlborough, MA, United States | Remote | Aug 25 |
+| **[ECI](https://eci-rx.com)** | **[Talent Sourcing Intern #0596](https://jobright.ai/jobs/info/6a8dacbf47679c68bf5e3da6?utm_campaign=1054&utm_source=git)** | Marlborough, MA, United States | Remote | Aug 25 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[2027 Summer Internship](https://jobright.ai/jobs/info/6a725b9271acd469eeda7aa5?utm_campaign=1054&utm_source=git)** | Taylor, TX, United States | On Site | Aug 25 |
 | **[Amcor](http://www.amcor.com)** | **[Intern](https://jobright.ai/jobs/info/6a8d8b2dcc0cf27068523b43?utm_campaign=1054&utm_source=git)** | Princeton, IN, United States | On Site | Aug 25 |
 | **[Current](https://current.co)** | **[HR Intern](https://jobright.ai/jobs/info/6a711c8b02d93145bf88e584?utm_campaign=1054&utm_source=git)** | Fayetteville, AR, United States | On Site | Aug 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DESRI](https://www.desri.com)** | **[People/Business Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8caea3581f2d7bfdfe531d?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO, United States | On Site | Aug 25 |
 | **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program – Summer 2027](https://jobright.ai/jobs/info/6a709fbb357dfc6ff2b39dcf?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Aug 25 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Onboarding Experience & AI Innovation Internship](https://jobright.ai/jobs/info/6a8d471f581f2d7bfdfe6f6e?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Aug 25 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/6a2a5c4dd3ec8317fe143590?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Aug 24 |
-| **[United Way of Greater Knoxville](https://uwgk.org)** | **[Skills-Based Volunteer Engagement Intern](https://jobright.ai/jobs/info/6a8e086025fc4e7ae3dbf648?utm_campaign=1054&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
