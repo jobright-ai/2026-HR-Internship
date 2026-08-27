@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Aug 27 |
+| **[Newegg](https://www.newegg.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a7832ff4817aa430704b6bd?utm_campaign=1054&utm_source=git)** | Diamond Bar, CA, United States | On Site | Aug 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://jobright.ai/jobs/info/6a8ff6527c32860d14cf73d7?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Aug 27 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2027 People & Culture (HR) Summer Intern](https://jobright.ai/jobs/info/6a8ffc487c32860d14cf7531?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Aug 27 |
 | **[JD.COM](http://corporate.jd.com)** | **[JD Young Human Resources Internship](https://jobright.ai/jobs/info/6a7e51500cd4a0703257f3a7?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 27 |
@@ -108,13 +110,12 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[Seasonal HR Intern - Englewood](https://jobright.ai/jobs/info/6a8c7c71d34f700f87fd0dbd?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 26 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8e2e0e47679c68bf5e6f12?utm_campaign=1054&utm_source=git)** | Commerce City, CO, United States | On Site | Aug 26 |
 | ↳ | **[Seasonal HR Intern - Monument/Colorado Springs](https://jobright.ai/jobs/info/6a8cd69ecde3717f9e9bf708?utm_campaign=1054&utm_source=git)** | Monument, Colorado, United States | On Site | Aug 26 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 26 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a8cc3d7cde3717f9e9bf251?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 26 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 26 |
 | **[CALSTART](http://www.calstart.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a721a6ee2b7476e7b211536?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Amcor](http://www.amcor.com)** | **[Molding Human Resources Intern](https://jobright.ai/jobs/info/6a6cb88857120971bf3acb4b?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Aug 26 |
 | **[Universal Alloy Corporation](https://universalalloy.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a8f1459a10ee661e24d6595?utm_campaign=1054&utm_source=git)** | Canton, GA, United States | On Site | Aug 26 |
 | **[Bel](https://www.groupe-bel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a574d06367e61670f5aef21?utm_campaign=1054&utm_source=git)** | Nampa, ID, United States | On Site | Aug 26 |
-| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Aug 26 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Human Resources Business Associate](https://jobright.ai/jobs/info/6a73055fe55c73319eb15434?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 26 |
 | **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4572a148d2f00f2a86d980?utm_campaign=1054&utm_source=git)** | New York City, NY, United States | Hybrid | Aug 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (GMPT) - 2026 Start](https://jobright.ai/jobs/info/6a8ead3e3ac3a34f92d7dde5?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Talent Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7b6bb13b399d106e4d63d5?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | **[Wella Company](https://www.wellacompany.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a8dc7d4d34f700f87fd5f84?utm_campaign=1054&utm_source=git)** | Calabasas, CA, United States | Hybrid | Aug 25 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 25 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
