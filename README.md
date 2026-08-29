@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916a27a2d3c9848b0e9?utm_campaign=1054&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920918a27a2d3c9848b0ec?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 29 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92091c8e59685453378c54?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916d18f75674827b284?utm_campaign=1054&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/6a92a6a4a27a2d3c9848bf20?utm_campaign=1054&utm_source=git)** | College Station, TX, United States | On Site | Aug 29 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Aug 29 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Human Resources Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a9268bbc12c90443efc9e1a?utm_campaign=1054&utm_source=git)** | Ypsilanti, MI, United States | On Site | Aug 28 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Human Resource- Paid Internship- Welfare and Self-Reliance](https://jobright.ai/jobs/info/6a9213cbd18f75674827b616?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 28 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92091c8e59685453378c54?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 28 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920918a27a2d3c9848b0ec?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 28 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916d18f75674827b284?utm_campaign=1054&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 28 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916a27a2d3c9848b0e9?utm_campaign=1054&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 28 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a9208fbd18f75674827b27f?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Aug 28 |
 | **[Rival Technologies](https://www.rivaltech.com/)** | **[HR Admin Internship - Part Time](https://jobright.ai/jobs/info/6a91fc7ad18f75674827b0ad?utm_campaign=1054&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Aug 28 |
 | **[Indiana Biosciences Research Institute (IBRI)](https://www.indianabiosciences.org)** | **[Human Resource Intern (2027)](https://jobright.ai/jobs/info/6a91d1a8a27a2d3c9848a408?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 28 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Mission US](https://missionunderwriters.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a90cafd2e254e06fb9f2ef2?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Delta Star, Inc.](https://deltastar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a91b9218e5968545337729d?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, United States | On Site | Aug 27 |
 | **[Athena](https://athenapsych.com)** | **[Talent Acquisition Intern (Unpaid)](https://jobright.ai/jobs/info/6a8e05a425fc4e7ae3dbf52f?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 27 |
-| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 27 |
+| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 27 |
 | **[Klue](http://klue.com)** | **[Program Management Associate, Intern](https://jobright.ai/jobs/info/6a90cd6ca198864866763336?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Aug 27 |
 | **[Haptica](http://www.haptica.io)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a905986d96ad228f1260b20?utm_campaign=1054&utm_source=git)** | Owings Mills, MD, United States | On Site | Aug 27 |
 | **[Textron](http://textron.com)** | **[2026 Fall Human Resources Compliance Intern](https://jobright.ai/jobs/info/6a7b958eecfd29770753a1b8?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Aug 27 |
