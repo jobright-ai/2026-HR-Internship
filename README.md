@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Bilingual Change Management Intern- (9 Month Contract)- EN](https://jobright.ai/jobs/info/6a7029d4cd3bac13d3709b8d?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 29 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92b8f08e59685453379bdf?utm_campaign=1054&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 29 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916d18f75674827b284?utm_campaign=1054&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920918a27a2d3c9848b0ec?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 29 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916a27a2d3c9848b0e9?utm_campaign=1054&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916a27a2d3c9848b0e9?utm_campaign=1054&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92091c8e59685453378c54?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916d18f75674827b284?utm_campaign=1054&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920918a27a2d3c9848b0ec?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 29 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/6a92a6a4a27a2d3c9848bf20?utm_campaign=1054&utm_source=git)** | College Station, TX, United States | On Site | Aug 29 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Aug 29 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Human Resources Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a9268bbc12c90443efc9e1a?utm_campaign=1054&utm_source=git)** | Ypsilanti, MI, United States | On Site | Aug 28 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Monteith Construction Corp.](https://www.monteithco.com)** | **[People Department Intern](https://jobright.ai/jobs/info/6a9186a03603630099192deb?utm_campaign=1054&utm_source=git)** | Wilmington, NC, United States | On Site | Aug 28 |
 | **[iA](https://iarx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9181cad18f756748278613?utm_campaign=1054&utm_source=git)** | Johnson City, NY, United States | On Site | Aug 28 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a5c02c463a8f619507cc713?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Aug 28 |
-| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Aug 28 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Aug 28 |
+| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Aug 28 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Aug 28 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Corporate Safety and Human Resources Intern - Fall 2026](https://jobright.ai/jobs/info/6a57f6869f1f56462cf67c21?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Aug 28 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern – Talent Acquisition, Campus Recruiting](https://jobright.ai/jobs/info/6a91bf15c12c90443efc7fcc?utm_campaign=1054&utm_source=git)** | Frisco, TX, United States | Hybrid | Aug 28 |
 | **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Fall 2026](https://jobright.ai/jobs/info/6a66c3055c7e2d715ebb3fbc?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 28 |
@@ -141,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027 Job Details / Mohawk Industries](https://jobright.ai/jobs/info/6a90a55d2e254e06fb9f22c0?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Aug 27 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - HR Benefits](https://jobright.ai/jobs/info/6a8df027581f2d7bfdfea084?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Aug 27 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Aug 27 |
-| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a908ad40bd89e205d24ae89?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | Hybrid | Aug 27 |
+| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a908a982e254e06fb9f17af?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | Hybrid | Aug 27 |
 | **[Restaurant Brands International](http://rbi.com/en)** | **[Curious About RBI’s Leadership Development Program? Let’s Chat Over Coffee!](https://jobright.ai/jobs/info/6a3940246484fb75f2b30518?utm_campaign=1054&utm_source=git)** | Corp - Miami Corporate Office, US | Remote | Aug 27 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9069f78ffa38557e6ccc29?utm_campaign=1054&utm_source=git)** | Mansfield, TX, United States | On Site | Aug 27 |
 | **[Kiewit](http://www.kiewit.com)** | **[Craft Recruiting - Intern](https://jobright.ai/jobs/info/6a906c4f8ffa38557e6ccd2a?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Winland Foods](https://winlandfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a7395181ce9647cdbca9063?utm_campaign=1054&utm_source=git)** | Oak Brook, IL, United States | Hybrid | Aug 27 |
 | **[Lightera](http://www.lightera.com)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/6a906795d96ad228f1261028?utm_campaign=1054&utm_source=git)** | Norcross, GA, United States | On Site | Aug 27 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - Employee Recognition](https://jobright.ai/jobs/info/6a9035a3d96ad228f126000d?utm_campaign=1054&utm_source=git)** | Aiken, SC, United States | On Site | Aug 27 |
-| **[Industrial Metal Supply Co.](http://www.industrialmetalsupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a9063d10bd89e205d249f95?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
