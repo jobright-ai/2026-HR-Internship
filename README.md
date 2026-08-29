@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/6a92a6a4a27a2d3c9848bf20?utm_campaign=1054&utm_source=git)** | College Station, TX, United States | On Site | Aug 29 |
+| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Aug 29 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Human Resources Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a9268bbc12c90443efc9e1a?utm_campaign=1054&utm_source=git)** | Ypsilanti, MI, United States | On Site | Aug 28 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Human Resource- Paid Internship- Welfare and Self-Reliance](https://jobright.ai/jobs/info/6a9213cbd18f75674827b616?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 28 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92091c8e59685453378c54?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 28 |
@@ -138,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027 Job Details / Mohawk Industries](https://jobright.ai/jobs/info/6a90a55d2e254e06fb9f22c0?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Aug 27 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - HR Benefits](https://jobright.ai/jobs/info/6a8df027581f2d7bfdfea084?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Aug 27 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Aug 27 |
-| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a908a982e254e06fb9f17af?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | Hybrid | Aug 27 |
+| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a908ad40bd89e205d24ae89?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | Hybrid | Aug 27 |
 | **[Restaurant Brands International](http://rbi.com/en)** | **[Curious About RBI’s Leadership Development Program? Let’s Chat Over Coffee!](https://jobright.ai/jobs/info/6a3940246484fb75f2b30518?utm_campaign=1054&utm_source=git)** | Corp - Miami Corporate Office, US | Remote | Aug 27 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9069f78ffa38557e6ccc29?utm_campaign=1054&utm_source=git)** | Mansfield, TX, United States | On Site | Aug 27 |
 | **[Kiewit](http://www.kiewit.com)** | **[Craft Recruiting - Intern](https://jobright.ai/jobs/info/6a906c4f8ffa38557e6ccd2a?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - Employee Recognition](https://jobright.ai/jobs/info/6a9035a3d96ad228f126000d?utm_campaign=1054&utm_source=git)** | Aiken, SC, United States | On Site | Aug 27 |
 | **[Industrial Metal Supply Co.](http://www.industrialmetalsupply.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a9063d10bd89e205d249f95?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a73be7be55c73319eb19305?utm_campaign=1054&utm_source=git)** | Anderson, SC, United States | On Site | Aug 27 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, HR - Organizational Learning & Development (Fall 2026)](https://jobright.ai/jobs/info/6a57df163330ca6f993c1b46?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Aug 27 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a905ae60bd89e205d249cc0?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
