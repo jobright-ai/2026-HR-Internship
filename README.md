@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a93df21c12c90443efcce7d?utm_campaign=1054&utm_source=git)** | Ypsilanti, MI, United States | On Site | Aug 30 |
+| **[Textron Aviation](http://txtav.com)** | **[2026 Fall Human Resources Compliance Intern](https://jobright.ai/jobs/info/6a7b79c2ecf5194164fbe490?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Aug 30 |
 | **[SLB](https://www.slb.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a933b923603630099198211?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Aug 29 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Student Intern - Admissions Student Recruiter](https://jobright.ai/jobs/info/6a9320c0a27a2d3c9848d8ee?utm_campaign=1054&utm_source=git)** | Lubbock, TX, United States | On Site | Aug 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern / Long Island](https://jobright.ai/jobs/info/6a93129cc12c90443efcb7b1?utm_campaign=1054&utm_source=git)** | Ronkonkoma, NY, United States | On Site | Aug 29 |
@@ -64,6 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a930e169864261ccd2a20b3?utm_campaign=1054&utm_source=git)** | Statesboro, GA, United States | On Site | Aug 29 |
 | ↳ | **[Fall 2026 Management Trainee Intern- Montpelier, VT](https://jobright.ai/jobs/info/6a22d9f7dedf78312c7aaf72?utm_campaign=1054&utm_source=git)** | Barre, VT, United States | On Site | Aug 29 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a930a08360363009919779d?utm_campaign=1054&utm_source=git)** | Bluffton, SC, United States | On Site | Aug 29 |
+| ↳ | **[Fall 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/6a77699aa26ccc369f8375d7?utm_campaign=1054&utm_source=git)** | Burlington, VT, United States | On Site | Aug 29 |
+| ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a766247b17cba569035e16d?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Aug 29 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Human Resources Internship - Early Careers](https://jobright.ai/jobs/info/6a76fce6b17cba569035fa81?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 29 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6a8c4c382f736c304f2a4d22?utm_campaign=1054&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern / Danbury, CT](https://jobright.ai/jobs/info/6a92f5bea27a2d3c9848c7ec?utm_campaign=1054&utm_source=git)** | Danbury, CT, United States | On Site | Aug 29 |
@@ -75,9 +79,9 @@ For a complete list, click the following sortable link below:
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Bilingual Change Management Intern- (9 Month Contract)- EN](https://jobright.ai/jobs/info/6a7029d4cd3bac13d3709b8d?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 29 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92b8f08e59685453379bdf?utm_campaign=1054&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 29 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920918a27a2d3c9848b0ec?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 29 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916d18f75674827b284?utm_campaign=1054&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92091c8e59685453378c54?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916a27a2d3c9848b0e9?utm_campaign=1054&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916d18f75674827b284?utm_campaign=1054&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Aug 29 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Human Resources Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a9268bbc12c90443efc9e1a?utm_campaign=1054&utm_source=git)** | Ypsilanti, MI, United States | On Site | Aug 28 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a9208fbd18f75674827b27f?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Aug 28 |
@@ -128,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Mission US](https://missionunderwriters.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a90cafd2e254e06fb9f2ef2?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Delta Star, Inc.](https://deltastar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a91b9218e5968545337729d?utm_campaign=1054&utm_source=git)** | Lynchburg, VA, United States | On Site | Aug 27 |
 | **[Athena](https://athenapsych.com)** | **[Talent Acquisition Intern (Unpaid)](https://jobright.ai/jobs/info/6a8e05a425fc4e7ae3dbf52f?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 27 |
-| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 27 |
+| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 27 |
 | **[Klue](http://klue.com)** | **[Program Management Associate, Intern](https://jobright.ai/jobs/info/6a90cd6ca198864866763336?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Aug 27 |
 | **[Haptica](http://www.haptica.io)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a905986d96ad228f1260b20?utm_campaign=1054&utm_source=git)** | Owings Mills, MD, United States | On Site | Aug 27 |
 | **[Textron](http://textron.com)** | **[2026 Fall Human Resources Compliance Intern](https://jobright.ai/jobs/info/6a7b958eecfd29770753a1b8?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Aug 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Future HR Leaders - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a90a5ccd96ad228f126286b?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027 Job Details / Mohawk Industries](https://jobright.ai/jobs/info/6a90a55d2e254e06fb9f22c0?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Aug 27 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - HR Benefits](https://jobright.ai/jobs/info/6a8df027581f2d7bfdfea084?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Aug 27 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Aug 27 |
-| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a908a982e254e06fb9f17af?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | Hybrid | Aug 27 |
-| **[Restaurant Brands International](http://rbi.com/en)** | **[Curious About RBI’s Leadership Development Program? Let’s Chat Over Coffee!](https://jobright.ai/jobs/info/6a3940246484fb75f2b30518?utm_campaign=1054&utm_source=git)** | Corp - Miami Corporate Office, US | Remote | Aug 27 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9069f78ffa38557e6ccc29?utm_campaign=1054&utm_source=git)** | Mansfield, TX, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
