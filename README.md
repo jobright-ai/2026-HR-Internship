@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penguin Random House UK](https://www.penguinrandomhouse.com/)** | **[Human Resources Intern (Bilingual English/Spanish)](https://jobright.ai/jobs/info/6a95c31ccabc9f6703e19b00?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Aug 31 |
+| **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/6a57fe123330ca6f993c2937?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 31 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a95be4ec8763a3a87ffbc12?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Aug 31 |
 | **[ATI Worksite Solutions](https://www.atiworksitesolutions.com/)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6a78c63ca26ccc369f8390de?utm_campaign=1054&utm_source=git)** | Greater Chicago Area, United States | On Site | Aug 31 |
-| **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/6a57fe123330ca6f993c2937?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Aug 31 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a84a8f7e12474455273bb9a?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 31 |
 | **[Arvato](https://arvato.us)** | **[Human Resources Intern (Bilingual English/Spanish)](https://jobright.ai/jobs/info/6a95bcf6cabc9f6703e1984d?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Aug 31 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[HR Intern - Operations](https://jobright.ai/jobs/info/6a95bc869fcec5442372ebfe?utm_campaign=1054&utm_source=git)** | McConnellsburg, PA, United States | On Site | Aug 31 |
@@ -69,8 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Pepco Holdings](http://www.pepcoholdings.com)** | **[2027 Summer Internship - Human Resources (Various Exelon Locations)](https://jobright.ai/jobs/info/6a95ba3b3843db0159906cb2?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 31 |
 | **[Trinity River Authority of Texas](https://www.trinityra.org/)** | **[Intern III HR - Seasonal](https://jobright.ai/jobs/info/6a95b990c8763a3a87ffba53?utm_campaign=1054&utm_source=git)** | Arlington, TX, United States | On Site | Aug 31 |
 | **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: Talent Acquisition Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957f934d5932306d6acc84?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Aug 31 |
-| ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957df7f974437994c31aae?utm_campaign=1054&utm_source=git)** | Cambridge, ON, Canada | On Site | Aug 31 |
-| **[Penguin Random House UK](https://www.penguinrandomhouse.com/)** | **[Human Resources Intern (Bilingual English/Spanish)](https://jobright.ai/jobs/info/6a95b73d3843db0159906bc0?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Aug 31 |
+| ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957f9001d0e62174586c39?utm_campaign=1054&utm_source=git)** | Cambridge, ON, Canada | On Site | Aug 31 |
 | **[Ben E. Keith Company](http://www.benekeith.com)** | **[ASPIRE Corporate Human Resources Intern](https://jobright.ai/jobs/info/6a95a3073843db015990626f?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 31 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Human Resources - Fall 2026](https://jobright.ai/jobs/info/6a95a908cabc9f6703e18f7a?utm_campaign=1054&utm_source=git)** | Cedar Park, TX, United States | On Site | Aug 31 |
 | **[Midea America](https://www.midea.com/us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a95b3db9fcec5442372e908?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | Aug 31 |
@@ -98,15 +98,16 @@ For a complete list, click the following sortable link below:
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a95a1b84c22023a07934bdf?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Aug 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Business Solutions) - 2027 Summer](https://jobright.ai/jobs/info/6a71a42bcb96192a3684999f?utm_campaign=1054&utm_source=git)** | New York | On Site | Aug 30 |
 | **[RTX](http://rtx.com/)** | **[Human Resources Intern /Leadership Development Program (June 2027) (Hybrid)](https://jobright.ai/jobs/info/6a95917fc8763a3a87ffaa4a?utm_campaign=1054&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 30 |
-| **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[HR Intern - Office](https://jobright.ai/jobs/info/6a95b9a94c22023a079355d8?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Aug 30 |
-| ↳ | **[HR Intern - Operations](https://jobright.ai/jobs/info/6a95b9b1c8763a3a87ffba62?utm_campaign=1054&utm_source=git)** | McConnellsburg, PA, United States | On Site | Aug 30 |
+| **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[HR Intern - Operations](https://jobright.ai/jobs/info/6a95b9b1c8763a3a87ffba62?utm_campaign=1054&utm_source=git)** | McConnellsburg, PA, United States | On Site | Aug 30 |
+| ↳ | **[HR Intern - Office](https://jobright.ai/jobs/info/6a95b9a94c22023a079355d8?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Aug 30 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[HR Intern - Operations](https://jobright.ai/jobs/info/6a9594e63843db0159905e05?utm_campaign=1054&utm_source=git)** | McConnellsburg, PA, United States | On Site | Aug 30 |
-| ↳ | **[HR Intern - Office](https://jobright.ai/jobs/info/6a9594e0c8763a3a87ffabfe?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Aug 30 |
 | ↳ | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9594e3cabc9f6703e18922?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Aug 30 |
+| ↳ | **[HR Intern - Office](https://jobright.ai/jobs/info/6a9594e0c8763a3a87ffabfe?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Aug 30 |
 | **[Newrez](https://www.newrez.com)** | **[2027 Summer Internship – HR Benefits](https://jobright.ai/jobs/info/6a95ac4cf28891320e85d155?utm_campaign=1054&utm_source=git)** | Coppell, TX, United States | On Site | Aug 30 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6a95b9463843db0159906c61?utm_campaign=1054&utm_source=git)** | Northfield, IL, United States | Remote | Aug 30 |
-| **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - HR](https://jobright.ai/jobs/info/6a95892c3843db01599058d0?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
-| ↳ | **[Summer Intern 2027 - HR](https://jobright.ai/jobs/info/6a9589283843db01599058cd?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
+| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - HR](https://jobright.ai/jobs/info/6a9589283843db01599058cd?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
+| ↳ | **[Winter Co-op 2027 - HR](https://jobright.ai/jobs/info/6a95892c3843db01599058d0?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a95c3f8c8763a3a87ffbea7?utm_campaign=1054&utm_source=git)** | Fairfield, CT, United States | On Site | Aug 30 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Human Resource Intern (Summer Internship 6/7/2027 - 8/13/2027)](https://jobright.ai/jobs/info/6a959abb3843db0159906027?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 30 |
 | **[IB Flash](https://www.ibflash.com/)** | **[Talent Acquisition & Campus Growth - Fall Intern](https://jobright.ai/jobs/info/6a94bca4d18f75674827fb3f?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a57a9eef7517b519ad5bb0c?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Aug 30 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6a8c4c382f736c304f2a4d22?utm_campaign=1054&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 30 |
 | **[Stiles Machinery](http://www.stilesmachinery.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5ad8363ac7627fe9005832?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Aug 30 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e857d27bf767ea68f741a?utm_campaign=1054&utm_source=git)** | USA LEWISBURG OH TFD | On Site | Aug 30 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a62255ed5caab4af8bac250?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Aug 30 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Aug 30 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a62255ed5caab4af8bac250?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Aug 30 |
 | **[Element Resources](https://elementrellc.com)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a942ebfa27a2d3c9848ef51?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 30 |
 | **[Stryten Energy](https://www.stryten.com)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a940a74c12c90443efcd0a9?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 30 |
 | **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a71dfac71acd469eeda4855?utm_campaign=1054&utm_source=git)** | Princeton, NJ, United States | On Site | Aug 30 |
@@ -142,9 +143,9 @@ For a complete list, click the following sortable link below:
 | **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2a5bab495d985b99428a4f?utm_campaign=1054&utm_source=git)** | Lehi, UT, United States | On Site | Aug 29 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Bilingual Change Management Intern- (9 Month Contract)- EN](https://jobright.ai/jobs/info/6a7029d4cd3bac13d3709b8d?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 29 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92b8f08e59685453379bdf?utm_campaign=1054&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 29 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916d18f75674827b284?utm_campaign=1054&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92091c8e59685453378c54?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916d18f75674827b284?utm_campaign=1054&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a920916a27a2d3c9848b0e9?utm_campaign=1054&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92091c8e59685453378c54?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Aug 29 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Human Resources Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a9268bbc12c90443efc9e1a?utm_campaign=1054&utm_source=git)** | Ypsilanti, MI, United States | On Site | Aug 28 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a9208fbd18f75674827b27f?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Aug 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Center HR Intern / Maumelle, AR / Summer 2027](https://jobright.ai/jobs/info/6a91c3e1d18f75674827a109?utm_campaign=1054&utm_source=git)** | Maumelle, AR, United States | On Site | Aug 28 |
 | ↳ | **[Distribution Center HR Intern / Macon, GA / Summer 2027](https://jobright.ai/jobs/info/6a91bee1a27a2d3c98489db2?utm_campaign=1054&utm_source=git)** | Macon, GA, United States | On Site | Aug 28 |
 | ↳ | **[Distribution Center HR Intern / Navarre, OH / Summer 2027](https://jobright.ai/jobs/info/6a91beb6a27a2d3c98489d9b?utm_campaign=1054&utm_source=git)** | Navarre, OH, United States | On Site | Aug 28 |
-| ↳ | **[Distribution Center HR Intern / Pendleton, IN / Summer 2027](https://jobright.ai/jobs/info/6a91be7da27a2d3c98489d77?utm_campaign=1054&utm_source=git)** | Pendleton, Indiana, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
