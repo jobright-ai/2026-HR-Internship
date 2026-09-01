@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Generac](https://www.generac.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a9615bcc8763a3a87ffe398?utm_campaign=1054&utm_source=git)** | Whitewater, WI, United States | On Site | Sep 01 |
+| **[Textron](http://textron.com)** | **[2027 Internship - Human Resources Associate (Independence, KS)](https://jobright.ai/jobs/info/6a96642f26613756de6d7bb1?utm_campaign=1054&utm_source=git)** | Independence, KS, United States | On Site | Sep 01 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2027 Summer Internship - Human Resources](https://jobright.ai/jobs/info/6a968cf226613756de6d8943?utm_campaign=1054&utm_source=git)** | Peoria, IL, United States | On Site | Sep 01 |
 | **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[UNPAID INTERN - Waukesha Day Report Center](https://jobright.ai/jobs/info/6a968a1fb22f636c814131c7?utm_campaign=1054&utm_source=git)** | Waukesha, WI, United States | On Site | Sep 01 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a62255ed5caab4af8bac250?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Sep 01 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Sep 01 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Sep 01 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a62255ed5caab4af8bac250?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Sep 01 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e857d27bf767ea68f741a?utm_campaign=1054&utm_source=git)** | USA LEWISBURG OH TFD | On Site | Sep 01 |
 | ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6a9638809fcec54423731f78?utm_campaign=1054&utm_source=git)** | Richland, MI, United States | On Site | Sep 01 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Talent Development Intern - IE](https://jobright.ai/jobs/info/6a967e38d13b4819f39dc299?utm_campaign=1054&utm_source=git)** | Harrisonburg, VA, United States | On Site | Sep 01 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations)](https://jobright.ai/jobs/info/6a96643326613756de6d7bc5?utm_campaign=1054&utm_source=git)** | Austin, MN, United States | Remote | Aug 31 |
 | **[Textron](http://textron.com)** | **[2027 Internship - Human Resources Associate](https://jobright.ai/jobs/info/6a966432b22f636c81412541?utm_campaign=1054&utm_source=git)** | Wichita, KS, United States | On Site | Aug 31 |
 | ↳ | **[2027 Intern - Human Resources - Hunt Valley, MD](https://jobright.ai/jobs/info/6a966431455eaf6a08c17244?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD, United States | On Site | Aug 31 |
-| ↳ | **[2027 Internship - Human Resources Associate (Independence, KS)](https://jobright.ai/jobs/info/6a96642f26613756de6d7bb1?utm_campaign=1054&utm_source=git)** | Independence, KS, United States | On Site | Aug 31 |
 | ↳ | **[2027 Intern - Human Resources - New Orleans, LA](https://jobright.ai/jobs/info/6a96642e455eaf6a08c17228?utm_campaign=1054&utm_source=git)** | New Orleans, LA, United States | On Site | Aug 31 |
 | ↳ | **[2027 Intern - Human Resources - Wilmington, MA](https://jobright.ai/jobs/info/6a96642ed13b4819f39db8c4?utm_campaign=1054&utm_source=git)** | Wilmington, MA, United States | On Site | Aug 31 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Corporate Supply Chain Intern - Summer 2027 Campus Recruiting (Multiple Locations)](https://jobright.ai/jobs/info/6a966429d13b4819f39db8a8?utm_campaign=1054&utm_source=git)** | Austin, MN, United States | On Site | Aug 31 |
@@ -139,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[JLG Industries](http://www.jlg.com/en)** | **[HR Intern - Office](https://jobright.ai/jobs/info/6a95baf5cabc9f6703e19761?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Aug 31 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6a95b9c39fcec5442372eb04?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Aug 31 |
 | **[Pepco Holdings](http://www.pepcoholdings.com)** | **[2027 Summer Internship - Human Resources (Various Exelon Locations)](https://jobright.ai/jobs/info/6a95ba3b3843db0159906cb2?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 31 |
-| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: Talent Acquisition Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957e2d4d5932306d6acc13?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Aug 31 |
+| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: Talent Acquisition Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957f934d5932306d6acc84?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Aug 31 |
 | ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957df7f974437994c31aae?utm_campaign=1054&utm_source=git)** | Cambridge, ON, Canada | On Site | Aug 31 |
 | **[Ben E. Keith Company](http://www.benekeith.com)** | **[ASPIRE Corporate Human Resources Intern](https://jobright.ai/jobs/info/6a95a3073843db015990626f?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 31 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Human Resources - Fall 2026](https://jobright.ai/jobs/info/6a95a908cabc9f6703e18f7a?utm_campaign=1054&utm_source=git)** | Cedar Park, TX, United States | On Site | Aug 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ComEd](https://www.comed.com)** | **[2027 Summer Internship - Human Resources (Various Exelon Locations)](https://jobright.ai/jobs/info/6a95ab959fcec5442372e442?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 31 |
 | **[Centene Corporation](http://centene.com)** | **[People Business Partner Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6a95a8d39fcec5442372e306?utm_campaign=1054&utm_source=git)** | Florida, United States | Remote | Aug 31 |
 | ↳ | **[People Business Partner Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6a959e933843db015990612d?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Aug 31 |
-| **[Charter Next Generation](https://cnginc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a8d6f132f736c304f2a9745?utm_campaign=1054&utm_source=git)** | Lexington, Ohio, United States | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
