@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2027 Summer Internship Program: Cyber Risk Management](https://jobright.ai/jobs/info/6a97289ff5337b2cf732059f?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Sep 01 |
+| ↳ | **[2027 Summer Internship Program: Crop Risk Management](https://jobright.ai/jobs/info/6a972866d13b4819f39df676?utm_campaign=1054&utm_source=git)** | Yakima, WA, United States | On Site | Sep 01 |
+| ↳ | **[2027 Summer Internship Program: Personal Insurance](https://jobright.ai/jobs/info/6a97285e455eaf6a08c1afda?utm_campaign=1054&utm_source=git)** | McMinnville, OR, United States | On Site | Sep 01 |
+| ↳ | **[2027 Summer Internship Program: Crop Risk Management](https://jobright.ai/jobs/info/6a972857d13b4819f39df66d?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Sep 01 |
+| **[NiSource](https://www.nisource.com/)** | **[Intern HR](https://jobright.ai/jobs/info/6a96f929e4e60e4b8da5b066?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Sep 01 |
+| **[Southern Star Central Gas Pipeline](http://sscgp.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6a9726d6455eaf6a08c1af56?utm_campaign=1054&utm_source=git)** | Owensboro, KY, United States | On Site | Sep 01 |
+| **[Lennox](http://www.lennox.com)** | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a9724bd455eaf6a08c1aec7?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Sep 01 |
 | **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Human Resources Co-op Student - Winter 2027](https://jobright.ai/jobs/info/6a9723a5455eaf6a08c1ae77?utm_campaign=1054&utm_source=git)** | Dieppe, NB, Canada | On Site | Sep 01 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Payroll Compliance Intern (Ontario - Spring 2027)](https://jobright.ai/jobs/info/6a9709d8246d697dcee03024?utm_campaign=1054&utm_source=git)** | Ontario, CA, United States | Hybrid | Sep 01 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a970427d13b4819f39de814?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 01 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a97086e246d697dcee02fa4?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 01 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/6a971e32455eaf6a08c1ac8a?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 01 |
 | **[Lennox](http://www.lennox.com)** | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a9719f5246d697dcee035f6?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Sep 01 |
 | **[Simmons Foods](https://simmonsfoods.com/)** | **[Summer 2027 Intern: Human Resources (Operations)](https://jobright.ai/jobs/info/6a971919d13b4819f39df118?utm_campaign=1054&utm_source=git)** | Gentry, AR, United States | On Site | Sep 01 |
@@ -91,14 +98,14 @@ For a complete list, click the following sortable link below:
 | **[TELUS](http://www.telus.com)** | **[Summer Internship - Defined Benefit Pension Administration](https://jobright.ai/jobs/info/6a96eea3d13b4819f39ddcd8?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 01 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2027 Summer Corporate Internship - Human Resources](https://jobright.ai/jobs/info/6a968cf226613756de6d8943?utm_campaign=1054&utm_source=git)** | Peoria, IL, United States | On Site | Sep 01 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Human Resources Workforce Development Coordinator Co-op](https://jobright.ai/jobs/info/6a96f5bfe4e60e4b8da5aeee?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 01 |
-| **[Travelers](https://www.travelers.com/)** | **[Human Resources Leadership Development Program Internship - Summer 2027](https://jobright.ai/jobs/info/6a96791269b865490a6323e9?utm_campaign=1054&utm_source=git)** | St. Paul, MN, United States | Hybrid | Sep 01 |
-| ↳ | **[Human Resources Leadership Development Program Internship - Summer 2027](https://jobright.ai/jobs/info/6a9678ebd13b4819f39dc07c?utm_campaign=1054&utm_source=git)** | Hartford, CT, United States | Hybrid | Sep 01 |
+| **[Travelers](https://www.travelers.com/)** | **[Human Resources Leadership Development Program Internship - Summer 2027](https://jobright.ai/jobs/info/6a9678ebd13b4819f39dc07c?utm_campaign=1054&utm_source=git)** | Hartford, CT, United States | Hybrid | Sep 01 |
+| ↳ | **[Human Resources Leadership Development Program Internship - Summer 2027](https://jobright.ai/jobs/info/6a96791269b865490a6323e9?utm_campaign=1054&utm_source=git)** | St. Paul, MN, United States | Hybrid | Sep 01 |
 | **[AIG](https://www.aig.com)** | **[2027 Early Careers: Summer Intern, Human Resources – United States, New York, NY](https://jobright.ai/jobs/info/6a96f35fb22f636c81414ab5?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 01 |
 | **[Keeley Companies](https://www.keeleycompanies.com/)** | **[Summer 2027 Human Resource Internship](https://jobright.ai/jobs/info/6a96f343b22f636c81414a9d?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 01 |
 | ↳ | **[Summer 2027 Talent Acquisition Internship](https://jobright.ai/jobs/info/6a96f324f5337b2cf731ed25?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 01 |
-| **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Sep 01 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a55cc5a2ce8bf79a13a1063?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI, United States | On Site | Sep 01 |
-| **[Lockton](https://www.lockton.com/offices/uk)** | **[South Internship - 2027](https://jobright.ai/jobs/info/6a9657219fcec544237324a8?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Sep 01 |
+| **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a55cc5a2ce8bf79a13a1063?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI, United States | On Site | Sep 01 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a25eb9e757ade085b6b25e1?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Sep 01 |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[South Internship - 2027](https://jobright.ai/jobs/info/6a965757f28891320e86114f?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Sep 01 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2027 Human Resources Summer Internship – Metro Detroit, MI](https://jobright.ai/jobs/info/6a96ee3ab22f636c81414922?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Sep 01 |
 | ↳ | **[2027 Human Resources Summer Internship - Toledo, OH](https://jobright.ai/jobs/info/6a96ee36455eaf6a08c195f3?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2027 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/6a96edb5b22f636c814148f1?utm_campaign=1054&utm_source=git)** | Muskegon, MI, United States | On Site | Sep 01 |
@@ -131,16 +138,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae87e4e60e4b8da59a7d?utm_campaign=1054&utm_source=git)** | Elverta, CA, United States | On Site | Sep 01 |
 | ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae87d13b4819f39dcac0?utm_campaign=1054&utm_source=git)** | Redding, CA, United States | On Site | Sep 01 |
 | ↳ | **[Fall 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/6a96ae86d13b4819f39dcabf?utm_campaign=1054&utm_source=git)** | Hialeah, FL, United States | On Site | Sep 01 |
-| ↳ | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a96ae76455eaf6a08c1843d?utm_campaign=1054&utm_source=git)** | Bluffton, SC, United States | On Site | Sep 01 |
 | ↳ | **[Spring 2027 Management Trainee Internship - College Station, TX](https://jobright.ai/jobs/info/6a96ae76f5337b2cf731da25?utm_campaign=1054&utm_source=git)** | College Station, TX, United States | On Site | Sep 01 |
+| ↳ | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a96ae76455eaf6a08c1843d?utm_campaign=1054&utm_source=git)** | Bluffton, SC, United States | On Site | Sep 01 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a96ae74d13b4819f39dcab8?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Sep 01 |
 | ↳ | **[Management Trainee Spring 2027 Internship](https://jobright.ai/jobs/info/6a96ae72b22f636c81413742?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA, United States | On Site | Sep 01 |
 | ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae72455eaf6a08c1843b?utm_campaign=1054&utm_source=git)** | Roseville, CA, United States | On Site | Sep 01 |
 | ↳ | **[Fall 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/6a96ae71f5337b2cf731da24?utm_campaign=1054&utm_source=git)** | Homestead, FL, United States | On Site | Sep 01 |
 | ↳ | **[Management Trainee Spring 2027 Internship](https://jobright.ai/jobs/info/6a96ae71e4e60e4b8da59a77?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Sep 01 |
 | ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae6ee4e60e4b8da59a76?utm_campaign=1054&utm_source=git)** | Tracy, CA, United States | On Site | Sep 01 |
-| ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae6df5337b2cf731da23?utm_campaign=1054&utm_source=git)** | Yuba City, CA, United States | On Site | Sep 01 |
 | ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae6d246d697dcee00f27?utm_campaign=1054&utm_source=git)** | Bakersfield, CA, United States | On Site | Sep 01 |
+| ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae6df5337b2cf731da23?utm_campaign=1054&utm_source=git)** | Yuba City, CA, United States | On Site | Sep 01 |
 | ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae6ab22f636c8141373e?utm_campaign=1054&utm_source=git)** | Sacramento, CA, United States | On Site | Sep 01 |
 | ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae5ef5337b2cf731da20?utm_campaign=1054&utm_source=git)** | Fresno, CA, United States | On Site | Sep 01 |
 | ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae5dd13b4819f39dcab0?utm_campaign=1054&utm_source=git)** | Modesto, CA, United States | On Site | Sep 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Human Resources Internship - Summer 2027](https://jobright.ai/jobs/info/6a79f951ab1385611f8fc8d6?utm_campaign=1054&utm_source=git)** | Middleton, WI, United States | On Site | Sep 01 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2027 Summer HR Intern - Jefferson City](https://jobright.ai/jobs/info/6a9667d669b865490a631d26?utm_campaign=1054&utm_source=git)** | Jefferson City, MO, United States | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2027 Internship - Human Resources Associate](https://jobright.ai/jobs/info/6a966432b22f636c81412541?utm_campaign=1054&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
-| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Talent Management Internship - Summer 2027](https://jobright.ai/jobs/info/6a79f9359ee17f276dbf0754?utm_campaign=1054&utm_source=git)** | Middleton, WI, United States | On Site | Sep 01 |
-| **[Generac](https://www.generac.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a9615bcc8763a3a87ffe398?utm_campaign=1054&utm_source=git)** | Whitewater, WI, United States | On Site | Sep 01 |
-| **[Textron](http://textron.com)** | **[2027 Internship - Human Resources Associate (Independence, KS)](https://jobright.ai/jobs/info/6a96642f26613756de6d7bb1?utm_campaign=1054&utm_source=git)** | Independence, KS, United States | On Site | Sep 01 |
-| **[All-Weather Seal of West Michigan](http://www.allweathersealinc.com)** | **[Human Resource - Intern](https://jobright.ai/jobs/info/6a96db13f5337b2cf731e389?utm_campaign=1054&utm_source=git)** | Lowell, Massachusetts, United States | On Site | Sep 01 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a9638809fcec54423731f78?utm_campaign=1054&utm_source=git)** | Richland, MI, United States | On Site | Sep 01 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e857d27bf767ea68f741a?utm_campaign=1054&utm_source=git)** | USA LEWISBURG OH TFD | On Site | Sep 01 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
