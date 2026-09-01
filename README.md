@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemex US](http://www.cemex.com/)** | **[Internship Summer 2027 Human Resources](https://jobright.ai/jobs/info/6a95ea27c8763a3a87ffd2bd?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Aug 31 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Casa Grande, AZ / Summer 2027](https://jobright.ai/jobs/info/6a95eb114c22023a07936e7a?utm_campaign=1054&utm_source=git)** | Casa Grande, AZ, United States | On Site | Aug 31 |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Talent & Culture Summer Intern](https://jobright.ai/jobs/info/6a95f3ccf28891320e85f473?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | Hybrid | Aug 31 |
 | **[The Berg Group](https://berggroup.us)** | **[Internship, Human Resources](https://jobright.ai/jobs/info/6a960475cabc9f6703e1baa6?utm_campaign=1054&utm_source=git)** | Chaska, MN, United States | On Site | Aug 31 |
 | ↳ | **[Internship, Safety](https://jobright.ai/jobs/info/6a960471c8763a3a87ffde5d?utm_campaign=1054&utm_source=git)** | Chaska, MN, United States | On Site | Aug 31 |
 | **[Kal Tire](https://www.kaltire.com/)** | **[Talent Acquisition Coordinator -  12 month Fixed Term Contract](https://jobright.ai/jobs/info/6a95fab99fcec54423730904?utm_campaign=1054&utm_source=git)** | Vernon, BC, Canada | On Site | Aug 31 |
@@ -116,28 +119,24 @@ For a complete list, click the following sortable link below:
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[HR Process Mapping Intern](https://jobright.ai/jobs/info/6a94fffcd18f75674827ff5b?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 30 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a95a1b84c22023a07934bdf?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Aug 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Business Solutions) - 2027 Summer](https://jobright.ai/jobs/info/6a71a42bcb96192a3684999f?utm_campaign=1054&utm_source=git)** | New York | On Site | Aug 30 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Casa Grande, AZ / Summer 2027](https://jobright.ai/jobs/info/6a95eb114c22023a07936e7a?utm_campaign=1054&utm_source=git)** | Casa Grande, AZ, United States | On Site | Aug 30 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[HR Intern - Operations](https://jobright.ai/jobs/info/6a95b9b1c8763a3a87ffba62?utm_campaign=1054&utm_source=git)** | McConnellsburg, PA, United States | On Site | Aug 30 |
 | ↳ | **[HR Intern - Office](https://jobright.ai/jobs/info/6a95b9a94c22023a079355d8?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Aug 30 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[HR Intern - Office](https://jobright.ai/jobs/info/6a9594e0c8763a3a87ffabfe?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Aug 30 |
-| ↳ | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9594e3cabc9f6703e18922?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Aug 30 |
+| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9594e3cabc9f6703e18922?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Aug 30 |
 | ↳ | **[HR Intern - Operations](https://jobright.ai/jobs/info/6a9594e63843db0159905e05?utm_campaign=1054&utm_source=git)** | McConnellsburg, PA, United States | On Site | Aug 30 |
+| ↳ | **[HR Intern - Office](https://jobright.ai/jobs/info/6a9594e0c8763a3a87ffabfe?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Aug 30 |
 | **[NiSource](https://www.nisource.com/)** | **[Intern People Analytics - Change Management](https://jobright.ai/jobs/info/6a95fac9cabc9f6703e1b573?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Aug 30 |
 | ↳ | **[Intern People Analytics](https://jobright.ai/jobs/info/6a95faccf28891320e85f64f?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Aug 30 |
-| **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - HR](https://jobright.ai/jobs/info/6a95892c3843db01599058d0?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
-| ↳ | **[Summer Intern 2027 - HR](https://jobright.ai/jobs/info/6a9589283843db01599058cd?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
+| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - HR](https://jobright.ai/jobs/info/6a9589283843db01599058cd?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
+| ↳ | **[Winter Co-op 2027 - HR](https://jobright.ai/jobs/info/6a95892c3843db01599058d0?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Hmong Inclusion Intern](https://jobright.ai/jobs/info/6a95e71ac8763a3a87ffd0bb?utm_campaign=1054&utm_source=git)** | La Crosse, WI, United States | On Site | Aug 30 |
-| **[Cemex US](http://www.cemex.com/)** | **[Internship Summer 2027 Human Resources](https://jobright.ai/jobs/info/6a95ea27c8763a3a87ffd2bd?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Aug 30 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Human Resource Intern (Summer Internship 6/7/2027 - 8/13/2027)](https://jobright.ai/jobs/info/6a959abb3843db0159906027?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Aug 30 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Talent & Culture Summer Intern](https://jobright.ai/jobs/info/6a95f3ccf28891320e85f473?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | Hybrid | Aug 30 |
-| **[IB Flash](https://www.ibflash.com/)** | **[Talent Acquisition & Campus Growth - Fall Intern](https://jobright.ai/jobs/info/6a94bca4d18f75674827fb3f?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a57a9eef7517b519ad5bb0c?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Aug 30 |
 | **[Mack Technologies](http://www.macktech.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9457883603630099199ab9?utm_campaign=1054&utm_source=git)** | Westford, MA, United States | On Site | Aug 30 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6a8c4c382f736c304f2a4d22?utm_campaign=1054&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 30 |
 | **[Stiles Machinery](http://www.stilesmachinery.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5ad8363ac7627fe9005832?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Aug 30 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Aug 30 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a62255ed5caab4af8bac250?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Aug 30 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a3d3ba0122f340d29cef9e2?utm_campaign=1054&utm_source=git)** | Lewisburg, OH, USA | On Site | Aug 30 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5e857d27bf767ea68f741a?utm_campaign=1054&utm_source=git)** | USA LEWISBURG OH TFD | On Site | Aug 30 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a62255ed5caab4af8bac250?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN, United States | On Site | Aug 30 |
 | **[Element Resources](https://elementrellc.com)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a942ebfa27a2d3c9848ef51?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 30 |
 | **[Stryten Energy](https://www.stryten.com)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a940a74c12c90443efcd0a9?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 30 |
 | **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a71dfac71acd469eeda4855?utm_campaign=1054&utm_source=git)** | Princeton, NJ, United States | On Site | Aug 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/6a77699aa26ccc369f8375d7?utm_campaign=1054&utm_source=git)** | Burlington, VT, United States | On Site | Aug 29 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a766247b17cba569035e16d?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Aug 29 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Human Resources Internship - Early Careers](https://jobright.ai/jobs/info/6a76fce6b17cba569035fa81?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 29 |
+| **[Walgreens](https://www.walgreens.com)** | **[Human Resources Intern, Compensation](https://jobright.ai/jobs/info/6a92f306a27a2d3c9848c6f8?utm_campaign=1054&utm_source=git)** | Deerfield, IL, United States | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
