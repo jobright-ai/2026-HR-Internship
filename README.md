@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6a982a6d83fc63335762fdf9?utm_campaign=1054&utm_source=git)** | Armonk, NY, United States | On Site | Sep 02 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Global Associate Recruiting Intern](https://jobright.ai/jobs/info/6a8dc470a5639a481032764f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 02 |
 | **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Health & Medical](https://jobright.ai/jobs/info/6a7b52dbbc05d77f2bdde416?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Sep 02 |
 | ↳ | **[Year Round Intern - Health & Medical Job Details / Union Pacific](https://jobright.ai/jobs/info/6a856fbde459fa3baa8626d0?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Sep 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[HR Rotational Program (HR2P): Intern Opportunities for Master & MBA Students, United States](https://jobright.ai/jobs/info/6a9730aeb22f636c81416527?utm_campaign=1054&utm_source=git)** | Redmond, WA, United States | On Site | Sep 02 |
-| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a7c4b5d7c52154b59f59ab8?utm_campaign=1054&utm_source=git)** | Royal Oak, MI, United States | On Site | Sep 02 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6919caceb2691dfb20766a?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Sep 02 |
+| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a95a1b84c22023a07934bdf?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Sep 02 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a7b72b43b399d106e4d67a2?utm_campaign=1054&utm_source=git)** | Royal Oak, MI, United States | On Site | Sep 02 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a273fb72056260dd6e8632a?utm_campaign=1054&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Sep 02 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5600c710c4d945d86468d5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Sep 02 |
 | ↳ | **[Human Resources Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a46283e3dbab558e29a4be5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Sep 02 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a5600c710c4d945d86468d5?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Sep 02 |
 | **[Textron Aviation](http://txtav.com)** | **[2027 Human Resources Intern](https://jobright.ai/jobs/info/6a97ec8a72b96b1c436f1b3e?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Sep 02 |
 | ↳ | **[2026 Fall Human Resources Compliance Intern](https://jobright.ai/jobs/info/6a97ec7fc8ed473c5c761963?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Sep 02 |
 | ↳ | **[2027 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/6a97ec15d356304a026886fd?utm_campaign=1054&utm_source=git)** | Muskegon, MI, United States | On Site | Sep 02 |
@@ -76,10 +78,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern - Human Resources – Fort Worth, TX](https://jobright.ai/jobs/info/6a97ead469d7730385d6cdf7?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 02 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern – Field Human Resources (Northlake, IL)](https://jobright.ai/jobs/info/6a971082455eaf6a08c1a70e?utm_campaign=1054&utm_source=git)** | Northlake, Illinois, United States | On Site | Sep 02 |
 | ↳ | **[Summer 2027 Intern – Field Human Resources (Louisville, KY)](https://jobright.ai/jobs/info/6a971089d13b4819f39deddd?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
-| **[Hana Technologies Inc.](https://www.hanaoh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a97e29fc8ed473c5c76179a?utm_campaign=1054&utm_source=git)** | Solon, OH, United States | On Site | Sep 02 |
 | **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e1c4d356304a0268854f?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 02 |
 | ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e170af954907d6570c5e?utm_campaign=1054&utm_source=git)** | Saint Louis, MO, United States | On Site | Sep 02 |
 | ↳ | **[South Internship - 2027](https://jobright.ai/jobs/info/6a97e0af69d7730385d6cc2e?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Sep 02 |
+| **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a98286211f73b6462c8cf6b?utm_campaign=1054&utm_source=git)** | Lakewood, OH, United States | Hybrid | Sep 02 |
 | **[NiSource](https://www.nisource.com/)** | **[Intern People Analytics](https://jobright.ai/jobs/info/6a95faccf28891320e85f64f?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Sep 02 |
 | **[Wyffels Hybrids](http://wyffels.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a97c751408304609c16e236?utm_campaign=1054&utm_source=git)** | Geneseo, IL 61254, United States | On Site | Sep 01 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2027 Human Resources Summer Internship – Metro Detroit, MI](https://jobright.ai/jobs/info/6a96ee3ab22f636c81414922?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Sep 01 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6a96fc65246d697dcee02683?utm_campaign=1054&utm_source=git)** | Memphis, TN, United States | On Site | Sep 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Human Resources Training](https://jobright.ai/jobs/info/6a9740abd13b4819f39e02e7?utm_campaign=1054&utm_source=git)** | Neenah, WI, United States | On Site | Sep 01 |
 | **[Olin](http://www.olin.com/)** | **[University Relations Intern](https://jobright.ai/jobs/info/6a977680f5337b2cf73220f5?utm_campaign=1054&utm_source=git)** | Cleveland, TN, United States | On Site | Sep 01 |
-| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a974027455eaf6a08c1bbd4?utm_campaign=1054&utm_source=git)** | Nampa, ID, United States | On Site | Sep 01 |
-| ↳ | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a9740e1e4e60e4b8da5d329?utm_campaign=1054&utm_source=git)** | Neenah, WI, United States | On Site | Sep 01 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a9740e1e4e60e4b8da5d329?utm_campaign=1054&utm_source=git)** | Neenah, WI, United States | On Site | Sep 01 |
+| ↳ | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a974027455eaf6a08c1bbd4?utm_campaign=1054&utm_source=git)** | Nampa, ID, United States | On Site | Sep 01 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6a724651cb96192a3684d10d?utm_campaign=1054&utm_source=git)** | Bethel, CT, United States | Hybrid | Sep 01 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/6a975347246d697dcee04e43?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Sep 01 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program – Human Resources – New York 2027](https://jobright.ai/jobs/info/6a9773f9e4e60e4b8da5e188?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 01 |
@@ -121,7 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2027 Human Resources Intern](https://jobright.ai/jobs/info/6a9741eed13b4819f39e0386?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | ↳ | **[2027 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/6a96edb5b22f636c814148f1?utm_campaign=1054&utm_source=git)** | Muskegon, MI, United States | On Site | Sep 01 |
 | ↳ | **[2027 Intern - Human Resources - Hunt Valley, MD](https://jobright.ai/jobs/info/6a966431455eaf6a08c17244?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD, United States | On Site | Sep 01 |
-| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Internship - Omaha](https://jobright.ai/jobs/info/6a96ff9d246d697dcee0292c?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | On Site | Sep 01 |
+| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Internship - Birmingham](https://jobright.ai/jobs/info/6a97009d455eaf6a08c19eea?utm_campaign=1054&utm_source=git)** | Birmingham, MI, United States | On Site | Sep 01 |
+| ↳ | **[Summer 2027 Internship - Omaha](https://jobright.ai/jobs/info/6a96ff9d246d697dcee0292c?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | On Site | Sep 01 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2027 Human Resources Intern](https://jobright.ai/jobs/info/6a978da4d13b4819f39e1696?utm_campaign=1054&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Cherry Hill, NJ](https://jobright.ai/jobs/info/6a574ad110c4d945d864d9e7?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Sep 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2027 Human Resources Intern-Supply Chain](https://jobright.ai/jobs/info/6a97367ee4e60e4b8da5cbdd?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Sep 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TELUS](http://www.telus.com)** | **[Summer Internship - Defined Benefit Pension Administration](https://jobright.ai/jobs/info/6a96eea3d13b4819f39ddcd8?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 01 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Human Resources Intern - Quebec](https://jobright.ai/jobs/info/6a96ca38246d697dcee01455?utm_campaign=1054&utm_source=git)** | Quebec City, Quebec, Canada | On Site | Sep 01 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - Disability Operations](https://jobright.ai/jobs/info/6a96e716e4e60e4b8da5aa17?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 01 |
-| **[Kautex Textron](https://www.kautex.com)** | **[2027 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/6a9705de455eaf6a08c1a252?utm_campaign=1054&utm_source=git)** | Muskegon, MI, United States | On Site | Sep 01 |
-| **[Love's Travel Stops](http://www.loves.com)** | **[Compensation Intern (Summer 2027) Job Details / Loves Travel Stops & Country Store](https://jobright.ai/jobs/info/6a9703bcd13b4819f39de7dc?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 01 |
-| **[Hussmann](http://www.hussmann.com)** | **[Intern - HR Operations](https://jobright.ai/jobs/info/6a97001cb22f636c8141517f?utm_campaign=1054&utm_source=git)** | Bridgeton, MO, United States | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
