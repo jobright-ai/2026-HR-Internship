@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Organizational Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7df8a00cd4a0703257ce2b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
 | **[BMO](http://www.bmo.com)** | **[Workforce Analyst, Winter 2027 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/6a85ef8ed34f700f87fbf3ac?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 03 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Human Resources Training](https://jobright.ai/jobs/info/6a9740abd13b4819f39e02e7?utm_campaign=1054&utm_source=git)** | Neenah, WI, United States | On Site | Sep 03 |
 | **[Fox Pest Control](https://fox-pest.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a9a00f31388387060591f3b?utm_campaign=1054&utm_source=git)** | Logan, UT, United States | On Site | Sep 03 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[PROJXON](https://projxon.com)** | **[Human Resources Coordinator (Culture Intern)](https://jobright.ai/jobs/info/6a9a08c8551435518ebf2ba1?utm_campaign=1054&utm_source=git)** | Las Vegas Metropolitan Area, United States | Remote | Sep 03 |
 | **[North Central Mental Health Services, Inc.](https://www.ncmhs.org)** | **[HR Internship, Paid](https://jobright.ai/jobs/info/6a99ea87551435518ebf20d1?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Sep 03 |
 | **[Rollins, Inc.](http://www.rollins.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a99fab7ad752e2ad55032ff?utm_campaign=1054&utm_source=git)** | Logan, UT, United States | On Site | Sep 03 |
-| **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/6a971e32455eaf6a08c1ac8a?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 03 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a99c149ad752e2ad5501af3?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 03 |
+| **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/6a99c149ad752e2ad5501af3?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 03 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6a971e32455eaf6a08c1ac8a?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 03 |
 | **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Recruitment Co-op Student - Winter 2027](https://jobright.ai/jobs/info/6a973668455eaf6a08c1b553?utm_campaign=1054&utm_source=git)** | Dieppe, NB, Canada | On Site | Sep 03 |
 | **[Henkel](http://www.henkel.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6a99b84b551435518ebf099c?utm_campaign=1054&utm_source=git)** | Irvine, CA, United States | On Site | Sep 03 |
 | **[Wella Company](https://www.wellacompany.com/)** | **[Talent Acquisition Intern Job Details / Wella](https://jobright.ai/jobs/info/6a99dd528a8b765bc55f6061?utm_campaign=1054&utm_source=git)** | Calabasas, CA, United States | Hybrid | Sep 03 |
@@ -139,9 +140,9 @@ For a complete list, click the following sortable link below:
 | **[tms](https://themarketingstore.com)** | **[Internal Communications Intern Job Details / Morgan Street Holdings](https://jobright.ai/jobs/info/6a9902c7def18223c8550a98?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 02 |
 | **[Intuit](https://www.intuit.com)** | **[Emerging Talent Event - Summer 2027: Technical Program Management Intern](https://jobright.ai/jobs/info/6a9902c211f73b6462c8fdcd?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 02 |
 | **[The University of New Mexico](http://unm.edu)** | **[HR Intern](https://jobright.ai/jobs/info/6a99ea3e040e5c3d07599b10?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | Hybrid | Sep 02 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Human Resources](https://jobright.ai/jobs/info/6a9a55f6e6c97d4b970af15d?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 02 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Human Resources](https://jobright.ai/jobs/info/6a9a5728e6c97d4b970af1c6?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Sep 02 |
 | ↳ | **[2027 Summer Intern: Talent Acquisition](https://jobright.ai/jobs/info/6a9a572ba33d28569fb99df1?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 02 |
-| ↳ | **[2027 Summer Intern: Human Resources](https://jobright.ai/jobs/info/6a9a5728e6c97d4b970af1c6?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Sep 02 |
+| ↳ | **[2027 Summer Intern: Human Resources](https://jobright.ai/jobs/info/6a9a55f6e6c97d4b970af15d?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 02 |
 | **[Securitas Group](http://www.securitas.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99c4c61388387060590366?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Sep 02 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99c50c551435518ebf0f64?utm_campaign=1054&utm_source=git)** | Dublin, OH, United States | On Site | Sep 02 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/6a998c65ad752e2ad5500113?utm_campaign=1054&utm_source=git)** | Norwalk, CT, United States | On Site | Sep 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield Human Resources](https://jobright.ai/jobs/info/6a9929fe138838706058c96e?utm_campaign=1054&utm_source=git)** | Springfield, MO, United States | On Site | Sep 02 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Inclusion/Internal Communication HR Intern](https://jobright.ai/jobs/info/6a987cfbdd171c7285792815?utm_campaign=1054&utm_source=git)** | Westchester, IL, United States | Hybrid | Sep 02 |
 | **[Richard](https://www.richardgroup.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a98876383fc633357631ffa?utm_campaign=1054&utm_source=git)** | Chicago, IL 60661, United States | On Site | Sep 02 |
-| **[UPS](http://www.ups.com)** | **[Round Rock Seasonal HR Intern](https://jobright.ai/jobs/info/6a99e5f2551435518ebf1f85?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
