@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Intern (Graduate Level) (Summer 2027)](https://jobright.ai/jobs/info/6a7f3383e51a1e18a2410dbb?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Sep 05 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a7fa33a19ce4e6e9d93a00d?utm_campaign=1054&utm_source=git)** | Strongsville, OH, United States | On Site | Sep 05 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2027 Job Details / BNSF](https://jobright.ai/jobs/info/6a9bd6b8a7ba386c5d66d973?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 05 |
 | ↳ | **[Labor Relations Summer Intern 2027 Job Details / BNSF](https://jobright.ai/jobs/info/6a9bd64175edfa11b470d1c1?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 05 |
@@ -114,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[NEA Human Resources Intern, Benefits (Fall 2026))](https://jobright.ai/jobs/info/6a7e2d4a0cd4a0703257e642?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Sep 04 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations)](https://jobright.ai/jobs/info/6a9b74201388387060598162?utm_campaign=1054&utm_source=git)** | Austin, MN, United States | Remote | Sep 04 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Skillbridge Program](https://jobright.ai/jobs/info/6a511ca202522b5b722e78e3?utm_campaign=1054&utm_source=git)** | Alabama, United States | Remote | Sep 04 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Sep 04 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Sep 04 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Sep 04 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Sep 04 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Sep 04 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Sep 04 |
 | **[Family Connections, Inc.](https://www.familyconnectionsnj.org/)** | **[Talent Acquisition Intern – Remote & Part-Time (Unpaid)](https://jobright.ai/jobs/info/6a99952f551435518ebef555?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Internship North Miami](https://jobright.ai/jobs/info/6a9acf751388387060594382?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | On Site | Sep 04 |
@@ -134,13 +135,13 @@ For a complete list, click the following sortable link below:
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/6a9abb419c24314c35f95460?utm_campaign=1054&utm_source=git)** | New York City, NY, United States | On Site | Sep 04 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2027 University Graduate Intern - Human Resources](https://jobright.ai/jobs/info/6a7e2dd719ce4e6e9d931cd2?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 04 |
 | ↳ | **[2027 University Undergraduate Intern - Human Resources](https://jobright.ai/jobs/info/6a833bf72dbaf907b07675c2?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 04 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Human Resources - Masters](https://jobright.ai/jobs/info/6a92edaa8e59685453379fd8?utm_campaign=1054&utm_source=git)** | Purchase, New York, United States | On Site | Sep 04 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Human Resources - Masters](https://jobright.ai/jobs/info/6a83c4132dbaf907b076a8b2?utm_campaign=1054&utm_source=git)** | Purchase, New York, United States | On Site | Sep 04 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[2027 Summer Intern: Human Resources - Spectrum News](https://jobright.ai/jobs/info/6a9aa30dd5ff1f3f1c39afc8?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Sep 04 |
 | ↳ | **[2027 Summer Intern: Talent Acquisition - Spectrum News](https://jobright.ai/jobs/info/6a9aa24cd5ff1f3f1c39af95?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 04 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Human Resources - Corporate](https://jobright.ai/jobs/info/6a99d7641388387060590cb7?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 04 |
-| ↳ | **[2027 Summer Intern: Human Resources - Corporate](https://jobright.ai/jobs/info/6a99d727ad752e2ad5502575?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Sep 04 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Human Resources - Corporate](https://jobright.ai/jobs/info/6a99d727ad752e2ad5502575?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Sep 04 |
+| ↳ | **[2027 Summer Intern: Human Resources - Corporate](https://jobright.ai/jobs/info/6a99d7641388387060590cb7?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 04 |
 | **[JD.COM](http://corporate.jd.com)** | **[JD Young Human Resources Internship](https://jobright.ai/jobs/info/6a7e51500cd4a0703257f3a7?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 04 |
-| **[Lockwood®](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a0704764a0a6a7e7d8209e2?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Sep 04 |
+| **[Lockwood®](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a12099f619335383fb392ee?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Sep 04 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6a51e09fae4052672fe9c5e1?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Sep 04 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Organizational Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7df8a00cd4a0703257ce2b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
 | **[Code Red Consultants](https://coderedconsultants.com)** | **[Emerging Talent Winternship - January 2027](https://jobright.ai/jobs/info/6a99de9e1388387060591128?utm_campaign=1054&utm_source=git)** | Southborough, MA, United States | On Site | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aramark](http://www.aramark.com)** | **[2027 Aramark Internship Program (Multiple Locations)](https://jobright.ai/jobs/info/6a9af7f32cdc5958f53e9edf?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 03 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/6a9b4b44fe45b8490f607e6b?utm_campaign=1054&utm_source=git)** | Herndon, VA, United States | On Site | Sep 03 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Health and Benefits Northeastern Co-op - Spring Term 2027](https://jobright.ai/jobs/info/6a99f013551435518ebf21eb?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 03 |
-| **[PROJXON](https://projxon.com)** | **[Human Resources Coordinator (Culture Intern)](https://jobright.ai/jobs/info/6a9a08c8551435518ebf2ba1?utm_campaign=1054&utm_source=git)** | Las Vegas Metropolitan Area, United States | Remote | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
