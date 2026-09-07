@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nemacolin](http://www.nemacolin.com)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9f13f4dacf777321a94085?utm_campaign=1054&utm_source=git)** | Farmington, PA, United States | On Site | Sep 07 |
 | **[Kalahari Resorts & Conventions](https://www.kalahariresorts.com)** | **[HR Intern - Fall 2026](https://jobright.ai/jobs/info/6a9f05f8352f093fc756d69a?utm_campaign=1054&utm_source=git)** | Pocono Manor, PA, United States | On Site | Sep 07 |
 | **[Prox Shopping](www.joinprox.com)** | **[Talent Acquisition & People Operations Intern / Unpaid](https://jobright.ai/jobs/info/6a9ee950dacf777321a939ed?utm_campaign=1054&utm_source=git)** | Santa Monica, CA, United States | Remote | Sep 07 |
 | **[Food Lion](https://www.foodlion.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a9ee412dacf777321a9394d?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Sep 07 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Benefits Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f2bb0f20036bc6312de?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
 | ↳ | **[Fall 2026 Employment Services Intern - UNPAID](https://jobright.ai/jobs/info/6a33e59df6b55d12c7919e88?utm_campaign=1054&utm_source=git)** | Atlanta, GA USA, US | Hybrid | Sep 06 |
 | ↳ | **[Housing Assistant Intern](https://jobright.ai/jobs/info/6a5911a94da96a42cfd8ef4f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 06 |
-| ↳ | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Sep 06 |
 | ↳ | **[Intensive Case Management Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5e7d0327bf767ea68f6ff1?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
+| ↳ | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Sep 06 |
 | **[Latecoere](https://www.latecoere.aero)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9da0a7dacf777321a8fffc?utm_campaign=1054&utm_source=git)** | Delta, British Columbia, Canada | On Site | Sep 06 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Spring 2027 Onboarding/Orientation Co-Op (Full-Time)](https://jobright.ai/jobs/info/6a737d858cd88e7ccbf58be9?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a28fbd6883c0d3be654530e?utm_campaign=1054&utm_source=git)** | Cypress, TX, United States | On Site | Sep 06 |
@@ -124,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a9c3d56c1d6f91bc3883fa8?utm_campaign=1054&utm_source=git)** | Humble, TX, United States | On Site | Sep 05 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6a6972dd2baf19558c923779?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 05 |
 | **[UPS](http://www.ups.com)** | **[Round Rock Seasonal HR Intern](https://jobright.ai/jobs/info/6a99e5f2551435518ebf1f85?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 05 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Sep 05 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f27db927c79391ad069b3?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Sep 05 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern - People & Engagement Group - Junior](https://jobright.ai/jobs/info/6a96542af28891320e8610ab?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 05 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Intern (Graduate Level) (Summer 2027)](https://jobright.ai/jobs/info/6a7f3397ad9ff00c26bad068?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Sep 05 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a7fa33a19ce4e6e9d93a00d?utm_campaign=1054&utm_source=git)** | Strongsville, OH, United States | On Site | Sep 05 |
@@ -132,7 +133,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Labor Relations Summer Intern 2027 Job Details / BNSF](https://jobright.ai/jobs/info/6a9bd64175edfa11b470d1c1?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 05 |
 | **[United Way Miami](https://unitedwaymiami.org/)** | **[Human Resources Intern - College Credit Only](https://jobright.ai/jobs/info/6a9af0699c24314c35f95fb6?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | On Site | Sep 05 |
 | **[Athena Global Advisors](https://www.athenaglobaladvisors.com)** | **[Summer 2027 Intern, Human Resources](https://jobright.ai/jobs/info/6a9b0e7a138838706059660f?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 05 |
-| **[SLB](https://www.slb.com)** | **[Commercial and Business Internship](https://jobright.ai/jobs/info/6a9af378d5ff1f3f1c39c25c?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 04 |
+| **[SLB](https://www.slb.com)** | **[Commercial and Business Internship](https://jobright.ai/jobs/info/6a9af4a790a313642c657247?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 04 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[FWS Student Worker III, Off Campus (Recruitment & Admissions Intern)](https://jobright.ai/jobs/info/6a9bb2b92c964816f65e8664?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Project Intern (Corporate Service) - 2026 Start](https://jobright.ai/jobs/info/6a9b6359fe45b8490f608298?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Sep 04 |
 | **[Latecoere India Pvt Ltd](https://www.latecoere.aero/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9b676090a313642c659fa4?utm_campaign=1054&utm_source=git)** | Delta, British Columbia, Canada | On Site | Sep 04 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Laveer Engineering](https://laveer.ca/)** | **[2027 Summer Intern - HR Operations](https://jobright.ai/jobs/info/6a9b7b1cd5ff1f3f1c39f385?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA, United States | Hybrid | Sep 04 |
 | **[Alcon](http://www.alcon.com)** | **[HRLDP Internship - MS/MBA Summer 2027](https://jobright.ai/jobs/info/6a9b341c9c24314c35f98466?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 04 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp - HR Business Partner Intern](https://jobright.ai/jobs/info/6a9af4c99c24314c35f965d2?utm_campaign=1054&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Sep 04 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a9b55571388387060597ce4?utm_campaign=1054&utm_source=git)** | Sparks, NV, United States | On Site | Sep 04 |
-| ↳ | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a9b555afe45b8490f608058?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Sep 04 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a9b555afe45b8490f608058?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Sep 04 |
+| ↳ | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a9b55571388387060597ce4?utm_campaign=1054&utm_source=git)** | Sparks, NV, United States | On Site | Sep 04 |
 | ↳ | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a9b5553d5ff1f3f1c39ed62?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Sep 04 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Part-Time Talent Acquisition Intern (Remote)](https://jobright.ai/jobs/info/6a9b319c2cdc5958f53eb4cb?utm_campaign=1054&utm_source=git)** | Miramar, FL, United States | Remote | Sep 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Human Resources Intern (Fall 2026)](https://jobright.ai/jobs/info/6a9b2d8ad5ff1f3f1c39dfe5?utm_campaign=1054&utm_source=git)** | Cockeysville, MD, United States | On Site | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[rand* construction corporation](http://randcc.com)** | **[Summer 2027 Internship - CO, GA, NC, TX, VA, UT](https://jobright.ai/jobs/info/6a9af9a1fe45b8490f605f46?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Sep 04 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Health Scholar Assistant for People Experience](https://jobright.ai/jobs/info/6a9b253ffe45b8490f60701d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 04 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a976fb4d13b4819f39e0fbd?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 04 |
-| **[NetJets](https://www.netjets.com/)** | **[Organizational Change Management (OCM) Intern (NJUS)](https://jobright.ai/jobs/info/6a9af8f02cdc5958f53e9f66?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
