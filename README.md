@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Human Resources Summer 2027 Internship (Euclid, Oh) Job Details / Lincoln Electric](https://jobright.ai/jobs/info/6a9eb1dd68f82b403673b2b6?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | Hybrid | Sep 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern -Summer 2027](https://jobright.ai/jobs/info/6a9eb0ba68f82b403673b237?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 07 |
+| ↳ | **[Management Trainee Internship - Winter 2027](https://jobright.ai/jobs/info/6a9eb0b7a7ba386c5d673391?utm_campaign=1054&utm_source=git)** | Dollard-Des Ormeaux, QC, Canada | On Site | Sep 07 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Employee Benefits Intern - MN](https://jobright.ai/jobs/info/6a9e543c27c94c3d5a1cc3ba?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 07 |
 | ↳ | **[Labor Relations Intern - MN](https://jobright.ai/jobs/info/6a9e54412c964816f65ecaf8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Intern Fort Worth](https://jobright.ai/jobs/info/6a9e97f5f6ea002358295e2d?utm_campaign=1054&utm_source=git)** | Keller, TX, United States | On Site | Sep 07 |
@@ -111,7 +114,7 @@ For a complete list, click the following sortable link below:
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[HR/Recruitment Intern](https://jobright.ai/jobs/info/6a57b10810c4d945d8650344?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Sep 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a9c3d56c1d6f91bc3883fa8?utm_campaign=1054&utm_source=git)** | Humble, TX, United States | On Site | Sep 05 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6a6972dd2baf19558c923779?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 05 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f27db927c79391ad069b3?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Sep 05 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Sep 05 |
 | ↳ | **[Round Rock Seasonal HR Intern](https://jobright.ai/jobs/info/6a99e5f2551435518ebf1f85?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 05 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern - People & Engagement Group - Junior](https://jobright.ai/jobs/info/6a96542af28891320e8610ab?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 05 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Intern (Graduate Level) (Summer 2027)](https://jobright.ai/jobs/info/6a7f3397ad9ff00c26bad068?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Sep 05 |
@@ -125,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Project Intern (Corporate Service) - 2026 Start](https://jobright.ai/jobs/info/6a9b6359fe45b8490f608298?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Sep 04 |
 | **[Latecoere India Pvt Ltd](https://www.latecoere.aero/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9b676090a313642c659fa4?utm_campaign=1054&utm_source=git)** | Delta, British Columbia, Canada | On Site | Sep 04 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Intern, Benefits](https://jobright.ai/jobs/info/6a9b40fffe45b8490f607a0d?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
-| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/6a9b1c9ad5ff1f3f1c39db31?utm_campaign=1054&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 04 |
+| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/6a9b2eadfe45b8490f60739e?utm_campaign=1054&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 04 |
 | **[Hussmann](http://www.hussmann.com)** | **[Intern - HR Rotation](https://jobright.ai/jobs/info/6a998f058a8b765bc55f3aa1?utm_campaign=1054&utm_source=git)** | Bridgeton, MO, United States | On Site | Sep 04 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Union, NJ](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Sep 04 |
 | **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9b2dfe90a313642c658f23?utm_campaign=1054&utm_source=git)** | Monroe, MI, United States | Hybrid | Sep 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LYT Ventures](http://www.lytventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9b3688138838706059730e?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 04 |
 | **[Milliken & Company](http://www.milliken.com/en-us/)** | **[Pendleton Human Resources Intern](https://jobright.ai/jobs/info/6a9b13f6fe45b8490f606c0c?utm_campaign=1054&utm_source=git)** | Pendleton, SC, United States | On Site | Sep 04 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a9b0fc790a313642c658634?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 04 |
-| **[Baringa](http://www.baringa.com/)** | **[US Summer Internship - Capabilities - Organization, Performance & Change](https://jobright.ai/jobs/info/6a9ae44090a313642c6568b9?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
-| **[Allied Universal](https://www.aus.com)** | **[Game Day Event Staff (Intern)](https://jobright.ai/jobs/info/6a9b0e73d5ff1f3f1c39d678?utm_campaign=1054&utm_source=git)** | West Lafayette, IN, United States | On Site | Sep 04 |
-| **[Owens Corning](http://www.owenscorning.com/)** | **[Human Resource Internship (2027)](https://jobright.ai/jobs/info/6a9af5192cdc5958f53e97a7?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
