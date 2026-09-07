@@ -57,15 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6a9e2b9775edfa11b47106f1?utm_campaign=1054&utm_source=git)** | Armonk, NY, United States | Hybrid | Sep 06 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Labor Relations Intern - MN](https://jobright.ai/jobs/info/6a9e54412c964816f65ecaf8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 06 |
-| ↳ | **[Employee Benefits Intern - MN](https://jobright.ai/jobs/info/6a9e543c27c94c3d5a1cc3ba?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 06 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[HR Operations Analyst Summer 2027 Intern](https://jobright.ai/jobs/info/6a9e48a22c964816f65ec972?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Sep 06 |
+| **[IBM](http://www.ibm.com)** | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6a9e2b9775edfa11b47106f1?utm_campaign=1054&utm_source=git)** | Armonk, NY, United States | Hybrid | Sep 06 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Employee Benefits Intern - MN](https://jobright.ai/jobs/info/6a9e543c27c94c3d5a1cc3ba?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 06 |
+| ↳ | **[Labor Relations Intern - MN](https://jobright.ai/jobs/info/6a9e54412c964816f65ecaf8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 06 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Benefits Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f2bb0f20036bc6312de?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
 | ↳ | **[Fall 2026 Employment Services Intern - UNPAID](https://jobright.ai/jobs/info/6a33e59df6b55d12c7919e88?utm_campaign=1054&utm_source=git)** | Atlanta, GA USA, US | Hybrid | Sep 06 |
 | ↳ | **[Housing Assistant Intern](https://jobright.ai/jobs/info/6a5911a94da96a42cfd8ef4f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 06 |
-| ↳ | **[Intensive Case Management Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5e7d0327bf767ea68f6ff1?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
 | ↳ | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Sep 06 |
+| ↳ | **[Intensive Case Management Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5e7d0327bf767ea68f6ff1?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
 | **[Latecoere](https://www.latecoere.aero)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9da0a7dacf777321a8fffc?utm_campaign=1054&utm_source=git)** | Delta, British Columbia, Canada | On Site | Sep 06 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Spring 2027 Onboarding/Orientation Co-Op (Full-Time)](https://jobright.ai/jobs/info/6a737d858cd88e7ccbf58be9?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a28fbd6883c0d3be654530e?utm_campaign=1054&utm_source=git)** | Cypress, TX, United States | On Site | Sep 06 |
@@ -92,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a9c3d56c1d6f91bc3883fa8?utm_campaign=1054&utm_source=git)** | Humble, TX, United States | On Site | Sep 05 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Admissions Counselor Intern](https://jobright.ai/jobs/info/6a9c324a2c964816f65e9069?utm_campaign=1054&utm_source=git)** | Eugene, OR, United States | On Site | Sep 05 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6a6972dd2baf19558c923779?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 05 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f27db927c79391ad069b3?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Sep 05 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Sep 05 |
 | ↳ | **[Round Rock Seasonal HR Intern](https://jobright.ai/jobs/info/6a99e5f2551435518ebf1f85?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 05 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern - People & Engagement Group - Junior](https://jobright.ai/jobs/info/6a96542af28891320e8610ab?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 05 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Intern (Graduate Level) (Summer 2027)](https://jobright.ai/jobs/info/6a7f3397ad9ff00c26bad068?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Sep 05 |
@@ -101,7 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Labor Relations Summer Intern 2027 Job Details / BNSF](https://jobright.ai/jobs/info/6a9bd64175edfa11b470d1c1?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 05 |
 | **[United Way Miami](https://unitedwaymiami.org/)** | **[Human Resources Intern - College Credit Only](https://jobright.ai/jobs/info/6a9af0699c24314c35f95fb6?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | On Site | Sep 05 |
 | **[Athena Global Advisors](https://www.athenaglobaladvisors.com)** | **[Summer 2027 Intern, Human Resources](https://jobright.ai/jobs/info/6a9b0e7a138838706059660f?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 05 |
-| **[SLB](https://www.slb.com)** | **[Commercial and Business Internship](https://jobright.ai/jobs/info/6a9af4a790a313642c657247?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 04 |
+| **[SLB](https://www.slb.com)** | **[Commercial and Business Internship](https://jobright.ai/jobs/info/6a9af378d5ff1f3f1c39c25c?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 04 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[FWS Student Worker III, Off Campus (Recruitment & Admissions Intern)](https://jobright.ai/jobs/info/6a9bb2b92c964816f65e8664?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Project Intern (Corporate Service) - 2026 Start](https://jobright.ai/jobs/info/6a9b6359fe45b8490f608298?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Sep 04 |
 | **[Latecoere India Pvt Ltd](https://www.latecoere.aero/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9b676090a313642c659fa4?utm_campaign=1054&utm_source=git)** | Delta, British Columbia, Canada | On Site | Sep 04 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[NEA Human Resources Intern, Benefits (Fall 2026))](https://jobright.ai/jobs/info/6a7e2d4a0cd4a0703257e642?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Sep 04 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations)](https://jobright.ai/jobs/info/6a9b74201388387060598162?utm_campaign=1054&utm_source=git)** | Austin, MN, United States | Remote | Sep 04 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Skillbridge Program](https://jobright.ai/jobs/info/6a511ca202522b5b722e78e3?utm_campaign=1054&utm_source=git)** | Alabama, United States | Remote | Sep 04 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Sep 04 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Sep 04 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Sep 04 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Sep 04 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Sep 04 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Sep 04 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Sep 04 |
 | **[Family Connections, Inc.](https://www.familyconnectionsnj.org/)** | **[Talent Acquisition Intern – Remote & Part-Time (Unpaid)](https://jobright.ai/jobs/info/6a99952f551435518ebef555?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Internship North Miami](https://jobright.ai/jobs/info/6a9acf751388387060594382?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
