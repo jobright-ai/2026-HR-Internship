@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kalahari Resorts & Conventions](https://www.kalahariresorts.com)** | **[HR Intern - Fall 2026](https://jobright.ai/jobs/info/6a9f05f8352f093fc756d69a?utm_campaign=1054&utm_source=git)** | Pocono Manor, PA, United States | On Site | Sep 07 |
 | **[Prox Shopping](www.joinprox.com)** | **[Talent Acquisition & People Operations Intern / Unpaid](https://jobright.ai/jobs/info/6a9ee950dacf777321a939ed?utm_campaign=1054&utm_source=git)** | Santa Monica, CA, United States | Remote | Sep 07 |
 | **[Food Lion](https://www.foodlion.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a9ee412dacf777321a9394d?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Sep 07 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8c517acde3717f9e9bc559?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Sep 07 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Benefits Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f2bb0f20036bc6312de?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
 | ↳ | **[Fall 2026 Employment Services Intern - UNPAID](https://jobright.ai/jobs/info/6a33e59df6b55d12c7919e88?utm_campaign=1054&utm_source=git)** | Atlanta, GA USA, US | Hybrid | Sep 06 |
 | ↳ | **[Housing Assistant Intern](https://jobright.ai/jobs/info/6a5911a94da96a42cfd8ef4f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 06 |
-| ↳ | **[Intensive Case Management Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5e7d0327bf767ea68f6ff1?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
 | ↳ | **[Fall 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7687cef057612cb828?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Sep 06 |
+| ↳ | **[Intensive Case Management Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5e7d0327bf767ea68f6ff1?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
 | **[Latecoere](https://www.latecoere.aero)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9da0a7dacf777321a8fffc?utm_campaign=1054&utm_source=git)** | Delta, British Columbia, Canada | On Site | Sep 06 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Spring 2027 Onboarding/Orientation Co-Op (Full-Time)](https://jobright.ai/jobs/info/6a737d858cd88e7ccbf58be9?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a28fbd6883c0d3be654530e?utm_campaign=1054&utm_source=git)** | Cypress, TX, United States | On Site | Sep 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Health Scholar Assistant for People Experience](https://jobright.ai/jobs/info/6a9b253ffe45b8490f60701d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 04 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a976fb4d13b4819f39e0fbd?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 04 |
 | **[NetJets](https://www.netjets.com/)** | **[Organizational Change Management (OCM) Intern (NJUS)](https://jobright.ai/jobs/info/6a9af8f02cdc5958f53e9f66?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Sep 04 |
-| **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a9b097790a313642c658450?utm_campaign=1054&utm_source=git)** | Janesville, WI, United States | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
