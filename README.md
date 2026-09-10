@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Human Resources Fall Intern](https://jobright.ai/jobs/info/6a86f644cde3717f9e9af692?utm_campaign=1054&utm_source=git)** | Chillicothe, OH, United States | On Site | Sep 10 |
-| ↳ | **[Human Resources Fall Intern Job Details / PACCAR](https://jobright.ai/jobs/info/6a96c87eb22f636c81413bc7?utm_campaign=1054&utm_source=git)** | Chillicothe, OH, United States | On Site | Sep 10 |
+| **[Olin](http://www.olin.com/)** | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6aa03c9cdbc0e60e37e0c381?utm_campaign=1054&utm_source=git)** | Plaquemine, Louisiana, United States | On Site | Sep 10 |
+| ↳ | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6aa03c38a2266b538d22ef6e?utm_campaign=1054&utm_source=git)** | Lake Jackson, TX, United States | On Site | Sep 10 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Human Resources Fall Intern Job Details / PACCAR](https://jobright.ai/jobs/info/6a96c87eb22f636c81413bc7?utm_campaign=1054&utm_source=git)** | Chillicothe, OH, United States | On Site | Sep 10 |
+| ↳ | **[Human Resources Fall Intern](https://jobright.ai/jobs/info/6a86f644cde3717f9e9af692?utm_campaign=1054&utm_source=git)** | Chillicothe, OH, United States | On Site | Sep 10 |
 | **[Smurfit Westrock](https://www.smurfitwestrock.com/)** | **[HR Intern, Summer 2027](https://jobright.ai/jobs/info/6a84a52e2f4f0014cae21e1a?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall Management Trainee Internship - Logan Utah](https://jobright.ai/jobs/info/6aa2f1c85d772ddb02b69541?utm_campaign=1054&utm_source=git)** | Logan, UT, United States | On Site | Sep 10 |
 | **[Grande Cheese Company](https://www.grande.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a85cb4c4afae74a08341384?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI, United States | On Site | Sep 10 |
@@ -92,10 +94,10 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2027 Human Resources-Supply Chain](https://jobright.ai/jobs/info/6aa1a4d73272060a8e3f13be?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 09 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Summer 2027 Human Resources Intern](https://jobright.ai/jobs/info/6aa1c575ef23570cae2461b1?utm_campaign=1054&utm_source=git)** | Woodridge, IL, United States | On Site | Sep 09 |
 | **[Schneller LLC](http://www.schneller.com/)** | **[HR & Employee Engagement Intern](https://jobright.ai/jobs/info/6aa1c3d3ef23570cae2460de?utm_campaign=1054&utm_source=git)** | Kent, Ohio, United States | On Site | Sep 09 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16842ef23570cae243abb?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Sep 09 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1633a2f936e4a53dab783?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Sep 09 |
 | **[Eagle Point Credit](http://eaglepointcreditcompany.com/)** | **[2027 Intern](https://jobright.ai/jobs/info/6aa1c231dbc0e60e37e136e6?utm_campaign=1054&utm_source=git)** | Greenwich, CT, United States | On Site | Sep 09 |
 | **[League One Volleyball (LOVB)](http://www.lovb.com)** | **[College Recruiting Support Associate/Intern](https://jobright.ai/jobs/info/6aa16287dbc0e60e37e110c4?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 09 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Strategy and Innovation)](https://jobright.ai/jobs/info/6aa1632a0ffb3d4fea6b4826?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Strategy and Innovation)](https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111ac?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
 | ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa163360ffb3d4fea6b482c?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Sep 09 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a8f3a7cd7c91d0cf446e392?utm_campaign=1054&utm_source=git)** | King of Prussia, PA, United States | On Site | Sep 09 |
 | **[CEC Entertainment](http://chuckecheese.com)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/6aa1bc18ef23570cae245d2d?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | Hybrid | Sep 09 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-op/Intern - Human Resources (Stratford Campus)](https://jobright.ai/jobs/info/6a84fca1d34f700f87fbbbb9?utm_campaign=1054&utm_source=git)** | Stratford, ON, Canada | On Site | Sep 09 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/6a9b2eadfe45b8490f60739e?utm_campaign=1054&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 09 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a8451d07b33d722762552d5?utm_campaign=1054&utm_source=git)** | Reston, VA, United States | Remote | Sep 09 |
-| **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Human Resources](https://jobright.ai/jobs/info/6aa1842a500b01124c77cfb7?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | On Site | Sep 09 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a95a1b84c22023a07934bdf?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Sep 09 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[HR Intern](https://jobright.ai/jobs/info/6a9fca89f6ea002358298ecf?utm_campaign=1054&utm_source=git)** | Danbury, CT, United States | On Site | Sep 09 |
 | **[Allied Universal](https://www.aus.com)** | **[Event Services Operations Support Specialist (Intern)](https://jobright.ai/jobs/info/6a8ea8c54a3c6870e76e94ca?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 09 |
 | ↳ | **[Part-Time Game Day Intern](https://jobright.ai/jobs/info/6a8ea8d04a3c6870e76e94d6?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 09 |
-| **[Lennox](http://www.lennox.com)** | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a9719f5246d697dcee035f6?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Sep 09 |
-| ↳ | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a84a85a58ded76ad8fe89a2?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Sep 09 |
+| **[Lennox](http://www.lennox.com)** | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a84a182d34f700f87fb9cdc?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Sep 09 |
 | ↳ | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a9724bd455eaf6a08c1aec7?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
