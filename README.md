@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wurth Elektronik](https://www.we-ics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a8611cb4afae74a08343206?utm_campaign=1054&utm_source=git)** | Watertown, SD, United States | On Site | Sep 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a992cf4a873af78718f41d2?utm_campaign=1054&utm_source=git)** | Reno, NV, United States | On Site | Sep 10 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aa2af7889c0049f1182c263?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Remote | Sep 10 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Compensation and Global Mobility Intern](https://jobright.ai/jobs/info/6aa1a2862f936e4a53dad221?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 10 |
@@ -87,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1633a2f936e4a53dab783?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Sep 09 |
 | **[Eagle Point Credit](http://eaglepointcreditcompany.com/)** | **[2027 Intern](https://jobright.ai/jobs/info/6aa1c231dbc0e60e37e136e6?utm_campaign=1054&utm_source=git)** | Greenwich, CT, United States | On Site | Sep 09 |
 | **[League One Volleyball (LOVB)](http://www.lovb.com)** | **[College Recruiting Support Associate/Intern](https://jobright.ai/jobs/info/6aa16287dbc0e60e37e110c4?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 09 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Strategy and Innovation)](https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111ac?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Strategy and Innovation)](https://jobright.ai/jobs/info/6aa1632a0ffb3d4fea6b4826?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
 | ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa163360ffb3d4fea6b482c?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Sep 09 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a8f3a7cd7c91d0cf446e392?utm_campaign=1054&utm_source=git)** | King of Prussia, PA, United States | On Site | Sep 09 |
 | **[CEC Entertainment](http://chuckecheese.com)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/6aa1bc18ef23570cae245d2d?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | Hybrid | Sep 09 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Pomerleau](http://www.pomerleau.ca/)** | **[Intern, HR Coordinator - Immigration](https://jobright.ai/jobs/info/6aa198f9500b01124c77dbea?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | Hybrid | Sep 09 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Intern -Human Resources](https://jobright.ai/jobs/info/6aa195922f936e4a53dacb2a?utm_campaign=1054&utm_source=git)** | Allendale, NJ, United States | On Site | Sep 09 |
 | **[Estes Construction](https://www.estesconstruction.com)** | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6aa18d5def23570cae2447b4?utm_campaign=1054&utm_source=git)** | Davenport, IA, United States | On Site | Sep 09 |
-| **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/6a971e32455eaf6a08c1ac8a?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 09 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a99c149ad752e2ad5501af3?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 09 |
+| **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/6a99c149ad752e2ad5501af3?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 09 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6a971e32455eaf6a08c1ac8a?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 09 |
 | **[National Center on Sexual Exploitation](https://endsexualexploitation.org/)** | **[Internship: Compassionate Communications & Human Resources (Winter 2027)](https://jobright.ai/jobs/info/6aa18c363272060a8e3f05d5?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Sep 09 |
 | **[TD](https://www.td.com)** | **[Wealth Colleague Experience Intern/Co-Op (Winter 2027)](https://jobright.ai/jobs/info/6aa1a77bdbc0e60e37e12d71?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 09 |
 | **[Endries International, Inc.](https://www.endries.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aa1827edbc0e60e37e118e2?utm_campaign=1054&utm_source=git)** | Brillion, WI, United States | Hybrid | Sep 09 |
@@ -141,12 +142,12 @@ For a complete list, click the following sortable link below:
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Talent Management](https://jobright.ai/jobs/info/6a9b2eadfe45b8490f60739e?utm_campaign=1054&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 09 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a8451d07b33d722762552d5?utm_campaign=1054&utm_source=git)** | Reston, VA, United States | Remote | Sep 09 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Human Resources](https://jobright.ai/jobs/info/6aa1842a500b01124c77cfb7?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | On Site | Sep 09 |
-| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a6919caceb2691dfb20766a?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Sep 09 |
+| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a95a1b84c22023a07934bdf?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Sep 09 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[HR Intern](https://jobright.ai/jobs/info/6a9fca89f6ea002358298ecf?utm_campaign=1054&utm_source=git)** | Danbury, CT, United States | On Site | Sep 09 |
 | **[Allied Universal](https://www.aus.com)** | **[Event Services Operations Support Specialist (Intern)](https://jobright.ai/jobs/info/6a8ea8c54a3c6870e76e94ca?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 09 |
 | ↳ | **[Part-Time Game Day Intern](https://jobright.ai/jobs/info/6a8ea8d04a3c6870e76e94d6?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 09 |
-| **[Lennox](http://www.lennox.com)** | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a84a182d34f700f87fb9cdc?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Sep 09 |
-| ↳ | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a9724bd455eaf6a08c1aec7?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Sep 09 |
+| **[Lennox](http://www.lennox.com)** | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a9724bd455eaf6a08c1aec7?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Sep 09 |
+| ↳ | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a84a182d34f700f87fb9cdc?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Sep 09 |
 | ↳ | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a84a85a58ded76ad8fe89a2?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Sep 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Business Solutions) - 2027 Summer](https://jobright.ai/jobs/info/6a71a42bcb96192a3684999f?utm_campaign=1054&utm_source=git)** | New York | On Site | Sep 09 |
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Comp & Benefits Intern: Summer 2027](https://jobright.ai/jobs/info/6aa1256cdbc0e60e37e1054d?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Sep 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spirit AeroSystems](http://www.spiritaero.com)** | **[Boeing - Wichita Summer 2027 Internship Program (Paid) - Human Resources](https://jobright.ai/jobs/info/6aa063e9500b01124c778a55?utm_campaign=1054&utm_source=git)** | Wichita, KS, United States | On Site | Sep 08 |
 | **[TreeHouse Foods](https://www.treehousefoods.com/what-we-make/meal-solutions/default.aspx)** | **[Human Resources Internship - Summer 2027](https://jobright.ai/jobs/info/6aa1d38e500b01124c77f3d1?utm_campaign=1054&utm_source=git)** | Princeton, KY, United States | On Site | Sep 08 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aa1eefbef23570cae246d9c?utm_campaign=1054&utm_source=git)** | Oak Park Heights, MN 55082, United States | On Site | Sep 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6aa0e5e75b2d5633ef3c0c2e?utm_campaign=1054&utm_source=git)** | New Albany, IN, United States | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
