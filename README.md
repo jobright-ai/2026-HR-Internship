@@ -5,6 +5,8 @@
 
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** HR Manager and Compensation and Benefits.
 
+**Canada-focused companion resource:** Canadian students and recent grads looking for HR, business, recruiting, internships, co-ops, new-grad, junior, and entry-level roles can also browse [Hanzilla Jobs - Business & Operations](https://jobs.hanzilla.co/business/), a free daily-updated Canadian student job board across fields.
+
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=1054&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
