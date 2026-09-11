@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eversource Energy](https://www.eversource.com/)** | **[Intern, University Relations (10 hours per week)](https://jobright.ai/jobs/info/6a61467e7196365a6f00a00c?utm_campaign=1054&utm_source=git)** | Berlin, CT, United States | Hybrid | Sep 10 |
+| ↳ | **[Intern, University Relations](https://jobright.ai/jobs/info/6aa1bfbbdbc0e60e37e13607?utm_campaign=1054&utm_source=git)** | Berlin, CT, United States | On Site | Sep 10 |
 | **[Olin](http://www.olin.com/)** | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6aa03c9cdbc0e60e37e0c381?utm_campaign=1054&utm_source=git)** | Plaquemine, Louisiana, United States | On Site | Sep 10 |
 | ↳ | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6aa03c38a2266b538d22ef6e?utm_campaign=1054&utm_source=git)** | Lake Jackson, TX, United States | On Site | Sep 10 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Human Resources Fall Intern Job Details / PACCAR](https://jobright.ai/jobs/info/6a96c87eb22f636c81413bc7?utm_campaign=1054&utm_source=git)** | Chillicothe, OH, United States | On Site | Sep 10 |
@@ -100,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Eagle Point Credit](http://eaglepointcreditcompany.com/)** | **[2027 Intern](https://jobright.ai/jobs/info/6aa1c231dbc0e60e37e136e6?utm_campaign=1054&utm_source=git)** | Greenwich, CT, United States | On Site | Sep 09 |
 | **[League One Volleyball (LOVB)](http://www.lovb.com)** | **[College Recruiting Support Associate/Intern](https://jobright.ai/jobs/info/6aa16287dbc0e60e37e110c4?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Strategy and Innovation)](https://jobright.ai/jobs/info/6aa1632a0ffb3d4fea6b4826?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
-| ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa163360ffb3d4fea6b482c?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Sep 09 |
+| ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa168280ffb3d4fea6b48db?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Sep 09 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a8f3a7cd7c91d0cf446e392?utm_campaign=1054&utm_source=git)** | King of Prussia, PA, United States | On Site | Sep 09 |
 | **[CEC Entertainment](http://chuckecheese.com)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/6aa1bc18ef23570cae245d2d?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | Hybrid | Sep 09 |
 | **[Glatfelter](https://magnera.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa1b6483272060a8e3f1a6c?utm_campaign=1054&utm_source=git)** | Waynesboro, VA, United States | On Site | Sep 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IDEMIA](https://www.idemia.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a8451d07b33d722762552d5?utm_campaign=1054&utm_source=git)** | Reston, VA, United States | Remote | Sep 09 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a95a1b84c22023a07934bdf?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Sep 09 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[HR Intern](https://jobright.ai/jobs/info/6a9fca89f6ea002358298ecf?utm_campaign=1054&utm_source=git)** | Danbury, CT, United States | On Site | Sep 09 |
-| **[Allied Universal](https://www.aus.com)** | **[Event Services Operations Support Specialist (Intern)](https://jobright.ai/jobs/info/6a8ea8c54a3c6870e76e94ca?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 09 |
-| ↳ | **[Part-Time Game Day Intern](https://jobright.ai/jobs/info/6a8ea8d04a3c6870e76e94d6?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
