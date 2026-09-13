@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GAOTek Inc.](https://www.gaotek.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aa6f7b92ed333b4ea5cad2a?utm_campaign=1054&utm_source=git)** | Canada | Remote | Sep 13 |
+| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a57a9eef7517b519ad5bb0c?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Sep 13 |
 | **[Veeam Software](http://www.veeam.com)** | **[Compensation Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4ce24a77a53f5a156e260?utm_campaign=1054&utm_source=git)** | Remote, GA, United States | Remote | Sep 13 |
 | ↳ | **[Talent Growth and Inclusion Intern- Summer 2027](https://jobright.ai/jobs/info/6aa47110c1928370a285df69?utm_campaign=1054&utm_source=git)** | Washington, United States | Remote | Sep 13 |
 | ↳ | **[Talent Growth and Inclusion Intern- Summer 2027](https://jobright.ai/jobs/info/6aa493948275e3a211760df9?utm_campaign=1054&utm_source=git)** | Washington, United States | Remote | Sep 13 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Part time Recruiting Intern Fall 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 12 |
 | **[Diamondback Energy](http://www.diamondbackenergy.com/)** | **[Summer 2027 Human Resources Intern](https://jobright.ai/jobs/info/6a88afb5cde3717f9e9b68ca?utm_campaign=1054&utm_source=git)** | Midland, TX, United States | On Site | Sep 12 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/6a6de90dc56c0956e8ada521?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Sep 12 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6a845840e459fa3baa85dbdf?utm_campaign=1054&utm_source=git)** | Northampton, MA, United States | On Site | Sep 12 |
-| ↳ | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa45848422289703bd66415?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Sep 12 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa3b921959a10d7230d386c?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Sep 12 |
+| ↳ | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6a845840e459fa3baa85dbdf?utm_campaign=1054&utm_source=git)** | Northampton, MA, United States | On Site | Sep 12 |
 | **[Precision Castparts](http://precast.com)** | **[HR Intern/CO-OP (Incotec)](https://jobright.ai/jobs/info/6aa59ede42411952ff9a94ad?utm_campaign=1054&utm_source=git)** | Mojave, CA, United States | On Site | Sep 12 |
 | **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2027 US HR Summer Internship Program](https://jobright.ai/jobs/info/6a6cfc2532f9300c3a3e65ec?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 12 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern – Field Human Resources (Louisville, KY)](https://jobright.ai/jobs/info/6a971089d13b4819f39deddd?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Sep 12 |
@@ -100,7 +102,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Human Resources Summer Internship](https://jobright.ai/jobs/info/6aa53908a77a53f5a157038e?utm_campaign=1054&utm_source=git)** | Ottumwa, IA, United States | On Site | Sep 11 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2027 (Multiple Locations)](https://jobright.ai/jobs/info/6aa4ff5c42411952ff9a663d?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 11 |
 | ↳ | **[Safety Internship - Summer 2027 (Multiple Locations)](https://jobright.ai/jobs/info/6aa509f6930bff471a29cbbd?utm_campaign=1054&utm_source=git)** | Los Lunas, NM, United States | On Site | Sep 11 |
-| **[GlassRatner](http://glassratner.com)** | **[Intern, Executive Search](https://jobright.ai/jobs/info/6aa48a301d92e2d05d115246?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 11 |
+| **[GlassRatner](http://glassratner.com)** | **[Intern, Executive Search](https://jobright.ai/jobs/info/6aa489eaf7baf881567cf14e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 11 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2027 (Multiple Locations)](https://jobright.ai/jobs/info/6aa5181242411952ff9a7048?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 11 |
 | ↳ | **[Safety Internship - Summer 2027 (Multiple Locations)](https://jobright.ai/jobs/info/6aa4f981654b2a9424cf2096?utm_campaign=1054&utm_source=git)** | Eagle Mountain, UT, United States | On Site | Sep 11 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2027 Human Resources Summer Internship](https://jobright.ai/jobs/info/6aa4f6fd654b2a9424cf1ff3?utm_campaign=1054&utm_source=git)** | Broadway, VA, United States | On Site | Sep 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a5c02c463a8f619507cc713?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Sep 11 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern – Talent Acquisition, Campus Recruiting](https://jobright.ai/jobs/info/6a91bf15c12c90443efc7fcc?utm_campaign=1054&utm_source=git)** | Frisco, TX, United States | Hybrid | Sep 11 |
 | ↳ | **[Summer 2027 Intern – Talent Acquisition, Campus Recruiting](https://jobright.ai/jobs/info/6a91bd3f8e59685453377766?utm_campaign=1054&utm_source=git)** | Frisco, TX, United States | Hybrid | Sep 11 |
-| **[Morning Brew Inc.](http://morningbrewinc.com)** | **[Senior Associate, Talent Acquisition](https://jobright.ai/jobs/info/6aa56107a77a53f5a1570d2c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6aa46957f3aa936e2cdb1276?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
