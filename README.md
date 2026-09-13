@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GAOTek Inc.](https://www.gaotek.com)** | **[Recruiting Operations (HR)  Intern](https://jobright.ai/jobs/info/6aa69088a77a53f5a157477b?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Canada | Remote | Sep 13 |
+| **[GAOTek Inc.](https://www.gaotek.com)** | **[Recruitment Operations Intern](https://jobright.ai/jobs/info/6aa6b64b654b2a9424cf80a7?utm_campaign=1054&utm_source=git)** | Halton Hills, ON, Canada | Remote | Sep 13 |
 | **[Veeam Software](http://www.veeam.com)** | **[Compensation Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4ce24a77a53f5a156e260?utm_campaign=1054&utm_source=git)** | Remote, GA, United States | Remote | Sep 13 |
 | ↳ | **[Talent Growth and Inclusion Intern- Summer 2027](https://jobright.ai/jobs/info/6aa493948275e3a211760df9?utm_campaign=1054&utm_source=git)** | Washington, United States | Remote | Sep 13 |
 | ↳ | **[Talent Growth and Inclusion Intern- Summer 2027](https://jobright.ai/jobs/info/6aa47110c1928370a285df69?utm_campaign=1054&utm_source=git)** | Washington, United States | Remote | Sep 13 |
