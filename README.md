@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Intern, Year-Round (San Angelo)](https://jobright.ai/jobs/info/6aab5ca740807b73bd394d0c?utm_campaign=1054&utm_source=git)** | San Angelo, TX, United States | On Site | Sep 16 |
+| **[Federal Reserve Board](https://www.federalreserve.gov/)** | **[People Strategy & Operations Year-Round Graduate Intern - MFS](https://jobright.ai/jobs/info/6aab5b9d76707040fb0851d8?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Sep 16 |
+| **[Etched](https://www.etched.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6aab4d674be87a72913a4054?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Sep 16 |
 | **[RBC](https://www.rbc.com)** | **[LeadershipTrainee](https://jobright.ai/jobs/info/6aab1bca4be87a72913a359c?utm_campaign=1054&utm_source=git)** | Winnipeg, MB, Canada | On Site | Sep 16 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a585cf272fe7a7b98dcddb2?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Employee Experience and Engagement Intern](https://jobright.ai/jobs/info/6aab2eeaf6bd9d2d17c1bcaa?utm_campaign=1054&utm_source=git)** | Bill J Priest Center, United States of America | On Site | Sep 16 |
@@ -101,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[ITW](http://www.itw.com/)** | **[Safety & Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6aaacf63c85610f4a4841d07?utm_campaign=1054&utm_source=git)** | Troy, OH, United States | On Site | Sep 16 |
 | **[McGough](http://www.mcgough.com)** | **[Internship/Co-op, Safety Management](https://jobright.ai/jobs/info/6a8da085581f2d7bfdfe7f4e?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Sep 16 |
 | ↳ | **[Internship/Co-op, Safety Management](https://jobright.ai/jobs/info/6aa01c15500b01124c776da3?utm_campaign=1054&utm_source=git)** | Saint Paul, MN, United States | On Site | Sep 16 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - Learning and Development Coordinator (IT)](https://jobright.ai/jobs/info/6aaabb8476707040fb081d0c?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 16 |
-| ↳ | **[Intern - Human Resources Coordinator (IT)](https://jobright.ai/jobs/info/6aaabbfb8e1bf0f764af609a?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 16 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - Human Resources Coordinator (IT)](https://jobright.ai/jobs/info/6aaabbfb8e1bf0f764af609a?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 16 |
+| ↳ | **[Intern - Learning and Development Coordinator (IT)](https://jobright.ai/jobs/info/6aaabb8476707040fb081d0c?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 16 |
 | **[Allied Universal](https://www.aus.com)** | **[Event Staff (Intern)](https://jobright.ai/jobs/info/6aaacd044be87a72913a176c?utm_campaign=1054&utm_source=git)** | Norfolk, VA, United States | On Site | Sep 16 |
 | **[Southwire Company](http://southwire.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aaac9a3c85610f4a4841ab9?utm_campaign=1054&utm_source=git)** | Bremen, IN, United States | On Site | Sep 16 |
 | **[MS Transverse](https://transverseinsurance.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aa8ab2783a6750b1adf9680?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 16 |
@@ -139,7 +142,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Internship - Human Resources Associate](https://jobright.ai/jobs/info/6a97eb0369d7730385d6ce19?utm_campaign=1054&utm_source=git)** | Wichita, KS, United States | On Site | Sep 16 |
 | ↳ | **[2027 Summer Intern - Human Resources – Fort Worth, TX](https://jobright.ai/jobs/info/6a97ead469d7730385d6cdf7?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 16 |
 | **[Dilico Anishinabek Family Care](https://www.dilico.com)** | **[Indigenous HR Intern](https://jobright.ai/jobs/info/6aaab76bc85610f4a4841175?utm_campaign=1054&utm_source=git)** | Thunder Bay, ON, Canada | On Site | Sep 16 |
-| **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/6aa8ab4583a6750b1adf9692?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Sep 16 |
+| **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/6a975347246d697dcee04e43?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Sep 16 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Sep 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6a8ead33382b237ac80c293a?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 16 |
 | ↳ | **[Talent Acquisition Project Intern (GMPT) - 2026 Start](https://jobright.ai/jobs/info/6a8ead3e3ac3a34f92d7dde5?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Sep 16 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Legrand](https://www.legrand.com)** | **[Graduate Intern – Talent Programs](https://jobright.ai/jobs/info/6aa44c70c1928370a285d6dd?utm_campaign=1054&utm_source=git)** | West Hartford, CT, United States | Hybrid | Sep 16 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[HR Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa9917128e24cb38513ac41?utm_campaign=1054&utm_source=git)** | Carol Stream, IL, United States | On Site | Sep 16 |
 | **[Episcopal SeniorLife Communities](https://episcopalseniorlife.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aaa958440807b73bd390d4b?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Sep 16 |
+| **[North Central Mental Health Services, Inc.](https://www.ncmhs.org)** | **[HR Internship, Paid](https://jobright.ai/jobs/info/6aab539d8e1bf0f764af942d?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Sep 16 |
 | **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6aa3d3749b7684dd0b92e0c8?utm_campaign=1054&utm_source=git)** | Anchorage, AK, United States | On Site | Sep 16 |
-| ↳ | **[Stafford Seasonal HR Intern](https://jobright.ai/jobs/info/6aa3a2f44238ea18d430d16b?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 16 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6aa9f32410b1cd4f416090d5?utm_campaign=1054&utm_source=git)** | Santa Barbara, CA, United States | On Site | Sep 16 |
 | ↳ | **[Round Rock Seasonal HR Intern](https://jobright.ai/jobs/info/6aa185ceef23570cae2443ad?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 16 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f2812e51a1e18a24108e2?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Sep 16 |
-| **[Bertelsmann SE & Co. KGaA](http://www.bertelsmann.com)** | **[Human Resources Intern (Bilingual English/Spanish) Job Details / Apply now!](https://jobright.ai/jobs/info/6a95e7bd9fcec544237301cc?utm_campaign=1054&utm_source=git)** | 51 Sawyer Road, Suite 620, Waltham, MA 02453, United States | On Site | Sep 15 |
-| **[BioSpace](http://www.biospace.com/)** | **[2027 Human Resources Leadership Development Program Intern (Master's)](https://jobright.ai/jobs/info/6aaa1d963387a3d9b67d917e?utm_campaign=1054&utm_source=git)** | North Chicago, IL, United States | On Site | Sep 15 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6a7f27db927c79391ad069b3?utm_campaign=1054&utm_source=git)** | Elm Grove, WI, United States | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
