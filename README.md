@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern](https://jobright.ai/jobs/info/6aabf092636cddf7396f14dc?utm_campaign=1054&utm_source=git)** | Sandusky, OH, United States | On Site | Sep 17 |
+| **[Nova Scotia Power](http://www.nspower.ca/en/home/default.aspx)** | **[Co-op Human Capital Management](https://jobright.ai/jobs/info/6aabe5e995c707f49dfee6f1?utm_campaign=1054&utm_source=git)** | Halifax, NS, Canada | On Site | Sep 17 |
+| **[Timmons Group](http://www.timmons.com/)** | **[Internship - Summer 2027](https://jobright.ai/jobs/info/6aabe5642e757fcb5c8b2a53?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 17 |
 | **[Superior](http://superiorgroup.net)** | **[Talent Acquisition Internship - Spring 2027](https://jobright.ai/jobs/info/6a9936b68a8b765bc55f21f1?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Sep 17 |
 | **[Metro One Security](http://metroonelpsg.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6aabc6a0636cddf7396f0de1?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Sep 17 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6aabc67c3e3ce93970c7a4f3?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Sep 17 |
@@ -73,6 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton Isle of Man](http://www.grantthornton.co.im)** | **[Workforce Transformation Intern - Summer 2027](https://jobright.ai/jobs/info/6a8f042e3ac3a34f92d7f15e?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 17 |
 | **[Oracle](https://www.oracle.com/)** | **[SkillBridge NetSuite Military Fellowship: September - November 2026](https://jobright.ai/jobs/info/6a5af545686b4755d1e17c85?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | Remote | Sep 17 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Retirement Actuarial Internship – (Winter, Summer or Fall 2027) – Toronto](https://jobright.ai/jobs/info/6a8f5eb4a10ee661e24d7ed8?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 17 |
+| **[BCI Burke Company](http://www.bciburke.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aabedab3e3ce93970c7aba4?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI, United States | On Site | Sep 17 |
+| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2027 Human Resources Intern](https://jobright.ai/jobs/info/6aabeb693dbb1f8967ce7ca6?utm_campaign=1054&utm_source=git)** | Shakopee, MN, United States | On Site | Sep 17 |
 | **[Heritage Auctions](https://www.ha.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aaad99576707040fb082a76?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Sep 17 |
 | **[Five Iron Golf](https://fiveirongolf.com/)** | **[Human Resources Internship (Part-Time, Paid)](https://jobright.ai/jobs/info/6aaaff8e40807b73bd393386?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
 | **[Fareway Stores, Inc.](https://www.fareway.com)** | **[Employee Engagement & Recognition Internship](https://jobright.ai/jobs/info/6aaab004c85610f4a4840e6d?utm_campaign=1054&utm_source=git)** | Johnston, IA, United States | On Site | Sep 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elk Valley Resources](http://www.evr.com)** | **[January 2027 Talent Management Co-op](https://jobright.ai/jobs/info/6a9741c5b22f636c81416fe1?utm_campaign=1054&utm_source=git)** | Sparwood, BC, Canada | On Site | Sep 16 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aaaa95040807b73bd391183?utm_campaign=1054&utm_source=git)** | Rock Island, IL, United States | Hybrid | Sep 16 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Human Resources Intern (Spring 2027)](https://jobright.ai/jobs/info/6aaaa6268e1bf0f764af5829?utm_campaign=1054&utm_source=git)** | Hershey, PA, United States | On Site | Sep 16 |
-| **[Current](https://current.co)** | **[HR Intern](https://jobright.ai/jobs/info/6a711c8b02d93145bf88e584?utm_campaign=1054&utm_source=git)** | Fayetteville, AR, United States | On Site | Sep 16 |
-| **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Fraternal Intern](https://jobright.ai/jobs/info/6aaaa0b1c85610f4a4840ae0?utm_campaign=1054&utm_source=git)** | Rock Island, IL, United States | On Site | Sep 16 |
-| ↳ | **[Fraternal Intern](https://jobright.ai/jobs/info/6aaa9f0f40807b73bd390f7a?utm_campaign=1054&utm_source=git)** | Rock Island, IL, United States | Hybrid | Sep 16 |
-| **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/6a8e011c581f2d7bfdfea7ea?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Sep 16 |
-| **[Children's Museum Houston](https://www.cmhouston.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aaa95bb8e1bf0f764af541e?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
