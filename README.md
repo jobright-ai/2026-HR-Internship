@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Corporate Functions) - 2026 Start](https://jobright.ai/jobs/info/6a9147a02e254e06fb9f3e88?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Sep 18 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Sep 18 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Sep 18 |
@@ -80,17 +81,17 @@ For a complete list, click the following sortable link below:
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Payroll Services](https://jobright.ai/jobs/info/6aac834b636cddf7396f455f?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Sep 17 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Safety Internship Program - Midwest Region 2026 – 2027](https://jobright.ai/jobs/info/6aab165676707040fb084186?utm_campaign=1054&utm_source=git)** | La Porte, IN, United States | On Site | Sep 17 |
 | **[Insperity](http://www.insperity.com)** | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6aac34973dbb1f8967ce96ce?utm_campaign=1054&utm_source=git)** | Kingwood, TX, United States | On Site | Sep 17 |
-| ↳ | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6aac34a295c707f49dff01ee?utm_campaign=1054&utm_source=git)** | Florham Park, NJ, United States | On Site | Sep 17 |
 | ↳ | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6aac34973e3ce93970c7c49b?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, United States | On Site | Sep 17 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HR Performance Management Intern](https://jobright.ai/jobs/info/6aab0a9c8e1bf0f764af8186?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | Hybrid | Sep 17 |
-| ↳ | **[HR Compensation Intern](https://jobright.ai/jobs/info/6aab0a9f40807b73bd39382a?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | Hybrid | Sep 17 |
+| ↳ | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6aac34a295c707f49dff01ee?utm_campaign=1054&utm_source=git)** | Florham Park, NJ, United States | On Site | Sep 17 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HR Compensation Intern](https://jobright.ai/jobs/info/6aab0a9f40807b73bd39382a?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | Hybrid | Sep 17 |
+| ↳ | **[HR Performance Management Intern](https://jobright.ai/jobs/info/6aab0a9c8e1bf0f764af8186?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | Hybrid | Sep 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Fall 2026](https://jobright.ai/jobs/info/6aac743295c707f49dff1777?utm_campaign=1054&utm_source=git)** | Ontario, CA, United States | On Site | Sep 17 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6aac73d93d96632d741ab13f?utm_campaign=1054&utm_source=git)** | Waldorf, MD, United States | On Site | Sep 17 |
 | ↳ | **[Spring 2027 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/6aac73cc95c707f49dff1766?utm_campaign=1054&utm_source=git)** | Rutland, VT, United States | On Site | Sep 17 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6aac73c82e757fcb5c8b5a0d?utm_campaign=1054&utm_source=git)** | Fredericksburg, VA, United States | On Site | Sep 17 |
 | ↳ | **[Management Trainee Intern Spring 2027](https://jobright.ai/jobs/info/6aac738f3dbb1f8967ceabe4?utm_campaign=1054&utm_source=git)** | Ontario, CA, United States | On Site | Sep 17 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6aac738f3e3ce93970c7d9a4?utm_campaign=1054&utm_source=git)** | Upper Marlboro, MD, United States | On Site | Sep 17 |
-| **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a594bcc3ac7627fe9ffe9fb?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Sep 17 |
+| **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a563cf321f64463ad35327b?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Sep 17 |
 | **[Plug and Play](https://www.plugandplaytechcenter.com)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6aac6d9a636cddf7396f40e7?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA, United States | On Site | Sep 17 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, People Office, FIS University Program](https://jobright.ai/jobs/info/6aac65883dbb1f8967cea805?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources/Talent Development Unpaid Internship - Spring 2027](https://jobright.ai/jobs/info/6aac3ff4636cddf7396f319d?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://jobright.ai/jobs/info/6aabbc1576707040fb085e6e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 17 |
 | ↳ | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6a8f85a42e254e06fb9ed986?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Sep 17 |
 | ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Start](https://jobright.ai/jobs/info/6a8f85c47c32860d14cf6128?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
-| **[Grant Thornton Isle of Man](http://www.grantthornton.co.im)** | **[Workforce Transformation Intern - Summer 2027](https://jobright.ai/jobs/info/6a8f042e3ac3a34f92d7f15e?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
