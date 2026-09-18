@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dynamic Aviation](http://www.dynamicaviation.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aac44a8636cddf7396f332c?utm_campaign=1054&utm_source=git)** | Bridgewater, VA, United States | On Site | Sep 17 |
 | **[CAMS](http://camstex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aac9c83636cddf7396f4926?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 17 |
 | **[OESC (Oneida ESC Group)](https://oescgroup.com/)** | **[INTERNSHIP - Human Resources & Talent Acquisition](https://jobright.ai/jobs/info/6aac0f1b3e3ce93970c7b66c?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Sep 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Paid Internship (Family Division)](https://jobright.ai/jobs/info/6aac4e2d2e757fcb5c8b4e66?utm_campaign=1054&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 17 |
@@ -64,9 +65,9 @@ For a complete list, click the following sortable link below:
 | **[Post Holdings](http://postholdings.com)** | **[Talent Acquisition Intern Summer 2027](https://jobright.ai/jobs/info/6aaca71f3d96632d741ab99d?utm_campaign=1054&utm_source=git)** | New Albany, OH, United States | On Site | Sep 17 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Payroll Services](https://jobright.ai/jobs/info/6aac834b636cddf7396f455f?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Sep 17 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Safety Internship Program - Midwest Region 2026 – 2027](https://jobright.ai/jobs/info/6aab165676707040fb084186?utm_campaign=1054&utm_source=git)** | La Porte, IN, United States | On Site | Sep 17 |
-| **[Insperity](http://www.insperity.com)** | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6aac34973e3ce93970c7c49b?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, United States | On Site | Sep 17 |
+| **[Insperity](http://www.insperity.com)** | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6aac34973dbb1f8967ce96ce?utm_campaign=1054&utm_source=git)** | Kingwood, TX, United States | On Site | Sep 17 |
+| ↳ | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6aac34973e3ce93970c7c49b?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, United States | On Site | Sep 17 |
 | ↳ | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6aac34a295c707f49dff01ee?utm_campaign=1054&utm_source=git)** | Florham Park, NJ, United States | On Site | Sep 17 |
-| ↳ | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6aac34973dbb1f8967ce96ce?utm_campaign=1054&utm_source=git)** | Kingwood, TX, United States | On Site | Sep 17 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6aac551c2e757fcb5c8b5178?utm_campaign=1054&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Sep 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Fall 2026](https://jobright.ai/jobs/info/6aac743295c707f49dff1777?utm_campaign=1054&utm_source=git)** | Ontario, CA, United States | On Site | Sep 17 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6aac73d93d96632d741ab13f?utm_campaign=1054&utm_source=git)** | Waldorf, MD, United States | On Site | Sep 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eversource Energy](https://www.eversource.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a91f3639864261ccd29fbb2?utm_campaign=1054&utm_source=git)** | Berlin, CT, United States | On Site | Sep 16 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HR Performance Management Intern](https://jobright.ai/jobs/info/6aab0a9c8e1bf0f764af8186?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | Hybrid | Sep 16 |
 | ↳ | **[HR Compensation Intern](https://jobright.ai/jobs/info/6aab0a9f40807b73bd39382a?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | Hybrid | Sep 16 |
-| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Global Solutions Internship](https://jobright.ai/jobs/info/6aaae28640807b73bd3928f5?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
