@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Fall 2026](https://jobright.ai/jobs/info/6a66c3055c7e2d715ebb3fbc?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 19 |
+| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Sep 19 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6a978c11156a596393fe6466?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | Sep 19 |
 | **[Oracle](https://www.oracle.com/)** | **[SkillBridge NetSuite Military Fellowship: September - November 2026](https://jobright.ai/jobs/info/6a5af545686b4755d1e17c85?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | Remote | Sep 19 |
 | **[Lockton](https://global.lockton.com)** | **[Summer Associate 2027 People Solutions - Alabama, Atlanta, Charlotte, Florida](https://jobright.ai/jobs/info/6a74b408972ac843c6996a25?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 19 |
@@ -80,11 +82,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2600ebc8fb2313eb691?utm_campaign=1054&utm_source=git)** | Boone, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23f3d96632d741afc10?utm_campaign=1054&utm_source=git)** | Asheville, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23e0ebc8fb2313eb683?utm_campaign=1054&utm_source=git)** | Arden, NC, United States | On Site | Sep 18 |
-| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d0ebc8fb2313eb682?utm_campaign=1054&utm_source=git)** | High Point, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d2e757fcb5c8ba4cd?utm_campaign=1054&utm_source=git)** | Hickory, NC, United States | On Site | Sep 18 |
+| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d0ebc8fb2313eb682?utm_campaign=1054&utm_source=git)** | High Point, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2292e757fcb5c8ba4c9?utm_campaign=1054&utm_source=git)** | Mooresville, NC, United States | On Site | Sep 18 |
-| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc228de327d3e210d4533?utm_campaign=1054&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2282e757fcb5c8ba4c8?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Sep 18 |
+| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc228de327d3e210d4533?utm_campaign=1054&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 18 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Payer and Health Systems - Intern](https://jobright.ai/jobs/info/6aad78033d96632d741ae107?utm_campaign=1054&utm_source=git)** | North Wales, PA, United States | Remote | Sep 18 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2027 Guardian Summer Intern, HR Technology Knowledge Management & AI Operations](https://jobright.ai/jobs/info/6aad84e30ebc8fb2313ea05e?utm_campaign=1054&utm_source=git)** | Bethlehem, PA, United States | Hybrid | Sep 18 |
 | **[Nicolet National Bank](http://nicoletbank.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b2ece2cdc5958f53eb3eb?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 18 |
@@ -134,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Management Trainee Intern - Reading](https://jobright.ai/jobs/info/6aad70f23d96632d741ade9f?utm_campaign=1054&utm_source=git)** | Reading, PA, United States | On Site | Sep 18 |
 | ↳ | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/6aad70f26956574eac8b5b74?utm_campaign=1054&utm_source=git)** | Stevens Point, WI, United States | On Site | Sep 18 |
 | ↳ | **[Spring 2027 Management Trainee Intern - York](https://jobright.ai/jobs/info/6aad70ec0ebc8fb2313e98e8?utm_campaign=1054&utm_source=git)** | York, PA, United States | On Site | Sep 18 |
-| ↳ | **[Management Trainee Intern - La Crosse](https://jobright.ai/jobs/info/6aad70e6de327d3e210d2736?utm_campaign=1054&utm_source=git)** | La Crosse, WI, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/6aad70e62e757fcb5c8b868f?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA, United States | On Site | Sep 18 |
+| ↳ | **[Management Trainee Intern - La Crosse](https://jobright.ai/jobs/info/6aad70e6de327d3e210d2736?utm_campaign=1054&utm_source=git)** | La Crosse, WI, United States | On Site | Sep 18 |
 | **[Philip Morris International U.S.](https://www.uspmi.com)** | **[Undergraduate Intern - People & Culture Summer 2027](https://jobright.ai/jobs/info/6aadaad23d96632d741af41f?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Hybrid | Sep 18 |
 | **[StoneRidge Senior Living Community](https://stoneridgelcs.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6aad6b3c3dbb1f8967ced69e?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 18 |
 | **[LCS](https://www.lcsnet.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6aad6b3c3d96632d741adc4f?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Winland Foods](https://winlandfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a7395181ce9647cdbca9063?utm_campaign=1054&utm_source=git)** | Oak Brook, IL, United States | Hybrid | Sep 18 |
 | **[TAQA Group](https://www.taqa.com)** | **[Human Resources Summer Student (Summer 2027 Work Term)](https://jobright.ai/jobs/info/6aad4f513dbb1f8967cecc82?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 18 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - Employee Recognition](https://jobright.ai/jobs/info/6a9035a3d96ad228f126000d?utm_campaign=1054&utm_source=git)** | Aiken, SC, United States | On Site | Sep 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a9195248e596854533764a6?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Sep 18 |
-| **[IGS Energy](http://www.igsenergy.com)** | **[Campus Talent Engagement Intern (Summer 2027)](https://jobright.ai/jobs/info/6a90759c7c32860d14cf9870?utm_campaign=1054&utm_source=git)** | Ohio, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
