@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2600ebc8fb2313eb691?utm_campaign=1054&utm_source=git)** | Boone, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23f3d96632d741afc10?utm_campaign=1054&utm_source=git)** | Asheville, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23e0ebc8fb2313eb683?utm_campaign=1054&utm_source=git)** | Arden, NC, United States | On Site | Sep 18 |
-| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d0ebc8fb2313eb682?utm_campaign=1054&utm_source=git)** | High Point, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d2e757fcb5c8ba4cd?utm_campaign=1054&utm_source=git)** | Hickory, NC, United States | On Site | Sep 18 |
+| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d0ebc8fb2313eb682?utm_campaign=1054&utm_source=git)** | High Point, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2292e757fcb5c8ba4c9?utm_campaign=1054&utm_source=git)** | Mooresville, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2282e757fcb5c8ba4c8?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc228de327d3e210d4533?utm_campaign=1054&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 18 |
@@ -121,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Green Bay](https://jobright.ai/jobs/info/6aad715a3d96632d741adecc?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 18 |
 | ↳ | **[Management Trainee Intern - Eau Claire](https://jobright.ai/jobs/info/6aad712c2e757fcb5c8b86a3?utm_campaign=1054&utm_source=git)** | Altoona, WI, United States | On Site | Sep 18 |
 | ↳ | **[Spring 2027 Management Trainee Intern - Chambersburg](https://jobright.ai/jobs/info/6aad71143d96632d741adea8?utm_campaign=1054&utm_source=git)** | Chambersburg, PA, United States | On Site | Sep 18 |
-| ↳ | **[Summer 2027 Management Trainee Intern - Harrisburg](https://jobright.ai/jobs/info/6aad71092e757fcb5c8b869a?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/6aad71092e757fcb5c8b869b?utm_campaign=1054&utm_source=git)** | Lebanon, Pennsylvania, United States | On Site | Sep 18 |
+| ↳ | **[Summer 2027 Management Trainee Intern - Harrisburg](https://jobright.ai/jobs/info/6aad71092e757fcb5c8b869a?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Reading](https://jobright.ai/jobs/info/6aad71056956574eac8b5b7e?utm_campaign=1054&utm_source=git)** | Reading, PA, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Lancaster](https://jobright.ai/jobs/info/6aad71020ebc8fb2313e98f0?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Sep 18 |
 | ↳ | **[Spring 2027 Management Trainee Intern - Harrisburg](https://jobright.ai/jobs/info/6aad71010ebc8fb2313e98ed?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 18 |
