@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Macon, GA / Summer 2027](https://jobright.ai/jobs/info/6a91bee1a27a2d3c98489db2?utm_campaign=1054&utm_source=git)** | Macon, GA, United States | On Site | Sep 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a62eaa899515267a6f0083a?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Sep 19 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Maumelle, AR / Summer 2027](https://jobright.ai/jobs/info/6a9266bd3603630099196342?utm_campaign=1054&utm_source=git)** | Maumelle, AR, United States | On Site | Sep 19 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Human Resources - Summer 2027](https://jobright.ai/jobs/info/6a76168fb17cba569035c9b5?utm_campaign=1054&utm_source=git)** | Northfield, IL, United States | Remote | Sep 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Intern / Danbury, CT](https://jobright.ai/jobs/info/6aaea4042e757fcb5c8bbc50?utm_campaign=1054&utm_source=git)** | Danbury, CT, United States | On Site | Sep 19 |
@@ -78,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Philip Morris International](https://www.pmi.com)** | **[Undergraduate Intern - People & Culture Summer 2027](https://jobright.ai/jobs/info/6aadda9f0ebc8fb2313eba5a?utm_campaign=1054&utm_source=git)** | Tampa, Florida, United States | Hybrid | Sep 18 |
 | **[Haworth](http://www.haworth.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aac1ff995c707f49dfefa0d?utm_campaign=1054&utm_source=git)** | Holland, MI, United States | On Site | Sep 18 |
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Business Management & Recruiting Intern, Part-Time or Full-Time](https://jobright.ai/jobs/info/6aad6f333dbb1f8967ced838?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 18 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Recruiting Data Intelligence](https://jobright.ai/jobs/info/6aadc6283dbb1f8967cef7cc?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 18 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Recruiting Data Intelligence](https://jobright.ai/jobs/info/6aadc8883d96632d741afd3f?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 18 |
 | **[Morningstar](http://www.morningstar.com)** | **[Morningstar Internship Program – People & Culture Intern 2027 (Campus)](https://jobright.ai/jobs/info/6aa9c42c28e24cb38513c055?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 18 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Union, NJ](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Sep 18 |
 | **[Barge Design Solutions](https://www.bargedesign.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6aad99920ebc8fb2313ea821?utm_campaign=1054&utm_source=git)** | Peachtree Corners, GA, United States | On Site | Sep 18 |
@@ -140,11 +142,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Management Trainee Intern - Harrisburg](https://jobright.ai/jobs/info/6aad71010ebc8fb2313e98ed?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 18 |
 | ↳ | **[Management Trainee Intern - Appleton](https://jobright.ai/jobs/info/6aad71013dbb1f8967ced8ca?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Sep 18 |
 | ↳ | **[Management Trainee Intern - Madison](https://jobright.ai/jobs/info/6aad70f73dbb1f8967ced8c6?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | On Site | Sep 18 |
-| ↳ | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/6aad70f26956574eac8b5b74?utm_campaign=1054&utm_source=git)** | Stevens Point, WI, United States | On Site | Sep 18 |
 | ↳ | **[Spring 2027 Management Trainee Intern - Reading](https://jobright.ai/jobs/info/6aad70f23d96632d741ade9f?utm_campaign=1054&utm_source=git)** | Reading, PA, United States | On Site | Sep 18 |
+| ↳ | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/6aad70f26956574eac8b5b74?utm_campaign=1054&utm_source=git)** | Stevens Point, WI, United States | On Site | Sep 18 |
 | ↳ | **[Spring 2027 Management Trainee Intern - York](https://jobright.ai/jobs/info/6aad70ec0ebc8fb2313e98e8?utm_campaign=1054&utm_source=git)** | York, PA, United States | On Site | Sep 18 |
-| ↳ | **[Summer 2027 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/6aad70e62e757fcb5c8b868f?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA, United States | On Site | Sep 18 |
 | ↳ | **[Management Trainee Intern - La Crosse](https://jobright.ai/jobs/info/6aad70e6de327d3e210d2736?utm_campaign=1054&utm_source=git)** | La Crosse, WI, United States | On Site | Sep 18 |
+| ↳ | **[Summer 2027 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/6aad70e62e757fcb5c8b868f?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA, United States | On Site | Sep 18 |
 | **[Philip Morris International U.S.](https://www.uspmi.com)** | **[Undergraduate Intern - People & Culture Summer 2027](https://jobright.ai/jobs/info/6aadaad23d96632d741af41f?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Hybrid | Sep 18 |
 | **[StoneRidge Senior Living Community](https://stoneridgelcs.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6aad6b3c3dbb1f8967ced69e?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 18 |
 | **[LCS](https://www.lcsnet.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6aad6b3c3d96632d741adc4f?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Casa de las Campanas](https://www.casadelascampanas.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6aad60d03dbb1f8967ced0d3?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 18 |
 | **[Cottage Grove Place](https://cottagegroveplace.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6aad5dd62e757fcb5c8b7db8?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 18 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a908ad40bd89e205d24ae89?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 18 |
-| **[Honeywell Technologies](http://www.honeywell.com)** | **[Future HR Leaders - Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a615a19886486676274b?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 18 |
-| **[Nokia](http://www.nokia.com)** | **[Early Careers Talent Acquisition Student](https://jobright.ai/jobs/info/6aad59483dbb1f8967cecf23?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
