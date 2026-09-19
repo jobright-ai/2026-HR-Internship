@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Union, NJ](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Sep 18 |
+| **[Barge Design Solutions](https://www.bargedesign.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6aad99920ebc8fb2313ea821?utm_campaign=1054&utm_source=git)** | Peachtree Corners, GA, United States | On Site | Sep 18 |
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Team Member Success Fall Internship](https://jobright.ai/jobs/info/6a8cb0bd25fc4e7ae3db9f5d?utm_campaign=1054&utm_source=git)** | Westminster, CO, United States | On Site | Sep 18 |
 | **[ITW](http://www.itw.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aada8ef0ebc8fb2313eadf4?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Sep 18 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship - Fall 2026 & Spring 2027](https://jobright.ai/jobs/info/6aadc54d0ebc8fb2313eb741?utm_campaign=1054&utm_source=git)** | Dedham, MA, United States | On Site | Sep 18 |
@@ -64,11 +66,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2600ebc8fb2313eb691?utm_campaign=1054&utm_source=git)** | Boone, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23f3d96632d741afc10?utm_campaign=1054&utm_source=git)** | Asheville, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23e0ebc8fb2313eb683?utm_campaign=1054&utm_source=git)** | Arden, NC, United States | On Site | Sep 18 |
-| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d0ebc8fb2313eb682?utm_campaign=1054&utm_source=git)** | High Point, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d2e757fcb5c8ba4cd?utm_campaign=1054&utm_source=git)** | Hickory, NC, United States | On Site | Sep 18 |
+| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d0ebc8fb2313eb682?utm_campaign=1054&utm_source=git)** | High Point, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2292e757fcb5c8ba4c9?utm_campaign=1054&utm_source=git)** | Mooresville, NC, United States | On Site | Sep 18 |
-| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc228de327d3e210d4533?utm_campaign=1054&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2282e757fcb5c8ba4c8?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Sep 18 |
+| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc228de327d3e210d4533?utm_campaign=1054&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 18 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Payer and Health Systems - Intern](https://jobright.ai/jobs/info/6aad78033d96632d741ae107?utm_campaign=1054&utm_source=git)** | North Wales, PA, United States | Remote | Sep 18 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2027 Guardian Summer Intern, HR Technology Knowledge Management & AI Operations](https://jobright.ai/jobs/info/6aad84e30ebc8fb2313ea05e?utm_campaign=1054&utm_source=git)** | Bethlehem, PA, United States | Hybrid | Sep 18 |
 | **[Nicolet National Bank](http://nicoletbank.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b2ece2cdc5958f53eb3eb?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 18 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-HR Talent Development](https://jobright.ai/jobs/info/6a9b267bfe45b8490f607082?utm_campaign=1054&utm_source=git)** | Lakewood, CO, United States | Hybrid | Sep 18 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Trust Management Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/6aad9d110ebc8fb2313ea99a?utm_campaign=1054&utm_source=git)** | Jackson, WY, United States | On Site | Sep 18 |
 | **[NiSource](https://www.nisource.com/)** | **[Intern HR](https://jobright.ai/jobs/info/6a96f929e4e60e4b8da5b066?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Sep 18 |
-| **[Barge Design Solutions](https://www.bargedesign.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6aad99920ebc8fb2313ea821?utm_campaign=1054&utm_source=git)** | Peachtree Corners, GA, United States | On Site | Sep 18 |
 | **[George J. Igel & Co., Inc.](https://www.buildwithigel.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aad4ef70ebc8fb2313e8bd1?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | Hybrid | Sep 18 |
 | **[Athene](https://www.athene.com/)** | **[Workforce Management Intern](https://jobright.ai/jobs/info/6aad47f13dbb1f8967cec97a?utm_campaign=1054&utm_source=git)** | West Des Moines, IA, United States | On Site | Sep 18 |
 | **[Securitas Security Services USA, Inc.](http://www.securitasinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99be1c551435518ebf0bcd?utm_campaign=1054&utm_source=git)** | Dublin, OH, United States | On Site | Sep 18 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[IGS Energy](http://www.igsenergy.com)** | **[Campus Talent Engagement Intern (Summer 2027)](https://jobright.ai/jobs/info/6a90759c7c32860d14cf9870?utm_campaign=1054&utm_source=git)** | Ohio, United States | On Site | Sep 18 |
 | **[Timmons Group](http://www.timmons.com/)** | **[Internship - Summer 2027](https://jobright.ai/jobs/info/6aabe5642e757fcb5c8b2a53?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 18 |
 | **[Sparton](http://www.sparton.com)** | **[Human Resources Internship (Weekends)](https://jobright.ai/jobs/info/6aa1aa800ffb3d4fea6b667c?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL, United States | On Site | Sep 18 |
-| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Sep 18 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Sep 18 |
+| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Sep 18 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Sep 18 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Sep 18 |
 | **[CRST The Transportation Solution, Inc.](https://www.crst.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aad2b6c3d96632d741ac7a1?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Sep 18 |
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Business Management & Recruiting Intern, Part-Time or Full-Time](https://jobright.ai/jobs/info/6aad6f333dbb1f8967ced838?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regions Bank](http://www.regions.com)** | **[2027 ETP Intern - Human Resources Data and Analytics, Birmingham, AL](https://jobright.ai/jobs/info/6a95efbdf28891320e85f212?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | On Site | Sep 18 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Corporate Functions) - 2026 Start](https://jobright.ai/jobs/info/6a9147a02e254e06fb9f3e88?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Sep 18 |
-| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
