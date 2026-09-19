@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advanced Space](https://advancedspace.com/)** | **[2026 Team Member Success Fall Internship](https://jobright.ai/jobs/info/6a8cb0bd25fc4e7ae3db9f5d?utm_campaign=1054&utm_source=git)** | Westminster, CO, United States | On Site | Sep 18 |
 | **[ITW](http://www.itw.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aada8ef0ebc8fb2313eadf4?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Sep 18 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship - Fall 2026 & Spring 2027](https://jobright.ai/jobs/info/6aadc54d0ebc8fb2313eb741?utm_campaign=1054&utm_source=git)** | Dedham, MA, United States | On Site | Sep 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc28e3dbb1f8967cef6fa?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2600ebc8fb2313eb691?utm_campaign=1054&utm_source=git)** | Boone, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23f3d96632d741afc10?utm_campaign=1054&utm_source=git)** | Asheville, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23e0ebc8fb2313eb683?utm_campaign=1054&utm_source=git)** | Arden, NC, United States | On Site | Sep 18 |
-| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d2e757fcb5c8ba4cd?utm_campaign=1054&utm_source=git)** | Hickory, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d0ebc8fb2313eb682?utm_campaign=1054&utm_source=git)** | High Point, NC, United States | On Site | Sep 18 |
+| ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d2e757fcb5c8ba4cd?utm_campaign=1054&utm_source=git)** | Hickory, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2292e757fcb5c8ba4c9?utm_campaign=1054&utm_source=git)** | Mooresville, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc228de327d3e210d4533?utm_campaign=1054&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2282e757fcb5c8ba4c8?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Sep 18 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Green Bay](https://jobright.ai/jobs/info/6aad715a3d96632d741adecc?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 18 |
 | ↳ | **[Management Trainee Intern - Eau Claire](https://jobright.ai/jobs/info/6aad712c2e757fcb5c8b86a3?utm_campaign=1054&utm_source=git)** | Altoona, WI, United States | On Site | Sep 18 |
 | ↳ | **[Spring 2027 Management Trainee Intern - Chambersburg](https://jobright.ai/jobs/info/6aad71143d96632d741adea8?utm_campaign=1054&utm_source=git)** | Chambersburg, PA, United States | On Site | Sep 18 |
-| ↳ | **[Summer 2027 Management Trainee Intern - Harrisburg](https://jobright.ai/jobs/info/6aad71092e757fcb5c8b869a?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/6aad71092e757fcb5c8b869b?utm_campaign=1054&utm_source=git)** | Lebanon, Pennsylvania, United States | On Site | Sep 18 |
+| ↳ | **[Summer 2027 Management Trainee Intern - Harrisburg](https://jobright.ai/jobs/info/6aad71092e757fcb5c8b869a?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Reading](https://jobright.ai/jobs/info/6aad71056956574eac8b5b7e?utm_campaign=1054&utm_source=git)** | Reading, PA, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Lancaster](https://jobright.ai/jobs/info/6aad71020ebc8fb2313e98f0?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Sep 18 |
 | ↳ | **[Spring 2027 Management Trainee Intern - Harrisburg](https://jobright.ai/jobs/info/6aad71010ebc8fb2313e98ed?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 18 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[IGS Energy](http://www.igsenergy.com)** | **[Campus Talent Engagement Intern (Summer 2027)](https://jobright.ai/jobs/info/6a90759c7c32860d14cf9870?utm_campaign=1054&utm_source=git)** | Ohio, United States | On Site | Sep 18 |
 | **[Timmons Group](http://www.timmons.com/)** | **[Internship - Summer 2027](https://jobright.ai/jobs/info/6aabe5642e757fcb5c8b2a53?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 18 |
 | **[Sparton](http://www.sparton.com)** | **[Human Resources Internship (Weekends)](https://jobright.ai/jobs/info/6aa1aa800ffb3d4fea6b667c?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL, United States | On Site | Sep 18 |
-| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Sep 18 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Sep 18 |
+| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Sep 18 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Sep 18 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Sep 18 |
 | **[CRST The Transportation Solution, Inc.](https://www.crst.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aad2b6c3d96632d741ac7a1?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Sep 18 |
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Business Management & Recruiting Intern, Part-Time or Full-Time](https://jobright.ai/jobs/info/6aad6f333dbb1f8967ced838?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](https://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Corporate Functions) - 2026 Start](https://jobright.ai/jobs/info/6a9147a02e254e06fb9f3e88?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Sep 18 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Sep 18 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
