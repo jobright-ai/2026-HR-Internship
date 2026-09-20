@@ -144,14 +144,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern - Harrisburg](https://jobright.ai/jobs/info/6aad71092e757fcb5c8b869a?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Reading](https://jobright.ai/jobs/info/6aad71056956574eac8b5b7e?utm_campaign=1054&utm_source=git)** | Reading, PA, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Lancaster](https://jobright.ai/jobs/info/6aad71020ebc8fb2313e98f0?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Sep 18 |
-| ↳ | **[Spring 2027 Management Trainee Intern - Harrisburg](https://jobright.ai/jobs/info/6aad71010ebc8fb2313e98ed?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 18 |
 | ↳ | **[Management Trainee Intern - Appleton](https://jobright.ai/jobs/info/6aad71013dbb1f8967ced8ca?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Sep 18 |
+| ↳ | **[Spring 2027 Management Trainee Intern - Harrisburg](https://jobright.ai/jobs/info/6aad71010ebc8fb2313e98ed?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 18 |
 | ↳ | **[Management Trainee Intern - Madison](https://jobright.ai/jobs/info/6aad70f73dbb1f8967ced8c6?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | On Site | Sep 18 |
 | ↳ | **[Spring 2027 Management Trainee Intern - Reading](https://jobright.ai/jobs/info/6aad70f23d96632d741ade9f?utm_campaign=1054&utm_source=git)** | Reading, PA, United States | On Site | Sep 18 |
 | ↳ | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/6aad70f26956574eac8b5b74?utm_campaign=1054&utm_source=git)** | Stevens Point, WI, United States | On Site | Sep 18 |
 | ↳ | **[Spring 2027 Management Trainee Intern - York](https://jobright.ai/jobs/info/6aad70ec0ebc8fb2313e98e8?utm_campaign=1054&utm_source=git)** | York, PA, United States | On Site | Sep 18 |
-| ↳ | **[Management Trainee Intern - La Crosse](https://jobright.ai/jobs/info/6aad70e6de327d3e210d2736?utm_campaign=1054&utm_source=git)** | La Crosse, WI, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/6aad70e62e757fcb5c8b868f?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA, United States | On Site | Sep 18 |
+| ↳ | **[Management Trainee Intern - La Crosse](https://jobright.ai/jobs/info/6aad70e6de327d3e210d2736?utm_campaign=1054&utm_source=git)** | La Crosse, WI, United States | On Site | Sep 18 |
 | **[Philip Morris International U.S.](https://www.uspmi.com)** | **[Undergraduate Intern - People & Culture Summer 2027](https://jobright.ai/jobs/info/6aadaad23d96632d741af41f?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Hybrid | Sep 18 |
 | **[StoneRidge Senior Living Community](https://stoneridgelcs.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6aad6b3c3dbb1f8967ced69e?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 18 |
 | **[LCS](https://www.lcsnet.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6aad6b3c3d96632d741adc4f?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 18 |
