@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Royal Credit Union](https://www.rcu.org)** | **[HR Intern](https://jobright.ai/jobs/info/6ab1a4aed43eb922ca0c04d8?utm_campaign=1054&utm_source=git)** | Eau Claire, WI, United States | On Site | Sep 21 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, People & Culture (Human Resources)](https://jobright.ai/jobs/info/6ab1df74191d8c340dbdd1a0?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 21 |
 | **[Scot Forge](https://www.scotforge.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6ab1dac123005eee3545cca4?utm_campaign=1054&utm_source=git)** | Spring Grove, IL, United States | On Site | Sep 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern -Summer 2027](https://jobright.ai/jobs/info/6ab1d7e7d2a93d5a97ebd02c?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 21 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[CSM Group](http://csmgroup.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6ab18ecb32552369083e2ddc?utm_campaign=1054&utm_source=git)** | Kalamazoo, MI, United States | On Site | Sep 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern- Plattsburgh, NY](https://jobright.ai/jobs/info/6ab1c132d43eb922ca0c0f52?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY, United States | On Site | Sep 21 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) - Service Operations Strategy & Planning Intern](https://jobright.ai/jobs/info/6ab19699d43eb922ca0bfdda?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Sep 21 |
-| **[Royal Credit Union](https://www.rcu.org)** | **[HR Intern](https://jobright.ai/jobs/info/6ab1bab432552369083e40e1?utm_campaign=1054&utm_source=git)** | Eau Claire, WI, United States | On Site | Sep 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern- Montpelier, VT and White River Junction, VT](https://jobright.ai/jobs/info/6ab1b8a2d2a93d5a97ebc9ac?utm_campaign=1054&utm_source=git)** | Barre, VT, United States | On Site | Sep 21 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6ab1b86732552369083e408c?utm_campaign=1054&utm_source=git)** | Concord, NC, United States | On Site | Sep 21 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6ab1b7e9f9692ca98b04b8fd?utm_campaign=1054&utm_source=git)** | Gastonia, NC, United States | On Site | Sep 21 |
@@ -106,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/6a95c3f8c8763a3a87ffbea7?utm_campaign=1054&utm_source=git)** | Fairfield, CT, United States | On Site | Sep 21 |
 | **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[Business and Operations Intern I](https://jobright.ai/jobs/info/6ab1896b191d8c340dbdb44c?utm_campaign=1054&utm_source=git)** | Shelby Township, MI, United States | On Site | Sep 21 |
 | **[Connexall](https://www.connexall.com/)** | **[Human Resources Assistant Intern](https://jobright.ai/jobs/info/6ab18951d43eb922ca0bf75f?utm_campaign=1054&utm_source=git)** | North York, ON, Canada | Hybrid | Sep 21 |
-| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6ab16f3632552369083e2113?utm_campaign=1054&utm_source=git)** | Highland Heights, OH, United States | On Site | Sep 21 |
+| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6ab16ed4d43eb922ca0beca0?utm_campaign=1054&utm_source=git)** | Highland Heights, OH, United States | On Site | Sep 21 |
 | **[Securitas Security Services USA, Inc.](http://www.securitasinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99be1c551435518ebf0bcd?utm_campaign=1054&utm_source=git)** | Dublin, OH, United States | On Site | Sep 21 |
 | **[Newrez](https://www.newrez.com)** | **[2027 Summer Internship – HR Benefits](https://jobright.ai/jobs/info/6a95ac4cf28891320e85d155?utm_campaign=1054&utm_source=git)** | Coppell, TX, United States | On Site | Sep 21 |
 | **[Akin Gump Strauss Hauer & Feld LLP](https://www.akingump.com/)** | **[Intern (Attorney Recruiting & Development)](https://jobright.ai/jobs/info/6ab17c54f9692ca98b049f0d?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 21 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Alloy Engineering Company](http://alloyengineering.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6ab13b69191d8c340dbd9509?utm_campaign=1054&utm_source=git)** | Berea, OH, United States | On Site | Sep 21 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2027 Intern - Communications & Culture Programs](https://jobright.ai/jobs/info/6a95106c9864261ccd2a4e0d?utm_campaign=1054&utm_source=git)** | Remote, United States | Remote | Sep 21 |
 | **[Philip Morris International](https://www.pmi.com)** | **[Undergraduate Intern - People & Culture Summer 2027 Job Details / PMIProd](https://jobright.ai/jobs/info/6ab0ef8913894cd321222fa8?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Hybrid | Sep 21 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/6ab1ab29d2a93d5a97ebc32d?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 20 |
-| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/6ab1ab4323005eee3545bf4e?utm_campaign=1054&utm_source=git)** | Orlando, FL, United States | On Site | Sep 20 |
-| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/6ab1ab2ad43eb922ca0c07b4?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 20 |
+| **[HellermannTyton France](https://www.hellermanntyton.fr)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6ab1e9c3d2a93d5a97ebd2ff?utm_campaign=1054&utm_source=git)** | Milwaukee, WI 53224, United States | On Site | Sep 20 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/6ab1ab4323005eee3545bf4e?utm_campaign=1054&utm_source=git)** | Orlando, FL, United States | On Site | Sep 20 |
+| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/6ab1ab29d2a93d5a97ebc32d?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 20 |
+| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/6ab1ab28d43eb922ca0c07b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 20 |
 | **[H2M architects + engineers](http://h2m.com/)** | **[Human Resources - Student Intern](https://jobright.ai/jobs/info/6ab0b8df3d96632d741b3c04?utm_campaign=1054&utm_source=git)** | Melville, NY, United States | On Site | Sep 20 |
-| **[AirBoss of America](http://airbossofamerica.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ab1514fd43eb922ca0bdf5d?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI, United States | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
