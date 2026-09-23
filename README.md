@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Artisan Partners](https://www.apam.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6a97161ed13b4819f39defa8?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 23 |
+| **[tms](https://themarketingstore.com)** | **[Internal Communications Intern Job Details / Morgan Street Holdings](https://jobright.ai/jobs/info/6a9902c7def18223c8550a98?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 23 |
+| **[Billerud](https://www.billerud.com)** | **[Human Resources Co-Op (Quinnesec & Escanaba, MI)](https://jobright.ai/jobs/info/6a97383b246d697dcee041b7?utm_campaign=1054&utm_source=git)** | Quinnesec, MI, United States | On Site | Sep 23 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a96dcde246d697dcee019c2?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | Hybrid | Sep 23 |
+| **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4572a148d2f00f2a86d980?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 23 |
+| **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ab39a47762be1c53fc363c8?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 23 |
+| ↳ | **[Summer 2027 Internship](https://jobright.ai/jobs/info/6ab39a2d835ccf4a2811803e?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | On Site | Sep 23 |
+| ↳ | **[South Internship - 2027](https://jobright.ai/jobs/info/6ab39984561f49270c070fbb?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Sep 23 |
+| **[Xtalks](http://www.xtalks.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab3988816511e254891c552?utm_campaign=1054&utm_source=git)** | Bastrop, TX, United States | Hybrid | Sep 23 |
 | **[League One Volleyball (LOVB)](http://www.lovb.com)** | **[College Recruiting Support Associate/Intern](https://jobright.ai/jobs/info/6aa16287dbc0e60e37e110c4?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 23 |
 | **[MAB Community Services](http://www.mabcommunity.org/)** | **[HR Intern (3472)](https://jobright.ai/jobs/info/6ab3788a16511e254891c173?utm_campaign=1054&utm_source=git)** | Brookline, MA, United States | On Site | Sep 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland Resort Labor Relations, Intern Spring 2027](https://jobright.ai/jobs/info/6ab2f0a3326574570a003e18?utm_campaign=1054&utm_source=git)** | Anaheim, CA, United States | On Site | Sep 22 |
@@ -147,14 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a96ae56b22f636c81413738?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Sep 22 |
 | ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae87e4e60e4b8da59a7d?utm_campaign=1054&utm_source=git)** | Chico, CA, United States | On Site | Sep 22 |
 | **[Welser Profile](https://www.welser.com/)** | **[HR & Talent Acquisition Intern](https://jobright.ai/jobs/info/6ab2890730340229a322df27?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Sep 22 |
-| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957f9001d0e62174586c39?utm_campaign=1054&utm_source=git)** | Cambridge, ON, Canada | On Site | Sep 22 |
-| ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a98597383fc6333576310f2?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Sep 22 |
-| ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a985a90def18223c854eff4?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Sep 22 |
-| ↳ | **[PepsiCo Canada: Talent Acquisition Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957f934d5932306d6acc84?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 22 |
-| **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern Job Details / ZF Group](https://jobright.ai/jobs/info/6a76b4b467a1ad0bc53cb191?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Sep 22 |
-| **[Cemex US](http://www.cemex.com/)** | **[Internship Summer 2027 Human Resources](https://jobright.ai/jobs/info/6a95ea27c8763a3a87ffd2bd?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 22 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources - Information Systems Intern](https://jobright.ai/jobs/info/6a9623769fcec54423731a86?utm_campaign=1054&utm_source=git)** | Millsboro, DE, United States | On Site | Sep 22 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab27cc330340229a322dccd?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 22 |
-| **[Hatch](https://www.hatch.com)** | **[Human Resources Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c231508734c15309fba?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 22 |
-| **[Scotlynn](http://scotlynn.com)** | **[Human Resources Associate - Internship Program](https://jobright.ai/jobs/info/6a95cfa6cabc9f6703e19ff3?utm_campaign=1054&utm_source=git)** | Fort Myers, FL, United States | On Site | Sep 22 |
+| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a98597383fc6333576310f2?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
