@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2027 Summer Internship Program: Crop Risk Management](https://jobright.ai/jobs/info/6a9e3e8ca7ba386c5d671575?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Sep 23 |
+| **[Billerud](https://www.billerud.com)** | **[Human Resources Co-Op (Quinnesec & Escanaba, MI)](https://jobright.ai/jobs/info/6a97377eb22f636c8141694d?utm_campaign=1054&utm_source=git)** | Quinnesec, MI, United States | On Site | Sep 23 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2027 Summer Internship Program: Construction/Surety Specialty Practice](https://jobright.ai/jobs/info/6a9e3e8c27c94c3d5a1cbcaa?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Sep 23 |
+| ↳ | **[2027 Summer Internship Program: Construction/Surety Specialty Practice](https://jobright.ai/jobs/info/6a9e3ea02c964816f65ec433?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Sep 23 |
+| **[FMC Corporation](http://www.fmc.com)** | **[2027 Summer Intern - HR](https://jobright.ai/jobs/info/6a96f6d7e4e60e4b8da5af41?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Sep 23 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6a97161ed13b4819f39defa8?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 23 |
 | **[tms](https://themarketingstore.com)** | **[Internal Communications Intern Job Details / Morgan Street Holdings](https://jobright.ai/jobs/info/6a9902c7def18223c8550a98?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 23 |
-| **[Billerud](https://www.billerud.com)** | **[Human Resources Co-Op (Quinnesec & Escanaba, MI)](https://jobright.ai/jobs/info/6a97383b246d697dcee041b7?utm_campaign=1054&utm_source=git)** | Quinnesec, MI, United States | On Site | Sep 23 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a96dcde246d697dcee019c2?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | Hybrid | Sep 23 |
 | **[Prophet](http://www.prophet.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a4572a148d2f00f2a86d980?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 23 |
 | **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ab39a47762be1c53fc363c8?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2027 Summer HR Intern - Jefferson City](https://jobright.ai/jobs/info/6a9667d669b865490a631d26?utm_campaign=1054&utm_source=git)** | Jefferson City, MO, United States | On Site | Sep 22 |
 | **[DULCEDO Management](https://www.dulcedo.com)** | **[Talent Agent Assistant Internship](https://jobright.ai/jobs/info/6a621937c28982326de94aca?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Human Resources - NY/NJ](https://jobright.ai/jobs/info/6ab28beb30340229a322dfc7?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a96ae56b22f636c81413738?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Sep 22 |
-| ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae87e4e60e4b8da59a7d?utm_campaign=1054&utm_source=git)** | Chico, CA, United States | On Site | Sep 22 |
-| **[Welser Profile](https://www.welser.com/)** | **[HR & Talent Acquisition Intern](https://jobright.ai/jobs/info/6ab2890730340229a322df27?utm_campaign=1054&utm_source=git)** | Valley City, OH, United States | On Site | Sep 22 |
-| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a98597383fc6333576310f2?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
