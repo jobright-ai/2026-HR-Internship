@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst, Subway Resource & Admin Support, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6ab52edf634ec6aa7c0cd78d?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
+| **[Jimmy John's](http://www.jimmyjohns.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ab5a8b44873fd3fd852b695?utm_campaign=1054&utm_source=git)** | Normal, IL, United States | On Site | Sep 24 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab5a1d5d85922de20ce2bc9?utm_campaign=1054&utm_source=git)** | Carlisle, PA, United States | Hybrid | Sep 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2027] Employee Experience Internship](https://jobright.ai/jobs/info/6ab59d414873fd3fd852b0e2?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Kinder Morgan, Inc.](https://pipeline2.kindermorgan.com/default.aspx?code=NGPL)** | **[2027 BOLT Intern- Human Resources (Payroll/Benefits)](https://jobright.ai/jobs/info/6ab58e04634ec6aa7c0cfccb?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 24 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a8dc7d4d34f700f87fd5f84?utm_campaign=1054&utm_source=git)** | Calabasas, CA, United States | Hybrid | Sep 24 |
 | **[EQT Corporation](https://www.eqt.com/)** | **[Talent Acquisition & Recruitment Marketing Intern](https://jobright.ai/jobs/info/6aa4d592930bff471a29bcd4?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | Remote | Sep 24 |
 | **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6ab5329bb3db59402d0fb46b?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 24 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst, Subway Resource & Admin Support, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6ab52edf634ec6aa7c0cd78d?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Ericsson](https://www.ericsson.com)** | **[Intern - Americas Talent and Development](https://jobright.ai/jobs/info/6ab52af0b3db59402d0fb275?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Sep 24 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab52a6c634ec6aa7c0cd64d?utm_campaign=1054&utm_source=git)** | Troy, MI, United States | On Site | Sep 24 |
 | **[Morning Brew Inc.](http://morningbrewinc.com)** | **[Senior Associate, Talent Acquisition](https://jobright.ai/jobs/info/6aa56107a77a53f5a1570d2c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 24 |
@@ -114,12 +115,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - HR Benefits Job Details / Career finder](https://jobright.ai/jobs/info/6ab51c1fb3db59402d0faf3b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 24 |
 | **[Ericsson](https://www.ericsson.com)** | **[People Specialist Intern](https://jobright.ai/jobs/info/6aa6f7b9654b2a9424cf84bb?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | Hybrid | Sep 24 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6a98854883fc633357631f6d?utm_campaign=1054&utm_source=git)** | Carmel, IN, United States | On Site | Sep 24 |
-| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a98597383fc6333576310f2?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Sep 24 |
+| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a985a90def18223c854eff4?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Sep 24 |
 | ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957df7f974437994c31aae?utm_campaign=1054&utm_source=git)** | Cambridge, ON, Canada | On Site | Sep 24 |
-| ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a985a90def18223c854eff4?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Sep 24 |
+| ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a98597383fc6333576310f2?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Sep 24 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Talent Acquisition / HR Systems Intern](https://jobright.ai/jobs/info/6a988552c8ed473c5c76483c?utm_campaign=1054&utm_source=git)** | Carmel, IN, United States | On Site | Sep 24 |
 | **[Olin](http://www.olin.com/)** | **[HRIT Co-Op - Spring 2027](https://jobright.ai/jobs/info/6a988e74dd171c7285792efc?utm_campaign=1054&utm_source=git)** | Clayton, Missouri, United States | On Site | Sep 24 |
-| **[SLB](https://www.slb.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ab4382e55e9168cf5ea514a?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 24 |
+| **[SLB](https://www.slb.com)** | **[Student Intern](https://jobright.ai/jobs/info/6ab438610e0ae54eeea473fa?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 24 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6ab4382e55e9168cf5ea514a?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://jobright.ai/jobs/info/6a9752a5b22f636c814175b2?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | ↳ | **[Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://jobright.ai/jobs/info/6a8ff6527c32860d14cf73d7?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Sep 24 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26133 - HR Benefits Part-Time Intern](https://jobright.ai/jobs/info/6a8c743ecde3717f9e9bd278?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amsted Automotive](https://amstedauto.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6ab4566055e9168cf5ea5e84?utm_campaign=1054&utm_source=git)** | Saginaw, MI, United States | On Site | Sep 23 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Human Resource- Paid Internship- Welfare and Self-Reliance](https://jobright.ai/jobs/info/6ab44c5c64816213f2d986fb?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Sep 23 |
 | **[Christensen Farms](https://www.christensenfarms.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab0cf06dd960b415641a16f?utm_campaign=1054&utm_source=git)** | Sleepy Eye, MN, United States | On Site | Sep 23 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6ab418b47bd0813713315bac?utm_campaign=1054&utm_source=git)** | Beaumont, TX, United States | On Site | Sep 23 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6a6972dd2baf19558c923779?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
