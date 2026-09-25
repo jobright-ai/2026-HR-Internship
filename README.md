@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a9976b6ad752e2ad54ffb24?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI, United States | On Site | Sep 25 |
+| **[WEP Clinical](http://www.wepclinical.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aa39fb65c11cce3603653af?utm_campaign=1054&utm_source=git)** | Morrisville, NC, United States | Hybrid | Sep 25 |
+| **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a99746fad752e2ad54ff978?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI, United States | On Site | Sep 25 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Talent Development and Org Culture Project Intern (TikTok Shop) - 2026 Start](https://jobright.ai/jobs/info/6a9147a9d96ad228f12643bd?utm_campaign=1054&utm_source=git)** | Seattle | On Site | Sep 25 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Human Resources - Masters](https://jobright.ai/jobs/info/6a92edaa8e59685453379fd8?utm_campaign=1054&utm_source=git)** | Purchase, New York, United States | On Site | Sep 25 |
 | **[Securitas Security Services USA, Inc.](http://www.securitasinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99be1c551435518ebf0bcd?utm_campaign=1054&utm_source=git)** | Dublin, OH, United States | On Site | Sep 25 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a98944583fc633357632653?utm_campaign=1054&utm_source=git)** | Pearland, TX, United States | On Site | Sep 24 |
 | **[Merchants Capital](https://www.merchantscapital.com/)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6a986cb0dd171c728579226c?utm_campaign=1054&utm_source=git)** | Carmel, IN, United States | On Site | Sep 24 |
 | **[Heven AeroTech](https://www.hevendrones.com/)** | **[HR & Recruiting Intern](https://jobright.ai/jobs/info/6ab53a509d4843569fe48842?utm_campaign=1054&utm_source=git)** | Sterling, VA, United States | On Site | Sep 24 |
-| **[Wella Company](https://www.wellacompany.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a8dc7d4d34f700f87fd5f84?utm_campaign=1054&utm_source=git)** | Calabasas, CA, United States | Hybrid | Sep 24 |
-| ↳ | **[Talent Acquisition Intern Job Details / Wella](https://jobright.ai/jobs/info/6a99dd528a8b765bc55f6061?utm_campaign=1054&utm_source=git)** | Calabasas, CA, United States | Hybrid | Sep 24 |
+| **[Wella Company](https://www.wellacompany.com/)** | **[Talent Acquisition Intern Job Details / Wella](https://jobright.ai/jobs/info/6a99dd528a8b765bc55f6061?utm_campaign=1054&utm_source=git)** | Calabasas, CA, United States | Hybrid | Sep 24 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a8dc7d4d34f700f87fd5f84?utm_campaign=1054&utm_source=git)** | Calabasas, CA, United States | Hybrid | Sep 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2026 Internship](https://jobright.ai/jobs/info/6a965268f28891320e861050?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA, United States | On Site | Sep 24 |
 | **[EQT Corporation](https://www.eqt.com/)** | **[Talent Acquisition & Recruitment Marketing Intern](https://jobright.ai/jobs/info/6aa4d592930bff471a29bcd4?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | Remote | Sep 24 |
 | **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/6ab5329bb3db59402d0fb46b?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - HR Benefits Job Details / Career finder](https://jobright.ai/jobs/info/6ab51c1fb3db59402d0faf3b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 24 |
 | **[Ericsson](https://www.ericsson.com)** | **[People Specialist Intern](https://jobright.ai/jobs/info/6aa6f7b9654b2a9424cf84bb?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | Hybrid | Sep 24 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6a98854883fc633357631f6d?utm_campaign=1054&utm_source=git)** | Carmel, IN, United States | On Site | Sep 24 |
-| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957df7f974437994c31aae?utm_campaign=1054&utm_source=git)** | Cambridge, ON, Canada | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
