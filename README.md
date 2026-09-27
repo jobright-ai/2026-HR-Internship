@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92b8f08e59685453379bdf?utm_campaign=1054&utm_source=git)** | Strongsville, OH, United States | On Site | Sep 27 |
 | **[Conversations to Remember](https://conversationstoremember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Healthcare Partnerships](https://jobright.ai/jobs/info/6ab8a79162bb1fbd451dfd0f?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Elk Valley Resources](http://www.evr.com)** | **[January 2027 Talent Management Co-op](https://jobright.ai/jobs/info/6a9741c5b22f636c81416fe1?utm_campaign=1054&utm_source=git)** | Sparwood, BC, Canada | On Site | Sep 26 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Intensive Care Coordinator Internship- MA or BA level](https://jobright.ai/jobs/info/6ab826f639fd8792cb73eeb6?utm_campaign=1054&utm_source=git)** | Yarmouth Port, MA, United States | On Site | Sep 26 |
@@ -118,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern- Clifton Park, Latham, and Troy, NY](https://jobright.ai/jobs/info/6ab7009e3a2ec87116e24f81?utm_campaign=1054&utm_source=git)** | Latham, NY, United States | On Site | Sep 25 |
 | ↳ | **[Spring 2027 Management Trainee Intern- East Greenbush, NY](https://jobright.ai/jobs/info/6ab7008dba1c25652c611029?utm_campaign=1054&utm_source=git)** | East Greenbush, NY, United States | On Site | Sep 25 |
 | ↳ | **[Summer 2027 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/6ab7002562bb1fbd451dce04?utm_campaign=1054&utm_source=git)** | Wayne, NJ, United States | On Site | Sep 25 |
-| **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Spring 2027](https://jobright.ai/jobs/info/6ab6ada2d85922de20ce624e?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 25 |
+| **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Spring 2027](https://jobright.ai/jobs/info/6ab6ada39d4843569fe4ecba?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 25 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[HR Shared Service Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab6f90662bb1fbd451dcc42?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Sep 25 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Talent Management & Development Intern](https://jobright.ai/jobs/info/6ab6e7f939fd8792cb73cb10?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[People Team Intern (Volunteer)](https://jobright.ai/jobs/info/6ab728a0ba1c25652c611a33?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 25 |
@@ -144,10 +145,10 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2027 Internship](https://jobright.ai/jobs/info/6a99a7fbad752e2ad550101a?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Sep 25 |
 | **[Magna International](http://www.magna.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ab6b4b34873fd3fd852ebf7?utm_campaign=1054&utm_source=git)** | Clinton, TN, United States | On Site | Sep 25 |
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[Global Human Resources - Intern](https://jobright.ai/jobs/info/6aa443be1d92e2d05d114214?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 25 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Sep 25 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Sep 25 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Sep 25 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Sep 25 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Sep 25 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Sep 25 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Sep 25 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern (CA, CO, MI, OR, TX, WA)](https://jobright.ai/jobs/info/6ab6a743b3db59402d101852?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Sep 25 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a5c02c463a8f619507cc713?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Sep 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6ab6a4e94873fd3fd852e592?utm_campaign=1054&utm_source=git)** | Manhattan, KS, United States | On Site | Sep 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern – Summer 2027 – ERP Platform Administration](https://jobright.ai/jobs/info/6ab65f18b3db59402d100459?utm_campaign=1054&utm_source=git)** | Rochester, MN, United States | On Site | Sep 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a99a82690a313642c651e4d?utm_campaign=1054&utm_source=git)** | Bentonville, AR, United States | On Site | Sep 25 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a99a87d8a8b765bc55f4a39?utm_campaign=1054&utm_source=git)** | Farmington, MI, United States | On Site | Sep 25 |
-| **[Bosch](http://www.bosch.com)** | **[HR Service Intern (Year Round)](https://jobright.ai/jobs/info/6ab6931bc6fe0dec811a548a?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI, United States | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
