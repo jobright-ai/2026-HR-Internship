@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Business Bank](http://unitedbusinessbank.com)** | **[Temporary Intern - People & Culture Administrative Intern](https://jobright.ai/jobs/info/6ab964f13a2ec87116e2862b?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA, United States | On Site | Sep 27 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab956b262bb1fbd451e0549?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a9c3d56c1d6f91bc3883fa8?utm_campaign=1054&utm_source=git)** | Kingwood, TX, United States | On Site | Sep 27 |
 | **[AZCO](http://www.azco-inc.com)** | **[Payroll Co-Op - AZCO (Appleton)](https://jobright.ai/jobs/info/6a7f9d2fe51a1e18a24148be?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Sep 27 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Alcon](http://www.alcon.com)** | **[HRLDP Internship - MS/MBA Summer 2027](https://jobright.ai/jobs/info/6a9b341c9c24314c35f98466?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Labor Relations Summer Intern 2027](https://jobright.ai/jobs/info/6a9e9f0168f82b403673aea2?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 26 |
 | **[rand* construction corporation](http://randcc.com)** | **[Summer 2027 Internship - CO, GA, NC, TX, VA, UT](https://jobright.ai/jobs/info/6a9af9a1fe45b8490f605f46?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Sep 26 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Sep 26 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56ef04efb06a45240d8b7a?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Sep 26 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56ef04efb06a45240d8b7a?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Sep 26 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Sep 26 |
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a9b097790a313642c658450?utm_campaign=1054&utm_source=git)** | Janesville, WI, United States | On Site | Sep 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2027](https://jobright.ai/jobs/info/6a9e837f49f4604c7894f33d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 26 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Intern (Graduate Level) (Summer 2027)](https://jobright.ai/jobs/info/6a7f33acb56bea5779c0945b?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Sep 26 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2027 Internship](https://jobright.ai/jobs/info/6a99a7fbad752e2ad550101a?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Sep 25 |
 | **[Magna International](http://www.magna.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ab6b4b34873fd3fd852ebf7?utm_campaign=1054&utm_source=git)** | Clinton, TN, United States | On Site | Sep 25 |
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[Global Human Resources - Intern](https://jobright.ai/jobs/info/6aa443be1d92e2d05d114214?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 25 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Sep 25 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Sep 25 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Sep 25 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Sep 25 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Sep 25 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Sep 25 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern (CA, CO, MI, OR, TX, WA)](https://jobright.ai/jobs/info/6ab6a743b3db59402d101852?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Sep 25 |
-| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a5c02c463a8f619507cc713?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
