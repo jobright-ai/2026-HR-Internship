@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Human Capital, Fall Internship](https://jobright.ai/jobs/info/6ab9f54239fd8792cb7418e2?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 28 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Summer 2027 FOX Technology Internship Program - New York, NY](https://jobright.ai/jobs/info/6ab9f36ed7fde2c08ec8f0bd?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
 | ↳ | **[Summer 2027 FOX Corporation Internship Program - Ad Sales - Detroit](https://jobright.ai/jobs/info/6ab9f36eba1c25652c6157dc?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Sep 28 |
-| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Human Capital, Fall Internship](https://jobright.ai/jobs/info/6ab9f54239fd8792cb7418e2?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 27 |
 | **[Hydro One](http://www.hydroone.com/)** | **[University Co-Op Student - Employee Experience Associate - 8 Months - Winter 2027 - Toronto](https://jobright.ai/jobs/info/6ab9f36562bb1fbd451e15c8?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 27 |
 | **[KKR](http://www.kkr.com)** | **[2027 MBA Internship Program - KKR Capstone](https://jobright.ai/jobs/info/6aa77a0d2ed333b4ea5cb596?utm_campaign=1054&utm_source=git)** | Menlo Park, CA, United States | On Site | Sep 27 |
 | **[Munich Re](https://www.munichre.com/us-life/en.html)** | **[Summer Leadership Development Intern - Underwriting Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ab9f0b881e327c4bf206a9c?utm_campaign=1054&utm_source=git)** | Princeton, NJ, United States | On Site | Sep 27 |
@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Alcon](http://www.alcon.com)** | **[HRLDP Internship - MS/MBA Summer 2027](https://jobright.ai/jobs/info/6a9b341c9c24314c35f98466?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Labor Relations Summer Intern 2027](https://jobright.ai/jobs/info/6a9e9f0168f82b403673aea2?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 26 |
 | **[rand* construction corporation](http://randcc.com)** | **[Summer 2027 Internship - CO, GA, NC, TX, VA, UT](https://jobright.ai/jobs/info/6a9af9a1fe45b8490f605f46?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Sep 26 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Sep 26 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56ef04efb06a45240d8b7a?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Sep 26 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56ef04efb06a45240d8b7a?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Sep 26 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Sep 26 |
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a9b097790a313642c658450?utm_campaign=1054&utm_source=git)** | Janesville, WI, United States | On Site | Sep 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2027](https://jobright.ai/jobs/info/6a9e837f49f4604c7894f33d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 26 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Intern (Graduate Level) (Summer 2027)](https://jobright.ai/jobs/info/6a7f33acb56bea5779c0945b?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Sep 26 |
