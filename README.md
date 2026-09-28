@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Metallus Inc.](https://metallus.com)** | **[Labor Relations Intern Job Details / Metallus](https://jobright.ai/jobs/info/6a9abc69d5ff1f3f1c39b298?utm_campaign=1054&utm_source=git)** | Canton, OH, United States | On Site | Sep 27 |
 | **[Family Connections, Inc.](https://www.familyconnectionsnj.org/)** | **[Talent Acquisition Intern – East Orange, NJ / Hybrid & Part Time](https://jobright.ai/jobs/info/6ab99e64ba1c25652c614bbe?utm_campaign=1054&utm_source=git)** | East Orange, NJ, United States | Remote | Sep 27 |
+| **[Metallus Inc.](https://metallus.com)** | **[Labor Relations Intern Job Details / Metallus](https://jobright.ai/jobs/info/6a9abc69d5ff1f3f1c39b298?utm_campaign=1054&utm_source=git)** | Canton, OH, United States | On Site | Sep 27 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab956b262bb1fbd451e0549?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 27 |
 | **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Human Resources Intern Job Details / our company](https://jobright.ai/jobs/info/6ab9828881e327c4bf205c0e?utm_campaign=1054&utm_source=git)** | Chandler, Arizona, United States | On Site | Sep 27 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a57a9eef7517b519ad5bb0c?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Sep 27 |
