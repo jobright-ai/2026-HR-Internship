@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aba5b977220f52e62ae5ff4?utm_campaign=1054&utm_source=git)** | Taylor, MI, United States | On Site | Sep 28 |
+| **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | Remote | Sep 28 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Human Capital, Fall Internship](https://jobright.ai/jobs/info/6ab9f54239fd8792cb7418e2?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 28 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Summer 2027 FOX Technology Internship Program - New York, NY](https://jobright.ai/jobs/info/6ab9f36ed7fde2c08ec8f0bd?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
 | ↳ | **[Summer 2027 FOX Corporation Internship Program - Ad Sales - Detroit](https://jobright.ai/jobs/info/6ab9f36eba1c25652c6157dc?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Sep 28 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[ND Paper](https://us.ndpaper.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a9cad9468f82b4036736af0?utm_campaign=1054&utm_source=git)** | Sturtevant, WI, United States | On Site | Sep 27 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d45dc2e63cea7a8b6591c4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 27 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Intern (Graduate Level) (Summer 2027)](https://jobright.ai/jobs/info/6a7f3397ad9ff00c26bad068?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Sep 27 |
-| **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | Remote | Sep 27 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92b8f08e59685453379bdf?utm_campaign=1054&utm_source=git)** | Strongsville, OH, United States | On Site | Sep 27 |
 | **[United Business Bank](http://unitedbusinessbank.com)** | **[People & Culture Administrative Intern](https://jobright.ai/jobs/info/6ab9a8ae39fd8792cb740d47?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA, United States | On Site | Sep 26 |
 | **[Elk Valley Resources](http://www.evr.com)** | **[January 2027 Talent Management Co-op](https://jobright.ai/jobs/info/6a9741c5b22f636c81416fe1?utm_campaign=1054&utm_source=git)** | Sparwood, BC, Canada | On Site | Sep 26 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Alcon](http://www.alcon.com)** | **[HRLDP Internship - MS/MBA Summer 2027](https://jobright.ai/jobs/info/6a9b341c9c24314c35f98466?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Labor Relations Summer Intern 2027](https://jobright.ai/jobs/info/6a9e9f0168f82b403673aea2?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 26 |
 | **[rand* construction corporation](http://randcc.com)** | **[Summer 2027 Internship - CO, GA, NC, TX, VA, UT](https://jobright.ai/jobs/info/6a9af9a1fe45b8490f605f46?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Sep 26 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56ef04efb06a45240d8b7a?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Sep 26 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Sep 26 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a299b03c07d4b6ae1c419c4?utm_campaign=1054&utm_source=git)** | Dayton, OH, US | On Site | Sep 26 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a56ef04efb06a45240d8b7a?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Sep 26 |
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6a9b097790a313642c658450?utm_campaign=1054&utm_source=git)** | Janesville, WI, United States | On Site | Sep 26 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2027](https://jobright.ai/jobs/info/6a9e837f49f4604c7894f33d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 26 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Intern (Graduate Level) (Summer 2027)](https://jobright.ai/jobs/info/6a7f33acb56bea5779c0945b?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Sep 26 |
@@ -141,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern- Clifton Park, Latham, and Troy, NY](https://jobright.ai/jobs/info/6ab7009e3a2ec87116e24f81?utm_campaign=1054&utm_source=git)** | Latham, NY, United States | On Site | Sep 25 |
 | ↳ | **[Spring 2027 Management Trainee Intern- East Greenbush, NY](https://jobright.ai/jobs/info/6ab7008dba1c25652c611029?utm_campaign=1054&utm_source=git)** | East Greenbush, NY, United States | On Site | Sep 25 |
 | ↳ | **[Summer 2027 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/6ab7002562bb1fbd451dce04?utm_campaign=1054&utm_source=git)** | Wayne, NJ, United States | On Site | Sep 25 |
-| **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Spring 2027](https://jobright.ai/jobs/info/6ab6ada2d85922de20ce624e?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 25 |
+| **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Spring 2027](https://jobright.ai/jobs/info/6ab6ada39d4843569fe4ecba?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 25 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[HR Shared Service Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab6f90662bb1fbd451dcc42?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Sep 25 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Talent Management & Development Intern](https://jobright.ai/jobs/info/6ab6e7f939fd8792cb73cb10?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[People Team Intern (Volunteer)](https://jobright.ai/jobs/info/6ab728a0ba1c25652c611a33?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wisconsin State Public Defender](https://www.wispd.gov/)** | **[Internship Recruitment Coordinator - Madison - Limited Term Employment (LTE)](https://jobright.ai/jobs/info/6ab71a593a2ec87116e25442?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | On Site | Sep 25 |
 | **[Atlanta Beltline](https://beltline.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab160db191d8c340dbda460?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 25 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Human Resources - HR Shared Services Americas](https://jobright.ai/jobs/info/6a9f8facdacf777321a95329?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | Hybrid | Sep 25 |
-| **[CUES Inc.](http://cuesinc.com)** | **[Human Resources Intern Job Details / our team](https://jobright.ai/jobs/info/6ab6c095c6fe0dec811a6943?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
