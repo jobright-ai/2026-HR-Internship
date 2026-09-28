@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Intern (Graduate Level) (Summer 2027)](https://jobright.ai/jobs/info/6a7f3397ad9ff00c26bad068?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Sep 27 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | Remote | Sep 27 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a92b8f08e59685453379bdf?utm_campaign=1054&utm_source=git)** | Strongsville, OH, United States | On Site | Sep 27 |
+| **[United Business Bank](http://unitedbusinessbank.com)** | **[People & Culture Administrative Intern](https://jobright.ai/jobs/info/6ab9a8ae39fd8792cb740d47?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA, United States | On Site | Sep 26 |
 | **[Elk Valley Resources](http://www.evr.com)** | **[January 2027 Talent Management Co-op](https://jobright.ai/jobs/info/6a9741c5b22f636c81416fe1?utm_campaign=1054&utm_source=git)** | Sparwood, BC, Canada | On Site | Sep 26 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Intensive Care Coordinator Internship- MA or BA level](https://jobright.ai/jobs/info/6ab826f639fd8792cb73eeb6?utm_campaign=1054&utm_source=git)** | Yarmouth Port, MA, United States | On Site | Sep 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp - HR Business Partner Intern](https://jobright.ai/jobs/info/6a9af4c99c24314c35f965d2?utm_campaign=1054&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ab6b4b34873fd3fd852ebf7?utm_campaign=1054&utm_source=git)** | Clinton, TN, United States | On Site | Sep 25 |
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[Global Human Resources - Intern](https://jobright.ai/jobs/info/6aa443be1d92e2d05d114214?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Sep 25 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Sep 25 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
