@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa8a0c44cb6b0e0b828d8af?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 28 |
+| **[Piper Sandler](https://pipersandler.com)** | **[Campus Recruiting - 2027 Investment Banking Summer Analyst - Restructuring](https://jobright.ai/jobs/info/6abaf781be5f1e9325118535?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
+| **[Thrivent](https://www.thrivent.com)** | **[Recruiting Specialist Intern - Spring 2027](https://jobright.ai/jobs/info/6abafb48ee0b348be729c725?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | Remote | Sep 28 |
+| **[Highgate](https://www.highgate.com)** | **[Human Resources Internship - Summer 2027](https://jobright.ai/jobs/info/6aa87ca0654b2a9424cfd23e?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Sep 28 |
 | **[PIPESTONE](https://www.pipestone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6abb1e37be5f1e9325119b0f?utm_campaign=1054&utm_source=git)** | Pipestone, MN, United States | On Site | Sep 28 |
 | **[H&R Block](https://www.hrblock.com)** | **[Corporate Recruiter, Intern - S](https://jobright.ai/jobs/info/6abafb10ee0b348be729c704?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 28 |
 | **[Arango](https://arango.ai)** | **[Technical Recruiter Intern](https://jobright.ai/jobs/info/6a7b8edbecf5194164fbf07d?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Sep 28 |
@@ -94,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6aa85d2e82e82a31997c5739?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 28 |
 | ↳ | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6aa85d5b2ed333b4ea5cefa3?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
 | **[Textron](http://textron.com)** | **[2027 Talent Development & Talent Management Internship](https://jobright.ai/jobs/info/6abaddc6d2914e9273eedc54?utm_campaign=1054&utm_source=git)** | Providence, RI, United States | On Site | Sep 28 |
-| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6abad4633db4ca81fc7c4c66?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Texas Tech Credit Union](https://www.texastechfcu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6abad25cbe5f1e93251178ee?utm_campaign=1054&utm_source=git)** | Lubbock, TX, United States | On Site | Sep 28 |
 | **[7 17 Credit Union](https://www.717cu.com/)** | **[RISK MANAGEMENT INTERN](https://jobright.ai/jobs/info/6abad236ee0b348be729baf0?utm_campaign=1054&utm_source=git)** | Warren, OH, United States | On Site | Sep 28 |
 | **[Flexsteel Industries Inc.](http://www.flexsteel.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6abaa475ad8589219ef7e6ce?utm_campaign=1054&utm_source=git)** | Dubuque, IA, United States | On Site | Sep 28 |
@@ -142,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[OVD Insurance](https://ovdinsurance.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6abac605be5f1e932511742e?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a9e9704f6ea002358295e15?utm_campaign=1054&utm_source=git)** | Kingwood, TX, United States | On Site | Sep 28 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Human Resources Intern – US – Summer 2027](https://jobright.ai/jobs/info/6a8279f02dbaf907b0763dad?utm_campaign=1054&utm_source=git)** | Evendale, OH, United States | On Site | Sep 28 |
-| **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aba5b977220f52e62ae5ff4?utm_campaign=1054&utm_source=git)** | Taylor, MI, United States | On Site | Sep 28 |
+| **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aba5a381acb8fc6f09bf4bf?utm_campaign=1054&utm_source=git)** | Taylor, MI, United States | On Site | Sep 28 |
 | **[Robinhood](https://www.robinhood.com)** | **[People Partner Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa7ec8f82e82a31997c2ee4?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Human Resources Rotational](https://jobright.ai/jobs/info/6aba61a17220f52e62ae6158?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | On Site | Sep 28 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | Remote | Sep 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KKR](http://www.kkr.com)** | **[2027 MBA Internship Program - KKR Capstone](https://jobright.ai/jobs/info/6aa77a0d2ed333b4ea5cb596?utm_campaign=1054&utm_source=git)** | Menlo Park, CA, United States | On Site | Sep 27 |
 | **[Munich Re](https://www.munichre.com/us-life/en.html)** | **[Summer Leadership Development Intern - Underwriting Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ab9f0b881e327c4bf206a9c?utm_campaign=1054&utm_source=git)** | Princeton, NJ, United States | On Site | Sep 27 |
 | **[World Relief](https://worldrelief.org/)** | **[Integration Support Intern, Dari/Pashto speaking- 2025852](https://jobright.ai/jobs/info/6a9070b5d96ad228f126146c?utm_campaign=1054&utm_source=git)** | Sacramento, CA, United States | Hybrid | Sep 27 |
-| **[Athena](https://athenapsych.com)** | **[Talent Acquisition Intern (Unpaid)](https://jobright.ai/jobs/info/6a8e07e5581f2d7bfdfeab43?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 27 |
-| **[Metallus Inc.](https://metallus.com)** | **[Labor Relations Intern Job Details / Metallus](https://jobright.ai/jobs/info/6a9abc69d5ff1f3f1c39b298?utm_campaign=1054&utm_source=git)** | Canton, OH, United States | On Site | Sep 27 |
-| **[Utility Supply and Construction Company](https://www.uscco.com)** | **[2027 Summer Internship](https://jobright.ai/jobs/info/6aba9695d2914e9273eec105?utm_campaign=1054&utm_source=git)** | Reed City, MI, United States | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
