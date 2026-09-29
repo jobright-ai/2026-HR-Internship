@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Double A Solutions](http://www.doubleasolutions.net/)** | **[Human Resources Intern (Recruitment & Retention)](https://jobright.ai/jobs/info/6abb7a3ede8f79e12427533b?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Sep 29 |
+| **[Lockton](https://global.lockton.com)** | **[South Internship - 2027](https://jobright.ai/jobs/info/6a965757f28891320e86114f?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Sep 29 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Value & Implementation - Outcomes Research Intern](https://jobright.ai/jobs/info/6abae5f7be5f1e9325118050?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Sep 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6abb43f1ee0b348be729e3ec?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Sep 28 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6abb43c9ee0b348be729e3e4?utm_campaign=1054&utm_source=git)** | College Station, TX, United States | On Site | Sep 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OVD Insurance](https://ovdinsurance.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6abac605be5f1e932511742e?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a9e9704f6ea002358295e15?utm_campaign=1054&utm_source=git)** | Kingwood, TX, United States | On Site | Sep 28 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Human Resources Intern – US – Summer 2027](https://jobright.ai/jobs/info/6a8279f02dbaf907b0763dad?utm_campaign=1054&utm_source=git)** | Evendale, OH, United States | On Site | Sep 28 |
-| **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aba57cfbe5f1e93251151f0?utm_campaign=1054&utm_source=git)** | Taylor, MI, United States | On Site | Sep 28 |
-| **[Robinhood](https://www.robinhood.com)** | **[People Partner Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa7ec8f82e82a31997c2ee4?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
