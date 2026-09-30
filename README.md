@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H&R Block](https://www.hrblock.com)** | **[Embark Corporate Recruiter, Intern - S](https://jobright.ai/jobs/info/6abc8e35bf15c0ae50139168?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://jobright.ai/jobs/info/6a9752a5b22f636c814175b2?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
 | **[Elemental Brands](https://www.elementalbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6abc6d56187b1378d873e209?utm_campaign=1054&utm_source=git)** | Reno, NV, United States | On Site | Sep 29 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2027 Human Resources Intern](https://jobright.ai/jobs/info/6a97420b455eaf6a08c1bd12?utm_campaign=1054&utm_source=git)** | Augusta, Georgia, United States | On Site | Sep 29 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Catalent](https://www.catalent.com)** | **[2027 Intern - Human Resources](https://jobright.ai/jobs/info/6abbdc487119e56191ce9858?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | On Site | Sep 29 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Human Resources Analytics Internship (Summer 2027)](https://jobright.ai/jobs/info/6aa9db093387a3d9b67d7752?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | On Site | Sep 29 |
 | **[General Dynamics Electric Boat](http://www.gdeb.com/)** | **[2027 Human Resources Summer Internship](https://jobright.ai/jobs/info/6aa9b3243387a3d9b67d625d?utm_campaign=1054&utm_source=git)** | Groton, CT, United States | On Site | Sep 29 |
-| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Human resources Specialist Internship](https://jobright.ai/jobs/info/6abc671d73339662c7723f08?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Sep 29 |
 | **[Thrivent](https://www.thrivent.com)** | **[Recruiting Specialist Intern - Spring 2027](https://jobright.ai/jobs/info/6abbe6a87119e56191ce9d26?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | Remote | Sep 29 |
 | ↳ | **[Recruiting Specialist Intern - Summer 2027](https://jobright.ai/jobs/info/6abc1f18a9a644f96568a569?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | Remote | Sep 29 |
 | **[Rally House](http://rallyhouse.com)** | **[Human Resources Systems Intern](https://jobright.ai/jobs/info/6abc2ab792b2612ef0f8d786?utm_campaign=1054&utm_source=git)** | Lenexa, KS, United States | On Site | Sep 29 |
@@ -123,9 +123,9 @@ For a complete list, click the following sortable link below:
 | **[Vermeer Corporation](https://borestore.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa010a55b2d5633ef3bc2c7?utm_campaign=1054&utm_source=git)** | Pella, IA, United States | On Site | Sep 29 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6a5b1431c8e3a473cb8aeac6?utm_campaign=1054&utm_source=git)** | Tampa, FL, US | On Site | Sep 29 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2027 University Undergraduate Intern - Human Resources](https://jobright.ai/jobs/info/6a833bf72dbaf907b07675c2?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 29 |
-| ↳ | **[2027 University Graduate Intern - Human Resources Job Details / Phillips 66](https://jobright.ai/jobs/info/6aa90867eff87f571fc9832d?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 29 |
-| ↳ | **[2027 University Undergraduate Intern - Human Resources Job Details / Phillips 66](https://jobright.ai/jobs/info/6aa90879eff87f571fc98335?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 29 |
 | ↳ | **[2027 University Graduate Intern - Human Resources](https://jobright.ai/jobs/info/6a7e2dd719ce4e6e9d931cd2?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 29 |
+| ↳ | **[2027 University Undergraduate Intern - Human Resources Job Details / Phillips 66](https://jobright.ai/jobs/info/6aa90879eff87f571fc98335?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 29 |
+| ↳ | **[2027 University Graduate Intern - Human Resources Job Details / Phillips 66](https://jobright.ai/jobs/info/6aa90867eff87f571fc9832d?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Sep 29 |
 | **[Visions Federal Credit Union](https://www.visionsfcu.org)** | **[Employee Experience Spring 2027 Internship- Endwell, NY](https://jobright.ai/jobs/info/6ab3e94cd2f5fbd604be0444?utm_campaign=1054&utm_source=git)** | Endwell, New York, United States | On Site | Sep 29 |
 | **[Geon Performance Solutions](https://geon.com)** | **[HR Change Management Intern](https://jobright.ai/jobs/info/6abbd00b92b2612ef0f8ae96?utm_campaign=1054&utm_source=git)** | Westlake, OH, United States | On Site | Sep 29 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6abbcfdcd6acfd3dd29fa03c?utm_campaign=1054&utm_source=git)** | Clinton, TN, United States | On Site | Sep 29 |
