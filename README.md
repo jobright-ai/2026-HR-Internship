@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MOHELA](https://www.mohela.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6abd9bcb064da25272dfea31?utm_campaign=1054&utm_source=git)** | Chesterfield, MO, United States | On Site | Sep 30 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[HUMAN RESOURCES DEPARTMENT - UNPAID INTERN](https://jobright.ai/jobs/info/6abd9baa064da25272dfea11?utm_campaign=1054&utm_source=git)** | El Paso, TX, United States | On Site | Sep 30 |
+| **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Human Capital and Learning (Remote from DC, MD or VA)](https://jobright.ai/jobs/info/6abd50ba0e027c0f3b394f72?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Sep 30 |
+| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6abd80c4064da25272dfe157?utm_campaign=1054&utm_source=git)** | Draper, UT, United States | On Site | Sep 30 |
 | **[Opaa! Food Management](http://opaafood.com)** | **[Spring Talent Acquisition Intern](https://jobright.ai/jobs/info/6abd8166064da25272dfe192?utm_campaign=1054&utm_source=git)** | Kansas, United States | On Site | Sep 30 |
 | **[Indiana Biosciences Research Institute (IBRI)](https://www.indianabiosciences.org)** | **[Human Resource Intern (2027)](https://jobright.ai/jobs/info/6a91d1a8a27a2d3c9848a408?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 30 |
 | **[Formlabs](http://www.formlabs.com)** | **[Campus Recruiting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a987d1d11f73b6462c8ee7c?utm_campaign=1054&utm_source=git)** | Somerville, MA, United States | On Site | Sep 30 |
@@ -138,11 +142,10 @@ For a complete list, click the following sortable link below:
 | **[HII](https://hii.com)** | **[CORPORATE HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6aa03fe6500b01124c777ca3?utm_campaign=1054&utm_source=git)** | Newport News, VA, United States | On Site | Sep 30 |
 | **[Paylocity](http://www.paylocity.com)** | **[Retirement Services Intern](https://jobright.ai/jobs/info/6abca8005c3c457517cc41fb?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Sep 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Organization Development (Winter/Spring 2027)](https://jobright.ai/jobs/info/6abcc342372c01f6cd71d5e1?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Sep 29 |
-| ↳ | **[Internship, HR & People Teams (Winter/Spring 2027)](https://jobright.ai/jobs/info/6abcc346064da25272dfa89a?utm_campaign=1054&utm_source=git)** | Brookshire, TX, United States | On Site | Sep 29 |
-| ↳ | **[Internship, HR Partner, HR & Legal (Winter/Spring 2027)](https://jobright.ai/jobs/info/6abcc341064da25272dfa898?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Sep 29 |
-| ↳ | **[Internship, HR & People Teams (Winter/Spring 2027)](https://jobright.ai/jobs/info/6abcc3354ac55253f5d5a597?utm_campaign=1054&utm_source=git)** | Fremont, CA, United States | On Site | Sep 29 |
 | ↳ | **[Internship, HR Partner, Energy & Engineering (Winter/Spring 2027)](https://jobright.ai/jobs/info/6abcc3488ff3fb9b3bc6d8cb?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Sep 29 |
-| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6abd7ae5d9621c5b2838c822?utm_campaign=1054&utm_source=git)** | Draper, UT, United States | On Site | Sep 29 |
+| ↳ | **[Internship, HR & People Teams (Winter/Spring 2027)](https://jobright.ai/jobs/info/6abcc346064da25272dfa89a?utm_campaign=1054&utm_source=git)** | Brookshire, TX, United States | On Site | Sep 29 |
+| ↳ | **[Internship, HR & People Teams (Winter/Spring 2027)](https://jobright.ai/jobs/info/6abcc3354ac55253f5d5a597?utm_campaign=1054&utm_source=git)** | Fremont, CA, United States | On Site | Sep 29 |
+| ↳ | **[Internship, HR Partner, HR & Legal (Winter/Spring 2027)](https://jobright.ai/jobs/info/6abcc341064da25272dfa898?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Sep 29 |
 | **[Virginia Spaceport Authority](https://www.vaspace.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6abc9cdb639bf40e93d36b90?utm_campaign=1054&utm_source=git)** | Wallops Island, VA, United States | On Site | Sep 29 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Human Resources Internship – Early Careers](https://jobright.ai/jobs/info/6abd483b064da25272dfcb51?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 29 |
 | **[Cemex](https://www.cemex.com/locations/switzerland)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/6abd8a84372c01f6cd7211e4?utm_campaign=1054&utm_source=git)** | Davenport, FL, United States | On Site | Sep 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Manitowoc Company](http://www.manitowoc.com/)** | **[Intern Summer 2027 - Human Resources](https://jobright.ai/jobs/info/6abc3af97119e56191cec2f2?utm_campaign=1054&utm_source=git)** | Greencastle, PA, United States | On Site | Sep 29 |
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT MYR Admissions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa8422a654b2a9424cfba7e?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC, United States | On Site | Sep 29 |
 | **[Amrize](https://www.amrize.com)** | **[Human Resources Intern (Summer 2027) Job Details / Amrize](https://jobright.ai/jobs/info/6abc5d91187b1378d873dc11?utm_campaign=1054&utm_source=git)** | Greenbelt, Maryland, United States | On Site | Sep 29 |
-| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Cherry Hill, NJ](https://jobright.ai/jobs/info/6a574ad110c4d945d864d9e7?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Sep 29 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/6abc55ea73339662c77238ad?utm_campaign=1054&utm_source=git)** | Allentown, PA, United States | On Site | Sep 29 |
-| **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[HR Intern - Summer 27'](https://jobright.ai/jobs/info/6abd5ef2372c01f6cd720197?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
