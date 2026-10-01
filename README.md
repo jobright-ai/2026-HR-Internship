@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennox](http://www.lennox.com)** | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a84a182d34f700f87fb9cdc?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Oct 01 |
+| ↳ | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a9724bd455eaf6a08c1aec7?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Oct 01 |
+| ↳ | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a84a85a58ded76ad8fe89a2?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Oct 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Human Resources Intern (Global Business Solutions) - 2027 Summer](https://jobright.ai/jobs/info/6abe19ab4ac55253f5d5f861?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
+| **[Capitol Aggregates, Inc](http://capitolaggregates.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aac4a443d96632d741aa3de?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 01 |
 | **[Family Tree Farms](https://familytreefarms.com)** | **[Human Resources Intern – 2027 Season](https://jobright.ai/jobs/info/6abd3d9e0e027c0f3b39449b?utm_campaign=1054&utm_source=git)** | Kingsburg, CA, United States | On Site | Oct 01 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6abe0e02372c01f6cd722871?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 01 |
-| **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[UNPAID INTERN - Waukesha Day Report Center](https://jobright.ai/jobs/info/6abe097cd9621c5b2838e43f?utm_campaign=1054&utm_source=git)** | Pewaukee, WI, United States | On Site | Oct 01 |
 | **[NetJets](https://www.netjets.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6abdea068ff3fb9b3bc725c2?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 30 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6abdf4ca064da25272dff798?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 30 |
 | **[Southwest Airlines](http://www.southwest.com)** | **[Summer 2027 Labor Planning & Analytics Internship](https://jobright.ai/jobs/info/6abdd2c1d9621c5b2838dca5?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Sep 30 |
@@ -125,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-Labor Relations-Metra](https://jobright.ai/jobs/info/6abd2412d9621c5b2838a25e?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Sep 30 |
 | **[Toledo Tool and Die](https://toledotool.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6abd1e63d9621c5b2838a099?utm_campaign=1054&utm_source=git)** | Toledo, OH, United States | On Site | Sep 30 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-op - Administrative Assistant - Fall 2026](https://jobright.ai/jobs/info/6ab58c72634ec6aa7c0cfbcc?utm_campaign=1054&utm_source=git)** | Fort Mill, South Carolina, United States | On Site | Sep 30 |
-| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - People Analytics](https://jobright.ai/jobs/info/6aa03fde500b01124c777c9b?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Sep 30 |
+| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - People Analytics](https://jobright.ai/jobs/info/6aa03fc8a2266b538d22f25b?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Sep 30 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-op - Purchasing - Fall 2026](https://jobright.ai/jobs/info/6aa5f5042ed333b4ea5c8ba1?utm_campaign=1054&utm_source=git)** | Fort Mill, South Carolina, United States | On Site | Sep 30 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Retirement Services](https://jobright.ai/jobs/info/6abd18f3064da25272dfb523?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 30 |
 | **[Grail Talent](http://grail-talent.com)** | **[Recruitment Coordinator Internship](https://jobright.ai/jobs/info/6abd1988372c01f6cd71e380?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Human Resources – Organizational Effectiveness](https://jobright.ai/jobs/info/6a9fe1e53586ed4b17f21990?utm_campaign=1054&utm_source=git)** | Foster City, CA, United States | Hybrid | Sep 30 |
 | **[John Deere](https://www.deere.com)** | **[2027 Intern - Human Resources/Labor Relations](https://jobright.ai/jobs/info/6aa073a4500b01124c77922f?utm_campaign=1054&utm_source=git)** | Moline, IL, United States | On Site | Sep 30 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aa099e1500b01124c77a0aa?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6a99d5e5040e5c3d07599324?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Sep 30 |
-| **[Johnsonville](http://www.johnsonville.com/)** | **[Human Resources Internship - Summer 2027](https://jobright.ai/jobs/info/6aa03edda2266b538d22f1dd?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI, United States | On Site | Sep 30 |
-| **[HII](https://hii.com)** | **[CORPORATE HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6aa03fe6500b01124c777ca3?utm_campaign=1054&utm_source=git)** | Newport News, VA, United States | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
