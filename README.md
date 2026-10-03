@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - Hourly Recruiting](https://jobright.ai/jobs/info/6aa41c75c1928370a285c8e2?utm_campaign=1054&utm_source=git)** | Lenoir City, TN, United States | On Site | Oct 03 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Pension Administration Intern - Winter 2027](https://jobright.ai/jobs/info/6aa4b83182e82a31997ba6ae?utm_campaign=1054&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 03 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Spring 2027 Co-op - HR - University Relations](https://jobright.ai/jobs/info/6a7d4b1f83621355407adc9d?utm_campaign=1054&utm_source=git)** | Fort Mill, SC, United States | On Site | Oct 03 |
+| **[Diamondback Energy](http://www.diamondbackenergy.com/)** | **[Summer 2027 Human Resources Intern](https://jobright.ai/jobs/info/6a88afb5cde3717f9e9b68ca?utm_campaign=1054&utm_source=git)** | Midland, TX, United States | On Site | Oct 03 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/6a6de90dc56c0956e8ada521?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Oct 03 |
 | **[Johnson Financial Group](https://www.johnsonfinancialgroup.com/)** | **[Human Resources Rotational Internship 2027](https://jobright.ai/jobs/info/6aa426b3422289703bd65594?utm_campaign=1054&utm_source=git)** | Racine, WI, United States | On Site | Oct 03 |
 | **[Precision Castparts](http://precast.com)** | **[2027 Spring Human Resources Co-op](https://jobright.ai/jobs/info/6aa4f745654b2a9424cf2001?utm_campaign=1054&utm_source=git)** | Toronto, Ohio, United States | On Site | Oct 03 |
@@ -146,7 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI, United States | On Site | Oct 02 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Farmington, CT)](https://jobright.ai/jobs/info/6a6cb3bbacb0a61f9dbc6818?utm_campaign=1054&utm_source=git)** | Farmington, CT, United States | Hybrid | Oct 02 |
 | **[AZCO](http://www.azco-inc.com)** | **[Payroll Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/6aa5f62382e82a31997bf864?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Oct 02 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6aa3b14f5c11cce360365af3?utm_campaign=1054&utm_source=git)** | Redwood City, CA, United States | Hybrid | Oct 02 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6aa3bae6959a10d7230d392b?utm_campaign=1054&utm_source=git)** | Redwood City, CA, United States | Hybrid | Oct 02 |
 | **[WEP Clinical](http://www.wepclinical.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aa3864bc5a856ac7e339cd0?utm_campaign=1054&utm_source=git)** | Morrisville, NC, United States | On Site | Oct 02 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Spring 2027](https://jobright.ai/jobs/info/6a85e030e459fa3baa864736?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Remote | Oct 02 |
 | **[Graco](http://graco.com/in/en/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6aa3be50626f9945308b2d39?utm_campaign=1054&utm_source=git)** | Dayton, Minnesota, United States | On Site | Oct 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Operations Experience Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8791cfe8b6601d129042c7?utm_campaign=1054&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern - Midland & Odessa, TX](https://jobright.ai/jobs/info/6aa3dbd7c1928370a285ae1d?utm_campaign=1054&utm_source=git)** | Midland, TX, United States | On Site | Oct 02 |
 | ↳ | **[Summer 2027 Management Internship - Natick / Milford area](https://jobright.ai/jobs/info/6aa3dc54c1928370a285ae5f?utm_campaign=1054&utm_source=git)** | Natick, MA, United States | On Site | Oct 02 |
-| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Workplace and Enterprise Services - Intern](https://jobright.ai/jobs/info/6aa37c5e1cc5e5143a60ddfe?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Internship - Cape Cod area](https://jobright.ai/jobs/info/6aa3c7625c11cce36036662d?utm_campaign=1054&utm_source=git)** | Falmouth, MA, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
