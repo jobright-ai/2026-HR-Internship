@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2027](https://jobright.ai/jobs/info/6aa522fd930bff471a29d528?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | On Site | Oct 03 |
+| **[GAOTek Inc.](https://www.gaotek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac13346372c01f6cd72d19d?utm_campaign=1054&utm_source=git)** | Oregon, United States | Remote | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Spring 2027](https://jobright.ai/jobs/info/6ac12de4064da25272e0a436?utm_campaign=1054&utm_source=git)** | Salisbury, MD, United States | On Site | Oct 03 |
 | **[Amazon](https://amazon.com)** | **[Workplace Health and Safety Specialist Intern - Summer 2027 (Nationwide)](https://jobright.ai/jobs/info/6a88cc16cde3717f9e9b72d0?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Spring 2027](https://jobright.ai/jobs/info/6ac12a720e027c0f3b3a2509?utm_campaign=1054&utm_source=git)** | Cockeysville, MD, United States | On Site | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AZCO](http://www.azco-inc.com)** | **[Payroll Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/6aa5f62382e82a31997bf864?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Oct 02 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6aa3b14f5c11cce360365af3?utm_campaign=1054&utm_source=git)** | Redwood City, CA, United States | Hybrid | Oct 02 |
 | **[WEP Clinical](http://www.wepclinical.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aa3864bc5a856ac7e339cd0?utm_campaign=1054&utm_source=git)** | Morrisville, NC, United States | On Site | Oct 02 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Spring 2027](https://jobright.ai/jobs/info/6a85e030e459fa3baa864736?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Remote | Oct 02 |
-| **[Graco](http://graco.com/in/en/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6aa3be50626f9945308b2d39?utm_campaign=1054&utm_source=git)** | Dayton, Minnesota, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
