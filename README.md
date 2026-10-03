@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a93cae6a27a2d3c9848e8b4?utm_campaign=1054&utm_source=git)** | Stuart, FL, United States | On Site | Oct 03 |
 | **[Bioventus](https://www.bioventus.com)** | **[DOD SkillBridge Military Intern - Human Resource Generalist](https://jobright.ai/jobs/info/6a4e317efc327f422fef20ac?utm_campaign=1054&utm_source=git)** | Durham, NC, United States | Hybrid | Oct 03 |
 | **[Philips](https://www.philips.com)** | **[Intern-Philips People Services-Nashville, TN-Summer 2027](https://jobright.ai/jobs/info/6aa4356ec1928370a285d07c?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | Hybrid | Oct 03 |
 | **[Covestro](https://www.covestro.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aa4036a422289703bd64a98?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 03 |
 | **[TTM Technologies](https://www.ttm.com)** | **[Human Resource Intern - Part-Time 2026-2027](https://jobright.ai/jobs/info/6aa459f31d92e2d05d11476d?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 03 |
+| **[HII](https://hii.com)** | **[FOREMAN SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6aa3cd864233a2201a2b3d00?utm_campaign=1054&utm_source=git)** | Newport News, VA, United States | On Site | Oct 03 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2027 (Multiple Locations)](https://jobright.ai/jobs/info/6ab744953a2ec87116e25d46?utm_campaign=1054&utm_source=git)** | Henderson, TX, United States | Remote | Oct 03 |
+| **[Modular Power Solutions](http://www.modularpowersolutions.com)** | **[2027 Summer Internship - Safety (Texas)](https://jobright.ai/jobs/info/6ac033178ff3fb9b3bc7b447?utm_campaign=1054&utm_source=git)** | McKinney, TX, United States | On Site | Oct 03 |
 | **[Triad Partners](https://triadpartners.com)** | **[Intern - Talent and Culture](https://jobright.ai/jobs/info/6ac0576c064da25272e08c94?utm_campaign=1054&utm_source=git)** | Lawrence, KS, United States | On Site | Oct 03 |
 | **[Diverse Health](https://mydiversehealth.com)** | **[Human Resources & Talent Operations Intern (Graduate Level)](https://jobright.ai/jobs/info/6a55f5a5392ae330b30e83de?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 02 |
 | **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Recruitment & Admissions Intern)](https://jobright.ai/jobs/info/6ac08f848ff3fb9b3bc7c5dd?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 02 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Guerbet](http://www.guerbet.com)** | **[HR Intern Job Details / Laboratoire Guerbet](https://jobright.ai/jobs/info/6ac05525372c01f6cd72b99a?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 02 |
 | **[Muon Space](https://www.muonspace.com)** | **[People Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac00d7f4ac55253f5d67440?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 02 |
 | **[Stop & Shop](http://stopandshop.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/6abff52dd9621c5b283957e3?utm_campaign=1054&utm_source=git)** | Quincy, MA, United States | Hybrid | Oct 02 |
-| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6abffaeb0e027c0f3b39f1cf?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 02 |
 | **[Childhelp®](https://www.childhelp.org/)** | **[Intern, Dedicated Forensic Interview](https://jobright.ai/jobs/info/6ac034ac0e027c0f3b3a07c4?utm_campaign=1054&utm_source=git)** | Phoenix, AZ 85004, United States | On Site | Oct 02 |
 | **[SERVPRO](http://servpro.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6aac2fe13d96632d741a9add?utm_campaign=1054&utm_source=git)** | Gallatin, TN, United States | On Site | Oct 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter Internship - Birmingham, AL](https://jobright.ai/jobs/info/6ac03875064da25272e087e0?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Workplace and Enterprise Services - Intern](https://jobright.ai/jobs/info/6aa5eb472ed333b4ea5c8700?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 02 |
 | ↳ | **[2027 Future Talent Program - Global Workplace and Enterprise Services - Intern](https://jobright.ai/jobs/info/6aa37d946b9ea4538f928ce4?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 02 |
 | **[CHC](http://chcaddiction.org)** | **[HR Internship](https://jobright.ai/jobs/info/6abfa8a28ff3fb9b3bc785fd?utm_campaign=1054&utm_source=git)** | Akron, OH, United States | On Site | Oct 02 |
-| **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) - Service Operations Strategy & Planning Intern Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6abfa726d9621c5b28393f25?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Oct 02 |
-| **[Trench Group](https://trench-group.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a91ce41c12c90443efc852b?utm_campaign=1054&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
