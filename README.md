@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6ac14c6f0e027c0f3b3a27d7?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a62eaa899515267a6f0083a?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 03 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa45848422289703bd66415?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
+| ↳ | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6ab20b45d43eb922ca0c1d8e?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2027](https://jobright.ai/jobs/info/6aa522fd930bff471a29d528?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | On Site | Oct 03 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac13346372c01f6cd72d19d?utm_campaign=1054&utm_source=git)** | Oregon, United States | Remote | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Spring 2027](https://jobright.ai/jobs/info/6ac12de4064da25272e0a436?utm_campaign=1054&utm_source=git)** | Salisbury, MD, United States | On Site | Oct 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Organizational Change Management Intern (MBA/Graduate) (Summer 2027)](https://jobright.ai/jobs/info/6abfcc580e027c0f3b39df7c?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Oct 02 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Human Resources Internship (Fall 2026)](https://jobright.ai/jobs/info/6abfcbb54ac55253f5d65b3d?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Oct 02 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/69871e6e0f6f7e7a2ce26259?utm_campaign=1054&utm_source=git)** | Troy, MI, United States | On Site | Oct 02 |
-| **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Farmington, CT)](https://jobright.ai/jobs/info/6a6cb3bbacb0a61f9dbc6818?utm_campaign=1054&utm_source=git)** | Farmington, CT, United States | Hybrid | Oct 02 |
-| **[AZCO](http://www.azco-inc.com)** | **[Payroll Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/6aa5f62382e82a31997bf864?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Oct 02 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6aa3b14f5c11cce360365af3?utm_campaign=1054&utm_source=git)** | Redwood City, CA, United States | Hybrid | Oct 02 |
-| **[WEP Clinical](http://www.wepclinical.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aa3864bc5a856ac7e339cd0?utm_campaign=1054&utm_source=git)** | Morrisville, NC, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
