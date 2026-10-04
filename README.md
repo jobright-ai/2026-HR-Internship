@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conversations to Remember](https://conversationstoremember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/6ac28f1e8ff3fb9b3bc7ff3e?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Amazon](https://amazon.com)** | **[Workplace Health and Safety Specialist Intern - Summer 2027 (Nationwide)](https://jobright.ai/jobs/info/6a88cc16cde3717f9e9b72d0?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Oct 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship- Dayton](https://jobright.ai/jobs/info/6ac2840d372c01f6cd72f7ee?utm_campaign=1054&utm_source=git)** | Vandalia, OH, United States | On Site | Oct 04 |
 | ↳ | **[Spring 2027 Management Trainee Internship- Cincinnati](https://jobright.ai/jobs/info/6ac283f44ac55253f5d6c816?utm_campaign=1054&utm_source=git)** | Hamilton, OH, United States | On Site | Oct 04 |
@@ -64,13 +65,11 @@ For a complete list, click the following sortable link below:
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Chattanooga, TN)](https://jobright.ai/jobs/info/6a6f1e63c56c0956e8adc392?utm_campaign=1054&utm_source=git)** | Chattanooga, Tennessee, United States | Hybrid | Oct 04 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Part time Recruiting Intern Fall 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 04 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aa3e85cf7baf881567cc014?utm_campaign=1054&utm_source=git)** | Inver Grove Heights, MN, United States | Remote | Oct 04 |
-| **[Securitas Group](http://www.securitas.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99c50c551435518ebf0f64?utm_campaign=1054&utm_source=git)** | Dublin, OH, United States | On Site | Oct 04 |
 | **[Veeam Software](http://www.veeam.com)** | **[Talent Growth and Inclusion Intern- Summer 2027](https://jobright.ai/jobs/info/6aa47110c1928370a285df69?utm_campaign=1054&utm_source=git)** | Washington, United States | Remote | Oct 04 |
 | ↳ | **[Compensation Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4ce24a77a53f5a156e260?utm_campaign=1054&utm_source=git)** | Remote, GA, United States | Remote | Oct 04 |
-| **[Conversations to Remember](https://conversationstoremember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/6ac1f29dd9621c5b28399afc?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Plan A Health](https://planahealth.org)** | **[Employee Health & Benefits Intern](https://jobright.ai/jobs/info/6ac198a40e027c0f3b3a2bd7?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a62eaa899515267a6f0083a?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 03 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa3b921959a10d7230d386c?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa45848422289703bd66415?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
 | ↳ | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6ab20b45d43eb922ca0c1d8e?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa49f76422289703bd6755e?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa46376c1928370a285dc61?utm_campaign=1054&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[EAC Network](https://eac-network.org/)** | **[Recruitment Intern (Remote)](https://jobright.ai/jobs/info/6abfe06d0e027c0f3b39e678?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Allied Mineral Products](https://alliedmineral.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6abfe0228ff3fb9b3bc7941a?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 02 |
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern Job Details / ZF Group](https://jobright.ai/jobs/info/6aa56357654b2a9424cf4166?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Oct 02 |
+| **[Vantage Plastics](https://vantageplastics.com)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6abfe002d9621c5b28394e8f?utm_campaign=1054&utm_source=git)** | Bay City, MI, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
