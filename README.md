@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6ac29de50e027c0f3b3a53f3?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 04 |
 | **[Conversations to Remember](https://conversationstoremember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/6ac28f1e8ff3fb9b3bc7ff3e?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Amazon](https://amazon.com)** | **[Workplace Health and Safety Specialist Intern - Summer 2027 (Nationwide)](https://jobright.ai/jobs/info/6a88cc16cde3717f9e9b72d0?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Oct 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship- Dayton](https://jobright.ai/jobs/info/6ac2840d372c01f6cd72f7ee?utm_campaign=1054&utm_source=git)** | Vandalia, OH, United States | On Site | Oct 04 |
@@ -69,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compensation Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4ce24a77a53f5a156e260?utm_campaign=1054&utm_source=git)** | Remote, GA, United States | Remote | Oct 04 |
 | **[Plan A Health](https://planahealth.org)** | **[Employee Health & Benefits Intern](https://jobright.ai/jobs/info/6ac198a40e027c0f3b3a2bd7?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a62eaa899515267a6f0083a?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 03 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa45848422289703bd66415?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
-| ↳ | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6ab20b45d43eb922ca0c1d8e?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 03 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6ab20b45d43eb922ca0c1d8e?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 03 |
+| ↳ | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa45848422289703bd66415?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa49f76422289703bd6755e?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa46376c1928370a285dc61?utm_campaign=1054&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 03 |
 | ↳ | **[Management Trainee Intern Summer 2027](https://jobright.ai/jobs/info/6aa522fd930bff471a29d528?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | On Site | Oct 03 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Southwest Airline Career Page](http://www.southwest.com)** | **[Summer 2027 Culture & Engagement Internship](https://jobright.ai/jobs/info/6ac03f904ac55253f5d685d9?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Oct 02 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Union, NJ](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Oct 02 |
 | **[Chicago Behavioral Hospital](https://chicagobehavioralhospital.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/6ac018ce064da25272e07bf7?utm_campaign=1054&utm_source=git)** | Des Plaines, IL, United States | On Site | Oct 02 |
-| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6ac199e80e027c0f3b3a2bf6?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 02 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Talent Acquisition - Engineering & Defense (Winter 2027)](https://jobright.ai/jobs/info/6ac055e20e027c0f3b3a0d3b?utm_campaign=1054&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 02 |
 | **[Guerbet](http://www.guerbet.com)** | **[HR Intern Job Details / Laboratoire Guerbet](https://jobright.ai/jobs/info/6ac05525372c01f6cd72b99a?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 02 |
 | **[Stop & Shop](http://stopandshop.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/6abff52dd9621c5b283957e3?utm_campaign=1054&utm_source=git)** | Quincy, MA, United States | Hybrid | Oct 02 |
