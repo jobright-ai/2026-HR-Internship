@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aa3e85cf7baf881567cc014?utm_campaign=1054&utm_source=git)** | Inver Grove Heights, MN, United States | Remote | Oct 04 |
+| **[Securitas Group](http://www.securitas.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99c4c61388387060590366?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 04 |
 | **[Veeam Software](http://www.veeam.com)** | **[Talent Growth and Inclusion Intern- Summer 2027](https://jobright.ai/jobs/info/6aa47110c1928370a285df69?utm_campaign=1054&utm_source=git)** | Washington, United States | Remote | Oct 04 |
 | ↳ | **[Compensation Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4ce24a77a53f5a156e260?utm_campaign=1054&utm_source=git)** | Remote, GA, United States | Remote | Oct 04 |
 | **[Conversations to Remember](https://conversationstoremember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/6ac1f29dd9621c5b28399afc?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Plan A Health](https://planahealth.org)** | **[Employee Health & Benefits Intern](https://jobright.ai/jobs/info/6ac198a40e027c0f3b3a2bd7?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Oct 03 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6ac14c6f0e027c0f3b3a27d7?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a62eaa899515267a6f0083a?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 03 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6ab20b45d43eb922ca0c1d8e?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 03 |
-| ↳ | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa45848422289703bd66415?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa45848422289703bd66415?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
+| ↳ | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6ab20b45d43eb922ca0c1d8e?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa49f76422289703bd6755e?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa46376c1928370a285dc61?utm_campaign=1054&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 03 |
 | ↳ | **[Management Trainee Intern Summer 2027](https://jobright.ai/jobs/info/6aa522fd930bff471a29d528?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | On Site | Oct 03 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Milliken & Company](http://www.milliken.com/en-us/)** | **[Dewey Plant - HR Intern](https://jobright.ai/jobs/info/6aa5400182e82a31997bcf2c?utm_campaign=1054&utm_source=git)** | Inman, SC, United States | On Site | Oct 03 |
 | **[Holland & Knight LLP](http://www.hklaw.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa4c9eda77a53f5a156e143?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Oct 03 |
 | **[Rocket](https://www.rocketcompanies.com)** | **[People Support Specialist - Tour of Duty Associate (Military Veteran or Military Spouse)](https://jobright.ai/jobs/info/6aa43821422289703bd65a7a?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Oct 03 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2027 (Multiple Locations)](https://jobright.ai/jobs/info/6aa509f6930bff471a29cbbd?utm_campaign=1054&utm_source=git)** | Los Lunas, NM, United States | On Site | Oct 03 |
 | **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6a93cae6a27a2d3c9848e8b4?utm_campaign=1054&utm_source=git)** | Stuart, FL, United States | On Site | Oct 03 |
 | **[Bioventus](https://www.bioventus.com)** | **[DOD SkillBridge Military Intern - Human Resource Generalist](https://jobright.ai/jobs/info/6a4e317efc327f422fef20ac?utm_campaign=1054&utm_source=git)** | Durham, NC, United States | Hybrid | Oct 03 |
 | **[Philips](https://www.philips.com)** | **[Intern-Philips People Services-Nashville, TN-Summer 2027](https://jobright.ai/jobs/info/6aa4356ec1928370a285d07c?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | Hybrid | Oct 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grande Cheese Company](https://www.grande.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a85cb4c4afae74a08341384?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI, United States | On Site | Oct 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2026 Internship](https://jobright.ai/jobs/info/6aa429f7f3aa936e2cdb00ef?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, United States | On Site | Oct 02 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/6aa44a661d92e2d05d11436c?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 02 |
-| **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa37e935c11cce3603643bd?utm_campaign=1054&utm_source=git)** | Toledo, United States of America | On Site | Oct 02 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa4c2492ed333b4ea5c3e82?utm_campaign=1054&utm_source=git)** | Dearborn, MI, United States | On Site | Oct 02 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Talent Acquisition Intern (Summer 2027)](https://jobright.ai/jobs/info/6abfe3198ff3fb9b3bc795b0?utm_campaign=1054&utm_source=git)** | Milford, MA, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
