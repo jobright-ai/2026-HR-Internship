@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Workplace Health and Safety Specialist Intern - Summer 2027 (Nationwide)](https://jobright.ai/jobs/info/6a88cc16cde3717f9e9b72d0?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Oct 04 |
+| **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Chattanooga, TN)](https://jobright.ai/jobs/info/6a6f1e63c56c0956e8adc392?utm_campaign=1054&utm_source=git)** | Chattanooga, Tennessee, United States | Hybrid | Oct 04 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6ac249850e027c0f3b3a3850?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 04 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Part time Recruiting Intern Fall 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 04 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aa3e85cf7baf881567cc014?utm_campaign=1054&utm_source=git)** | Inver Grove Heights, MN, United States | Remote | Oct 04 |
@@ -67,14 +69,13 @@ For a complete list, click the following sortable link below:
 | **[Conversations to Remember](https://conversationstoremember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/6ac1f29dd9621c5b28399afc?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Plan A Health](https://planahealth.org)** | **[Employee Health & Benefits Intern](https://jobright.ai/jobs/info/6ac198a40e027c0f3b3a2bd7?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a62eaa899515267a6f0083a?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 03 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6ab20b45d43eb922ca0c1d8e?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 03 |
-| ↳ | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa45848422289703bd66415?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa3b921959a10d7230d386c?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
+| ↳ | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6ab20b45d43eb922ca0c1d8e?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa49f76422289703bd6755e?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa46376c1928370a285dc61?utm_campaign=1054&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 03 |
 | ↳ | **[Management Trainee Intern Summer 2027](https://jobright.ai/jobs/info/6aa522fd930bff471a29d528?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | On Site | Oct 03 |
 | ↳ | **[Management Trainee Intern Spring 2027](https://jobright.ai/jobs/info/6ac12de4064da25272e0a436?utm_campaign=1054&utm_source=git)** | Salisbury, MD, United States | On Site | Oct 03 |
-| **[Amazon](https://amazon.com)** | **[Workplace Health and Safety Specialist Intern - Summer 2027 (Nationwide)](https://jobright.ai/jobs/info/6a88cc16cde3717f9e9b72d0?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Oct 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Spring 2027](https://jobright.ai/jobs/info/6ac12a720e027c0f3b3a2509?utm_campaign=1054&utm_source=git)** | Cockeysville, MD, United States | On Site | Oct 03 |
+| ↳ | **[Management Trainee Intern Spring 2027](https://jobright.ai/jobs/info/6ac12a720e027c0f3b3a2509?utm_campaign=1054&utm_source=git)** | Cockeysville, MD, United States | On Site | Oct 03 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa4eebda77a53f5a156eaa0?utm_campaign=1054&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 03 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa4f9732ed333b4ea5c4bda?utm_campaign=1054&utm_source=git)** | Noblesville, IN, United States | On Site | Oct 03 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - Hourly Recruiting](https://jobright.ai/jobs/info/6aa41c75c1928370a285c8e2?utm_campaign=1054&utm_source=git)** | Lenoir City, TN, United States | On Site | Oct 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allied Mineral Products](https://alliedmineral.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6abfe0228ff3fb9b3bc7941a?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 02 |
 | **[ZF Group](https://www.zf.com/)** | **[Human Resources Intern Job Details / ZF Group](https://jobright.ai/jobs/info/6aa56357654b2a9424cf4166?utm_campaign=1054&utm_source=git)** | Marysville, MI, United States | On Site | Oct 02 |
 | **[Vantage Plastics](https://vantageplastics.com)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6abfe002d9621c5b28394e8f?utm_campaign=1054&utm_source=git)** | Bay City, MI, United States | On Site | Oct 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Internship - Leominster area](https://jobright.ai/jobs/info/6aa4055f8275e3a21175e8c8?utm_campaign=1054&utm_source=git)** | Leominster, MA, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
