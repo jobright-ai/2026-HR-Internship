@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6ac39b020e027c0f3b3a6922?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 05 |
 | **[Blue Cross and Blue Shield of Alabama](https://www.bcbsal.org)** | **[Intern-Human Resources-Staffing](https://jobright.ai/jobs/info/6ac384ffd9621c5b2839cc80?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | Hybrid | Oct 05 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[People Care HR AI Agent - Process Improvement Project Management Intern](https://jobright.ai/jobs/info/6ac30fac372c01f6cd73080b?utm_campaign=1054&utm_source=git)** | Spring, Texas, United States | Hybrid | Oct 04 |
 | **[Muon Space](https://www.muonspace.com)** | **[People Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac00d7f4ac55253f5d67440?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 04 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2027 (Multiple Locations)](https://jobright.ai/jobs/info/6aa4f981654b2a9424cf2096?utm_campaign=1054&utm_source=git)** | Eagle Mountain, UT, United States | On Site | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern -Summer 2027](https://jobright.ai/jobs/info/6aa56b9e82e82a31997bd980?utm_campaign=1054&utm_source=git)** | Edmonton, AB, Canada | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a62eaa899515267a6f0083a?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 03 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6ab20b45d43eb922ca0c1d8e?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 03 |
-| ↳ | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa45848422289703bd66415?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa3b921959a10d7230d386c?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
+| ↳ | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/6ab20b45d43eb922ca0c1d8e?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa49f76422289703bd6755e?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa46376c1928370a285dc61?utm_campaign=1054&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 03 |
 | ↳ | **[Management Trainee Intern Summer 2027](https://jobright.ai/jobs/info/6aa522fd930bff471a29d528?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | On Site | Oct 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter - Hattiesburg, MS Intern](https://jobright.ai/jobs/info/6abfeb20d9621c5b283953f1?utm_campaign=1054&utm_source=git)** | Hattiesburg, MS, United States | On Site | Oct 02 |
 | ↳ | **[Fall/Winter - Tupelo, MS Intern](https://jobright.ai/jobs/info/6abfe9f5d9621c5b2839535a?utm_campaign=1054&utm_source=git)** | Tupelo, MS, United States | On Site | Oct 02 |
 | **[McConnell Foundation](https://www.mcconnellfoundation.ca/)** | **[HR Internship](https://jobright.ai/jobs/info/6abfe9ae4ac55253f5d666fc?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 02 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, Summer 2027](https://jobright.ai/jobs/info/6abfce844ac55253f5d65c3e?utm_campaign=1054&utm_source=git)** | Orrville, OH, United States | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
