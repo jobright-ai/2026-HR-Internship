@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[People Care HR AI Agent - Process Improvement Project Management Intern](https://jobright.ai/jobs/info/6ac30fac372c01f6cd73080b?utm_campaign=1054&utm_source=git)** | Spring, Texas, United States | Hybrid | Oct 04 |
 | **[Muon Space](https://www.muonspace.com)** | **[People Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac00d7f4ac55253f5d67440?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 04 |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac334e5372c01f6cd730b50?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 04 |
+| **[Moody's Analytics](https://www.moodys.com)** | **[People Solutions Summer Intern](https://jobright.ai/jobs/info/6ac32c188ff3fb9b3bc80bf8?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 04 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, United States | On Site | Oct 04 |
 | **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[HRIS Intern - Human Resources](https://jobright.ai/jobs/info/6ac2b3d6064da25272e0d425?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA, United States | On Site | Oct 04 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6ac29de50e027c0f3b3a53f3?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 04 |
@@ -74,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compensation Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4ce24a77a53f5a156e260?utm_campaign=1054&utm_source=git)** | Remote, GA, United States | Remote | Oct 04 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2027 (Multiple Locations)](https://jobright.ai/jobs/info/6aa4f981654b2a9424cf2096?utm_campaign=1054&utm_source=git)** | Eagle Mountain, UT, United States | On Site | Oct 03 |
 | **[Plan A Health](https://planahealth.org)** | **[Employee Health & Benefits Intern](https://jobright.ai/jobs/info/6ac198a40e027c0f3b3a2bd7?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Oct 03 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[People Care HR AI Agent - Process Improvement Project Management Intern](https://jobright.ai/jobs/info/6ac30fac372c01f6cd73080b?utm_campaign=1054&utm_source=git)** | Spring, Texas, United States | Hybrid | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern -Summer 2027](https://jobright.ai/jobs/info/6aa56b9e82e82a31997bd980?utm_campaign=1054&utm_source=git)** | Edmonton, AB, Canada | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a62eaa899515267a6f0083a?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 03 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa45848422289703bd66415?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall/Winter - Tupelo, MS Intern](https://jobright.ai/jobs/info/6abfe9f5d9621c5b2839535a?utm_campaign=1054&utm_source=git)** | Tupelo, MS, United States | On Site | Oct 02 |
 | **[McConnell Foundation](https://www.mcconnellfoundation.ca/)** | **[HR Internship](https://jobright.ai/jobs/info/6abfe9ae4ac55253f5d666fc?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 02 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, Summer 2027](https://jobright.ai/jobs/info/6abfce844ac55253f5d65c3e?utm_campaign=1054&utm_source=git)** | Orrville, OH, United States | Hybrid | Oct 02 |
-| **[Charter Manufacturing](http://chartermfg.com)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/6abfe858d9621c5b283952b6?utm_campaign=1054&utm_source=git)** | Mequon, WI, United States | Hybrid | Oct 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter - Oxford, MS Intern](https://jobright.ai/jobs/info/6abfe7128ff3fb9b3bc797a0?utm_campaign=1054&utm_source=git)** | Oxford, MS, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
