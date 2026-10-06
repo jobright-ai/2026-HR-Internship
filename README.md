@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GEICO](http://www.geico.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa80b113a9f0a4fe6f16d72?utm_campaign=1054&utm_source=git)** | Bethesda, MD, United States | Hybrid | Oct 06 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Talent Acquisition Coordinator – Winter 2027 Co-op/Intern](https://jobright.ai/jobs/info/6aa881e72ed333b4ea5cfe03?utm_campaign=1054&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Oct 06 |
+| ↳ | **[Talent Acquisition Coordinator – Winter 2027 Co-op/Intern](https://jobright.ai/jobs/info/6aa8872a2ed333b4ea5cff2b?utm_campaign=1054&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Oct 06 |
+| **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[People (HR) Internship](https://jobright.ai/jobs/info/6a8ca1e125fc4e7ae3db9889?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 06 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[HR Strategy & Talent Intern - The Toro Company](https://jobright.ai/jobs/info/6aa4362cc1928370a285d0b5?utm_campaign=1054&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 06 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES Job Details / Cemex](https://jobright.ai/jobs/info/6ac4b9158ff3fb9b3bc8640e?utm_campaign=1054&utm_source=git)** | Davenport, FL, United States | On Site | Oct 06 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Workforce Strategy Intern (Charlotte, Summer '27, Hybrid)](https://jobright.ai/jobs/info/6ac4b8b30e027c0f3b3ab858?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 06 |
@@ -69,10 +73,10 @@ For a complete list, click the following sortable link below:
 | **[McLane Company, Inc.](https://www.mclaneco.com/)** | **[Intern I - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6ac43480372c01f6cd7347cf?utm_campaign=1054&utm_source=git)** | Temple, TX, United States | On Site | Oct 05 |
 | **[Battelle](http://www.battelle.org)** | **[HR AI Automation Internship (Summer 2027)](https://jobright.ai/jobs/info/6ac41f9f372c01f6cd73418e?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | Hybrid | Oct 05 |
 | **[US Anesthesia Partners](http://www.usap.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a7a1f05b17cba5690365873?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Oct 05 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6ac3e06c064da25272e0fe68?utm_campaign=1054&utm_source=git)** | Santa Barbara, California, United States | On Site | Oct 05 |
-| ↳ | **[Stafford Seasonal HR Intern](https://jobright.ai/jobs/info/6ac41af4d9621c5b2839fb27?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 05 |
-| ↳ | **[Seasonal HR Intern - Redmond](https://jobright.ai/jobs/info/6abfd1ff372c01f6cd728d91?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Oct 05 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern - Redmond](https://jobright.ai/jobs/info/6abfd1ff372c01f6cd728d91?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Oct 05 |
 | ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6ac43379372c01f6cd7347a0?utm_campaign=1054&utm_source=git)** | Addison, Illinois, United States | On Site | Oct 05 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6ac3e06c064da25272e0fe68?utm_campaign=1054&utm_source=git)** | Santa Barbara, California, United States | On Site | Oct 05 |
+| ↳ | **[Stafford Seasonal HR Intern](https://jobright.ai/jobs/info/6ac41af4d9621c5b2839fb27?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 05 |
 | **[Percheron, LLC](http://www.percheronllc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ac42e88d9621c5b283a015c?utm_campaign=1054&utm_source=git)** | Katy, TX, United States | On Site | Oct 05 |
 | **[The Riverside Hotel](https://www.riversidehotel.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac440b10e027c0f3b3aa48e?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Oct 05 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Health and Benefits Internship - West - Summer 2027](https://jobright.ai/jobs/info/6ac4404c0e027c0f3b3aa47b?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross and Blue Shield of Alabama](https://www.bcbsal.org)** | **[Intern-Human Resources-Staffing](https://jobright.ai/jobs/info/6ac384ffd9621c5b2839cc80?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | Hybrid | Oct 05 |
 | **[Michigan's Adventure Amusement Park](https://www.miadventure.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6ac4378b372c01f6cd734e4a?utm_campaign=1054&utm_source=git)** | Muskegon, MI, United States | On Site | Oct 04 |
 | **[Southwest Airlines](http://www.southwest.com)** | **[Summer 2027 People Learning & Development Internship](https://jobright.ai/jobs/info/6ac416cb8ff3fb9b3bc84011?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Oct 04 |
-| **[Marsh Risk](https://www.marsh.com)** | **[Health and Benefits Summer Intern- Tampa- College Program 2027](https://jobright.ai/jobs/info/6ac470314ac55253f5d72999?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Hybrid | Oct 04 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[People Care HR AI Agent - Process Improvement Project Management Intern](https://jobright.ai/jobs/info/6ac30fac372c01f6cd73080b?utm_campaign=1054&utm_source=git)** | Spring, Texas, United States | Hybrid | Oct 04 |
-| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6ac3fb0d8ff3fb9b3bc8349b?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Oct 04 |
-| **[Muon Space](https://www.muonspace.com)** | **[People Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac00d7f4ac55253f5d67440?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
