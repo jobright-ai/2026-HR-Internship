@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[HR Strategy & Talent Intern - The Toro Company](https://jobright.ai/jobs/info/6aa4362cc1928370a285d0b5?utm_campaign=1054&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 06 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES Job Details / Cemex](https://jobright.ai/jobs/info/6ac4b9158ff3fb9b3bc8640e?utm_campaign=1054&utm_source=git)** | Davenport, FL, United States | On Site | Oct 06 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Workforce Strategy Intern (Charlotte, Summer '27, Hybrid)](https://jobright.ai/jobs/info/6ac4b8b30e027c0f3b3ab858?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 06 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a424b776a9c2774b3fa5c6c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 05 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/6ac4906d064da25272e1321a?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Oct 05 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Human Resources Summer 2027 Internship (Euclid, Oh) Job Details / Lincoln Electric](https://jobright.ai/jobs/info/6ac482974ac55253f5d72c8f?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | Hybrid | Oct 05 |
@@ -66,10 +69,10 @@ For a complete list, click the following sortable link below:
 | **[McLane Company, Inc.](https://www.mclaneco.com/)** | **[Intern I - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6ac43480372c01f6cd7347cf?utm_campaign=1054&utm_source=git)** | Temple, TX, United States | On Site | Oct 05 |
 | **[Battelle](http://www.battelle.org)** | **[HR AI Automation Internship (Summer 2027)](https://jobright.ai/jobs/info/6ac41f9f372c01f6cd73418e?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | Hybrid | Oct 05 |
 | **[US Anesthesia Partners](http://www.usap.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a7a1f05b17cba5690365873?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Oct 05 |
-| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6ac43379372c01f6cd7347a0?utm_campaign=1054&utm_source=git)** | Addison, Illinois, United States | On Site | Oct 05 |
+| **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6ac3e06c064da25272e0fe68?utm_campaign=1054&utm_source=git)** | Santa Barbara, California, United States | On Site | Oct 05 |
 | ↳ | **[Stafford Seasonal HR Intern](https://jobright.ai/jobs/info/6ac41af4d9621c5b2839fb27?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 05 |
 | ↳ | **[Seasonal HR Intern - Redmond](https://jobright.ai/jobs/info/6abfd1ff372c01f6cd728d91?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Oct 05 |
-| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6ac3e06c064da25272e0fe68?utm_campaign=1054&utm_source=git)** | Santa Barbara, California, United States | On Site | Oct 05 |
+| ↳ | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6ac43379372c01f6cd7347a0?utm_campaign=1054&utm_source=git)** | Addison, Illinois, United States | On Site | Oct 05 |
 | **[Percheron, LLC](http://www.percheronllc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ac42e88d9621c5b283a015c?utm_campaign=1054&utm_source=git)** | Katy, TX, United States | On Site | Oct 05 |
 | **[The Riverside Hotel](https://www.riversidehotel.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac440b10e027c0f3b3aa48e?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Oct 05 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Health and Benefits Internship - West - Summer 2027](https://jobright.ai/jobs/info/6ac4404c0e027c0f3b3aa47b?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 05 |
@@ -101,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Fresh Mark Inc.](http://freshmark.com)** | **[2027 Human Resources Summer Internship - Salem, OH](https://jobright.ai/jobs/info/6ac3efbe372c01f6cd732f93?utm_campaign=1054&utm_source=git)** | Salem, OH, United States | On Site | Oct 05 |
 | ↳ | **[2027 Human Resources Summer Internship - Canton, OH](https://jobright.ai/jobs/info/6ac3efbc0e027c0f3b3a849f?utm_campaign=1054&utm_source=git)** | Canton, OH, United States | On Site | Oct 05 |
 | **[Sila Services](https://silaservices.com )** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac409398ff3fb9b3bc83a05?utm_campaign=1054&utm_source=git)** | King of Prussia, PA, United States | On Site | Oct 05 |
-| **[National Life Group](https://www.nationallife.com)** | **[People Center Intern – Summer 2027](https://jobright.ai/jobs/info/6ac3f4e7372c01f6cd733190?utm_campaign=1054&utm_source=git)** | Addison, TX, United States | On Site | Oct 05 |
-| ↳ | **[People Center Intern – Summer 2027](https://jobright.ai/jobs/info/6ac3f4b8372c01f6cd73318a?utm_campaign=1054&utm_source=git)** | Addison, TX, United States | On Site | Oct 05 |
+| **[National Life Group](https://www.nationallife.com)** | **[People Center Intern – Summer 2027](https://jobright.ai/jobs/info/6ac3f4b8372c01f6cd73318a?utm_campaign=1054&utm_source=git)** | Addison, TX, United States | On Site | Oct 05 |
+| ↳ | **[People Center Intern – Summer 2027](https://jobright.ai/jobs/info/6ac3f4e7372c01f6cd733190?utm_campaign=1054&utm_source=git)** | Addison, TX, United States | On Site | Oct 05 |
 | **[State Group Automation (formerly Fletcher Group Automation)](https://www.fletchergroupautomation.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ac4072f4ac55253f5d706e2?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Oct 05 |
 | **[The State Group](https://www.stategroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ac4047e0e027c0f3b3a8b31?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Oct 05 |
 | **[Builders Mutual](https://buildersmutual.com)** | **[Analytics Internship / Summer 2027](https://jobright.ai/jobs/info/6ac40310d9621c5b2839f0ec?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[People Care HR AI Agent - Process Improvement Project Management Intern](https://jobright.ai/jobs/info/6ac30fac372c01f6cd73080b?utm_campaign=1054&utm_source=git)** | Spring, Texas, United States | Hybrid | Oct 04 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6ac3fb0d8ff3fb9b3bc8349b?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Oct 04 |
 | **[Muon Space](https://www.muonspace.com)** | **[People Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac00d7f4ac55253f5d67440?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 04 |
-| **[Under Armour](http://underarmour.com)** | **[2027 Summer Internship, Human Resources](https://jobright.ai/jobs/info/6ac47c7ed9621c5b283a16f4?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | Hybrid | Oct 04 |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac334e5372c01f6cd730b50?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 04 |
-| **[Moody's Analytics](https://www.moodys.com)** | **[People Solutions Summer Intern](https://jobright.ai/jobs/info/6ac32c188ff3fb9b3bc80bf8?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
