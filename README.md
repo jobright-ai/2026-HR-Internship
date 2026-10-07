@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2027 Intern-Labor Relations](https://jobright.ai/jobs/info/6ac673570e027c0f3b3b26b5?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 07 |
+| **[Greenheck Group](https://www.greenheckgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa9cbfe3387a3d9b67d701d?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 07 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa868d12ed333b4ea5cf4ae?utm_campaign=1054&utm_source=git)** | Shelby, NC, United States | On Site | Oct 07 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa868dc2ed333b4ea5cf4b6?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 07 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa86900654b2a9424cfca86?utm_campaign=1054&utm_source=git)** | Schofield, WI, United States | On Site | Oct 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Janesville](https://jobright.ai/jobs/info/6ac66f42372c01f6cd73d182?utm_campaign=1054&utm_source=git)** | Janesville, WI, United States | On Site | Oct 07 |
+| **[Citadel](https://www.citadel.com)** | **[Human Resources – MBA Intern (US)](https://jobright.ai/jobs/info/6ac66f40d9621c5b283a8ba2?utm_campaign=1054&utm_source=git)** | New York | On Site | Oct 07 |
+| **[Trove Brands](https://trovebrands.com)** | **[Human Resources & Legal Internships- Summer 2027](https://jobright.ai/jobs/info/6ac66a6b8ff3fb9b3bc8cf75?utm_campaign=1054&utm_source=git)** | Lehi, UT, United States | On Site | Oct 07 |
+| **[Chenega Corporation](https://www.chenega.com/)** | **[Skillbridge Intern](https://jobright.ai/jobs/info/6ab3dcccef911c35dffa1d73?utm_campaign=1054&utm_source=git)** | Chantilly, VA, United States | Hybrid | Oct 07 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6aaa0c1528e24cb38513e099?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a8cf1231d96e6541c8c39c5?utm_campaign=1054&utm_source=git)** | Findlay, OH, United States | On Site | Oct 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6ab3c6170e0ae54eeea44b2c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
@@ -70,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Fenner Precision Polymers](https://www.fennerppd.com/)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c1553387a3d9b67d69ac?utm_campaign=1054&utm_source=git)** | Lititz, PA, United States | On Site | Oct 07 |
 | **[DESRI](https://www.desri.com)** | **[People Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8caea3581f2d7bfdfe531d?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO, United States | On Site | Oct 07 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Human Resources Summer Internship](https://jobright.ai/jobs/info/6ac5ddf48ff3fb9b3bc8b59e?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
-| **[GAOTek Inc.](https://www.gaotek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac6528a8ff3fb9b3bc8c8c6?utm_campaign=1054&utm_source=git)** | Maple, Ontario, Canada | Remote | Oct 07 |
 | **[Athene](https://www.athene.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa9c69509ae03adcacdf273?utm_campaign=1054&utm_source=git)** | West Des Moines, IA, United States | On Site | Oct 07 |
 | **[Mary Kay Global](https://www.marykay.pt)** | **[2027 Summer Internships – Human Resources](https://jobright.ai/jobs/info/6aa08954500b01124c779ac0?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Oct 07 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Human Resources Business Associate](https://jobright.ai/jobs/info/6a73055fe55c73319eb15434?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 07 |
@@ -91,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Spring 2027 Internship](https://jobright.ai/jobs/info/6ac5cfb4372c01f6cd73b4ac?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA, United States | On Site | Oct 06 |
 | ↳ | **[Management Trainee Winter 2026 Internship](https://jobright.ai/jobs/info/6ac5cfaa8ff3fb9b3bc8b467?utm_campaign=1054&utm_source=git)** | Hayward, CA, United States | On Site | Oct 06 |
 | **[Soven Developer ](https://sovendeveloper.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac5c10c0e027c0f3b3b0608?utm_campaign=1054&utm_source=git)** | Wilmington, DE, United States | Hybrid | Oct 06 |
-| **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e0ae69d7730385d6cc2d?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Oct 06 |
-| ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e170af954907d6570c5e?utm_campaign=1054&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 06 |
+| **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e170af954907d6570c5e?utm_campaign=1054&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 06 |
+| ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e0ae69d7730385d6cc2d?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Oct 06 |
 | ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ac595488ff3fb9b3bc8a57e?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Oct 06 |
 | **[Western National Insurance](https://wnins.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac568f38ff3fb9b3bc89a36?utm_campaign=1054&utm_source=git)** | Edina, MN, United States | On Site | Oct 06 |
 | **[Clēnera](https://www.clenera.com/)** | **[Human Resources Intern (January 2027)](https://jobright.ai/jobs/info/6ac574f1372c01f6cd739d58?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Oct 06 |
@@ -131,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6aa8a22758d9ccf2690b5418?utm_campaign=1054&utm_source=git)** | Round Mountain, NV, United States | On Site | Oct 06 |
 | **[UPMC](https://www.upmc.com/)** | **[Human Resources Summer Associate Internship](https://jobright.ai/jobs/info/6aa85acc3a9f0a4fe6f18bd0?utm_campaign=1054&utm_source=git)** | Monroeville, PA, United States | On Site | Oct 06 |
 | **[Piper Sandler](https://pipersandler.com)** | **[2027 Campus Recruiting - Investment Banking Summer Associate - Houston](https://jobright.ai/jobs/info/6a8bdf404afae74a08351a5e?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 06 |
-| **[Greenheck Group](https://www.greenheckgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa868d12ed333b4ea5cf4ae?utm_campaign=1054&utm_source=git)** | Shelby, NC, United States | On Site | Oct 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Internship - Downtown Boston](https://jobright.ai/jobs/info/6aa87f94a77a53f5a1579d2f?utm_campaign=1054&utm_source=git)** | Brookline, MA, United States | On Site | Oct 06 |
 | **[Hatch](https://www.hatch.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa859c6654b2a9424cfc333?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 06 |
 | ↳ | **[Human Resources Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c231508734c15309fba?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 06 |
@@ -139,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[ARCO/Murray](http://arcomurray.com)** | **[Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8d61df581f2d7bfdfe735d?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Oct 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aa87fcd654b2a9424cfd2e0?utm_campaign=1054&utm_source=git)** | Fuquay-Varina, NC, United States | On Site | Oct 06 |
 | ↳ | **[Spring 2027 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/6ac52c3c4ac55253f5d74f60?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL, United States | On Site | Oct 06 |
-| ↳ | **[Spring 2027 Management Trainee Intern West Palm Beach](https://jobright.ai/jobs/info/6ac52c2f064da25272e1537f?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL, United States | On Site | Oct 06 |
 | ↳ | **[Spring 2027 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/6ac52c2f372c01f6cd738045?utm_campaign=1054&utm_source=git)** | Port St. Lucie, FL, United States | On Site | Oct 06 |
+| ↳ | **[Spring 2027 Management Trainee Intern West Palm Beach](https://jobright.ai/jobs/info/6ac52c2f064da25272e1537f?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL, United States | On Site | Oct 06 |
 | ↳ | **[Spring 2027 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6ac52c180e027c0f3b3ad4ac?utm_campaign=1054&utm_source=git)** | Jupiter, FL, United States | On Site | Oct 06 |
 | ↳ | **[Summer 2027 Management Internship - Salem, NH](https://jobright.ai/jobs/info/6aa885a3a77a53f5a1579e85?utm_campaign=1054&utm_source=git)** | Salem, NH, United States | On Site | Oct 06 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ac505120e027c0f3b3ac525?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/6ac520a20e027c0f3b3acfd7?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 06 |
 | ↳ | **[Summer 2027 Management Internship - Medford/Somerville](https://jobright.ai/jobs/info/6ac52078372c01f6cd737b36?utm_campaign=1054&utm_source=git)** | Medford, MA, United States | On Site | Oct 06 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6ac51de3064da25272e14d3c?utm_campaign=1054&utm_source=git)** | Cary, NC, United States | On Site | Oct 06 |
-| **[Greenheck Group](https://www.greenheckgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa868dc2ed333b4ea5cf4b6?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 06 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[2027 Summer Nuclear Human Resources Operations Intern (Lusby, MD)](https://jobright.ai/jobs/info/6aa82399a77a53f5a1577852?utm_campaign=1054&utm_source=git)** | Lusby, MD, United States | On Site | Oct 06 |
-| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6abdbb704ac55253f5d5ebcd?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 06 |
-| **[Formerra](https://www.formerra.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6aa82b8d930bff471a2a5a01?utm_campaign=1054&utm_source=git)** | Romeoville, IL, United States | On Site | Oct 06 |
-| **[Greenheck Group](https://www.greenheckgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa86900654b2a9424cfca86?utm_campaign=1054&utm_source=git)** | Schofield, WI, United States | On Site | Oct 06 |
-| **[Southwest Airline Career Page](http://www.southwest.com)** | **[Summer 2027 People Learning & Development Internship](https://jobright.ai/jobs/info/6ac41f6f0e027c0f3b3a9625?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Oct 06 |
-| **[Rural King](https://www.ruralking.com)** | **[Internship - HR](https://jobright.ai/jobs/info/6ac51316064da25272e1498d?utm_campaign=1054&utm_source=git)** | Mattoon, IL, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
