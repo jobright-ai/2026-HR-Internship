@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aac83493e3ce93970c7dc5a?utm_campaign=1054&utm_source=git)** | Sacramento, CA, United States | On Site | Oct 09 |
+| **[TELUS](http://www.telus.com)** | **[Winter Internship - Defined Benefit Pension Administration](https://jobright.ai/jobs/info/6a906e977c32860d14cf960b?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 09 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern- Bronx, NY](https://jobright.ai/jobs/info/6ac91e23c3a8af9c54a09368?utm_campaign=1054&utm_source=git)** | Bronx, NY, United States | On Site | Oct 09 |
+| **[GM Performance Power Units](https://gmppu.com)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac90526d4a5a03707410375?utm_campaign=1054&utm_source=git)** | Concord, NC, United States | On Site | Oct 09 |
 | **[Benco Dental](https://www.benco.com/)** | **[HR Intern (Spring 2027)](https://jobright.ai/jobs/info/6ab683d1b3db59402d100a90?utm_campaign=1054&utm_source=git)** | Pittston, PA, United States | On Site | Oct 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac916d9c3a8af9c54a09097?utm_campaign=1054&utm_source=git)** | Temple Hills, MD, United States | On Site | Oct 09 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac91403fe8f33a85d5021e9?utm_campaign=1054&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 09 |
@@ -76,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/6ac804240e573df8adc75b37?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 09 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 09 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 09 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 09 |
-| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 09 |
+| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 09 |
 | ↳ | **[HR Talent Development and Org Culture Project Intern (TikTok Shop) - 2026 Start](https://jobright.ai/jobs/info/6a9147a9d96ad228f12643bd?utm_campaign=1054&utm_source=git)** | Seattle | On Site | Oct 09 |
 | ↳ | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6a8f85a42e254e06fb9ed986?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 09 |
 | ↳ | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6ab3c6170e0ae54eeea44b2c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 09 |
@@ -90,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer 2027 Internship](https://jobright.ai/jobs/info/6ac885bbfcdafb60c6a48b6a?utm_campaign=1054&utm_source=git)** | Hayward, CA, United States | On Site | Oct 08 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[2027 Summer Internships](https://jobright.ai/jobs/info/6ac87becfe8f33a85d500181?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 08 |
 | **[Independent Bank](https://www.independentbank.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6ac86fa5fcdafb60c6a48701?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 08 |
-| **[GM Performance Power Units](https://gmppu.com)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac90526d4a5a03707410375?utm_campaign=1054&utm_source=git)** | Concord, NC, United States | On Site | Oct 08 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Human Resources (International Student)](https://jobright.ai/jobs/info/6ab5c0574873fd3fd852bb52?utm_campaign=1054&utm_source=git)** | Vance, AL, United States | On Site | Oct 08 |
 | **[OTHON, Inc.](http://othon.com)** | **[HR INTERN](https://jobright.ai/jobs/info/6ac81c960e573df8adc762a8?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 08 |
 | **[Penguin Random House UK](https://www.penguinrandomhouse.com/)** | **[Human Resources Intern (Bilingual English/Spanish)](https://jobright.ai/jobs/info/6ab5c1704873fd3fd852bb89?utm_campaign=1054&utm_source=git)** | Medley, FL, United States | On Site | Oct 08 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Pepsi Bottling Ventures](http://www.pepsibottlingventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac8ea45d4a5a0370740fc21?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 08 |
 | **[NYSTRS](https://www.nystrs.org)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6ac8f4beaf788e6ad3b590e2?utm_campaign=1054&utm_source=git)** | Albany, New York, United States | Hybrid | Oct 08 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Oct 08 |
-| **[Brose Group](https://www.brose.com/)** | **[Human Resources Intern (Year-Round / On-Site)](https://jobright.ai/jobs/info/6ac80663fcdafb60c6a47450?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 08 |
 | **[Alloy Engineering Company](http://alloyengineering.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6ab13b69191d8c340dbd9509?utm_campaign=1054&utm_source=git)** | Berea, OH, United States | On Site | Oct 08 |
 | **[Elk Valley Resources](http://www.evr.com)** | **[January 2027 Talent Management Co-op](https://jobright.ai/jobs/info/6a9741c5b22f636c81416fe1?utm_campaign=1054&utm_source=git)** | Sparwood, BC, Canada | On Site | Oct 08 |
 | **[Lennox](http://www.lennox.com)** | **[SAP/Kronos HR Intern](https://jobright.ai/jobs/info/6ac80a90fe8f33a85d4fec14?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Oct 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Talent Management Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ac6d79a0e027c0f3b3b4a71?utm_campaign=1054&utm_source=git)** | Franklin, TN, United States | On Site | Oct 08 |
 | **[At Your Side Home Care](https://www.atyoursidehomecare.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/6ac79d6a0e573df8adc73318?utm_campaign=1054&utm_source=git)** | Huntsville, TX, United States | On Site | Oct 08 |
 | **[IBM](http://www.ibm.com)** | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6a9e2b9775edfa11b47106f1?utm_campaign=1054&utm_source=git)** | Armonk, NY, United States | Hybrid | Oct 08 |
-| **[The Toro Company](https://www.toro.com.au/)** | **[Total Rewards Human Resources Intern - The Toro Company](https://jobright.ai/jobs/info/6ac55d898ff3fb9b3bc895df?utm_campaign=1054&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://jobright.ai/jobs/info/6aabbc1576707040fb085e6e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
