@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Labor Relations Job Details / Union Pacific](https://jobright.ai/jobs/info/6ac8acf5af788e6ad3b581a6?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 09 |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Recruiting Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6ac8ac78af788e6ad3b58196?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Oct 09 |
+| **[Five Iron Golf](https://fiveirongolf.com/)** | **[Full-Time Social & Golf Recruiting Intern](https://jobright.ai/jobs/info/6ac8a320c3a8af9c54a074f2?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Oct 09 |
 | **[Digital4Good x #ICANHELP](https://www.icanhelp.net)** | **[People, Culture, and Engagement Intern](https://jobright.ai/jobs/info/6ac89a016355f8776ff15846?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 09 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - HR/Recruiting](https://jobright.ai/jobs/info/6ac88da76355f8776ff156eb?utm_campaign=1054&utm_source=git)** | Midvale, UT, United States | On Site | Oct 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - Midland/Odessa, TX](https://jobright.ai/jobs/info/6ac88c30c3a8af9c54a07198?utm_campaign=1054&utm_source=git)** | Midland, TX, United States | On Site | Oct 08 |
@@ -79,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Johnsonville](http://www.johnsonville.com/)** | **[Human Resources Internship - Summer 2027 Job Details / Johnsonville](https://jobright.ai/jobs/info/6ac8064f44d6e65604a05c4f?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI, United States | On Site | Oct 08 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Intern Talent Recruitment](https://jobright.ai/jobs/info/6ac7ef8efcdafb60c6a46b36?utm_campaign=1054&utm_source=git)** | Dearborn, MI, United States | On Site | Oct 08 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Communications - Intern](https://jobright.ai/jobs/info/6ac6774f8ff3fb9b3bc8d40c?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 08 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[HR Talent Acquisition Intern](https://jobright.ai/jobs/info/6ac7c5b6fe8f33a85d4fd085?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Oct 08 |
+| **[Children's Minnesota](https://www.childrensmn.org/)** | **[HR Talent Acquisition Intern](https://jobright.ai/jobs/info/6ac7f12451a1b3e4219ef7e6?utm_campaign=1054&utm_source=git)** | Minnesota, United States | Remote | Oct 08 |
 | **[Arkansas Baptist Children & Family Ministries (ABCFM)](https://arkansasfamilies.org/)** | **[Intern](https://jobright.ai/jobs/info/6abf5d53d9621c5b28393707?utm_campaign=1054&utm_source=git)** | Jonesboro, AR, United States | On Site | Oct 08 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, Global Total Rewards (Summer 2027)](https://jobright.ai/jobs/info/6ac8004e0e573df8adc75902?utm_campaign=1054&utm_source=git)** | Malta, New York, United States | On Site | Oct 08 |
 | **[Clarios](https://www.clarios.com/)** | **[Talent Acquisition Intern (Fall 2026)](https://jobright.ai/jobs/info/6ac7dde20e573df8adc74d15?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 08 |
@@ -132,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6a8ead33382b237ac80c293a?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
 | ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Start](https://jobright.ai/jobs/info/6a8f85c47c32860d14cf6128?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2027](https://jobright.ai/jobs/info/6ac7b417a444ac5d36f8546b?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 08 |
-| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Global Solutions Internship](https://jobright.ai/jobs/info/6aaae28640807b73bd3928f5?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 08 |
+| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Global Solutions Internship](https://jobright.ai/jobs/info/6aaae1f7c85610f4a48423fa?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 08 |
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Talent COE Intern](https://jobright.ai/jobs/info/6aaade6ef6bd9d2d17c1a0fb?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Oct 08 |
 | **[Xtalks](http://www.xtalks.com/)** | **[Human Resources Intern - Spring...](https://jobright.ai/jobs/info/6ac79cfc44d6e65604a0338d?utm_campaign=1054&utm_source=git)** | Columbus, MS, United States | On Site | Oct 08 |
 | **[MS Transverse](https://transverseinsurance.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aa8ab2783a6750b1adf9680?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[*Internship Clinical Research -Talent Community Graduates for 2027-2028 (Las Vegas, NV)](https://jobright.ai/jobs/info/6ac690b10e027c0f3b3b317b?utm_campaign=1054&utm_source=git)** | Las Vegas, NV, United States | On Site | Oct 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern Fort Lauderdale](https://jobright.ai/jobs/info/6ac717c60e027c0f3b3b5545?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Oct 07 |
 | **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/6ac804240e573df8adc75b37?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 07 |
-| **[Nestlé](https://www.nestle.com)** | **[Intern HR](https://jobright.ai/jobs/info/6ac80662fe8f33a85d4feb0e?utm_campaign=1054&utm_source=git)** | Panama, Pennsylvania, United States | Hybrid | Oct 07 |
-| **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - HR Knowledge](https://jobright.ai/jobs/info/6ac3bc66372c01f6cd731d0e?utm_campaign=1054&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Oct 07 |
-| **[Hamilton by Gunnebo](https://hamiltonbygunnebo.com)** | **[HR Co-Op/Intern](https://jobright.ai/jobs/info/6ac7c61bfe8f33a85d4fd0a3?utm_campaign=1054&utm_source=git)** | Milford, OH, United States | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
