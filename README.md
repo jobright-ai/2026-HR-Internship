@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clarios](https://www.clarios.com/)** | **[HR Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac9346faf788e6ad3b5a748?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 09 |
+| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6ac9346caf788e6ad3b5a745?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 09 |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Workforce Development Intern](https://jobright.ai/jobs/info/6ac9483e6355f8776ff184b1?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Oct 09 |
+| **[Granger Construction](http://grangerconstruction.com)** | **[People Development Intern](https://jobright.ai/jobs/info/6ac949dad4a5a03707411a76?utm_campaign=1054&utm_source=git)** | Lansing, MI, United States | On Site | Oct 09 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6aada6cf6956574eac8b6faa?utm_campaign=1054&utm_source=git)** | West Des Moines, IA, United States | Remote | Oct 09 |
 | **[Pepsi Bottling Ventures](http://www.pepsibottlingventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac8ea45d4a5a0370740fc21?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 09 |
 | **[FIS](http://www.fisglobal.com)** | **[People Office Intern Pipeline](https://jobright.ai/jobs/info/6aac65883dbb1f8967cea805?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 09 |
@@ -83,7 +87,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac91403fe8f33a85d5021e9?utm_campaign=1054&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 09 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac92ed9fe8f33a85d502a8c?utm_campaign=1054&utm_source=git)** | Frederick, MD, United States | On Site | Oct 09 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac91256fcdafb60c6a4aa10?utm_campaign=1054&utm_source=git)** | Falls Church, VA, United States | On Site | Oct 09 |
+| **[Kinetic Engine Systems](https://kineticenginesystems.com)** | **[Human Resources Intern - Part Time](https://jobright.ai/jobs/info/6ac94a88fcdafb60c6a4bb35?utm_campaign=1054&utm_source=git)** | Westfield, MA, United States | On Site | Oct 09 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Human Resources Internship Job Details / Safran DSI](https://jobright.ai/jobs/info/6aafa0676956574eac8ba231?utm_campaign=1054&utm_source=git)** | Bedford, NH, United States | On Site | Oct 09 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a9047f5d96ad228f1260472?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Oct 09 |
 | **[CHC](http://chcaddiction.org)** | **[HR Internship](https://jobright.ai/jobs/info/6ac8ff55d4a5a037074101d0?utm_campaign=1054&utm_source=git)** | Akron, OH, United States | On Site | Oct 09 |
 | **[Johns Manville](http://www.jm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac8f184d4a5a0370740fde1?utm_campaign=1054&utm_source=git)** | Waterville, OH, United States | On Site | Oct 09 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2027 Human Resources Intern](https://jobright.ai/jobs/info/6aabeb693dbb1f8967ce7ca6?utm_campaign=1054&utm_source=git)** | Shakopee, MN, United States | On Site | Oct 09 |
@@ -94,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac8f25eaf788e6ad3b59039?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Oct 09 |
 | **[Plug and Play](https://www.plugandplaytechcenter.com)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6aac6d9a636cddf7396f40e7?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA, United States | On Site | Oct 09 |
 | **[Draper](https://www.draper.com)** | **[Corporate and Community Engagement Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac8dcbfc3a8af9c54a07f3b?utm_campaign=1054&utm_source=git)** | Cambridge, MA, United States | Hybrid | Oct 09 |
-| **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Labor Relations Job Details / Union Pacific](https://jobright.ai/jobs/info/6ac8acf5af788e6ad3b581a6?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 09 |
-| ↳ | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/6ac804240e573df8adc75b37?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 09 |
+| **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/6ac804240e573df8adc75b37?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 09 |
+| ↳ | **[Year Round Intern - Labor Relations Job Details / Union Pacific](https://jobright.ai/jobs/info/6ac8acf5af788e6ad3b581a6?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 09 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 09 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 09 |
@@ -119,8 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/6ac82febfe8f33a85d4ff6a7?utm_campaign=1054&utm_source=git)** | Lubbock, TX, United States | On Site | Oct 08 |
 | **[Michaels Stores](https://www.michaels.com/)** | **[Human Resources Intern - Compensation](https://jobright.ai/jobs/info/6ac80cd20e573df8adc75e1a?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Oct 08 |
 | **[NYSTRS](https://www.nystrs.org)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6ac8f4beaf788e6ad3b590e2?utm_campaign=1054&utm_source=git)** | Albany, New York, United States | Hybrid | Oct 08 |
-| **[Clarios](https://www.clarios.com/)** | **[HR Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac9346faf788e6ad3b5a748?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 08 |
-| **[American Electric Power](http://aep.com)** | **[HR/Talent Acquisition - Campus Intern](https://jobright.ai/jobs/info/6ac9346caf788e6ad3b5a745?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 08 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Oct 08 |
 | **[Alloy Engineering Company](http://alloyengineering.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6ab13b69191d8c340dbd9509?utm_campaign=1054&utm_source=git)** | Berea, OH, United States | On Site | Oct 08 |
 | **[Elk Valley Resources](http://www.evr.com)** | **[January 2027 Talent Management Co-op](https://jobright.ai/jobs/info/6a9741c5b22f636c81416fe1?utm_campaign=1054&utm_source=git)** | Sparwood, BC, Canada | On Site | Oct 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6aaad11ff6bd9d2d17c19b8a?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Oct 08 |
 | **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern (Onsite)](https://jobright.ai/jobs/info/6a73623732ebbc14ffb4e8e3?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 08 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern – Human Resources](https://jobright.ai/jobs/info/6aa4c381a77a53f5a156df40?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Oct 08 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2027 Internship - Phoenix, AZ - Talent Acquisition & HR Service Delivery](https://jobright.ai/jobs/info/6aaae8bc8e1bf0f764af7330?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 08 |
-| **[Etched](https://www.etched.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6aab4d674be87a72913a4054?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
-| **[Schneider Electric](https://www.se.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac79eaf0e573df8adc733ad?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | On Site | Oct 08 |
-| **[Xerox](https://www.xerox.com/)** | **[Connection Belonging & Impact Intern](https://jobright.ai/jobs/info/6a5f55156e0c3c7c7d3d6514?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
