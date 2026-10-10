@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life](https://www.newyorklife.com/)** | **[2027 Human Resources Summer Internship Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6acaa3eeddd23cce28a0c837?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 10 |
+| ↳ | **[2027 Group Benefit Solutions (GBS) SS&M - Claims Communications Summer Intern - TN Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6acaa3c63c831dc4086bc5fb?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | Hybrid | Oct 10 |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Appointment Package Intern (NFWS)](https://jobright.ai/jobs/info/6aca9836002e496d4beec46e?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 10 |
+| ↳ | **[Program Recruitment - Bilingual Support Intern (NFWS)](https://jobright.ai/jobs/info/6ac8287044d6e65604a06663?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 10 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Hagerstown, MD / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41fe4ac55253f5d5c393?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Oct 10 |
 | ↳ | **[Distribution Center HR Intern / Maumelle, AR / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f9372c01f6cd71f4c2?utm_campaign=1054&utm_source=git)** | Maumelle, AR, United States | On Site | Oct 10 |
 | **[TELUS](http://www.telus.com)** | **[Winter Internship - Defined Benefit Pension Administration](https://jobright.ai/jobs/info/6a906e977c32860d14cf960b?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 10 |
@@ -73,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2027 Guardian Summer Intern, Group Benefits Product Management](https://jobright.ai/jobs/info/6aad64ff3d96632d741ad8b3?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Oct 10 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[HR Internship](https://jobright.ai/jobs/info/6ac957376355f8776ff18b18?utm_campaign=1054&utm_source=git)** | Lowell, Arkansas, United States | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Payer and Health Systems - Intern](https://jobright.ai/jobs/info/6aad78033d96632d741ae107?utm_campaign=1054&utm_source=git)** | North Wales, PA, United States | Remote | Oct 10 |
-| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Oct 10 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Oct 10 |
+| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Oct 10 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Oct 10 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Oct 10 |
 | **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Human Resources Internship](https://jobright.ai/jobs/info/6a91b20f3603630099193cc5?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 10 |
 | **[Nokia](http://www.nokia.com)** | **[Early Careers Talent Acquisition Student](https://jobright.ai/jobs/info/6aad59483dbb1f8967cecf23?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 10 |
@@ -110,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/6ac9727eaf788e6ad3b5b89f?utm_campaign=1054&utm_source=git)** | New London, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - North Kingstown/Middletown Rhode Island](https://jobright.ai/jobs/info/6ac9727cfcdafb60c6a4c6c2?utm_campaign=1054&utm_source=git)** | North Kingstown, RI, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/6ac97279af788e6ad3b5b89c?utm_campaign=1054&utm_source=git)** | Brooklyn, Connecticut, United States | On Site | Oct 09 |
-| ↳ | **[Summer 2027 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6ac97275fcdafb60c6a4c6c1?utm_campaign=1054&utm_source=git)** | North Attleboro, MA, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/6ac97275d4a5a03707412672?utm_campaign=1054&utm_source=git)** | Vernon, CT, United States | On Site | Oct 09 |
+| ↳ | **[Summer 2027 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6ac97275fcdafb60c6a4c6c1?utm_campaign=1054&utm_source=git)** | North Attleboro, MA, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - New Britain/Middletown/Newington, CT](https://jobright.ai/jobs/info/6ac97274fe8f33a85d503ed4?utm_campaign=1054&utm_source=git)** | New Britain, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6ac97263af788e6ad3b5b896?utm_campaign=1054&utm_source=git)** | Pittsfield, MA, United States | On Site | Oct 09 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Human Resources Co-op, Human Pharma, Fremont CA Onsite](https://jobright.ai/jobs/info/6ac95773fcdafb60c6a4c0d0?utm_campaign=1054&utm_source=git)** | Fremont, CA, United States | On Site | Oct 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac91403fe8f33a85d5021e9?utm_campaign=1054&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 09 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac92ed9fe8f33a85d502a8c?utm_campaign=1054&utm_source=git)** | Frederick, MD, United States | On Site | Oct 09 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac91256fcdafb60c6a4aa10?utm_campaign=1054&utm_source=git)** | Falls Church, VA, United States | On Site | Oct 09 |
-| **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Human Resources Internship Job Details / Safran DSI](https://jobright.ai/jobs/info/6aafa0676956574eac8ba231?utm_campaign=1054&utm_source=git)** | Bedford, NH, United States | On Site | Oct 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a9047f5d96ad228f1260472?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Oct 09 |
-| **[CHC](http://chcaddiction.org)** | **[HR Internship](https://jobright.ai/jobs/info/6ac8ff55d4a5a037074101d0?utm_campaign=1054&utm_source=git)** | Akron, OH, United States | On Site | Oct 09 |
-| **[Johns Manville](http://www.jm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac8f184d4a5a0370740fde1?utm_campaign=1054&utm_source=git)** | Waterville, OH, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
