@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com)** | **[Co-op, Corporate Safety (Summer 2027)](https://jobright.ai/jobs/info/6ac9a565bf145fbf0e8b9c74?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 09 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Talent Acquisition Coordinator](https://jobright.ai/jobs/info/6ac967c9af788e6ad3b5b623?utm_campaign=1054&utm_source=git)** | Canada | Remote | Oct 09 |
 | **[Lockton](https://global.lockton.com)** | **[Summer 2027 Alternative Risk Internship](https://jobright.ai/jobs/info/6ac98a3efcdafb60c6a4cb5e?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 09 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Management Trainee Intern- Colonie, NY](https://jobright.ai/jobs/info/6ac988a56355f8776ff1956a?utm_campaign=1054&utm_source=git)** | Colonie, New York, United States | On Site | Oct 09 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/6ac9727eaf788e6ad3b5b89f?utm_campaign=1054&utm_source=git)** | New London, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - North Kingstown/Middletown Rhode Island](https://jobright.ai/jobs/info/6ac9727cfcdafb60c6a4c6c2?utm_campaign=1054&utm_source=git)** | North Kingstown, RI, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/6ac97279af788e6ad3b5b89c?utm_campaign=1054&utm_source=git)** | Brooklyn, Connecticut, United States | On Site | Oct 09 |
-| ↳ | **[Summer 2027 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6ac97275fcdafb60c6a4c6c1?utm_campaign=1054&utm_source=git)** | North Attleboro, MA, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/6ac97275d4a5a03707412672?utm_campaign=1054&utm_source=git)** | Vernon, CT, United States | On Site | Oct 09 |
+| ↳ | **[Summer 2027 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6ac97275fcdafb60c6a4c6c1?utm_campaign=1054&utm_source=git)** | North Attleboro, MA, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - New Britain/Middletown/Newington, CT](https://jobright.ai/jobs/info/6ac97274fe8f33a85d503ed4?utm_campaign=1054&utm_source=git)** | New Britain, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6ac97263af788e6ad3b5b896?utm_campaign=1054&utm_source=git)** | Pittsfield, MA, United States | On Site | Oct 09 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Human Resources Co-op, Human Pharma, Fremont CA Onsite](https://jobright.ai/jobs/info/6ac95773fcdafb60c6a4c0d0?utm_campaign=1054&utm_source=git)** | Fremont, CA, United States | On Site | Oct 09 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer 2027 Internship](https://jobright.ai/jobs/info/6ac885bbfcdafb60c6a48b6a?utm_campaign=1054&utm_source=git)** | Hayward, CA, United States | On Site | Oct 08 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[2027 Summer Internships](https://jobright.ai/jobs/info/6ac87becfe8f33a85d500181?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 08 |
 | **[Independent Bank](https://www.independentbank.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6ac86fa5fcdafb60c6a48701?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 08 |
+| **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Workforce and Rewards Summer Intern - Los Angeles - College Program 2027 at Marsh](https://jobright.ai/jobs/info/6ac9acdc896bdc43a05ac6a3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 08 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Human Resources (International Student)](https://jobright.ai/jobs/info/6ab5c0574873fd3fd852bb52?utm_campaign=1054&utm_source=git)** | Vance, AL, United States | On Site | Oct 08 |
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT MYR Admissions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa8422a654b2a9424cfba7e?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC, United States | On Site | Oct 08 |
 | **[OTHON, Inc.](http://othon.com)** | **[HR INTERN](https://jobright.ai/jobs/info/6ac81c960e573df8adc762a8?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 08 |
 | **[Penguin Random House UK](https://www.penguinrandomhouse.com/)** | **[Human Resources Intern (Bilingual English/Spanish)](https://jobright.ai/jobs/info/6ab5c1704873fd3fd852bb89?utm_campaign=1054&utm_source=git)** | Medley, FL, United States | On Site | Oct 08 |
 | ↳ | **[Human Resources Intern (Bilingual English/Spanish)](https://jobright.ai/jobs/info/6ab5c0fd634ec6aa7c0d1197?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Oct 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/6ac82febfe8f33a85d4ff6a7?utm_campaign=1054&utm_source=git)** | Lubbock, TX, United States | On Site | Oct 08 |
-| **[Michaels Stores](https://www.michaels.com/)** | **[Human Resources Intern - Compensation](https://jobright.ai/jobs/info/6ac80cd20e573df8adc75e1a?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Oct 08 |
-| **[NYSTRS](https://www.nystrs.org)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6ac8f4beaf788e6ad3b590e2?utm_campaign=1054&utm_source=git)** | Albany, New York, United States | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
