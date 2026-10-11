@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Human Resources Internship](https://jobright.ai/jobs/info/6a91b20f3603630099193cc5?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 11 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Oct 11 |
 | **[Cook N Klean](https://www.linkedin.com/company/90855742)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6acb42ab002e496d4beecf31?utm_campaign=1054&utm_source=git)** | Kansas, United States | On Site | Oct 11 |
 | **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6acaefe2002e496d4beecb52?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Oct 10 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Oct 10 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Oct 10 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Oct 10 |
-| **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Human Resources Internship](https://jobright.ai/jobs/info/6a91b20f3603630099193cc5?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 10 |
 | **[Nokia](http://www.nokia.com)** | **[Early Careers Talent Acquisition Student](https://jobright.ai/jobs/info/6aad59483dbb1f8967cecf23?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 10 |
 | **[Curi Capital](https://curicapital.com/)** | **[Retirement Plan Services Intern](https://jobright.ai/jobs/info/6aada8e1de327d3e210d3c7e?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 10 |
 | **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2a5bab495d985b99428a4f?utm_campaign=1054&utm_source=git)** | Lehi, UT, United States | On Site | Oct 10 |
@@ -123,8 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/6ac9727eaf788e6ad3b5b89f?utm_campaign=1054&utm_source=git)** | New London, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - North Kingstown/Middletown Rhode Island](https://jobright.ai/jobs/info/6ac9727cfcdafb60c6a4c6c2?utm_campaign=1054&utm_source=git)** | North Kingstown, RI, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/6ac97279af788e6ad3b5b89c?utm_campaign=1054&utm_source=git)** | Brooklyn, Connecticut, United States | On Site | Oct 09 |
-| ↳ | **[Summer 2027 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/6ac97275d4a5a03707412672?utm_campaign=1054&utm_source=git)** | Vernon, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6ac97275fcdafb60c6a4c6c1?utm_campaign=1054&utm_source=git)** | North Attleboro, MA, United States | On Site | Oct 09 |
+| ↳ | **[Summer 2027 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/6ac97275d4a5a03707412672?utm_campaign=1054&utm_source=git)** | Vernon, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - New Britain/Middletown/Newington, CT](https://jobright.ai/jobs/info/6ac97274fe8f33a85d503ed4?utm_campaign=1054&utm_source=git)** | New Britain, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6ac97263af788e6ad3b5b896?utm_campaign=1054&utm_source=git)** | Pittsfield, MA, United States | On Site | Oct 09 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Human Resources Co-op, Human Pharma, Fremont CA Onsite](https://jobright.ai/jobs/info/6ac95773fcdafb60c6a4c0d0?utm_campaign=1054&utm_source=git)** | Fremont, CA, United States | On Site | Oct 09 |
