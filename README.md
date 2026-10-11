@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6aaad11ff6bd9d2d17c19b8a?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Oct 11 |
 | **[Conversations to Remember](https://conversationstoremember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/6acbbc17a56e5406e57bc7f2?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a930e169864261ccd2a20b3?utm_campaign=1054&utm_source=git)** | Statesboro, GA, United States | On Site | Oct 11 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[Recruiting Operations Intern](https://jobright.ai/jobs/info/6acbb792002e496d4beed635?utm_campaign=1054&utm_source=git)** | East York, ON, Canada | Remote | Oct 11 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/6ac9727eaf788e6ad3b5b89f?utm_campaign=1054&utm_source=git)** | New London, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - North Kingstown/Middletown Rhode Island](https://jobright.ai/jobs/info/6ac9727cfcdafb60c6a4c6c2?utm_campaign=1054&utm_source=git)** | North Kingstown, RI, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/6ac97279af788e6ad3b5b89c?utm_campaign=1054&utm_source=git)** | Brooklyn, Connecticut, United States | On Site | Oct 09 |
-| ↳ | **[Summer 2027 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6ac97275fcdafb60c6a4c6c1?utm_campaign=1054&utm_source=git)** | North Attleboro, MA, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/6ac97275d4a5a03707412672?utm_campaign=1054&utm_source=git)** | Vernon, CT, United States | On Site | Oct 09 |
+| ↳ | **[Summer 2027 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6ac97275fcdafb60c6a4c6c1?utm_campaign=1054&utm_source=git)** | North Attleboro, MA, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - New Britain/Middletown/Newington, CT](https://jobright.ai/jobs/info/6ac97274fe8f33a85d503ed4?utm_campaign=1054&utm_source=git)** | New Britain, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6ac97263af788e6ad3b5b896?utm_campaign=1054&utm_source=git)** | Pittsfield, MA, United States | On Site | Oct 09 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Human Resources Co-op, Human Pharma, Fremont CA Onsite](https://jobright.ai/jobs/info/6ac95773fcdafb60c6a4c0d0?utm_campaign=1054&utm_source=git)** | Fremont, CA, United States | On Site | Oct 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Global Recruitment Intern](https://jobright.ai/jobs/info/6ac92f276355f8776ff17d7b?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac92f22d4a5a037074112a3?utm_campaign=1054&utm_source=git)** | Laurel, MD, United States | On Site | Oct 09 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac92f1cfcdafb60c6a4b352?utm_campaign=1054&utm_source=git)** | Bethesda, MD, United States | On Site | Oct 09 |
-| ↳ | **[Spring 2027 Management Trainee Intern- Westchester County, NY](https://jobright.ai/jobs/info/6ac92f1afcdafb60c6a4b350?utm_campaign=1054&utm_source=git)** | Yonkers, NY, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
