@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[HR Internship](https://jobright.ai/jobs/info/6ac957376355f8776ff18b18?utm_campaign=1054&utm_source=git)** | Lowell, Arkansas, United States | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Payer and Health Systems - Intern](https://jobright.ai/jobs/info/6aad78033d96632d741ae107?utm_campaign=1054&utm_source=git)** | North Wales, PA, United States | Remote | Oct 10 |
 | **[Amazon](https://amazon.com)** | **[Sourcing Recruiter Intern – Summer 2027](https://jobright.ai/jobs/info/6ac9665ffe8f33a85d503bc3?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Oct 10 |
-| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Oct 10 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Oct 10 |
+| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Oct 10 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Oct 10 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Oct 10 |
 | **[Nokia](http://www.nokia.com)** | **[Early Careers Talent Acquisition Student](https://jobright.ai/jobs/info/6aad59483dbb1f8967cecf23?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 10 |
 | **[Curi Capital](https://curicapital.com/)** | **[Retirement Plan Services Intern](https://jobright.ai/jobs/info/6aada8e1de327d3e210d3c7e?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 10 |
