@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Human Resources - Summer 2027](https://jobright.ai/jobs/info/6a76168fb17cba569035c9b5?utm_campaign=1054&utm_source=git)** | Northfield, IL, United States | Remote | Oct 11 |
+| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[HR Technology Intern](https://jobright.ai/jobs/info/6acb9c27e7a1d9333210cc81?utm_campaign=1054&utm_source=git)** | Bethlehem, PA, United States | On Site | Oct 11 |
 | **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Human Resources Internship](https://jobright.ai/jobs/info/6a91b20f3603630099193cc5?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 11 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Oct 11 |
 | **[Cook N Klean](https://www.linkedin.com/company/90855742)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6acb42ab002e496d4beecf31?utm_campaign=1054&utm_source=git)** | Kansas, United States | On Site | Oct 11 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[HR Internship](https://jobright.ai/jobs/info/6ac957376355f8776ff18b18?utm_campaign=1054&utm_source=git)** | Lowell, Arkansas, United States | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Payer and Health Systems - Intern](https://jobright.ai/jobs/info/6aad78033d96632d741ae107?utm_campaign=1054&utm_source=git)** | North Wales, PA, United States | Remote | Oct 10 |
 | **[Amazon](https://amazon.com)** | **[Sourcing Recruiter Intern – Summer 2027](https://jobright.ai/jobs/info/6ac9665ffe8f33a85d503bc3?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Oct 10 |
-| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Oct 10 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Oct 10 |
+| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Oct 10 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Oct 10 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Oct 10 |
 | **[Nokia](http://www.nokia.com)** | **[Early Careers Talent Acquisition Student](https://jobright.ai/jobs/info/6aad59483dbb1f8967cecf23?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 10 |
 | **[Curi Capital](https://curicapital.com/)** | **[Retirement Plan Services Intern](https://jobright.ai/jobs/info/6aada8e1de327d3e210d3c7e?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Waco, TX / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41fb064da25272dfc6b5?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 09 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aac83493e3ce93970c7dc5a?utm_campaign=1054&utm_source=git)** | Sacramento, CA, United States | On Site | Oct 09 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Human Resources Business Intern (Manufacturing)](https://jobright.ai/jobs/info/6abbcd0b7119e56191ce94a2?utm_campaign=1054&utm_source=git)** | Arcadia, WI 54612, United States | On Site | Oct 09 |
-| **[Lactalis Group](http://www.lactalis.fr)** | **[Compensation and Global Mobility Intern/Apprentice (H/F) - 12 mois New York](https://jobright.ai/jobs/info/6ac91bd7fe8f33a85d502476?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 09 |
-| **[Honeywell Technologies](http://www.honeywell.com)** | **[Future HR Leaders - Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a615a19886486676274b?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
