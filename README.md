@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GAOTek Inc.](https://www.gaotek.com)** | **[Recruiting Operations Intern](https://jobright.ai/jobs/info/6acbb792002e496d4beed635?utm_campaign=1054&utm_source=git)** | East York, ON, Canada | Remote | Oct 11 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Waverly, NE / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f8372c01f6cd71f4be?utm_campaign=1054&utm_source=git)** | Waverly, NE, United States | On Site | Oct 11 |
+| **[Growvix](https://www.linkedin.com/company/104166605)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6acba7ded113c967e3c78f60?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 11 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Human Resources - Summer 2027](https://jobright.ai/jobs/info/6a76168fb17cba569035c9b5?utm_campaign=1054&utm_source=git)** | Northfield, IL, United States | Remote | Oct 11 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[HR Technology Intern](https://jobright.ai/jobs/info/6acb9c27e7a1d9333210cc81?utm_campaign=1054&utm_source=git)** | Bethlehem, PA, United States | On Site | Oct 11 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aaef22f6956574eac8b97c1?utm_campaign=1054&utm_source=git)** | Towson, MD, United States | On Site | Oct 11 |
 | **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Human Resources Internship](https://jobright.ai/jobs/info/6a91b20f3603630099193cc5?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 11 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Oct 11 |
 | **[Cook N Klean](https://www.linkedin.com/company/90855742)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6acb42ab002e496d4beecf31?utm_campaign=1054&utm_source=git)** | Kansas, United States | On Site | Oct 11 |
@@ -74,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern - Reading](https://jobright.ai/jobs/info/6aad71056956574eac8b5b7e?utm_campaign=1054&utm_source=git)** | Reading, PA, United States | On Site | Oct 10 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Macon, GA / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f9372c01f6cd71f4c0?utm_campaign=1054&utm_source=git)** | Macon, GA, United States | On Site | Oct 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship - Spring 2027](https://jobright.ai/jobs/info/6aae14e72e757fcb5c8bb03a?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Oct 10 |
+| ↳ | **[Management Trainee Internship - Summer 2027](https://jobright.ai/jobs/info/6aae140f3dbb1f8967cf01f4?utm_campaign=1054&utm_source=git)** | El Paso, TX, United States | On Site | Oct 10 |
 | ↳ | **[Management Trainee Intern - Appleton](https://jobright.ai/jobs/info/6aad71013dbb1f8967ced8ca?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Oct 10 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23d0ebc8fb2313eb682?utm_campaign=1054&utm_source=git)** | High Point, NC, United States | On Site | Oct 10 |
 | ↳ | **[Management Trainee Intern - Eau Claire](https://jobright.ai/jobs/info/6aad712c2e757fcb5c8b86a3?utm_campaign=1054&utm_source=git)** | Eau Claire, WI, United States | On Site | Oct 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac92f1cfcdafb60c6a4b352?utm_campaign=1054&utm_source=git)** | Bethesda, MD, United States | On Site | Oct 09 |
 | ↳ | **[Spring 2027 Management Trainee Intern- Westchester County, NY](https://jobright.ai/jobs/info/6ac92f1afcdafb60c6a4b350?utm_campaign=1054&utm_source=git)** | Yonkers, NY, United States | On Site | Oct 09 |
 | ↳ | **[Spring 2027 Management Trainee Intern- Peekskill, NY](https://jobright.ai/jobs/info/6ac92ef2c3a8af9c54a098b3?utm_campaign=1054&utm_source=git)** | Peekskill, NY, United States | On Site | Oct 09 |
-| ↳ | **[Spring 2027 Management Trainee Intern- Danbury CT](https://jobright.ai/jobs/info/6ac92ef0d4a5a0370741128e?utm_campaign=1054&utm_source=git)** | Danbury, CT, United States | On Site | Oct 09 |
-| ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ac92ed7af788e6ad3b5a4c7?utm_campaign=1054&utm_source=git)** | Anderson, SC, United States | On Site | Oct 09 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Waco, TX / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41fb064da25272dfc6b5?utm_campaign=1054&utm_source=git)** | Waco, TX, United States | On Site | Oct 09 |
-| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aac83493e3ce93970c7dc5a?utm_campaign=1054&utm_source=git)** | Sacramento, CA, United States | On Site | Oct 09 |
-| **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Human Resources Business Intern (Manufacturing)](https://jobright.ai/jobs/info/6abbcd0b7119e56191ce94a2?utm_campaign=1054&utm_source=git)** | Arcadia, WI 54612, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
