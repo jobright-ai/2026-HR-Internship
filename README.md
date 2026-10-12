@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Family Connections, Inc.](https://www.familyconnectionsnj.org/)** | **[Talent Acquisition Intern – East Orange, NJ / Hybrid & Part Time](https://jobright.ai/jobs/info/6ab99e64ba1c25652c614bbe?utm_campaign=1054&utm_source=git)** | East Orange, NJ, United States | Remote | Oct 11 |
+| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a57a9eef7517b519ad5bb0c?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Oct 11 |
 | **[MIRATECH](http://www.miratechcorp.com)** | **[HR Internship (Summer 2027)](https://jobright.ai/jobs/info/6aafe242de327d3e210d71d1?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 11 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Navarre, OH / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd4202d9621c5b2838b048?utm_campaign=1054&utm_source=git)** | Navarre, OH, United States | Hybrid | Oct 11 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources - Internship](https://jobright.ai/jobs/info/6acbd67bd113c967e3c79294?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 11 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Phillips Lytle LLP](http://www.phillipslytle.com/)** | **[Internship Interest Application - Administrative Support Functions](https://jobright.ai/jobs/info/6a7f634cb56bea5779c0ac64?utm_campaign=1054&utm_source=git)** | Buffalo, NY, United States | On Site | Oct 10 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6aac06233d96632d741a8af8?utm_campaign=1054&utm_source=git)** | Charleston, SC, United States | On Site | Oct 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship - Summer 2027](https://jobright.ai/jobs/info/6a56bcbe21f64463ad356b7c?utm_campaign=1054&utm_source=git)** | Albuquerque, NM, United States | On Site | Oct 10 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - HR AI Data Science (Summer 2027)](https://jobright.ai/jobs/info/6ac991dc48c3d015e4212a8a?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 09 |
-| ↳ | **[Intern - People Analytics (Summer 2027)](https://jobright.ai/jobs/info/6ac991ddfcdafb60c6a4cc37?utm_campaign=1054&utm_source=git)** | Liberty Lake, WA, United States | Hybrid | Oct 09 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - People Analytics (Summer 2027)](https://jobright.ai/jobs/info/6ac991ddfcdafb60c6a4cc37?utm_campaign=1054&utm_source=git)** | Liberty Lake, WA, United States | Hybrid | Oct 09 |
+| ↳ | **[Intern - HR AI Data Science (Summer 2027)](https://jobright.ai/jobs/info/6ac991dc48c3d015e4212a8a?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 09 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[2027 Internship Program - Human Resources Job Details / Bell](https://jobright.ai/jobs/info/6ac9c3a7fcba2511ee0ee45c?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | Hybrid | Oct 09 |
 | **[Delta Air Lines](https://www.delta.com)** | **[Co-op, Corporate Safety (Summer 2027)](https://jobright.ai/jobs/info/6ac9a565bf145fbf0e8b9c74?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 09 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Talent Acquisition Coordinator](https://jobright.ai/jobs/info/6ac967c9af788e6ad3b5b623?utm_campaign=1054&utm_source=git)** | Canada | Remote | Oct 09 |
@@ -135,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/6ac9727eaf788e6ad3b5b89f?utm_campaign=1054&utm_source=git)** | New London, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - North Kingstown/Middletown Rhode Island](https://jobright.ai/jobs/info/6ac9727cfcdafb60c6a4c6c2?utm_campaign=1054&utm_source=git)** | North Kingstown, RI, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/6ac97279af788e6ad3b5b89c?utm_campaign=1054&utm_source=git)** | Brooklyn, Connecticut, United States | On Site | Oct 09 |
-| ↳ | **[Summer 2027 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6ac97275fcdafb60c6a4c6c1?utm_campaign=1054&utm_source=git)** | North Attleboro, MA, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/6ac97275d4a5a03707412672?utm_campaign=1054&utm_source=git)** | Vernon, CT, United States | On Site | Oct 09 |
+| ↳ | **[Summer 2027 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6ac97275fcdafb60c6a4c6c1?utm_campaign=1054&utm_source=git)** | North Attleboro, MA, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - New Britain/Middletown/Newington, CT](https://jobright.ai/jobs/info/6ac97274fe8f33a85d503ed4?utm_campaign=1054&utm_source=git)** | New Britain, CT, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6ac97263af788e6ad3b5b896?utm_campaign=1054&utm_source=git)** | Pittsfield, MA, United States | On Site | Oct 09 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Human Resources Co-op, Human Pharma, Fremont CA Onsite](https://jobright.ai/jobs/info/6ac95773fcdafb60c6a4c0d0?utm_campaign=1054&utm_source=git)** | Fremont, CA, United States | On Site | Oct 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FIS](http://www.fisglobal.com)** | **[People Office Intern Pipeline](https://jobright.ai/jobs/info/6aac65883dbb1f8967cea805?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 09 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6ab431c27bd0813713316348?utm_campaign=1054&utm_source=git)** | Hartsville, SC, United States | On Site | Oct 09 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a5c02c463a8f619507cc713?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Oct 09 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern](https://jobright.ai/jobs/info/6a91be93d18f756748279f14?utm_campaign=1054&utm_source=git)** | Frankfort, NY, United States | On Site | Oct 09 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Summer Intern - HR Analytics & HRIS](https://jobright.ai/jobs/info/6aac2c2a3e3ce93970c7c134?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
