@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT CORPORATE STRATEGIC PLANNING Job Details / Cemex](https://jobright.ai/jobs/info/6acc31aae7a1d9333210d93a?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 11 |
+| ↳ | **[Internship Summer 2027 Human Resources Job Details / Cemex](https://jobright.ai/jobs/info/6acc319bddd23cce28a0e3a7?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 11 |
 | **[Family Connections, Inc.](https://www.familyconnectionsnj.org/)** | **[Talent Acquisition Intern – East Orange, NJ / Hybrid & Part Time](https://jobright.ai/jobs/info/6ab99e64ba1c25652c614bbe?utm_campaign=1054&utm_source=git)** | East Orange, NJ, United States | Remote | Oct 11 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a57a9eef7517b519ad5bb0c?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Oct 11 |
 | **[MIRATECH](http://www.miratechcorp.com)** | **[HR Internship (Summer 2027)](https://jobright.ai/jobs/info/6aafe242de327d3e210d71d1?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 11 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[HR Internship](https://jobright.ai/jobs/info/6ac957376355f8776ff18b18?utm_campaign=1054&utm_source=git)** | Lowell, Arkansas, United States | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Payer and Health Systems - Intern](https://jobright.ai/jobs/info/6aad78033d96632d741ae107?utm_campaign=1054&utm_source=git)** | North Wales, PA, United States | Remote | Oct 10 |
 | **[Amazon](https://amazon.com)** | **[Sourcing Recruiter Intern – Summer 2027](https://jobright.ai/jobs/info/6ac9665ffe8f33a85d503bc3?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Oct 10 |
-| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Oct 10 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Oct 10 |
+| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Oct 10 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Oct 10 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Oct 10 |
 | **[Nokia](http://www.nokia.com)** | **[Early Careers Talent Acquisition Student](https://jobright.ai/jobs/info/6aad59483dbb1f8967cecf23?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 10 |
 | **[Curi Capital](https://curicapital.com/)** | **[Retirement Plan Services Intern](https://jobright.ai/jobs/info/6aada8e1de327d3e210d3c7e?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Human Resources Intern / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f9064da25272dfc6b2?utm_campaign=1054&utm_source=git)** | Brentwood, TN, United States | Hybrid | Oct 09 |
 | ↳ | **[Distribution Center HR Intern / Pendleton, IN / Summer 2027](https://jobright.ai/jobs/info/6a91be7da27a2d3c98489d77?utm_campaign=1054&utm_source=git)** | Pendleton, Indiana, United States | On Site | Oct 09 |
 | **[Pepsi Bottling Ventures](http://www.pepsibottlingventures.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac8ea45d4a5a0370740fc21?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 09 |
-| **[FIS](http://www.fisglobal.com)** | **[People Office Intern Pipeline](https://jobright.ai/jobs/info/6aac65883dbb1f8967cea805?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 09 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6ab431c27bd0813713316348?utm_campaign=1054&utm_source=git)** | Hartsville, SC, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
