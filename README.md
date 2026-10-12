@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tallgrass](https://tallgrass.com/)** | **[Intern-HR Talent Development](https://jobright.ai/jobs/info/6a9b267bfe45b8490f607082?utm_campaign=1054&utm_source=git)** | Lakewood, CO, United States | Hybrid | Oct 12 |
-| ↳ | **[Intern-HR Talent Development](https://jobright.ai/jobs/info/6acc8232d113c967e3c7a3b7?utm_campaign=1054&utm_source=git)** | Lakewood, CO, United States | Hybrid | Oct 12 |
 | **[Google](https://www.google.com)** | **[People Analytics Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6accb4abe7a1d9333210e75b?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 12 |
+| **[Tallgrass](https://tallgrass.com/)** | **[Intern-HR Talent Development](https://jobright.ai/jobs/info/6acc8232d113c967e3c7a3b7?utm_campaign=1054&utm_source=git)** | Lakewood, CO, United States | Hybrid | Oct 12 |
+| ↳ | **[Intern-HR Talent Development](https://jobright.ai/jobs/info/6a9b267bfe45b8490f607082?utm_campaign=1054&utm_source=git)** | Lakewood, CO, United States | Hybrid | Oct 12 |
 | **[Edwards Vacuum](http://www.edwardsvacuum.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6accade4e7a1d9333210e6bb?utm_campaign=1054&utm_source=git)** | Chandler, AZ, United States | On Site | Oct 12 |
 | **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: Business Management and Project Analytics](https://jobright.ai/jobs/info/6acc699ae7a1d9333210df93?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 12 |
 | ↳ | **[2027 Early Talent Internship: Human Resources (People Team)](https://jobright.ai/jobs/info/6acc69b4d113c967e3c7a14c?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 12 |
@@ -86,6 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Human Resources - Summer 2027](https://jobright.ai/jobs/info/6a76168fb17cba569035c9b5?utm_campaign=1054&utm_source=git)** | Northfield, IL, United States | Remote | Oct 11 |
 | **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aaef22f6956574eac8b97c1?utm_campaign=1054&utm_source=git)** | Towson, MD, United States | On Site | Oct 11 |
 | **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Human Resources Internship](https://jobright.ai/jobs/info/6a91b20f3603630099193cc5?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2282e757fcb5c8ba4c8?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Oct 11 |
+| ↳ | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/6aad70f26956574eac8b5b74?utm_campaign=1054&utm_source=git)** | Stevens Point, WI, United States | On Site | Oct 11 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Oct 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2600ebc8fb2313eb691?utm_campaign=1054&utm_source=git)** | Boone, NC, United States | On Site | Oct 11 |
 | **[Cook N Klean](https://www.linkedin.com/company/90855742)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6acb42ab002e496d4beecf31?utm_campaign=1054&utm_source=git)** | Kansas, United States | On Site | Oct 11 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[HR Internship](https://jobright.ai/jobs/info/6ac957376355f8776ff18b18?utm_campaign=1054&utm_source=git)** | Lowell, Arkansas, United States | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Payer and Health Systems - Intern](https://jobright.ai/jobs/info/6aad78033d96632d741ae107?utm_campaign=1054&utm_source=git)** | North Wales, PA, United States | Remote | Oct 10 |
 | **[Amazon](https://amazon.com)** | **[Sourcing Recruiter Intern – Summer 2027](https://jobright.ai/jobs/info/6ac9665ffe8f33a85d503bc3?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Oct 10 |
-| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Oct 10 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Oct 10 |
+| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Oct 10 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Oct 10 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Oct 10 |
 | **[Nokia](http://www.nokia.com)** | **[Early Careers Talent Acquisition Student](https://jobright.ai/jobs/info/6aad59483dbb1f8967cecf23?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 10 |
 | **[Curi Capital](https://curicapital.com/)** | **[Retirement Plan Services Intern](https://jobright.ai/jobs/info/6aada8e1de327d3e210d3c7e?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern - Fall River/Seekonk Massachusetts](https://jobright.ai/jobs/info/6ac97286af788e6ad3b5b8a0?utm_campaign=1054&utm_source=git)** | Fall River, MA, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/6ac97281d4a5a0370741267b?utm_campaign=1054&utm_source=git)** | Raynham, MA, United States | On Site | Oct 09 |
 | ↳ | **[Summer 2027 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/6ac9727eaf788e6ad3b5b89f?utm_campaign=1054&utm_source=git)** | New London, CT, United States | On Site | Oct 09 |
-| ↳ | **[Summer 2027 Management Trainee Intern - North Kingstown/Middletown Rhode Island](https://jobright.ai/jobs/info/6ac9727cfcdafb60c6a4c6c2?utm_campaign=1054&utm_source=git)** | North Kingstown, RI, United States | On Site | Oct 09 |
-| ↳ | **[Summer 2027 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/6ac97279af788e6ad3b5b89c?utm_campaign=1054&utm_source=git)** | Brooklyn, Connecticut, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
