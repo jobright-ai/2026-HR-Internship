@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Early Talent Acquisition & Programs Co-op (January - June 2027)](https://jobright.ai/jobs/info/6acdfa48fe6a382e18bee333?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
+| **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: Internal Audit](https://jobright.ai/jobs/info/6acdc35c2bd01b08973f11fa?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 13 |
+| ↳ | **[2027 Early Talent Internship: Risk & Compliance](https://jobright.ai/jobs/info/6acdc3563e2155b545aa1cb5?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 13 |
+| ↳ | **[2027 Early Talent Internship: Accounting (OCFO)](https://jobright.ai/jobs/info/6acdc3687c7bc52e04f55c18?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 13 |
 | **[LMCU](https://www.lmcu.org/)** | **[Internal Communications & Knowledge Management Intern](https://jobright.ai/jobs/info/6acdcc0c77057049844003ed?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 12 |
 | **[Highgate](https://www.highgate.com)** | **[Human Resources Internship - Summer 2027](https://jobright.ai/jobs/info/6aa876223a9f0a4fe6f19740?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Oct 12 |
 | **[Bosch](http://www.bosch.com)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/6a90722d8ffa38557e6ccfa6?utm_campaign=1054&utm_source=git)** | Albion, Indiana, United States | On Site | Oct 12 |
@@ -70,14 +74,13 @@ For a complete list, click the following sortable link below:
 | **[GITAI](http://gitai.tech)** | **[Technical Recruiting Intern (Open to Engineers Transitioning into Recruiting)](https://jobright.ai/jobs/info/6a961550c8763a3a87ffe38d?utm_campaign=1054&utm_source=git)** | Torrance, CA, United States | On Site | Oct 12 |
 | **[Formerra](https://www.formerra.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6acd1213d113c967e3c7bf7c?utm_campaign=1054&utm_source=git)** | Romeoville, IL, United States | Hybrid | Oct 12 |
 | **[KKR](http://www.kkr.com)** | **[2027 Summer Analyst Program - Human Capital](https://jobright.ai/jobs/info/6acd7a52a56e5406e57c188a?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Oct 12 |
-| **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: Accounting (OCFO)](https://jobright.ai/jobs/info/6acdc3687c7bc52e04f55c18?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 12 |
 | **[White Cap](https://www.whitecap.com)** | **[Corporate Intern - Talent Acquisition/Recruiting](https://jobright.ai/jobs/info/6acd66e0002e496d4bef2262?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 12 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Talent Acquisition Intern, Summer 2027](https://jobright.ai/jobs/info/6acd1bd2e7a1d9333211008b?utm_campaign=1054&utm_source=git)** | Orrville, OH, United States | Hybrid | Oct 12 |
 | **[Boston Children's Hospital](http://www.childrenshospital.org/)** | **[Intern](https://jobright.ai/jobs/info/6acd6582a56e5406e57c1301?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Oct 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern South Denver](https://jobright.ai/jobs/info/6acd64fd3c831dc4086c21c9?utm_campaign=1054&utm_source=git)** | South Denver, Colorado, United States | On Site | Oct 12 |
 | ↳ | **[Summer 2027 Management Trainee Intern Denver](https://jobright.ai/jobs/info/6acd64d6002e496d4bef21bb?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Oct 12 |
-| **[SLB](https://www.slb.com)** | **[HR Intern](https://jobright.ai/jobs/info/6acd139fe7a1d9333210fdc4?utm_campaign=1054&utm_source=git)** | Rosharon, TX, United States | On Site | Oct 12 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6ab4382e55e9168cf5ea514a?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 12 |
+| **[SLB](https://www.slb.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ab4382e55e9168cf5ea514a?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 12 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6acd139fe7a1d9333210fdc4?utm_campaign=1054&utm_source=git)** | Rosharon, TX, United States | On Site | Oct 12 |
 | **[Citadel](https://www.citadel.com)** | **[Human Resources – Intern (US)](https://jobright.ai/jobs/info/6acd5b44002e496d4bef1f9b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
 | **[RTX](http://rtx.com/)** | **[Human Resources Internship (June 2027) (Hybrid)](https://jobright.ai/jobs/info/6accecc53c831dc4086bfa19?utm_campaign=1054&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 12 |
 | **[J. Fletcher Creamer & Son, Inc.](http://jfcson.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6acd4aeca56e5406e57c0b0a?utm_campaign=1054&utm_source=git)** | Hackensack, NJ, United States | On Site | Oct 12 |
@@ -97,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Turning Stone Enterprises](https://www.turningstoneenterprises.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6accf9db002e496d4beefd77?utm_campaign=1054&utm_source=git)** | Verona, NY, United States | On Site | Oct 12 |
 | **[Brotherhood Mutual Insurance Company](https://brotherhoodmutual.com)** | **[Questa Foundation Internship](https://jobright.ai/jobs/info/6acd315b002e496d4bef110f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Oct 12 |
 | **[Methode Electronics](http://methode.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6abfd683d9621c5b28394a8f?utm_campaign=1054&utm_source=git)** | Southfield, MI, United States | On Site | Oct 12 |
-| **[SwiftX](https://swiftx-express.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6acd2fbad113c967e3c7c9da?utm_campaign=1054&utm_source=git)** | Eastvale, CA, United States | On Site | Oct 12 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6acd2fae002e496d4bef10b1?utm_campaign=1054&utm_source=git)** | Eastvale, CA, United States | On Site | Oct 12 |
+| **[SwiftX](https://swiftx-express.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6acd2fae002e496d4bef10b1?utm_campaign=1054&utm_source=git)** | Eastvale, CA, United States | On Site | Oct 12 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6acd2fbad113c967e3c7c9da?utm_campaign=1054&utm_source=git)** | Eastvale, CA, United States | On Site | Oct 12 |
 | **[Republic Airways](http://www.rjet.com)** | **[Human Resources Shared Services Intern - Summer 2027](https://jobright.ai/jobs/info/6accebf0a56e5406e57beac8?utm_campaign=1054&utm_source=git)** | Carmel, IN, United States | Remote | Oct 12 |
 | ↳ | **[Talent Acquisition Intern - Summer 2027](https://jobright.ai/jobs/info/6acd1b37e7a1d93332110020?utm_campaign=1054&utm_source=git)** | Carmel, IN, United States | Remote | Oct 12 |
 | **[St. Luke's Health System](https://www.stlukesonline.org)** | **[Intern-Identity and Configuring Identity Solutions](https://jobright.ai/jobs/info/6acd269fddd23cce28a10f8a?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Oct 12 |
@@ -134,8 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[Internship Summer 2027 Human Resources Job Details / Cemex](https://jobright.ai/jobs/info/6acc319bddd23cce28a0e3a7?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 11 |
 | **[White Cap Canada](https://www.whitecap.com)** | **[Corporate Intern - Talent Acquisition/Recruiting](https://jobright.ai/jobs/info/6acd31e2e7a1d93332110840?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 11 |
 | **[UPS](http://www.ups.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/6acd29cba56e5406e57c0028?utm_campaign=1054&utm_source=git)** | Commerce City, Colorado, United States | On Site | Oct 11 |
-| **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: Risk & Compliance](https://jobright.ai/jobs/info/6acdc3563e2155b545aa1cb5?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 11 |
-| ↳ | **[2027 Early Talent Internship: Internal Audit](https://jobright.ai/jobs/info/6acdc35c2bd01b08973f11fa?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 11 |
 | **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Operations Interns - Summer 2027](https://jobright.ai/jobs/info/6acd1b1f002e496d4bef08b6?utm_campaign=1054&utm_source=git)** | Carmel, IN, United States | On Site | Oct 11 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Dutch Wonderland Workforce Operations Intern (2027)](https://jobright.ai/jobs/info/6acd3b4be7a1d93332110b11?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 11 |
 | **[Great Lakes Water Authority](https://www.glwater.org/)** | **[Human Resources College Intern](https://jobright.ai/jobs/info/6acc5efdddd23cce28a0e8b4?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Oct 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2282e757fcb5c8ba4c8?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Oct 11 |
 | ↳ | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/6aad70f26956574eac8b5b74?utm_campaign=1054&utm_source=git)** | Stevens Point, WI, United States | On Site | Oct 11 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Oct 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2600ebc8fb2313eb691?utm_campaign=1054&utm_source=git)** | Boone, NC, United States | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
