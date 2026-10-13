@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockton](https://global.lockton.com)** | **[South Internship - 2027](https://jobright.ai/jobs/info/6a965757f28891320e86114f?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Oct 13 |
+| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern - Spring 2027](https://jobright.ai/jobs/info/6ab198e723005eee3545b6f8?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 13 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Early Talent Acquisition & Programs Co-op (January - June 2027)](https://jobright.ai/jobs/info/6acdfa48fe6a382e18bee333?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
 | **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: Internal Audit](https://jobright.ai/jobs/info/6acdc35c2bd01b08973f11fa?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 13 |
 | ↳ | **[2027 Early Talent Internship: Risk & Compliance](https://jobright.ai/jobs/info/6acdc3563e2155b545aa1cb5?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 13 |
@@ -87,14 +89,14 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern - Summer 2027](https://jobright.ai/jobs/info/6accfdc4d113c967e3c7b860?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 12 |
 | **[Cider](https://shop.shopcider.com)** | **[Student Intern - Global Talent Recruitment & Administrative Support](https://jobright.ai/jobs/info/6acd4941ddd23cce28a11a6a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 12 |
 | **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: Retirement Solutions](https://jobright.ai/jobs/info/6acd15d5e7a1d9333210fe4a?utm_campaign=1054&utm_source=git)** | Frisco, TX, United States | Hybrid | Oct 12 |
-| ↳ | **[2027 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/6accff753c831dc4086bff99?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 12 |
-| ↳ | **[2027 Early Talent Internship: Nuveen Real Estate](https://jobright.ai/jobs/info/6acd15f0a56e5406e57bf823?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 12 |
+| ↳ | **[2027 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/6acd15d1002e496d4bef06e4?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 12 |
 | ↳ | **[2027 Early Talent Internship: Nuveen Real Estate](https://jobright.ai/jobs/info/6accff90e7a1d9333210f6c9?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 12 |
+| ↳ | **[2027 Early Talent Internship: Nuveen Real Estate](https://jobright.ai/jobs/info/6acd15f0a56e5406e57bf823?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 12 |
 | ↳ | **[2027 Early Talent Internship: Wealth Management & Advice Solutions](https://jobright.ai/jobs/info/6acd15d7002e496d4bef06e8?utm_campaign=1054&utm_source=git)** | Frisco, TX, United States | Hybrid | Oct 12 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2027 Human Resources-Supply Chain](https://jobright.ai/jobs/info/6acd001da56e5406e57bf0d6?utm_campaign=1054&utm_source=git)** | Fort Worth, Texas, United States | On Site | Oct 12 |
 | **[Amsted Rail](http://www.amstedrail.com/)** | **[Human Resources & Safety CO-OP](https://jobright.ai/jobs/info/6a57f0a368d16a30e2410ae2?utm_campaign=1054&utm_source=git)** | Hammond, IN, United States | On Site | Oct 12 |
 | **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: Insurance Solutions & New Markets](https://jobright.ai/jobs/info/6acd15e2a56e5406e57bf81d?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 12 |
-| ↳ | **[2027 Early Talent Internship: SUNY Co-op (Retirement Solutions)](https://jobright.ai/jobs/info/6acd15d5e7a1d9333210fe4b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 12 |
+| ↳ | **[2027 Early Talent Internship: SUNY Co-op (Retirement Solutions)](https://jobright.ai/jobs/info/6accff863c831dc4086bff9e?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 12 |
 | ↳ | **[2027 Early Talent Internship: Nuveen Business Intelligence](https://jobright.ai/jobs/info/6acd15f0a56e5406e57bf822?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 12 |
 | **[GAF](http://www.gaf.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6acd3a97e7a1d93332110a5f?utm_campaign=1054&utm_source=git)** | Parsippany, NJ, United States | On Site | Oct 12 |
 | **[Turning Stone Enterprises](https://www.turningstoneenterprises.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6accf9db002e496d4beefd77?utm_campaign=1054&utm_source=git)** | Verona, NY, United States | On Site | Oct 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aaef22f6956574eac8b97c1?utm_campaign=1054&utm_source=git)** | Towson, MD, United States | On Site | Oct 11 |
 | **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Human Resources Internship](https://jobright.ai/jobs/info/6a91b20f3603630099193cc5?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2282e757fcb5c8ba4c8?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Oct 11 |
-| ↳ | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/6aad70f26956574eac8b5b74?utm_campaign=1054&utm_source=git)** | Stevens Point, WI, United States | On Site | Oct 11 |
-| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Middlesex County, New Jersey, United States | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
