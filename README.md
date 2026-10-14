@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AbilityFirst](https://www.abilityfirst.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6931f57d4c474121999f4d9f?utm_campaign=1054&utm_source=git)** | Pasadena,CA,US | Hybrid | Oct 13 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a50ec64ae4052672fe95630?utm_campaign=1054&utm_source=git)** | Pasadena, CA, United States | On Site | Oct 13 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aceb8a170e50ec1b37f195d?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Oct 13 |
+| **[ATCO](http://www.atco.com/)** | **[January 2027 HR Co-op - Energy Systems](https://jobright.ai/jobs/info/6acebcc470e50ec1b37f19c8?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 13 |
+| **[AbilityFirst](https://www.abilityfirst.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a50ec64ae4052672fe95630?utm_campaign=1054&utm_source=git)** | Pasadena, CA, United States | On Site | Oct 13 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6931f57d4c474121999f4d9f?utm_campaign=1054&utm_source=git)** | Pasadena,CA,US | Hybrid | Oct 13 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6acea961bb78de94580d78de?utm_campaign=1054&utm_source=git)** | Clinton, SC, United States | On Site | Oct 13 |
 | **[SNF Holding Company](http://www.snf.us)** | **[Intern](https://jobright.ai/jobs/info/6acecfa370e50ec1b37f1e04?utm_campaign=1054&utm_source=git)** | Plaquemine, LA, United States | On Site | Oct 13 |
 | **[Service Wire Company](http://servicewire.com)** | **[Internship - Human Resources (HR)](https://jobright.ai/jobs/info/6ace773e4f3229123da3c22a?utm_campaign=1054&utm_source=git)** | Culloden, West Virginia, United States | On Site | Oct 13 |
 | **[Precision Castparts](http://precast.com)** | **[HR Co/Op-Part Time during school year (Start date October 2026)](https://jobright.ai/jobs/info/6acecabe4f3229123da3e1b7?utm_campaign=1054&utm_source=git)** | Woodinville, WA, United States | On Site | Oct 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - Fort Wayne](https://jobright.ai/jobs/info/6acec66570e50ec1b37f1c35?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN, United States | On Site | Oct 13 |
-| **[ATCO](http://www.atco.com/)** | **[January 2027 HR Co-op - Energy Systems](https://jobright.ai/jobs/info/6acebcc470e50ec1b37f19c8?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - Mishawaka/South Bend](https://jobright.ai/jobs/info/6acebaffba99f15ef41269ef?utm_campaign=1054&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 13 |
+| ↳ | **[Summer 2027 Management Trainee Intern - Mishawaka/South Bend](https://jobright.ai/jobs/info/6acebaffba99f15ef41269ef?utm_campaign=1054&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 13 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Terre Haute](https://jobright.ai/jobs/info/6acebaf2bb78de94580d7eb1?utm_campaign=1054&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 13 |
 | ↳ | **[Summer 2027 Management Trainee Intern - East Indianapolis](https://jobright.ai/jobs/info/6acebadf4f3229123da3de06?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 13 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/6acebacb680c80c8753be851?utm_campaign=1054&utm_source=git)** | Muncie, IN, United States | On Site | Oct 13 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[GGP](http://www.ggp.com/)** | **[Human Resource Intern (Summer Internship 6/7/2027 - 8/13/2027)](https://jobright.ai/jobs/info/6a95a08fcabc9f6703e18c96?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Oct 13 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6ab1684ad2a93d5a97eba76d?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96aea2b22f636c81413749?utm_campaign=1054&utm_source=git)** | Folsom, CA, United States | On Site | Oct 13 |
+| ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6ab2a4f28254c44790e563f7?utm_campaign=1054&utm_source=git)** | Stockton, CA, United States | On Site | Oct 13 |
 | ↳ | **[Summer 2027 Management Trainee Intern - West Indianapolis](https://jobright.ai/jobs/info/6ace644bbb78de94580d5d5b?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 13 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Carmel/Westfield](https://jobright.ai/jobs/info/6ace6441680c80c8753bc6fd?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 13 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Indianapolis Airport](https://jobright.ai/jobs/info/6ace642e680c80c8753bc6f5?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 13 |
@@ -126,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Pinnacle Family Health](https://pinnaclefamily.org)** | **[Student Intern - Administration (HR, Accounting & Operations)](https://jobright.ai/jobs/info/6ac2d84c8ff3fb9b3bc80662?utm_campaign=1054&utm_source=git)** | West Monroe, LA, United States | On Site | Oct 13 |
 | ↳ | **[Student Intern – Administration (HR, Accounting & Operations)](https://jobright.ai/jobs/info/6ab30abf78c69ff506c42296?utm_campaign=1054&utm_source=git)** | West Monroe, LA, United States | On Site | Oct 13 |
 | **[First Internet Bank](https://www.firstib.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a95233fd18f7567482801ed?utm_campaign=1054&utm_source=git)** | Fishers, IN, United States | On Site | Oct 13 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources - Information Systems Intern](https://jobright.ai/jobs/info/6a9626574c22023a079386b2?utm_campaign=1054&utm_source=git)** | Millsboro, DE, United States | On Site | Oct 13 |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources - Information Systems Intern](https://jobright.ai/jobs/info/6a9623769fcec54423731a86?utm_campaign=1054&utm_source=git)** | Millsboro, DE, United States | On Site | Oct 13 |
 | **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: Talent Acquisition Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957f934d5932306d6acc84?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 13 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6ab12962d2a93d5a97eb9160?utm_campaign=1054&utm_source=git)** | Owatonna, MN, United States | On Site | Oct 13 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Campus Recruiting Intern](https://jobright.ai/jobs/info/6ace303fbb78de94580d4bc1?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | Hybrid | Oct 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KKR](http://www.kkr.com)** | **[2027 Summer Analyst Program - Human Capital](https://jobright.ai/jobs/info/6acd7a52a56e5406e57c188a?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Oct 12 |
 | **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: SUNY Co-op (Retirement Solutions)](https://jobright.ai/jobs/info/6ace863a4f3229123da3cc35?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 12 |
 | ↳ | **[2027 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/6acea93f4f3229123da3d822?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 12 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Human Resources Intern – August 2027 – 13 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6acec5184391691a335ae85a?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Oct 12 |
-| **[Insperity](http://www.insperity.com)** | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6acec19d4391691a335ae6c6?utm_campaign=1054&utm_source=git)** | Florham Park, NJ, United States | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
