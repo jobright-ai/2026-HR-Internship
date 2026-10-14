@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Battelle](http://www.battelle.org)** | **[HR AI Automation Internship (Summer 2027)](https://jobright.ai/jobs/info/6ac41f9f372c01f6cd73418e?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | Hybrid | Oct 14 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aceb8a170e50ec1b37f195d?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Oct 13 |
 | **[ATCO](http://www.atco.com/)** | **[January 2027 HR Co-op - Energy Systems](https://jobright.ai/jobs/info/6acebcc470e50ec1b37f19c8?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 13 |
-| **[AbilityFirst](https://www.abilityfirst.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a50ec64ae4052672fe95630?utm_campaign=1054&utm_source=git)** | Pasadena, CA, United States | On Site | Oct 13 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6931f57d4c474121999f4d9f?utm_campaign=1054&utm_source=git)** | Pasadena,CA,US | Hybrid | Oct 13 |
+| **[AbilityFirst](https://www.abilityfirst.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6931f57d4c474121999f4d9f?utm_campaign=1054&utm_source=git)** | Pasadena,CA,US | Hybrid | Oct 13 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a50ec64ae4052672fe95630?utm_campaign=1054&utm_source=git)** | Pasadena, CA, United States | On Site | Oct 13 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6acea961bb78de94580d78de?utm_campaign=1054&utm_source=git)** | Clinton, SC, United States | On Site | Oct 13 |
 | **[SNF Holding Company](http://www.snf.us)** | **[Intern](https://jobright.ai/jobs/info/6acecfa370e50ec1b37f1e04?utm_campaign=1054&utm_source=git)** | Plaquemine, LA, United States | On Site | Oct 13 |
 | **[Service Wire Company](http://servicewire.com)** | **[Internship - Human Resources (HR)](https://jobright.ai/jobs/info/6ace773e4f3229123da3c22a?utm_campaign=1054&utm_source=git)** | Culloden, West Virginia, United States | On Site | Oct 13 |
@@ -118,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/6ace5ab7ba99f15ef4124500?utm_campaign=1054&utm_source=git)** | Burlington, VT, United States | On Site | Oct 13 |
 | **[Jacobs](http://www.jacobs.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6ab7922e81e327c4bf203675?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 13 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Human Resources Intern - HRO-2026-4i](https://jobright.ai/jobs/info/6ace5369680c80c8753bbf89?utm_campaign=1054&utm_source=git)** | Trenton, NJ, United States | On Site | Oct 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship - Columbia, MO](https://jobright.ai/jobs/info/6ab1b7ad23005eee3545c5a2?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | On Site | Oct 13 |
 | **[ND Paper](https://us.ndpaper.com)** | **[Intern HRZ009](https://jobright.ai/jobs/info/6ab16c6b23005eee3545a4bd?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Oct 13 |
 | **[Newrez](https://www.newrez.com)** | **[2027 Summer Internship – HR Benefits](https://jobright.ai/jobs/info/6a95ac4cf28891320e85d155?utm_campaign=1054&utm_source=git)** | Coppell, TX, United States | On Site | Oct 13 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2027 Summer HR Intern - Jefferson City](https://jobright.ai/jobs/info/6a9667d669b865490a631d26?utm_campaign=1054&utm_source=git)** | Jefferson City, MO, United States | On Site | Oct 13 |
@@ -128,11 +130,11 @@ For a complete list, click the following sortable link below:
 | **[Pinnacle Family Health](https://pinnaclefamily.org)** | **[Student Intern – Administration (HR, Accounting & Operations)](https://jobright.ai/jobs/info/6ab30abf78c69ff506c42296?utm_campaign=1054&utm_source=git)** | West Monroe, LA, United States | On Site | Oct 13 |
 | ↳ | **[Student Intern - Administration (HR, Accounting & Operations)](https://jobright.ai/jobs/info/6ac2d84c8ff3fb9b3bc80662?utm_campaign=1054&utm_source=git)** | West Monroe, LA, United States | On Site | Oct 13 |
 | **[First Internet Bank](https://www.firstib.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a95233fd18f7567482801ed?utm_campaign=1054&utm_source=git)** | Fishers, IN, United States | On Site | Oct 13 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources - Information Systems Intern](https://jobright.ai/jobs/info/6a9626574c22023a079386b2?utm_campaign=1054&utm_source=git)** | Millsboro, DE, United States | On Site | Oct 13 |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources - Information Systems Intern](https://jobright.ai/jobs/info/6a9623769fcec54423731a86?utm_campaign=1054&utm_source=git)** | Millsboro, DE, United States | On Site | Oct 13 |
 | **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: Talent Acquisition Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957f934d5932306d6acc84?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 13 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6ab12962d2a93d5a97eb9160?utm_campaign=1054&utm_source=git)** | Owatonna, MN, United States | On Site | Oct 13 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Campus Recruiting Intern](https://jobright.ai/jobs/info/6ace303fbb78de94580d4bc1?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | Hybrid | Oct 13 |
-| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Claims Intern - Workers' Compensation](https://jobright.ai/jobs/info/6ab13b9623005eee3545910c?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 13 |
+| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Claims Intern - Workers' Compensation](https://jobright.ai/jobs/info/6ab15f6bd43eb922ca0be6c0?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 13 |
 | **[Securitas Security Services USA, Inc.](http://www.securitasinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99be1c551435518ebf0bcd?utm_campaign=1054&utm_source=git)** | Dublin, OH, United States | On Site | Oct 13 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Human Resources - Intern](https://jobright.ai/jobs/info/6ab1405623005eee3545929a?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | On Site | Oct 13 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – People Intern](https://jobright.ai/jobs/info/6aa962616d0edc2d91b09635?utm_campaign=1054&utm_source=git)** | New York City, NY, United States | Hybrid | Oct 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GITAI](http://gitai.tech)** | **[Technical Recruiting Intern (Open to Engineers Transitioning into Recruiting)](https://jobright.ai/jobs/info/6a961550c8763a3a87ffe38d?utm_campaign=1054&utm_source=git)** | Torrance, CA, United States | On Site | Oct 12 |
 | **[Formerra](https://www.formerra.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6acd1213d113c967e3c7bf7c?utm_campaign=1054&utm_source=git)** | Romeoville, IL, United States | Hybrid | Oct 12 |
 | **[KKR](http://www.kkr.com)** | **[2027 Summer Analyst Program - Human Capital](https://jobright.ai/jobs/info/6acd7a52a56e5406e57c188a?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Oct 12 |
-| **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: SUNY Co-op (Retirement Solutions)](https://jobright.ai/jobs/info/6ace863a4f3229123da3cc35?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 12 |
-| ↳ | **[2027 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/6ace8649a0453f9ba6249618?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
