@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA or Baton Rouge, LA](https://jobright.ai/jobs/info/6a50ea3a02522b5b722e5dc6?utm_campaign=1054&utm_source=git)** | Metairie, LA, United States | On Site | Oct 15 |
+| **[Bertelsmann SE & Co. KGaA](http://www.bertelsmann.com)** | **[Human Resources Intern (Bilingual English/Spanish) Job Details / Apply now!](https://jobright.ai/jobs/info/6ad1739f256e49282e655464?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Oct 15 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Information Systems Management Intern - S](https://jobright.ai/jobs/info/6ad15fd6ae21edea94fd5da1?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 15 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Human Resources (Global Compensation)](https://jobright.ai/jobs/info/6ad1405a256e49282e653dd5?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 15 |
 | **[Bildt](http://www.bildt.com)** | **[Talent Acquisition Intern - Summer of 2027](https://jobright.ai/jobs/info/6ad14ec0256e49282e6544db?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Oct 15 |
@@ -81,10 +83,10 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ad10dcf3d3a5aa909b375aa?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX, United States | On Site | Oct 15 |
 | **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[HR Payroll Intern](https://jobright.ai/jobs/info/6ac3f67c064da25272e105be?utm_campaign=1054&utm_source=git)** | Warren, OH, United States | On Site | Oct 15 |
 | **[FedEx Freight](https://www.fedexfreight.com)** | **[Intern-HR & Legal](https://jobright.ai/jobs/info/6ad10a3eae21edea94fd30ae?utm_campaign=1054&utm_source=git)** | Memphis, Tennessee, United States | On Site | Oct 15 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Oct 15 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Oct 15 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Oct 15 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Oct 15 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Oct 15 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Oct 15 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Oct 15 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6ad108b2e2d41540d4a6d99c?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 15 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Co-op Human Resources - Animal Health](https://jobright.ai/jobs/info/6ab43de27bd081371331684f?utm_campaign=1054&utm_source=git)** | Johns Creek, GA, United States | Hybrid | Oct 15 |
 | **[Newell Brands](https://www.newellbrands.com/)** | **[2027 Newell Brands Intern-HR Talent Management & Development](https://jobright.ai/jobs/info/6ab44d797bd0813713316f2a?utm_campaign=1054&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 15 |
@@ -116,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Talent Operations Intern - Office of the CEO at Eulerity](https://jobright.ai/jobs/info/6ad0d06de2d41540d4a6bcf3?utm_campaign=1054&utm_source=git)** | Indiana, United States | Hybrid | Oct 15 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2027 Summer Internship Program: Crop Risk Management](https://jobright.ai/jobs/info/6a9e3e8ca7ba386c5d671575?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Oct 15 |
 | ↳ | **[2027 Summer Internship Program: Construction/Surety Specialty Practice](https://jobright.ai/jobs/info/6a9e39dd27c94c3d5a1cb922?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Oct 15 |
-| ↳ | **[2027 Summer Internship Program: Construction/Surety Specialty Practice](https://jobright.ai/jobs/info/6a9e39e327c94c3d5a1cb925?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Oct 15 |
+| ↳ | **[2027 Summer Internship Program: Construction/Surety Specialty Practice](https://jobright.ai/jobs/info/6a9e3ea02c964816f65ec433?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Oct 15 |
 | ↳ | **[2027 Summer Internship Program: Personal Insurance](https://jobright.ai/jobs/info/6a9e3e9cdacf777321a91131?utm_campaign=1054&utm_source=git)** | McMinnville, OR, United States | On Site | Oct 15 |
 | **[Fossil Group, Inc.](http://www.fossilgroup.com/)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6ad1322d256e49282e653591?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | Hybrid | Oct 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - Boulder](https://jobright.ai/jobs/info/6ad0b06d52a37835d5e406d2?utm_campaign=1054&utm_source=git)** | Boulder, CO, United States | On Site | Oct 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Future Talent Program – Social Impact Sustainability – Co-op](https://jobright.ai/jobs/info/6acfaf82c0dd9da253cf3eca?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 14 |
 | **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Human Resources (HR) Technology](https://jobright.ai/jobs/info/6acfed0ac0dd9da253cf5688?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 14 |
 | **[Umbrex](http://www.umbrex.com)** | **[Recruiting & Staffing Intern - Human Resources](https://jobright.ai/jobs/info/6acff4cac0dd9da253cf5872?utm_campaign=1054&utm_source=git)** | Metro Detroit, United States | Hybrid | Oct 14 |
-| **[RTX](http://rtx.com/)** | **[Talent /Human Resource Co-op (Spring/Summer 2027)](https://jobright.ai/jobs/info/6acfa645fe7a9bd5a6b99265?utm_campaign=1054&utm_source=git)** | Remote, NC, United States | Remote | Oct 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2027 Internship](https://jobright.ai/jobs/info/6ab351afa353d86e6786ec17?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA, United States | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
