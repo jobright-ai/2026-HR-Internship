@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Payroll Compliance Intern (Ontario - Spring 2027)](https://jobright.ai/jobs/info/6ad3adfa25289a0b3bf5b30d?utm_campaign=1054&utm_source=git)** | Ontario, CA, United States | Hybrid | Oct 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a99a82690a313642c651e4d?utm_campaign=1054&utm_source=git)** | Bentonville, AR, United States | On Site | Oct 17 |
 | **[Nicolet National Bank](http://nicoletbank.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b2ece2cdc5958f53eb3eb?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | On Site | Oct 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern- Clifton Park, Latham, and Troy, NY](https://jobright.ai/jobs/info/6ab7009e3a2ec87116e24f81?utm_campaign=1054&utm_source=git)** | Latham, NY, United States | On Site | Oct 17 |
@@ -75,9 +76,9 @@ For a complete list, click the following sortable link below:
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[2027 Summer Intern: Human Resources - Spectrum News](https://jobright.ai/jobs/info/6ad356e2f04335fc70ed9119?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Oct 17 |
 | **[CUES Inc.](http://cuesinc.com)** | **[Human Resources Intern Job Details / our team](https://jobright.ai/jobs/info/6ab6c095c6fe0dec811a6943?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | Hybrid | Oct 17 |
 | **[Olin](http://www.olin.com/)** | **[Winchester HR/Labor Relations Intern - 2027](https://jobright.ai/jobs/info/6a9af611d5ff1f3f1c39c804?utm_campaign=1054&utm_source=git)** | Independence, MO, United States | On Site | Oct 17 |
-| **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Spring 2027](https://jobright.ai/jobs/info/6ab6ada2d85922de20ce624e?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 17 |
-| **[SPX Technologies](http://www.spx.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ab6dd2962bb1fbd451dc3d1?utm_campaign=1054&utm_source=git)** | Cuba, MO, United States | On Site | Oct 17 |
-| ↳ | **[HR Intern Job Details / our team](https://jobright.ai/jobs/info/6abb0a67ee0b348be729c928?utm_campaign=1054&utm_source=git)** | Cuba, MO, United States | On Site | Oct 17 |
+| **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern - Spring 2027](https://jobright.ai/jobs/info/6ab6ada39d4843569fe4ecba?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 17 |
+| **[SPX Technologies](http://www.spx.com)** | **[HR Intern Job Details / our team](https://jobright.ai/jobs/info/6abb0a67ee0b348be729c928?utm_campaign=1054&utm_source=git)** | Cuba, MO, United States | On Site | Oct 17 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/6ab6dd2962bb1fbd451dc3d1?utm_campaign=1054&utm_source=git)** | Cuba, MO, United States | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Corporate Services) - 2026 Start](https://jobright.ai/jobs/info/6a9b6359fe45b8490f608298?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 17 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Health and Benefits Northeastern Co-op - Spring Term 2027](https://jobright.ai/jobs/info/6a99f013551435518ebf21eb?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 17 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a9aff631388387060596184?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 17 |
@@ -98,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[STCU](https://stcu.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac6a2c54ac55253f5d7b4c0?utm_campaign=1054&utm_source=git)** | Liberty Lake, WA, United States | On Site | Oct 16 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Oct 16 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29538c4290cef1412bbb8?utm_campaign=1054&utm_source=git)** | Greer, SC, United States | On Site | Oct 16 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29537f04335fc70ed652a?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Oct 16 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29539c4290cef1412bbbc?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Oct 16 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6ad276bc25289a0b3bf56eed?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 16 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Talent Acquisition Intern (Summer 2027)](https://jobright.ai/jobs/info/6abfe3198ff3fb9b3bc795b0?utm_campaign=1054&utm_source=git)** | Milford, MA, United States | On Site | Oct 16 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Skillbridge Program](https://jobright.ai/jobs/info/6a511ca202522b5b722e78e3?utm_campaign=1054&utm_source=git)** | Continental United States, United States | Remote | Oct 16 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ad273d883ada13a9da05f93?utm_campaign=1054&utm_source=git)** | Salem, MA, United States | On Site | Oct 16 |
 | **[84 Lumber](http://www.84lumber.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ad273d8c4290cef1412b0d5?utm_campaign=1054&utm_source=git)** | Eighty Four, PA, United States | On Site | Oct 16 |
 | **[Georgetown Police Department](http://georgetownpolice.org)** | **[HR Intern](https://jobright.ai/jobs/info/6ad271515290d4375c45316e?utm_campaign=1054&utm_source=git)** | Georgetown, KY, United States | On Site | Oct 16 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6abe6bf6372c01f6cd723576?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 16 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6ad26ab083ada13a9da05b0a?utm_campaign=1054&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Oct 16 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ad26ab083ada13a9da05b0a?utm_campaign=1054&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Oct 16 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6abe6bf6372c01f6cd723576?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 16 |
 | **[NYSTRS](https://www.nystrs.org)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6ac8f4beaf788e6ad3b590e2?utm_campaign=1054&utm_source=git)** | Albany, New York, United States | Hybrid | Oct 16 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Total Rewards - HR (Fall2026 - 6 months)](https://jobright.ai/jobs/info/6ad260c2f04335fc70ed52c6?utm_campaign=1054&utm_source=git)** | Las Vegas, NV, United States | On Site | Oct 16 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - BMTA-RIA Retirement Plans](https://jobright.ai/jobs/info/6ad25cf5f04335fc70ed5164?utm_campaign=1054&utm_source=git)** | Berwyn, PA, United States | On Site | Oct 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Securitas Security Services USA, Inc.](http://www.securitasinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99be1c551435518ebf0bcd?utm_campaign=1054&utm_source=git)** | Dublin, OH, United States | On Site | Oct 16 |
 | **[Plaud](https://www.plaud.ai/)** | **[Global Talent Acquisition - San Francisco （Intern / Contract）](https://jobright.ai/jobs/info/6a513459ae4052672fe97c19?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 16 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab52d1bd85922de20cdf9b6?utm_campaign=1054&utm_source=git)** | Troy, MI, United States | On Site | Oct 16 |
-| **[Olin](http://www.olin.com/)** | **[HRIT Co-Op - Spring 2027](https://jobright.ai/jobs/info/6a988e74dd171c7285792efc?utm_campaign=1054&utm_source=git)** | Clayton, Missouri, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
