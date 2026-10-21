@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2027 Internship](https://jobright.ai/jobs/info/6ad847493dc655658d8f3d18?utm_campaign=1054&utm_source=git)** | Berkeley, CA, United States | On Site | Oct 20 |
+| ↳ | **[Management Trainee Summer 2027 Internship](https://jobright.ai/jobs/info/6ad844c43dc655658d8f3c29?utm_campaign=1054&utm_source=git)** | Pleasanton, CA, United States | On Site | Oct 20 |
 | **[Corevanta Labs](corevantalabs.net)** | **[Financial Reporting Intern](https://jobright.ai/jobs/info/6ad835a152aa6152bb6a2d0d?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Remote | Oct 20 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aa099e1500b01124c77a0aa?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 20 |
 | **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ac595488ff3fb9b3bc8a57e?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Oct 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Werner Enterprises](http://www.werner.com)** | **[Legal & Human Resources Intern](https://jobright.ai/jobs/info/6ad64f173dc655658d8e4817?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | On Site | Oct 20 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate  Summer Internship Program - 2027 Human Resources Leadership Development Program, Colleague Experience Group - New York, NY](https://jobright.ai/jobs/info/6abfce554ac55253f5d65c33?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 19 |
 | **[Synergos](http://www.synergos.org)** | **[Human Resources and Operations Intern](https://jobright.ai/jobs/info/6ad6cf2ae4b94611ab841d57?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Oct 19 |
-| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)-North](https://jobright.ai/jobs/info/6acfa9f312303667b989f843?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Oct 19 |
-| **[PACCAR](http://www.paccar.com/)** | **[Summer Internship - Talent Acquisition](https://jobright.ai/jobs/info/6ad6809c54bbabbab06f8e86?utm_campaign=1054&utm_source=git)** | Renton, WA, United States | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
