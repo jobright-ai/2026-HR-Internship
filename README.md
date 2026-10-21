@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Human Resources Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6ad9297967bec1d0d9c84038?utm_campaign=1054&utm_source=git)** | Litchfield, MN, United States | On Site | Oct 21 |
 | **[Bertelsmann SE & Co. KGaA](http://www.bertelsmann.com)** | **[Human Resources Intern (Bilingual English/Spanish) Job Details / Apply now!](https://jobright.ai/jobs/info/6ab5c3afd85922de20ce34be?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Oct 21 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[HR Intern](https://jobright.ai/jobs/info/6ad923b539284cd5242849b7?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | Oct 21 |
 | **[Bemis Manufacturing Company](http://www.bemismfg.com)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6ad91edc67bec1d0d9c83799?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI, United States | On Site | Oct 21 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Care Initiatives](https://www.careinitiatives.org/)** | **[ISU Healthcare Management Program Intern (HR)](https://jobright.ai/jobs/info/6ad912e639284cd524283e2c?utm_campaign=1054&utm_source=git)** | West Des Moines, IA, United States | On Site | Oct 21 |
 | **[Michigan Automotive Compressor, Inc. (MACI)](https://michauto.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ad910ca54bbabbab070c402?utm_campaign=1054&utm_source=git)** | Parma, Michigan, United States | On Site | Oct 21 |
 | **[DP World](https://www.dpworld.com/)** | **[HRIS Intern](https://jobright.ai/jobs/info/6ad909beb0725dc268dd9109?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 21 |
-| **[GAOTek Inc.](https://www.gaotek.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6ad9097be4b94611ab8524e2?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Oct 21 |
 | **[Thrivent](https://www.thrivent.com)** | **[Recruiting Specialist Intern - Summer 2027](https://jobright.ai/jobs/info/6abc1f18a9a644f96568a569?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | Remote | Oct 21 |
 | **[Veterinary Information Network](https://vin.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ad906a3950ef68d5184ce79?utm_campaign=1054&utm_source=git)** | Davis, CA, United States | On Site | Oct 21 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources Business Partner (Winter 2027)](https://jobright.ai/jobs/info/6ad905ddb0725dc268dd88a7?utm_campaign=1054&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 21 |
@@ -144,10 +144,12 @@ For a complete list, click the following sortable link below:
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6ad7cf7d52aa6152bb69fa1f?utm_campaign=1054&utm_source=git)** | Sparks, NV, United States | On Site | Oct 20 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Human Resources](https://jobright.ai/jobs/info/6ac5790d064da25272e17277?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 20 |
 | **[ZF Group](https://www.zf.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6ad923dde4b94611ab85377e?utm_campaign=1054&utm_source=git)** | North Mankato, MN, United States | On Site | Oct 20 |
+| **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Labor Relations](https://jobright.ai/jobs/info/6ad92682e4b94611ab853a01?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | On Site | Oct 20 |
+| **[Panduit](http://www.panduit.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ad925e254bbabbab070d305?utm_campaign=1054&utm_source=git)** | Tinley Park, IL, United States | Hybrid | Oct 20 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[**SKILLBRIDGE** Talent Acquisition Specialist](https://jobright.ai/jobs/info/6ad8d09554bbabbab0708f91?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 20 |
 | **[FedEx Freight](https://www.fedexfreight.com)** | **[Intern-HR & Legal](https://jobright.ai/jobs/info/6ad86b53e4b94611ab84d1c6?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR Partner, IT (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ad7fe76950ef68d51846110?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 20 |
-| **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7df8b52aa6152bb6a06ac?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Oct 20 |
+| **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7e22e67bec1d0d9c7a1ba?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Oct 20 |
 | **[Queens Hillel](https://qchillel.org)** | **[Operations Intern, Talent Development & Training](https://jobright.ai/jobs/info/6ace523cbb78de94580d55c2?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Oct 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ad7f31754bbabbab0704478?utm_campaign=1054&utm_source=git)** | Huntington, WV, United States | On Site | Oct 20 |
 | ↳ | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ad7f304950ef68d51845cee?utm_campaign=1054&utm_source=git)** | Clarksburg, WV, United States | On Site | Oct 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ad7f2e33dc655658d8f2016?utm_campaign=1054&utm_source=git)** | Charleston, WV, United States | On Site | Oct 20 |
 | **[Bosch](http://www.bosch.com)** | **[Human Resources Intern - Recruitment, Onboarding & Employer Brand](https://jobright.ai/jobs/info/6ad7f07b52aa6152bb6a144d?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI, United States | Hybrid | Oct 20 |
 | **[Lexington Manufacturing, LLC](https://www.lexingtonmfg.com/)** | **[Human Resources Intern (Part-time, Summer Internship)](https://jobright.ai/jobs/info/6ad7e7cc950ef68d518453d9?utm_campaign=1054&utm_source=git)** | Prineville, OR, United States | On Site | Oct 20 |
-| **[Consonus Healthcare](https://www.consonushealth.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7e41954bbabbab07037ea?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Oct 20 |
-| **[AgeRight](https://www.agerightcaremanagement.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7e36f67bec1d0d9c7a263?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
