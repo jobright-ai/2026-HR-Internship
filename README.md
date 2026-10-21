@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corevanta Labs](corevantalabs.net)** | **[Financial Reporting Intern](https://jobright.ai/jobs/info/6ad835a152aa6152bb6a2d0d?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Remote | Oct 20 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aa099e1500b01124c77a0aa?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 20 |
 | **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ac595488ff3fb9b3bc8a57e?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Oct 20 |
 | ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ac595f74ac55253f5d77549?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Oct 20 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Operations Internship - Summer 2027](https://jobright.ai/jobs/info/6ad7a67c3dc655658d8ee938?utm_campaign=1054&utm_source=git)** | Reston, VA, United States | Hybrid | Oct 20 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern (CA, CO, MI, OR, TX, WA)](https://jobright.ai/jobs/info/6ab6a743b3db59402d101852?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Oct 20 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Employer Operations Intern](https://jobright.ai/jobs/info/6ad7916c3dc655658d8ed78f?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 20 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resource Business Partner Toronto (Winter 2027)](https://jobright.ai/jobs/info/6ababc33d2914e9273eecfca?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Oct 20 |
-| ↳ | **[Intern, Claims/Disability Management (Winter 2027)](https://jobright.ai/jobs/info/6ad7b80167bec1d0d9c783fc?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | Hybrid | Oct 20 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Claims/Disability Management (Winter 2027)](https://jobright.ai/jobs/info/6ad7b80167bec1d0d9c783fc?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | Hybrid | Oct 20 |
+| ↳ | **[Intern, Human Resource Business Partner Toronto (Winter 2027)](https://jobright.ai/jobs/info/6ababc33d2914e9273eecfca?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Oct 20 |
 | **[Thrivent](https://www.thrivent.com)** | **[Recruiting Specialist Intern - Spring 2027](https://jobright.ai/jobs/info/6ad7b14267bec1d0d9c77ee0?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $22/hr](https://jobright.ai/jobs/info/6ad7b11e54bbabbab07012ba?utm_campaign=1054&utm_source=git)** | Henderson, NV, United States | On Site | Oct 20 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Information Systems Management Intern - S](https://jobright.ai/jobs/info/6ad7bb5454bbabbab0701b5f?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 20 |
@@ -135,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Rosendin](https://www.rosendin.com)** | **[2027 Summer Internship - Safety (Idaho)](https://jobright.ai/jobs/info/6abb10b01acb8fc6f09c2b7a?utm_campaign=1054&utm_source=git)** | Idaho, United States | On Site | Oct 20 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6a51db138d7d3e6cf1cc3e38?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 20 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Culture & Inclusion Intern](https://jobright.ai/jobs/info/6abac342be5f1e93251173a2?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 20 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a9e9729a7ba386c5d672d25?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Veteran Intern (Secretary) - Office of Organizational Development](https://jobright.ai/jobs/info/6ad76d1b54bbabbab06fe40c?utm_campaign=1054&utm_source=git)** | Lansing, MI, United States | On Site | Oct 20 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Strategic Sourcing - Intern](https://jobright.ai/jobs/info/6a9f5af2352f093fc756e28e?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
 | ↳ | **[2027 Future Talent Program - International Veterinary Health - Intern](https://jobright.ai/jobs/info/6ab1ec7c191d8c340dbdd383?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Synergos](http://www.synergos.org)** | **[Human Resources and Operations Intern](https://jobright.ai/jobs/info/6ad6cf2ae4b94611ab841d57?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Oct 19 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)-North](https://jobright.ai/jobs/info/6acfa9f312303667b989f843?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Oct 19 |
 | **[PACCAR](http://www.paccar.com/)** | **[Summer Internship - Talent Acquisition](https://jobright.ai/jobs/info/6ad6809c54bbabbab06f8e86?utm_campaign=1054&utm_source=git)** | Renton, WA, United States | On Site | Oct 19 |
-| **[NewsBreak](http://www.newsbreak.com)** | **[MBA HR Intern](https://jobright.ai/jobs/info/6a67faedd0fb4c3df393f9c9?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 19 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6a9e972d2c964816f65edc77?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
