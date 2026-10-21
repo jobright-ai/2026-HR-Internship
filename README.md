@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FedEx Freight](https://www.fedexfreight.com)** | **[Intern-HR & Legal](https://jobright.ai/jobs/info/6ad8581454bbabbab07066f2?utm_campaign=1054&utm_source=git)** | Harrison, Arkansas, United States | On Site | Oct 20 |
+| **[Brilyon Ventures](brilyonventures.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6ad8505ce4b94611ab84cc61?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | Remote | Oct 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2027 Internship](https://jobright.ai/jobs/info/6ad847493dc655658d8f3d18?utm_campaign=1054&utm_source=git)** | Berkeley, CA, United States | On Site | Oct 20 |
 | ↳ | **[Management Trainee Summer 2027 Internship](https://jobright.ai/jobs/info/6ad844c43dc655658d8f3c29?utm_campaign=1054&utm_source=git)** | Pleasanton, CA, United States | On Site | Oct 20 |
 | **[Corevanta Labs](corevantalabs.net)** | **[Financial Reporting Intern](https://jobright.ai/jobs/info/6ad835a152aa6152bb6a2d0d?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Remote | Oct 20 |
@@ -71,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Leave of Absence Analyst Project Intern (HROP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a572a4853b3962b910b3cee?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 20 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Human Resources](https://jobright.ai/jobs/info/6ac5790d064da25272e17277?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 20 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR Partner, IT (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ad7fe76950ef68d51846110?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 20 |
-| **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7df8b52aa6152bb6a06ac?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Oct 20 |
+| **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7e22e67bec1d0d9c7a1ba?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Oct 20 |
 | **[Queens Hillel](https://qchillel.org)** | **[Operations Intern, Talent Development & Training](https://jobright.ai/jobs/info/6ace523cbb78de94580d55c2?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Oct 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ad7f31754bbabbab0704478?utm_campaign=1054&utm_source=git)** | Huntington, WV, United States | On Site | Oct 20 |
 | ↳ | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ad7f304950ef68d51845cee?utm_campaign=1054&utm_source=git)** | Clarksburg, WV, United States | On Site | Oct 20 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[Culture & Inclusion Intern](https://jobright.ai/jobs/info/6abac342be5f1e93251173a2?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a9e9729a7ba386c5d672d25?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Veteran Intern (Secretary) - Office of Organizational Development](https://jobright.ai/jobs/info/6ad76d1b54bbabbab06fe40c?utm_campaign=1054&utm_source=git)** | Lansing, MI, United States | On Site | Oct 20 |
-| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Strategic Sourcing - Intern](https://jobright.ai/jobs/info/6a9f5af2352f093fc756e28e?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
-| ↳ | **[2027 Future Talent Program - International Veterinary Health - Intern](https://jobright.ai/jobs/info/6ab1ec7c191d8c340dbdd383?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
+| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - International Veterinary Health - Intern](https://jobright.ai/jobs/info/6ab1ec7c191d8c340dbdd383?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
+| ↳ | **[2027 Future Talent Program - Global Strategic Sourcing - Intern](https://jobright.ai/jobs/info/6a9f5af2352f093fc756e28e?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
 | ↳ | **[2026 Future Talent Program - Clinical Safety Risk Management - Intern](https://jobright.ai/jobs/info/6a9f5afe68f82b403673cddf?utm_campaign=1054&utm_source=git)** | North Wales, PA, United States | Hybrid | Oct 20 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Human Resources Intern – US – Summer 2027](https://jobright.ai/jobs/info/6a8279f02dbaf907b0763dad?utm_campaign=1054&utm_source=git)** | Evendale, OH, United States | On Site | Oct 20 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Value & Implementation - Outcomes Research Intern](https://jobright.ai/jobs/info/6abae5f7be5f1e9325118050?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Human Resources & Workplace Experience Internship](https://jobright.ai/jobs/info/6ad737ba52aa6152bb69a4f0?utm_campaign=1054&utm_source=git)** | Frisco, TX, United States | Hybrid | Oct 20 |
 | ↳ | **[2027 Summer Human Resources & Workplace Experience Internship](https://jobright.ai/jobs/info/6ad737b952aa6152bb69a4ed?utm_campaign=1054&utm_source=git)** | Bellevue, WA, United States | Hybrid | Oct 20 |
 | **[Werner Enterprises](http://www.werner.com)** | **[Legal & Human Resources Intern](https://jobright.ai/jobs/info/6ad64f173dc655658d8e4817?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | On Site | Oct 20 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate  Summer Internship Program - 2027 Human Resources Leadership Development Program, Colleague Experience Group - New York, NY](https://jobright.ai/jobs/info/6abfce554ac55253f5d65c33?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 19 |
-| **[Synergos](http://www.synergos.org)** | **[Human Resources and Operations Intern](https://jobright.ai/jobs/info/6ad6cf2ae4b94611ab841d57?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
