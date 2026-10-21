@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Olin](http://www.olin.com/)** | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6aa03c9cdbc0e60e37e0c381?utm_campaign=1054&utm_source=git)** | Plaquemine, Louisiana, United States | On Site | Oct 21 |
+| **[MAB Community Services](http://www.mabcommunity.org/)** | **[HR Intern (3472)](https://jobright.ai/jobs/info/6ab3788a16511e254891c173?utm_campaign=1054&utm_source=git)** | Brookline, MA, United States | On Site | Oct 21 |
 | **[Michelin](http://www.michelin.com/)** | **[2027 Summer Inclusion Strategy & Business Integration Intern](https://jobright.ai/jobs/info/6abbe20e3217d1d13329b67c?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Business Solutions) - 2027 Summer](https://jobright.ai/jobs/info/6a71a42bcb96192a3684999f?utm_campaign=1054&utm_source=git)** | New York | On Site | Oct 21 |
 | ↳ | **[Leave of Absence Analyst Project Intern (HROP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a572a4853b3962b910b3cee?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 21 |
@@ -84,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Human Resources](https://jobright.ai/jobs/info/6ac5790d064da25272e17277?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 20 |
 | **[FedEx Freight](https://www.fedexfreight.com)** | **[Intern-HR & Legal](https://jobright.ai/jobs/info/6ad86b53e4b94611ab84d1c6?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR Partner, IT (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ad7fe76950ef68d51846110?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 20 |
-| **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7e22e67bec1d0d9c7a1ba?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Oct 20 |
+| **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7df8b52aa6152bb6a06ac?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Oct 20 |
 | **[Queens Hillel](https://qchillel.org)** | **[Operations Intern, Talent Development & Training](https://jobright.ai/jobs/info/6ace523cbb78de94580d55c2?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Oct 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ad7f31754bbabbab0704478?utm_campaign=1054&utm_source=git)** | Huntington, WV, United States | On Site | Oct 20 |
 | ↳ | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ad7f304950ef68d51845cee?utm_campaign=1054&utm_source=git)** | Clarksburg, WV, United States | On Site | Oct 20 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[Culture & Inclusion Intern](https://jobright.ai/jobs/info/6abac342be5f1e93251173a2?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a9e9729a7ba386c5d672d25?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Veteran Intern (Secretary) - Office of Organizational Development](https://jobright.ai/jobs/info/6ad76d1b54bbabbab06fe40c?utm_campaign=1054&utm_source=git)** | Lansing, MI, United States | On Site | Oct 20 |
-| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - International Veterinary Health - Intern](https://jobright.ai/jobs/info/6ab1ec7c191d8c340dbdd383?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
-| ↳ | **[2027 Future Talent Program - Global Strategic Sourcing - Intern](https://jobright.ai/jobs/info/6a9f5af2352f093fc756e28e?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
-| ↳ | **[2026 Future Talent Program - Clinical Safety Risk Management - Intern](https://jobright.ai/jobs/info/6a9f5afe68f82b403673cddf?utm_campaign=1054&utm_source=git)** | North Wales, PA, United States | Hybrid | Oct 20 |
-| **[GE Aerospace](https://www.geaerospace.com)** | **[Human Resources Intern – US – Summer 2027](https://jobright.ai/jobs/info/6a8279f02dbaf907b0763dad?utm_campaign=1054&utm_source=git)** | Evendale, OH, United States | On Site | Oct 20 |
+| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Strategic Sourcing - Intern](https://jobright.ai/jobs/info/6a9f5af2352f093fc756e28e?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
+| ↳ | **[2027 Future Talent Program - International Veterinary Health - Intern](https://jobright.ai/jobs/info/6ab1ec7c191d8c340dbdd383?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
