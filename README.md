@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seven Research, LLC](https://sevenresearch.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6ad9680d54bbabbab070f418?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 21 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[HR Intern](https://jobright.ai/jobs/info/6ad923b539284cd5242849b7?utm_campaign=1054&utm_source=git)** | Manhattan, NY, United States | On Site | Oct 21 |
 | **[Libris Innovations](https://www.indianabiosciences.org/libris-innovations/)** | **[Human Resource Intern (2027)](https://jobright.ai/jobs/info/6ad949f067bec1d0d9c853e3?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 21 |
 | **[Slifco Electric](http://www.slifcoelectric.com)** | **[Recruiting & Social Media Intern - Fall 2026](https://jobright.ai/jobs/info/6ac6b26ad9621c5b283aa467?utm_campaign=1054&utm_source=git)** | Michigan, United States | On Site | Oct 21 |
 | **[DP World](https://www.dpworld.com/)** | **[HRIS Intern](https://jobright.ai/jobs/info/6ad909beb0725dc268dd9109?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 21 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA401: HR Onboarding Specialist](https://jobright.ai/jobs/info/6ab43c4255e9168cf5ea5372?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 21 |
+| **[South Central Regional Medical Center](https://scrmc.com)** | **[Human Resources Intern-Unpaid](https://jobright.ai/jobs/info/6ad9644b54bbabbab070f31b?utm_campaign=1054&utm_source=git)** | Laurel, MS, United States | On Site | Oct 21 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Human Resources Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6ad9297967bec1d0d9c84038?utm_campaign=1054&utm_source=git)** | Litchfield, MN, United States | On Site | Oct 21 |
 | **[Bertelsmann SE & Co. KGaA](http://www.bertelsmann.com)** | **[Human Resources Intern (Bilingual English/Spanish) Job Details / Apply now!](https://jobright.ai/jobs/info/6ab5c3afd85922de20ce34be?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Oct 21 |
 | **[Bemis Manufacturing Company](http://www.bemismfg.com)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6ad91edc67bec1d0d9c83799?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI, United States | On Site | Oct 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KBR, Inc.](https://www.kbr.com)** | **[**SKILLBRIDGE** Talent Acquisition Specialist](https://jobright.ai/jobs/info/6ad8d09554bbabbab0708f91?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Human Resources](https://jobright.ai/jobs/info/6ad94eae39284cd5242864a0?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 20 |
 | **[FedEx Freight](https://www.fedexfreight.com)** | **[Intern-HR & Legal](https://jobright.ai/jobs/info/6ad86b53e4b94611ab84d1c6?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 20 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, HR Partner, IT (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ad7fe76950ef68d51846110?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 20 |
-| **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7e22e67bec1d0d9c7a1ba?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
