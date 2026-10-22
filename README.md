@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Human Resources](https://jobright.ai/jobs/info/6ad963cae4b94611ab8558f9?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 21 |
+| **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Human Resources](https://jobright.ai/jobs/info/6ad94eae39284cd5242864a0?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 21 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ab47270ef911c35dffa547d?utm_campaign=1054&utm_source=git)** | Windsor Mill, MD, United States | On Site | Oct 21 |
 | **[Werner Enterprises](http://www.werner.com)** | **[Legal & Human Resources Intern](https://jobright.ai/jobs/info/6ad9772f67bec1d0d9c862c0?utm_campaign=1054&utm_source=git)** | Omaha, NE, United States | On Site | Oct 21 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2027 Talent Acquisition Intern](https://jobright.ai/jobs/info/6aa1870def23570cae244424?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Oct 21 |
@@ -129,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Human Resources Intern (Global Business Solutions) - 2027 Summer](https://jobright.ai/jobs/info/6abcde7b064da25272dfab41?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 21 |
 | **[MAB Community Services](http://www.mabcommunity.org/)** | **[HR Intern (3472)](https://jobright.ai/jobs/info/6ab3788a16511e254891c173?utm_campaign=1054&utm_source=git)** | Brookline, MA, United States | On Site | Oct 21 |
 | **[Olin](http://www.olin.com/)** | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6aa03c38a2266b538d22ef6e?utm_campaign=1054&utm_source=git)** | Lake Jackson, TX, United States | On Site | Oct 21 |
-| **[The Strong](http://www.museumofplay.org/)** | **[Human Resources Intern (UNPAID)](https://jobright.ai/jobs/info/6ad8ecc6950ef68d5184b85e?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 21 |
+| **[The Strong](http://www.museumofplay.org/)** | **[Human Resources Intern (UNPAID)](https://jobright.ai/jobs/info/6ad8de9b950ef68d5184ae81?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 21 |
 | **[Michelin](http://www.michelin.com/)** | **[2027 Summer Inclusion Strategy & Business Integration Intern](https://jobright.ai/jobs/info/6abbe20e3217d1d13329b67c?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Business Solutions) - 2027 Summer](https://jobright.ai/jobs/info/6a71a42bcb96192a3684999f?utm_campaign=1054&utm_source=git)** | New York | On Site | Oct 21 |
 | ↳ | **[Leave of Absence Analyst Project Intern (HROP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a572a4853b3962b910b3cee?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 21 |
