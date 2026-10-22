@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Start](https://jobright.ai/jobs/info/6a8f85c47c32860d14cf6128?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 22 |
+| **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2027 Summer Internship HR, Legal and Comms Tech Products (OneTech)- Miramar, FL or Dallas, TX](https://jobright.ai/jobs/info/6ab4702f64816213f2d99233?utm_campaign=1054&utm_source=git)** | Miramar, FL, United States | On Site | Oct 22 |
 | **[Newell Brands](https://www.newellbrands.com/)** | **[2027 Newell Brands Intern-HR Talent Management & Development](https://jobright.ai/jobs/info/6ad9b8aab0725dc268ddd9fe?utm_campaign=1054&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 22 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ab48ee1d2f5fbd604be3c09?utm_campaign=1054&utm_source=git)** | Windsor Mill, MD, United States | On Site | Oct 21 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6ad9ae02e4b94611ab856c7d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 21 |
@@ -84,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Trinnex](https://www.trinnex.io)** | **[Bachelors/Masters - HR Intern (Summer 2027)](https://jobright.ai/jobs/info/6ad689c33dc655658d8e74b7?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 21 |
 | **[Bosch](http://www.bosch.com)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/6ad8fbbb54bbabbab070ae28?utm_campaign=1054&utm_source=git)** | Albion, Indiana, United States | On Site | Oct 21 |
 | **[Coinbase](https://www.coinbase.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6aa0963f3b5aa83237b0a13b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a9799eea702dd5c73151a69?utm_campaign=1054&utm_source=git)** | Charleston, SC, United States | On Site | Oct 21 |
 | **[Bayer](https://www.bayer.com)** | **[North America HR Transformation & AI Intern](https://jobright.ai/jobs/info/6ab527939d4843569fe4828a?utm_campaign=1054&utm_source=git)** | Creve Coeur, MO, United States | On Site | Oct 21 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Talent Development Intern (Year-Round)](https://jobright.ai/jobs/info/6ad8f256950ef68d5184bc71?utm_campaign=1054&utm_source=git)** | Saukville, WI, United States | Hybrid | Oct 21 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Supervisor Trainee Internship Summer 2027](https://jobright.ai/jobs/info/6abd2bf5372c01f6cd71ea18?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 21 |
@@ -131,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Human Resources Intern (Global Business Solutions) - 2027 Summer](https://jobright.ai/jobs/info/6abcde7b064da25272dfab41?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 21 |
 | **[MAB Community Services](http://www.mabcommunity.org/)** | **[HR Intern (3472)](https://jobright.ai/jobs/info/6ab3788a16511e254891c173?utm_campaign=1054&utm_source=git)** | Brookline, MA, United States | On Site | Oct 21 |
 | **[Olin](http://www.olin.com/)** | **[Human Resources Intern - 2027](https://jobright.ai/jobs/info/6aa03c38a2266b538d22ef6e?utm_campaign=1054&utm_source=git)** | Lake Jackson, TX, United States | On Site | Oct 21 |
-| **[The Strong](http://www.museumofplay.org/)** | **[Human Resources Intern (UNPAID)](https://jobright.ai/jobs/info/6ad8ecc6950ef68d5184b85e?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 21 |
+| **[The Strong](http://www.museumofplay.org/)** | **[Human Resources Intern (UNPAID)](https://jobright.ai/jobs/info/6ad8de9b950ef68d5184ae81?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 21 |
 | **[Michelin](http://www.michelin.com/)** | **[2027 Summer Inclusion Strategy & Business Integration Intern](https://jobright.ai/jobs/info/6abbe20e3217d1d13329b67c?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Business Solutions) - 2027 Summer](https://jobright.ai/jobs/info/6a71a42bcb96192a3684999f?utm_campaign=1054&utm_source=git)** | New York | On Site | Oct 21 |
 | ↳ | **[Leave of Absence Analyst Project Intern (HROP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a572a4853b3962b910b3cee?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - Human Resources Rotational Program - Oahu or Hawai'i Island](https://jobright.ai/jobs/info/6ad80eba67bec1d0d9c7ba15?utm_campaign=1054&utm_source=git)** | Honolulu, HI, United States | On Site | Oct 20 |
 | **[Youth For Christ USA Inc.](https://yfc.net/)** | **[JJM MENTORING PROGRAM INTERN](https://jobright.ai/jobs/info/6ad8135467bec1d0d9c7bbef?utm_campaign=1054&utm_source=git)** | Auburn, AL, United States | On Site | Oct 20 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Payroll Services](https://jobright.ai/jobs/info/6ad823e23dc655658d8f32bd?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 20 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Talent Acquisition Intern (Year-Round)](https://jobright.ai/jobs/info/6ad7d4d5e4b94611ab84947e?utm_campaign=1054&utm_source=git)** | Windsor Locks, CT, United States | On Site | Oct 20 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6ad7cf7d52aa6152bb69fa1f?utm_campaign=1054&utm_source=git)** | Sparks, NV, United States | On Site | Oct 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6a9e9774f6ea002358295e22?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
