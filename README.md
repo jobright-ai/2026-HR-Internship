@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Supplier Management Group Supplier Development & Performance Management - Intern](https://jobright.ai/jobs/info/6ada3b7d950ef68d51855390?utm_campaign=1054&utm_source=git)** | West Point, PA, United States | Hybrid | Oct 23 |
+| **[Tacit](https://tacit.ai/)** | **[University Recruitment Ambassador Internship](https://jobright.ai/jobs/info/6abaccda1acb8fc6f09c1926?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Oct 23 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Supply Chain Management Summer Intern - US Based](https://jobright.ai/jobs/info/6aa3ce794238ea18d430e6e8?utm_campaign=1054&utm_source=git)** | West Point, Pennsylvania, United States | Hybrid | Oct 23 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6abe6bf6372c01f6cd723576?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6ad26ab083ada13a9da05b0a?utm_campaign=1054&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Oct 23 |
@@ -113,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Workforce Excellence](https://jobright.ai/jobs/info/6ac00a7c064da25272e076a9?utm_campaign=1054&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 22 |
 | **[Securitas Security Services USA, Inc.](http://www.securitasinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99be1c551435518ebf0bcd?utm_campaign=1054&utm_source=git)** | Dublin, OH, United States | On Site | Oct 22 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship - Logan](https://jobright.ai/jobs/info/6ada63b103d2da75289149c5?utm_campaign=1054&utm_source=git)** | Logan, UT, United States | On Site | Oct 22 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16842ef23570cae243abb?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 22 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1633a2f936e4a53dab783?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 22 |
 | **[Synergos](http://www.synergos.org)** | **[Human Resources and Operations Intern](https://jobright.ai/jobs/info/6adafbe19e3e874dbfb9d681?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Oct 22 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / George Washington University](https://jobright.ai/jobs/info/6adacd2ff6e3ea8282428135?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Oct 22 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/6aa0acb1a2266b538d231ceb?utm_campaign=1054&utm_source=git)** | Westchester, IL, United States | Hybrid | Oct 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6a34c6751232144fb15613b1?utm_campaign=1054&utm_source=git)** | Glendale, AZ, United States | On Site | Oct 22 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Wilson Packaging Site Summer Internship](https://jobright.ai/jobs/info/6aa1aa61ef23570cae24580d?utm_campaign=1054&utm_source=git)** | Wilson, NC, United States | On Site | Oct 22 |
 | **[Timmons Group](http://www.timmons.com/)** | **[Internship - Summer 2027](https://jobright.ai/jobs/info/6aabe5642e757fcb5c8b2a53?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Oct 22 |
-| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - Learning & Development](https://jobright.ai/jobs/info/6aa03fe55b2d5633ef3bd663?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Oct 22 |
-| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[College Recruitment Internship CO-OP Opportunities (2027)](https://jobright.ai/jobs/info/6abd0711064da25272dfb0bf?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
