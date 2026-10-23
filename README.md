@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Supply Chain Management Summer Intern - US Based](https://jobright.ai/jobs/info/6aa3ce794238ea18d430e6e8?utm_campaign=1054&utm_source=git)** | West Point, Pennsylvania, United States | Hybrid | Oct 23 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6abe6bf6372c01f6cd723576?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6ad26ab083ada13a9da05b0a?utm_campaign=1054&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Oct 23 |
 | **[Lennox](http://www.lennox.com)** | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/6a9724bd455eaf6a08c1aec7?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Oct 23 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Summer 2027 - Human Resources Intern](https://jobright.ai/jobs/info/6a98866411f73b6462c8f17d?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | On Site | Oct 23 |
 | ↳ | **[University - Summer 2027 - Human Resources Intern](https://jobright.ai/jobs/info/6aa38a21c5a856ac7e339e90?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | On Site | Oct 23 |
-| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6aa5e76a930bff471a2a04f6?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 23 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Human Resources Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6ad9297967bec1d0d9c84038?utm_campaign=1054&utm_source=git)** | Litchfield, MN, United States | On Site | Oct 23 |
 | **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Finance And Accounting Intern](https://jobright.ai/jobs/info/6adb20949e3e874dbfb9e6ba?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 23 |
@@ -80,9 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Southwire Company](http://southwire.com)** | **[Safety Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6adab0334c3adc437cecf315?utm_campaign=1054&utm_source=git)** | Carrollton, GA, United States | On Site | Oct 22 |
 | ↳ | **[Human Resources Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6adaaf9f54bbabbab07186fe?utm_campaign=1054&utm_source=git)** | Bremen, IN, United States | On Site | Oct 22 |
 | **[Withum](http://www.withum.com)** | **[Talent Spring Internship 2027](https://jobright.ai/jobs/info/6ada81d53a69033df225a026?utm_campaign=1054&utm_source=git)** | East Brunswick, NJ, United States | On Site | Oct 22 |
-| **[Insperity](http://www.insperity.com)** | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6ada71c2e4b94611ab85c7bf?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, United States | On Site | Oct 22 |
+| **[Insperity](http://www.insperity.com)** | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6ada71bce4b94611ab85c7b6?utm_campaign=1054&utm_source=git)** | Kingwood, TX, United States | On Site | Oct 22 |
+| ↳ | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6ada71c2e4b94611ab85c7bf?utm_campaign=1054&utm_source=git)** | Kennesaw, GA, United States | On Site | Oct 22 |
 | ↳ | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6ada71b954bbabbab07161aa?utm_campaign=1054&utm_source=git)** | Florham Park, NJ, United States | On Site | Oct 22 |
-| ↳ | **[Rotational Human Resources Intern](https://jobright.ai/jobs/info/6ada71bce4b94611ab85c7b6?utm_campaign=1054&utm_source=git)** | Kingwood, TX, United States | On Site | Oct 22 |
 | **[Impact Rentals](https://www.RentImpact.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ad13ebca4f99fef81943028?utm_campaign=1054&utm_source=git)** | Buford, GA, United States | On Site | Oct 22 |
 | **[Select Home Health and Hospice](https://www.selecthhs.com/skilled-care)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adaa49c03d2da752891731b?utm_campaign=1054&utm_source=git)** | Carmel, IN, United States | On Site | Oct 22 |
 | **[Corbin Advisors](https://corbinadvisors.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adb0229cb58d64fcd3723ce?utm_campaign=1054&utm_source=git)** | Farmington, CT, United States | Hybrid | Oct 22 |
@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[AgeRight](https://www.agerightcaremanagement.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7e36f67bec1d0d9c7a263?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Oct 22 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[HR Safety and Health Intern](https://jobright.ai/jobs/info/6ada0aaf4c3adc437cec8f0f?utm_campaign=1054&utm_source=git)** | Denton, TX, United States | On Site | Oct 22 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Compensation and Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6ada3cb5950ef68d518554e5?utm_campaign=1054&utm_source=git)** | Reston, VA, United States | Hybrid | Oct 22 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6aa0e5c8dbc0e60e37e0fdce?utm_campaign=1054&utm_source=git)** | Bowling Green, KY, United States | On Site | Oct 22 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Retirement Services](https://jobright.ai/jobs/info/6abd18f3064da25272dfb523?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6aa0e5d9a2266b538d232884?utm_campaign=1054&utm_source=git)** | Owensboro, KY, United States | On Site | Oct 22 |
 | **[Theodore Roosevelt Medora Foundation](https://medora.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ada7e54950ef68d51858486?utm_campaign=1054&utm_source=git)** | Medora, ND, United States | On Site | Oct 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Timmons Group](http://www.timmons.com/)** | **[Internship - Summer 2027](https://jobright.ai/jobs/info/6aabe5642e757fcb5c8b2a53?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Oct 22 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - Learning & Development](https://jobright.ai/jobs/info/6aa03fe55b2d5633ef3bd663?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Oct 22 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[College Recruitment Internship CO-OP Opportunities (2027)](https://jobright.ai/jobs/info/6abd0711064da25272dfb0bf?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Oct 22 |
-| **[Honeywell Aerospace](https://www.honeywellaerospace.com/)** | **[Future HR Leaders - Summer 2027 Internship (US Person Required)](https://jobright.ai/jobs/info/6aa06a9aa2266b538d230317?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
