@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Finance Accounting Intern](https://jobright.ai/jobs/info/6adcf3a7c5c64fa3d9cb520b?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 24 |
+| **[Veltrana Group](veltranagroup.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6adcf249389e06bb41ad7c79?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | On Site | Oct 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter Internship - Birmingham, AL](https://jobright.ai/jobs/info/6ac03875064da25272e087e0?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 24 |
 | ↳ | **[Fall/Winter - Jackson, MS Intern](https://jobright.ai/jobs/info/6adcd8ab46a8cabdc1ff8597?utm_campaign=1054&utm_source=git)** | Jackson, MS, United States | On Site | Oct 24 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Financial and Accounting Intern](https://jobright.ai/jobs/info/6adcd779389e06bb41ad76c8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 24 |
@@ -127,7 +129,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern - Total Rewards - Summer 2027](https://jobright.ai/jobs/info/6acfe5f3c9f40bec907feba1?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abeaa058ff3fb9b3bc74f76?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa168280ffb3d4fea6b48db?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16842ef23570cae243abb?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
+| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1633a2f936e4a53dab783?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Disabilty Claims Toronto (Winter 2027)](https://jobright.ai/jobs/info/6abf017a4ac55253f5d63d8f?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 23 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6adbab669e3e874dbfba1257?utm_campaign=1054&utm_source=git)** | Long Island, New York, United States | Hybrid | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Strategy and Innovation)](https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111ac?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
@@ -140,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern - General (Summer 2027)](https://jobright.ai/jobs/info/6adb99d0389e06bb41ad2e34?utm_campaign=1054&utm_source=git)** | Aurora, CO, United States | On Site | Oct 23 |
 | ↳ | **[Human Resources Intern - Benefits (Summer 2027)](https://jobright.ai/jobs/info/6adba0dac5c64fa3d9cb0636?utm_campaign=1054&utm_source=git)** | Collierville, TN, United States | On Site | Oct 23 |
 | ↳ | **[Human Resources Intern - Employee Experience & Culture (Summer 2027)](https://jobright.ai/jobs/info/6adb99fa0a4cc7090f973cd5?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Oct 23 |
+| **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Human Resources Management - Spring 2027](https://jobright.ai/jobs/info/6ad8a28167bec1d0d9c7e5ac?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Oct 23 |
 | **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[Business and Operations Intern I](https://jobright.ai/jobs/info/6adb9bc8c5c64fa3d9cb04ca?utm_campaign=1054&utm_source=git)** | Macomb, MI, United States | On Site | Oct 23 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/6aa44a661d92e2d05d11436c?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 23 |
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adb97e3c5c64fa3d9cb0366?utm_campaign=1054&utm_source=git)** | Waterloo, WI, United States | On Site | Oct 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Acquisition Project Intern (Corporate Functions) - 2026 Fall](https://jobright.ai/jobs/info/6a9147a02e254e06fb9f3e88?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, HR Vendor Management Coordinator Toronto (Winter 2027)](https://jobright.ai/jobs/info/6adb84009e3e874dbfba042d?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Oct 23 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Digital HR Intern](https://jobright.ai/jobs/info/6aa3b7b5959a10d7230d37a7?utm_campaign=1054&utm_source=git)** | Westchester, IL, United States | On Site | Oct 23 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Talent Acquisition (Winter, 2027)](https://jobright.ai/jobs/info/6abec875372c01f6cd725c6f?utm_campaign=1054&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 23 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696a6bfa5fc862418539706b?utm_campaign=1054&utm_source=git)** | Troy, Michigan, US | On Site | Oct 23 |
-| **[Amazon](https://amazon.com)** | **[Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://jobright.ai/jobs/info/6a720ef5ee751e0c7934682d?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
