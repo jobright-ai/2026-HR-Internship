@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6ac9ef20cbbd4774d3ab9724?utm_campaign=1054&utm_source=git)** | Stuart, FL, United States | On Site | Oct 24 |
+| **[Bioventus](https://www.bioventus.com)** | **[DOD SkillBridge Military Intern - Human Resource Generalist](https://jobright.ai/jobs/info/6a4e317efc327f422fef20ac?utm_campaign=1054&utm_source=git)** | Durham, NC, United States | Hybrid | Oct 24 |
+| **[Trench Group](https://trench-group.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/6a91ce41c12c90443efc852b?utm_campaign=1054&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Oct 24 |
+| **[Covestro](https://www.covestro.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aa4036a422289703bd64a98?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 24 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[2027 / Americas / Dallas Metro Area / Corporate and Workplace Solutions / Summer Analyst](https://jobright.ai/jobs/info/6adc7ab09e3e874dbfba43c9?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Oct 24 |
 | **[Ambev Tech](https://ambevtech.com.br/quem-somos/)** | **[AB InBev MBA Summer 2027 Intern - PEOPLE](https://jobright.ai/jobs/info/6adc79f69e3e874dbfba43b3?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 24 |
 | **[Lockton](https://global.lockton.com)** | **[Summer 2027 IT Internship](https://jobright.ai/jobs/info/6abfc1e10e027c0f3b39dc38?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 24 |
@@ -105,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Hilti North America](https://www.hilti.com/)** | **[Human Resources Intern - People Experience - Summer 2027](https://jobright.ai/jobs/info/6acfe65712303667b98a0e29?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 23 |
 | ↳ | **[Human Resources Intern - Total Rewards - Summer 2027](https://jobright.ai/jobs/info/6acfe5f3c9f40bec907feba1?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abeaa058ff3fb9b3bc74f76?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
-| ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa168280ffb3d4fea6b48db?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
+| ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa163360ffb3d4fea6b482c?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
 | ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16842ef23570cae243abb?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Disabilty Claims Toronto (Winter 2027)](https://jobright.ai/jobs/info/6abf017a4ac55253f5d63d8f?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 23 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6adbab669e3e874dbfba1257?utm_campaign=1054&utm_source=git)** | Long Island, New York, United States | Hybrid | Oct 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Supply Chain Management Summer Intern - US Based](https://jobright.ai/jobs/info/6aa3af374233a2201a2b2e0d?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 23 |
 | ↳ | **[2027 Future Talent Program - Supply Chain Management Summer Intern - US Based](https://jobright.ai/jobs/info/6aa3ce794238ea18d430e6e8?utm_campaign=1054&utm_source=git)** | West Point, Pennsylvania, United States | Hybrid | Oct 23 |
 | **[Just for Kids](https://www.justforkidsonline.org)** | **[Human Resources - Spring Intern](https://jobright.ai/jobs/info/6adb86699e3e874dbfba0532?utm_campaign=1054&utm_source=git)** | Williamsville, NY, United States | On Site | Oct 23 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ad3277f810010ec72f5b22e?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6ad26ab083ada13a9da05b0a?utm_campaign=1054&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Oct 23 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Summer 2027 - Human Resources Intern](https://jobright.ai/jobs/info/6a98866411f73b6462c8f17d?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | On Site | Oct 23 |
-| ↳ | **[University - Summer 2027 - Human Resources Intern](https://jobright.ai/jobs/info/6aa38a21c5a856ac7e339e90?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
