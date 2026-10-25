@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Volunteers’ Coordinator Department Manager-Internship](https://jobright.ai/jobs/info/6addaef10a4cc7090f97a23c?utm_campaign=1054&utm_source=git)** | Gloucester, MA, United States | Remote | Oct 25 |
 | **[Mechronix](mechronix.net)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6add7ea39e3e874dbfba6c4d?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | Remote | Oct 24 |
 | **[Boulder Connect](https://www.linkedin.com/company/109152072)** | **[Human Resources & Talent Acquisition Intern](https://jobright.ai/jobs/info/6add4b239e3e874dbfba6604?utm_campaign=1054&utm_source=git)** | Whitehall, OH, United States | On Site | Oct 24 |
 | **[Bluegrass Stream](https://www.linkedin.com/company/109155083)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6add4a3a0a4cc7090f97960e?utm_campaign=1054&utm_source=git)** | Groveport, OH, United States | On Site | Oct 24 |
@@ -65,7 +66,10 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6adcfad89e3e874dbfba5b73?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter Internship - Anniston, AL](https://jobright.ai/jobs/info/6ac03817372c01f6cd72b571?utm_campaign=1054&utm_source=git)** | Anniston, AL, United States | On Site | Oct 24 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa4eebda77a53f5a156eaa0?utm_campaign=1054&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 24 |
-| ↳ | **[Fall/Winter Internship - Birmingham, AL](https://jobright.ai/jobs/info/6ac03875064da25272e087e0?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 24 |
+| **[McClure Engineering, Inc.](https://mcclureengineers.com)** | **[Internship](https://jobright.ai/jobs/info/6addae640a4cc7090f97a21f?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Oct 24 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6addae6c46a8cabdc1ffa22e?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 24 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6addae609e3e874dbfba717a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH, United States | On Site | Oct 24 |
+| **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter Internship - Birmingham, AL](https://jobright.ai/jobs/info/6ac03875064da25272e087e0?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 24 |
 | ↳ | **[Fall/Winter - Jackson, MS Intern](https://jobright.ai/jobs/info/6adcd8ab46a8cabdc1ff8597?utm_campaign=1054&utm_source=git)** | Jackson, MS, United States | On Site | Oct 24 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Administrative Intern - Talent Acquisition](https://jobright.ai/jobs/info/6abfd561064da25272e0611e?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 24 |
 | **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa37e935c11cce3603643bd?utm_campaign=1054&utm_source=git)** | Toledo, United States of America | On Site | Oct 24 |
@@ -136,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Hilti North America](https://www.hilti.com/)** | **[Human Resources Intern - People Experience - Summer 2027](https://jobright.ai/jobs/info/6acfe65712303667b98a0e29?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 23 |
 | ↳ | **[Human Resources Intern - Total Rewards - Summer 2027](https://jobright.ai/jobs/info/6acfe5f3c9f40bec907feba1?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abeaa058ff3fb9b3bc74f76?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
-| ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa168280ffb3d4fea6b48db?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
+| ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa163360ffb3d4fea6b482c?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
 | ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16842ef23570cae243abb?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Disabilty Claims Toronto (Winter 2027)](https://jobright.ai/jobs/info/6abf017a4ac55253f5d63d8f?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 23 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6adbab669e3e874dbfba1257?utm_campaign=1054&utm_source=git)** | Long Island, New York, United States | Hybrid | Oct 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Human Resources Management - Spring 2027](https://jobright.ai/jobs/info/6ad8a28167bec1d0d9c7e5ac?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Oct 23 |
 | **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[Business and Operations Intern I](https://jobright.ai/jobs/info/6adb9bc8c5c64fa3d9cb04ca?utm_campaign=1054&utm_source=git)** | Macomb, MI, United States | On Site | Oct 23 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/6aa44a661d92e2d05d11436c?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 23 |
-| **[Trek Bicycle](https://www.trekbikes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adb97e3c5c64fa3d9cb0366?utm_campaign=1054&utm_source=git)** | Waterloo, WI, United States | On Site | Oct 23 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/6abfe8548ff3fb9b3bc79830?utm_campaign=1054&utm_source=git)** | Mequon, WI, United States | Hybrid | Oct 23 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Human Resources (Global Compensation) Job Details / Celestica International LP](https://jobright.ai/jobs/info/6adb958246a8cabdc1ff3b3c?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 23 |
-| **[Enable Injections, Inc.](https://enableinjections.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adb91ec5dc7953215a335be?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
