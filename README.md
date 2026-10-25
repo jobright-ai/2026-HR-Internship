@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Group Benefits Transformation Intern](https://jobright.ai/jobs/info/6ade28d5389e06bb41ada1cd?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Oct 25 |
+| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6ade283d46a8cabdc1ffafe3?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 25 |
+| **[Amazon](https://amazon.com)** | **[Workplace Health and Safety Specialist Intern - Summer 2027 (Nationwide)](https://jobright.ai/jobs/info/6a88cc16cde3717f9e9b72d0?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Oct 25 |
+| **[Compassion International](http://www.compassion.com/)** | **[Spring 2027 Internship](https://jobright.ai/jobs/info/6ad4ec1bebd52f378af8eabe?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 25 |
+| **[JPI](http://jpi.com)** | **[Field Operations Intern – SkillBridge](https://jobright.ai/jobs/info/6a573229efb06a45240d984f?utm_campaign=1054&utm_source=git)** | Dallas Office, United States of America | On Site | Oct 25 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Financial Reporting Intern](https://jobright.ai/jobs/info/6ade16d19e3e874dbfba7de4?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Oct 25 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Part time Recruiting Intern Fall 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6a330626ce501060b5cebe33?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 25 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Chattanooga, TN)](https://jobright.ai/jobs/info/6a6f1e63c56c0956e8adc392?utm_campaign=1054&utm_source=git)** | Chattanooga, Tennessee, United States | Hybrid | Oct 25 |
-| **[Amazon](https://amazon.com)** | **[Workplace Health and Safety Specialist Intern - Summer 2027 (Nationwide)](https://jobright.ai/jobs/info/6a88cc16cde3717f9e9b72d0?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Oct 25 |
 | **[Zyric Grid](https://www.linkedin.com/company/88692952)** | **[Financial Reporting Intern](https://jobright.ai/jobs/info/6ade01a9389e06bb41ad9e3c?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 25 |
 | **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6ade01a8389e06bb41ad9e3b?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | Remote | Oct 25 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - Hourly Recruiting](https://jobright.ai/jobs/info/6aa41c75c1928370a285c8e2?utm_campaign=1054&utm_source=git)** | Lenoir City, TN, United States | On Site | Oct 25 |
@@ -77,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Spring 2027](https://jobright.ai/jobs/info/6ac12de4064da25272e0a436?utm_campaign=1054&utm_source=git)** | Salisbury, MD, United States | On Site | Oct 24 |
 | ↳ | **[Fall/Winter Internship - Anniston, AL](https://jobright.ai/jobs/info/6ac03817372c01f6cd72b571?utm_campaign=1054&utm_source=git)** | Anniston, AL, United States | On Site | Oct 24 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa4eebda77a53f5a156eaa0?utm_campaign=1054&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 24 |
-| **[McClure Engineering, Inc.](https://mcclureengineers.com)** | **[Internship](https://jobright.ai/jobs/info/6addae69389e06bb41ad941e?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Oct 24 |
+| **[McClure Engineering, Inc.](https://mcclureengineers.com)** | **[Internship](https://jobright.ai/jobs/info/6addae67c5c64fa3d9cb693f?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Oct 24 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6addae6c46a8cabdc1ffa22e?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 24 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6addae609e3e874dbfba717a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH, United States | On Site | Oct 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter Internship - Birmingham, AL](https://jobright.ai/jobs/info/6ac03875064da25272e087e0?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 24 |
@@ -141,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2027 Intern: Talent Acquisition](https://jobright.ai/jobs/info/6adba6de5dc7953215a33c38?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 23 |
 | **[McClure](https://mcclurevision.com)** | **[Internship](https://jobright.ai/jobs/info/6adbc6a40a4cc7090f974a68?utm_campaign=1054&utm_source=git)** | Coralville, IA, United States | On Site | Oct 23 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6adbcc2dc5c64fa3d9cb1a3c?utm_campaign=1054&utm_source=git)** | Council Bluffs, IA, United States | On Site | Oct 23 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6adbc69f0a4cc7090f974a64?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 23 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6adbcc259e3e874dbfba2301?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Oct 23 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6adbc69f0a4cc7090f974a64?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 23 |
 | **[Bemis Manufacturing Company](http://www.bemismfg.com)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6ad96f7c54bbabbab070f5b1?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI, United States | On Site | Oct 23 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adbc78f389e06bb41ad3c8a?utm_campaign=1054&utm_source=git)** | Des Moines metro, IA, United States | Hybrid | Oct 23 |
 | **[HBK](http://www.hbkcpa.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6adba90d46a8cabdc1ff4159?utm_campaign=1054&utm_source=git)** | Melville, NY, United States | On Site | Oct 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern - Total Rewards - Summer 2027](https://jobright.ai/jobs/info/6acfe5f3c9f40bec907feba1?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abeaa058ff3fb9b3bc74f76?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa168280ffb3d4fea6b48db?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1633a2f936e4a53dab783?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Disabilty Claims Toronto (Winter 2027)](https://jobright.ai/jobs/info/6abf017a4ac55253f5d63d8f?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 23 |
-| **[Doherty Enterprises](http://dohertyinc.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6adbab669e3e874dbfba1257?utm_campaign=1054&utm_source=git)** | Long Island, New York, United States | Hybrid | Oct 23 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Strategy and Innovation)](https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111ac?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
