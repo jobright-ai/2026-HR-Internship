@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TTM Technologies](https://www.ttm.com)** | **[Human Resource Intern - Part-Time 2026-2027](https://jobright.ai/jobs/info/6aa459f31d92e2d05d11476d?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 25 |
+| **[Enable Injections, Inc.](https://enableinjections.com)** | **[Human Resources Intern Job Details / Enable Injections Inc.](https://jobright.ai/jobs/info/6addc38b0a4cc7090f97a364?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 25 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance Intern](https://jobright.ai/jobs/info/6addb9f20a4cc7090f97a2eb?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Remote | Oct 25 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Volunteers’ Coordinator Department Manager-Internship](https://jobright.ai/jobs/info/6addaef10a4cc7090f97a23c?utm_campaign=1054&utm_source=git)** | Gloucester, MA, United States | Remote | Oct 25 |
-| **[Mechronix](mechronix.net)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6add7ea39e3e874dbfba6c4d?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | Remote | Oct 24 |
 | **[Boulder Connect](https://www.linkedin.com/company/109152072)** | **[Human Resources & Talent Acquisition Intern](https://jobright.ai/jobs/info/6add4b239e3e874dbfba6604?utm_campaign=1054&utm_source=git)** | Whitehall, OH, United States | On Site | Oct 24 |
 | **[Bluegrass Stream](https://www.linkedin.com/company/109155083)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6add4a3a0a4cc7090f97960e?utm_campaign=1054&utm_source=git)** | Groveport, OH, United States | On Site | Oct 24 |
 | **[WEARSHIKA](www.wearshika.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6add1c035dc7953215a38c4e?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Remote | Oct 24 |
 | **[The Animal Cause, Inc.](https://www.animalcause.org)** | **[Volunteer Recruiting Intern — Recruiting & Volunteer Operations Team](https://jobright.ai/jobs/info/6add03a25dc7953215a38811?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 24 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6adcfad89e3e874dbfba5b73?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter Internship - Anniston, AL](https://jobright.ai/jobs/info/6ac03817372c01f6cd72b571?utm_campaign=1054&utm_source=git)** | Anniston, AL, United States | On Site | Oct 24 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Spring 2027](https://jobright.ai/jobs/info/6ac12de4064da25272e0a436?utm_campaign=1054&utm_source=git)** | Salisbury, MD, United States | On Site | Oct 24 |
+| ↳ | **[Fall/Winter Internship - Anniston, AL](https://jobright.ai/jobs/info/6ac03817372c01f6cd72b571?utm_campaign=1054&utm_source=git)** | Anniston, AL, United States | On Site | Oct 24 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa4eebda77a53f5a156eaa0?utm_campaign=1054&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 24 |
 | **[McClure Engineering, Inc.](https://mcclureengineers.com)** | **[Internship](https://jobright.ai/jobs/info/6addae640a4cc7090f97a21f?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Oct 24 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6addae6c46a8cabdc1ffa22e?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 24 |
@@ -129,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2027 Intern: Talent Acquisition](https://jobright.ai/jobs/info/6adba6de5dc7953215a33c38?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 23 |
 | **[McClure](https://mcclurevision.com)** | **[Internship](https://jobright.ai/jobs/info/6adbc6a40a4cc7090f974a68?utm_campaign=1054&utm_source=git)** | Coralville, IA, United States | On Site | Oct 23 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6adbcc2dc5c64fa3d9cb1a3c?utm_campaign=1054&utm_source=git)** | Council Bluffs, IA, United States | On Site | Oct 23 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6adbcc259e3e874dbfba2301?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Oct 23 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6adbc69f0a4cc7090f974a64?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 23 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6adbcc259e3e874dbfba2301?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Oct 23 |
 | **[Bemis Manufacturing Company](http://www.bemismfg.com)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6ad96f7c54bbabbab070f5b1?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI, United States | On Site | Oct 23 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adbc78f389e06bb41ad3c8a?utm_campaign=1054&utm_source=git)** | Des Moines metro, IA, United States | Hybrid | Oct 23 |
 | **[HBK](http://www.hbkcpa.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6adba90d46a8cabdc1ff4159?utm_campaign=1054&utm_source=git)** | Melville, NY, United States | On Site | Oct 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern - General (Summer 2027)](https://jobright.ai/jobs/info/6adb99d0389e06bb41ad2e34?utm_campaign=1054&utm_source=git)** | Aurora, CO, United States | On Site | Oct 23 |
 | ↳ | **[Human Resources Intern - Benefits (Summer 2027)](https://jobright.ai/jobs/info/6adba0dac5c64fa3d9cb0636?utm_campaign=1054&utm_source=git)** | Collierville, TN, United States | On Site | Oct 23 |
 | ↳ | **[Human Resources Intern - Employee Experience & Culture (Summer 2027)](https://jobright.ai/jobs/info/6adb99fa0a4cc7090f973cd5?utm_campaign=1054&utm_source=git)** | Plano, TX, United States | On Site | Oct 23 |
-| **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Human Resources Management - Spring 2027](https://jobright.ai/jobs/info/6ad8a28167bec1d0d9c7e5ac?utm_campaign=1054&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Oct 23 |
-| **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[Business and Operations Intern I](https://jobright.ai/jobs/info/6adb9bc8c5c64fa3d9cb04ca?utm_campaign=1054&utm_source=git)** | Macomb, MI, United States | On Site | Oct 23 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/6aa44a661d92e2d05d11436c?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
