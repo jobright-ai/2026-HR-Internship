@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Financial Reporting Intern](https://jobright.ai/jobs/info/6adebfbbc5c64fa3d9cb8ce3?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | Remote | Oct 25 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a57a9eef7517b519ad5bb0c?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Oct 25 |
 | **[TSP Talent](https://www.linkedin.com/company/109390681)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adea13a0a4cc7090f97c287?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 25 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[HR Intern - January 2027 (4-Month Term)](https://jobright.ai/jobs/info/6ad29f7725289a0b3bf57f31?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 25 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Volunteers’ Coordinator Department Manager-Internship](https://jobright.ai/jobs/info/6addaef10a4cc7090f97a23c?utm_campaign=1054&utm_source=git)** | Gloucester, MA, United States | Remote | Oct 25 |
 | **[Boulder Connect](https://www.linkedin.com/company/109152072)** | **[Human Resources & Talent Acquisition Intern](https://jobright.ai/jobs/info/6add4b239e3e874dbfba6604?utm_campaign=1054&utm_source=git)** | Whitehall, OH, United States | On Site | Oct 24 |
 | **[Bluegrass Stream](https://www.linkedin.com/company/109155083)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6add4a3a0a4cc7090f97960e?utm_campaign=1054&utm_source=git)** | Groveport, OH, United States | On Site | Oct 24 |
-| **[The Animal Cause, Inc.](https://www.animalcause.org)** | **[Volunteer Recruiting Intern — Recruiting & Volunteer Operations Team](https://jobright.ai/jobs/info/6add03a25dc7953215a38811?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 24 |
+| **[ITW](http://www.itw.com/)** | **[Summer 2027 Human Resources Intern](https://jobright.ai/jobs/info/6adec3179a8c91d5c358299b?utm_campaign=1054&utm_source=git)** | Glenview, IL, United States | On Site | Oct 24 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2027 (Multiple Locations)](https://jobright.ai/jobs/info/6aa509f6930bff471a29cbbd?utm_campaign=1054&utm_source=git)** | Los Lunas, NM, United States | On Site | Oct 24 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6adcfad89e3e874dbfba5b73?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Oct 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter - Tupelo, MS Intern](https://jobright.ai/jobs/info/6abfe9f5d9621c5b2839535a?utm_campaign=1054&utm_source=git)** | Tupelo, MS, United States | On Site | Oct 24 |
@@ -84,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2027 (Multiple Locations)](https://jobright.ai/jobs/info/6aa4f981654b2a9424cf2096?utm_campaign=1054&utm_source=git)** | Eagle Mountain, UT, United States | On Site | Oct 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter Internship - Anniston, AL](https://jobright.ai/jobs/info/6ac03817372c01f6cd72b571?utm_campaign=1054&utm_source=git)** | Anniston, AL, United States | On Site | Oct 24 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa4eebda77a53f5a156eaa0?utm_campaign=1054&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 24 |
-| **[McClure Engineering, Inc.](https://mcclureengineers.com)** | **[Internship](https://jobright.ai/jobs/info/6addae63c5c64fa3d9cb693e?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Oct 24 |
+| **[McClure Engineering, Inc.](https://mcclureengineers.com)** | **[Internship](https://jobright.ai/jobs/info/6addae640a4cc7090f97a21f?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Oct 24 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6addae6c46a8cabdc1ffa22e?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 24 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6addae609e3e874dbfba717a?utm_campaign=1054&utm_source=git)** | Portsmouth, NH, United States | On Site | Oct 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter Internship - Birmingham, AL](https://jobright.ai/jobs/info/6ac03875064da25272e087e0?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 24 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2027 Intern: Talent Acquisition](https://jobright.ai/jobs/info/6adba6de5dc7953215a33c38?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 23 |
 | **[McClure](https://mcclurevision.com)** | **[Internship](https://jobright.ai/jobs/info/6adbc6a40a4cc7090f974a68?utm_campaign=1054&utm_source=git)** | Coralville, IA, United States | On Site | Oct 23 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6adbcc2dc5c64fa3d9cb1a3c?utm_campaign=1054&utm_source=git)** | Council Bluffs, IA, United States | On Site | Oct 23 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6adbc69f0a4cc7090f974a64?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 23 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6adbcc259e3e874dbfba2301?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Oct 23 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6adbc69f0a4cc7090f974a64?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 23 |
 | **[Bemis Manufacturing Company](http://www.bemismfg.com)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/6ad96f7c54bbabbab070f5b1?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI, United States | On Site | Oct 23 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adbc78f389e06bb41ad3c8a?utm_campaign=1054&utm_source=git)** | Des Moines metro, IA, United States | Hybrid | Oct 23 |
 | **[HBK](http://www.hbkcpa.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6adba90d46a8cabdc1ff4159?utm_campaign=1054&utm_source=git)** | Melville, NY, United States | On Site | Oct 23 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Staffing Coordinator - Intern (Unpaid)](https://jobright.ai/jobs/info/6a5c02c463a8f619507cc713?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Oct 23 |
 | **[Economy Cash and Carry, Inc.](https://economywholesalegrocers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adbc7b70a4cc7090f974b17?utm_campaign=1054&utm_source=git)** | El Paso, TX, United States | On Site | Oct 23 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Employee Support Intern](https://jobright.ai/jobs/info/6adbc38cc5c64fa3d9cb10ba?utm_campaign=1054&utm_source=git)** | Hershey, PA, United States | On Site | Oct 23 |
-| **[Hilti North America](https://www.hilti.com/)** | **[Human Resources Intern - People Experience - Summer 2027](https://jobright.ai/jobs/info/6acfe65712303667b98a0e29?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
