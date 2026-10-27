@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WTW](https://www.wtwco.com)** | **[Early Careers: Health and Benefits Internship - Southeast - Summer 2027](https://jobright.ai/jobs/info/6ac43a918ff3fb9b3bc84fd1?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 27 |
+| ↳ | **[Early Careers: Health and Benefits Internship - Boston - Summer 2027](https://jobright.ai/jobs/info/6ac4403e372c01f6cd734fa3?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 27 |
 | **[Flowserve Corporation](http://www.flowserve.com)** | **[Total Rewards Internship - Summer Internship](https://jobright.ai/jobs/info/6adfb2ba9e3e874dbfbaf329?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Oct 26 |
 | **[Conversations to Remember](https://conversationstoremember.org)** | **[Intern - Volunteer Recruiter for Public Health Program](https://jobright.ai/jobs/info/6ae041d5065c4e77efafeca5?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[HR Safety and Health Intern](https://jobright.ai/jobs/info/6ada0aaf4c3adc437cec8f0f?utm_campaign=1054&utm_source=git)** | Denton, TX, United States | On Site | Oct 26 |
@@ -89,10 +91,10 @@ For a complete list, click the following sortable link below:
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)-North](https://jobright.ai/jobs/info/6acfa9f312303667b989f843?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Oct 26 |
 | **[ICD Portal](http://icdportal.com)** | **[Summer 2027 Human Resources Data & Analytics Internship](https://jobright.ai/jobs/info/6adf8f04c5c64fa3d9cbcebc?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
 | **[EverBank](https://www.everbank.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6adf96e55dc7953215a40921?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 26 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Oct 26 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29538c4290cef1412bbb8?utm_campaign=1054&utm_source=git)** | Greer, SC, United States | On Site | Oct 26 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29539c4290cef1412bbbc?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Oct 26 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Oct 26 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29539c4290cef1412bbbc?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Oct 26 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Oct 26 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29538c4290cef1412bbb8?utm_campaign=1054&utm_source=git)** | Greer, SC, United States | On Site | Oct 26 |
 | **[StandardAero](http://www.standardaero.com)** | **[HR AI & Process Innovation Intern](https://jobright.ai/jobs/info/6adf90ef9e3e874dbfbada44?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ, United States | On Site | Oct 26 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Intern - Compensation](https://jobright.ai/jobs/info/6adfc011065c4e77efafb2a5?utm_campaign=1054&utm_source=git)** | Hyattsville, MD, United States | On Site | Oct 26 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Labor and Investigations HR Internship](https://jobright.ai/jobs/info/6adfc68e5dc7953215a42c64?utm_campaign=1054&utm_source=git)** | Olympia, WA, United States | Hybrid | Oct 26 |
@@ -123,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Select Management Group](http://select.co)** | **[Talent Management & Entertainment Internship - Winter 2027 (Toronto)](https://jobright.ai/jobs/info/6adf82730a4cc7090f97fd2c?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 26 |
 | **[McLane Company, Inc.](https://www.mclaneco.com/)** | **[Corporate HR Intern I (Summer 2027)](https://jobright.ai/jobs/info/6adf75035dc7953215a3f05e?utm_campaign=1054&utm_source=git)** | Temple, TX, United States | On Site | Oct 26 |
 | **[UPS](http://www.ups.com)** | **[MHR Intern - Labor Relations](https://jobright.ai/jobs/info/6ad293065290d4375c453cc9?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 26 |
-| ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/6a5238bf8a74e077472f39ca?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 26 |
 | ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | Remote | Oct 26 |
+| ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/6a5238bf8a74e077472f39ca?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 26 |
 | **[Securitas Security Services USA, Inc.](http://www.securitasinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99be1c551435518ebf0bcd?utm_campaign=1054&utm_source=git)** | Dublin, OH, United States | On Site | Oct 26 |
 | **[Indiana Regional Medical Center](http://www.irmc.org)** | **[Human Resources Student Intern - Casual](https://jobright.ai/jobs/info/6adf7cac9e3e874dbfbaca78?utm_campaign=1054&utm_source=git)** | Indiana, Pennsylvania, United States | On Site | Oct 26 |
 | **[ICD Portal](http://icdportal.com)** | **[Summer 2027 Human Resources Internship](https://jobright.ai/jobs/info/6adf77e4065c4e77efaf7c2d?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Human Resources Intern, Chartwells Higher Ed / George Washington University Job Details / Compass Group](https://jobright.ai/jobs/info/6adf4e9b9e3e874dbfbab220?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Oct 26 |
 | **[Select Management Group](http://select.co)** | **[Talent Management & Entertainment Internship - Winter 2027 (LA/NYC)](https://jobright.ai/jobs/info/6ae052470a4cc7090f986c03?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 26 |
 | **[SEPHORA](https://www.sephora.com)** | **[Intern, Social Impact](https://jobright.ai/jobs/info/6aded2de9e3e874dbfba9946?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 26 |
-| **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern Job Details / PCL Construction](https://jobright.ai/jobs/info/6ab4055fd2f5fbd604be0fa3?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 26 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab404d70e0ae54eeea46067?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 26 |
+| **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab404d70e0ae54eeea46067?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 26 |
+| ↳ | **[Human Resources Intern Job Details / PCL Construction](https://jobright.ai/jobs/info/6ab4055fd2f5fbd604be0fa3?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 26 |
 | **[Veeam Software](http://www.veeam.com)** | **[Talent Growth and Inclusion Intern- Summer 2027](https://jobright.ai/jobs/info/6aa493948275e3a211760df9?utm_campaign=1054&utm_source=git)** | Washington, United States | Remote | Oct 26 |
 | ↳ | **[Talent Growth and Inclusion Intern- Summer 2027](https://jobright.ai/jobs/info/6aa47110c1928370a285df69?utm_campaign=1054&utm_source=git)** | Washington, United States | Remote | Oct 26 |
 | **[ITW](http://www.itw.com/)** | **[Summer 2027 Human Resources Internship](https://jobright.ai/jobs/info/6ab45db2d2f5fbd604be3451?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN, United States | On Site | Oct 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[HR Intern - January 2027 (4-Month Term)](https://jobright.ai/jobs/info/6ad29f7725289a0b3bf57f31?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa44b6af7baf881567ce31c?utm_campaign=1054&utm_source=git)** | Lafayette, IN, United States | On Site | Oct 25 |
 | **[Thrivent](https://www.thrivent.com)** | **[Recruiting Specialist Intern - Summer 2027](https://jobright.ai/jobs/info/6abc1f18a9a644f96568a569?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | Remote | Oct 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa4af951d92e2d05d115c0b?utm_campaign=1054&utm_source=git)** | Bloomington, IN, United States | On Site | Oct 25 |
-| **[Compassion International](http://www.compassion.com/)** | **[Spring 2027 Internship](https://jobright.ai/jobs/info/6ad4ec1bebd52f378af8eabe?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
