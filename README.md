@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koch](https://www.kochinc.com)** | **[Molex 2027 Summer Intern- Digital Interns](https://jobright.ai/jobs/info/6aa873623a9f0a4fe6f19631?utm_campaign=1054&utm_source=git)** | Lisle, IL, United States | On Site | Oct 28 |
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae2d7e01c3cd4b406087b9c?utm_campaign=1054&utm_source=git)** | Lisle, IL, United States | On Site | Oct 28 |
 | **[Accelevation](https://www.accelevation.com/)** | **[People Operations Intern - Summer 2027](https://jobright.ai/jobs/info/6a988ba0af954907d6573fc2?utm_campaign=1054&utm_source=git)** | Miamisburg, OH, United States | On Site | Oct 28 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a585cf272fe7a7b98dcddb2?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Remote | Oct 28 |
@@ -96,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Piper Sandler](https://pipersandler.com)** | **[2027 Campus Recruiting - Investment Banking Summer Associate - Houston](https://jobright.ai/jobs/info/6a8bdf404afae74a08351a5e?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 28 |
 | **[Fiskars Group](https://www.fiskars.dk)** | **[HR Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae20157de23f466ec8c1920?utm_campaign=1054&utm_source=git)** | Middleton, WI, United States | Hybrid | Oct 28 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[Community Resources for Stability - Intern](https://jobright.ai/jobs/info/6ae237291f9d9308370afa35?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
-| **[Avient Corporation](https://www.avient.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6a8c9670d34f700f87fd17d4?utm_campaign=1054&utm_source=git)** | Avon Lake, OH, United States | On Site | Oct 28 |
+| **[Avient Corporation](https://www.avient.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6a8c95282f736c304f2a6ad3?utm_campaign=1054&utm_source=git)** | Avon Lake, OH, United States | On Site | Oct 28 |
 | **[Broan-NuTone](http://www.Broan-NuTone.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aaab34740807b73bd39147c?utm_campaign=1054&utm_source=git)** | Hartford, Wisconsin, United States | Hybrid | Oct 28 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8d61df581f2d7bfdfe735d?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Oct 28 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[2027 Summer Internship](https://jobright.ai/jobs/info/6a725b9271acd469eeda7aa5?utm_campaign=1054&utm_source=git)** | Taylor, TX, United States | On Site | Oct 28 |
@@ -128,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Wolverine Construction](http://wolvgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ace3a4d4391691a335ab4f8?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 28 |
 | **[Wyffels Hybrids](http://wyffels.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a97c751408304609c16e236?utm_campaign=1054&utm_source=git)** | Geneseo, IL 61254, United States | On Site | Oct 28 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Summer Nuclear Human Resources Operations Intern (Oswego, NY)](https://jobright.ai/jobs/info/6aa8239a3a9f0a4fe6f17764?utm_campaign=1054&utm_source=git)** | Oswego, NY, United States | On Site | Oct 28 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2027 Underwriting and Risk Summer Internship Program](https://jobright.ai/jobs/info/6aa80b013a9f0a4fe6f16d65?utm_campaign=1054&utm_source=git)** | Pontiac, MI, United States | On Site | Oct 28 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2027 Underwriting and Risk Summer Internship Program](https://jobright.ai/jobs/info/6aa8077ba77a53f5a1576d29?utm_campaign=1054&utm_source=git)** | Pontiac, MI, United States | On Site | Oct 28 |
 | ↳ | **[2027 Human Resources Summer Internship Program](https://jobright.ai/jobs/info/6aa802cb3a9f0a4fe6f16994?utm_campaign=1054&utm_source=git)** | Pontiac, MI, United States | On Site | Oct 28 |
 | **[AngloGold Ashanti North America](https://www.anglogoldashanti.com/portfolio/americas/united-states-projects/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac528514ac55253f5d74dd7?utm_campaign=1054&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Oct 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Winter 2026 Internship](https://jobright.ai/jobs/info/6ac5cfc1d9621c5b283a6f2a?utm_campaign=1054&utm_source=git)** | Oakland, CA, United States | On Site | Oct 28 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Oct 28 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6a8c72e525fc4e7ae3db84e2?utm_campaign=1054&utm_source=git)** | Neenah, WI, United States | Hybrid | Oct 28 |
 | **[Badger Meter](http://badgermeter.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/6ac5445d0e027c0f3b3addb6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 28 |
-| **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ac595488ff3fb9b3bc8a57e?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Oct 28 |
-| ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e1c4d356304a0268854f?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Oct 28 |
-| ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e0ab72b96b1c436f1908?utm_campaign=1054&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 28 |
+| **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e1c4d356304a0268854f?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Oct 28 |
+| ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ac595488ff3fb9b3bc8a57e?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
