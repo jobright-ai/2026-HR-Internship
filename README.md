@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program – Summer 2027](https://jobright.ai/jobs/info/6a709fbb357dfc6ff2b39dcf?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Oct 29 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2027 Intern-Labor Relations](https://jobright.ai/jobs/info/6ac673570e027c0f3b3b26b5?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 29 |
 | **[Koch](https://www.kochinc.com)** | **[Molex 2027 Summer Intern- Digital Interns](https://jobright.ai/jobs/info/6aa873623a9f0a4fe6f19631?utm_campaign=1054&utm_source=git)** | Lisle, IL, United States | On Site | Oct 28 |
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae2d7e01c3cd4b406087b9c?utm_campaign=1054&utm_source=git)** | Lisle, IL, United States | On Site | Oct 28 |
 | **[Athena](https://athenapsych.com)** | **[Talent Acquisition Intern (Unpaid)](https://jobright.ai/jobs/info/6ad782c954bbabbab06ff207?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 28 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Molex](http://www.molex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae28c961f9d9308370b2e83?utm_campaign=1054&utm_source=git)** | Lisle, IL, United States | On Site | Oct 28 |
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2027 Intern: Global Onboarding Intern](https://jobright.ai/jobs/info/6ae26be8eb7e8f715a60deb6?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 28 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d3c70bcdb525785fbc21b0?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | Remote | Oct 28 |
-| ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/6a5238bf8a74e077472f39ca?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 28 |
 | ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d45dc2e63cea7a8b6591c4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6ae27c386679108488c4beb5?utm_campaign=1054&utm_source=git)** | Richland, MI, United States | On Site | Oct 28 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2027 Recruiting Intern](https://jobright.ai/jobs/info/6ae23b8e1f9d9308370afc47?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Human Resources](https://jobright.ai/jobs/info/6a8ccb42d34f700f87fd2b4b?utm_campaign=1054&utm_source=git)** | Kohler, WI, United States | Hybrid | Oct 28 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Oct 28 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6a8c72e525fc4e7ae3db84e2?utm_campaign=1054&utm_source=git)** | Neenah, WI, United States | Hybrid | Oct 28 |
-| **[Badger Meter](http://badgermeter.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/6ac5445d0e027c0f3b3addb6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
