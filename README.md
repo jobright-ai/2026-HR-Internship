@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6ae40705fb2cd420ace55ef6?utm_campaign=1054&utm_source=git)** | Goodhue, MN, United States | On Site | Oct 29 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA or Baton Rouge, LA](https://jobright.ai/jobs/info/6a50ea3a02522b5b722e5dc6?utm_campaign=1054&utm_source=git)** | Metairie, LA, United States | On Site | Oct 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Leave of Absence (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ae3f4b577c09cb3bd4aa602?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Oct 29 |
 | **[Ulteig](http://ulteig.com)** | **[Summer 2027 Talent Management Intern](https://jobright.ai/jobs/info/6ae3c19aeab1f96730976f0b?utm_campaign=1054&utm_source=git)** | St. Louis Park, MN, United States | On Site | Oct 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Accomodations (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ae3eafec3139b475b5b1341?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Oct 29 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Axiom Space](http://www.axiomspace.com)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae3b09377c09cb3bd4a8301?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 29 |
 | **[World Relief](https://worldrelief.org/)** | **[Integration Support Intern, Dari/Pashto speaking- 2025852](https://jobright.ai/jobs/info/6a9070b5d96ad228f126146c?utm_campaign=1054&utm_source=git)** | Sacramento, CA, United States | Hybrid | Oct 29 |
 | **[EverBank](https://www.everbank.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6ae3a743eab1f96730975f39?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 29 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Oct 29 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29537f04335fc70ed652a?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Oct 29 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29539c4290cef1412bbbc?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Oct 29 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Oct 29 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29538c4290cef1412bbb8?utm_campaign=1054&utm_source=git)** | Greer, SC, United States | On Site | Oct 29 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Oct 29 |
 | ↳ | **[Property & Casualty and Benefits Intern](https://jobright.ai/jobs/info/6ad238a9810010ec72f561ab?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Oct 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ae2cc38d52406f6fbf73948?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 28 |
 | **[Motorola Mobility (a Lenovo Company)](http://www.motorola.com/)** | **[HR Operations Intern - Spring 2027](https://jobright.ai/jobs/info/6ae2b70ade23f466ec8c86c2?utm_campaign=1054&utm_source=git)** | Morrisville, NC, United States | On Site | Oct 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aa87f99a77a53f5a1579d36?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 28 |
-| **[United Launch Alliance (ULA)](http://www.ulalaunch.com)** | **[Human Resources Internship - Summer 2027 Job Details / United Launch Alliance](https://jobright.ai/jobs/info/6ae29d1b1f9d9308370b3629?utm_campaign=1054&utm_source=git)** | Centennial, CO, United States | On Site | Oct 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Milwaukee](https://jobright.ai/jobs/info/6aa9d21b3387a3d9b67d72fe?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
