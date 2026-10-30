@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6a8f85a42e254e06fb9ed986?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 30 |
-| ↳ | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6ab3c6170e0ae54eeea44b2c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
+| **[AlixPartners](http://www.alixpartners.com)** | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/6ac79eb70e573df8adc733b2?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
+| **[Bank of China USA](https://www.bocusa.com)** | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
+| **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Talent Acquisition Intern Summer 2027](https://jobright.ai/jobs/info/6ad5c1f4950ef68d51830c86?utm_campaign=1054&utm_source=git)** | New Albany, OH, United States | On Site | Oct 30 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6ab3c6170e0ae54eeea44b2c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
+| ↳ | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6a8f85a42e254e06fb9ed986?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 30 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Intern Talent Recruitment](https://jobright.ai/jobs/info/6ad0444252a37835d5e3f7cb?utm_campaign=1054&utm_source=git)** | Dearborn, MI, United States | On Site | Oct 30 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Start](https://jobright.ai/jobs/info/6a8f85c47c32860d14cf6128?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Oct 30 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6ade6e6c389e06bb41adacdf?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Oct 30 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 30 |
-| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 30 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 30 |
+| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 30 |
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2027 Intern: Global Onboarding Intern](https://jobright.ai/jobs/info/6ae26be8eb7e8f715a60deb6?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 30 |
 | **[AMETEK](http://www.ametek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac7e28944d6e65604a04eda?utm_campaign=1054&utm_source=git)** | Whitsett, NC, United States | On Site | Oct 30 |
 | **[Lockton](https://global.lockton.com)** | **[Summer 2027 Global Solutions Internship](https://jobright.ai/jobs/info/6aaae28640807b73bd3928f5?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 30 |
@@ -89,12 +93,12 @@ For a complete list, click the following sortable link below:
 | **[Axiom Space](http://www.axiomspace.com)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae3b09377c09cb3bd4a8301?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 29 |
 | **[World Relief](https://worldrelief.org/)** | **[Integration Support Intern, Dari/Pashto speaking- 2025852](https://jobright.ai/jobs/info/6a9070b5d96ad228f126146c?utm_campaign=1054&utm_source=git)** | Sacramento, CA, United States | Hybrid | Oct 29 |
 | **[EverBank](https://www.everbank.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6ae3a743eab1f96730975f39?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 29 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Oct 29 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29537f04335fc70ed652a?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Oct 29 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Oct 29 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Oct 29 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29539c4290cef1412bbbc?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Oct 29 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29538c4290cef1412bbb8?utm_campaign=1054&utm_source=git)** | Greer, SC, United States | On Site | Oct 29 |
-| ↳ | **[Benefits Analytics Intern](https://jobright.ai/jobs/info/6ad238c725289a0b3bf54dc4?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD, United States | On Site | Oct 29 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Oct 29 |
 | ↳ | **[Property & Casualty and Benefits Intern](https://jobright.ai/jobs/info/6ad238a9810010ec72f561ab?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Oct 29 |
+| ↳ | **[Benefits Analytics Intern](https://jobright.ai/jobs/info/6ad238c725289a0b3bf54dc4?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD, United States | On Site | Oct 29 |
 | ↳ | **[Property & Casualty and Benefits Intern](https://jobright.ai/jobs/info/6ad2954c810010ec72f58d97?utm_campaign=1054&utm_source=git)** | Irmo, SC, United States | On Site | Oct 29 |
 | **[Regeneron](http://www.regeneron.com)** | **[2027 Summer Intern People, Communications, Change & Learning](https://jobright.ai/jobs/info/6ae37ca6fb2cd420ace515bc?utm_campaign=1054&utm_source=git)** | Sleepy Hollow, NY, United States | Remote | Oct 29 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Communications - Intern](https://jobright.ai/jobs/info/6ac6774f8ff3fb9b3bc8d40c?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern: Human Resources](https://jobright.ai/jobs/info/6ae2c89da33a3dfa73593146?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6a8cf1231d96e6541c8c39c5?utm_campaign=1054&utm_source=git)** | Findlay, OH, United States | On Site | Oct 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Human Resources Intern (Global Business Solutions) - 2027 Summer](https://jobright.ai/jobs/info/6abe19ab4ac55253f5d5f861?utm_campaign=1054&utm_source=git)** | New York | On Site | Oct 29 |
-| **[Grainger](https://www.grainger.com)** | **[Human Resources Internship (Summer 2027) Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6ab63454c6fe0dec811a45fc?utm_campaign=1054&utm_source=git)** | Lake Forest, IL, United States | Hybrid | Oct 29 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Human Resources Internship - Summer 2027](https://jobright.ai/jobs/info/6ac699478ff3fb9b3bc8e1b5?utm_campaign=1054&utm_source=git)** | Reston, Virginia, United States | Hybrid | Oct 29 |
-| **[NetJets](https://www.netjets.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6ac726198ff3fb9b3bc9037a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 29 |
-| **[F3 Marina](https://f3marina.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae24cc11f9d9308370b0707?utm_campaign=1054&utm_source=git)** | Brookfield, WI, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
