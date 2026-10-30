@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Global Solutions Internship](https://jobright.ai/jobs/info/6aaae1f7c85610f4a48423fa?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 30 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Total Rewards Human Resources Intern - The Toro Company](https://jobright.ai/jobs/info/6ac55d898ff3fb9b3bc895df?utm_campaign=1054&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 30 |
 | **[Badger Liquor Co., Inc.](http://badgerliquor.com)** | **[Recruiting and People Development Intern](https://jobright.ai/jobs/info/6ae43f9777c09cb3bd4abe04?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI, United States | On Site | Oct 29 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6ae40705fb2cd420ace55ef6?utm_campaign=1054&utm_source=git)** | Goodhue, MN, United States | On Site | Oct 29 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Metairie, LA or Baton Rouge, LA](https://jobright.ai/jobs/info/6a50ea3a02522b5b722e5dc6?utm_campaign=1054&utm_source=git)** | Metairie, LA, United States | On Site | Oct 29 |
@@ -77,13 +79,13 @@ For a complete list, click the following sortable link below:
 | **[Axiom Space](http://www.axiomspace.com)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae3b09377c09cb3bd4a8301?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 29 |
 | **[World Relief](https://worldrelief.org/)** | **[Integration Support Intern, Dari/Pashto speaking- 2025852](https://jobright.ai/jobs/info/6a9070b5d96ad228f126146c?utm_campaign=1054&utm_source=git)** | Sacramento, CA, United States | Hybrid | Oct 29 |
 | **[EverBank](https://www.everbank.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6ae3a743eab1f96730975f39?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 29 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29538c4290cef1412bbb8?utm_campaign=1054&utm_source=git)** | Greer, SC, United States | On Site | Oct 29 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Oct 29 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29539c4290cef1412bbbc?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Oct 29 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29539c4290cef1412bbbc?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Oct 29 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Oct 29 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Oct 29 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29538c4290cef1412bbb8?utm_campaign=1054&utm_source=git)** | Greer, SC, United States | On Site | Oct 29 |
+| ↳ | **[Property & Casualty and Benefits Intern](https://jobright.ai/jobs/info/6ad238a9810010ec72f561ab?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Oct 29 |
 | ↳ | **[Property & Casualty and Benefits Intern](https://jobright.ai/jobs/info/6ad2954c810010ec72f58d97?utm_campaign=1054&utm_source=git)** | Irmo, SC, United States | On Site | Oct 29 |
 | ↳ | **[Benefits Analytics Intern](https://jobright.ai/jobs/info/6ad238c725289a0b3bf54dc4?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD, United States | On Site | Oct 29 |
-| ↳ | **[Property & Casualty and Benefits Intern](https://jobright.ai/jobs/info/6ad238a9810010ec72f561ab?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Oct 29 |
 | **[Regeneron](http://www.regeneron.com)** | **[2027 Summer Intern People, Communications, Change & Learning](https://jobright.ai/jobs/info/6ae37ca6fb2cd420ace515bc?utm_campaign=1054&utm_source=git)** | Sleepy Hollow, NY, United States | Remote | Oct 29 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Communications - Intern](https://jobright.ai/jobs/info/6ac6774f8ff3fb9b3bc8d40c?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 29 |
 | **[Massachusetts Executive Office of Labor and Workforce Development (LWD)](http://www.mass.gov/eolwd)** | **[Engagement Team Co-op: Programs and Events Spring 2027](https://jobright.ai/jobs/info/6ae3a009c3139b475b5aed1d?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 29 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/6ae35a0efb2cd420ace50165?utm_campaign=1054&utm_source=git)** | Dubuque, IA, United States | On Site | Oct 29 |
 | **[FlexGen](https://flexgen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae35788c3139b475b5ac2c9?utm_campaign=1054&utm_source=git)** | Durham, NC, United States | Hybrid | Oct 29 |
 | **[Lockwood®](http://thelockwoodgrp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ab2cf5f8254c44790e57802?utm_campaign=1054&utm_source=git)** | Stamford, CT, United States | On Site | Oct 29 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae35372c3139b475b5ac0e1?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/6ae3534efb2cd420ace4fe13?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL, United States | On Site | Oct 29 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Supplier Management Group Direct Advanced Strategy and Procurement - Co-op](https://jobright.ai/jobs/info/6ae2315cde23f466ec8c3dd9?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 29 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Intern - Spring/Summer 2027](https://jobright.ai/jobs/info/6ac69125d9621c5b283a9826?utm_campaign=1054&utm_source=git)** | New Braunfels, TX, United States | On Site | Oct 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae2d7e01c3cd4b406087b9c?utm_campaign=1054&utm_source=git)** | Lisle, IL, United States | On Site | Oct 28 |
 | **[Athena](https://athenapsych.com)** | **[Talent Acquisition Intern (Unpaid)](https://jobright.ai/jobs/info/6ad782c954bbabbab06ff207?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 28 |
 | **[Accelevation](https://www.accelevation.com/)** | **[People Operations Intern - Summer 2027](https://jobright.ai/jobs/info/6a988ba0af954907d6573fc2?utm_campaign=1054&utm_source=git)** | Miamisburg, OH, United States | On Site | Oct 28 |
-| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a585cf272fe7a7b98dcddb2?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Remote | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
