@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU](https://www.aclu.org/)** | **[Spring 2027 Graduate Intern, Affiliate Support and Nationwide Initiatives - Organizational Management, Equity & Inclusion](https://jobright.ai/jobs/info/6ae3d32beab1f96730977730?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Ulteig](http://ulteig.com)** | **[Summer 2027 Talent Management Intern](https://jobright.ai/jobs/info/6ae3c19aeab1f96730976f0b?utm_campaign=1054&utm_source=git)** | St. Louis Park, MN, United States | On Site | Oct 29 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae3b845d45dc30fb7d2c094?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Oct 29 |
 | **[Axiom Space](http://www.axiomspace.com)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae3b09377c09cb3bd4a8301?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 29 |
 | **[EverBank](https://www.everbank.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6ae3a743eab1f96730975f39?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 29 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Oct 29 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Oct 29 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Oct 29 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Oct 29 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29537f04335fc70ed652a?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Oct 29 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29538c4290cef1412bbb8?utm_campaign=1054&utm_source=git)** | Greer, SC, United States | On Site | Oct 29 |
 | ↳ | **[Property & Casualty and Benefits Intern](https://jobright.ai/jobs/info/6ad2954c810010ec72f58d97?utm_campaign=1054&utm_source=git)** | Irmo, SC, United States | On Site | Oct 29 |
@@ -131,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program – Summer 2027](https://jobright.ai/jobs/info/6a709fbb357dfc6ff2b39dcf?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Oct 29 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2027 Intern-Labor Relations](https://jobright.ai/jobs/info/6ac673570e027c0f3b3b26b5?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 29 |
 | **[Sesé](https://www.gruposese.com/)** | **[Human Resources Internship (Unpaid)](https://jobright.ai/jobs/info/6ae34a5577c09cb3bd4a4a5b?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | On Site | Oct 29 |
+| **[Marian House](https://www.marianhouse.org)** | **[Nonprofit Organizational Development Intern](https://jobright.ai/jobs/info/6ae3d5a9c3139b475b5b095f?utm_campaign=1054&utm_source=git)** | Baltimore, MD, United States | On Site | Oct 28 |
 | **[Koch](https://www.kochinc.com)** | **[Molex 2027 Summer Intern- Digital Interns](https://jobright.ai/jobs/info/6aa873623a9f0a4fe6f19631?utm_campaign=1054&utm_source=git)** | Lisle, IL, United States | On Site | Oct 28 |
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae2d7e01c3cd4b406087b9c?utm_campaign=1054&utm_source=git)** | Lisle, IL, United States | On Site | Oct 28 |
 | **[Athena](https://athenapsych.com)** | **[Talent Acquisition Intern (Unpaid)](https://jobright.ai/jobs/info/6ad782c954bbabbab06ff207?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/69d45dc2e63cea7a8b6591c4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6ae27c386679108488c4beb5?utm_campaign=1054&utm_source=git)** | Richland, MI, United States | On Site | Oct 28 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2027 Recruiting Intern](https://jobright.ai/jobs/info/6ae23b8e1f9d9308370afc47?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 28 |
-| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a9208fbd18f75674827b27f?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Oct 28 |
-| **[Idaho National Laboratory](https://inl.gov)** | **[NHS Workforce Development Pathways Intern - Summer 2027](https://jobright.ai/jobs/info/6ae26986eb7e8f715a60dd80?utm_campaign=1054&utm_source=git)** | Idaho Falls, ID, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
