@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GM Performance Power Units](https://gmppu.com)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6ad03b0cc9f40bec908003bb?utm_campaign=1054&utm_source=git)** | Concord, NC, United States | On Site | Oct 31 |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[HR Technology Intern](https://jobright.ai/jobs/info/6ae5c3c3d7424a2a828edf10?utm_campaign=1054&utm_source=git)** | Bethlehem, PA, United States | On Site | Oct 31 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 31 |
+| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 31 |
+| ↳ | **[HR Talent Development and Org Culture Project Intern (TikTok Shop) - 2026 Start](https://jobright.ai/jobs/info/6a9147a9d96ad228f12643bd?utm_campaign=1054&utm_source=git)** | Seattle | On Site | Oct 31 |
+| ↳ | **[Talent Acquisition Project Intern (Corporate Functions) - 2026 Fall](https://jobright.ai/jobs/info/6a9147a02e254e06fb9f3e88?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 31 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Oct 31 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
 | ↳ | **[HR Intern - Summer 2027 Job Details / Mohawk Industries](https://jobright.ai/jobs/info/6adcac5e5dc7953215a3799e?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
@@ -68,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6ae53c1977c09cb3bd4b2bb4?utm_campaign=1054&utm_source=git)** | Sanford, FL, United States | On Site | Oct 30 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6ae53c10c3139b475b5b9b85?utm_campaign=1054&utm_source=git)** | Orlando, FL, United States | On Site | Oct 30 |
 | **[USA Sport Group](https://usasportgroup.com/)** | **[Spring 2027 Internship](https://jobright.ai/jobs/info/6ae5398ed45dc30fb7d35fba?utm_campaign=1054&utm_source=git)** | Whitehouse Station, NJ, United States | On Site | Oct 30 |
-| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a985a90def18223c854eff4?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
-| ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a98597383fc6333576310f2?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
+| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a98597383fc6333576310f2?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
+| ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a985a90def18223c854eff4?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[People & Culture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51975d7424a2a828eb933?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 30 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/6ae4ea65d7424a2a828e9fe8?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Oct 30 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Strategic Initiatives (Internal Communication)](https://jobright.ai/jobs/info/6ae50079eab1f9673097ed8f?utm_campaign=1054&utm_source=git)** | Lakewood, CO, United States | Hybrid | Oct 30 |
@@ -80,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Allied Universal](https://www.aus.com)** | **[Event Operations Support Specialist - Paid Internship](https://jobright.ai/jobs/info/6ae51d00c3139b475b5b8e5f?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Oct 30 |
 | **[Tharp Consulting](https://www.linkedin.com/company/109378307)** | **[Human Resources and Talent Acquisition Intern](https://jobright.ai/jobs/info/6ae51a9fc3139b475b5b8d2b?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 30 |
 | **[Litmus](http://litmus.io)** | **[Recruiting and People Ops Intern](https://jobright.ai/jobs/info/6ae4ffcafb2cd420ace5bdd4?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 30 |
-| **[CIBC](https://www.cibc.com)** | **[Corporate Security Coordinator Co-op](https://jobright.ai/jobs/info/6ae4f8d977c09cb3bd4b0aaf?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 30 |
+| **[CIBC](https://www.cibc.com)** | **[Corporate Security Coordinator Co-op](https://jobright.ai/jobs/info/6ae507f0fb2cd420ace5c341?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 30 |
 | **[Jeff Lowe Insurance Agency Inc.](https://www.jeffloweinsurance.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6ae518fc77c09cb3bd4b1c56?utm_campaign=1054&utm_source=git)** | Torrance, CA, United States | On Site | Oct 30 |
 | **[NORDAM](https://nordam.com/)** | **[TALENT MANAGEMENT INTERN](https://jobright.ai/jobs/info/6ae513fac3139b475b5b89ef?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 30 |
 | **[Article Student Living](https://articlestudentliving.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae4f9d2d7424a2a828ea835?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6ab3c6170e0ae54eeea44b2c?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6a8f85a42e254e06fb9ed986?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 30 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Intern Talent Recruitment](https://jobright.ai/jobs/info/6ad0444252a37835d5e3f7cb?utm_campaign=1054&utm_source=git)** | Dearborn, MI, United States | On Site | Oct 30 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Start](https://jobright.ai/jobs/info/6a8f85c47c32860d14cf6128?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
-| **[JD.COM](http://corporate.jd.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ade6e6c389e06bb41adacdf?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Oct 30 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 30 |
-| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 30 |
-| **[Assurant](https://www.assurant.com/)** | **[Summer 2027 Intern: Global Onboarding Intern](https://jobright.ai/jobs/info/6ae26be8eb7e8f715a60deb6?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 30 |
-| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Global Solutions Internship](https://jobright.ai/jobs/info/6aaae28640807b73bd3928f5?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
