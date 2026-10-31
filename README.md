@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Union, NJ](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Oct 30 |
 | **[Kiewit](http://www.kiewit.com)** | **[Talent Acquisition Intern - Winter 2027 Job Details / Kiewit](https://jobright.ai/jobs/info/6ae575bdc3139b475b5ba8f7?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 30 |
 | **[Coulter Services](https://www.linkedin.com/company/109414022)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae54194c3139b475b5b9d5b?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH, United States | On Site | Oct 30 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae54193eab1f96730980b59?utm_campaign=1054&utm_source=git)** | Groveport, OH, United States | On Site | Oct 30 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Safety Coordinator Internship](https://jobright.ai/jobs/info/6ae4efc3d45dc30fb7d33bf7?utm_campaign=1054&utm_source=git)** | Monroe, WI, United States | On Site | Oct 30 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Total Rewards - Human Resources (Fall 2026 - 6 months)](https://jobright.ai/jobs/info/6ad260c2f04335fc70ed52c6?utm_campaign=1054&utm_source=git)** | Las Vegas, NV, United States | On Site | Oct 30 |
 | **[West Michigan Whitecaps](http://www.whitecapsbaseball.com/)** | **[Whitecaps People Operations (HR) Internship](https://jobright.ai/jobs/info/6ae4eb42d45dc30fb7d339e1?utm_campaign=1054&utm_source=git)** | Comstock Park, MI, United States | On Site | Oct 30 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a8e0c0b581f2d7bfdfeac60?utm_campaign=1054&utm_source=git)** | Concord, CA, United States | On Site | Oct 30 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac7cd760e573df8adc744e9?utm_campaign=1054&utm_source=git)** | Chino, CA, United States | On Site | Oct 30 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac7cd760e573df8adc744e9?utm_campaign=1054&utm_source=git)** | Chino, CA, United States | On Site | Oct 30 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a8e0c0b581f2d7bfdfeac60?utm_campaign=1054&utm_source=git)** | Concord, CA, United States | On Site | Oct 30 |
 | **[Roy Rogers Restaurants](https://www.royrogersrestaurants.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6ae4e6d177c09cb3bd4b0043?utm_campaign=1054&utm_source=git)** | Frederick, MD, United States | On Site | Oct 30 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Oct 30 |
 | **[Plamondon Hospitality Partners](https://plamondonhospitalitypartners.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6ae4e5a877c09cb3bd4aff45?utm_campaign=1054&utm_source=git)** | Frederick, MD, United States | On Site | Oct 30 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 30 |
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2027 Intern: Global Onboarding Intern](https://jobright.ai/jobs/info/6ae26be8eb7e8f715a60deb6?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 30 |
 | **[Lockton](https://global.lockton.com)** | **[Summer 2027 Global Solutions Internship](https://jobright.ai/jobs/info/6aaae1f7c85610f4a48423fa?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 30 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Campus Operations Coordinator](https://jobright.ai/jobs/info/6ad5bfaa361c015bf0cfa221?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 30 |
-| ↳ | **[Co-op/Intern Campus Operations Coordinator](https://jobright.ai/jobs/info/6aac3f65636cddf7396f317a?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 30 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Campus Operations Coordinator](https://jobright.ai/jobs/info/6aac3f65636cddf7396f317a?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 30 |
+| ↳ | **[Co-op/Intern Campus Operations Coordinator](https://jobright.ai/jobs/info/6ad5bfaa361c015bf0cfa221?utm_campaign=1054&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 30 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Total Rewards Human Resources Intern - The Toro Company](https://jobright.ai/jobs/info/6ac55d898ff3fb9b3bc895df?utm_campaign=1054&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 30 |
-| **[Badger Liquor Co., Inc.](http://badgerliquor.com)** | **[Recruiting and People Development Intern](https://jobright.ai/jobs/info/6ae43f9777c09cb3bd4abe04?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
