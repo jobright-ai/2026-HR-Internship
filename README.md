@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[UNPAID INTERN - Waukesha Day Report Center](https://jobright.ai/jobs/info/6ae6e3fd77c09cb3bd4b6c5e?utm_campaign=1054&utm_source=git)** | Pewaukee, WI, United States | On Site | Nov 01 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[HR Intern](https://jobright.ai/jobs/info/6ae6bcf7d45dc30fb7d39954?utm_campaign=1054&utm_source=git)** | Sussex, WI, United States | On Site | Oct 31 |
 | **[Lactalis Group](http://www.lactalis.fr)** | **[Student - Human Resources Intern (4 or 8 month) Job Details / Lactalis](https://jobright.ai/jobs/info/6ae68ddbd7424a2a828ef9a6?utm_campaign=1054&utm_source=git)** | Winchester, Ontario, Canada | On Site | Oct 31 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Human Resources Intern](https://jobright.ai/jobs/info/6ae6d46ed45dc30fb7d39d99?utm_campaign=1054&utm_source=git)** | Altoona, IA, United States | On Site | Oct 31 |
@@ -111,7 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Talent Development and Org Culture Project Intern (TikTok Shop) - 2026 Start](https://jobright.ai/jobs/info/6a9147a9d96ad228f12643bd?utm_campaign=1054&utm_source=git)** | Seattle | On Site | Oct 31 |
 | ↳ | **[Talent Acquisition Project Intern (Corporate Functions) - 2026 Fall](https://jobright.ai/jobs/info/6a9147a02e254e06fb9f3e88?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 31 |
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Oct 31 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027 Job Details / Mohawk Industries](https://jobright.ai/jobs/info/6adcac5e5dc7953215a3799e?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027 Job Details / Mohawk Industries](https://jobright.ai/jobs/info/6a90a55d2e254e06fb9f22c0?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
 | ↳ | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Union, NJ](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Oct 30 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Human Resources Intern (12 Months)](https://jobright.ai/jobs/info/6ae22ce1eb7e8f715a60b30b?utm_campaign=1054&utm_source=git)** | Richmond Hill, ON, Canada | On Site | Oct 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Customer and Market Research Intern](https://jobright.ai/jobs/info/6ae4c77ac3139b475b5b5b15?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship Program – People (OD) Intern](https://jobright.ai/jobs/info/6ae4fa00d7424a2a828ea878?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Summer 2027 Internship Program – People (ER/Compliance) Intern](https://jobright.ai/jobs/info/6ae4f9fdc3139b475b5b7bf2?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
-| ↳ | **[Summer 2027 Internship Program – People (L&D) Intern](https://jobright.ai/jobs/info/6ae4f9faeab1f9673097ea06?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
