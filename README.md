@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cook N Klean](https://www.linkedin.com/company/90855742)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae72576d45dc30fb7d3a754?utm_campaign=1054&utm_source=git)** | Oregon, United States | Remote | Nov 01 |
 | **[Yammii Inc.](https://www.yammiipos.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6ade6e65c5c64fa3d9cb8051?utm_campaign=1054&utm_source=git)** | United, WV, United States | Remote | Nov 01 |
+| **[JD.COM](http://corporate.jd.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ade6e6c389e06bb41adacdf?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Nov 01 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Nov 01 |
 | **[Lennox](http://www.lennox.com)** | **[SAP/Kronos HR Intern](https://jobright.ai/jobs/info/6ac80a90fe8f33a85d4fec14?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Nov 01 |
 | **[Chase](https://www.chase.com/)** | **[2027 Trust Management Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/6ae52638eab1f967309800bb?utm_campaign=1054&utm_source=git)** | Jackson, WY, United States | On Site | Nov 01 |
-| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Nov 01 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6ade6e6c389e06bb41adacdf?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Nov 01 |
 | **[Lockton](https://global.lockton.com)** | **[Summer Associate 2027 People Solutions - Alabama, Atlanta, Charlotte, Florida](https://jobright.ai/jobs/info/6a74b408972ac843c6996a25?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | Nov 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - HR - Talent Acquisition](https://jobright.ai/jobs/info/6ac3e743d9621c5b2839e7b0?utm_campaign=1054&utm_source=git)** | Effingham, IL, United States | On Site | Nov 01 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[HR Intern](https://jobright.ai/jobs/info/6ae6bcf7d45dc30fb7d39954?utm_campaign=1054&utm_source=git)** | Sussex, WI, United States | On Site | Oct 31 |
@@ -131,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6ae53c1977c09cb3bd4b2bb4?utm_campaign=1054&utm_source=git)** | Sanford, FL, United States | On Site | Oct 30 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6ae53c10c3139b475b5b9b85?utm_campaign=1054&utm_source=git)** | Orlando, FL, United States | On Site | Oct 30 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2027 Summer Human Resources Internship](https://jobright.ai/jobs/info/6ac955cdfcdafb60c6a4c00b?utm_campaign=1054&utm_source=git)** | Greenwood, IN, United States | On Site | Oct 30 |
-| **[USA Sport Group](https://usasportgroup.com/)** | **[Spring 2027 Internship](https://jobright.ai/jobs/info/6ae5398ed45dc30fb7d35fba?utm_campaign=1054&utm_source=git)** | Whitehouse Station, NJ, United States | On Site | Oct 30 |
 | **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a98597383fc6333576310f2?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
 | ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a985a90def18223c854eff4?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[People & Culture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51975d7424a2a828eb933?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 30 |
@@ -143,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Allied Universal](https://www.aus.com)** | **[Event Operations Support Specialist - Paid Internship](https://jobright.ai/jobs/info/6ae51d00c3139b475b5b8e5f?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Oct 30 |
 | **[Tharp Consulting](https://www.linkedin.com/company/109378307)** | **[Human Resources and Talent Acquisition Intern](https://jobright.ai/jobs/info/6ae51a9fc3139b475b5b8d2b?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 30 |
 | **[Litmus](http://litmus.io)** | **[Recruiting and People Ops Intern](https://jobright.ai/jobs/info/6ae4ffcafb2cd420ace5bdd4?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 30 |
-| **[CIBC](https://www.cibc.com)** | **[Corporate Security Coordinator Co-op](https://jobright.ai/jobs/info/6ae4f8d977c09cb3bd4b0aaf?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 30 |
+| **[CIBC](https://www.cibc.com)** | **[Corporate Security Coordinator Co-op](https://jobright.ai/jobs/info/6ae507f0fb2cd420ace5c341?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 30 |
 | **[Jeff Lowe Insurance Agency Inc.](https://www.jeffloweinsurance.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6ae518fc77c09cb3bd4b1c56?utm_campaign=1054&utm_source=git)** | Torrance, CA, United States | On Site | Oct 30 |
 | **[NORDAM](https://nordam.com/)** | **[TALENT MANAGEMENT INTERN](https://jobright.ai/jobs/info/6ae513fac3139b475b5b89ef?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 30 |
 | **[Article Student Living](https://articlestudentliving.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae4f9d2d7424a2a828ea835?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 30 |
