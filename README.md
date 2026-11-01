@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Hagerstown, MD / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41fe4ac55253f5d5c393?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Nov 01 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Waverly, NE / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f8372c01f6cd71f4be?utm_campaign=1054&utm_source=git)** | Waverly, NE, United States | On Site | Nov 01 |
+| ↳ | **[Distribution Center HR Intern / Hagerstown, MD / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41fe4ac55253f5d5c393?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Nov 01 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Human Resources - Summer 2027](https://jobright.ai/jobs/info/6a76168fb17cba569035c9b5?utm_campaign=1054&utm_source=git)** | Northfield, IL, United States | Remote | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Appleton](https://jobright.ai/jobs/info/6aad71013dbb1f8967ced8ca?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Nov 01 |
 | ↳ | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/6aad70f26956574eac8b5b74?utm_campaign=1054&utm_source=git)** | Stevens Point, WI, United States | On Site | Nov 01 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Nov 01 |
 | **[Guardian](http://www.guardianlife.com/)** | **[2027 Guardian Summer Intern, HR Technology Knowledge Management & AI Operations](https://jobright.ai/jobs/info/6aad84e30ebc8fb2313ea05e?utm_campaign=1054&utm_source=git)** | Bethlehem, Pennsylvania, United States | Hybrid | Nov 01 |
 | **[Yammii Inc.](https://www.yammiipos.com)** | **[Recruitment Coordinator Intern（Bilingual in Chinese)](https://jobright.ai/jobs/info/6ade6e65c5c64fa3d9cb8051?utm_campaign=1054&utm_source=git)** | United, WV, United States | Remote | Nov 01 |
-| **[JD.COM](http://corporate.jd.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ade6e6c389e06bb41adacdf?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Nov 01 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Nov 01 |
+| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Nov 01 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6ade6e6c389e06bb41adacdf?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Nov 01 |
 | **[Lennox](http://www.lennox.com)** | **[SAP/Kronos HR Intern](https://jobright.ai/jobs/info/6ac80a90fe8f33a85d4fec14?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Nov 01 |
 | **[Chase](https://www.chase.com/)** | **[2027 Trust Management Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/6ae52638eab1f967309800bb?utm_campaign=1054&utm_source=git)** | Jackson, WY, United States | On Site | Nov 01 |
 | **[Lockton](https://global.lockton.com)** | **[Summer Associate 2027 People Solutions - Alabama, Atlanta, Charlotte, Florida](https://jobright.ai/jobs/info/6a74b408972ac843c6996a25?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | Nov 01 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6ae53c1977c09cb3bd4b2bb4?utm_campaign=1054&utm_source=git)** | Sanford, FL, United States | On Site | Oct 30 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6ae53c10c3139b475b5b9b85?utm_campaign=1054&utm_source=git)** | Orlando, FL, United States | On Site | Oct 30 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2027 Summer Human Resources Internship](https://jobright.ai/jobs/info/6ac955cdfcdafb60c6a4c00b?utm_campaign=1054&utm_source=git)** | Greenwood, IN, United States | On Site | Oct 30 |
-| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a985a90def18223c854eff4?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
-| ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a98597383fc6333576310f2?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
+| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a98597383fc6333576310f2?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
+| ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a985a90def18223c854eff4?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[People & Culture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51975d7424a2a828eb933?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 30 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – People (OD) Intern](https://jobright.ai/jobs/info/6ae5023cd45dc30fb7d346ea?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Strategic Initiatives (Internal Communication)](https://jobright.ai/jobs/info/6ae50079eab1f9673097ed8f?utm_campaign=1054&utm_source=git)** | Lakewood, CO, United States | Hybrid | Oct 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allied Universal](https://www.aus.com)** | **[Part-Time Game Day Intern (SU)](https://jobright.ai/jobs/info/6ae51018d45dc30fb7d34e9a?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 30 |
 | ↳ | **[Part-Time Game Day Intern (SU)](https://jobright.ai/jobs/info/6ae51015eab1f9673097f69d?utm_campaign=1054&utm_source=git)** | Lexington, KY, United States | On Site | Oct 30 |
 | ↳ | **[Game Day Intern SU](https://jobright.ai/jobs/info/6ae51011d7424a2a828eb571?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 30 |
-| ↳ | **[Game Day Intern SU](https://jobright.ai/jobs/info/6ae5100fd7424a2a828eb570?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
