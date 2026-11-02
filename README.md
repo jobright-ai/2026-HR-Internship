@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ParetoHealth](https://paretohealth.com)** | **[People Team Summer Intern (Human Resources)](https://jobright.ai/jobs/info/6ae88d4177c09cb3bd4bbd6c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 02 |
+| ↳ | **[People Team Summer Intern (Human Resources)](https://jobright.ai/jobs/info/6ae88d13061d6d7ff3d7ae5a?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 02 |
+| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae88bda03f4a1104b254297?utm_campaign=1054&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
 | **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - HR Information Systems Analyst](https://jobright.ai/jobs/info/6ae84470fb2cd420ace65679?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 02 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - Ground Crew Resource Planning (Summer 2027)](https://jobright.ai/jobs/info/6ae8607ca2a252e219426948?utm_campaign=1054&utm_source=git)** | Renton, WA, United States | On Site | Nov 02 |
 | ↳ | **[Intern - HR Business Partner (Summer 2027)](https://jobright.ai/jobs/info/6ae8609503f4a1104b2537e1?utm_campaign=1054&utm_source=git)** | SeaTac, WA, United States | On Site | Nov 02 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Coinbase](https://www.coinbase.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6aa0963f3b5aa83237b0a13b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern - Data Analytics (HR Systems)](https://jobright.ai/jobs/info/6ae0d82c829a3bada15f7b87?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 01 |
 | **[City of Chesapeake](https://www.cityofchesapeake.net/735/Animal-Services-Unit)** | **[Spring Intern - Police (Digital Media & Recruiting)](https://jobright.ai/jobs/info/6ae7baf3a2a252e2194242fa?utm_campaign=1054&utm_source=git)** | Chesapeake, VA, United States | On Site | Nov 01 |
-| **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[UNPAID INTERN - Waukesha Day Report Center](https://jobright.ai/jobs/info/6ae79159bad9293a40a42981?utm_campaign=1054&utm_source=git)** | Pewaukee, WI, United States | On Site | Nov 01 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Waverly, NE / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f8372c01f6cd71f4be?utm_campaign=1054&utm_source=git)** | Waverly, NE, United States | On Site | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc2292e757fcb5c8ba4c9?utm_campaign=1054&utm_source=git)** | Mooresville, NC, United States | On Site | Nov 01 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23e0ebc8fb2313eb683?utm_campaign=1054&utm_source=git)** | Arden, NC, United States | On Site | Nov 01 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/br/pt-br.html)** | **[Intern, Human Resources (4/8 month - Kitchener, ON](https://jobright.ai/jobs/info/6ae4d0f1d7424a2a828e8fa8?utm_campaign=1054&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Oct 31 |
 | **[GM Performance Power Units](https://gmppu.com)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6ad03b0cc9f40bec908003bb?utm_campaign=1054&utm_source=git)** | Concord, NC, United States | On Site | Oct 31 |
 | **[S&C Electric Company](https://www.sandc.com/en)** | **[Business Analyst - Program Support (Co-op)](https://jobright.ai/jobs/info/6ac9165e6355f8776ff17576?utm_campaign=1054&utm_source=git)** | Etobicoke, ON, Canada | Hybrid | Oct 31 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 31 |
-| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 31 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Oct 31 |
+| ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 31 |
 | ↳ | **[HR Talent Development and Org Culture Project Intern (TikTok Shop) - 2026 Start](https://jobright.ai/jobs/info/6a9147a9d96ad228f12643bd?utm_campaign=1054&utm_source=git)** | Seattle | On Site | Oct 31 |
 | ↳ | **[Talent Acquisition Project Intern (Corporate Functions) - 2026 Fall](https://jobright.ai/jobs/info/6a9147a02e254e06fb9f3e88?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 31 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027 Job Details / Mohawk Industries](https://jobright.ai/jobs/info/6a90a55d2e254e06fb9f22c0?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
-| ↳ | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
-| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Union, NJ](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Oct 30 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
