@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Talent Solutions Intern)](https://jobright.ai/jobs/info/6ae82a9dbad9293a40a443a0?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 01 |
+| ↳ | **[FWS Student Worker III, Off Campus (Recruitment & Admissions Intern)](https://jobright.ai/jobs/info/6ae82a9b6c51033758f3ec5d?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 01 |
+| **[Tetra Pak](http://www.tetrapak.com)** | **[HR Safety and Health Intern](https://jobright.ai/jobs/info/6ada0aaf4c3adc437cec8f0f?utm_campaign=1054&utm_source=git)** | Denton, TX, United States | On Site | Nov 01 |
 | **[CIBC](https://www.cibc.com)** | **[2027 Summer Intern - Deposits and Client Experience](https://jobright.ai/jobs/info/6ae8225fbad9293a40a44233?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Nov 01 |
 | **[Coinbase](https://www.coinbase.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6aa0963f3b5aa83237b0a13b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern - Data Analytics (HR Systems)](https://jobright.ai/jobs/info/6ae0d82c829a3bada15f7b87?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 01 |
@@ -86,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Bunzl plc](http://www.bunzl.com)** | **[Part time Recruiting Intern Fall 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6ae7b34f03f4a1104b25114f?utm_campaign=1054&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 31 |
 | ↳ | **[Part time Recruiting Intern Fall 2026 - Distribution /St. Louis, MO](https://jobright.ai/jobs/info/6ae7b244fb2cd420ace636d9?utm_campaign=1054&utm_source=git)** | Creve Coeur, MO, United States | On Site | Oct 31 |
 | **[Lactalis Group](http://www.lactalis.fr)** | **[Student - Human Resources Intern (4 or 8 month) Job Details / Lactalis](https://jobright.ai/jobs/info/6ae68ddbd7424a2a828ef9a6?utm_campaign=1054&utm_source=git)** | Winchester, Ontario, Canada | On Site | Oct 31 |
-| **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Human Resources Intern](https://jobright.ai/jobs/info/6ae6d46ed45dc30fb7d39d99?utm_campaign=1054&utm_source=git)** | Altoona, IA, United States | On Site | Oct 31 |
-| ↳ | **[Adventureland Park - Workforce Management Intern](https://jobright.ai/jobs/info/6ae6d46bd45dc30fb7d39d98?utm_campaign=1054&utm_source=git)** | Altoona, IA, United States | On Site | Oct 31 |
+| **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Workforce Management Intern](https://jobright.ai/jobs/info/6ae6d46bd45dc30fb7d39d98?utm_campaign=1054&utm_source=git)** | Altoona, IA, United States | On Site | Oct 31 |
+| ↳ | **[Adventureland Park - Human Resources Intern](https://jobright.ai/jobs/info/6ae6d46ed45dc30fb7d39d99?utm_campaign=1054&utm_source=git)** | Altoona, IA, United States | On Site | Oct 31 |
 | **[CIBC](https://www.cibc.com)** | **[2027 Summer Intern - Deposits and Client Experience](https://jobright.ai/jobs/info/6ae81b626c51033758f3e971?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Oct 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - Lancaster](https://jobright.ai/jobs/info/6aad71020ebc8fb2313e98f0?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 31 |
 | **[The Classic Center](http://classiccenter.com)** | **[Human Resources Internship (Spring) - The Classic Center](https://jobright.ai/jobs/info/6ae35b7bfb2cd420ace50240?utm_campaign=1054&utm_source=git)** | Athens, GA, United States | On Site | Oct 31 |
@@ -142,8 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 31 |
 | ↳ | **[HR Talent Development and Org Culture Project Intern (TikTok Shop) - 2026 Start](https://jobright.ai/jobs/info/6a9147a9d96ad228f12643bd?utm_campaign=1054&utm_source=git)** | Seattle | On Site | Oct 31 |
 | ↳ | **[Talent Acquisition Project Intern (Corporate Functions) - 2026 Fall](https://jobright.ai/jobs/info/6a9147a02e254e06fb9f3e88?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Oct 31 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
-| ↳ | **[HR Intern - Summer 2027 Job Details / Mohawk Industries](https://jobright.ai/jobs/info/6adcac5e5dc7953215a3799e?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2027 Job Details / Mohawk Industries](https://jobright.ai/jobs/info/6a90a55d2e254e06fb9f22c0?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
+| ↳ | **[HR Intern - Summer 2027](https://jobright.ai/jobs/info/6a906ce90bd89e205d24a42c?utm_campaign=1054&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 31 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[HR Recruiter Intern (Unpaid) – Union, NJ](https://jobright.ai/jobs/info/6a4410630153061b8b3df241?utm_campaign=1054&utm_source=git)** | Union, NJ, United States | On Site | Oct 30 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Human Resources Intern (12 Months)](https://jobright.ai/jobs/info/6ae22ce1eb7e8f715a60b30b?utm_campaign=1054&utm_source=git)** | Richmond Hill, ON, Canada | On Site | Oct 30 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/6ae4ea65d7424a2a828e9fe8?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Oct 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boulder Connect](https://www.linkedin.com/company/109152072)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae5408deab1f96730980b1b?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Oct 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6ae53c1977c09cb3bd4b2bb4?utm_campaign=1054&utm_source=git)** | Sanford, FL, United States | On Site | Oct 30 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6ae53c10c3139b475b5b9b85?utm_campaign=1054&utm_source=git)** | Orlando, FL, United States | On Site | Oct 30 |
-| **[Endress+Hauser Group](https://ro.endress.com)** | **[2027 Summer Human Resources Internship](https://jobright.ai/jobs/info/6ac955cdfcdafb60c6a4c00b?utm_campaign=1054&utm_source=git)** | Greenwood, IN, United States | On Site | Oct 30 |
-| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a98597383fc6333576310f2?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
-| ↳ | **[PepsiCo Canada: People Experience (HR) Winter 2027 Co-op](https://jobright.ai/jobs/info/6a985a90def18223c854eff4?utm_campaign=1054&utm_source=git)** | Peterborough, ON, Canada | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
