@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin Industrial, Inc.](https://austinindustrial.com)** | **[2027 Summer Internship / Human Resources /  (Houston, TX) - Austin Industrial](https://jobright.ai/jobs/info/6abe696d0e027c0f3b39881c?utm_campaign=1054&utm_source=git)** | La Porte, TX, United States | On Site | Nov 03 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Intern – Part-Time, Year-Round](https://jobright.ai/jobs/info/6ae9fd04fc85f3a39432e968?utm_campaign=1054&utm_source=git)** | Dayton, OH, United States | On Site | Nov 03 |
 | **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: Internal Audit](https://jobright.ai/jobs/info/6acdc35c2bd01b08973f11fa?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 03 |
 | ↳ | **[2027 Early Talent Internship: Risk & Compliance](https://jobright.ai/jobs/info/6acdc3563e2155b545aa1cb5?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 03 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[People Team Intern- Summer 2027](https://jobright.ai/jobs/info/6ae9f53fa291a1db4de264b2?utm_campaign=1054&utm_source=git)** | Mojave, CA, United States | On Site | Nov 03 |
+| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Claims Intern - Workers' Compensation](https://jobright.ai/jobs/info/6ab15f6bd43eb922ca0be6c0?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 03 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6ae9f2702b0b1eb5805b5092?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a62a9e207e15f1ab0e47884?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 03 |
+| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aea0cf5440b469a1c0a9cfc?utm_campaign=1054&utm_source=git)** | Pleasanton, CA, United States | On Site | Nov 03 |
 | **[Jenner & Block](http://jenner.com/)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/6ae9f0ad73d24ab055c59846?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 03 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) - Service Operations Strategy & Planning Intern](https://jobright.ai/jobs/info/6ac5256ad9621c5b283a374e?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 03 |
 | **[Little League International](https://www.littleleague.org/)** | **[Human Resources Internship - Summer 2027](https://jobright.ai/jobs/info/6ae9107bfb2cd420ace6bcaa?utm_campaign=1054&utm_source=git)** | South Williamsport, Pennsylvania, United States | On Site | Nov 03 |
@@ -81,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Strive Solutions](https://www.linkedin.com/company/111767844)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6ae95566a291a1db4de23700?utm_campaign=1054&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 02 |
 | **[The Riverside Company](http://riversidecompany.com)** | **[2027 Summer Internship, Global Talent Management](https://jobright.ai/jobs/info/6ae94251a291a1db4de23254?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6ae9351173d24ab055c5607f?utm_campaign=1054&utm_source=git)** | Pasadena, CA, United States | Hybrid | Nov 02 |
-| ↳ | **[Employee Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6ae504f5d45dc30fb7d348bf?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | Hybrid | Nov 02 |
 | ↳ | **[Employee Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6ae4dabceab1f9673097d6e9?utm_campaign=1054&utm_source=git)** | Harrison, NY, United States | Hybrid | Nov 02 |
+| ↳ | **[Employee Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6ae504f5d45dc30fb7d348bf?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | Hybrid | Nov 02 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[HR Intern - January 2027 (4-Month Term)](https://jobright.ai/jobs/info/6ad29f7725289a0b3bf57f31?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 02 |
 | **[EverBank](https://www.everbank.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6ae9313f03f4a1104b25a66b?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 02 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern Job Details / PCL Construction](https://jobright.ai/jobs/info/6ae9312fa2a252e21942d76d?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Nov 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - HR Business Partner (Summer 2027)](https://jobright.ai/jobs/info/6ae848ae6c51033758f3f709?utm_campaign=1054&utm_source=git)** | SeaTac, WA, United States | On Site | Nov 02 |
 | **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Human Resources Generalist](https://jobright.ai/jobs/info/6ae847e603f4a1104b253011?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 02 |
 | ↳ | **[College Intern - Talent Development](https://jobright.ai/jobs/info/6ae847e3a2a252e2194261ce?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 02 |
-| ↳ | **[College Intern - Compensation and Benefits](https://jobright.ai/jobs/info/6ae847e1fb2cd420ace6573c?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 02 |
-| **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Talent Solutions Intern)](https://jobright.ai/jobs/info/6ae82a9dbad9293a40a443a0?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 01 |
-| ↳ | **[FWS Student Worker III, Off Campus (Recruitment & Admissions Intern)](https://jobright.ai/jobs/info/6ae82a9b6c51033758f3ec5d?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
