@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZF Group](https://www.zf.com/)** | **[HR Intern Job Details / ZF Group](https://jobright.ai/jobs/info/6ae99f4d2b0b1eb5805b3946?utm_campaign=1054&utm_source=git)** | North Mankato, MN, United States | On Site | Nov 03 |
 | **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae9613fa291a1db4de23b1b?utm_campaign=1054&utm_source=git)** | Bothell, WA, United States | On Site | Nov 02 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6ae9136d061d6d7ff3d80446?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[Strive Solutions](https://www.linkedin.com/company/111767844)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6ae95566a291a1db4de23700?utm_campaign=1054&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 02 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Biodesix, Inc.](http://www.biodesix.com)** | **[Human Resources Internship (Undergraduate)](https://jobright.ai/jobs/info/6ae8f6d2a2a252e21942b52c?utm_campaign=1054&utm_source=git)** | Louisville, Colorado, United States | On Site | Nov 02 |
 | **[The Lighthouse of Houston](https://www.houstonlighthouse.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae8f67f777c336eb6d681ac?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 02 |
 | **[PROJXON](https://projxon.com)** | **[Executive Administrative Assistant to Chief Executive Officer (Intern)](https://jobright.ai/jobs/info/6ae9618c73d24ab055c56ff5?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 02 |
-| **[GAOTek Inc.](https://www.gaotek.com)** | **[People Operation Intern/Unpaid/Remote](https://jobright.ai/jobs/info/6ae8e2c9777c336eb6d674cd?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Nov 02 |
 | **[Fincantieri Marine Group](http://fincantierimarinegroup.com)** | **[HRIS Business Analyst Intern](https://jobright.ai/jobs/info/6ac3ebf44ac55253f5d6fd73?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 02 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Private Equity M&A Intern - Summer 2027](https://jobright.ai/jobs/info/6ae8d782fb2cd420ace694e8?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 02 |
 | **[TMX Group](http://www.tmx.com)** | **[Student Intern - Talent Acquisition - Winter Term](https://jobright.ai/jobs/info/6ae8ab92fb2cd420ace676f9?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 02 |
@@ -110,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Anchor Glass Container LLC](http://www.anchorglass.com/)** | **[Human Resources & Talent Intern](https://jobright.ai/jobs/info/6ae8cff76c51033758f430ab?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Nov 02 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Navarre, OH / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd4202d9621c5b2838b048?utm_campaign=1054&utm_source=git)** | Navarre, OH, United States | Hybrid | Nov 02 |
 | **[Fidelity Bank / Oklahoma Fidelity Bank](http://fidelitybank.com)** | **[Human Resources Recruiting Intern](https://jobright.ai/jobs/info/6ae8cb66a2a252e2194297fe?utm_campaign=1054&utm_source=git)** | Wichita, KS, United States | On Site | Nov 02 |
+| **[CIEE Council on International Educational Exchange](https://www.ciee.org/)** | **[Fellowship Program Intern](https://jobright.ai/jobs/info/6adb008caee75c4e7d2e6317?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 02 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6adfbe7d5dc7953215a42732?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Nov 02 |
 | **[Charles River Associates](http://www.crai.com)** | **[Human Capital Co-op/Talent Acquisition (January - June 2027)](https://jobright.ai/jobs/info/6ae8c15e03f4a1104b256018?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 02 |
 | **[Dunmore](http://www.dunmore.com/)** | **[Human Resources Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8c137a2a252e219429180?utm_campaign=1054&utm_source=git)** | Bristol, PA, United States | On Site | Nov 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Green Bay](https://jobright.ai/jobs/info/6aad715a3d96632d741adecc?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 01 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Hagerstown, MD / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41fe4ac55253f5d5c393?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern - York](https://jobright.ai/jobs/info/6aad70ec0ebc8fb2313e98e8?utm_campaign=1054&utm_source=git)** | York, PA, United States | On Site | Nov 01 |
-| **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Human Resources - Summer 2027](https://jobright.ai/jobs/info/6a76168fb17cba569035c9b5?utm_campaign=1054&utm_source=git)** | Northfield, IL, United States | Remote | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
