@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern - Spring 2027](https://jobright.ai/jobs/info/6ab198e723005eee3545b6f8?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Nov 03 |
 | **[ZF Group](https://www.zf.com/)** | **[HR Intern Job Details / ZF Group](https://jobright.ai/jobs/info/6ae99f4d2b0b1eb5805b3946?utm_campaign=1054&utm_source=git)** | North Mankato, MN, United States | On Site | Nov 03 |
 | **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae9613fa291a1db4de23b1b?utm_campaign=1054&utm_source=git)** | Bothell, WA, United States | On Site | Nov 02 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6ae9136d061d6d7ff3d80446?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[Strive Solutions](https://www.linkedin.com/company/111767844)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6ae95566a291a1db4de23700?utm_campaign=1054&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 02 |
 | **[The Riverside Company](http://riversidecompany.com)** | **[2027 Summer Internship, Global Talent Management](https://jobright.ai/jobs/info/6ae94251a291a1db4de23254?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6ae9351173d24ab055c5607f?utm_campaign=1054&utm_source=git)** | Pasadena, CA, United States | Hybrid | Nov 02 |
-| ↳ | **[Employee Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6ae504f5d45dc30fb7d348bf?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | Hybrid | Nov 02 |
 | ↳ | **[Employee Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6ae4dabceab1f9673097d6e9?utm_campaign=1054&utm_source=git)** | Harrison, NY, United States | Hybrid | Nov 02 |
+| ↳ | **[Employee Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6ae504f5d45dc30fb7d348bf?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | Hybrid | Nov 02 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[HR Intern - January 2027 (4-Month Term)](https://jobright.ai/jobs/info/6ad29f7725289a0b3bf57f31?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 02 |
 | **[EverBank](https://www.everbank.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6ae9313f03f4a1104b25a66b?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 02 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Intern Job Details / PCL Construction](https://jobright.ai/jobs/info/6ae9312fa2a252e21942d76d?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | On Site | Nov 02 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Corning Incorporated](https://www.corning.com/)** | **[Employee Engagement Intern, Corporate Communications - Summer 2027](https://jobright.ai/jobs/info/6ae92cdffb2cd420ace6cad2?utm_campaign=1054&utm_source=git)** | Corning, NY, United States | On Site | Nov 02 |
 | **[Barilla Group](http://www.barillagroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae933a7a2a252e21942d90d?utm_campaign=1054&utm_source=git)** | Northbrook, Illinois, United States | Hybrid | Nov 02 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2027 Summer Internship - Human Resources - HR Analytics - Virtual](https://jobright.ai/jobs/info/6ae8faf0fb2cd420ace6af46?utm_campaign=1054&utm_source=git)** | Phoenix, Arizona, United States | Remote | Nov 02 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 02 |
-| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 02 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 02 |
+| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 02 |
 | **[JSX](http://www.jsx.com)** | **[Corporate Soul Intern](https://jobright.ai/jobs/info/6ae919c803f4a1104b259c33?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Nov 02 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - Employee Recognition](https://jobright.ai/jobs/info/6ae8e68ba2a252e21942aa56?utm_campaign=1054&utm_source=git)** | Aiken, SC, United States | On Site | Nov 02 |
 | **[Intact Insurance U.S.](http://www.intactspecialty.com)** | **[Human Resources Generalist - Contract (Hybrid in Plymouth, MN)](https://jobright.ai/jobs/info/6ae8e35c03f4a1104b257711?utm_campaign=1054&utm_source=git)** | Plymouth, MN, United States | Hybrid | Nov 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aadc23e0ebc8fb2313eb683?utm_campaign=1054&utm_source=git)** | Arden, NC, United States | On Site | Nov 01 |
 | ↳ | **[Management Trainee Intern - Green Bay](https://jobright.ai/jobs/info/6aad715a3d96632d741adecc?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 01 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Hagerstown, MD / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41fe4ac55253f5d5c393?utm_campaign=1054&utm_source=git)** | Hagerstown, MD, United States | On Site | Nov 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern - York](https://jobright.ai/jobs/info/6aad70ec0ebc8fb2313e98e8?utm_campaign=1054&utm_source=git)** | York, PA, United States | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
