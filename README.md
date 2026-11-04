@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Relief](https://worldrelief.org/)** | **[Integration Support Intern, Dari/Pashto speaking- 2025852](https://jobright.ai/jobs/info/6a9070b5d96ad228f126146c?utm_campaign=1054&utm_source=git)** | Sacramento, CA, United States | Hybrid | Nov 03 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aa099e1500b01124c77a0aa?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 03 |
 | **[SLB](https://www.slb.com)** | **[HR Intern](https://jobright.ai/jobs/info/6aea875f440b469a1c0aeee0?utm_campaign=1054&utm_source=git)** | Midland, Texas, United States | On Site | Nov 03 |
 | **[Tenneco](https://www.tenneco.com/)** | **[HR Intern Job Details / Tenneco](https://jobright.ai/jobs/info/6aea819c897466e69e31f8a5?utm_campaign=1054&utm_source=git)** | Greenville, MI, United States | On Site | Nov 03 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Scot Forge](https://www.scotforge.com/)** | **[Human Resources Intern (Summer 2027)](https://jobright.ai/jobs/info/6aea97911ba298c777773fdb?utm_campaign=1054&utm_source=git)** | Spring Grove, IL, United States | On Site | Nov 03 |
 | **[Lexington Manufacturing, LLC](https://www.lexingtonmfg.com/)** | **[Human Resources Intern - Part-time, 2027 Summer Internship](https://jobright.ai/jobs/info/6aea5f75897466e69e31e709?utm_campaign=1054&utm_source=git)** | Prineville, OR, United States | On Site | Nov 03 |
 | **[BBA Consultants](https://www.bbaconsultants.com/)** | **[Intern, Talent Acquisition - Winter 2027](https://jobright.ai/jobs/info/6aea190cfc85f3a394330446?utm_campaign=1054&utm_source=git)** | Mont-Saint-Hilaire, QC, Canada | On Site | Nov 03 |
-| **[Interfor](http://www.interfor.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aea3ecf440b469a1c0ac184?utm_campaign=1054&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 03 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab6f0953a2ec87116e24b56?utm_campaign=1054&utm_source=git)** | Chase, British Columbia, Canada | On Site | Nov 03 |
+| **[Interfor](http://www.interfor.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab6f0953a2ec87116e24b56?utm_campaign=1054&utm_source=git)** | Chase, British Columbia, Canada | On Site | Nov 03 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6aea3ecf440b469a1c0ac184?utm_campaign=1054&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 03 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Insurance Agent Recruiting Intern – Spring 2027-Spring 2028](https://jobright.ai/jobs/info/6aea5aef1ba298c77777214d?utm_campaign=1054&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 03 |
 | **[Federal Reserve Board](https://www.federalreserve.gov/)** | **[Summer 2027 Intern – Business Operations/Admin (ADM) – R&S](https://jobright.ai/jobs/info/6aea59ec1ba298c7777720e8?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Nov 03 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[US Medical Affairs, Process & Operations Intern](https://jobright.ai/jobs/info/6aea4f294f991d64376cce00?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD, United States | On Site | Nov 03 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retirement Services Intern - Retirement Services](https://jobright.ai/jobs/info/6aea37e51ba298c777770ad3?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | Hybrid | Nov 02 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs, Process & Operations Intern](https://jobright.ai/jobs/info/6aea38d4440b469a1c0abd57?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD, United States | Hybrid | Nov 02 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2027 Summer Internship - Human Resources - HR Analytics - Virtual](https://jobright.ai/jobs/info/6ae8faf0fb2cd420ace6af46?utm_campaign=1054&utm_source=git)** | Phoenix, Arizona, United States | Remote | Nov 02 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 02 |
-| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 02 |
-| **[JSX](http://www.jsx.com)** | **[Corporate Soul Intern](https://jobright.ai/jobs/info/6ae919c803f4a1104b259c33?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Nov 02 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 02 |
+| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
