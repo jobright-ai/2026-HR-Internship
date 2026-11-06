@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA](https://www.nvidia.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6aec29ad8d5ff763ff915d6f?utm_campaign=1054&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 05 |
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aec8ed8465e3d237137f84c?utm_campaign=1054&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Nov 05 |
 | **[Huntsville Hospital](https://www.huntsvillehospital.org/)** | **[HRIS Specialist Intern](https://jobright.ai/jobs/info/6aed18bf465e3d2371384731?utm_campaign=1054&utm_source=git)** | Huntsville, AL, United States | On Site | Nov 05 |
 | **[Los Angeles Regional Food Bank](https://www.lafoodbank.org/)** | **[HR Intern](https://jobright.ai/jobs/info/6aed4d9ec3da5933b81367ea?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 05 |
@@ -93,10 +94,10 @@ For a complete list, click the following sortable link below:
 | **[IntraCare](https://theintracare.com)** | **[Workplace Experience & Office Operations Intern](https://jobright.ai/jobs/info/6aecd0a5ab48a7079381ec25?utm_campaign=1054&utm_source=git)** | Addison, TX, United States | On Site | Nov 05 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Casa Grande, AZ / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd412c8ff3fb9b3bc6f50f?utm_campaign=1054&utm_source=git)** | Casa Grande, AZ, United States | On Site | Nov 05 |
 | **[Leader Dogs for the Blind](https://www.leaderdog.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aeccf823a3fa7f03ea896dd?utm_campaign=1054&utm_source=git)** | Rochester Hills, MI, United States | On Site | Nov 05 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a97086e246d697dcee02fa4?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 05 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a970427d13b4819f39de814?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 05 |
 | **[Paylocity](http://www.paylocity.com)** | **[Retirement Services Intern](https://jobright.ai/jobs/info/6aeccddf3a3fa7f03ea895cc?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Nov 05 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 05 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 05 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 05 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 05 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 05 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Nov 05 |
 | **[Deltek](http://www.deltek.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a998291551435518ebeec4a?utm_campaign=1054&utm_source=git)** | Herndon, VA, United States | On Site | Nov 05 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a96ae5ef5337b2cf731da20?utm_campaign=1054&utm_source=git)** | Fresno, CA, United States | On Site | Nov 05 |
 | ↳ | **[Spring 2027 Management Trainee Internship - Round Rock and Cedar Park, TX](https://jobright.ai/jobs/info/6ab2ac778254c44790e5686c?utm_campaign=1054&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 05 |
 | **[Zimmer Biomet](https://www.zimmerbiomet.com/en)** | **[2027 Summer Intern, Human Resources](https://jobright.ai/jobs/info/6aecb166ab48a7079381d68a?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 05 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Summer 2027 - Human Resources Intern](https://jobright.ai/jobs/info/6a98866411f73b6462c8f17d?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | On Site | Nov 05 |
-| ↳ | **[University - Summer 2027 - Human Resources Intern](https://jobright.ai/jobs/info/6aa38a21c5a856ac7e339e90?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | On Site | Nov 05 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Summer 2027 - Human Resources Intern](https://jobright.ai/jobs/info/6aa38a21c5a856ac7e339e90?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | On Site | Nov 05 |
+| ↳ | **[University - Summer 2027 - Human Resources Intern](https://jobright.ai/jobs/info/6a98866411f73b6462c8f17d?utm_campaign=1054&utm_source=git)** | McLean, VA, United States | On Site | Nov 05 |
 | **[League One Volleyball (LOVB)](http://www.lovb.com)** | **[College Recruiting Support Associate/Intern](https://jobright.ai/jobs/info/6aecb1b0a9ea762a0409116b?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 05 |
 | **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Administrative and Human Resource Intern](https://jobright.ai/jobs/info/6aecae7cab48a7079381d4c8?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[LAPORTE](https://laporteconsultants.com)** | **[Business Operations Intern (Paid, Part-Time)](https://jobright.ai/jobs/info/6ae4936dc3139b475b5b3fd4?utm_campaign=1054&utm_source=git)** | West Chester, PA, United States | On Site | Nov 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6aebb221a0b134121d99d38a?utm_campaign=1054&utm_source=git)** | Huntington, WV, United States | On Site | Nov 05 |
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Enterprise Internship, Graduate Human Resources/People & Culture/Talent Acquisition](https://jobright.ai/jobs/info/6aec562f80cb7b32eb76f202?utm_campaign=1054&utm_source=git)** | Allenton, WI, United States | On Site | Nov 05 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Talent Management Internship - Summer 2027](https://jobright.ai/jobs/info/6a79f9359ee17f276dbf0754?utm_campaign=1054&utm_source=git)** | Middleton, WI, United States | On Site | Nov 05 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a96dcde246d697dcee019c2?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
