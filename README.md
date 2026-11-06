@@ -96,9 +96,9 @@ For a complete list, click the following sortable link below:
 | **[Leader Dogs for the Blind](https://www.leaderdog.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aeccf823a3fa7f03ea896dd?utm_campaign=1054&utm_source=git)** | Rochester Hills, MI, United States | On Site | Nov 05 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a970427d13b4819f39de814?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 05 |
 | **[Paylocity](http://www.paylocity.com)** | **[Retirement Services Intern](https://jobright.ai/jobs/info/6aeccddf3a3fa7f03ea895cc?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Nov 05 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 05 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 05 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 05 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 05 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 05 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Nov 05 |
 | **[Deltek](http://www.deltek.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a998291551435518ebeec4a?utm_campaign=1054&utm_source=git)** | Herndon, VA, United States | On Site | Nov 05 |
 | **[Trove Brands](https://trovebrands.com)** | **[Part-Time Human Resources Intern](https://jobright.ai/jobs/info/6aecc0f33967d67f6359f4ba?utm_campaign=1054&utm_source=git)** | Lehi, UT, United States | On Site | Nov 05 |
