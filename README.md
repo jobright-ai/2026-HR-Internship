@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matriosh](Matriosh.com)** | **[HR Internship](https://jobright.ai/jobs/info/6aed340ca9ea762a040957c3?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[COLLEGE AIDE - Personnel Management and Administration](https://jobright.ai/jobs/info/6aed2756a9ea762a040954a4?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[CAMS](http://camstex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aecfbcaa9ea762a04093ef0?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 05 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Legal Talent Management Intern](https://jobright.ai/jobs/info/6aecf829465e3d2371383643?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 05 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Civil Legal Extern Program - Recruiting for Summer 2027](https://jobright.ai/jobs/info/6aed11e83967d67f635a24a4?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 05 |
 | **[Chenega MIOS SBU](https://www.chenega.com/)** | **[Sourcing Recruiter - Skillbridge Intern](https://jobright.ai/jobs/info/6aecf3283a3fa7f03ea8ab41?utm_campaign=1054&utm_source=git)** | Virginia, United States | Remote | Nov 05 |
 | **[FedEx Freight](https://www.fedexfreight.com)** | **[Intern-HR & Legal](https://jobright.ai/jobs/info/6aecd447a9ea762a04092825?utm_campaign=1054&utm_source=git)** | Memphis, TN, United States | On Site | Nov 05 |
+| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program – Regulatory Planning and Publishing – Intern](https://jobright.ai/jobs/info/6aed3fa5a2661405dc2c9fb0?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Nov 05 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Human Resources Operations Intern (NY Co-Op)](https://jobright.ai/jobs/info/6ac7e73c44d6e65604a0507d?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[Daiichi Sankyo](https://daiichisankyo.us)** | **[Workplace Solutions (HR Shared Services) Intern](https://jobright.ai/jobs/info/6aecfd34465e3d2371383861?utm_campaign=1054&utm_source=git)** | Basking Ridge, NJ, United States | On Site | Nov 05 |
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Human Resources & Fulfillment Operations Internship](https://jobright.ai/jobs/info/6aecfa49a9ea762a04093e4c?utm_campaign=1054&utm_source=git)** | Monroe, WI, United States | On Site | Nov 05 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Leader Dogs for the Blind](https://www.leaderdog.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aeccf823a3fa7f03ea896dd?utm_campaign=1054&utm_source=git)** | Rochester Hills, MI, United States | On Site | Nov 05 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6a97086e246d697dcee02fa4?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 05 |
 | **[Paylocity](http://www.paylocity.com)** | **[Retirement Services Intern](https://jobright.ai/jobs/info/6aeccddf3a3fa7f03ea895cc?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Nov 05 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 05 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 05 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 05 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 05 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 05 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Nov 05 |
 | **[Deltek](http://www.deltek.com)** | **[HR Intern](https://jobright.ai/jobs/info/6a998291551435518ebeec4a?utm_campaign=1054&utm_source=git)** | Herndon, VA, United States | On Site | Nov 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Talent Management Internship - Summer 2027](https://jobright.ai/jobs/info/6a79f9359ee17f276dbf0754?utm_campaign=1054&utm_source=git)** | Middleton, WI, United States | On Site | Nov 05 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a96dcde246d697dcee019c2?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 05 |
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aec8ed8465e3d237137f84c?utm_campaign=1054&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Nov 05 |
-| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Enterprise Internship, Graduate Human Resources/People & Culture/Talent Acquisition](https://jobright.ai/jobs/info/6aec278e80cb7b32eb76e835?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | Remote | Nov 04 |
-| ↳ | **[Enterprise Internship, Graduate Human Resources/People & Culture/Talent Acquisition](https://jobright.ai/jobs/info/6aec25db8d5ff763ff915a4a?utm_campaign=1054&utm_source=git)** | Alabama, United States | Remote | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
