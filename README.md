@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magnera Corporation](https://magnera.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6ad276bd83ada13a9da060b7?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 07 |
+| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Alternative Risk Internship](https://jobright.ai/jobs/info/6ac98a3efcdafb60c6a4cb5e?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 07 |
 | **[Amsted Automotive](https://amstedauto.com)** | **[Talent Acquisition (Temp to hire)](https://jobright.ai/jobs/info/6ab4566055e9168cf5ea5e84?utm_campaign=1054&utm_source=git)** | Saginaw, MI, United States | On Site | Nov 06 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2027 - Human Resources Intern Job Details / PACCAR](https://jobright.ai/jobs/info/6aeeaceb7bf8e8b9eaf7c5a9?utm_campaign=1054&utm_source=git)** | Kirkland, WA, United States | On Site | Nov 06 |
 | ↳ | **[Summer Internship - Talent Acquisition Job Details / PACCAR](https://jobright.ai/jobs/info/6aeeace60fe787d00ed18223?utm_campaign=1054&utm_source=git)** | Renton, WA, United States | On Site | Nov 06 |
@@ -107,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Inclusion/Internal Communication HR Intern](https://jobright.ai/jobs/info/6a987cfbdd171c7285792815?utm_campaign=1054&utm_source=git)** | Westchester, IL, United States | Hybrid | Nov 06 |
 | **[Paradies Lagardère](https://www.paradieslagardere.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ad2483883ada13a9da049b3?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 06 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 06 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 06 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Nov 06 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 06 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 06 |
 | **[Atlas Copco Group](https://www.atlascopcogroup.com)** | **[Human Resources Intern - Rock Hill, SC](https://jobright.ai/jobs/info/6aee0f0ac7498922fe0c76f6?utm_campaign=1054&utm_source=git)** | Rock Hill, New York, United States | Hybrid | Nov 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a9863b111f73b6462c8e5c1?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 06 |
 | **[HII](https://hii.com)** | **[2027 COLLEGE SUMMER INTERN- HUMAN RESOURCES Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6aee0a97bd2f33eea72d69f6?utm_campaign=1054&utm_source=git)** | Pascagoula, MS, United States | On Site | Nov 06 |
@@ -118,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Newell Brands](https://www.newellbrands.com/)** | **[2027 Newell Brands Intern-HR Talent Management & Development](https://jobright.ai/jobs/info/6ab44d797bd0813713316f2a?utm_campaign=1054&utm_source=git)** | Sandy Springs, GA, United States | On Site | Nov 06 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern](https://jobright.ai/jobs/info/6ac3e41c372c01f6cd732b82?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 06 |
 | **[Tenneco](https://www.tenneco.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6aee5922caf8e660b87decf0?utm_campaign=1054&utm_source=git)** | Greenville, MI, United States | On Site | Nov 06 |
-| **[Continental](https://www.continental.com)** | **[2027 Internship - Human Resources (Hoosier Racing Tire)](https://jobright.ai/jobs/info/6aedec7ce0c9de7b05f87db9?utm_campaign=1054&utm_source=git)** | Plymouth, IN, United States | Hybrid | Nov 06 |
+| **[Continental](https://www.continental.com)** | **[2027 Internship - Human Resources (Hoosier Racing Tire)](https://jobright.ai/jobs/info/6aedec68caf8e660b87d871c?utm_campaign=1054&utm_source=git)** | Plymouth, IN, United States | Hybrid | Nov 06 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Internal Communications](https://jobright.ai/jobs/info/6aee04eecaf8e660b87d9994?utm_campaign=1054&utm_source=git)** | Okemos, MI, United States | Hybrid | Nov 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6ab58d8ab3db59402d0fd889?utm_campaign=1054&utm_source=git)** | Pearland, TX, United States | On Site | Nov 06 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Co-op Human Resources - Animal Health](https://jobright.ai/jobs/info/6ab43de27bd081371331684f?utm_campaign=1054&utm_source=git)** | Johns Creek, GA, United States | Hybrid | Nov 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Huntsville Hospital](https://www.huntsvillehospital.org/)** | **[HRIS Specialist Intern](https://jobright.ai/jobs/info/6aed18bf465e3d2371384731?utm_campaign=1054&utm_source=git)** | Huntsville, AL, United States | On Site | Nov 05 |
 | **[Los Angeles Regional Food Bank](https://www.lafoodbank.org/)** | **[HR Intern](https://jobright.ai/jobs/info/6aed4d9ec3da5933b81367ea?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 05 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Enterprise Internship, Graduate Human Resources/People & Culture/Talent Acquisition](https://jobright.ai/jobs/info/6aec059555daad9c1f546bcd?utm_campaign=1054&utm_source=git)** | Alabama, United States | Remote | Nov 05 |
-| **[Marsh People Solutions](http://www.mercer.com)** | **[2027 Summer Internship Program: Construction/Surety Specialty Practice](https://jobright.ai/jobs/info/6ae509e9fb2cd420ace5c47e?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Nov 05 |
-| ↳ | **[2027 Summer Internship Program - Personal Insurance](https://jobright.ai/jobs/info/6ae509cdfb2cd420ace5c46d?utm_campaign=1054&utm_source=git)** | McMinnville, OR, United States | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
