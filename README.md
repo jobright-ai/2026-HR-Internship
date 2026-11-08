@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6af01b8640b5de2d2b313429?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Remote | Nov 07 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/6aee74c55c81f621d3116a1e?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 07 |
 | **[Celestica](https://www.celestica.com)** | **[Student Intern, Human Resources Information Systems (HRIS) Job Details / Celestica International LP](https://jobright.ai/jobs/info/6aefcada7bf8e8b9eaf810a2?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 07 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[2027 Internship Program - Human Resources Job Details / Bell](https://jobright.ai/jobs/info/6aefc64d9f8e479a8bcfeb0c?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | Hybrid | Nov 07 |
 | ↳ | **[2027 Graduate Program - Human Resources Job Details / Bell](https://jobright.ai/jobs/info/6aefc641676e3f91d326dcdc?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | Hybrid | Nov 07 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Data Analyst (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aea816c897466e69e31f87d?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 07 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 07 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Nov 07 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 07 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 07 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Nov 07 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 07 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2027](https://jobright.ai/jobs/info/6a9e837f49f4604c7894f33d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 07 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - BMTA-RIA Retirement Plans](https://jobright.ai/jobs/info/6ad25cf5f04335fc70ed5164?utm_campaign=1054&utm_source=git)** | Berwyn, PA, United States | On Site | Nov 07 |
 | **[Victaulic](https://www.victaulic.com)** | **[HR Intern - Brampton, ON (On-site)](https://jobright.ai/jobs/info/6ab6db6462bb1fbd451dc307?utm_campaign=1054&utm_source=git)** | Brampton, ON, Canada | On Site | Nov 07 |
@@ -139,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[HII](https://hii.com)** | **[2027 COLLEGE SUMMER INTERN- HUMAN RESOURCES Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6aee0a97bd2f33eea72d69f6?utm_campaign=1054&utm_source=git)** | Pascagoula, MS, United States | On Site | Nov 06 |
 | **[Vizient](https://www.vizientinc.com)** | **[2027 Summer Internship - Cross-Business-Unit Proposal Development](https://jobright.ai/jobs/info/6aee0a18caf8e660b87da00a?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
 | **[Tenneco](https://www.tenneco.com/)** | **[HR Intern Job Details / Tenneco](https://jobright.ai/jobs/info/6aea819c897466e69e31f8a5?utm_campaign=1054&utm_source=git)** | Greenville, MI, United States | On Site | Nov 06 |
-| **[Newell Brands](https://www.newellbrands.com/)** | **[2027 Newell Brands Intern-HR Talent Management & Development](https://jobright.ai/jobs/info/6ad9b8aab0725dc268ddd9fe?utm_campaign=1054&utm_source=git)** | Sandy Springs, GA, United States | On Site | Nov 06 |
+| **[Newell Brands](https://www.newellbrands.com/)** | **[2027 Newell Brands Intern-HR Talent Management & Development](https://jobright.ai/jobs/info/6ab44d797bd0813713316f2a?utm_campaign=1054&utm_source=git)** | Sandy Springs, GA, United States | On Site | Nov 06 |
 | **[Tenneco](https://www.tenneco.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6aee5922caf8e660b87decf0?utm_campaign=1054&utm_source=git)** | Greenville, MI, United States | On Site | Nov 06 |
 | **[Continental](https://www.continental.com)** | **[2027 Internship - Human Resources (Hoosier Racing Tire)](https://jobright.ai/jobs/info/6aedec7ce0c9de7b05f87db9?utm_campaign=1054&utm_source=git)** | Plymouth, IN, United States | Hybrid | Nov 06 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Internal Communications](https://jobright.ai/jobs/info/6aee04eecaf8e660b87d9994?utm_campaign=1054&utm_source=git)** | Okemos, MI, United States | Hybrid | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Recruiting Intern Long Island NY](https://jobright.ai/jobs/info/6aedea79e0c9de7b05f87cda?utm_campaign=1054&utm_source=git)** | Farmingdale, NY, United States | Hybrid | Nov 06 |
 | **[First Southern National Bank](https://www.fsnb.net)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aede943e0c9de7b05f87c50?utm_campaign=1054&utm_source=git)** | Stanford, KY, United States | On Site | Nov 06 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[People Analytics Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6acfa0792cc4e9d17e9098ad?utm_campaign=1054&utm_source=git)** | Franklin, TN, United States | On Site | Nov 06 |
-| **[The GIANT Company](https://giantfoodstores.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab5a1d5d85922de20ce2bc9?utm_campaign=1054&utm_source=git)** | Carlisle, PA, United States | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
