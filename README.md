@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Grid](https://www.nationalgrid.com)** | **[Summer 2027 Internship Program: Workforce Development & Strategy - Waltham, MA](https://jobright.ai/jobs/info/6af16a45457d636c09131226?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 08 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6af14c59260114b1b45ec3f4?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Nov 08 |
 | **[REGENXBIO](http://regenxbio.com)** | **[People Intern](https://jobright.ai/jobs/info/6abd05478ff3fb9b3bc6e0cd?utm_campaign=1054&utm_source=git)** | Rockville, MD, United States | Hybrid | Nov 08 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6a6972dd2baf19558c923779?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 08 |
@@ -76,15 +77,15 @@ For a complete list, click the following sortable link below:
 | **[Summit](http://www.summitholdings.com)** | **[HR Intern 2027](https://jobright.ai/jobs/info/6af1194040b5de2d2b315e9e?utm_campaign=1054&utm_source=git)** | Lakeland, FL, United States | On Site | Nov 07 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 07 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 07 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Nov 07 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 07 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Nov 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a99a83490a313642c651e57?utm_campaign=1054&utm_source=git)** | Springfield, Missouri, United States | On Site | Nov 07 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a99a82b040e5c3d07597ea9?utm_campaign=1054&utm_source=git)** | Joplin, MO, United States | On Site | Nov 07 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2027](https://jobright.ai/jobs/info/6a9e837f49f4604c7894f33d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 07 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - BMTA-RIA Retirement Plans](https://jobright.ai/jobs/info/6ad25cf5f04335fc70ed5164?utm_campaign=1054&utm_source=git)** | Berwyn, PA, United States | On Site | Nov 07 |
 | **[Victaulic](https://www.victaulic.com)** | **[HR Intern - Brampton, ON (On-site)](https://jobright.ai/jobs/info/6ab6db6462bb1fbd451dc307?utm_campaign=1054&utm_source=git)** | Brampton, ON, Canada | On Site | Nov 07 |
-| **[Interfor](http://www.interfor.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aea3ecf440b469a1c0ac184?utm_campaign=1054&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 07 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab6f0953a2ec87116e24b56?utm_campaign=1054&utm_source=git)** | Chase, British Columbia, Canada | On Site | Nov 07 |
+| **[Interfor](http://www.interfor.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab6f0953a2ec87116e24b56?utm_campaign=1054&utm_source=git)** | Chase, British Columbia, Canada | On Site | Nov 07 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6aea3ecf440b469a1c0ac184?utm_campaign=1054&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 07 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Spring 2027 FOX Corporation Internship Program - Ad Sales](https://jobright.ai/jobs/info/6ab60516b3db59402d0ffb00?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Recruiting / Business Support Internship – Remote](https://jobright.ai/jobs/info/6ad2415825289a0b3bf5542d?utm_campaign=1054&utm_source=git)** | Morgantown, WV, United States | Remote | Nov 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a9a3234ad752e2ad55040c3?utm_campaign=1054&utm_source=git)** | Beaumont, TX, United States | On Site | Nov 07 |
@@ -102,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2027](https://jobright.ai/jobs/info/6aaa1b8aa2db131437b60968?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Nov 06 |
 | **[Amsted Automotive](https://amstedauto.com)** | **[Talent Acquisition (Temp to hire)](https://jobright.ai/jobs/info/6ab4566055e9168cf5ea5e84?utm_campaign=1054&utm_source=git)** | Saginaw, MI, United States | On Site | Nov 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6a9905fc11f73b6462c90058?utm_campaign=1054&utm_source=git)** | Baytown, TX, United States | On Site | Nov 06 |
+| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6a985995af954907d6572e71?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 06 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2027 - Human Resources Intern Job Details / PACCAR](https://jobright.ai/jobs/info/6aeeaceb7bf8e8b9eaf7c5a9?utm_campaign=1054&utm_source=git)** | Kirkland, WA, United States | On Site | Nov 06 |
 | ↳ | **[Summer Internship - Talent Acquisition Job Details / PACCAR](https://jobright.ai/jobs/info/6aeeace60fe787d00ed18223?utm_campaign=1054&utm_source=git)** | Renton, WA, United States | On Site | Nov 06 |
 | ↳ | **[Human Resources Intern Job Details / PACCAR](https://jobright.ai/jobs/info/6aeeacae0fe787d00ed181d4?utm_campaign=1054&utm_source=git)** | Chillicothe, OH, United States | On Site | Nov 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paradies Lagardère](https://www.paradieslagardere.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ad2483883ada13a9da049b3?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Internship - Lawrence, MA](https://jobright.ai/jobs/info/6ab40981ef911c35dffa2eb7?utm_campaign=1054&utm_source=git)** | Lawrence, MA, United States | On Site | Nov 06 |
 | **[Atlas Copco Group](https://www.atlascopcogroup.com)** | **[Human Resources Intern - Rock Hill, SC](https://jobright.ai/jobs/info/6aee0f0ac7498922fe0c76f6?utm_campaign=1054&utm_source=git)** | Rock Hill, New York, United States | Hybrid | Nov 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a9863b111f73b6462c8e5c1?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 06 |
-| **[HII](https://hii.com)** | **[2027 COLLEGE SUMMER INTERN- HUMAN RESOURCES Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6aee0a97bd2f33eea72d69f6?utm_campaign=1054&utm_source=git)** | Pascagoula, MS, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
