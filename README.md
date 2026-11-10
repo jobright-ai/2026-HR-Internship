@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kahua](http://www.kahua.com)** | **[Summer 2027 Internship](https://jobright.ai/jobs/info/6af28582d622b1b75451a27e?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, United States | On Site | Nov 09 |
+| **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af2830241f4504a0888c71d?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR Partner, IT (Winter/Spring 2027)](https://jobright.ai/jobs/info/6af270bf62fb9f5fcd897ac1?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 09 |
 | **[Think Academy U.S](https://www.thethinkacademy.com)** | **[HR Intern - Mandarin Required](https://jobright.ai/jobs/info/6af26f2d1aaffa49f7384960?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Nov 09 |
 | **[Dollar General](https://www.dollargeneral.com/)** | **[DC HR SUMMER INTERN MARION DISTRIBUTION CENTER MARION INDIANA](https://jobright.ai/jobs/info/6af23bab905985ccaa40ade1?utm_campaign=1054&utm_source=git)** | Marion, IN, United States | On Site | Nov 09 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Intensive Case Management Intern - Spring 2027](https://jobright.ai/jobs/info/6af1f5c60cb834dad93216ae?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Nov 09 |
 | **[Elmington](http://elmingtoncapital.com)** | **[OneElm Summer Intern - Events & Employee Experience](https://jobright.ai/jobs/info/6af1f5961116f6f0a0763bf2?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Nov 09 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6af1e9890cb834dad93210cd?utm_campaign=1054&utm_source=git)** | Brillion, WI, United States | On Site | Nov 09 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6af1f48862fb9f5fcd892104?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp - HR Business Partner Intern](https://jobright.ai/jobs/info/6a9af4c99c24314c35f965d2?utm_campaign=1054&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Nov 09 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (HR Leadership & Culture)](https://jobright.ai/jobs/info/6ad6415967bec1d0d9c6c896?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Nov 09 |
 | **[AZCO](http://www.azco-inc.com)** | **[Payroll Co-Op - AZCO (Appleton)](https://jobright.ai/jobs/info/6a7f9d2fe51a1e18a24148be?utm_campaign=1054&utm_source=git)** | Appleton, WI, United States | On Site | Nov 09 |
@@ -132,9 +133,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Graduate Program - Human Resources Job Details / Bell](https://jobright.ai/jobs/info/6aefc641676e3f91d326dcdc?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | Hybrid | Nov 07 |
 | **[Rocket](https://www.rocketcompanies.com)** | **[Talent & Inclusion Administrative Intern - Winter 2027](https://jobright.ai/jobs/info/6adfd7ce5dc7953215a4388a?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Nov 07 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Nov 07 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 07 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 07 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 07 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a99a83490a313642c651e57?utm_campaign=1054&utm_source=git)** | Springfield, Missouri, United States | On Site | Nov 07 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a99a82b040e5c3d07597ea9?utm_campaign=1054&utm_source=git)** | Joplin, MO, United States | On Site | Nov 07 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2027](https://jobright.ai/jobs/info/6a9e837f49f4604c7894f33d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 07 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Operations Support, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6ad2a039c4290cef1412c24c?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 07 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[HR Intern - January 2027 (4-Month Term)](https://jobright.ai/jobs/info/6ad29f7725289a0b3bf57f31?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 07 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Corporate HR Intern (Year-Round)](https://jobright.ai/jobs/info/6ab53825634ec6aa7c0cdaa3?utm_campaign=1054&utm_source=git)** | Mayfield Heights, OH, United States | On Site | Nov 07 |
-| **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a9976b6ad752e2ad54ffb24?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI, United States | On Site | Nov 07 |
+| **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a99746fad752e2ad54ff978?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI, United States | On Site | Nov 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - Greenville, NC](https://jobright.ai/jobs/info/6ab55a524873fd3fd8529243?utm_campaign=1054&utm_source=git)** | Greenville, NC, United States | On Site | Nov 07 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6ad276bd83ada13a9da060b7?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 07 |
 | **[Lockton](https://global.lockton.com)** | **[Summer 2027 Alternative Risk Internship](https://jobright.ai/jobs/info/6ad33e0f25289a0b3bf5a195?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 07 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ad26ab083ada13a9da05b0a?utm_campaign=1054&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Nov 07 |
 | **[Magnera Corporation](https://magnera.com/)** | **[HR, Total Rewards Intern](https://jobright.ai/jobs/info/6aef4a8d8022f8ddd319d6ff?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 07 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Engagement Specialist Co-op, Power Platform](https://jobright.ai/jobs/info/6ad31b1025289a0b3bf59c40?utm_campaign=1054&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee - Fall 2026 Internship](https://jobright.ai/jobs/info/6a965268f28891320e861050?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
