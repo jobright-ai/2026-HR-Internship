@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CEC Entertainment](http://chuckecheese.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a58b6903ac7627fe9ffa865?utm_campaign=1054&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX, United States of America | On Site | Nov 09 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Search and Advisory](https://jobright.ai/jobs/info/6adf68e65dc7953215a3e96d?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 09 |
 | **[Kahua](http://www.kahua.com)** | **[Summer 2027 Internship](https://jobright.ai/jobs/info/6af28582d622b1b75451a27e?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, United States | On Site | Nov 09 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af2830241f4504a0888c71d?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 09 |
@@ -132,17 +133,17 @@ For a complete list, click the following sortable link below:
 | **[Bell](https://letstalk.bell.ca/en)** | **[2027 Internship Program - Human Resources Job Details / Bell](https://jobright.ai/jobs/info/6aefc64d9f8e479a8bcfeb0c?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | Hybrid | Nov 07 |
 | ↳ | **[2027 Graduate Program - Human Resources Job Details / Bell](https://jobright.ai/jobs/info/6aefc641676e3f91d326dcdc?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | Hybrid | Nov 07 |
 | **[Rocket](https://www.rocketcompanies.com)** | **[Talent & Inclusion Administrative Intern - Winter 2027](https://jobright.ai/jobs/info/6adfd7ce5dc7953215a4388a?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Nov 07 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 07 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Nov 07 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 07 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dfd13e51a1e18a240b53e?utm_campaign=1054&utm_source=git)** | Waltham, MA, United States | On Site | Nov 07 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec9ae51a1e18a240af90?utm_campaign=1054&utm_source=git)** | Queens, NY, United States | On Site | Nov 07 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1054&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Nov 07 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a99a83490a313642c651e57?utm_campaign=1054&utm_source=git)** | Springfield, Missouri, United States | On Site | Nov 07 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a99a82b040e5c3d07597ea9?utm_campaign=1054&utm_source=git)** | Joplin, MO, United States | On Site | Nov 07 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2027](https://jobright.ai/jobs/info/6a9e837f49f4604c7894f33d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 07 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - BMTA-RIA Retirement Plans](https://jobright.ai/jobs/info/6ad25cf5f04335fc70ed5164?utm_campaign=1054&utm_source=git)** | Berwyn, PA, United States | On Site | Nov 07 |
 | **[Victaulic](https://www.victaulic.com)** | **[HR Intern - Brampton, ON (On-site)](https://jobright.ai/jobs/info/6ab6db6462bb1fbd451dc307?utm_campaign=1054&utm_source=git)** | Brampton, ON, Canada | On Site | Nov 07 |
-| **[Interfor](http://www.interfor.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aea3ecf440b469a1c0ac184?utm_campaign=1054&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 07 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab6f0953a2ec87116e24b56?utm_campaign=1054&utm_source=git)** | Chase, British Columbia, Canada | On Site | Nov 07 |
+| **[Interfor](http://www.interfor.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab6f0953a2ec87116e24b56?utm_campaign=1054&utm_source=git)** | Chase, British Columbia, Canada | On Site | Nov 07 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6aea3ecf440b469a1c0ac184?utm_campaign=1054&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 07 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Spring 2027 FOX Corporation Internship Program - Ad Sales](https://jobright.ai/jobs/info/6ab60516b3db59402d0ffb00?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Recruiting / Business Support Internship – Remote](https://jobright.ai/jobs/info/6ad2415825289a0b3bf5542d?utm_campaign=1054&utm_source=git)** | Morgantown, WV, United States | Remote | Nov 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a9a3234ad752e2ad55040c3?utm_campaign=1054&utm_source=git)** | Beaumont, TX, United States | On Site | Nov 07 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Operations Support, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6ad2a039c4290cef1412c24c?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 07 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[HR Intern - January 2027 (4-Month Term)](https://jobright.ai/jobs/info/6ad29f7725289a0b3bf57f31?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 07 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Corporate HR Intern (Year-Round)](https://jobright.ai/jobs/info/6ab53825634ec6aa7c0cdaa3?utm_campaign=1054&utm_source=git)** | Mayfield Heights, OH, United States | On Site | Nov 07 |
-| **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a99746fad752e2ad54ff978?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI, United States | On Site | Nov 07 |
+| **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6a9976b6ad752e2ad54ffb24?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI, United States | On Site | Nov 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - Greenville, NC](https://jobright.ai/jobs/info/6ab55a524873fd3fd8529243?utm_campaign=1054&utm_source=git)** | Greenville, NC, United States | On Site | Nov 07 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6ad276bd83ada13a9da060b7?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 07 |
 | **[Lockton](https://global.lockton.com)** | **[Summer 2027 Alternative Risk Internship](https://jobright.ai/jobs/info/6ad33e0f25289a0b3bf5a195?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 07 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ad26ab083ada13a9da05b0a?utm_campaign=1054&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Nov 07 |
 | **[Magnera Corporation](https://magnera.com/)** | **[HR, Total Rewards Intern](https://jobright.ai/jobs/info/6aef4a8d8022f8ddd319d6ff?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 07 |
-| **[Teck Resources Limited](http://www.teck.com/)** | **[Engagement Specialist Co-op, Power Platform](https://jobright.ai/jobs/info/6ad31b1025289a0b3bf59c40?utm_campaign=1054&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
