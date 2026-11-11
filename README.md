@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af42a1d9aac15a56d824c87?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Nov 11 |
+| **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[TEMP HRIS ASSISTANT](https://jobright.ai/jobs/info/6af41ce8e229a09f4237a60d?utm_campaign=1054&utm_source=git)** | Bronx, NY, United States | On Site | Nov 10 |
 | **[Robinhood](https://www.robinhood.com)** | **[People Partner Intern (Summer 2027)](https://jobright.ai/jobs/info/6af3b0cef6053e296fc7f4f3?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2027 Intern](https://jobright.ai/jobs/info/6a5238bf8a74e077472f39ca?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 10 |
 | **[ProPetro Services, Inc](http://www.propetroservices.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af3dde8ebe39ae3299d911b?utm_campaign=1054&utm_source=git)** | Midland, TX, United States | On Site | Nov 10 |
@@ -72,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Magellan Aerospace Limited](http://magellan.aero/)** | **[Human Resources Co-op Student / Intern (Winter Term - Jan to April 2027)](https://jobright.ai/jobs/info/6af3bfd14ac248020e8d4451?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Nov 10 |
 | **[RNGD](https://rngd.com)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/6af39ef54ac248020e8d3427?utm_campaign=1054&utm_source=git)** | Metairie, LA, United States | On Site | Nov 10 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a8e0c0b581f2d7bfdfeac60?utm_campaign=1054&utm_source=git)** | Concord, CA, United States | On Site | Nov 10 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6af36a20769e9374033c62bc?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 10 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac7cd760e573df8adc744e9?utm_campaign=1054&utm_source=git)** | Chino, CA, United States | On Site | Nov 10 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6af36a20769e9374033c62bc?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 10 |
 | **[Home Financing Center, Inc.](http://homefinancingcenter.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6af3961b4ac248020e8d298f?utm_campaign=1054&utm_source=git)** | Coral Gables, FL, United States | On Site | Nov 10 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Site Agreements - Intern](https://jobright.ai/jobs/info/6af352944ac248020e8cffeb?utm_campaign=1054&utm_source=git)** | North Wales, Pennsylvania, United States | Hybrid | Nov 10 |
 | **[Coinbase](https://www.coinbase.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6aa0963f3b5aa83237b0a13b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 10 |
@@ -109,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a9e971f68f82b403673ab76?utm_campaign=1054&utm_source=git)** | Richmond, TX, United States | On Site | Nov 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6a51db138d7d3e6cf1cc3e38?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 10 |
 | **[Institute for Youth in Policy](https://yipinstitute.org)** | **[Corporate Intern (Human Resources, Marketing, Development, Technology)](https://jobright.ai/jobs/info/6af3210f4ac248020e8cdeff?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 10 |
-| **[Genmab](https://www.genmab.com)** | **[Patient Engagement & Professional Relations Intern](https://jobright.ai/jobs/info/6ad62af83dc655658d8e2db5?utm_campaign=1054&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
+| **[Genmab](https://www.genmab.com)** | **[Patient Engagement & Professional Relations Intern](https://jobright.ai/jobs/info/6ae8aa6203f4a1104b254f50?utm_campaign=1054&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
 | **[Google](https://www.google.com)** | **[People Analytics Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6accb4abe7a1d9333210e75b?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 10 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Workforce Development Intern](https://jobright.ai/jobs/info/6ad6415452aa6152bb692efb?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Nov 10 |
 | **[American Plastics](https://www.americanplasticsllc.com/)** | **[Human Resources Paid Internship](https://jobright.ai/jobs/info/6af3689410c7aed77861a06a?utm_campaign=1054&utm_source=git)** | Jefferson City, MO, United States | On Site | Nov 10 |
@@ -120,9 +122,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/6a53518a8576ec69c014f62f?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | ↳ | **[Human Resources Department - Expatriate Management Team Intern](https://jobright.ai/jobs/info/6a58e221c8e3a473cb8a3909?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Strategic Initiatives (Internal Communication)](https://jobright.ai/jobs/info/6ae50079eab1f9673097ed8f?utm_campaign=1054&utm_source=git)** | Lakewood, CO, United States | Hybrid | Nov 09 |
-| **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Junior HRBP](https://jobright.ai/jobs/info/6af2fb91f6053e296fc78b31?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 09 |
-| ↳ | **[Junior HRBP](https://jobright.ai/jobs/info/6af2faa610c7aed778616921?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Nov 09 |
+| **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Junior HRBP](https://jobright.ai/jobs/info/6af2faa610c7aed778616921?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | On Site | Nov 09 |
 | ↳ | **[Junior HRBP](https://jobright.ai/jobs/info/6af2faa34ac248020e8cd397?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
+| ↳ | **[Junior HRBP](https://jobright.ai/jobs/info/6af2fb91f6053e296fc78b31?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 09 |
 | **[CEC Entertainment](http://chuckecheese.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6a58b6903ac7627fe9ffa865?utm_campaign=1054&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX, United States of America | On Site | Nov 09 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Search and Advisory](https://jobright.ai/jobs/info/6adf68e65dc7953215a3e96d?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 09 |
 | **[Kahua](http://www.kahua.com)** | **[Summer 2027 Internship](https://jobright.ai/jobs/info/6af28582d622b1b75451a27e?utm_campaign=1054&utm_source=git)** | Alpharetta, GA, United States | On Site | Nov 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6adfacedc5c64fa3d9cbe527?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Human Resources & Culture Internships – Summer 2027](https://jobright.ai/jobs/info/6af21b5f62fb9f5fcd8942f2?utm_campaign=1054&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | ↳ | **[Human Resources & Culture Internships – Summer 2027](https://jobright.ai/jobs/info/6af21b5e62fb9f5fcd8942ef?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
-| ↳ | **[Human Resources & Culture Internships – Summer 2027](https://jobright.ai/jobs/info/6af21af462fb9f5fcd894012?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern -Summer 2027](https://jobright.ai/jobs/info/6af21ad962fb9f5fcd893fd4?utm_campaign=1054&utm_source=git)** | Lethbridge, AB, Canada | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
