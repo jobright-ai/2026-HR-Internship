@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Total Rewards Intern](https://jobright.ai/jobs/info/6aa06892dbc0e60e37e0d690?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 12 |
+| **[Lima One Capital](https://www.limaone.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab13046d2a93d5a97eb92a6?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Nov 12 |
+| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[College Recruitment Internship CO-OP Opportunities (2027)](https://jobright.ai/jobs/info/6abd0711064da25272dfb0bf?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Nov 12 |
 | **[DP World](https://www.dpworld.com/)** | **[HRIS Intern](https://jobright.ai/jobs/info/6ad909beb0725dc268dd9109?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 12 |
 | **[Honeywell Aerospace](https://www.honeywellaerospace.com/)** | **[Future HR Leaders - Summer 2027 Internship (US Person Required)](https://jobright.ai/jobs/info/6aa06a9aa2266b538d230317?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Generac](https://www.generac.com)** | **[Intern Human Resources Shared Services](https://jobright.ai/jobs/info/6af492722278454e18c3626e?utm_campaign=1054&utm_source=git)** | Waukesha, WI, United States | On Site | Nov 12 |
@@ -107,9 +110,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Workforce and Rewards Summer Associate (MBA or Master's Track) - Los Angeles - MBA Program 2027](https://jobright.ai/jobs/info/6aa02ad7a2266b538d22e7f5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 11 |
 | ↳ | **[Workforce and Rewards Summer Intern- New York- College Program 2027](https://jobright.ai/jobs/info/6adbec7246a8cabdc1ff5bd9?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 11 |
 | ↳ | **[Workforce and Rewards Summer Intern- Philadelphia- College Program 2027](https://jobright.ai/jobs/info/6adbec579e3e874dbfba2b8b?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 11 |
-| ↳ | **[Workforce and Rewards Summer Intern- Atlanta GA- College Program 2027](https://jobright.ai/jobs/info/6adbec4146a8cabdc1ff5bd1?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 11 |
-| ↳ | **[Workforce and Rewards Summer Intern- Washington DC- College Program 2027](https://jobright.ai/jobs/info/6adbb49b46a8cabdc1ff44f5?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 11 |
 | ↳ | **[Workforce and Rewards Summer Intern- Boston MA- College Program 2027](https://jobright.ai/jobs/info/6adbec3f389e06bb41ad4d0e?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 11 |
+| ↳ | **[Workforce and Rewards Summer Intern- Washington DC- College Program 2027](https://jobright.ai/jobs/info/6adbb49b46a8cabdc1ff44f5?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 11 |
+| ↳ | **[Workforce and Rewards Summer Intern- Atlanta GA- College Program 2027](https://jobright.ai/jobs/info/6adbec4146a8cabdc1ff5bd1?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 11 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2027 Internship Program: Human Resources Intern](https://jobright.ai/jobs/info/6af4bf192278454e18c38133?utm_campaign=1054&utm_source=git)** | Fort Washington, PA, United States | On Site | Nov 11 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6af4baec1b2c5dcbbcd63c15?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 11 |
 | **[ATC](http://www.atcllc.com/)** | **[Intern-Human Resources Summer 2027](https://jobright.ai/jobs/info/6ab155fd23005eee35459a7e?utm_campaign=1054&utm_source=git)** | Pewaukee, WI, United States | On Site | Nov 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[HRBP Project Intern (TikTok LIVE) - 2026 Fall](https://jobright.ai/jobs/info/6a705b59b85a7d35acd1bc67?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 11 |
 | ↳ | **[Payroll Analyst Project Intern (HROP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a572a3a21f64463ad35822b?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 11 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af42a1d9aac15a56d824c87?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Nov 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern -Summer 2027](https://jobright.ai/jobs/info/6a9eb0ba68f82b403673b237?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 10 |
-| **[Robinhood](https://www.robinhood.com)** | **[People Partner Intern (Summer 2027)](https://jobright.ai/jobs/info/6af3b0cef6053e296fc7f4f3?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
-| **[ProPetro Services, Inc](http://www.propetroservices.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af3dde8ebe39ae3299d911b?utm_campaign=1054&utm_source=git)** | Midland, TX, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
