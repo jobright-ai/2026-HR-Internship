@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WD](https://www.westerndigital.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6a99d5e5040e5c3d07599324?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 13 |
+| ↳ | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aa099e1500b01124c77a0aa?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 13 |
 | **[Securitas Security Services USA, Inc.](http://www.securitasinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a99be1c551435518ebf0bcd?utm_campaign=1054&utm_source=git)** | Dublin, OH, United States | On Site | Nov 12 |
 | **[Portnox](http://portnox.com/)** | **[Intern](https://jobright.ai/jobs/info/6abeca4e0e027c0f3b39b0f5?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 12 |
 | **[The Goley Companies](https://thegoleycompanies.com/)** | **[People & Culture Intern (HR)](https://jobright.ai/jobs/info/6af65e67f10ae27369e190f5?utm_campaign=1054&utm_source=git)** | Indiana, Pennsylvania, United States | Hybrid | Nov 12 |
@@ -85,13 +87,13 @@ For a complete list, click the following sortable link below:
 | **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern, Compensation & HR Systems - Summer 2027](https://jobright.ai/jobs/info/6af61b80323c531f31e2fdde?utm_campaign=1054&utm_source=git)** | Gainesville, GA, United States | On Site | Nov 12 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/6aa0acb1a2266b538d231ceb?utm_campaign=1054&utm_source=git)** | Westchester, IL, United States | Hybrid | Nov 12 |
 | **[American Plastics](https://www.americanplasticsllc.com/)** | **[Human Resources Paid Internship](https://jobright.ai/jobs/info/6af3689410c7aed77861a06a?utm_campaign=1054&utm_source=git)** | Jefferson City, MO, United States | On Site | Nov 12 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16842ef23570cae243abb?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Nov 12 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1633a2f936e4a53dab783?utm_campaign=1054&utm_source=git)** | Pensacola, FL, United States | Hybrid | Nov 12 |
 | **[Forbright Bank](https://www.forbrightbank.com)** | **[Intern, Human Resources and Community Impact](https://jobright.ai/jobs/info/6ae37fd0fb2cd420ace517c0?utm_campaign=1054&utm_source=git)** | Chevy Chase, MD, United States | On Site | Nov 12 |
 | **[WEP Clinical](http://www.wepclinical.com)** | **[HR Intern](https://jobright.ai/jobs/info/6af5d24e80054650a5e7926d?utm_campaign=1054&utm_source=git)** | Morrisville, NC, United States | Hybrid | Nov 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a9799eea702dd5c73151a69?utm_campaign=1054&utm_source=git)** | Charleston, SC, United States | On Site | Nov 12 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6abd49b08ff3fb9b3bc6fc44?utm_campaign=1054&utm_source=git)** | Sumter, SC, United States | On Site | Nov 12 |
 | ↳ | **[Spring 2027 Management Trainee Intern - Reno/Northern Nevada Area, NV](https://jobright.ai/jobs/info/6abc45f6d6acfd3dd29fd04c?utm_campaign=1054&utm_source=git)** | Reno, NV, United States | On Site | Nov 12 |
-| **[AgeRight](https://www.agerightcaremanagement.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6adac349d481921cb9ec21fb?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Nov 12 |
+| **[AgeRight](https://www.agerightcaremanagement.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7e36f67bec1d0d9c7a263?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Nov 12 |
 | **[The Manitowoc Company](http://www.manitowoc.com/)** | **[Intern Summer 2027 - Human Resources](https://jobright.ai/jobs/info/6abc3af97119e56191cec2f2?utm_campaign=1054&utm_source=git)** | Greencastle, PA, United States | On Site | Nov 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2026 Internship](https://jobright.ai/jobs/info/6aa1629c2f936e4a53dab754?utm_campaign=1054&utm_source=git)** | Salinas, CA, United States | On Site | Nov 12 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Intensive Case Management Intern - Spring 2027](https://jobright.ai/jobs/info/6af1f5c60cb834dad93216ae?utm_campaign=1054&utm_source=git)** | Charlottesville, VA, United States | On Site | Nov 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AlphaSights](http://www.alphasights.com)** | **[Talent Operations Intern, 2027](https://jobright.ai/jobs/info/6af4cef49144106c56a21861?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 11 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Environmental Health and Safety Process and Site Support - Intern](https://jobright.ai/jobs/info/6af49cb42278454e18c36ba7?utm_campaign=1054&utm_source=git)** | Elkhorn, NE, United States | Remote | Nov 11 |
 | ↳ | **[2027 Future Talent Program – Global Clinical Supply - Co-op](https://jobright.ai/jobs/info/6af4d434cbd2ee75d155d755?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Nov 11 |
-| **[Rantec Power Systems Inc.](https://rantec.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af4a30acd7be4db20d87171?utm_campaign=1054&utm_source=git)** | Los Osos, CA, United States | On Site | Nov 11 |
-| **[Saint Laurent](http://www.ysl.com)** | **[SAINT LAURENT Human Resources Internship (2027)](https://jobright.ai/jobs/info/6af4e15dcd7be4db20d89505?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
