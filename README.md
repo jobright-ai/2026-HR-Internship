@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Portnox](http://portnox.com/)** | **[Intern](https://jobright.ai/jobs/info/6abeca4e0e027c0f3b39b0f5?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 12 |
 | **[The Goley Companies](https://thegoleycompanies.com/)** | **[People & Culture Intern (HR)](https://jobright.ai/jobs/info/6af65e67f10ae27369e190f5?utm_campaign=1054&utm_source=git)** | Indiana, Pennsylvania, United States | Hybrid | Nov 12 |
 | **[Samantha Siu New York](https://www.samanthasiu.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6af6643b8cc703bba47b27db?utm_campaign=1054&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Nov 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern Boca Raton Coral Springs](https://jobright.ai/jobs/info/6af6629480054650a5e7e99c?utm_campaign=1054&utm_source=git)** | Delray Beach, FL, United States | On Site | Nov 12 |
@@ -88,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[WEP Clinical](http://www.wepclinical.com)** | **[HR Intern](https://jobright.ai/jobs/info/6af5d24e80054650a5e7926d?utm_campaign=1054&utm_source=git)** | Morrisville, NC, United States | Hybrid | Nov 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6abd49b08ff3fb9b3bc6fc44?utm_campaign=1054&utm_source=git)** | Sumter, SC, United States | On Site | Nov 12 |
 | ↳ | **[Spring 2027 Management Trainee Intern - Reno/Northern Nevada Area, NV](https://jobright.ai/jobs/info/6abc45f6d6acfd3dd29fd04c?utm_campaign=1054&utm_source=git)** | Reno, NV, United States | On Site | Nov 12 |
-| **[AgeRight](https://www.agerightcaremanagement.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6adac349d481921cb9ec21fb?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Nov 12 |
+| **[AgeRight](https://www.agerightcaremanagement.com)** | **[Internship - Recruiting/Talent Acquisition](https://jobright.ai/jobs/info/6ad7e36f67bec1d0d9c7a263?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Nov 12 |
 | **[The Manitowoc Company](http://www.manitowoc.com/)** | **[Intern Summer 2027 - Human Resources](https://jobright.ai/jobs/info/6abc3af97119e56191cec2f2?utm_campaign=1054&utm_source=git)** | Greencastle, PA, United States | On Site | Nov 12 |
 | **[ATP Tour](https://www.atptour.com/)** | **[Intern, People & Culture](https://jobright.ai/jobs/info/6af5f0a980054650a5e7a53e?utm_campaign=1054&utm_source=git)** | Atlantic Beach, Florida, United States | Hybrid | Nov 12 |
 | **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: Marketing & Communications, Sports Sponsorships, Folds of Honor](https://jobright.ai/jobs/info/6af561d3cbd2ee75d1561164?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Maternity Care Coalition](https://maternitycarecoalition.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af4d3e7cbd2ee75d155d6fb?utm_campaign=1054&utm_source=git)** | Philadelphia, PA, United States | Remote | Nov 11 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Workforce and Rewards Summer Associate (MBA or Master's Track) - Chicago - MBA Program 2027](https://jobright.ai/jobs/info/6ae9fcfe913589212b1f1be9?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 11 |
 | ↳ | **[Health and Benefits Summer Intern- Tampa- College Program 2027](https://jobright.ai/jobs/info/6ac438810e027c0f3b3aa363?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Hybrid | Nov 11 |
-| ↳ | **[Workforce and Rewards Summer Intern - Chicago - College Program 2027](https://jobright.ai/jobs/info/6ae9fcd1440b469a1c0a8e3c?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
