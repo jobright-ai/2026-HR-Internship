@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6af4b6441b2c5dcbbcd6390d?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 15 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/6aa45848422289703bd66415?utm_campaign=1054&utm_source=git)** | Rochester, NY, United States | On Site | Nov 15 |
 | **[Diverse Health](https://mydiversehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af9ee0148f3528e5a7301ac?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 15 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/6af9edc2a68705504bebab20?utm_campaign=1054&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Nov 15 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2027 Internship - People Intelligence Intern](https://jobright.ai/jobs/info/6af9ae59a68705504beba39e?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 15 |
 | **[Technology Times](https://www.technology-times.com)** | **[Summer Intern (2027)](https://jobright.ai/jobs/info/6af9cf715c0a9086f3615576?utm_campaign=1054&utm_source=git)** | Woodinville, WA, United States | On Site | Nov 15 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS)](https://jobright.ai/jobs/info/6a9c188ac1d6f91bc3883d69?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | Hybrid | Nov 15 |
@@ -85,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Talent Acquisition (Winter 2027)](https://jobright.ai/jobs/info/6abf016f4ac55253f5d63d8c?utm_campaign=1054&utm_source=git)** | Dorval, QC, Canada | On Site | Nov 14 |
 | **[Vermeer Corporation](https://borestore.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af76a223ba46d7b6c1667fd?utm_campaign=1054&utm_source=git)** | Pella, IA, United States | On Site | Nov 14 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abeaa058ff3fb9b3bc74f76?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
-| ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa168280ffb3d4fea6b48db?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Nov 14 |
+| ↳ | **[Summer Associate Internship (Experience Analyst)](https://jobright.ai/jobs/info/6aa163360ffb3d4fea6b482c?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Nov 14 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern- Summer 2026](https://jobright.ai/jobs/info/696a6bfa5fc862418539706b?utm_campaign=1054&utm_source=git)** | Troy, Michigan, US | On Site | Nov 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter - Starkville, MS Intern](https://jobright.ai/jobs/info/6abffbbed9621c5b28395a80?utm_campaign=1054&utm_source=git)** | Starkville, MS, United States | On Site | Nov 14 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Human Resources Intern - Corporate Services (Kansas City)](https://jobright.ai/jobs/info/6aa3cea9626f9945308b364e?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 14 |
@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ae8f4526c51033758f44882?utm_campaign=1054&utm_source=git)** | Spring Hill, TN, United States | On Site | Nov 14 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[HR Intern Job Details / Mann+Hummel GmbH](https://jobright.ai/jobs/info/6af7e69b42ae65e2c8f39d79?utm_campaign=1054&utm_source=git)** | Gastonia, NC, United States | On Site | Nov 14 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2027: Talent Acceleration Co-op (January to June)](https://jobright.ai/jobs/info/6af77bf13ba46d7b6c1674d3?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | Hybrid | Nov 14 |
-| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6aa5e76a930bff471a2a04f6?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 14 |
 | **[IPG](http://www.itape.com/)** | **[Human Resources Intern - Part-Time](https://jobright.ai/jobs/info/6af7f6b34ddfc50167b956e5?utm_campaign=1054&utm_source=git)** | Sarasota, FL, United States | On Site | Nov 14 |
 | **[Lockton](https://global.lockton.com)** | **[Summer 2027 IT Internship](https://jobright.ai/jobs/info/6abfc1e10e027c0f3b39dc38?utm_campaign=1054&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 14 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2027 (Multiple Locations)](https://jobright.ai/jobs/info/6ab744953a2ec87116e25d46?utm_campaign=1054&utm_source=git)** | Henderson, TX, United States | Remote | Nov 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Human Resource Service Center Intern](https://jobright.ai/jobs/info/6af389ad769e9374033c77bf?utm_campaign=1054&utm_source=git)** | Brookhaven, GA, United States | On Site | Nov 13 |
 | **[Coinbase](https://www.coinbase.com)** | **[Employee and Workplace Experience Intern](https://jobright.ai/jobs/info/6aa08b28ea127c3794697c52?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Nov 13 |
 | **[Cencora](http://www.cencora.com)** | **[Intern, Workforce Experience](https://jobright.ai/jobs/info/6af740138242286400643271?utm_campaign=1054&utm_source=git)** | Conshohocken, PA, United States | Remote | Nov 13 |
+| **[NBCUniversal](https://www.nbcuniversal.com)** | **[Human Resources & Culture Internships – Summer 2027](https://jobright.ai/jobs/info/6af73ee0d0eefb7d11b8a44f?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
