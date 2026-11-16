@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6a6d978057120971bf3b08d8?utm_campaign=1054&utm_source=git)** | Downers Grove, IL, United States | On Site | Nov 15 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Data Analyst (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aea816c897466e69e31f87d?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 15 |
 | **[Samantha Siu New York](https://www.samanthasiu.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6afa29329501ee962015fd2d?utm_campaign=1054&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Nov 15 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6af4b6441b2c5dcbbcd6390d?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 15 |
@@ -103,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://jobright.ai/jobs/info/6a720ef5ee751e0c7934682d?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Nov 14 |
 | **[Circle K](https://www.circlek.com)** | **[Human Resource College Internship](https://jobright.ai/jobs/info/6a68beeb68652d68b3149f84?utm_campaign=1054&utm_source=git)** | Corona, CA, United States | On Site | Nov 14 |
 | **[Tillamook County Creamery Association](https://www.tillamook.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6adbc78a389e06bb41ad3c83?utm_campaign=1054&utm_source=git)** | Portland, OR, United States | On Site | Nov 14 |
-| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adbc78f389e06bb41ad3c8a?utm_campaign=1054&utm_source=git)** | Des Moines metro, IA, United States | Hybrid | Nov 14 |
+| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6adbe608c5c64fa3d9cb21a5?utm_campaign=1054&utm_source=git)** | Des Moines metro, IA, United States | Hybrid | Nov 14 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: HR - Learning & Development](https://jobright.ai/jobs/info/6aa03fe55b2d5633ef3bd663?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Nov 14 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, Fleet Human Resources](https://jobright.ai/jobs/info/6af79597e3d8d612bf42523c?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 14 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2027: Early Talent Access CO-OP (January to June)](https://jobright.ai/jobs/info/6af773dbd0eefb7d11b8c87e?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | Hybrid | Nov 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Programs Intern - Summer 2027](https://jobright.ai/jobs/info/6af73e7bd0eefb7d11b8a3f2?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Nov 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - Logan](https://jobright.ai/jobs/info/6ada96013a69033df225abc4?utm_campaign=1054&utm_source=git)** | Logan, UT, United States | On Site | Nov 13 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Human Resource Service Center Intern](https://jobright.ai/jobs/info/6af389ad769e9374033c77bf?utm_campaign=1054&utm_source=git)** | Brookhaven, GA, United States | On Site | Nov 13 |
-| **[Coinbase](https://www.coinbase.com)** | **[Employee and Workplace Experience Intern](https://jobright.ai/jobs/info/6aa08b28ea127c3794697c52?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Remote | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
