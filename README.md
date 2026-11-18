@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[2027 Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/6a585dd83330ca6f993c42e2?utm_campaign=1054&utm_source=git)** | Owatonna, MN, United States | On Site | Nov 18 |
+| **[New York Life](https://www.newyorklife.com/)** | **[2027 Human Resources Summer Internship](https://jobright.ai/jobs/info/6ac5ddf48ff3fb9b3bc8b59e?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 18 |
 | **[DESRI](https://www.desri.com)** | **[People Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8caea3581f2d7bfdfe531d?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO, United States | On Site | Nov 18 |
 | **[Sewickley Academy](https://www.sewickley.org)** | **[Advancement Intern](https://jobright.ai/jobs/info/6afcb9772ac165125e4cbc9a?utm_campaign=1054&utm_source=git)** | Sewickley, PA, United States | On Site | Nov 18 |
 | **[Glatfelter](https://magnera.com/)** | **[Corporate HR Intern](https://jobright.ai/jobs/info/6ae0d09e05a39c3e2c70cab4?utm_campaign=1054&utm_source=git)** | Evansville, IN, United States | On Site | Nov 18 |
 | **[Badger Meter](http://badgermeter.com)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/6ac5445d0e027c0f3b3addb6?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 18 |
-| **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ac595488ff3fb9b3bc8a57e?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Nov 18 |
-| ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ac595f74ac55253f5d77549?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Nov 18 |
-| ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e0ab72b96b1c436f1908?utm_campaign=1054&utm_source=git)** | Saint Louis, MO, United States | On Site | Nov 18 |
+| **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ac595f74ac55253f5d77549?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Nov 18 |
+| ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e170af954907d6570c5e?utm_campaign=1054&utm_source=git)** | Saint Louis, MO, United States | On Site | Nov 18 |
+| ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6ac595488ff3fb9b3bc8a57e?utm_campaign=1054&utm_source=git)** | Nashville, TN, United States | On Site | Nov 18 |
 | ↳ | **[People Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a97e1c4d356304a0268854f?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Nov 18 |
 | **[Austin Sunshine Camps](https://www.sunshinecamps.org )** | **[Human Resources & Talent Acquisition Intern for Camp Programing (Winter/Spring)](https://jobright.ai/jobs/info/6afcc909e8a9612f4e0db89d?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/6afd380d661724f2a358c3e4?utm_campaign=1054&utm_source=git)** | Frederick, Maryland, United States | On Site | Nov 17 |
@@ -80,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[HR Intern](https://jobright.ai/jobs/info/6ae8f4526c51033758f44882?utm_campaign=1054&utm_source=git)** | Spring Hill, TN, United States | On Site | Nov 17 |
 | **[Kabam](http://www.kabam.com)** | **[People Operations and Payroll Co-Op](https://jobright.ai/jobs/info/6afccbbbd86c15318a38e565?utm_campaign=1054&utm_source=git)** | Vancouver | On Site | Nov 17 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Human Resources Rotational Intern - Summer 2027](https://jobright.ai/jobs/info/6afceaf9d1637502949281f4?utm_campaign=1054&utm_source=git)** | Longmont, CO, United States | On Site | Nov 17 |
+| **[Tenneco](https://www.tenneco.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6afd9d79cc8c7a4631ddef7a?utm_campaign=1054&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 17 |
 | **[Walmart](http://www.walmart.com)** | **[Summer 2027 Corporate Intern: Rewards, Loyalty and Engagement- Last Mile Delivery](https://jobright.ai/jobs/info/6afccb562ac165125e4ccab7?utm_campaign=1054&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 17 |
 | **[Jabil](https://www.jabil.com)** | **[HRIS Intern - Change Management and Communications](https://jobright.ai/jobs/info/6afcb6972ac165125e4cbad9?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL, United States | On Site | Nov 17 |
 | **[Bart & Associates, Inc.](http://bna-inc.com)** | **[Business Development Staffing & Recruiting Intern](https://jobright.ai/jobs/info/6adf739d5dc7953215a3ef85?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | Hybrid | Nov 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dalcom Engineering](https://dalcom-engineering.com)** | **[Part Time Human Resources Intern](https://jobright.ai/jobs/info/6ae0d321de23f466ec8b8ebd?utm_campaign=1054&utm_source=git)** | Galena, MD, United States | Hybrid | Nov 16 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Business Support Intern](https://jobright.ai/jobs/info/6afb9ba1c96cba79575c0a7e?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | Hybrid | Nov 16 |
 | **[Holland America/Princess Alaska-Yukon Land Operations](https://www.alaskatourjobs.com/)** | **[Intern, Social Media Recruiting and Talent Analytics](https://jobright.ai/jobs/info/6afbf4cf8074edef8dd61c3c?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 16 |
-| **[Cristek](https://cristek.com)** | **[Human Resources Intern-Recruitment (Part-Time)](https://jobright.ai/jobs/info/6afb9c1ab2e06df257976063?utm_campaign=1054&utm_source=git)** | North Billerica, Massachusetts, United States | On Site | Nov 16 |
-| **[Ellsworth Systems](https://ellsworthsystems.com)** | **[Talent Acquisition Coordinator Intern](https://jobright.ai/jobs/info/6afca8eed86c15318a38cf05?utm_campaign=1054&utm_source=git)** | Germantown, WI 53022, United States | Hybrid | Nov 16 |
-| **[Lafayette 148 New York](http://lafayette148ny.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6afba580c5917ce34b5dd034?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
