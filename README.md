@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WD](https://www.westerndigital.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aa099e1500b01124c77a0aa?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 17 |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6afd2ccf661724f2a358c191?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Remote | Nov 17 |
+| **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[People & Culture (HR) Intern](https://jobright.ai/jobs/info/6afca36be8a9612f4e0da14b?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 17 |
 | **[Strive Solutions](https://www.linkedin.com/company/111767844)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6afd13d443c912cb7839dcf3?utm_campaign=1054&utm_source=git)** | Groveport, OH, United States | On Site | Nov 17 |
 | ↳ | **[Human Resources & Talent Acquisition Intern](https://jobright.ai/jobs/info/6afd13cad96a0d1196c72d5e?utm_campaign=1054&utm_source=git)** | Grove City, OH, United States | On Site | Nov 17 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6afd13c7f0dc8aae7d69061c?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Nov 17 |
@@ -95,7 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Campus Recruiting - Investment Banking Summer Associate - San Francisco](https://jobright.ai/jobs/info/6a8bdf4d680f314a29d4204a?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 17 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[2027 Internship Program - Human Resources](https://jobright.ai/jobs/info/6ac3871e0e027c0f3b3a66a9?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 17 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a91a64d36036300991938e2?utm_campaign=1054&utm_source=git)** | Aurora, CO, United States | On Site | Nov 17 |
-| **[PAWS Chicago](https://www.pawschicago.org)** | **[Volunteer Program Internship](https://jobright.ai/jobs/info/6a56a1c810c4d945d864afa5?utm_campaign=1054&utm_source=git)** | Chicago, IL 60614, USA | On Site | Nov 17 |
+| **[PAWS Chicago](https://www.pawschicago.org)** | **[Volunteer Program Internship](https://jobright.ai/jobs/info/6a2bba753f691a293d0b9273?utm_campaign=1054&utm_source=git)** | Chicago, IL 60614, USA | On Site | Nov 17 |
 | ↳ | **[Volunteer Program Internship](https://jobright.ai/jobs/info/6a86a425d34f700f87fc2069?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Nov 17 |
 | ↳ | **[Events and Volunteer Program Intern](https://jobright.ai/jobs/info/6a1eb6ef804915678116424d?utm_campaign=1054&utm_source=git)** | Chicago, IL 60614, USA | On Site | Nov 17 |
 | ↳ | **[Events and Volunteer Program Internship](https://jobright.ai/jobs/info/6a5ce4ffc8e3a473cb8b32fe?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Nov 17 |
@@ -131,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[STS Metals Inc](https://stsmetals.com/)** | **[INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/6afc2fc71e98d304ea7ef694?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 17 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern – Employee Wellbeing & Population Health](https://jobright.ai/jobs/info/6afb72e9c5917ce34b5db11e?utm_campaign=1054&utm_source=git)** | Durham, NC, United States | Remote | Nov 17 |
 | **[Google](https://www.google.com)** | **[People Analytics Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6accb4abe7a1d9333210e75b?utm_campaign=1054&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 17 |
-| **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[People & Culture (HR) Intern](https://jobright.ai/jobs/info/6afca36be8a9612f4e0da14b?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 17 |
 | **[ByteDance](http://bytedance.com)** | **[Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6ac39b020e027c0f3b3a6922?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 17 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Health and Benefits Internship - West - Summer 2027](https://jobright.ai/jobs/info/6ac4404c0e027c0f3b3aa47b?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 17 |
 | **[McLane Company, Inc.](https://www.mclaneco.com/)** | **[Corporate HR Intern I (Summer 2027)](https://jobright.ai/jobs/info/6afc1c8507bef169f5fff851?utm_campaign=1054&utm_source=git)** | Temple, TX, United States | On Site | Nov 17 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Business Support Intern](https://jobright.ai/jobs/info/6afb9ba1c96cba79575c0a7e?utm_campaign=1054&utm_source=git)** | Green Bay, WI, United States | Hybrid | Nov 16 |
 | **[Holland America/Princess Alaska-Yukon Land Operations](https://www.alaskatourjobs.com/)** | **[Intern, Social Media Recruiting and Talent Analytics](https://jobright.ai/jobs/info/6afbf4cf8074edef8dd61c3c?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 16 |
 | **[Ellsworth Systems](https://ellsworthsystems.com)** | **[Talent Acquisition Coordinator Intern](https://jobright.ai/jobs/info/6afca8eed86c15318a38cf05?utm_campaign=1054&utm_source=git)** | Germantown, WI 53022, United States | Hybrid | Nov 16 |
-| **[Lafayette 148 New York](http://lafayette148ny.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6afba51e06c0aac84dd97c98?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 16 |
-| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/6afba580c5917ce34b5dd034?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 16 |
+| **[Lafayette 148 New York](http://lafayette148ny.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/6afba580c5917ce34b5dd034?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 16 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/6afba51e06c0aac84dd97c98?utm_campaign=1054&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 16 |
 | **[Cristek](https://cristek.com)** | **[Human Resources Intern-Recruitment (Part-Time)](https://jobright.ai/jobs/info/6afb9c1ab2e06df257976063?utm_campaign=1054&utm_source=git)** | North Billerica, Massachusetts, United States | On Site | Nov 16 |
 | **[SystImmune](https://www.systimmune.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae9613fa291a1db4de23b1b?utm_campaign=1054&utm_source=git)** | Bothell, WA, United States | On Site | Nov 16 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Enterprise Internship, Graduate Human Resources/People & Culture/Talent Acquisition](https://jobright.ai/jobs/info/6afbdc7d1c71d952627ef246?utm_campaign=1054&utm_source=git)** | Allenton, WI, United States | Hybrid | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, HR & People Teams (Winter/Spring 2027)](https://jobright.ai/jobs/info/6afba9aabe8589f0b74c0152?utm_campaign=1054&utm_source=git)** | Fremont, CA, United States | On Site | Nov 16 |
 | ↳ | **[Internship, HR Partner, Energy & Engineering (Winter/Spring 2027)](https://jobright.ai/jobs/info/6afba9a1b2e06df25797680d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 16 |
 | ↳ | **[Internship, Immigration Specialist (Winter/Spring 2027)](https://jobright.ai/jobs/info/6afba99dc5917ce34b5dd294?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
-| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Talent Development AI Strategy](https://jobright.ai/jobs/info/6afb6ebcc5917ce34b5dacbe?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
-| **[Wacker Chemical Corporation USA](https://www.wacker.com/cms/en-us/about-wacker/wacker-global/north-america/about-us/overview.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6afba06bc2bd7db01b883735?utm_campaign=1054&utm_source=git)** | Charleston, Tennessee, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
