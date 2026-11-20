@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TERMINAX](https://terminax.com)** | **[HR & Operations Intern (Bilingual Mandarin)](https://jobright.ai/jobs/info/6affa05d6f4ca73dfeb46047?utm_campaign=1054&utm_source=git)** | Corona, CA, United States | On Site | Nov 19 |
 | **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/6aff9d911126e09fee091c2e?utm_campaign=1054&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Nov 19 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aff9d2a6f4ca73dfeb45f0e?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aff9bfa6f4ca73dfeb45e86?utm_campaign=1054&utm_source=git)** | Kalamazoo, MI, United States | On Site | Nov 19 |
@@ -103,6 +104,8 @@ For a complete list, click the following sortable link below:
 | **[ARCO Design/Build](http://arcodb.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a8f3a7cd7c91d0cf446e392?utm_campaign=1054&utm_source=git)** | King of Prussia, PA, United States | On Site | Nov 19 |
 | **[Avient Corporation](https://www.avient.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6a8c95282f736c304f2a6ad3?utm_campaign=1054&utm_source=git)** | Avon Lake, OH, United States | On Site | Nov 19 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[2027 Summer Internship](https://jobright.ai/jobs/info/6a725b9271acd469eeda7aa5?utm_campaign=1054&utm_source=git)** | Taylor, TX, United States | On Site | Nov 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer Management Trainee Intern - Jacksonville, FL](https://jobright.ai/jobs/info/6aa992476d0edc2d91b0a2d8?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 19 |
+| ↳ | **[Spring 2027 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/6ae22660eb7e8f715a60ab34?utm_campaign=1054&utm_source=git)** | Boca Raton, FL, United States | On Site | Nov 19 |
 | **[Molex](http://www.molex.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae28c961f9d9308370b2e83?utm_campaign=1054&utm_source=git)** | Lisle, IL, United States | On Site | Nov 19 |
 | **[Koch](https://www.kochinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ae50534d7424a2a828eaf91?utm_campaign=1054&utm_source=git)** | Lisle, IL, United States | On Site | Nov 19 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Human Resources Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6aff234aaea17e3f50eada70?utm_campaign=1054&utm_source=git)** | McKinney, TX, United States | On Site | Nov 19 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Mary Kay Global](https://marykay.com.ph)** | **[2027 Summer Internships – Human Resources](https://jobright.ai/jobs/info/6aa08954500b01124c779ac0?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Nov 19 |
 | **[GEICO](http://www.geico.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aa80b113a9f0a4fe6f16d72?utm_campaign=1054&utm_source=git)** | Bethesda, MD, United States | Hybrid | Nov 19 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Health and Benefits Internship - Central - Summer 2027](https://jobright.ai/jobs/info/6ac44049372c01f6cd734fa5?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 19 |
-| **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2027](https://jobright.ai/jobs/info/6af471929144106c56a1e349?utm_campaign=1054&utm_source=git)** | West Columbia, SC, United States | On Site | Nov 19 |
-| ↳ | **[Human Resource Intern - Summer 2027](https://jobright.ai/jobs/info/6ae1f6cb1f9d9308370ac9fb?utm_campaign=1054&utm_source=git)** | West Columbia, SC, United States | On Site | Nov 19 |
+| **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2027](https://jobright.ai/jobs/info/6ae1f6cb1f9d9308370ac9fb?utm_campaign=1054&utm_source=git)** | West Columbia, SC, United States | On Site | Nov 19 |
+| ↳ | **[Human Resource Intern - Summer 2027](https://jobright.ai/jobs/info/6af471929144106c56a1e349?utm_campaign=1054&utm_source=git)** | West Columbia, SC, United States | On Site | Nov 19 |
 | **[Iowa State Fair](https://iowastatefair.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6afe9dbfd1039435d0dcf0a2?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 18 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Volunteer Program Internship](https://jobright.ai/jobs/info/6afe9d045695a992780abf46?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Nov 18 |
 | **[Soven Developer](https://sovendeveloper.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6afe8e1fd1039435d0dcedf3?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AMC Global Media](https://www.amcglobalmedia.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/6afe321df170d82b396726d0?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/6afe3cd5758942b6422b8b6c?utm_campaign=1054&utm_source=git)** | Lebanon, Pennsylvania, United States | On Site | Nov 18 |
 | **[TIAA](https://www.tiaa.org)** | **[2027 Early Talent Internship: Corporate Strategy & Planning](https://jobright.ai/jobs/info/6aff47b972b9be3685290432?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 18 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6aff741f865dbcc3f26fc6a7?utm_campaign=1054&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 18 |
-| **[H&CO](http://floridacpa.com)** | **[People and Culture Intern / GBS](https://jobright.ai/jobs/info/6aff96ff6f4ca73dfeb45b88?utm_campaign=1054&utm_source=git)** | United States | On Site | Nov 18 |
-| **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[HR Intern - Parks & Recreation](https://jobright.ai/jobs/info/6aff8355b47661ae4a62da2f?utm_campaign=1054&utm_source=git)** | Landstown Road, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
