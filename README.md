@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JD.COM](http://corporate.jd.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ade6e6c389e06bb41adacdf?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Nov 20 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Nov 20 |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Talent COE Intern](https://jobright.ai/jobs/info/6aaae6424be87a72913a2066?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Nov 20 |
+| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Global Solutions Internship](https://jobright.ai/jobs/info/6aaae1f7c85610f4a48423fa?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 20 |
+| **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program – Summer 2027](https://jobright.ai/jobs/info/6a709fbb357dfc6ff2b39dcf?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Nov 20 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6aff84c3865dbcc3f26fd65f?utm_campaign=1054&utm_source=git)** | Montgomery, AL, United States | Remote | Nov 19 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aff418cb88323bd981bd465?utm_campaign=1054&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (TikTok Shop) - 2027 Start](https://jobright.ai/jobs/info/6affd49add029d798066eb22?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 19 |
@@ -94,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Employment Specialist Internship](https://jobright.ai/jobs/info/6aece0b7465e3d2371382774?utm_campaign=1054&utm_source=git)** | Sun Prairie, WI, United States | On Site | Nov 19 |
 | **[Buro Happold](http://www.burohappold.com)** | **[People Movement Intern - New York, Los Angeles, San Diego or Boston - Summer 2027](https://jobright.ai/jobs/info/6aab212b40807b73bd39411e?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 19 |
 | **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6aff4afaaea17e3f50eaf553?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Nov 19 |
-| **[Uplift Education](http://www.uplifteducation.org)** | **[Scholar Recruitment Intern](https://jobright.ai/jobs/info/6a62ced3426d415f6636086e?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Nov 19 |
-| ↳ | **[Scholar Recruitment Internship](https://jobright.ai/jobs/info/6aaa69dcf6bd9d2d17c17d25?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Nov 19 |
+| **[Uplift Education](http://www.uplifteducation.org)** | **[Scholar Recruitment Internship](https://jobright.ai/jobs/info/6aaa69dcf6bd9d2d17c17d25?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Nov 19 |
+| ↳ | **[Scholar Recruitment Intern](https://jobright.ai/jobs/info/6a62ced3426d415f6636086e?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Nov 19 |
 | **[OC Fair & Event Center](https://ocfair.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aff45d2c1c02a9acd80a754?utm_campaign=1054&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 19 |
 | **[IntraCare](https://theintracare.com)** | **[Workplace Experience & Office Operations Intern](https://jobright.ai/jobs/info/6aecd0a5ab48a7079381ec25?utm_campaign=1054&utm_source=git)** | Addison, TX, United States | On Site | Nov 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aa87f99a77a53f5a1579d36?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 19 |
@@ -116,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Books A Million](https://www.booksamillion.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6aff2df3b88323bd981bc735?utm_campaign=1054&utm_source=git)** | Birmingham, AL, United States | Hybrid | Nov 19 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2027 Summer Internship, Human Resources - Compensation](https://jobright.ai/jobs/info/6aff239072b9be368528eb8d?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 19 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[2027 Summer Internship Program: Construction/Surety Specialty Practice](https://jobright.ai/jobs/info/6ae509ca77c09cb3bd4b15a9?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Nov 19 |
-| ↳ | **[Retirement Services Intern - Retirement Services](https://jobright.ai/jobs/info/6aea37e51ba298c777770ad3?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | Hybrid | Nov 19 |
 | ↳ | **[2027 Summer Internship Program: Construction/Surety Specialty Practice](https://jobright.ai/jobs/info/6ae509e9fb2cd420ace5c47e?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Nov 19 |
+| ↳ | **[Retirement Services Intern - Retirement Services](https://jobright.ai/jobs/info/6aea37e51ba298c777770ad3?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | Hybrid | Nov 19 |
 | ↳ | **[2027 Summer Internship Program - Crop Risk Management](https://jobright.ai/jobs/info/6ae509e977c09cb3bd4b15b5?utm_campaign=1054&utm_source=git)** | Yakima, WA, United States | On Site | Nov 19 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[2027 Summer Internship Program](https://jobright.ai/jobs/info/6aec8568465e3d237137f50e?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Nov 19 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[2027 Summer Internship Program - Crop Risk Management](https://jobright.ai/jobs/info/6ae509f6fb2cd420ace5c48f?utm_campaign=1054&utm_source=git)** | Spokane, WA, United States | On Site | Nov 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AMC Global Media](https://www.amcglobalmedia.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/6afe321df170d82b396726d0?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 18 |
 | **[Strive Solutions](https://www.linkedin.com/company/111767844)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6afe7ff321364a3788bcecd6?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH, United States | On Site | Nov 18 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6afe7ff1959c7033f184c017?utm_campaign=1054&utm_source=git)** | Groveport, OH, United States | On Site | Nov 18 |
-| ↳ | **[Human Resources and Talent Acquisition Intern](https://jobright.ai/jobs/info/6afe7fec94233208f6594892?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Nov 18 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6afe7fea21364a3788bcecd0?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Nov 18 |
-| **[All on the Field](https://www.aotfield.com/)** | **[Field Intern](https://jobright.ai/jobs/info/6afe7c0921364a3788bcec0c?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | Remote | Nov 18 |
-| **[Uplinq](https://uplinq.com)** | **[HR Intern - ASU](https://jobright.ai/jobs/info/6afe75e057ac495d52e5e79d?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ, United States | Remote | Nov 18 |
-| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6aa8a22758d9ccf2690b5418?utm_campaign=1054&utm_source=git)** | Round Mountain, NV, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
