@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/6ae4ea65d7424a2a828e9fe8?utm_campaign=1054&utm_source=git)** | Louisville, KY, United States | On Site | Nov 21 |
 | **[Clarios](https://www.clarios.com/)** | **[HR Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac9346faf788e6ad3b5a748?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 21 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6ae4dabceab1f9673097d6e9?utm_campaign=1054&utm_source=git)** | Harrison, NY, United States | Hybrid | Nov 21 |
 | ↳ | **[Employee Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6ae504f5d45dc30fb7d348bf?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | Hybrid | Nov 21 |
@@ -99,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Ellsworth Adhesives](http://ellsworth.com)** | **[Talent Acquisition Coordinator Intern](https://jobright.ai/jobs/info/6afcb7bb94232f5ac42d0f6a?utm_campaign=1054&utm_source=git)** | Germantown, WI, United States | Hybrid | Nov 20 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Seagate Total Rewards Summer 2027 Intern - Americas](https://jobright.ai/jobs/info/6b00db29af6fea8c089b503f?utm_campaign=1054&utm_source=git)** | Longmont, CO, United States | On Site | Nov 20 |
 | **[SharkNinja France](http://www.sharkninja.com)** | **[SPRING 2027: EARLY TALENT RECRUITMENT INTERN (JANUARY- JUNE)](https://jobright.ai/jobs/info/6b00dad12ad6cde5ef24f953?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | Hybrid | Nov 20 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aff395c97dcc4fc8dca9f28?utm_campaign=1054&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 20 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aff418cb88323bd981bd465?utm_campaign=1054&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 20 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Human Resources - Talent Acquisition Intern](https://jobright.ai/jobs/info/6b009494d1fe3bc162e3ced4?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | Hybrid | Nov 20 |
 | ↳ | **[Human Resources - Total Rewards Intern](https://jobright.ai/jobs/info/6b00949889d8ca1e84957727?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Nov 20 |
 | **[EP Wealth Advisors](https://www.epwealth.com)** | **[HR Intern](https://jobright.ai/jobs/info/6b0093443a9a0230ab028853?utm_campaign=1054&utm_source=git)** | Torrance, CA, United States | On Site | Nov 20 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Marquette Transportation Company, LLC](http://marquettetrans.com)** | **[Human Resources/Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6b006ec53a9a0230ab02719d?utm_campaign=1054&utm_source=git)** | Paducah, KY, United States | On Site | Nov 20 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Analytics Intern](https://jobright.ai/jobs/info/6ad238c725289a0b3bf54dc4?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD, United States | On Site | Nov 20 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29538c4290cef1412bbb8?utm_campaign=1054&utm_source=git)** | Greer, SC, United States | On Site | Nov 20 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6af86d2d34e2d29dcb7553c1?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Nov 20 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29537f04335fc70ed652a?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Nov 20 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ae51718fb2cd420ace5ca60?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Nov 20 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Nov 20 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6af86d2d34e2d29dcb7553c1?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Nov 20 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6af388687c81de7a524c0a39?utm_campaign=1054&utm_source=git)** | Shelton, CT, United States | On Site | Nov 20 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Nov 20 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: Human Resources Intern - Manufacturing Operations](https://jobright.ai/jobs/info/6a8c7424581f2d7bfdfe3a93?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Nov 20 |
 | **[OPmobility](https://www.opmobility.com)** | **[SITE HR INTERNSHIP](https://jobright.ai/jobs/info/6ae34451d45dc30fb7d280d2?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 20 |
-| **[Southern States Cooperative](https://www.southernstates.com/farm-store/)** | **[Summer 2027 - Human Resources Intern](https://jobright.ai/jobs/info/6b00635689d8ca1e84955b11?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
