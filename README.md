@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Hickory NC](https://jobright.ai/jobs/info/6a5b06afc8e3a473cb8ae8f0?utm_campaign=1054&utm_source=git)** | Hickory, NC, United States | Hybrid | Nov 21 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Macon, GA / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6af859ce35427cce9bb2cb21?utm_campaign=1054&utm_source=git)** | Macon, GA, United States | On Site | Nov 21 |
 | ↳ | **[Distribution Center HR Intern / Pendleton, IN / Summer 2027](https://jobright.ai/jobs/info/6a91be7da27a2d3c98489d77?utm_campaign=1054&utm_source=git)** | Pendleton, Indiana, United States | On Site | Nov 21 |
 | ↳ | **[DC HR Intern](https://jobright.ai/jobs/info/6a91be93d18f756748279f14?utm_campaign=1054&utm_source=git)** | Frankfort, NY, United States | On Site | Nov 21 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Internship - Spring 2027](https://jobright.ai/jobs/info/6b00f4220ae14188d58c2a56?utm_campaign=1054&utm_source=git)** | El Paso, TX, United States | On Site | Nov 20 |
 | **[Jeff Lowe Insurance Agency Inc.](https://www.jeffloweinsurance.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6ae518fc77c09cb3bd4b1c56?utm_campaign=1054&utm_source=git)** | Torrance, CA, United States | On Site | Nov 20 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aee5789e0c9de7b05f8dfc5?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | Hybrid | Nov 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935a512f514bbde168e?utm_campaign=1054&utm_source=git)** | Baytown, TX, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935df73191d2e6af917?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Nov 20 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935df73191d2e6af917?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Nov 20 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935a512f514bbde168e?utm_campaign=1054&utm_source=git)** | Baytown, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e933af6fea8c089b565c?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e930a512f514bbde1687?utm_campaign=1054&utm_source=git)** | Beaumont, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Internship - Summer 2027](https://jobright.ai/jobs/info/6b00e9230ae14188d58c2570?utm_campaign=1054&utm_source=git)** | El Paso, TX, United States | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vocon](http://vocon.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6b0077083a9a0230ab0276bc?utm_campaign=1054&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 20 |
 | **[Neuberger](http://www.nb.com)** | **[Undergraduate & Graduate Internship Opportunities](https://jobright.ai/jobs/info/6a5477348576ec69c015342c?utm_campaign=1054&utm_source=git)** | New York, NY, United States of America | On Site | Nov 20 |
 | **[Continental](https://www.continental.com)** | **[2027 Internship - Human Resources (Hoosier Racing Tire)](https://jobright.ai/jobs/info/6aedec7ce0c9de7b05f87db9?utm_campaign=1054&utm_source=git)** | Plymouth, IN, United States | Hybrid | Nov 20 |
-| **[Amphenol Borisch Technologies](https://www.borisch.com)** | **[Human Resources Business Partner Intern- Summer 2027](https://jobright.ai/jobs/info/6b0072473a9a0230ab0273f4?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
