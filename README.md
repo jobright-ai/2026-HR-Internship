@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6af859c935427cce9bb2cb1d?utm_campaign=1054&utm_source=git)** | Frankfort, NY, United States | On Site | Nov 21 |
+| ↳ | **[DC HR Intern](https://jobright.ai/jobs/info/6a91be93d18f756748279f14?utm_campaign=1054&utm_source=git)** | Frankfort, NY, United States | On Site | Nov 21 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/6b01e8a9df73191d2e6b22b1?utm_campaign=1054&utm_source=git)** | Doswell, VA, United States | On Site | Nov 21 |
+| **[Genuine Parts Company](http://genpt.com)** | **[Human Resources Intern-Summer 2027](https://jobright.ai/jobs/info/6b01a549df73191d2e6b1a50?utm_campaign=1054&utm_source=git)** | Windy Hill, United States | Hybrid | Nov 21 |
+| **[Sappi](http://sappi.com)** | **[Intern- Organizational Development](https://jobright.ai/jobs/info/6b00b5a13a9a0230ab029f9f?utm_campaign=1054&utm_source=git)** | South Portland, ME, United States | On Site | Nov 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/6b01d0e0f6ef85c61a50ff8c?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 21 |
 | ↳ | **[Summer 2027 Management Trainee Intern - West Springfield/Chicopee, MA](https://jobright.ai/jobs/info/6ae6277a77c09cb3bd4b5382?utm_campaign=1054&utm_source=git)** | Springfield, MA, United States | On Site | Nov 21 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ae6276cfb2cd420ace601a7?utm_campaign=1054&utm_source=git)** | Rockville, MD, United States | On Site | Nov 21 |
@@ -95,15 +100,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Internship - Spring 2027](https://jobright.ai/jobs/info/6b00f4220ae14188d58c2a56?utm_campaign=1054&utm_source=git)** | El Paso, TX, United States | On Site | Nov 20 |
 | **[Jeff Lowe Insurance Agency Inc.](https://www.jeffloweinsurance.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6ae518fc77c09cb3bd4b1c56?utm_campaign=1054&utm_source=git)** | Torrance, CA, United States | On Site | Nov 20 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aee5789e0c9de7b05f8dfc5?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | Hybrid | Nov 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935a512f514bbde168e?utm_campaign=1054&utm_source=git)** | Baytown, TX, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935df73191d2e6af917?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Nov 20 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935df73191d2e6af917?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Nov 20 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935a512f514bbde168e?utm_campaign=1054&utm_source=git)** | Baytown, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e933af6fea8c089b565c?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e930a512f514bbde1687?utm_campaign=1054&utm_source=git)** | Beaumont, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Internship - Summer 2027](https://jobright.ai/jobs/info/6b00e9230ae14188d58c2570?utm_campaign=1054&utm_source=git)** | El Paso, TX, United States | On Site | Nov 20 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR Partner, Engineering (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b00e76ea512f514bbde157e?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 20 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Guest and Volunteer Services Intern](https://jobright.ai/jobs/info/6b00d2500ae14188d58c1bf0?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Nov 20 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6b00d2610ae14188d58c1c02?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 20 |
-| **[Genuine Parts Company](http://genpt.com)** | **[Human Resources Intern-Summer 2027](https://jobright.ai/jobs/info/6b01a549df73191d2e6b1a50?utm_campaign=1054&utm_source=git)** | Windy Hill, United States | Hybrid | Nov 20 |
+| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6b00df32a512f514bbde1238?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 20 |
 | **[Ellsworth Adhesives](http://ellsworth.com)** | **[Talent Acquisition Coordinator Intern](https://jobright.ai/jobs/info/6afcb7bb94232f5ac42d0f6a?utm_campaign=1054&utm_source=git)** | Germantown, WI, United States | Hybrid | Nov 20 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Seagate Total Rewards Summer 2027 Intern - Americas](https://jobright.ai/jobs/info/6b00db29af6fea8c089b503f?utm_campaign=1054&utm_source=git)** | Longmont, CO, United States | On Site | Nov 20 |
 | **[SharkNinja France](http://www.sharkninja.com)** | **[SPRING 2027: EARLY TALENT RECRUITMENT INTERN (JANUARY- JUNE)](https://jobright.ai/jobs/info/6b00dad12ad6cde5ef24f953?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | Hybrid | Nov 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Buro Happold](http://www.burohappold.com)** | **[People Movement Intern - New York, Los Angeles, San Diego or Boston - Summer 2027](https://jobright.ai/jobs/info/6aab2d2976707040fb0847ce?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | **[Conversations to Remember](https://conversationstoremember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/6b0070ba46419e65476b3f27?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Johns Manville](http://www.jm.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac8f184d4a5a0370740fde1?utm_campaign=1054&utm_source=git)** | Waterville, OH, United States | On Site | Nov 20 |
-| **[Marquette Transportation Company, LLC](http://marquettetrans.com)** | **[Human Resources/Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6b006ec53a9a0230ab02719d?utm_campaign=1054&utm_source=git)** | Paducah, KY, United States | On Site | Nov 20 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Benefits Analytics Intern](https://jobright.ai/jobs/info/6ad238c725289a0b3bf54dc4?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD, United States | On Site | Nov 20 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29538c4290cef1412bbb8?utm_campaign=1054&utm_source=git)** | Greer, SC, United States | On Site | Nov 20 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
