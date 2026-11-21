@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MANE](https://www.mane.com/)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6b00c7f0e0dc9619592842ee?utm_campaign=1054&utm_source=git)** | Lebanon, OH, United States | On Site | Nov 20 |
+| **[PACCAR](http://www.paccar.com/)** | **[Recruiting Human Resources Intern](https://jobright.ai/jobs/info/6b00c62ddfa58e4c244de5cb?utm_campaign=1054&utm_source=git)** | Denton, TX, United States | On Site | Nov 20 |
+| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[PeopleTech Intern--Summer 2027](https://jobright.ai/jobs/info/6b00c422e0dc961959284146?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | Remote | Nov 20 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Data Analyst (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aea816c897466e69e31f87d?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 20 |
+| **[Michigan Automotive Compressor, Inc. (MACI)](https://michauto.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aeb2d22765815f7d745db5e?utm_campaign=1054&utm_source=git)** | Parma, Michigan, United States | On Site | Nov 20 |
 | **[IntraCare](https://theintracare.com)** | **[Workplace Experience & Office Operations Intern](https://jobright.ai/jobs/info/6b00b3590f536e0ba727671a?utm_campaign=1054&utm_source=git)** | Addison, TX, United States | On Site | Nov 20 |
 | **[BOLAND](http://boland.com)** | **[HR Intern (Spring Semester)](https://jobright.ai/jobs/info/6b00af39e0dc9619592832c2?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD, United States | Hybrid | Nov 20 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (TikTok Shop) - 2026 Start](https://jobright.ai/jobs/info/6a9147a9d96ad228f12643bd?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Nov 20 |
@@ -96,10 +101,10 @@ For a complete list, click the following sortable link below:
 | **[Marquette Transportation Company, LLC](http://marquettetrans.com)** | **[Human Resources/Benefits Intern - Summer 2027](https://jobright.ai/jobs/info/6b006ec53a9a0230ab02719d?utm_campaign=1054&utm_source=git)** | Paducah, KY, United States | On Site | Nov 20 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Benefits Analytics Intern](https://jobright.ai/jobs/info/6ad238c725289a0b3bf54dc4?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD, United States | On Site | Nov 20 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29538c4290cef1412bbb8?utm_campaign=1054&utm_source=git)** | Greer, SC, United States | On Site | Nov 20 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Nov 20 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ae51718fb2cd420ace5ca60?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Nov 20 |
-| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Nov 20 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad29539c4290cef1412bbbc?utm_campaign=1054&utm_source=git)** | Cranston, RI, United States | On Site | Nov 20 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6af86d2d34e2d29dcb7553c1?utm_campaign=1054&utm_source=git)** | Tampa, FL, United States | On Site | Nov 20 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6adfabdb0a4cc7090f981e45?utm_campaign=1054&utm_source=git)** | Uniondale, NY, United States | On Site | Nov 20 |
+| ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6ad2954925289a0b3bf578bc?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC, United States | On Site | Nov 20 |
 | ↳ | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6af388687c81de7a524c0a39?utm_campaign=1054&utm_source=git)** | Shelton, CT, United States | On Site | Nov 20 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: Human Resources Intern - Manufacturing Operations](https://jobright.ai/jobs/info/6a8c7424581f2d7bfdfe3a93?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Nov 20 |
 | **[OPmobility](https://www.opmobility.com)** | **[SITE HR INTERNSHIP](https://jobright.ai/jobs/info/6ae34451d45dc30fb7d280d2?utm_campaign=1054&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 20 |
@@ -121,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ade6e6c389e06bb41adacdf?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Nov 20 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Nov 20 |
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Talent COE Intern](https://jobright.ai/jobs/info/6aaae6424be87a72913a2066?utm_campaign=1054&utm_source=git)** | Boise, ID, United States | On Site | Nov 20 |
-| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Global Solutions Internship](https://jobright.ai/jobs/info/6aaae1f7c85610f4a48423fa?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 20 |
+| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Global Solutions Internship](https://jobright.ai/jobs/info/6aaae28640807b73bd3928f5?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 20 |
 | **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program – Summer 2027](https://jobright.ai/jobs/info/6a709fbb357dfc6ff2b39dcf?utm_campaign=1054&utm_source=git)** | Golden Valley, MN, United States | On Site | Nov 20 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6aff84c3865dbcc3f26fd65f?utm_campaign=1054&utm_source=git)** | Montgomery, AL, United States | Remote | Nov 19 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aff395c97dcc4fc8dca9f28?utm_campaign=1054&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 19 |
@@ -134,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Internship - Spring/Summer 2027](https://jobright.ai/jobs/info/6aff94fc6f4ca73dfeb45ab2?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 19 |
 | **[Profound Research](https://profoundresearch.io)** | **[*Internship Clinical Research -Talent Community Graduates for 2027-2028 (Las Vegas, NV)](https://jobright.ai/jobs/info/6ac690b10e027c0f3b3b317b?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Nov 19 |
 | **[Sappi](http://sappi.com)** | **[Intern- Organizational Development](https://jobright.ai/jobs/info/6b00b5a13a9a0230ab029f9f?utm_campaign=1054&utm_source=git)** | South Portland, ME, United States | On Site | Nov 19 |
-| **[NCR Voyix](https://www.ncrvoyix.com)** | **[Human Resources Information Systems (HRIS) Intern](https://jobright.ai/jobs/info/6b009a19e0dc961959282703?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 19 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Payer & Health Systems Oncology - Intern](https://jobright.ai/jobs/info/6b008634dfa58e4c244dbeab?utm_campaign=1054&utm_source=git)** | North Wales, Pennsylvania, United States | Remote | Nov 19 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Workforce and Rewards Summer Associate (MBA or Masters Track)- Boston- MBA Program 2027](https://jobright.ai/jobs/info/6b00a172e0dc961959282b48?utm_campaign=1054&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 19 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/6b00639389d8ca1e84955b46?utm_campaign=1054&utm_source=git)** | Metairie, LA, United States | On Site | Nov 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lynco Products](http://www.lyncoproducts.net)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6aff7d2e6f4ca73dfeb44f9a?utm_campaign=1054&utm_source=git)** | Milan, IL, United States | On Site | Nov 19 |
 | **[RREAF Holdings](https://rreaf.com/)** | **[2027 Summer Internship](https://jobright.ai/jobs/info/6aff7c76c1c02a9acd80ca5c?utm_campaign=1054&utm_source=git)** | Dallas, TX 75201, United States | On Site | Nov 19 |
 | **[MAB Community Services](http://www.mabcommunity.org/)** | **[HR Intern - AI integration  (3472)](https://jobright.ai/jobs/info/6aff7c64dd029d798066cd6f?utm_campaign=1054&utm_source=git)** | Brookline, MA, United States | On Site | Nov 19 |
-| **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aff7c59dd029d798066cd59?utm_campaign=1054&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 19 |
-| **[Vermeer Corporation](https://borestore.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af76a223ba46d7b6c1667fd?utm_campaign=1054&utm_source=git)** | Pella, IA, United States | On Site | Nov 19 |
-| **[STS Metals Inc](https://stsmetals.com/)** | **[INTERN - HUMAN RESOURCES](https://jobright.ai/jobs/info/6aff7b79865dbcc3f26fcf65?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 19 |
-| **[Plains](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aff7fa5865dbcc3f26fd486?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
