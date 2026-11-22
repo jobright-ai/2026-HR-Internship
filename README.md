@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell Technologies](http://www.honeywell.com)** | **[Future HR Leaders - Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a615a19886486676274b?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 22 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Maumelle, AR / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f9372c01f6cd71f4c2?utm_campaign=1054&utm_source=git)** | Maumelle, AR, United States | On Site | Nov 22 |
 | ↳ | **[Human Resources Intern / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f9064da25272dfc6b2?utm_campaign=1054&utm_source=git)** | Brentwood, TN, United States | Hybrid | Nov 22 |
 | **[Amazon](https://amazon.com)** | **[Sourcing Recruiter Intern – Summer 2027](https://jobright.ai/jobs/info/6ac9665ffe8f33a85d503bc3?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Nov 22 |
@@ -72,13 +73,14 @@ For a complete list, click the following sortable link below:
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Hickory NC](https://jobright.ai/jobs/info/6a5b06afc8e3a473cb8ae8f0?utm_campaign=1054&utm_source=git)** | Hickory, NC, United States | Hybrid | Nov 21 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Macon, GA / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6af859ce35427cce9bb2cb21?utm_campaign=1054&utm_source=git)** | Macon, GA, United States | On Site | Nov 21 |
 | ↳ | **[Distribution Center HR Intern / Pendleton, IN / Summer 2027](https://jobright.ai/jobs/info/6a91be7da27a2d3c98489d77?utm_campaign=1054&utm_source=git)** | Pendleton, Indiana, United States | On Site | Nov 21 |
-| ↳ | **[DC HR Intern](https://jobright.ai/jobs/info/6a91be93d18f756748279f14?utm_campaign=1054&utm_source=git)** | Frankfort, NY, United States | On Site | Nov 21 |
 | ↳ | **[DC HR Intern Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6af859c935427cce9bb2cb1d?utm_campaign=1054&utm_source=git)** | Frankfort, NY, United States | On Site | Nov 21 |
+| ↳ | **[DC HR Intern](https://jobright.ai/jobs/info/6a91be93d18f756748279f14?utm_campaign=1054&utm_source=git)** | Frankfort, NY, United States | On Site | Nov 21 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/6b01e8a9df73191d2e6b22b1?utm_campaign=1054&utm_source=git)** | Doswell, VA, United States | On Site | Nov 21 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac7cd760e573df8adc744e9?utm_campaign=1054&utm_source=git)** | Chino, CA, United States | On Site | Nov 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6aacc3442e757fcb5c8b6586?utm_campaign=1054&utm_source=git)** | Manassas, VA, United States | On Site | Nov 21 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Human Resources Intern-Summer 2027](https://jobright.ai/jobs/info/6b01a549df73191d2e6b1a50?utm_campaign=1054&utm_source=git)** | Windy Hill, United States | Hybrid | Nov 21 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac916d9c3a8af9c54a09097?utm_campaign=1054&utm_source=git)** | Temple Hills, MD, United States | On Site | Nov 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern - Chambersburg](https://jobright.ai/jobs/info/6aad71143d96632d741adea8?utm_campaign=1054&utm_source=git)** | Chambersburg, PA, United States | On Site | Nov 21 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac916d9c3a8af9c54a09097?utm_campaign=1054&utm_source=git)** | Temple Hills, MD, United States | On Site | Nov 21 |
 | ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a9047f5d96ad228f1260472?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Nov 21 |
 | ↳ | **[Spring 2027 Management Trainee Intern - Reading](https://jobright.ai/jobs/info/6aad70f23d96632d741ade9f?utm_campaign=1054&utm_source=git)** | Reading, PA, United States | On Site | Nov 21 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/6ac972b86355f8776ff1911a?utm_campaign=1054&utm_source=git)** | Warwick, RI, United States | On Site | Nov 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human resources and information technology (Winter 2027)](https://jobright.ai/jobs/info/6ac7cb520e573df8adc74409?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, H4S 2A3, Canada | Hybrid | Nov 20 |
 | **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern (Onsite)](https://jobright.ai/jobs/info/6a73623732ebbc14ffb4e8e3?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, HR Business Partner Support and Data Analytics (Winter 2027)](https://jobright.ai/jobs/info/6af3f5b5ebe39ae3299d9a4e?utm_campaign=1054&utm_source=git)** | Dorval, QC, Canada | Hybrid | Nov 20 |
-| **[Feyen Zylstra](http://feyenzylstra.com)** | **[Human Resources Intern (Learning & Development Focus)](https://jobright.ai/jobs/info/6b00965e3a9a0230ab028ae3?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 20 |
-| **[Sight & Sound](https://www.sight-sound.com/)** | **[Summer Internship - Human Resources (Full-Time)](https://jobright.ai/jobs/info/6b009561d1fe3bc162e3cf62?utm_campaign=1054&utm_source=git)** | Ronks, PA, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
