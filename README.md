@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPS](http://www.ups.com)** | **[MHR Intern - Labor Relations](https://jobright.ai/jobs/info/6ad293065290d4375c453cc9?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Data Analyst (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aea816c897466e69e31f87d?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 21 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Hickory NC](https://jobright.ai/jobs/info/6a5b06afc8e3a473cb8ae8f0?utm_campaign=1054&utm_source=git)** | Hickory, NC, United States | Hybrid | Nov 21 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Macon, GA / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6af859ce35427cce9bb2cb21?utm_campaign=1054&utm_source=git)** | Macon, GA, United States | On Site | Nov 21 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Payroll & Data Analytics](https://jobright.ai/jobs/info/6b00feff0ae14188d58c2c63?utm_campaign=1054&utm_source=git)** | Saint-Laurent, QC, Canada | On Site | Nov 20 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a5a0c2e3ac7627fe9002080?utm_campaign=1054&utm_source=git)** | Forest City, NC, United States | Hybrid | Nov 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Career Pathways Intern (Unpaid)](https://jobright.ai/jobs/info/6afcbf9ae8a9612f4e0db327?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ, United States | Hybrid | Nov 20 |
-| ↳ | **[Spring 2027: IRC San Diego - Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6b01219ba512f514bbde27b0?utm_campaign=1054&utm_source=git)** | El Cajon, CA, United States | On Site | Nov 20 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b00f5d70ae14188d58c2aae?utm_campaign=1054&utm_source=git)** | Fremont, CA, United States | On Site | Nov 20 |
 | ↳ | **[Internship, Organization Development (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b00f5c0a512f514bbde1b9d?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00f43d0ae14188d58c2a67?utm_campaign=1054&utm_source=git)** | Humble, TX, United States | On Site | Nov 20 |
@@ -125,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Ellsworth Adhesives](http://ellsworth.com)** | **[Talent Acquisition Coordinator Intern](https://jobright.ai/jobs/info/6afcb7bb94232f5ac42d0f6a?utm_campaign=1054&utm_source=git)** | Germantown, WI, United States | Hybrid | Nov 20 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Seagate Total Rewards Summer 2027 Intern - Americas](https://jobright.ai/jobs/info/6b00db29af6fea8c089b503f?utm_campaign=1054&utm_source=git)** | Longmont, CO, United States | On Site | Nov 20 |
 | **[SharkNinja France](http://www.sharkninja.com)** | **[SPRING 2027: EARLY TALENT RECRUITMENT INTERN (JANUARY- JUNE)](https://jobright.ai/jobs/info/6b00dad12ad6cde5ef24f953?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | Hybrid | Nov 20 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aff418cb88323bd981bd465?utm_campaign=1054&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 20 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aff395c97dcc4fc8dca9f28?utm_campaign=1054&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 20 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Human Resources - Talent Acquisition Intern](https://jobright.ai/jobs/info/6b009494d1fe3bc162e3ced4?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | Hybrid | Nov 20 |
 | ↳ | **[Human Resources - Total Rewards Intern](https://jobright.ai/jobs/info/6b00949889d8ca1e84957727?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Nov 20 |
 | **[EP Wealth Advisors](https://www.epwealth.com)** | **[HR Intern](https://jobright.ai/jobs/info/6b0093443a9a0230ab028853?utm_campaign=1054&utm_source=git)** | Torrance, CA, United States | On Site | Nov 20 |
@@ -134,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[BOLAND](http://boland.com)** | **[HR Intern (Spring Semester)](https://jobright.ai/jobs/info/6b00af39e0dc9619592832c2?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD, United States | Hybrid | Nov 20 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Payer & Health Systems Oncology - Intern](https://jobright.ai/jobs/info/6b00cb4389d8ca1e84959a51?utm_campaign=1054&utm_source=git)** | North Wales, Pennsylvania, United States | Remote | Nov 20 |
 | **[PACCAR](http://www.paccar.com/)** | **[Recruiting Human Resources Intern](https://jobright.ai/jobs/info/6b00c62ddfa58e4c244de5cb?utm_campaign=1054&utm_source=git)** | Denton, TX, United States | On Site | Nov 20 |
-| **[UPS](http://www.ups.com)** | **[MHR Intern - Labor Relations](https://jobright.ai/jobs/info/6ad293065290d4375c453cc9?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 20 |
 | **[MANE](https://www.mane.com/)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6b00c7f0e0dc9619592842ee?utm_campaign=1054&utm_source=git)** | Lebanon, OH, United States | On Site | Nov 20 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Employee Experience Internship - Spring 2027](https://jobright.ai/jobs/info/6b009b00d1fe3bc162e3d2e7?utm_campaign=1054&utm_source=git)** | Idaho Falls, ID, United States | On Site | Nov 20 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[PeopleTech Intern--Summer 2027](https://jobright.ai/jobs/info/6b00c422e0dc961959284146?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | Remote | Nov 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6aab4d674be87a72913a4054?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern Doral](https://jobright.ai/jobs/info/6b008bcf0f536e0ba7274e31?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | On Site | Nov 20 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[People Team (HR) Operations, Strategy & Communications Intern](https://jobright.ai/jobs/info/6b008b670f536e0ba7274dca?utm_campaign=1054&utm_source=git)** | Nutley, NJ, United States | Hybrid | Nov 20 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/6ac82febfe8f33a85d4ff6a7?utm_campaign=1054&utm_source=git)** | Lubbock, TX, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
