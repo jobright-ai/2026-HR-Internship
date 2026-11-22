@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Nov 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d73ea198864866763565?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 22 |
+| **[Eaton](https://www.eaton.com/br/pt-br.html)** | **[Intern, Human Resources (4/8 month) - Kitchener, ON](https://jobright.ai/jobs/info/6ae4d0f1d7424a2a828e8fa8?utm_campaign=1054&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 22 |
 | **[UPS](http://www.ups.com)** | **[MHR Intern - Labor Relations](https://jobright.ai/jobs/info/6ad293065290d4375c453cc9?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Data Analyst (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aea816c897466e69e31f87d?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 21 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Hickory NC](https://jobright.ai/jobs/info/6a5b06afc8e3a473cb8ae8f0?utm_campaign=1054&utm_source=git)** | Hickory, NC, United States | Hybrid | Nov 21 |
@@ -73,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Management Trainee Intern - Reading](https://jobright.ai/jobs/info/6aad70f23d96632d741ade9f?utm_campaign=1054&utm_source=git)** | Reading, PA, United States | On Site | Nov 21 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/6ac972b86355f8776ff1911a?utm_campaign=1054&utm_source=git)** | Warwick, RI, United States | On Site | Nov 21 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6ac97263af788e6ad3b5b896?utm_campaign=1054&utm_source=git)** | Pittsfield, MA, United States | On Site | Nov 21 |
+| ↳ | **[Summer 2027 Management Trainee Intern - North Kingstown/Middletown Rhode Island](https://jobright.ai/jobs/info/6ac9727cfcdafb60c6a4c6c2?utm_campaign=1054&utm_source=git)** | North Kingstown, RI, United States | On Site | Nov 21 |
 | **[Sappi](http://sappi.com)** | **[Intern- Organizational Development](https://jobright.ai/jobs/info/6b00b5a13a9a0230ab029f9f?utm_campaign=1054&utm_source=git)** | South Portland, ME, United States | On Site | Nov 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/6b01d0e0f6ef85c61a50ff8c?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 21 |
 | ↳ | **[Summer 2027 Management Trainee Intern - West Springfield/Chicopee, MA](https://jobright.ai/jobs/info/6ae6277a77c09cb3bd4b5382?utm_campaign=1054&utm_source=git)** | Springfield, MA, United States | On Site | Nov 21 |
@@ -94,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://jobright.ai/jobs/info/6a8ff6527c32860d14cf73d7?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Nov 21 |
 | ↳ | **[Talent Acquisition Intern (Global Functions) - 2027 Summer](https://jobright.ai/jobs/info/6a8f85a42e254e06fb9ed986?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Nov 21 |
 | ↳ | **[Talent Acquisition Project Intern (E-Commerce) - 2026 Start](https://jobright.ai/jobs/info/6a8f85c47c32860d14cf6128?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 21 |
-| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Nov 21 |
 | **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Talent Acquisition Intern Summer 2027](https://jobright.ai/jobs/info/6ad5c1f4950ef68d51830c86?utm_campaign=1054&utm_source=git)** | New Albany, OH, United States | On Site | Nov 21 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2027 Human Resource & Communications Intern](https://jobright.ai/jobs/info/6ae4cfc1eab1f9673097d018?utm_campaign=1054&utm_source=git)** | Greenville, NC, United States | On Site | Nov 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://jobright.ai/jobs/info/6a90d77a8ffa38557e6cf19f?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Nov 21 |
@@ -123,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR Partner, Engineering (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b00e76ea512f514bbde157e?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship - Edwardsville, IL](https://jobright.ai/jobs/info/6ae389bbd7424a2a828e0a97?utm_campaign=1054&utm_source=git)** | Glen Carbon, IL, United States | On Site | Nov 20 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Guest and Volunteer Services Intern](https://jobright.ai/jobs/info/6b00d2500ae14188d58c1bf0?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Nov 20 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6b00df32a512f514bbde1238?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 20 |
+| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6b00d2610ae14188d58c1c02?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 20 |
 | **[Ellsworth Adhesives](http://ellsworth.com)** | **[Talent Acquisition Coordinator Intern](https://jobright.ai/jobs/info/6afcb7bb94232f5ac42d0f6a?utm_campaign=1054&utm_source=git)** | Germantown, WI, United States | Hybrid | Nov 20 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Seagate Total Rewards Summer 2027 Intern - Americas](https://jobright.ai/jobs/info/6b00db29af6fea8c089b503f?utm_campaign=1054&utm_source=git)** | Longmont, CO, United States | On Site | Nov 20 |
 | **[SharkNinja France](http://www.sharkninja.com)** | **[SPRING 2027: EARLY TALENT RECRUITMENT INTERN (JANUARY- JUNE)](https://jobright.ai/jobs/info/6b00dad12ad6cde5ef24f953?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | Hybrid | Nov 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Redient Security](https://www.redientsecurity.in)** | **[HR Intern](https://jobright.ai/jobs/info/6b008d080f536e0ba7274f40?utm_campaign=1054&utm_source=git)** | Kansas, United States | On Site | Nov 20 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Nov 20 |
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/6aab4d674be87a72913a4054?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern Doral](https://jobright.ai/jobs/info/6b008bcf0f536e0ba7274e31?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | On Site | Nov 20 |
-| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[People Team (HR) Operations, Strategy & Communications Intern](https://jobright.ai/jobs/info/6b008b670f536e0ba7274dca?utm_campaign=1054&utm_source=git)** | Nutley, NJ, United States | Hybrid | Nov 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/6ac82febfe8f33a85d4ff6a7?utm_campaign=1054&utm_source=git)** | Lubbock, TX, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
