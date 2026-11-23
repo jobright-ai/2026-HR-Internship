@@ -57,17 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Paid Intern (Various Divisions)](https://jobright.ai/jobs/info/6b045c52526905eb2bcf645f?utm_campaign=1054&utm_source=git)** | Paterson, NJ, United States | On Site | Nov 23 |
+| **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Nuclear Human Resources Operations Intern (Lusby, MD)](https://jobright.ai/jobs/info/6aa82399a77a53f5a1577852?utm_campaign=1054&utm_source=git)** | Lusby, MD, United States | On Site | Nov 23 |
+| ↳ | **[2027 Summer Nuclear Human Resources Operations Intern (Oswego, NY)](https://jobright.ai/jobs/info/6aa8239a3a9f0a4fe6f17764?utm_campaign=1054&utm_source=git)** | Oswego, NY, United States | On Site | Nov 23 |
+| **[Minerals Technologies Inc.](http://www.mineralstech.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b0452e5c8533c23e3c34c48?utm_campaign=1054&utm_source=git)** | Bethlehem, PA, United States | On Site | Nov 23 |
+| **[LB Foster](http://www.lbfoster.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6b045068566251ad7b860cba?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | Remote | Nov 23 |
 | **[Alleghany Highlands Community Services](http://www.ahcsb.org)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/6b044f21566251ad7b860bc0?utm_campaign=1054&utm_source=git)** | Covington, VA, United States | On Site | Nov 23 |
 | **[Thunder Bay Chamber of Commerce](https://www.tbchamber.ca/)** | **[Member Relations Assistant (Intern)](https://jobright.ai/jobs/info/6b044b204c822a415e66f871?utm_campaign=1054&utm_source=git)** | Thunder Bay, ON, Canada | On Site | Nov 23 |
+| **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Human Resources - Summer 2027](https://jobright.ai/jobs/info/6a76168fb17cba569035c9b5?utm_campaign=1054&utm_source=git)** | Northfield, IL, United States | Remote | Nov 23 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b04499ba72582cade08c399?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 23 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Knowledge & Content Operations Intern](https://jobright.ai/jobs/info/6b044999a72582cade08c397?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6b044990566251ad7b86098f?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | ↳ | **[Culture & Belonging Intern](https://jobright.ai/jobs/info/6b04497e4c822a415e66f7ef?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | ↳ | **[Total Rewards Intern](https://jobright.ai/jobs/info/6b044971c8533c23e3c347de?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
-| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Nov 23 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Nov 23 |
-| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Nov 23 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6ade6e6c389e06bb41adacdf?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Nov 23 |
+| **[Camaco](https://www.camaco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69af38e6749500645093bb55?utm_campaign=1054&utm_source=git)** | Portage, Indiana | On Site | Nov 23 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6a55afa614f1040fa611a8d7?utm_campaign=1054&utm_source=git)** | Portage, IN, United States | On Site | Nov 23 |
+| **[JD.COM](http://corporate.jd.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6ade6e6c389e06bb41adacdf?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ, United States | On Site | Nov 23 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a5542d3ae07d60a8d00ffe2?utm_campaign=1054&utm_source=git)** | Piscataway, NJ, United States | On Site | Nov 23 |
 | **[Lennox](http://www.lennox.com)** | **[SAP/Kronos HR Intern](https://jobright.ai/jobs/info/6ac80a90fe8f33a85d4fec14?utm_campaign=1054&utm_source=git)** | Richardson, TX, United States | On Site | Nov 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (TikTok Shop) - 2027 Start](https://jobright.ai/jobs/info/6a706e56d4735b7dbbcce65c?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Nov 22 |
 | **[MIM, Musical Instrument Museum](http://mim.org)** | **[Volunteer Department Intern](https://jobright.ai/jobs/info/6b03aa635da88988c83fdba9?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00f430df73191d2e6afddf?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 20 |
 | ↳ | **[Summer 2027 Management Trainee Intern- New Haven and Fairfield County, CT](https://jobright.ai/jobs/info/6b00f42daf6fea8c089b5b13?utm_campaign=1054&utm_source=git)** | Danbury, CT, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00f4262ad6cde5ef2504b9?utm_campaign=1054&utm_source=git)** | Brenham, TX, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Internship - Spring 2027](https://jobright.ai/jobs/info/6b00f4220ae14188d58c2a56?utm_campaign=1054&utm_source=git)** | El Paso, TX, United States | On Site | Nov 20 |
-| **[Jeff Lowe Insurance Agency Inc.](https://www.jeffloweinsurance.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6ae518fc77c09cb3bd4b1c56?utm_campaign=1054&utm_source=git)** | Torrance, CA, United States | On Site | Nov 20 |
-| **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aee5789e0c9de7b05f8dfc5?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | Hybrid | Nov 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935a512f514bbde168e?utm_campaign=1054&utm_source=git)** | Baytown, TX, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935df73191d2e6af917?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e933af6fea8c089b565c?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
