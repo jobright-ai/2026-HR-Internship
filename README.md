@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Recruitment Intern - Only Students](https://jobright.ai/jobs/info/6b03aab8adf53adef40e10ee?utm_campaign=1054&utm_source=git)** | New York City metropolitan area, United States | Remote | Nov 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Intern (TikTok Shop) - 2027 Start](https://jobright.ai/jobs/info/6a706e56d4735b7dbbcce65c?utm_campaign=1054&utm_source=git)** | Los Angeles, United States | On Site | Nov 22 |
 | **[MIM, Musical Instrument Museum](http://mim.org)** | **[Volunteer Department Intern](https://jobright.ai/jobs/info/6b03aa635da88988c83fdba9?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 22 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b038a06adf53adef40e03a5?utm_campaign=1054&utm_source=git)** | Sparks, NV, United States | On Site | Nov 22 |
 | ↳ | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b0389f83482807223d840e7?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 22 |
@@ -149,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR Partner, Engineering (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b00e76ea512f514bbde157e?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship - Edwardsville, IL](https://jobright.ai/jobs/info/6ae389bbd7424a2a828e0a97?utm_campaign=1054&utm_source=git)** | Glen Carbon, IL, United States | On Site | Nov 20 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Guest and Volunteer Services Intern](https://jobright.ai/jobs/info/6b00d2500ae14188d58c1bf0?utm_campaign=1054&utm_source=git)** | Morristown, NJ, United States | On Site | Nov 20 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6b00d2610ae14188d58c1c02?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 20 |
+| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6b00df32a512f514bbde1238?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 20 |
 | **[Ellsworth Adhesives](http://ellsworth.com)** | **[Talent Acquisition Coordinator Intern](https://jobright.ai/jobs/info/6afcb7bb94232f5ac42d0f6a?utm_campaign=1054&utm_source=git)** | Germantown, WI, United States | Hybrid | Nov 20 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Seagate Total Rewards Summer 2027 Intern - Americas](https://jobright.ai/jobs/info/6b00db29af6fea8c089b503f?utm_campaign=1054&utm_source=git)** | Longmont, CO, United States | On Site | Nov 20 |
 | **[SharkNinja France](http://www.sharkninja.com)** | **[SPRING 2027: EARLY TALENT RECRUITMENT INTERN (JANUARY- JUNE)](https://jobright.ai/jobs/info/6b00dad12ad6cde5ef24f953?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | Hybrid | Nov 20 |
