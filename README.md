@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Better Living Health and Community Services](https://www.mybetterliving.ca)** | **[HR Intern](https://jobright.ai/jobs/info/6b046d63c8533c23e3c35ab4?utm_campaign=1054&utm_source=git)** | North York, ON, Canada | On Site | Nov 23 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Paid Intern (Various Divisions)](https://jobright.ai/jobs/info/6b045c52526905eb2bcf645f?utm_campaign=1054&utm_source=git)** | Paterson, NJ, United States | On Site | Nov 23 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6b0466e5566251ad7b861675?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 23 |
+| **[Republic Airways](http://www.rjet.com)** | **[LIFT Admissions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa84413654b2a9424cfbb9d?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 23 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Retirement Intern - Summer 2027](https://jobright.ai/jobs/info/6b0464dda72582cade08cf13?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 23 |
+| **[Henkel](http://www.henkel.com)** | **[HR Business Partner Intern – Summer 2027](https://jobright.ai/jobs/info/6b0464d421f0a1e0c849a728?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Nov 23 |
 | **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Nuclear Human Resources Operations Intern (Lusby, MD)](https://jobright.ai/jobs/info/6aa82399a77a53f5a1577852?utm_campaign=1054&utm_source=git)** | Lusby, MD, United States | On Site | Nov 23 |
 | ↳ | **[2027 Summer Nuclear Human Resources Operations Intern (Oswego, NY)](https://jobright.ai/jobs/info/6aa8239a3a9f0a4fe6f17764?utm_campaign=1054&utm_source=git)** | Oswego, NY, United States | On Site | Nov 23 |
 | **[Minerals Technologies Inc.](http://www.mineralstech.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b0452e5c8533c23e3c34c48?utm_campaign=1054&utm_source=git)** | Bethlehem, PA, United States | On Site | Nov 23 |
@@ -79,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[MIM, Musical Instrument Museum](http://mim.org)** | **[Volunteer Department Intern](https://jobright.ai/jobs/info/6b03aa635da88988c83fdba9?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 22 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b038a06adf53adef40e03a5?utm_campaign=1054&utm_source=git)** | Sparks, NV, United States | On Site | Nov 22 |
 | ↳ | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b0389f83482807223d840e7?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 22 |
+| **[Centene Corporation](http://centene.com)** | **[Emerging Talent Attraction Solutions Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6b04683c4c822a415e6705de?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Nov 22 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Future HR Leaders - Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a615a19886486676274b?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ac562fd8ff3fb9b3bc8986b?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Nov 22 |
 | ↳ | **[Spring 2027 Management Trainee Intern - York](https://jobright.ai/jobs/info/6aad70ec0ebc8fb2313e98e8?utm_campaign=1054&utm_source=git)** | York, PA, United States | On Site | Nov 22 |
@@ -86,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f9064da25272dfc6b2?utm_campaign=1054&utm_source=git)** | Brentwood, TN, United States | Hybrid | Nov 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/6ac972a1fcdafb60c6a4c6ca?utm_campaign=1054&utm_source=git)** | Torrington, CT, United States | On Site | Nov 22 |
 | ↳ | **[Summer 2027 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6ac97275fcdafb60c6a4c6c1?utm_campaign=1054&utm_source=git)** | North Attleboro, MA, United States | On Site | Nov 22 |
+| ↳ | **[Management Trainee Spring 2027 Internship](https://jobright.ai/jobs/info/6ae614f2fb2cd420ace5fd78?utm_campaign=1054&utm_source=git)** | Vallejo, CA, United States | On Site | Nov 22 |
 | **[Amazon](https://amazon.com)** | **[Sourcing Recruiter Intern – Summer 2027](https://jobright.ai/jobs/info/6ac9665ffe8f33a85d503bc3?utm_campaign=1054&utm_source=git)** | Seattle, WA, United States | On Site | Nov 22 |
 | **[Belkin](http://www.belkin.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6a307487afabbe533fb8b311?utm_campaign=1054&utm_source=git)** | El Segundo, United States of America | On Site | Nov 22 |
 | **[DigiCert](http://www.digicert.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a2a5bab495d985b99428a4f?utm_campaign=1054&utm_source=git)** | Lehi, UT, United States | On Site | Nov 22 |
@@ -107,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern - Chambersburg](https://jobright.ai/jobs/info/6aca61aaddd23cce28a0c372?utm_campaign=1054&utm_source=git)** | Chambersburg, PA, United States | On Site | Nov 21 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Macon, GA / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6af859ce35427cce9bb2cb21?utm_campaign=1054&utm_source=git)** | Macon, GA, United States | On Site | Nov 21 |
 | ↳ | **[Distribution Center HR Intern / Pendleton, IN / Summer 2027](https://jobright.ai/jobs/info/6a91be7da27a2d3c98489d77?utm_campaign=1054&utm_source=git)** | Pendleton, Indiana, United States | On Site | Nov 21 |
-| ↳ | **[DC HR Intern](https://jobright.ai/jobs/info/6a91be93d18f756748279f14?utm_campaign=1054&utm_source=git)** | Frankfort, NY, United States | On Site | Nov 21 |
 | ↳ | **[DC HR Intern Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6af859c935427cce9bb2cb1d?utm_campaign=1054&utm_source=git)** | Frankfort, NY, United States | On Site | Nov 21 |
+| ↳ | **[DC HR Intern](https://jobright.ai/jobs/info/6a91be93d18f756748279f14?utm_campaign=1054&utm_source=git)** | Frankfort, NY, United States | On Site | Nov 21 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ac7cd760e573df8adc744e9?utm_campaign=1054&utm_source=git)** | Chino, CA, United States | On Site | Nov 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6aacc3442e757fcb5c8b6586?utm_campaign=1054&utm_source=git)** | Manassas, VA, United States | On Site | Nov 21 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Human Resources Intern-Summer 2027](https://jobright.ai/jobs/info/6b01a549df73191d2e6b1a50?utm_campaign=1054&utm_source=git)** | Windy Hill, United States | Hybrid | Nov 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[King Law Offices](https://kinglawoffices.com)** | **[HR Intern/Forest City NC](https://jobright.ai/jobs/info/6a5a0c2e3ac7627fe9002080?utm_campaign=1054&utm_source=git)** | Forest City, NC, United States | Hybrid | Nov 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Career Pathways Intern (Unpaid)](https://jobright.ai/jobs/info/6afcbf9ae8a9612f4e0db327?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ, United States | Hybrid | Nov 20 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b00f5d70ae14188d58c2aae?utm_campaign=1054&utm_source=git)** | Fremont, CA, United States | On Site | Nov 20 |
-| ↳ | **[Internship, Organization Development (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b00f5c0a512f514bbde1b9d?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00f43d0ae14188d58c2a67?utm_campaign=1054&utm_source=git)** | Humble, TX, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00f4350ae14188d58c2a62?utm_campaign=1054&utm_source=git)** | Lake Jackson, TX, United States | On Site | Nov 20 |
-| ↳ | **[Summer 2027 Management Trainee Intern- Westchester County, NY](https://jobright.ai/jobs/info/6b00f434df73191d2e6afde1?utm_campaign=1054&utm_source=git)** | Yonkers, NY, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00f430df73191d2e6afddf?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 20 |
-| ↳ | **[Summer 2027 Management Trainee Intern- New Haven and Fairfield County, CT](https://jobright.ai/jobs/info/6b00f42daf6fea8c089b5b13?utm_campaign=1054&utm_source=git)** | Danbury, CT, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00f4262ad6cde5ef2504b9?utm_campaign=1054&utm_source=git)** | Brenham, TX, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
