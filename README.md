@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Recruitment Intern - Only Students](https://jobright.ai/jobs/info/6b03aab8adf53adef40e10ee?utm_campaign=1054&utm_source=git)** | New York City metropolitan area, United States | Remote | Nov 22 |
+| **[MIM, Musical Instrument Museum](http://mim.org)** | **[Volunteer Department Intern](https://jobright.ai/jobs/info/6b03aa635da88988c83fdba9?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 22 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b038a06adf53adef40e03a5?utm_campaign=1054&utm_source=git)** | Sparks, NV, United States | On Site | Nov 22 |
 | ↳ | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b0389f83482807223d840e7?utm_campaign=1054&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 22 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Future HR Leaders - Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a615a19886486676274b?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 22 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ac562fd8ff3fb9b3bc8986b?utm_campaign=1054&utm_source=git)** | Greenville, SC, United States | On Site | Nov 22 |
+| ↳ | **[Spring 2027 Management Trainee Intern - York](https://jobright.ai/jobs/info/6aad70ec0ebc8fb2313e98e8?utm_campaign=1054&utm_source=git)** | York, PA, United States | On Site | Nov 22 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center HR Intern / Maumelle, AR / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f9372c01f6cd71f4c2?utm_campaign=1054&utm_source=git)** | Maumelle, AR, United States | On Site | Nov 22 |
 | ↳ | **[Human Resources Intern / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f9064da25272dfc6b2?utm_campaign=1054&utm_source=git)** | Brentwood, TN, United States | Hybrid | Nov 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6ac97275fcdafb60c6a4c6c1?utm_campaign=1054&utm_source=git)** | North Attleboro, MA, United States | On Site | Nov 22 |
@@ -74,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://global.lockton.com)** | **[Summer Associate 2027 People Solutions - Alabama, Atlanta, Charlotte, Florida](https://jobright.ai/jobs/info/6a74b408972ac843c6996a25?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | Nov 22 |
 | **[Eaton](https://www.eaton.com/br/pt-br.html)** | **[Intern, Human Resources (4/8 month) - Kitchener, ON](https://jobright.ai/jobs/info/6ae4d0f1d7424a2a828e8fa8?utm_campaign=1054&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 22 |
 | **[UPS](http://www.ups.com)** | **[MHR Intern - Labor Relations](https://jobright.ai/jobs/info/6ad293065290d4375c453cc9?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/6ac9727eaf788e6ad3b5b89f?utm_campaign=1054&utm_source=git)** | New London, CT, United States | On Site | Nov 21 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/6b01e8a9df73191d2e6b22b1?utm_campaign=1054&utm_source=git)** | Doswell, VA, United States | On Site | Nov 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Data Analyst (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aea816c897466e69e31f87d?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Intern- Danbury CT](https://jobright.ai/jobs/info/6ac92ef0d4a5a0370741128e?utm_campaign=1054&utm_source=git)** | Danbury, CT, United States | On Site | Nov 21 |
@@ -135,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Internship - Spring 2027](https://jobright.ai/jobs/info/6b00f4220ae14188d58c2a56?utm_campaign=1054&utm_source=git)** | El Paso, TX, United States | On Site | Nov 20 |
 | **[Jeff Lowe Insurance Agency Inc.](https://www.jeffloweinsurance.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6ae518fc77c09cb3bd4b1c56?utm_campaign=1054&utm_source=git)** | Torrance, CA, United States | On Site | Nov 20 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6aee5789e0c9de7b05f8dfc5?utm_campaign=1054&utm_source=git)** | Madison, WI, United States | Hybrid | Nov 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935df73191d2e6af917?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935a512f514bbde168e?utm_campaign=1054&utm_source=git)** | Baytown, TX, United States | On Site | Nov 20 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935a512f514bbde168e?utm_campaign=1054&utm_source=git)** | Baytown, TX, United States | On Site | Nov 20 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e935df73191d2e6af917?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e933af6fea8c089b565c?utm_campaign=1054&utm_source=git)** | Spring, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e930a512f514bbde1687?utm_campaign=1054&utm_source=git)** | Beaumont, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Internship - Summer 2027](https://jobright.ai/jobs/info/6b00e9230ae14188d58c2570?utm_campaign=1054&utm_source=git)** | El Paso, TX, United States | On Site | Nov 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Human Resources - Talent Acquisition Intern](https://jobright.ai/jobs/info/6b009494d1fe3bc162e3ced4?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | Hybrid | Nov 20 |
 | ↳ | **[Human Resources - Total Rewards Intern](https://jobright.ai/jobs/info/6b00949889d8ca1e84957727?utm_campaign=1054&utm_source=git)** | Ankeny, IA, United States | On Site | Nov 20 |
 | **[EP Wealth Advisors](https://www.epwealth.com)** | **[HR Intern](https://jobright.ai/jobs/info/6b0093443a9a0230ab028853?utm_campaign=1054&utm_source=git)** | Torrance, CA, United States | On Site | Nov 20 |
-| **[Jabil](https://www.jabil.com)** | **[HRIS Intern - Change Management and Communications](https://jobright.ai/jobs/info/6afcb6972ac165125e4cbad9?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL, United States | On Site | Nov 20 |
-| **[Teck Resources Limited](http://www.teck.com/)** | **[Human Resouces Intern](https://jobright.ai/jobs/info/6b00cccd0ae14188d58c18cd?utm_campaign=1054&utm_source=git)** | Red Dog Mine, AK, United States | On Site | Nov 20 |
-| **[BOLAND](http://boland.com)** | **[HR Intern (Spring Semester)](https://jobright.ai/jobs/info/6b00af39e0dc9619592832c2?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD, United States | Hybrid | Nov 20 |
-| **[PACCAR](http://www.paccar.com/)** | **[Recruiting Human Resources Intern](https://jobright.ai/jobs/info/6b00c62ddfa58e4c244de5cb?utm_campaign=1054&utm_source=git)** | Denton, TX, United States | On Site | Nov 20 |
-| **[MANE](https://www.mane.com/)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6b00c7f0e0dc9619592842ee?utm_campaign=1054&utm_source=git)** | Lebanon, OH, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
