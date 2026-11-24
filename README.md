@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TMX Group](http://www.tmx.com)** | **[Student Intern - Talent Acquisition - Winter Term](https://jobright.ai/jobs/info/6ae8ab92fb2cd420ace676f9?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 24 |
+| **[Henkel](http://www.henkel.com)** | **[HR Business Partner Intern – Summer 2027](https://jobright.ai/jobs/info/6b0464d421f0a1e0c849a728?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Nov 24 |
 | **[Highgate](https://www.highgate.com)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6abac78cee0b348be729b651?utm_campaign=1054&utm_source=git)** | Key West, FL, United States | On Site | Nov 23 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Human Resources (Spring 2027) (32133)](https://jobright.ai/jobs/info/6abb0aecee0b348be729c94c?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Nov 23 |
 | **[Formlabs](http://www.formlabs.com)** | **[Campus Recruiting Intern (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b04f80c2d88b678f117ab5b?utm_campaign=1054&utm_source=git)** | Somerville, MA, United States | On Site | Nov 23 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[WestRock Company](http://www.westrock.com)** | **[Early Career, HR Intern - Dublin, GA Mill](https://jobright.ai/jobs/info/6b04bf762d88b678f117940e?utm_campaign=1054&utm_source=git)** | Dublin, GA, United States | On Site | Nov 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6adfacedc5c64fa3d9cbe527?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 23 |
 | **[Servco Pacific Inc.](http://www.servco.com)** | **[2027 Summer Intern - HR Business Partner](https://jobright.ai/jobs/info/6b04dae87bec27df08f94ed0?utm_campaign=1054&utm_source=git)** | Honolulu, HI, United States | On Site | Nov 23 |
+| **[SLB](https://www.slb.com)** | **[Student Intern](https://jobright.ai/jobs/info/6ab43875ef911c35dffa3fa4?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 23 |
 | **[FIRST](https://firstagency.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6b0480e04c822a415e6715dc?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Nov 23 |
 | **[onsemi](http://www.onsemi.com)** | **[Spring 2027 Human Resources Intern](https://jobright.ai/jobs/info/6b0490e57fd2e33bde0950d4?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ, United States | On Site | Nov 23 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[HR Intern - Fall 2027](https://jobright.ai/jobs/info/6b04e2712d88b678f117a67f?utm_campaign=1054&utm_source=git)** | Grapeland, TX, United States | On Site | Nov 23 |
@@ -94,7 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Clinical Research -Talent Community Graduates for 2027-2028 (Detroit, MI)](https://jobright.ai/jobs/info/6ac690acd9621c5b283a97fc?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | On Site | Nov 23 |
 | **[Treasure Island Resort & Casino](https://www.ticasino.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b049ca5b4933fb9f435f6e6?utm_campaign=1054&utm_source=git)** | Welch, MN, United States | On Site | Nov 23 |
 | ↳ | **[Payroll Intern](https://jobright.ai/jobs/info/6b049c9fb4933fb9f435f6dd?utm_campaign=1054&utm_source=git)** | Welch, MN, United States | On Site | Nov 23 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aff395c97dcc4fc8dca9f28?utm_campaign=1054&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 23 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Human Resources](https://jobright.ai/jobs/info/6aff418cb88323bd981bd465?utm_campaign=1054&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 23 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Resources (Internship)](https://jobright.ai/jobs/info/6b04946e2d88b678f11777a4?utm_campaign=1054&utm_source=git)** | St. George, UT, United States | On Site | Nov 23 |
 | **[MIRATECH](http://www.miratechcorp.com)** | **[HR Internship (Summer 2027)](https://jobright.ai/jobs/info/6aafe242de327d3e210d71d1?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Nov 23 |
 | **[Tessera](https://tessera.org)** | **[Workforce Development Intern](https://jobright.ai/jobs/info/6b048caab4933fb9f435ee0c?utm_campaign=1054&utm_source=git)** | Bremerton, WA, United States | On Site | Nov 23 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Paid Intern (Various Divisions)](https://jobright.ai/jobs/info/6b045c52526905eb2bcf645f?utm_campaign=1054&utm_source=git)** | Paterson, NJ, United States | On Site | Nov 23 |
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT Admissions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa84413654b2a9424cfbb9d?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 23 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Retirement Intern - Summer 2027](https://jobright.ai/jobs/info/6b0464dda72582cade08cf13?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 23 |
-| **[Henkel](http://www.henkel.com)** | **[HR Business Partner Intern – Summer 2027](https://jobright.ai/jobs/info/6b0464d421f0a1e0c849a728?utm_campaign=1054&utm_source=git)** | Salisbury, NC, United States | On Site | Nov 23 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Pilot Workforce Planning & Strategy (Summer 2027)](https://jobright.ai/jobs/info/6b04cc372d88b678f1179dbe?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Nov 23 |
 | **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Nuclear Human Resources Operations Intern (Lusby, MD)](https://jobright.ai/jobs/info/6aa82399a77a53f5a1577852?utm_campaign=1054&utm_source=git)** | Lusby, MD, United States | On Site | Nov 23 |
 | ↳ | **[2027 Summer Nuclear Human Resources Operations Intern (Oswego, NY)](https://jobright.ai/jobs/info/6aa8239a3a9f0a4fe6f17764?utm_campaign=1054&utm_source=git)** | Oswego, NY, United States | On Site | Nov 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - Waterbury/Watertown/Naugatuck, CT](https://jobright.ai/jobs/info/6ac97288c3a8af9c54a0acc8?utm_campaign=1054&utm_source=git)** | Waterbury, CT, United States | On Site | Nov 22 |
 | **[Eaton](https://www.eaton.com/br/pt-br.html)** | **[Intern, Human Resources (4/8 month) - Kitchener, ON](https://jobright.ai/jobs/info/6ae4d0f1d7424a2a828e8fa8?utm_campaign=1054&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6ac91403fe8f33a85d5021e9?utm_campaign=1054&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 21 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6aacc2bc2e757fcb5c8b657a?utm_campaign=1054&utm_source=git)** | Silver Spring, MD, United States | On Site | Nov 21 |
-| ↳ | **[Spring 2027 Management Trainee Intern- Westchester County, NY](https://jobright.ai/jobs/info/6ac92f1afcdafb60c6a4b350?utm_campaign=1054&utm_source=git)** | Yonkers, NY, United States | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
