@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMMI](http://www.imminet.com)** | **[2027 Summer Team Resources Intern](https://jobright.ai/jobs/info/6aee36bacaf8e660b87dd21a?utm_campaign=1054&utm_source=git)** | Westfield, IN, United States | On Site | Nov 24 |
+| **[AltaGas Ltd.](http://altagas.ca/)** | **[AltaGas - HR, Intern](https://jobright.ai/jobs/info/6b05d5a963d280053ef85539?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 24 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[PS Employee Experience Intern NEX YR](https://jobright.ai/jobs/info/6b0617623e56157448ed3606?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | Remote | Nov 24 |
 | **[Central Bank](https://www.centralbank.net)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6b06142f0e7eacd1ea645dbf?utm_campaign=1054&utm_source=git)** | Lee's Summit, MO, United States | On Site | Nov 24 |
 | **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[CASE MANAGER (BSW) - INTERN](https://jobright.ai/jobs/info/6b0613f371c8f4e3660eb4b8?utm_campaign=1054&utm_source=git)** | Dyersburg, Tennessee, United States | On Site | Nov 24 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/6b05b511707ad7f350539b95?utm_campaign=1054&utm_source=git)** | Allentown, PA, United States | On Site | Nov 24 |
 | ↳ | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/6b05b50d2835ccc63ff53eaf?utm_campaign=1054&utm_source=git)** | Doswell, VA, United States | On Site | Nov 24 |
 | **[GenTech Associates, Inc.](https://www.gentechassociates.com/)** | **[HR & Talent Acquisition Intern](https://jobright.ai/jobs/info/6b05b3732cb8a4d8561c5c43?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 24 |
-| **[CIEE Council on International Educational Exchange](https://www.ciee.org/)** | **[Fellowship Program Intern](https://jobright.ai/jobs/info/6adb008caee75c4e7d2e6317?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 24 |
 | **[ASML](https://www.asml.com)** | **[Internship – Community and Employee Engagement](https://jobright.ai/jobs/info/6ae919d403f4a1104b259c44?utm_campaign=1054&utm_source=git)** | Chandler, AZ, United States | On Site | Nov 24 |
 | **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship - Summer 2027](https://jobright.ai/jobs/info/6b05a6442835ccc63ff5381f?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Nov 24 |
 | ↳ | **[Talent Acquisition Internship - Summer 2027](https://jobright.ai/jobs/info/6b05a5c52cb8a4d8561c569f?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Nov 24 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](https://www.thethinkacademy.com)** | **[HR Intern - Mandarin Required](https://jobright.ai/jobs/info/6af26f2d1aaffa49f7384960?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 23 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b044990566251ad7b86098f?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | ↳ | **[Knowledge & Content Operations Intern](https://jobright.ai/jobs/info/6b044999a72582cade08c397?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
-| ↳ | **[Total Rewards Intern](https://jobright.ai/jobs/info/6b044971c8533c23e3c347de?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | ↳ | **[Culture & Belonging Intern](https://jobright.ai/jobs/info/6b04497e4c822a415e66f7ef?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
+| ↳ | **[Total Rewards Intern](https://jobright.ai/jobs/info/6b044971c8533c23e3c347de?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | **[Allianz](https://www.allianz.com)** | **[Facilities & Events Management Intern](https://jobright.ai/jobs/info/6b04ea197bec27df08f953ff?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
 | **[WestRock Company](http://www.westrock.com)** | **[Early Career, HR Intern - Dublin, GA Mill](https://jobright.ai/jobs/info/6b04bf762d88b678f117940e?utm_campaign=1054&utm_source=git)** | Dublin, GA, United States | On Site | Nov 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6adfacedc5c64fa3d9cbe527?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 23 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[ENGIE](http://www.engie.com)** | **[Intern_PTIN5C](https://jobright.ai/jobs/info/6b05f6bc460ce5352ae3d065?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
 | **[Centene Corporation](http://centene.com)** | **[Emerging Talent Attraction Solutions Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6b0611f1dbad4c4bd2503f97?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Nov 23 |
 | **[Arkansas Electric Cooperative Corporation](https://aecc.com/)** | **[2027 Human Resources Intern](https://jobright.ai/jobs/info/6b05f7f0dbad4c4bd25031f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 23 |
-| **[AltaGas Ltd.](http://altagas.ca/)** | **[AltaGas - HR, Intern](https://jobright.ai/jobs/info/6b05d5a963d280053ef85539?utm_campaign=1054&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 23 |
 | **[FIRST](https://firstagency.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6b0480e04c822a415e6715dc?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Nov 23 |
 | **[onsemi](http://www.onsemi.com)** | **[Spring 2027 Human Resources Intern](https://jobright.ai/jobs/info/6b0490e57fd2e33bde0950d4?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ, United States | On Site | Nov 23 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[HR Intern - Fall 2027](https://jobright.ai/jobs/info/6b04e2712d88b678f117a67f?utm_campaign=1054&utm_source=git)** | Grapeland, TX, United States | On Site | Nov 23 |
