@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACCESS, Inc.](http://www.access-shelter.org/)** | **[HR Administration Internship (Unpaid)](https://jobright.ai/jobs/info/6a845b3ee124744552739b23?utm_campaign=1054&utm_source=git)** | Akron, OH, United States | On Site | Nov 25 |
+| **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Asheville NC](https://jobright.ai/jobs/info/6a3d79ca78237a036d5e18a6?utm_campaign=1054&utm_source=git)** | Asheville, NC, United States | Hybrid | Nov 25 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Enterprise Benefits Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aea40f6440b469a1c0ac29a?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 25 |
+| **[Stratolaunch](https://www.stratolaunch.com/)** | **[People Team Intern- Summer 2027](https://jobright.ai/jobs/info/6ae9f53fa291a1db4de264b2?utm_campaign=1054&utm_source=git)** | Mojave, CA, United States | On Site | Nov 25 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aceb8a170e50ec1b37f195d?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 25 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern - Summer 2027](https://jobright.ai/jobs/info/6accfdc4d113c967e3c7b860?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 25 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, HR - Student & Early Career Team](https://jobright.ai/jobs/info/6b06822b2af8a885d1da1930?utm_campaign=1054&utm_source=git)** | Buffalo, NY, United States | Hybrid | Nov 25 |
@@ -108,11 +112,9 @@ For a complete list, click the following sortable link below:
 | **[Athena](https://athenapsych.com)** | **[Onboarding Intern (Unpaid)](https://jobright.ai/jobs/info/6b05be612cb8a4d8561c6456?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
 | **[Gallagher UK](https://www.ajg.com/uk)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6b05bd002835ccc63ff543a9?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL, United States | Hybrid | Nov 24 |
 | **[Arthur J. Gallagher for Propertymark Members](https://www.ajg.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6b05b9d10a025d0ca4ff4b7c?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL, United States | Hybrid | Nov 24 |
-| **[ACCESS, Inc.](http://www.access-shelter.org/)** | **[HR Administration Internship (Unpaid)](https://jobright.ai/jobs/info/6a845b3ee124744552739b23?utm_campaign=1054&utm_source=git)** | Akron, OH, United States | On Site | Nov 24 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Internship - Spring/Summer 2027](https://jobright.ai/jobs/info/6b05b5312835ccc63ff53ed9?utm_campaign=1054&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 24 |
 | ↳ | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/6b05b511707ad7f350539b95?utm_campaign=1054&utm_source=git)** | Allentown, PA, United States | On Site | Nov 24 |
 | ↳ | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/6b05b50d2835ccc63ff53eaf?utm_campaign=1054&utm_source=git)** | Doswell, VA, United States | On Site | Nov 24 |
-| **[GenTech Associates, Inc.](https://www.gentechassociates.com/)** | **[HR & Talent Acquisition Intern](https://jobright.ai/jobs/info/6b05b3732cb8a4d8561c5c43?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 24 |
 | **[ASML](https://www.asml.com)** | **[Internship – Community and Employee Engagement](https://jobright.ai/jobs/info/6ae919d403f4a1104b259c44?utm_campaign=1054&utm_source=git)** | Chandler, AZ, United States | On Site | Nov 24 |
 | **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship - Summer 2027](https://jobright.ai/jobs/info/6b05a6442835ccc63ff5381f?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Nov 24 |
 | ↳ | **[Talent Acquisition Internship - Summer 2027](https://jobright.ai/jobs/info/6b05a5c52cb8a4d8561c569f?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Nov 24 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[The Clearing House](https://www.theclearinghouse.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b06381845a65b5da366f2c2?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/6b05c0ae2835ccc63ff54816?utm_campaign=1054&utm_source=git)** | Mankato, Minnesota, United States | On Site | Nov 23 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Human Resource Intern - Linthicum MD](https://jobright.ai/jobs/info/6b06300745a65b5da366f00f?utm_campaign=1054&utm_source=git)** | Linthicum, MD, United States | On Site | Nov 23 |
-| ↳ | **[2027 Human Resources Intern - Linthicum MD](https://jobright.ai/jobs/info/6b06303e71c8f4e3660ec34b?utm_campaign=1054&utm_source=git)** | Linthicum, MD, United States | On Site | Nov 23 |
 | ↳ | **[2027 Human Resource Intern - Rolling Meadows IL](https://jobright.ai/jobs/info/6b062ff5460ce5352ae3eef5?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL, United States | On Site | Nov 23 |
+| ↳ | **[2027 Human Resources Intern - Linthicum MD](https://jobright.ai/jobs/info/6b06303e71c8f4e3660ec34b?utm_campaign=1054&utm_source=git)** | Linthicum, MD, United States | On Site | Nov 23 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Workplace & Enterprise Services Global Real Estate (GRES) Co-op](https://jobright.ai/jobs/info/6b0606d845a65b5da366d9c3?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Nov 23 |
-| **[Marsh People Solutions](http://www.mercer.com)** | **[Workforce and Rewards Executive Compensation Summer Intern - Dallas - College Program 2027](https://jobright.ai/jobs/info/6b05af342835ccc63ff53c35?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 23 |
-| **[Kennywood Park](https://www.kennywood.com/)** | **[Idlewild and SoakZone: Workforce Management Intern](https://jobright.ai/jobs/info/6b05fa200e7eacd1ea645021?utm_campaign=1054&utm_source=git)** | Ligonier, PA, United States | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
