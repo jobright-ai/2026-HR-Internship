@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern - Spring 2027](https://jobright.ai/jobs/info/6ab198e723005eee3545b6f8?utm_campaign=1054&utm_source=git)** | Lancaster, PA, United States | On Site | Nov 25 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[ADMINISTRATIVE ASSISTANT (INTERN)](https://jobright.ai/jobs/info/6b066ba367bccf421e6f93ef?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 24 |
 | **[Central Bank](https://www.centralbank.net)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6b06142f0e7eacd1ea645dbf?utm_campaign=1054&utm_source=git)** | Lee's Summit, MO, United States | On Site | Nov 24 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[ADMINISTRATIVE ASSISTANT (INTERN)](https://jobright.ai/jobs/info/6b065eacde976ed7533067ad?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 24 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Intern- People Experience & Workforce Strategy](https://jobright.ai/jobs/info/6b05d6b52835ccc63ff55379?utm_campaign=1054&utm_source=git)** | Harrisburg, PA, United States | Hybrid | Nov 24 |
 | **[TELUS](http://www.telus.com)** | **[Winter Internship - Defined Benefit Pension Administration](https://jobright.ai/jobs/info/6b05d763d43f730eab59690a?utm_campaign=1054&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 24 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6afcbd11d86c15318a38db26?utm_campaign=1054&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 24 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 24 |
-| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 24 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 24 |
+| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 24 |
 | **[Worthington Steel](https://www.worthingtonsteel.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6aff4afaaea17e3f50eaf553?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Nov 24 |
 | **[Piper Sandler](https://pipersandler.com)** | **[Campus Recruiting - 2027 Investment Banking Summer Associate - Healthcare Services & IT](https://jobright.ai/jobs/info/6b05cfa863d280053ef85294?utm_campaign=1054&utm_source=git)** | Chicago, IL, United States | On Site | Nov 24 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com)** | **[Member Engagement & Organizational Strategy Internship – Summer 2027](https://jobright.ai/jobs/info/6b05b62ed43f730eab595445?utm_campaign=1054&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 24 |
@@ -108,7 +109,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/6b05b511707ad7f350539b95?utm_campaign=1054&utm_source=git)** | Allentown, PA, United States | On Site | Nov 24 |
 | ↳ | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/6b05b50d2835ccc63ff53eaf?utm_campaign=1054&utm_source=git)** | Doswell, VA, United States | On Site | Nov 24 |
 | **[GenTech Associates, Inc.](https://www.gentechassociates.com/)** | **[HR & Talent Acquisition Intern](https://jobright.ai/jobs/info/6b05b3732cb8a4d8561c5c43?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 24 |
-| **[CIEE Council on International Educational Exchange](https://www.ciee.org/)** | **[Fellowship Program Intern](https://jobright.ai/jobs/info/6adb008caee75c4e7d2e6317?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 24 |
 | **[ASML](https://www.asml.com)** | **[Internship – Community and Employee Engagement](https://jobright.ai/jobs/info/6ae919d403f4a1104b259c44?utm_campaign=1054&utm_source=git)** | Chandler, AZ, United States | On Site | Nov 24 |
 | **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship - Summer 2027](https://jobright.ai/jobs/info/6b05a6442835ccc63ff5381f?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Nov 24 |
 | ↳ | **[Talent Acquisition Internship - Summer 2027](https://jobright.ai/jobs/info/6b05a5c52cb8a4d8561c569f?utm_campaign=1054&utm_source=git)** | Columbus, OH, United States | On Site | Nov 24 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](https://www.thethinkacademy.com)** | **[HR Intern - Mandarin Required](https://jobright.ai/jobs/info/6af26f2d1aaffa49f7384960?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 23 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b044990566251ad7b86098f?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | ↳ | **[Knowledge & Content Operations Intern](https://jobright.ai/jobs/info/6b044999a72582cade08c397?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
-| ↳ | **[Total Rewards Intern](https://jobright.ai/jobs/info/6b044971c8533c23e3c347de?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | ↳ | **[Culture & Belonging Intern](https://jobright.ai/jobs/info/6b04497e4c822a415e66f7ef?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
+| ↳ | **[Total Rewards Intern](https://jobright.ai/jobs/info/6b044971c8533c23e3c347de?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | **[Allianz](https://www.allianz.com)** | **[Facilities & Events Management Intern](https://jobright.ai/jobs/info/6b04ea197bec27df08f953ff?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
 | **[WestRock Company](http://www.westrock.com)** | **[Early Career, HR Intern - Dublin, GA Mill](https://jobright.ai/jobs/info/6b04bf762d88b678f117940e?utm_campaign=1054&utm_source=git)** | Dublin, GA, United States | On Site | Nov 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6adfacedc5c64fa3d9cbe527?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 23 |
