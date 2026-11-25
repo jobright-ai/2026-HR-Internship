@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aceb8a170e50ec1b37f195d?utm_campaign=1054&utm_source=git)** | Irving, TX, United States | On Site | Nov 25 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern - Summer 2027](https://jobright.ai/jobs/info/6accfdc4d113c967e3c7b860?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 25 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, HR - Student & Early Career Team](https://jobright.ai/jobs/info/6b06822b2af8a885d1da1930?utm_campaign=1054&utm_source=git)** | Buffalo, NY, United States | Hybrid | Nov 25 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: People & Culture (Spring 2027)](https://jobright.ai/jobs/info/6aea0f8a897466e69e31afe5?utm_campaign=1054&utm_source=git)** | Grover, NC, United States | On Site | Nov 25 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Human Resources (Summer 2027)](https://jobright.ai/jobs/info/6aea3b7afc85f3a394331b57?utm_campaign=1054&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 25 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](https://www.thethinkacademy.com)** | **[HR Intern - Mandarin Required](https://jobright.ai/jobs/info/6af26f2d1aaffa49f7384960?utm_campaign=1054&utm_source=git)** | San Jose, CA, United States | On Site | Nov 23 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b044990566251ad7b86098f?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | ↳ | **[Knowledge & Content Operations Intern](https://jobright.ai/jobs/info/6b044999a72582cade08c397?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
-| ↳ | **[Total Rewards Intern](https://jobright.ai/jobs/info/6b044971c8533c23e3c347de?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | ↳ | **[Culture & Belonging Intern](https://jobright.ai/jobs/info/6b04497e4c822a415e66f7ef?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
+| ↳ | **[Total Rewards Intern](https://jobright.ai/jobs/info/6b044971c8533c23e3c347de?utm_campaign=1054&utm_source=git)** | North Liberty, IA, United States | On Site | Nov 23 |
 | **[Allianz](https://www.allianz.com)** | **[Facilities & Events Management Intern](https://jobright.ai/jobs/info/6b04ea197bec27df08f953ff?utm_campaign=1054&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
 | **[WestRock Company](http://www.westrock.com)** | **[Early Career, HR Intern - Dublin, GA Mill](https://jobright.ai/jobs/info/6b04bf762d88b678f117940e?utm_campaign=1054&utm_source=git)** | Dublin, GA, United States | On Site | Nov 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6adfacedc5c64fa3d9cbe527?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 23 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Servco Pacific Inc.](http://www.servco.com)** | **[2027 Summer Intern - HR Business Partner](https://jobright.ai/jobs/info/6b04dae87bec27df08f94ed0?utm_campaign=1054&utm_source=git)** | Honolulu, HI, United States | On Site | Nov 23 |
 | **[The Clearing House](https://www.theclearinghouse.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b06381845a65b5da366f2c2?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/6b05c0ae2835ccc63ff54816?utm_campaign=1054&utm_source=git)** | Mankato, Minnesota, United States | On Site | Nov 23 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Human Resource Intern - Rolling Meadows IL](https://jobright.ai/jobs/info/6b062ff5460ce5352ae3eef5?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL, United States | On Site | Nov 23 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Human Resource Intern - Linthicum MD](https://jobright.ai/jobs/info/6b06300745a65b5da366f00f?utm_campaign=1054&utm_source=git)** | Linthicum, MD, United States | On Site | Nov 23 |
 | ↳ | **[2027 Human Resources Intern - Linthicum MD](https://jobright.ai/jobs/info/6b06303e71c8f4e3660ec34b?utm_campaign=1054&utm_source=git)** | Linthicum, MD, United States | On Site | Nov 23 |
-| ↳ | **[2027 Human Resource Intern - Linthicum MD](https://jobright.ai/jobs/info/6b06300745a65b5da366f00f?utm_campaign=1054&utm_source=git)** | Linthicum, MD, United States | On Site | Nov 23 |
+| ↳ | **[2027 Human Resource Intern - Rolling Meadows IL](https://jobright.ai/jobs/info/6b062ff5460ce5352ae3eef5?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL, United States | On Site | Nov 23 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Workplace & Enterprise Services Global Real Estate (GRES) Co-op](https://jobright.ai/jobs/info/6b0606d845a65b5da366d9c3?utm_campaign=1054&utm_source=git)** | Rahway, NJ, United States | Hybrid | Nov 23 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Workforce and Rewards Executive Compensation Summer Intern - Dallas - College Program 2027](https://jobright.ai/jobs/info/6b05af342835ccc63ff53c35?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 23 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Idlewild and SoakZone: Workforce Management Intern](https://jobright.ai/jobs/info/6b05fa200e7eacd1ea645021?utm_campaign=1054&utm_source=git)** | Ligonier, PA, United States | On Site | Nov 23 |
-| **[ENGIE](http://www.engie.com)** | **[Intern_PTIN5C](https://jobright.ai/jobs/info/6b05f6bc460ce5352ae3d065?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
-| **[Compass Group Canada](http://www.compass-canada.com)** | **[ADMINISTRATIVE ASSISTANT (INTERN)](https://jobright.ai/jobs/info/6b062fb23e56157448ed424e?utm_campaign=1054&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
