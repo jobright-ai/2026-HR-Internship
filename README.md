@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nordson Corporation](http://www.nordson.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6acea961bb78de94580d78de?utm_campaign=1054&utm_source=git)** | Clinton, SC, United States | On Site | Nov 26 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/6aa0acb1a2266b538d231ceb?utm_campaign=1054&utm_source=git)** | Westchester, IL, United States | Hybrid | Nov 26 |
+| ↳ | **[Global Inclusion/Internal Communication HR Intern](https://jobright.ai/jobs/info/6a987cfbdd171c7285792815?utm_campaign=1054&utm_source=git)** | Westchester, IL, United States | Hybrid | Nov 26 |
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab2bfc4326574570a002dd5?utm_campaign=1054&utm_source=git)** | New Castle, DE, United States | On Site | Nov 26 |
 | **[Lockton](https://global.lockton.com)** | **[South Internship - 2027](https://jobright.ai/jobs/info/6a965757f28891320e86114f?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Nov 26 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6a96dcde246d697dcee019c2?utm_campaign=1054&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 26 |
@@ -74,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Elk Valley Resources](http://www.evr.com)** | **[January 2027 Talent Management Co-op](https://jobright.ai/jobs/info/6a9741c5b22f636c81416fe1?utm_campaign=1054&utm_source=git)** | Sparwood, BC, Canada | On Site | Nov 25 |
 | **[Kalahari Resorts & Conventions](https://www.kalahariresorts.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6b078d8ee68b15bbbb5603ed?utm_campaign=1054&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Nov 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b07824cc4f040f478a43db8?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 25 |
-| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 25 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 25 |
+| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 25 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Benefits & Absence Intern](https://jobright.ai/jobs/info/6b07483b6c5083822fdc86b9?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 25 |
 | ↳ | **[Human Resources Information Systems Intern](https://jobright.ai/jobs/info/6b07484d6c5083822fdc86c9?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 25 |
 | **[Amcor](http://www.amcor.com/)** | **[Human Resources Intern - Airport Warehouse](https://jobright.ai/jobs/info/6b07ef84879b90d61078354c?utm_campaign=1054&utm_source=git)** | Evansville, IN, United States | On Site | Nov 25 |
@@ -124,9 +127,9 @@ For a complete list, click the following sortable link below:
 | **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b05ddfc2cb8a4d8561c7838?utm_campaign=1054&utm_source=git)** | Hauppauge, NY, United States | On Site | Nov 25 |
 | **[Interfor](http://www.interfor.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aea3ecf440b469a1c0ac184?utm_campaign=1054&utm_source=git)** | Perry, GA, United States | On Site | Nov 25 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6ab6f0953a2ec87116e24b56?utm_campaign=1054&utm_source=git)** | Chase, British Columbia, Canada | On Site | Nov 25 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources - Information Systems Intern](https://jobright.ai/jobs/info/6a9626574c22023a079386b2?utm_campaign=1054&utm_source=git)** | Millsboro, DE, United States | On Site | Nov 25 |
-| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a62a9e207e15f1ab0e47884?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6ae9f2702b0b1eb5805b5092?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources - Information Systems Intern](https://jobright.ai/jobs/info/6a9623769fcec54423731a86?utm_campaign=1054&utm_source=git)** | Millsboro, DE, United States | On Site | Nov 25 |
+| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6ae9f2702b0b1eb5805b5092?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6a62a9e207e15f1ab0e47884?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
 | **[ACCESS, Inc.](http://www.access-shelter.org/)** | **[HR Administration Internship (Unpaid)](https://jobright.ai/jobs/info/6a845b3ee124744552739b23?utm_campaign=1054&utm_source=git)** | Akron, OH, United States | On Site | Nov 25 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (HR)](https://jobright.ai/jobs/info/6ace9e77bb78de94580d7488?utm_campaign=1054&utm_source=git)** | Anniston, AL, United States | On Site | Nov 25 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[Case Manager Intern/Asheville NC](https://jobright.ai/jobs/info/6a3d79ca78237a036d5e18a6?utm_campaign=1054&utm_source=git)** | Asheville, NC, United States | Hybrid | Nov 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Episcopal Community Services](https://www.ecscalifornia.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b074360fbcb892eea5e1d5e?utm_campaign=1054&utm_source=git)** | National City, CA, United States | On Site | Nov 24 |
 | **[Lennox AES](https://www.aescurb.com)** | **[Human Resource Intern - Summer 2027](https://jobright.ai/jobs/info/6ae10d861f9d9308370a72c4?utm_campaign=1054&utm_source=git)** | West Columbia, SC, United States | On Site | Nov 24 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b062cd30e7eacd1ea646a3e?utm_campaign=1054&utm_source=git)** | Brookshire, TX, United States | On Site | Nov 24 |
-| **[Robinhood](https://www.robinhood.com)** | **[People Partner Intern (Summer 2027)](https://jobright.ai/jobs/info/6af3b0cef6053e296fc7f4f3?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
-| **[National Heritage Academies](https://www.nhaschools.com)** | **[PS Employee Experience Intern NEX YR](https://jobright.ai/jobs/info/6b0617623e56157448ed3606?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | Remote | Nov 24 |
-| **[Pennsylvania Turnpike Commission](https://www.paturnpike.com/)** | **[Summer Employee Safety Intern](https://jobright.ai/jobs/info/6b0783d0953742e82620330c?utm_campaign=1054&utm_source=git)** | Middletown, PA, United States | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
