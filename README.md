@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RPIA Capital Management](https://www.rpia.ca)** | **[Intern, Workplace Experience & Administration](https://jobright.ai/jobs/info/6b09ab26aaf0c31c7c96f8b8?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 27 |
+| **[Daiichi Sankyo](https://daiichisankyo.us)** | **[Workplace Solutions (HR Shared Services) Intern](https://jobright.ai/jobs/info/6b09aa7fb80cc2b409d85305?utm_campaign=1054&utm_source=git)** | Basking Ridge, NJ, United States | On Site | Nov 27 |
 | **[BetaNXT](https://betanxt.com)** | **[Intern, Human Resources Operations & Projects](https://jobright.ai/jobs/info/6b09a5c4aaf0c31c7c96f779?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Nov 27 |
+| **[PACCAR](http://www.paccar.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6aeca3c53a3fa7f03ea879f6?utm_campaign=1054&utm_source=git)** | Chillicothe, OH, United States | On Site | Nov 27 |
 | **[Celestica](https://www.celestica.com)** | **[Student Intern, Human Resources (Global Compensation)](https://jobright.ai/jobs/info/6b089ec3cc765a1208d9cbad?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 27 |
 | **[Veltrana Group](veltranagroup.com)** | **[HR Technology Intern](https://jobright.ai/jobs/info/6b098fe4aaf0c31c7c96f023?utm_campaign=1054&utm_source=git)** | Bethlehem, PA, United States | On Site | Nov 27 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Spring 2027 WMG Emerging Talent Associate Program (Global Sync)](https://jobright.ai/jobs/info/6affa534b47661ae4a62e7f5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 27 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Human Resource Business Partner Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6acfa079c9f40bec907fd355?utm_campaign=1054&utm_source=git)** | Franklin, TN, United States | On Site | Nov 27 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: HR-Preboarding](https://jobright.ai/jobs/info/6aec9b90ab48a7079381cb58?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | Hybrid | Nov 27 |
 | **[Plaud](https://www.plaud.ai)** | **[Global Talent Acquisition - San Francisco （Intern / Contract）](https://jobright.ai/jobs/info/6a513459ae4052672fe97c19?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 27 |
 | **[Holland, L.P.](https://hollandco.com/)** | **[Summer 2027 Human Resources Intern](https://jobright.ai/jobs/info/6ae3c127eab1f96730976ed4?utm_campaign=1054&utm_source=git)** | University Park, IL, United States | Hybrid | Nov 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://jobright.ai/jobs/info/6a9752a5b22f636c814175b2?utm_campaign=1054&utm_source=git)** | New York | On Site | Nov 27 |
@@ -118,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Elk Valley Resources](http://www.evr.com)** | **[January 2027 Talent Management Co-op](https://jobright.ai/jobs/info/6a9741c5b22f636c81416fe1?utm_campaign=1054&utm_source=git)** | Sparwood, BC, Canada | On Site | Nov 25 |
 | **[Kalahari Resorts & Conventions](https://www.kalahariresorts.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6b078d8ee68b15bbbb5603ed?utm_campaign=1054&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Nov 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b07824cc4f040f478a43db8?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 25 |
-| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 25 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 25 |
+| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 25 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Benefits & Absence Intern](https://jobright.ai/jobs/info/6b07483b6c5083822fdc86b9?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 25 |
 | ↳ | **[Human Resources Information Systems Intern](https://jobright.ai/jobs/info/6b07484d6c5083822fdc86c9?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 25 |
 | **[Iceberg Finance](http://www.icebergfinance.ca)** | **[Bilingual Recruiter Intern (English/French)](https://jobright.ai/jobs/info/6aee6874d20350c7a507d010?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/6ab1b7e623005eee3545c5a3?utm_campaign=1054&utm_source=git)** | Abilene, TX, United States | On Site | Nov 25 |
 | ↳ | **[Spring 2027 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/6b071d526c5083822fdc6e99?utm_campaign=1054&utm_source=git)** | Burlington, VT, United States | On Site | Nov 25 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Carmel/Westfield](https://jobright.ai/jobs/info/6ace6441680c80c8753bc6fd?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 25 |
-| ↳ | **[Management Trainee Winter 2026 Internship](https://jobright.ai/jobs/info/6a96ae44b22f636c81413736?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA, United States | On Site | Nov 25 |
-| **[Versiti Blood Center of Illinois](https://www.versiti.org/)** | **[Student Intern - HR/Multicultural Outreach](https://jobright.ai/jobs/info/6b070b29b624dcc57de76da1?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
