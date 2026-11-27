@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: HR-Preboarding](https://jobright.ai/jobs/info/6aec9b90ab48a7079381cb58?utm_campaign=1054&utm_source=git)** | Columbia, MO, United States | Hybrid | Nov 27 |
 | **[Plaud](https://www.plaud.ai)** | **[Global Talent Acquisition - San Francisco （Intern / Contract）](https://jobright.ai/jobs/info/6a513459ae4052672fe97c19?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 27 |
 | **[Holland, L.P.](https://hollandco.com/)** | **[Summer 2027 Human Resources Intern](https://jobright.ai/jobs/info/6ae3c127eab1f96730976ed4?utm_campaign=1054&utm_source=git)** | University Park, IL, United States | Hybrid | Nov 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://jobright.ai/jobs/info/6a9752a5b22f636c814175b2?utm_campaign=1054&utm_source=git)** | New York | On Site | Nov 27 |
@@ -85,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - Mishawaka/South Bend](https://jobright.ai/jobs/info/6acebaffba99f15ef41269ef?utm_campaign=1054&utm_source=git)** | Mishawaka, IN, United States | On Site | Nov 26 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Digital HR Intern](https://jobright.ai/jobs/info/6aa3b7b5959a10d7230d37a7?utm_campaign=1054&utm_source=git)** | Westchester, IL, United States | On Site | Nov 26 |
 | **[Cemex US](http://www.cemex.com/)** | **[Internship Summer 2027 Human Resources Job Details / Cemex](https://jobright.ai/jobs/info/6af8cbcc5c0a9086f36137a3?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 26 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources - Information Systems Intern](https://jobright.ai/jobs/info/6a96274e9fcec54423731c4c?utm_campaign=1054&utm_source=git)** | Millsboro, DE, United States | On Site | Nov 26 |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources - Information Systems Intern](https://jobright.ai/jobs/info/6a9623769fcec54423731a86?utm_campaign=1054&utm_source=git)** | Millsboro, DE, United States | On Site | Nov 26 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Human Resources Intern - Summer 2027](https://jobright.ai/jobs/info/6aebb9f4fbe13dfb53df6dd1?utm_campaign=1054&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 26 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2027 Summer HR Intern - Jefferson City](https://jobright.ai/jobs/info/6a9667d669b865490a631d26?utm_campaign=1054&utm_source=git)** | Jefferson City, MO, United States | On Site | Nov 26 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Summer 2027 Internship - Human Resources](https://jobright.ai/jobs/info/6ab2ea83326574570a003ae1?utm_campaign=1054&utm_source=git)** | West Bend, WI, United States | Hybrid | Nov 26 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Elk Valley Resources](http://www.evr.com)** | **[January 2027 Talent Management Co-op](https://jobright.ai/jobs/info/6a9741c5b22f636c81416fe1?utm_campaign=1054&utm_source=git)** | Sparwood, BC, Canada | On Site | Nov 25 |
 | **[Kalahari Resorts & Conventions](https://www.kalahariresorts.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6b078d8ee68b15bbbb5603ed?utm_campaign=1054&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Nov 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b07824cc4f040f478a43db8?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 25 |
-| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 25 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 25 |
+| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 25 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Benefits & Absence Intern](https://jobright.ai/jobs/info/6b07483b6c5083822fdc86b9?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 25 |
 | ↳ | **[Human Resources Information Systems Intern](https://jobright.ai/jobs/info/6b07484d6c5083822fdc86c9?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 25 |
 | **[Iceberg Finance](http://www.icebergfinance.ca)** | **[Bilingual Recruiter Intern (English/French)](https://jobright.ai/jobs/info/6aee6874d20350c7a507d010?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship - Marion, IL](https://jobright.ai/jobs/info/6ab1b7b1d2a93d5a97ebc98f?utm_campaign=1054&utm_source=git)** | Marion, IL, United States | On Site | Nov 25 |
 | **[Rantec Power Systems Inc.](https://rantec.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af4a30acd7be4db20d87171?utm_campaign=1054&utm_source=git)** | Los Osos, CA, United States | On Site | Nov 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship - Cape Girardeau, MO](https://jobright.ai/jobs/info/6ab1b7e7f9692ca98b04b8fb?utm_campaign=1054&utm_source=git)** | Cape Girardeau, MO, United States | On Site | Nov 25 |
-| ↳ | **[Summer 2027 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/6ace64174391691a335ac51e?utm_campaign=1054&utm_source=git)** | Lafayette, IN, United States | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
