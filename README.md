@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soven Developer](https://sovendeveloper.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6b09f7525f0c27a3a3ced5c3?utm_campaign=1054&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 27 |
 | **[Fox Pest Control](https://fox-pest.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6af76ec9e3d8d612bf423566?utm_campaign=1054&utm_source=git)** | Logan, UT, United States | On Site | Nov 27 |
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Safety Coordinator Internship](https://jobright.ai/jobs/info/6ae4efc3d45dc30fb7d33bf7?utm_campaign=1054&utm_source=git)** | Monroe, WI, United States | On Site | Nov 27 |
 | **[WEP Clinical](http://www.wepclinical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6af5d24e80054650a5e7926d?utm_campaign=1054&utm_source=git)** | Morrisville, NC, United States | Remote | Nov 27 |
@@ -127,14 +128,13 @@ For a complete list, click the following sortable link below:
 | **[AlphaSights](http://www.alphasights.com)** | **[Talent Operations Intern, 2027](https://jobright.ai/jobs/info/6af4cef49144106c56a21861?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Nov 25 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA909: Human Resources Intern](https://jobright.ai/jobs/info/6a585cf272fe7a7b98dcddb2?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Human Resource Intern - Linthicum MD](https://jobright.ai/jobs/info/6b06300745a65b5da366f00f?utm_campaign=1054&utm_source=git)** | Linthicum, MD, United States | On Site | Nov 25 |
-| ↳ | **[2027 Human Resource Intern - Rolling Meadows IL](https://jobright.ai/jobs/info/6b062ff5460ce5352ae3eef5?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL, United States | On Site | Nov 25 |
 | ↳ | **[2027 Human Resources Intern - Linthicum MD](https://jobright.ai/jobs/info/6b06303e71c8f4e3660ec34b?utm_campaign=1054&utm_source=git)** | Linthicum, MD, United States | On Site | Nov 25 |
+| ↳ | **[2027 Human Resource Intern - Rolling Meadows IL](https://jobright.ai/jobs/info/6b062ff5460ce5352ae3eef5?utm_campaign=1054&utm_source=git)** | Rolling Meadows, IL, United States | On Site | Nov 25 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Human Resources Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6aff234aaea17e3f50eada70?utm_campaign=1054&utm_source=git)** | McKinney, TX, United States | On Site | Nov 25 |
 | **[ONroute](https://www.onroute.ca/)** | **[Human Resources Intern - ONroute](https://jobright.ai/jobs/info/6b08a2c20bd5d5fe945f5145?utm_campaign=1054&utm_source=git)** | Mississauga, ON, Canada | On Site | Nov 25 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6b0749996c5083822fdc87ca?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Nov 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Intern - West Indianapolis](https://jobright.ai/jobs/info/6ace644bbb78de94580d5d5b?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 25 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[People Team Internship - Summer 2027](https://jobright.ai/jobs/info/6b0775adfbcb892eea5e351d?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 25 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer Position)](https://jobright.ai/jobs/info/6b079c00bdbb485d4ec68a83?utm_campaign=1054&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 25 |
 | **[Elk Valley Resources](http://www.evr.com)** | **[January 2027 Talent Management Co-op](https://jobright.ai/jobs/info/6a9741c5b22f636c81416fe1?utm_campaign=1054&utm_source=git)** | Sparwood, BC, Canada | On Site | Nov 25 |
 | **[Kalahari Resorts & Conventions](https://www.kalahariresorts.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6b078d8ee68b15bbbb5603ed?utm_campaign=1054&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Nov 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b07824cc4f040f478a43db8?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
