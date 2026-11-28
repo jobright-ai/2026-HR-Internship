@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roy Rogers Restaurants](https://www.royrogersrestaurants.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6ae4e6d177c09cb3bd4b0043?utm_campaign=1054&utm_source=git)** | Frederick, MD, United States | On Site | Nov 27 |
 | **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Human Capital and Learning (Remote from DC, MD or VA)](https://jobright.ai/jobs/info/6b09c8165f0c27a3a3cecc71?utm_campaign=1054&utm_source=git)** | Maryland, United States | Remote | Nov 27 |
 | **[Jubilant Pharma Limited](http://www.jubilantpharma.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6b0a1dd262c6023db30238fd?utm_campaign=1054&utm_source=git)** | Greater Montreal Metropolitan Area, Canada | On Site | Nov 27 |
 | **[Plamondon Hospitality Partners](https://plamondonhospitalitypartners.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6ae4e5a877c09cb3bd4aff45?utm_campaign=1054&utm_source=git)** | Frederick, MD, United States | On Site | Nov 27 |
@@ -143,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Elk Valley Resources](http://www.evr.com)** | **[January 2027 Talent Management Co-op](https://jobright.ai/jobs/info/6a9741c5b22f636c81416fe1?utm_campaign=1054&utm_source=git)** | Sparwood, BC, Canada | On Site | Nov 25 |
 | **[Kalahari Resorts & Conventions](https://www.kalahariresorts.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6b078d8ee68b15bbbb5603ed?utm_campaign=1054&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Nov 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b07824cc4f040f478a43db8?utm_campaign=1054&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 25 |
-| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 25 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8e56da2a252e21942a9db?utm_campaign=1054&utm_source=git)** | Springdale, Arkansas, United States | On Site | Nov 25 |
+| ↳ | **[Human Resource Intern- Summer 2027](https://jobright.ai/jobs/info/6ae8ab8dfb2cd420ace676f4?utm_campaign=1054&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 25 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Benefits & Absence Intern](https://jobright.ai/jobs/info/6b07483b6c5083822fdc86b9?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 25 |
 | ↳ | **[Human Resources Information Systems Intern](https://jobright.ai/jobs/info/6b07484d6c5083822fdc86c9?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 25 |
 | **[Iceberg Finance](http://www.icebergfinance.ca)** | **[Bilingual Recruiter Intern (English/French)](https://jobright.ai/jobs/info/6aee6874d20350c7a507d010?utm_campaign=1054&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Safety Internship Program - New Jersey Region 2026 – 2027](https://jobright.ai/jobs/info/6b070f91fbcb892eea5dfde5?utm_campaign=1054&utm_source=git)** | Little Falls, NJ, United States | On Site | Nov 25 |
 | **[UPS](http://www.ups.com)** | **[MHR Intern - Labor Relations](https://jobright.ai/jobs/info/6ad293065290d4375c453cc9?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 25 |
 | **[Firestorm](https://www.launchfirestorm.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6b075ee82c2b1d2eebe14543?utm_campaign=1054&utm_source=git)** | San Diego, CA, United States | On Site | Nov 25 |
-| **[Kalahari Resorts & Conventions](https://www.kalahariresorts.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6b0757082c2b1d2eebe142d4?utm_campaign=1054&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
